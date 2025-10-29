@@ -1,0 +1,14 @@
+uuid: d43c236d-3f3f-41ed-85c4-ba6c1160f7a9
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.newsletter
+id: node_type_newsletter
+entity_type_id: node_type
+entity_id: newsletter
+action: display_page
+allow_override: 1
+redirect: ''
+redirect_code: 301
+redirect_fallback_action: access_denied

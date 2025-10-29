@@ -1,0 +1,8 @@
+uuid: 779b99e9-2b31-4a29-a134-a70cb53a50a5
+langcode: en
+status: true
+dependencies: {  }
+name: 'Case Series Fields'
+vid: case_series_fields
+description: 'Migrated from old site.'
+weight: 0

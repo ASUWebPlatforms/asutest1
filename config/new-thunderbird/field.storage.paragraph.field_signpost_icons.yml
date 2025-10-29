@@ -1,0 +1,90 @@
+uuid: f6e15ed0-cadd-4111-a9b4-3a7c5990ecd2
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - paragraphs
+id: paragraph.field_signpost_icons
+field_name: field_signpost_icons
+entity_type: paragraph
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: icon-thinking
+      label: Thinking
+    -
+      value: icon-books
+      label: Books
+    -
+      value: icon-brain
+      label: Brain
+    -
+      value: icon-chat-2
+      label: 'Chat 2'
+    -
+      value: icon-chat-3
+      label: 'Chat 3'
+    -
+      value: icon-chat
+      label: Chat
+    -
+      value: icon-diploma
+      label: Diploma
+    -
+      value: icon-grad-hat-1
+      label: 'Grad Hat 1'
+    -
+      value: icon-grad-hat
+      label: 'Grad Hat 2'
+    -
+      value: icon-graduate
+      label: Graduate
+    -
+      value: icon-graduates
+      label: Graduates
+    -
+      value: icon-hat-arrows
+      label: 'Hat Arrows'
+    -
+      value: icon-headphones
+      label: Headphones
+    -
+      value: icon-learning-1
+      label: 'Learning 1'
+    -
+      value: icon-learning-2
+      label: 'Learning 2'
+    -
+      value: icon-mobile
+      label: Mobile
+    -
+      value: icon-online-learning
+      label: 'Online Learning'
+    -
+      value: icon-open-book
+      label: 'Open Book'
+    -
+      value: icon-pencil
+      label: Pencil
+    -
+      value: icon-remote-learning
+      label: 'Remote Learning'
+    -
+      value: icon-digital-capital
+      label: 'Digital Capital'
+    -
+      value: icon-intellectual-capital
+      label: 'Intellectual Capital'
+    -
+      value: icon-globe
+      label: Globe
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

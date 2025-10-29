@@ -1,0 +1,34 @@
+display:
+  default:
+    display_title: મૂળભૂત
+    display_options:
+      fields:
+        amount__number:
+          separator: ', '
+        refunded_amount__number:
+          separator: ', '
+        avs_response_code_label:
+          separator: ', '
+        avs_response_code:
+          separator: ', '
+        state:
+          separator: ', '
+        payment_gateway:
+          separator: ', '
+        authorized:
+          separator: ', '
+        completed:
+          separator: ', '
+        remote_id:
+          separator: ', '
+        operations:
+          label: ક્રિયાઓ
+      exposed_form:
+        options:
+          submit_button: 'લાગુ કરો'
+      arguments:
+        order_id:
+          exception:
+            title: બધા
+  page_1:
+    display_title: પ્રુષ્ઠ

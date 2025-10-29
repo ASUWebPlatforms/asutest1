@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 49c17cf8-75ae-45c9-9cd0-e6b7c1d8f30e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:53:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Ricardo Semler and Semco S.A.'
+created:
+  -
+    value: '2016-07-27T23:53:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:53:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-98-0024
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case introduces Ricardo Semler, CEO of Brazil''s Semco S.A., one of the world''s most respected champions of organizational change. The case portrays the internal turmoil Semoco faces as ownership is passed from father to son, and the company reaches the decline stage of its business cycle. The radically changing Brazilian economy serves as the backdrop and provides a compounded sense of environmental chaos as the company evolves from a culture based on paternalistic, command-oriented management to a highly democratic, participative management structure.&nbsp;</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-98-0024
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: f80c9744-64f1-45cd-ad9b-82819b7ec21b
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: 'Brazil 1997'
+field_case_source:
+  -
+    value: 'Library Case'
+field_case_subject:
+  - {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6bdf80e6-f404-4a28-a834-026ba71a834a
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "The case is designed for classroom discussion of organizational design, leadership, and empowerment of employees. The case pays particular attention to the management philosophy of Ricardo Semler and introduces his brand of employee participative management structure, the lattice organization.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.f80c9744-64f1-45cd-ad9b-82819b7ec21b
+      - taxonomy_term.case_series_fields.6bdf80e6-f404-4a28-a834-026ba71a834a
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

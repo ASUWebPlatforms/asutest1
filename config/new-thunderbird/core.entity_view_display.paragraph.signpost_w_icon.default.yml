@@ -1,0 +1,55 @@
+uuid: 955e2c64-7d3f-4e50-8bab-0bd0c111579b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.signpost_w_icon.field_reduce_heading_size
+    - field.field.paragraph.signpost_w_icon.field_signpost_icon_body
+    - field.field.paragraph.signpost_w_icon.field_signpost_icon_link
+    - field.field.paragraph.signpost_w_icon.field_signpost_icons
+    - field.field.paragraph.signpost_w_icon.field_signpost_title
+    - paragraphs.paragraphs_type.signpost_w_icon
+  module:
+    - link
+    - options
+    - text
+id: paragraph.signpost_w_icon.default
+targetEntityType: paragraph
+bundle: signpost_w_icon
+mode: default
+content:
+  field_signpost_icon_body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_signpost_icon_link:
+    type: link
+    label: hidden
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_signpost_icons:
+    type: list_key
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_signpost_title:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  field_reduce_heading_size: true

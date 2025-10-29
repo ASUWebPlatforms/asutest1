@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: 2f76d02c-54c2-475a-ab42-b7d20328ed23
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-02-05T22:46:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Coda Coffee and bext360 Supply Chain: Machine Vision, AI, IoT, and Blockchain'
+created:
+  -
+    value: '2019-02-05T22:46:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-05T22:46:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-18-0012
+body:
+  -
+    value: '<p>Coda Coffee’s commitment to ethical coffee came at a high cost. The company paid three times the commodity exchange rate for raw coffee beans, or cherries. By late 2018, their supply chains reached from Denver all across the world. Could AI, machine vision, blockchain, IoT help Coda Coffee, and in turn, their customers, receive assurance that this premium pricing translated into fairer wages for farmers? It is this assurance that Coda continually strived for through the relationships they built and the methods of sourcing they pursued.<br>This case describes a partnership between relatively new Coda Coffee and bext360, a technology startup, to leverage Industry 4.0 technologies to ensure greater transparency in Coda Coffee’s supply chain. Specifically, the case addresses the motivation behind conducting a pilot study in Uganda.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-18-0012
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author: {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: be3de8d4-3227-4bf9-91b1-239608a0caeb
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: 'United States'
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: b71a9a39-be4c-4214-bb98-e5519a51520b
+  -
+    target_type: taxonomy_term
+    target_uuid: 6391f3e0-cc24-4aac-b25e-2c102f22e8c3
+field_teaching:
+  -
+    value: "The case can be used to stimulate discussion about the strengths and limitations of Fair Trade certification and how companies can go beyond Fair Trade with their own certification programs supplemented by increased supply chain transparency.  The case can also be used to generate discussion about how Industry 4.0 technologies can serve both business and the greater good. \r\n•\tTo understand the value of Fair Trade and internal certifications aimed at achieving transparent and ethical supply chains.\r\n•\tTo examine, through a specific example, how Industry 4.0 technologies (machine vision, AI, blockchain and IoT) can be applied to increase supply chain transparency and speed payment to financially underprivileged suppliers. \r\n•\tTo debate and better understand the value of a software as a service (SaaS) solution such as that provided by bext360 to different stakeholders along the supply chain.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.be3de8d4-3227-4bf9-91b1-239608a0caeb
+      - taxonomy_term.case_series_fields.b71a9a39-be4c-4214-bb98-e5519a51520b
+      - taxonomy_term.case_series_fields.6391f3e0-cc24-4aac-b25e-2c102f22e8c3

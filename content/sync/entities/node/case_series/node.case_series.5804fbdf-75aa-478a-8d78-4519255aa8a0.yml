@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: 5804fbdf-75aa-478a-8d78-4519255aa8a0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T19:41:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Selfless, Candid, and Quick: Is That All There Is to Crisis Management?'
+created:
+  -
+    value: '2016-07-26T19:41:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T19:41:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-05-0016
+body:
+  -
+    value: '<p>In 1982, seven people died after taking cyanide-laced Tylenol capsules. It was a potential disaster for the brand as well as for its parent company, Johnson &amp; Johnson. For 60 days, J&amp;J worked through the thorny issues of how to overcome this tragedy and regain consumer confidence. J&amp;J''s exemplary handling of the situation is often cited as having set the standard for crisis management.</p><p>Over time, the lessons from J&amp;J have been reduced to: "put the public interest before profits, be candid, and be quick." The actual details of J&amp;J''s activities have been lost or ignored, as have the real lessons about what it takes to recapture the consumer''s trust and loyalty. This case provides an account of the day-to-day activities that made J&amp;J''s response effective.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-05-0016
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: 'U.S., Europe, India'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+  -
+    target_type: taxonomy_term
+    target_uuid: d8547857-6975-4645-ae89-763df74566c2
+field_teaching:
+  -
+    value: "This case is not meant to be used in isolation, but as a point of departure for thinking about what J&J did, why it worked, and most important, how this incident differs from other crisis situations. In addition to the case, students should be assigned to read selected articles about a current crisis. In the teaching note for this case, we use as a comparison Coca-Cola's handling of crisis situations in Europe and India.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946
+      - taxonomy_term.case_series_fields.d8547857-6975-4645-ae89-763df74566c2

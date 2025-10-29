@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 91bbc5c9-0dbc-4ebd-a36c-c0da649ce854
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:28:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'Creating Value through Innovation, Ownership and Opportunity'
+created:
+  -
+    value: '2016-11-01T17:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:28:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/innovation-ownership-opportunity
+body:
+  -
+    value: "<p style=\"text-align: center;\">[[{\"fid\":\"4021\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Creating Value\",\"field_file_image_title_text[und][0][value]\":\"Creating Value\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Creating Value\",\"field_file_image_title_text[und][0][value]\":\"Creating Value\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Creating Value\",\"title\":\"Creating Value\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Much has been made of the resurgence of oil and gas production in the United States over the past decade. Despite the collapse of oil prices two years ago, U.S. oil production has sustained production levels close to peak output (down 8% from the peak in 2015). Yet if one were to read the popular business press, most of this resurgence is attributed to technological change – horizontal drilling and fracking. In our opinion, many analysts and commentators have missed the most important driver of U.S. oil production growth - the unique combination of innovation, ownership, and opportunity.</p>\r\n<p><strong>INNOVATION </strong></p>\r\n<p>Innovation and technological change have been very important in the growth of U.S. oil and gas production. Independents such as Devon Energy, Continental Resources, EOG, Mitchell Energy, and XTO worked for years to make hydraulic fracturing of shale oil and gas commercially viable. None of these firms invented fracking—the technology was developed in the 1940s. These firms did what most entrepreneurs do. They worked with, and improved upon, existing technologies. They raised capital from investors, they failed at first, and often multiple times, and then tried again. The result was a huge increase in oil and gas production in regions like North Dakota and Pennsylvania, as well as previously dried-up areas of Oklahoma and Texas. Innovation is behind growing production onshore and offshore, with Gulf of Mexico production continuing to grow. There are many countries, such as Argentina, Algeria, China, and Russia, with huge deposits of tight or unconventional shale oil and gas. So why is this same innovation not driving new development in other countries? The answer lies in the other two pieces of value creation – ownership and opportunity.</p>\r\n<p><strong>OWNERSHIP</strong></p>\r\n<p>The State (i.e., not private citizens) owns, controls access, and licenses most oil and gas activities in almost every country. The U.S. is one of the few countries that allows ownership and development of natural resources, including oil and gas, by private interests. This private ownership has created a very different competitive landscape in the United States.&nbsp;</p>\r\n<p><strong>Access:</strong>&nbsp;Ownership of mineral rights in the U.S. follows property rights law. Private ownership of land and accompanying mineral rights are in the hands of private owners. Oil and gas resources are not the exclusive property of the State. This means that private interests do not require permission or charge by a State-directed government body to explore and develop – at their own cost and risk. Private parties, from property holders to rights seekers, are free to negotiate and contract and interact in a market without a single government bureaucracy directing their activities. The market, with hundreds of individual participants and players, is the U.S. driver.&nbsp;</p>\r\n<p><strong>Infrastructure:</strong>&nbsp;Oil and gas development requires a substantial amount of infrastructure and capital investment. Drilling rigs and associated production equipment are needed on-site, and yet must be moved relatively quickly for their effective use and deployment in the field. Oil and gas, once produced, need access to appropriate transportation facilities and providers (pipelines and railroads) to monetize the product. The U.S. enjoys a substantial advantage in already possessing an extremely well developed network of railroads, pipelines, and interstate highways providing much-needed transport. This infrastructure was developed by private companies in response to market demand and customer needs. In contrast, in the world’s major oil and gas producing nations, the entire value chain from production to gas stations is often controlled by governments with limited incentives for market development.</p>\r\n<p><strong>OPPORTUNITY</strong></p>\r\n<p>The U.S. is the land of opportunity—an old cliché, rolled out every election cycle. But that cliché is reality—the opportunities in the U.S. oil and gas sector are greater than in any other country. With an open marketplace, private interests are welcome to try their hand at risk and return. Business opportunities in most oil and gas producing nations are a function of State-based development plans executed through a government owned and directed national oil company, subject to changing political leadership cycles and budget restrictions. Companies enter and exit with the approval or charge of government bodies and not necessarily for competitive reasons. And government has never been known for innovation or efficient execution. Central control over the industry is a poor substitute for the wide-open entrepreneurial U.S. industry – one that has been characterized by a cowboy mentality (the wildcatter) for more than a century. In most countries today, oil and gas operators are in many ways under contract not to fail. In the U.S., failure is always an option. As we teach in business, much is learned through failure. The typical state-controlled national oil company cannot fail because it can always be bailed out by the state. These firms have a set of objectives that are often at cross-purposes, such as maximizing oil and gas production, achieving energy security for the nation, generating revenue and profit, and employing nationals. The private sector company must generate a return on its owner’s capital, which means taking measured risks in order to compete and survive, and cutting costs when resource prices fall.</p>\r\n<p>Oil and gas development requires a combination of skilled and unskilled labor and various labor service providers. In a large, well developed, and experienced oil and gas labor market like the U.S., this can be an overwhelming competitive advantage. Although industry labor has always been highly mobile, the cost and efficacy of moving that labor across states in the U.S., versus moving that labor from the U.S., UK, or Australia to the South Pacific, Central or Sub-Saharan Africa, or Central Asia on a rotational basis is an enormous advantage. The labor supply and employment numbers do go up and down depending on the business or price cycle; that is the discipline and dynamics of the market. In the current down market, U.S. oil and gas industry employment has dropped by nearly 150,000 jobs. In countries with state-controlled industries, reducing employment is almost impossible, which means productivity increases are equally impossible.&nbsp;</p>\r\n<p><strong>CREATING VALUE </strong></p>\r\n<p>Recent industry data illustrate how the combination of innovation, ownership and property rights, and opportunity continues to create value and drive the industry forward. Consider just one industry indicator —rig count. The total rig count (including both oil and natural gas) in the U.S. has declined from nearly 1,800 rigs in the fall of 2014 to a low of 404 rigs in May of this year. Yet production has fallen only marginally, demonstrating the relentless push by market players to innovate in order to cut operating and capital costs and survive in a world of $40-a-barrel oil. According to the U.S. Energy Information Agency, new-well oil production per rig in 2016 is more than twice what it was only three years ago in areas such as the Bakken (North Dakota), Eagle Ford (Texas), and Permian (Texas) fields.</p>\r\n<p>Growing offshore crude oil production in the Gulf of&nbsp;Mexico has also helped to offset declines in Lower 48 onshore production. The global oil and gas industry has, for more than a century, been truly global. In an industry that has evolved and developed between private parties and government players, value has been largely driven by the entrepreneurial risk-takers driven by innovation, ownership, and opportunity. The resurgence of the U.S. industry is a manifestation of this maturation. No longer dominated purely by ownership of the cheap oil and gas by geology, the global industry is now reflecting the full breadth of business forces, where differing combinations of resource quality, entrepreneurial opportunity, and a relentless innovative spirit offer new ways to compete. Meanwhile, the OPEC countries and other state controlled oil producers hemorrhage cash and struggle to adjust to a much lower price environment. What does global business have to say about who will succeed?</p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1024
+    height: 512
+    target_type: file
+    target_uuid: 7af48e41-e10c-4c1b-8fc5-5820b973778a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f958611c-a8ea-4ee0-9285-4095ff22667a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.7af48e41-e10c-4c1b-8fc5-5820b973778a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f958611c-a8ea-4ee0-9285-4095ff22667a

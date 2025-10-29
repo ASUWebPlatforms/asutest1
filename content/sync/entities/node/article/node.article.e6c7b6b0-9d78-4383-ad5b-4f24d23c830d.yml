@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: e6c7b6b0-9d78-4383-ad5b-4f24d23c830d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-04-29T20:14:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Using the Fourth Industrial Revolution to Fight COVID-19 Around the World'
+created:
+  -
+    value: '2020-04-29T19:29:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-29T20:14:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/using-fourth-industrial-revolution-fight-covid-19-around-world
+body:
+  -
+    value: '<p>[[{"fid":"82071","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false},"link_text":null,"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false},"2":{"format":"default","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false}},"attributes":{"class":"media-element file-default","data-delta":"2"}}]]By <a href="https://thunderbird.asu.edu/node/7789">Dr. Landry Signé, </a><a href="https://thunderbird.asu.edu/sanjeev-khagram">Dr. Sanjeev Khagram</a>, and Julia Goldstein</p><p><span>From artificial intelligence for medical diagnostics to mobile technology for data collection and contact tracing, technologies associated with the&nbsp;</span><a href="https://www.weforum.org/focus/fourth-industrial-revolution" target="_blank">Fourth Industrial Revolution</a><span>&nbsp;offer efficient and effective ways to cope with the speed, scope, and impact of the COVID-19 pandemic. But these technologies are far from evenly distributed around the world, and this leaves lagging countries and their vulnerable populations at a considerable disadvantage in their capacity to decrease the risk and slow the transmission of the disease.</span></p><p><span>Read more of this article at <a href="https://www.brookings.edu/techstream/using-the-fourth-industrial-revolution-to-fight-covid-19-around-the-world/">Brookings</a></span></p>'
+    format: basic_html
+    processed: ''
+    summary: 'From artificial intelligence for medical diagnostics to mobile technology for data collection and contact tracing, technologies associated with the Fourth Industrial Revolution offer efficient and effective ways to cope with the speed, scope, and impact of the COVID-19 pandemic. But these technologies are far from evenly distributed around the world, and this leaves lagging countries and their vulnerable populations at a considerable disadvantage in their capacity to decrease the risk and slow the transmission of the disease.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2000
+    height: 1125
+    target_type: file
+    target_uuid: 89cb7556-f946-4bc6-a681-16d6ca06a6ac
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_insight_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 206b9083-31c1-484b-99c5-734e8b1c360c
+field_related_thought_leaders:
+  -
+    target_type: taxonomy_term
+    target_uuid: 901edbc0-31f6-4876-b3a4-e67eb3eeeb39
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.89cb7556-f946-4bc6-a681-16d6ca06a6ac
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+      - taxonomy_term.kn_thought_leaders.901edbc0-31f6-4876-b3a4-e67eb3eeeb39

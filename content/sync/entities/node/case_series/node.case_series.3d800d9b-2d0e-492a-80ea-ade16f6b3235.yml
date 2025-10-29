@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 3d800d9b-2d0e-492a-80ea-ade16f6b3235
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T23:14:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Can 7-Eleven Succeed In Germany?'
+created:
+  -
+    value: '2016-07-26T23:14:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T23:14:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-03-0020
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Seven-Eleven has expanded into Europe, but not Germany-the largest market in Europe. This case describes the German retailing environment, shopping behavior, and the competition. The primary question this case addresses is whether 7-Eleven could succeed in Germany given the cultural environment, e.g., the limited shopping hours. Other topics include the need to adapt to local culture and environmental factors such as labor laws, limitations on facilities and parking, and the local competition.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-03-0020
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: fbb454b4-09b8-4097-be5d-3aef8b1a4baa
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: Germany
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "Introductory discussion of regional culture plus language issues when entering a new market; develop sensibility to the importance of assumptions and perceptions and the impact of cultural differences on business decisions. For introductory course in international marketing, franchising, or for a business German class (in German) or a course on German/European business culture.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.fbb454b4-09b8-4097-be5d-3aef8b1a4baa
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

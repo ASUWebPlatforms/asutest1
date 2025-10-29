@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 26105cb2-b81d-4912-93c8-f290587f6ba9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-07T23:08:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Go Global'
+created:
+  -
+    value: '2017-01-10T16:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-07T23:08:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/go-global
+body:
+  -
+    value: "<p>[[{\"fid\":\"4045\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Tbirds in Sedona\",\"field_file_image_title_text[und][0][value]\":\"Tbirds in Sedona\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Tbirds in Sedona\",\"title\":\"Tbirds in Sedona\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><span style=\"font-family: Times New Roman;\">By Gloria Pan,</span><!--?xml:namespace prefix = \"o\" ns = \"urn:schemas-microsoft-com:office:office\" /--></p>\r\n<p><span style=\"font-family: Times New Roman;\">Why do people leave their home countries? Most Tbirds have come to Glendale from all over the world. Why take this road, a road that is never easy? It encumbers us with burdens physical, financial, and emotional. This inspired me to review my reasons for leaving my own home. As a member of the World Academy for the Future of Women, I took to heart our oath to go beyond personal boundaries.</span></p>\r\n<p><span style=\"font-family: Times New Roman;\">This last winter, seven of the Academy alums celebrated Christmas together in Phoenix, five master students and two visiting. There will be two more undergraduates coming to do an internship. Our lives had been changed momentously with the inspiration from the WAFW.</span></p>\r\n<p><span style=\"font-family: Times New Roman;\">I would not have imagined I would be standing on the soil of a foreign country on the other side of the world, seven years ago, before I joined the Academy. This ripple effect had led and will continue to lead others to leave the familiar and venture into the unknown. Here at Thunderbird I find fulfillment that exceeds my dreams. Overcoming the emotional impact of my peregrinations takes time, and is often difficult. However, I would not do it differently. the hope for my future and the excitement of the adventure continues to encourage me to continue on this road. I certainly encourage others to do the same and go global!</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-family: Times New Roman;\">&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\">&nbsp;</span></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: 1429a8aa-9fc9-4fe4-b74c-d2082cf98bcb
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.1429a8aa-9fc9-4fe4-b74c-d2082cf98bcb
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

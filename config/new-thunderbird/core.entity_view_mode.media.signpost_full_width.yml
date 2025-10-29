@@ -1,0 +1,10 @@
+uuid: f0eec6f0-1a1b-4080-81c5-e807f654fc15
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.signpost_full_width
+label: 'Signpost full-width'
+targetEntityType: media
+cache: true

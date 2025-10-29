@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 298443cc-0f55-41aa-9323-65f13733ef8d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:38:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'TAEQ: Premium Lifestyle Private Brand (B)—Grupo Éxito (Colombia)'
+created:
+  -
+    value: '2016-07-16T00:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:38:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-12-0006
+body:
+  -
+    value: '<p><span>TAEQ was a new branding concept introduced in the Brazilian retail market by Grupo Pão de Açucar. The name represented a combination of two concepts associated with modern wellness: tao, representing balance and naturalness, and eki, representing vital energy. TAEQ was developed to become one of the leading private brands and a new business venture in the Grupo Pão de Açúcar (GPA) portfolio. One year after the successful launching in Brazil, the TAEQ brand was launched in Colombia by Grupo Exito, the largest retail player in Colombia. Both companies were members of France’s Groupe Casino global retail network.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-12-0006
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: 'Geographic 2009'
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "• To understand private brands and their role in modern retailing\r\n• To examine the process of regionalization of the TAEQ brand and business concept\r\n• To explore the role that private brands play in a retailer’s strategy\r\n• To evaluate the complexities of replicating the TAEQ business across international markets—from supplier selection to in-store consumer experience"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

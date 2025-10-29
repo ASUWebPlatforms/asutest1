@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 1ed1d887-d92c-4d55-928d-394a17fd62b8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:01:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Speeding Progress for Women in the Boardroom & Beyond'
+created:
+  -
+    value: '2018-03-19T15:12:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:01:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/b-schools-role-speeding-progress-women-boardroom-beyond
+body:
+  -
+    value: "<p>[[{\"fid\":\"14288\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Speeding Progress for Women in the Boardroom &amp; Beyond\",\"field_file_image_title_text[und][0][value]\":\"Speeding Progress for Women in the Boardroom &amp; Beyond\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Speeding Progress for Women in the Boardroom &amp; Beyond\",\"field_file_image_title_text[und][0][value]\":\"Speeding Progress for Women in the Boardroom &amp; Beyond\"}},\"attributes\":{\"alt\":\"Speeding Progress for Women in the Boardroom &amp; Beyond\",\"title\":\"Speeding Progress for Women in the Boardroom &amp; Beyond\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>A seat at the table. A say in the decision. If participation equals representation, then <a href=\"https://thunderbird.asu.edu/knowledge-network/women-board-global-solution\">boardrooms around the world need to do better</a>. They need more women.</p>\r\n<p>But aren’t women closing the gender gap in business leadership? In 2017, the <i>Fortune 500</i> list included 32 companies with female CEOs. This was a big jump from the previous year (21 companies) and marked the highest proportion of female CEOs in the list’s six-decade history.</p>\r\n<p>So yes, the gap is closing, but ever so slowly. After all, 32 woman-run companies is only 6.4 percent of the <i>Fortune 500</i>. (And the number will soon be down to 24, according to <a href=\"http://fortune.com/2017/06/07/fortune-500-women-ceos/\"><i>Fortune</i></a>.)</p>\r\n<p>Citing research by Mercer, <a href=\"https://www.economist.com/whichmba/gender-imbalance-business-business-school\"><i>The Economist</i></a><i> </i>describes the progress made versus the progress yet to come:</p>\r\n<p>“The proportion of women diminishes on the journey from the cubicle to the corner office. One third of managers in the businesses Mercer surveyed are women. Move up a level to senior management, and that share drops to one in four. <i>Just one in five executives are women</i>.”<i></i></p>\r\n<p>Another survey <i>The Economist </i>cited found that 60 percent of firms had no women on their board, half had no female executives in the C-suite, and one in three businesses had neither.</p>\r\n<blockquote>\r\n<p>“Boardrooms around the world need to do better. They need more women.” <i>– <a href=\"https://ctt.ec/Hm8ZG\">Click to tweet</a></i><a href=\"#_msocom_1\" id=\"_anchor_1\" name=\"_msoanchor_1\"><br></a></p>\r\n</blockquote>\r\n<h3>Tearing down barriers</h3>\r\n<p>In her bestseller <i>Lean In,</i> <a href=\"https://www.forbes.com/profile/sheryl-sandberg/\" target=\"_blank\">Facebook COO Sheryl Sandberg</a> describes this challenge as “the ultimate chicken and the egg situation. The chicken: Women will tear down the external barriers once we achieve leadership roles. The egg: We need to eliminate the external barriers to get women into those roles in the first place.”</p>\r\n<p>If the key to breaking that egg is a business education - that's happening. Female B-school enrollment numbers are solid, although there’s room to grow. Today, nearly four in every 10 graduates of MBA programs in the United States are women, according to the <a href=\"http://www.aacsb.edu/\" target=\"_blank\">Association to Advance Collegiate Schools of Business</a>.</p>\r\n<p>Business schools are actively recruiting female students, recruiting more female professors, offering scholarships and mentorship programs, and conducting other outreach to speed progress for women in business overall.</p>\r\n<p>But will more women with business degrees mean more women in boardrooms? Not automatically, says Thunderbird School of Global Management <a href=\"https://thunderbird.asu.edu/jeffrey-cunningham\">professor Jeff Cunningham</a>. A former publisher of Forbes and a former CEO, Cunningham has served on the boards of 10 public companies. Cunningham <strong>says </strong>board tenure and the average board size (8-10 directors) are among the factors that can be drags on change.</p>\r\n<p class=\"grafgraf--p\">“The turnstile moves slowly,” he writes in his article \"<a href=\"/node/2904\">Women in the Boardroom: A Guide for Journalists.</a>\" \"Turnover is complicated by tenure and the fact that directors don’t leave boards prematurely. In fact, they may never leave until retirement, which hovers around age 75. Term limits and earlier retirement ages are answers [to getting more women at the table], but expanding boards and developing a two-tiered board structure would help as well.”</p>\r\n<blockquote>\r\n<p>“Will more women with business degrees mean more women in boardrooms? Not automatically.” <i>– <a href=\"https://ctt.ec/cSKQe\">Click to tweet</a></i></p>\r\n</blockquote>\r\n<h3>More women leaders, better results</h3>\r\n<p>Outside the business world, women’s representation in leadership makes a proven difference. <a href=\"http://www.unwomen.org/en\" target=\"_blank\">UN Women</a>, the United Nations organization dedicated to gender equality and women’s empowerment, points to research showing that women's leadership in political decision-making improves not only the processes but their outcomes.</p>\r\n<p>“Research on&nbsp;<em>panchayats&nbsp;</em>(local councils) in India, for example, discovered that the number of drinking water projects in areas with women-led councils was 62 percent higher than in those with men-led councils,” UN Women’s website says. “In Norway, a direct causal relationship between the presence of women in municipal councils and childcare coverage was found.”</p>\r\n<blockquote>\r\n<p>“More women in leadership will change the face of global business for the better.” <i>– <a href=\"https://ctt.ec/d0G25\">Click to tweet</a></i></p>\r\n</blockquote>\r\n<div>\r\n<div>\r\n<p>And yet,as of late 2017, only 11 women were serving as heads of state and 12 were serving as heads of government. So the work goes on.</p>\r\n</div>\r\n</div>\r\n<p>Whether in business, government, or any field, some advancements come rapidly while others lag. Getting women into roles of leadership, authority and influence is not just a good business decision, it's a good social, economic and future-looking decision.&nbsp;</p>\r\n<p>\"This isn’t a ‘go girl’ program, it is a life changer,\" says Cunningham. \"The problem is multi-factor and there won’t be a one-step solution to the problem. We must start, however, and the prescription needs to be bold and simple.\"</p>"
+    format: basic_html
+    processed: ''
+    summary: 'A seat at the table. A say in the decision. If participation equals representation, then boardrooms around the world need to do better. They need more women.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1280
+    target_type: file
+    target_uuid: 5bdbee90-7395-48d3-ba56-4bcdf9f5ceb6
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.5bdbee90-7395-48d3-ba56-4bcdf9f5ceb6
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

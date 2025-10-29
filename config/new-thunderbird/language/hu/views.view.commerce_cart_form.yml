@@ -1,0 +1,27 @@
+display:
+  default:
+    display_title: Mester
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Alkalmaz
+          reset_button_label: Alaphelyzet
+          exposed_sorts_label: Rendezés
+          sort_asc_label: Növ
+          sort_desc_label: Csökk
+      fields:
+        purchased_entity:
+          label: Tétel
+          separator: ', '
+        unit_price__number:
+          label: Ár
+          separator: ', '
+        remove_button:
+          label: Eltávolítás
+        total_price__number:
+          label: Mindösszesen
+          separator: ', '
+      arguments:
+        order_id:
+          exception:
+            title: Mind

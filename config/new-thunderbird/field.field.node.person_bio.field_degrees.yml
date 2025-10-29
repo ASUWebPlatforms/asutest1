@@ -1,0 +1,29 @@
+uuid: 72d8626d-fd0d-4cb7-87dd-4fec6a130b42
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_degrees
+    - node.type.degree
+    - node.type.person_bio
+id: node.person_bio.field_degrees
+field_name: field_degrees
+entity_type: node
+bundle: person_bio
+label: Degrees
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      degree: degree
+    sort:
+      field: title
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

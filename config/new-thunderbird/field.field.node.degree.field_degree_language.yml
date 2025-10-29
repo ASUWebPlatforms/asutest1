@@ -1,0 +1,21 @@
+uuid: 4894dc68-1a4a-4d7a-9c30-ba7d51342a41
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_degree_language
+    - node.type.degree
+  module:
+    - options
+id: node.degree.field_degree_language
+field_name: field_degree_language
+entity_type: node
+bundle: degree
+label: Language
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

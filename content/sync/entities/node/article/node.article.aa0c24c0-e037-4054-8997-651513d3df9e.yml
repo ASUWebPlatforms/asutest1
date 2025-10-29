@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: aa0c24c0-e037-4054-8997-651513d3df9e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:22:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+title:
+  -
+    value: 'Fight, Flee or Freeze? When Fear Churns in the Workplace.'
+created:
+  -
+    value: '2017-03-22T21:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:22:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/fight-flee-or-freeze-fear-in-workplace
+body:
+  -
+    value: "<div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"2690\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Fight or Flee\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Fight or Flee\",\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"alt\":\"Fight or Flee\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Thunderbird's Dr. Christine Pearson discusses workplace crises</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div>Full-scale organizational crises, dismal quarterly results, and even off-the-cuff negative comments by those in charge can kick-start fear in a workplace.&nbsp;</div>\r\n<div>&nbsp; &nbsp;</div>\r\n<div>When fear strikes, the physiology of survival readies individuals to fight, flee, or freeze. However, organizations expect employees to carry on, even when employees’ perceptions of personal or professional risks are acute and realistic. Even in the midst of unthinkable crises, workers are expected to continue to meet their typical performance targets. The prevalence and strength of this workplace norm cause employees to be very reluctant to admit that they are afraid.</div>\r\n<div>&nbsp; &nbsp; &nbsp;</div>\r\n<div>Nonetheless, it is essential to address fear at work because this negative emotion packs a wallop. Fear seizes individuals’ attention while simultaneously diminishing their objectivity. Being afraid can erode employees’ decision-making abilities and confidence. Fear stimulates catastrophic thinking, leading employees to replay the past, fret about the future, and disengage from the present. Being scared undermines employees’ tolerance for ambiguity and complexity, a crucial success factor for today’s competitive environment. Further, the negative impact of fear can linger long after dangers prove unfounded. In the meantime, studies I’ve worked on show that worried employees may attempt to unload their concerns on colleagues, setting off additional negative emotions across the workplace.</div>\r\n<div>When fear is engendered by coworkers or bosses, employees trim their time at work, accept fewer responsibilities, and accomplish less. When their fears are ignored, employees take action to protect themselves from the dangers that they recognize or imagine.</div>\r\n<div>&nbsp;&nbsp;</div>\r\n<div><strong>Rather than striking out at the individuals who scare them, employees often displace their negative reactions onto the organization that has failed to protect them.</strong></div>\r\n<div>&nbsp; &nbsp; &nbsp;&nbsp;</div>\r\n<div>If fear lingers, employees start looking for new jobs. In fact, of the negative emotions that Porath and I have tracked for more than two decades, fear is the emotion most likely to cause employees to quit, although they are unlikely to cite fear as the catalyst for their departure.</div>\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n<div>As individuals are unlikely to report their fears in the workplace, the burden is on executives to address this commonplace challenge. Nonetheless, some executives choose to ignore the problem of frightened employees or even deny or minimize the situation engendering fear in the first place. Others may recognize the cause of fear but leave the burden of dealing with it to those who are afraid, despite costly outcomes.</div>\r\n<div>&nbsp; &nbsp; &nbsp;</div>\r\n<h5>Two Essential Actions When Fear Churns&nbsp;<strong>&nbsp; &nbsp;</strong></h5>\r\n<div><ol>\r\n<li><strong>Deal with employee fear head-on.</strong> Action<span style=\"background-color: transparent;\"> is a powerful antidote to fear. Our research suggests that being frank and providing reasonable, realistic reassurance can signal that someone is in control. This awareness can help employees who are afraid. One executive described how he successfully approaches fear in the workplace: “I allow fearful employees to vent, and I try not to let their fear spiral out of control. I assure them as much as I can. I listen carefully to their concerns and honestly provide whatever facts I can.”<br>&nbsp; &nbsp; &nbsp;</span></li>\r\n<li><strong>Help employees avoid exaggerating perceived dangers.</strong> To keep fear from spinning out of control, be honest and upfront about challenges while infusing authentic enthusiasm about realistic opportunities and benefits that may lie ahead. Share your own concerns reasonably to ease others into discussing theirs. Encourage employees to gather facts and help them face their individual fears rather than slipping into the victim’s role, a perspective that engenders hopelessness and unhappiness.<br>&nbsp; &nbsp;&nbsp;</li>\r\n</ol></div>\r\n<div>A common source and stimulant of workplace anxiety is the rumor mill. My fellow researchers and I have observed managers and executives attempt to mitigate fear by withholding details of changes on the horizon. Rather than assuaging concerns, however, lack of information leads to speculation, often with worse outcomes than reality would hold. To ward off fear and avert this problem, over-communicate and find ways to recognize or reward those who persist despite their fears.</div>\r\n<div>&nbsp; &nbsp; &nbsp;</div>\r\n<div class=\"btn btn-gold\"><a href=\"http://sloanreview.mit.edu/article/the-smart-way-to-respond-to-negative-emotions-at-work/?utm_medium=referral&amp;utm_source=author&amp;utm_campaign=featmar17#ref9\">Read the Full Article</a></div>\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n<div><strong>About the Author</strong></div>\r\n<div>Christine M. Pearson is a professor of global leadership at the Thunderbird School of Global Management in Glendale, Arizona. &nbsp;A groundbreaking international business school for more than 70 years, Thunderbird is a unit of the Arizona State University Knowledge Enterprise.&nbsp;</div>\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n<div><strong>About the Research</strong></div>\r\n<div>This article draws on a stream of research that the author, in collaboration with coauthors, has carried out for more than two decades to understand how managers and employees handle the dark side of workplace behavior — from exceptional incidents involving organizational crises to commonplace uncivil interactions among employees.i All of the studies examined some aspect of the role of negative emotions.&nbsp;</div>\r\n<div>&nbsp; &nbsp;</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: 3e8f1946-780d-4126-8005-76c203b4cdc6
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115
+    file:
+      - file.image.3e8f1946-780d-4126-8005-76c203b4cdc6
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

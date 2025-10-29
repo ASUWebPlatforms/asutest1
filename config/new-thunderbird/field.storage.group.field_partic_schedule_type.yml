@@ -1,0 +1,27 @@
+uuid: bb9ba693-0253-4097-94ef-cabcdcadd2b5
+langcode: en
+status: true
+dependencies:
+  module:
+    - group
+    - options
+id: group.field_partic_schedule_type
+field_name: field_partic_schedule_type
+entity_type: group
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: immediately
+      label: Immediately
+    -
+      value: datetime
+      label: 'On a select date at a certain time'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,26 @@
+{#
+/**
+ * @file
+ * Default theme implementation for the checkout progress.
+ *
+ * Available variables:
+ * - steps: An array of steps, where each step has the following keys:
+ *   - id: The step ID.
+ *   - label: The step label.
+ *   - position: 'previous', 'current' or 'next'.
+ *
+ * @ingroup themeable
+ */
+#}
+<div class="checkout-progress-container">
+  <ul class="container checkout-progress d-flex clearfix mt-0 mb-0">
+    {% for step in steps %}
+      <li class="checkout-progress--step p-0">
+        {% if not loop.first%}
+          <span class="checkout-progress--division">/</span>
+        {% endif %}
+        <span class="checkout-progress--step__{{ step.position }}">{{ step.label }}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

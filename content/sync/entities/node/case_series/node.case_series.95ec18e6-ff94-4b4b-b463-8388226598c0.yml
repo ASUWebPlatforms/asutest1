@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: 95ec18e6-ff94-4b4b-b463-8388226598c0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:20:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Cadet Uniform Services'
+created:
+  -
+    value: '2016-07-27T22:20:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:20:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-99-0017
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case introduces Quetin Wahl, the founder and President of Toronto-based Cadet Uniform Services Ltd. Cadet was the third largest uniform cleaning company in the world and occupied a 10% share of the $300 million uniform-cleaning business in Canada. In 1993 Cadet was among the five companies awarded a Certificate of Merit under the federally-sponsored Canadian Awards for Business Excellence. The case studies the basic strengths of Cadet and what made the company one of the leading players in their industry.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-99-0017
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 691bd498-7bc8-46c5-b41f-c1e3319839cf
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'Canada, 1997'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  - {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: dfb75b01-ed2a-4294-b672-48c2e46282c4
+  -
+    target_type: taxonomy_term
+    target_uuid: 50dcfc3b-752f-4182-9e59-0edcd8b89ce4
+field_teaching:
+  -
+    value: "The case is designed for classroom discussion of corporate culture and HR systems (including hiring, training, and rewards), the basic ingredients in the company's phenomenal 20% annual growth in the past decade. The case focuses on the approach adopted by Wahl, which included using both monetary and non-monetary motivational drivers for the Customer Service Representatives (CSRs), as well as fostering employee entrepreneurship.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+      - taxonomy_term.case_series_industry.691bd498-7bc8-46c5-b41f-c1e3319839cf
+      - taxonomy_term.case_series_fields.dfb75b01-ed2a-4294-b672-48c2e46282c4
+      - taxonomy_term.case_series_fields.50dcfc3b-752f-4182-9e59-0edcd8b89ce4

@@ -1,0 +1,10 @@
+display:
+  default:
+    display_options:
+      fields:
+        placed:
+          label: তারিখ
+      arguments:
+        uid:
+          exception:
+            title: সমস্ত

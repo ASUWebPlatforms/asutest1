@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: b741744a-842c-4480-b241-1fae4b79ba44
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:31:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Netshoes.com: Major League E-tailer in Brazil'
+created:
+  -
+    value: '2016-07-16T00:24:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:31:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-13-0018
+body:
+  -
+    value: '<p><span>Netshoes is the largest online specialty retailer in Brazil, with sales approaching R$1b ($512m USD) in 2012, and annual growth next to 30%. With over 70% of its sales concentrated in the south of Brazil, the company has decided to expand internationally, simultaneously starting operations in Argentina and Mexico. Both countries have in common a passion for soccer, economic affluence, and urban density, and large populations. The fact, however, that there is a large unexploited market at home works against the internationalization decision. The competition by several larger players seeking to increase their scale of operations (brick and mortar, flash fashion sales) and the possibility of foreign players (e.g., Amazon.com) entering Brazil via acquisition represents a major competitive risk for Netshoes.com. In addition, the challenge is trying to recreate the customer experience and launch a new positioning strategy to compete in the multi-screen retail world.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-13-0018
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: f1b18d0a-ba6d-4af2-bb6f-26f131c3697d
+field_case_series_year:
+  -
+    value: '2013-01-01'
+field_case_setting:
+  -
+    value: 'Geographic 2012'
+field_case_source:
+  -
+    value: Private/Fields
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "To understand the e-commerce business models\r\nTo explore the requirements of effective customer experience in online shopping\r\nTo learn about the role of logistics in defining the customer experience\r\nTo evaluate the elements involved in the evolution from a transaction to a relationship orientation in a market defined by online communities."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.f1b18d0a-ba6d-4af2-bb6f-26f131c3697d
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

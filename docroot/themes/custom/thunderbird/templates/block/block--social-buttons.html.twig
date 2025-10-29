@@ -1,0 +1,6 @@
+{% set classes = [ 'social-icons' ] %}
+{% extends 'block.html.twig' %}
+{% block content %}
+  {{ attach_library('thunderbird/addthis-library') }}
+  <div class="addthis_inline_share_toolbox"></div>
+{% endblock %}

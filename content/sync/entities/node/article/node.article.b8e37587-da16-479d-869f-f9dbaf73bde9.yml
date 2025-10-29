@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: b8e37587-da16-479d-869f-f9dbaf73bde9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Takeaways from CGI-U'
+created:
+  -
+    value: '2011-04-26T23:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/takeaways-from-cgi-u
+body:
+  -
+    value: "<div><a href=\"/sites/default/files/styles/panopoly_image_original/public/kamlesh.jpg\"><span><img src=\"http://t4g.thunderbird.edu/modules/file/icons/image-x-generic.png\" title=\"image/jpeg\" alt=\"\" class=\"file-icon\">kamlesh.jpg</span></a></div>\r\n<p>by&nbsp;<strong>Kamlesh Rishyur MBA '11</strong></p>\r\n<p>The CGI-U meet was a fantastic networking experience as I had never imagined I would get a chance to connect with a lot of like minded individuals from across the world with a passion to create a meaningful impact on the world through their brilliant ideas. I found some excellent insights to further my project on environmental sustainability from student partners and entrepreneurs who were already doing wonderful work in the area that I was working on.</p>\r\n<p>The handshakes with Mr. Clinton made me feel that America is indeed a great land of opportunities and if you are talented, you will be rewarded and also engendered a sense of responsibility on my shoulders that I must do something big. My advice to all my fellow T-Birds is to think big, think global, and start taking some action, as merely having ideas is useless and most of all don't be discouraged by others because it is your idea.</p>\r\n<p>You will face lot of criticism, oppositions from many but guess what ....you are better than them! so protect your ideas and make a persuasive and a unique proposal to draw peoples attention to your project. Let your creative adrenalin flow and make a business case out of your imagination that would punctuate your MBA education and cross cultural learning at Thunderbird.</p>\r\n<p>A sneak peak at my idea :&nbsp;<a href=\"http://magiccart.wordpress.com/\" target=\"_blank\">Magic Cart</a>.... Like it! share it! and I almost forgot ..........Start thinking about your idea!</p>\r\n<p><em>Kamlesh Rishyur is a '11 MBA canidate at Thunderbird. His entrepreneurial venture is Magic Cart, which seeks to achieve massive reductions in global plastic bag usage. You can connect with him on&nbsp;<a href=\"http://www.facebook.com/pages/Magic-Cart/212881442061220\">Facebook</a>&nbsp;and&nbsp;<a href=\"http://www.linkedin.com/pub/kamlesh-rishyur/16/109/a\">LinkedIn</a>.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

@@ -1,0 +1,31 @@
+display:
+  default:
+    display_title: Default
+    display_options:
+      fields:
+        user_bulk_form:
+          label: 'Bulk update'
+        name:
+          label: ชื่อผู้ใช้งาน
+        status:
+          label: สถานะ
+        roles_target_id:
+          label: Roles
+        operations:
+          label: Operations
+      pager:
+        options:
+          tags:
+            first: '« first'
+            last: 'last »'
+      exposed_form:
+        options:
+          reset_button_label: Reset
+      filters:
+        status:
+          group_info:
+            label: สถานะ
+  page_1:
+    display_options:
+      menu:
+        title: ดูลิสต์

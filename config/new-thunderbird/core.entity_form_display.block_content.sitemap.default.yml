@@ -1,0 +1,29 @@
+uuid: fd806180-7d41-44f0-9a72-26051a3568e1
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.sitemap
+    - field.field.block_content.sitemap.body
+id: block_content.sitemap.default
+targetEntityType: block_content
+bundle: sitemap
+mode: default
+content:
+  info:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+hidden:
+  body: true

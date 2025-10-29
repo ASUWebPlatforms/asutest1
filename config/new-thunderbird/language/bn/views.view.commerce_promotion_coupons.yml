@@ -1,0 +1,19 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: ফিল্টার
+      fields:
+        code:
+          label: কোড
+        operations:
+          label: কার্যাবলী
+      filters:
+        code:
+          expose:
+            label: কোড
+      arguments:
+        promotion_id:
+          exception:
+            title: সমস্ত

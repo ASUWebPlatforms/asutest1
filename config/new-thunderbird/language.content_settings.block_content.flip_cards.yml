@@ -1,0 +1,18 @@
+uuid: b65a2b43-82b1-4b0a-97e3-db4e28f6e84a
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.flip_cards
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: block_content.flip_cards
+target_entity_type_id: block_content
+target_bundle: flip_cards
+default_langcode: site_default
+language_alterable: false

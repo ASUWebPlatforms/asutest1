@@ -1,0 +1,77 @@
+uuid:
+  -
+    value: b70eff7d-9c02-4997-92ac-6ce8b479ea89
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-30T21:08:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Chapter Connections - October 2016'
+created:
+  -
+    value: '2016-10-16T00:54:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-30T21:08:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/chapter-connections-oct-2016
+body:
+  -
+    value: "<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016sydney_0.png?itok=CEQrFtjk\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"1\" data-fid=\"3357\" data-media-element=\"1\"><br></strong></p>\r\n<p><strong>Sydney</strong> - October First Tuesday</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016newyork.png?itok=-GtrpVAE\" title=\"\" alt=\"New York\" class=\"panopoly-image-original media-element file-default\" data-delta=\"2\" data-fid=\"3354\" data-media-element=\"1\"><br></strong></p>\r\n<p><strong>New York City</strong> – October First Tuesday.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016hyderabad.png?itok=6CSAbrnK\" title=\"\" alt=\"Hyderabad\" class=\"panopoly-image-original media-element file-default\" data-delta=\"3\" data-fid=\"3355\" data-media-element=\"1\"><br></strong></p>\r\n<p><strong>Hyderabad</strong> – October T-bird gathering.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016paris_0.png?itok=9SFVEs6u\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"4\" data-fid=\"3358\" data-media-element=\"1\"><br></strong></p>\r\n<p><strong>Paris</strong> - September 20, alumni gathering with Patrick McDermott Chief Engagement Officer and Chelsea Olson ’13 Executive Director Office of the CEO/Director General at Thunderbird.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016stamford.png?itok=9bj7HZJ8\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"5\" data-fid=\"3359\" data-media-element=\"1\"><br></strong></p>\r\n<p><strong>Stamford</strong> - Had a great T-bird Potluck BBQ at the home of Jarl and Kelly Anerud ’82.&nbsp; Complete with a 70th Thunderbird anniversary celebration cake!&nbsp; T-birds from class of 1973 to 2014 were gathered for a great evening!</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016milwaukee.png?itok=fiszTh6P\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"6\" data-fid=\"3360\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Milwaukee</strong> - Top Left to Right: Catherine Deschamps-Potter (friend of TBirds), Terry Brown (TBird), Ken Wasylek (Tbird), Saumil Mehta (TBird), Michael Oemichen (TBird), Skippers Bob and Barry. Bottom Left to Right: Kristy Casey (Friend), Greg Olson (TBird), Alexandra Sielaff (Chapter leader, TBird), Calilxta Munene, (TBird), Dee Wasylek (spouse), Jodi Schneider (TBird), Jill Oemichen (Spouse).</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016seoul.png?itok=TT817npG\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"7\" data-fid=\"3361\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Seoul</strong> - \"Seoul T- Birds gathered on the rooftop of High Street Market in the Itaewon district in Seoul.&nbsp; High Street Market is owned by T-Bird Kip Richardson and he and his team provided cold beer, great food and a wonderful venue for Seoul T - Birds to gather and celebrate the birth of the first child of T-Bird Eric Thorpe (92).&nbsp; Carmen Thorpe was born on August 31 and mother and daughter are doing well.&nbsp; In addition we welcomed back Gbemi Disu who was here on a quick visit to the George Mason Korea Campus in Songdo.&nbsp; Photo courtesy of professional photographer and T - Bird Anuj Madan who came up from Busan to join in our event.\"</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016dallas.png?itok=oKpbTZaZ\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"8\" data-fid=\"3362\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Dallas</strong> – On September 17 a group of Dallas alumni who were unable to attend the Mallorca reunion got together to celebrate virtually.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016mumbai.png?itok=v5T3tsEx\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"9\" data-fid=\"3363\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Mumbai</strong> – The group met on Thursday September 29th.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016indonesia.png?itok=NiK-f3k3\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"10\" data-fid=\"3364\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Indonesia</strong> - Thunderbuild: Alumni are building a house for Habitat for Humanity</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016lima.png?itok=ol-iJnhG\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"11\" data-fid=\"3365\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Lima</strong> - Tbird first Friday in August at Avalon Restobar with TEM lab students from Executive MBA.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016malaysia.png?itok=p3TT-X_W\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"12\" data-fid=\"3366\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Malaysia</strong> – August First Tuesday</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016dc.png?itok=5c5RBSD2\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"13\" data-fid=\"3367\" data-media-element=\"1\"></strong></p>\r\n<p><strong>DC</strong> - August First Tuesday</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016silicon.png?itok=dyDB1PHh\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"14\" data-fid=\"3368\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Silicon Valley</strong> - August First Tuesday.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016guadalahara.png?itok=zenLzCwu\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"15\" data-fid=\"3369\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Guadalajara</strong> - alumni had a special gathering on July 25th.&nbsp; L-R: Vicky Rios ‘09, Carlos Lerma ‘14, Chelsea Oyen ’13 Executive Director Office of the Director General/CEO at Thunderbird &amp; seated Chapter Leader Roger Lenero ‘14.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016berlin.png?itok=oGcRjtBU\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"16\" data-fid=\"3370\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Berlin </strong>- We had our 1st Annual Berlin T-Bird BBQ in July: Attendees: Dominik Hess '01, Roland Quast '02, Jarek Budny '01, Cynthia Gloger '92, Alexander Gloger '92, Jay Boynton '98, Sean Padfield '14, Tracy Prentiss '98, + spouses. Big thanks to our host Roland. We are going strong with more and more people making it to the 1st Tuesdays.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016columbus.png?itok=WxRIGL3p\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"17\" data-fid=\"3371\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Columbus </strong>- July First Tuesday&nbsp;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/chaps1016hongkong.png?itok=JwtAscuz\" title=\"\" alt=\"\" class=\"panopoly-image-original media-element file-default\" data-delta=\"18\" data-fid=\"3372\" data-media-element=\"1\"></strong></p>\r\n<p><strong>Hong Kong</strong> - Hong Kong Chapter held a farewell dinner on July 29th for Rahul Warikoo who will be joining the incoming EMGM class. L-R: Michael Bendy ‘99, Mark Ma , Michael Zhou ‘02, Rahul Warikoo, Indra Warikoo, Marshall Gabin ‘80, Linda Suen ‘00, Chapter Leaders Kevin Rohrer ‘82, &amp; Viola Luo ‘12, Cindy Zhou, &amp; Tyler McElhaney ‘12.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

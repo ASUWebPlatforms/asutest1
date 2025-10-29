@@ -1,0 +1,29 @@
+uuid: cc4c3bad-fe8e-40c8-8075-919aa8de5e77
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_regions
+    - node.type.coe
+    - node.type.life_long_learning
+id: node.life_long_learning.field_regions
+field_name: field_regions
+entity_type: node
+bundle: life_long_learning
+label: Regions
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      coe: coe
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

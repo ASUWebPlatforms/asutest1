@@ -1,0 +1,17 @@
+# config/schema/commerce_quickpay.schema.yml
+commerce_payment.commerce_payment_gateway.plugin.quikpay:
+  type: commerce_payment_gateway_configuration
+  mapping:
+    order_type: {type: string}
+    quikpay_title: {type: string}
+    quikpay_cc_images: {type: mapping}
+    quikpay_redirect: {type: string}
+    quikpay_test_pt_key: {type: string}
+    quikpay_test_rtpn_key: {type: string}
+    quikpay_prod_pt_key: {type: string}
+    quikpay_prod_rtpn_key: {type: string}
+    quikpay_test_url: {type: string}
+    quikpay_prod_url: {type: string}
+    quikpay_success_text: {type: string}
+    quikpay_checkout_text: {type: string}
+    quikpay_checkout_red: {type: string}

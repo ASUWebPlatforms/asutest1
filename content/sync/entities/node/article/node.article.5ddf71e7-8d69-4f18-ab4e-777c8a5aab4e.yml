@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 5ddf71e7-8d69-4f18-ab4e-777c8a5aab4e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'You are Here: Three Keys to Market Entry in Japan'
+created:
+  -
+    value: '2016-06-24T17:54:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/market-entry-japan
+body:
+  -
+    value: "<p>[[{\"fid\":\"1117\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>&nbsp;</strong>Market entry in Japan requires careful planning. Here are three keys to success in the world’s third-largest economy.</p>\r\n<p><strong>1.</strong>&nbsp;<strong>Have a story to tell:&nbsp;</strong>You may think your product is excellent in terms of efficiency, performance and lead times, but many Western products simply are not relevant in Japan. The Japanese consumer requires innovative products perceived to fit within household and cultural boundaries. What works is to tell the story of the people behind your product and how they worked hard to bring their dreams to life. Also, tell the quality story. This isn’t just about having your credentials lined up, but knowing where all your ingredients and components come from in painful detail. Anticipate every unexpected question. Make sure you truly understand your value chain.&nbsp;</p>\r\n<p><strong>2.</strong>&nbsp;<strong>Select your distributors carefully:&nbsp;</strong>More than in any other country, distributors are key to success in Japan. Their business relationships go back generations and only they know how to get your product to market. Never over-promise on margins and implement an incentive program based upon volume milestones. Make sure your distributors perform to the agreed milestones and ensure clarity on all sides about your marketing program. When you entrust your brand to a distributor, take special care to have clear rules on brand management. Global brands have been mismanaged by the big trading houses (the&nbsp;<em>shosha</em>) that have outsourced the work to others. Keep control of your brand.</p>\r\n<p><strong>3. Take your time:</strong>&nbsp;Don’t rush into any distributor engagement unless you’re totally comfortable. Japan’s business history is littered with managers who, shortly after landing in Narita, got impatient and closed deals so they could fly home as heroes. Such deals usually die and, in so doing, devalue a brand’s cachet for years. Patience (the fifth marketing P) is a primary virtue in Japan.</p>\r\n<p><strong><em>Kit Nagel ’79,</em></strong><em>&nbsp;former Asian marketing manager for International Paper Co., is on the business faculty at Concordia University-Irvine.</em></p>\r\n<p><a href=\"http://www.amazon.com/Global-Market-Entry-Christopher-Nagel/dp/1477158758/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1363026791&amp;sr=1-3&amp;keywords=global+market+entry\"><strong>Global Market Entry</strong></a>&nbsp;<br><strong>Author:</strong>&nbsp;Kit Nagel ’79&nbsp;<br><strong>Description:</strong>&nbsp;Softcover, 87 pages<br><strong>Publisher:</strong>&nbsp;Xlibris (Aug. 28, 2012)</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 66581819-156f-4d37-a97e-e764b7ba1f69
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.66581819-156f-4d37-a97e-e764b7ba1f69

@@ -1,0 +1,15 @@
+uuid: 639be74c-3c2d-4eba-aaee-f5e5c303d403
+langcode: en
+status: true
+dependencies: {  }
+name: square
+label: 'Square (720x720)'
+effects:
+  bf1118b5-2f00-49e6-b592-a5d9242455be:
+    uuid: bf1118b5-2f00-49e6-b592-a5d9242455be
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 720
+      height: 720
+      anchor: center-center

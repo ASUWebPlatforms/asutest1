@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 5dda7633-df22-4a5e-bfeb-e53eb8e1fd05
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T14:40:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'How to Manage a Virtual Workforce (or How to Herd Cats)'
+created:
+  -
+    value: '2017-06-12T18:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T14:40:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-manage-virtual-workforce-or-how-herd-cats
+body:
+  -
+    value: "<p>Business leaders and employers interested in building a virtual workforce are in good company.</p>\r\n<p>According to the&nbsp;<a href=\"http://www.siop.org/article_view.aspx?article=1467\">Society for Industrial and Organizational Psychology</a>, virtual team management is a skill among the top workplace trends for 2016.</p>\r\n<p>And&nbsp;<a href=\"http://globalworkplaceanalytics.com/telecommuting-statistics\">Global Workplace Analytics</a>, a research company devoted to helping organizations understand emerging workplace strategies, finds that half of the U.S. workforce holds a job that could be performed remotely, while up to 90 percent of American workers would prefer to work virtually at least part time.</p>\r\n<p>Though these figures showcase an apparent sea change in work ways and locations, the&nbsp;<a href=\"https://www.shrm.org/hrdisciplines/staffingmanagement/articles/pages/hire-remote-workers-productive-happy.aspx\">Society for Human Resource Management (SHRM)</a>&nbsp;realizes that, “executives often have fears about allowing people to work offsite.”</p>\r\n<p>So I spoke with Tricia Sciortino, president of leading virtual assistant firm&nbsp;<a href=\"http://eahelp.com/\">eaHELP</a>, to get some insights on lessons learned from remote employee management. She leads a workforce of 400 virtual assistants and more than 30 corporate team members across client relations, human resources, finance, operations, and marketing functions — all of whom work remotely 100 percent of the time.</p>\r\n<h4><strong>Share with us your personal background as a virtual team member. How has your perspective changed over time?</strong></h4>\r\n<p>I began working remotely about seven years ago, just as more companies began readily adopting telecommuting and dispersed teams became more common. Since I am a self-professed people-person who thrives on engagement and connection, my first impression was that it would feel lonely. What I’ve learned, however, is that if you are intentional about outreach and communication, feelings of involvement remain high. That keeps isolation at bay.</p>\r\n<h4><strong>Many studies and much research extol the benefits of remote work, for both employees and employers alike. But some leaders are hesitant to have a virtual workforce. What would you say to allay their concerns?</strong></h4>\r\n<p>I know that supervisors and managers are concerned about performance, operations, and talent. That’s our job as leaders. The good news is that they can maximize all three through a virtual workforce. Organizations can limit outlay for office space and reduce overhead, investing those dollars back into the business and towards team success. Companies can also tap into a broader talent market when they’re not restricted by physical locations.</p>\r\n<p>I’d encourage employers to explore the resources available about virtual work. They can read case studies, consult with companies that have successful remote work programs, and consider piloting such options on a trial basis, as they consider integrating it into their culture.</p>\r\n<h4><strong>How does one manage a remote employee?</strong></h4>\r\n<div class=\"sw-tweet-clear\">Focus on results, not presence. Set clear, measurable goals, so they know how to meet, if not exceed, expectations.</div>\r\n<p>At eaHELP, team members’ physical locations do not negatively impact the accessibility, opportunity or community we share. Our management style is an extension of so many of the values that define our organization — trust, transparency, communication, industriousness. In assessing employees, we look at quality, responsiveness, accuracy, collaboration, and other factors, just as managers might in a traditional on-site model.</p>\r\n<p>I recommend that organizations uphold the same expectations they’d have of an onsite employee and simply translate them into a virtual, human-centered context.</p>\r\n<h4><strong>How is success measured differently for remote employees?</strong></h4>\r\n<p>The truth is, success is not measured differently — at least not in the ways that matter most.</p>\r\n<p>Productivity and performance are king for organizations with a virtual team. Leaders accustomed to the traditional model of on-site, face-time supervision must re-orient their view, realizing that physical presence alone is an inadequate gauge for success. Ultimately, actual performance and results are the benchmarks of success — and those tend to look the same for both virtual and office-based operations.</p>\r\n<h4><strong>What are the top lessons you’ve learned in managing a remote, distributed workforce?</strong></h4>\r\n<div class=\"sw-tweet-clear\">First, over-communicating is essential, since out of sight&nbsp;<i>can</i>&nbsp;be out of mind. Appearing accessible and present is very important. Second, be available and responsive. Swift replies and being of assistance proactively does so much to prevent miscommunication. Third, stay visible. Some people might be camera shy, but the webcam and other communications technologies are your friend. Seeing someone on a monitor or screen is the next best thing to being there in person. Attentiveness is heightened. You can see and read expressions and body language. I like to say, we may be high-tech as a virtual team, but I can almost guarantee that translates into higher touch.</div>\r\n<p>Leaders and organizations continue to learn lessons about — and from — remote employees every day. According to the&nbsp;<i>Harvard Business Review</i>, we are in the “third wave” of virtual work. The first was evidenced by the rise of the remote freelancer; the second by dispersed corporate teams; and the third by remote colleagues, be they states apart or in the same city working from home.</p>\r\n<p>Three years ago, in 2013, it was predicted that in “a few years” there would be 1.3 billion virtual workers. It appears that we may be reaching the precipice of that estimation, as remote work represents a growing reality of employment in the United States and abroad.</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;<a href=\"http://danamanciagli.com/\">her website</a>.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1200
+    height: 630
+    target_type: file
+    target_uuid: f80a0414-abfb-44e3-8890-cd9d6aa8dd3a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.f80a0414-abfb-44e3-8890-cd9d6aa8dd3a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

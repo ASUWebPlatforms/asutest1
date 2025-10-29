@@ -1,0 +1,34 @@
+uuid: fd69e24b-76ed-4bad-baa6-b261666dd4ba
+langcode: en
+status: true
+dependencies:
+  module:
+    - domain
+    - system
+  theme:
+    - thunderbird
+id: tabs_login
+theme: thunderbird
+region: pre_content
+weight: -10
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Tabs (Login)'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility:
+  domain:
+    id: domain
+    negate: false
+    context_mapping:
+      domain: '@domain.current_domain_context:domain'
+    domains:
+      main: main
+  request_path:
+    id: request_path
+    negate: false
+    pages: /user/login

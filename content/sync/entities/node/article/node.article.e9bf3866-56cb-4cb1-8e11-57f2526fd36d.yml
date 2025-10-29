@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: e9bf3866-56cb-4cb1-8e11-57f2526fd36d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-23T22:42:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Sit. Stay. Speak. Now Speak English.'
+created:
+  -
+    value: '2017-06-06T18:06:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-23T22:42:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/sit-stay-speak-now-speak-english
+body:
+  -
+    value: "<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5418\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Tito - the bilingual Chihuahua\",\"field_file_image_title_text[und][0][value]\":\"Tito - the bilingual Chihuahua\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Tito - the bilingual Chihuahua\",\"field_file_image_title_text[und][0][value]\":\"Tito - the bilingual Chihuahua\"}},\"attributes\":{\"alt\":\"Tito - the bilingual Chihuahua\",\"title\":\"Tito - the bilingual Chihuahua\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Tito de Guadalajara</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"xmsonormal\">I was born in Guadalajara, Jalisco Mexico. In fact, it wasn’t until I turned 24 and decided to pursue my marketing certificate that I ventured out of my beloved home country and moved to Massachusetts to attend the Harvard Extension School. I had studied English since the 7th grade and, while my pronouns may have gotten jumbled from time to time and my tenses needed some work, my command of the English language was more than passable.</p>\r\n<p class=\"xmsonormal\">Tito, on the other hand, was 84 when he came to live with me in the U.S.—and the guy didn’t know a word of English. <i>Un poquito</i>? <i>No</i>. <i>Un viejito? Si. Pero, el es un perro? Si—ja ja ja!</i></p>\r\n<p class=\"xmsonormal\">I guess I really should have explained that first. Technically 84 is his dog age. Tito’s my late mother’s 12-year-old Chihuahua.</p>\r\n<p class=\"xmsonormal\">After <i>mi madre’</i>s recent passing (<i>Dios la bendiga</i>), Tito came to live with me and my Labrador Simón in March 2017. Like Tito, Simón was born in Mexico. But he moved with me to Phoenix in 2006 when he could still fit in the palm of my hand. He’s what I call a “doggie dreamer”—a canine raised on American soil. For all intents and purposes, a U.S. native through and through. He actually hates Mexico. I’ve caught him looking down his nose at his Latino brethren like he’s somehow above them. (Technically, I guess he <i>is</i> above them since he is 2 feet taller than Tito and his Mexican companions.)</p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 750px;\" class=\"caption-inner\">[[{\"fid\":\"5419\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Simon - the Mexico-born U.S. raised Labrador\",\"field_file_image_title_text[und][0][value]\":\"Simon - the Mexico-born U.S. raised Labrador\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Simon - the Mexico-born U.S. raised Labrador\",\"field_file_image_title_text[und][0][value]\":\"Simon - the Mexico-born U.S. raised Labrador\"}},\"attributes\":{\"alt\":\"Simon - the Mexico-born U.S. raised Labrador\",\"title\":\"Simon - the Mexico-born U.S. raised Labrador\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Simón, when I mention another trip to Mexico.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"xmsonormal\">I never thought much about the transition that was in store for Tito when he moved to the U.S. So, he’d have a new yard to investigate. He’d have a new doggie door to master. He’d have to suck it up and deal with the triple-digit summer heat instead of the pleasant 80-degree summers in Guadalajara. He could do it. He’s got <i>sangre Mexicana</i>, after all.</p>\r\n<p class=\"xmsonormal\">What I didn’t think about was this: Tito, with all his 8 pounds of machismo and Latino bravado, didn’t speak English. Here he was in a new house, a new country, with a barky new brother and he couldn’t understand a word I was saying. (As a native Spanish speaker with an American dog, it never occurred to me to teach Simón Spanish… much like <i>mi</i> <i>primos</i> in Houston who haven’t taught their kids our native tongue.)</p>\r\n<p class=\"xmsonormal\">I thought adding another dog to my household would just mean a small uptick in dog food costs and a little more time on yard duty. But, I soon found myself having to repeat every single command first in English (for Simón) and then in Spanish (for Tito). Admittedly, I was annoyed for the majority of the first few weeks. Was I really going to have to double up my doggie communication just to make Tito feel at home? <i>Hijuela!</i></p>\r\n<p class=\"xmsonormal\">But guess what? You can teach old dogs new tricks. Tito’s picking up English (a bilingual dog! Take that, <i>primos</i>!). And, when he’s willing to play along, Simón is picking up some Spanish too.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5462\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Tito and his familia\",\"field_file_image_title_text[und][0][value]\":\"Tito and his familia\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Tito and his familia\",\"field_file_image_title_text[und][0][value]\":\"Tito and his familia\"}},\"attributes\":{\"alt\":\"Tito and his familia\",\"title\":\"Tito and his familia\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"3\"}}]]\r\n<p class=\"caption-text\">Tito and his familia</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"xmsonormal\">I guess I shouldn’t be too surprised that Tito has adjusted so well. He’s something of a <em>pequeño jefe</em>. He was hit by a car when he was a puppy and my mother, who was a surgical nurse for over 20 years, refused to put him down. She nursed him back to health and, while he only regained the use of three legs, he can keep up with the best of them. That’s how he earned his nickname “Trito”—my little tripod. &nbsp;&nbsp;</p>\r\n<p class=\"xmsonormal\">Tito is totally at home in Phoenix now, just a few months after his arrival. His English is getting better, and he’s realized you can bear the heat if you just spend all day on the couch. <i>Siesta!</i></p>\r\n<p class=\"xmsonormal\">Plus, thanks to a few vet visits and some paper pushing on my end, he’s already got his registration papers. He’s officially a U.S. citizen. Me? It’s been <i>15 years</i>, but my citizenship hearing is next month. If only I was a multilingual mutt.</p>\r\n<p class=\"xmsonormal\"><i>By Thunderbird’s Dinora Gonzalez, as told to Rhonda Mihalic, Manager, Marketing &amp; Communications.</i></p>"
+    format: basic_html
+    processed: ''
+    summary: 'I was born in Guadalajara, Jalisco Mexico. In fact, it wasn’t until I turned 24 that I ventured out of my beloved home country. Tito, on the other hand, was 84 when he came to live with me in the U.S.—and the guy didn’t know a word of English. Un poquito? No. Un viejito? Si. Pero, el es un perro? Si—ja ja ja!'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2576
+    height: 1932
+    target_type: file
+    target_uuid: aa7c79ff-bac6-4d12-9079-641cb3637b6b
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b08d5919-cc6b-4ba9-b8e0-c87cc431314a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.aa7c79ff-bac6-4d12-9079-641cb3637b6b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b08d5919-cc6b-4ba9-b8e0-c87cc431314a

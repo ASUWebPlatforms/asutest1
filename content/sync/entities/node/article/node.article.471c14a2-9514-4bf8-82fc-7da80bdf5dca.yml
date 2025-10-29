@@ -1,0 +1,91 @@
+uuid:
+  -
+    value: 471c14a2-9514-4bf8-82fc-7da80bdf5dca
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-12-19T16:11:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Move Over Game of Thrones, Fintech in 2020 is Much More Epic'
+created:
+  -
+    value: '2019-12-16T16:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-12-19T16:11:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/move-over-game-thrones-fintech-in-2020-much-more-epic
+body:
+  -
+    value: '<p>Originally published on&nbsp;<a href="https://insights.techreview.com/fintech2020/">MIT Technology Review</a>. &nbsp;Reprinted with permission.</p><p>By Mark Esposito, Clinical Professor of Global Shifts and the Fourth Industrial Revolution</p><p>There is no doubt that, in the coming year, fintech players, from start-ups to unicorns, will keep up their efforts to challenge the traditional great houses of the financial services kingdom. As 2020 comes closer, we would like to offer several observations of the current trends in the kingdom, many of which are likely to continue, and which are reforming the competitive landscape – again.</p><ol><li><strong>Investments are more targeted.</strong>&nbsp;Demand for business model consistency is growing as investors become increasingly selective with where they put their money. Even though global investment in fintech will continue to go up in the coming years, investors are increasingly looking for companies that have demonstrated the ability to create value and revenue rather than just those that are based on gimmicky ideas. This applies not only to start-ups but also to those fintech companies that have already raised and secured funding. Fintech companies without any clear path to monetization are finding things harder going than before. And those that have got their fundamentals right are pitched in the battle for capital.</li><li><strong>New technologies are not the sole focus.</strong>&nbsp;Innovative products, coupled with creative digital marketing, have created many fintech unicorns, such as TransferWise. Nevertheless, contrary to what many may believe, a lot of fintech players do not predominantly depend on cutting-edge technologies. Instead of inventing technological marvels in financial services, those that are successful have found ways to leverage the existing traditional infrastructure, thereby amplifying the advantages that technologies can offer. This allows for faster execution as it foregoes the classic (and sometimes lengthy) new technology beta testing phase(s), at the same time reaping the benefits of proven technological platforms. Effective execution of business operations is a greater factor in success than new technologies. Fintech is becoming more about “fin” than “tech”.</li><li><strong>What has worked in the past will not work in the future.</strong>&nbsp;Mobile first strategies and refreshing user experience (UX) have played a huge role in the steady rise of fintech. No doubt they will remain the main means of attracting and retaining customers. Yet, while they are necessary, over time they are becoming insufficient in ensuring future success. Fintech companies got their first “wins” thanks to more innovative, user-friendly and sexier UX than traditional providers. But the days of relying solely on fancy and slick user interfaces to gain and sustain competitive advantage are over. Fintech actors now need new ways to differentiate themselves from traditional actors, especially when the latter group has begun to catch up. For example, Rainist in South Korea is charging ahead in a new way through Banksalad, a service platform that simplifies financial product choices for retail consumers. Its services range from financial product recommendations tailored to individuals, to expense analysis and management of personal financial affairs, and all is served with a user-friendly interface.</li><li><strong>The great houses are back in the ring.</strong>&nbsp;The inertia of incumbent financial services firms has gradually given way to innovation. Facing the onslaught of the challengers (and perhaps driven by the painful loss of customers), they have finally started developing their own digital platforms. However, unlike in the 90s, in which e-commerce entrants aimed to displace the brick-and-mortar retail giants, the relationship between fintech players and incumbents is definitely more collaborative. For instance, some earlier fintech starters, choosing to focus their energy and efforts on interacting with customers with slick technologies, have piggy-backed on the back-end infrastructure of competing retail banks for processing transactions and payments to grow their businesses. Such cooperative dynamics don’t stop here: some incumbents have ended up buying fintech companies in order to keep up their pace of innovation, as well as to fend off challengers. Fragmented markets, value-chain consolidations and the increasing acquisition appetite of large established players will continue to fuel the merger frenzy in the fintech space.</li><li><strong>The buzz is over.</strong>&nbsp;For the longest time, artificial intelligence (AI) and application programming interface (API) have been considered the next development pillars for creating value. Yet, it is only recently that fintech providers have finally started to include AI and API in order to improve UX and product offerings, as well as to reduce operational costs. An illustration would be the UK starter bank OakNorth, which raised $440m in early 2019 after developing ACORN (now rebranded as OakNorth Analytical Intelligence), a machine language-powered platform that traditional lenders can join as partners to use to improve their own lending processes. Personal finance companies such as Mint in the US rely on access to bank data – which they can collect through open APIs – to create novel and useful ways for customers to view and comprehend their financial information. Such services are simply impossible without the use of APIs.</li><li><strong>Regulation is defining the next market opportunity.</strong>&nbsp;Boring is the new exciting. While many fintech companies have long been accused of failing to fully comply with regulations, they are now turning stringent regulatory constraints into new opportunities. “Regtech” is now a very real movement. Leveraging new technologies to assist financial services providers to more cost-effectively meet regulatory requirements is a new path to growth. For instance, the scale-up Nexus FrontierTech in the UK has helped a major global bank to deploy natural language processing to streamline and automate its “know your customers” process. This is achieved by converting unstructured data – such as documents that come in different shapes, forms and formats – into structured data. The grand result: the bank becomes better at meeting compliance requirements, running operations more efficiently and creating enormous cost savings.</li><li><strong>Going public. Not.</strong>&nbsp;Tech companies such as Uber, Lyft and Airbnb were keen to put themselves on the stock market. Fintech companies, however, seem to subscribe to a vastly different view. Despite the need for cash injection and further investment, fintech CEOs have preferred to keep their businesses private to avoid the heavy public scrutiny of being a listed entity. Indeed, with enough money around, especially with (for the moment) ever-increasing late-stage capital, there exists an alternative to going public to fund their operations. As long as the interest in the fintech sector continues, public listing will not be a priority for unicorns in the near term.</li></ol><p>The financial services kingdom used to be the new, sexier and smarter fintech players versus the boring and clunky great houses. The view of the industry has grown more nuanced. While challenger fintech players will continue to seek new ways to chip away market shares from traditional incumbents, the latter are forming partnerships with, or even acquiring, fintech providers. This, in turn, is helping the traditional great houses innovate and modernize their existing offering quickly. For certain, neither side will stop here, as they are both striving for economic survival. Interesting developments are set to take place in this space. Stay tuned for the epic battle ahead.</p><p>This article was co-authored with&nbsp;<a href="https://www.project-syndicate.org/columnist/joshua-entsminger" target="_blank">Joshua Entsminger</a>&nbsp;and&nbsp;<span>&nbsp;Liz Pellegrini.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: 'There is no doubt that, in the coming year, fintech players, from start-ups to unicorns, will keep up their efforts to challenge the traditional great houses of the financial services kingdom. As 2020 comes closer, we would like to offer several observations of the current trends in the kingdom, many of which are likely to continue, and which are reforming the competitive landscape – again.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2507
+    height: 1673
+    target_type: file
+    target_uuid: 24c1c956-17d5-4905-bd83-697dd5b15c21
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 92319e4c-3a94-47e0-9831-fcb00a1be31c
+  -
+    target_type: taxonomy_term
+    target_uuid: 2026780f-16f2-49ac-9618-b29209fcbd9d
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.24c1c956-17d5-4905-bd83-697dd5b15c21
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.knowledge_network_tags.92319e4c-3a94-47e0-9831-fcb00a1be31c
+      - taxonomy_term.knowledge_network_tags.2026780f-16f2-49ac-9618-b29209fcbd9d

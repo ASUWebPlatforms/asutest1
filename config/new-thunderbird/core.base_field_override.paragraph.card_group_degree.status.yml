@@ -1,0 +1,22 @@
+uuid: 267c3a73-3fc9-46b1-8ac0-be5f5a9d9e27
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.card_group_degree
+id: paragraph.card_group_degree.status
+field_name: status
+entity_type: paragraph
+bundle: card_group_degree
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

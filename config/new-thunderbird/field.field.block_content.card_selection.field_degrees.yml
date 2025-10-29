@@ -1,0 +1,29 @@
+uuid: c3a5e9ea-450f-416f-bf88-cf8c689f0ee1
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - field.storage.block_content.field_degrees
+    - node.type.degree
+id: block_content.card_selection.field_degrees
+field_name: field_degrees
+entity_type: block_content
+bundle: card_selection
+label: Degrees
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      degree: degree
+    sort:
+      field: title
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

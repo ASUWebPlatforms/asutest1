@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: b09c8037-a4dc-4d74-9dfb-03fceb1162c8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:52:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Steve Jackson Faces Resistance to Change'
+created:
+  -
+    value: '2016-07-16T00:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:52:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-11-0010
+body:
+  -
+    value: '<p><span>Steve Jackson, a project professional at Western Construction (an international construction conglomerate), is attempting to introduce BSO, a new software package. Engineers at Western who would be using BSO seem to support the change, and BSO has already been adopted successfully by Western’s competitor. However, Mike Barnett, a long-term Western employee of undisclosed hierarchical status and strong personal ties to the top, is leveraging every opportunity to kill the BSO project. Knowing that he must find a way to win Barnett over, Jackson attempts a variety of approaches to overcoming resistance to change, including turning to his own boss for assistance.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-11-0010
+field_case_page_length:
+  -
+    value: '3 Pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: U.S.
+field_case_source:
+  -
+    value: 'General experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 57acfe3b-0f60-4fd4-87b3-413530a86776
+field_teaching:
+  -
+    value: 'A major value of this case is its resonance for students. Whereas many cases about resistance to change take the perspective of the top executives as related to grand-scale organization-wide change, this case exemplifies the much more common struggle of those at the middle who face resistance in implementing their own narrower change initiatives.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.57acfe3b-0f60-4fd4-87b3-413530a86776

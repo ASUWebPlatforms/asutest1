@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 539cb0cd-3ef3-4d8a-be58-defcebe232d6
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T20:12:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Pangea Island Natural Gas Services'
+created:
+  -
+    value: '2016-07-27T20:12:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T20:12:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-00-0019
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The purpose of this case is to introduce the student to natural gas futures and issues that arise in the management of a hedging operation.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-00-0019
+field_case_page_length:
+  -
+    value: '3 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 76d3ed15-eeb2-4ac6-93ab-f3ab9c38ae0d
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: N/A
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2868b8d6-0efa-4ded-918f-a86fe3be6323
+field_teaching:
+  -
+    value: "The case approaches the various issues by examining a fictitious company modeled on an Enron Gas Division. The company is the sole importer and distributor of natural gas. Because of its monopoly position, government officials who were concerned about the potential for price gouging monitored the company very closely. Pangea Island Natural Gas Services' [PINGS] problem was quite the reverse, however. In recent years, the company had been offering fixed price contracts to its customers to reduce the uncertainty inherent in natural gas prices. PINGS had thereby taken on the price risk of the cost of natural gas rising.\r\n\r\nUpon initial reading of the case, it appears that the company has lost money in the hedge. The reason is because the case centers on the futures contract variation margin and little mention is made of the opportunity benefits arising from the lower cost of gas that will be sold to the customers."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.76d3ed15-eeb2-4ac6-93ab-f3ab9c38ae0d
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.2868b8d6-0efa-4ded-918f-a86fe3be6323

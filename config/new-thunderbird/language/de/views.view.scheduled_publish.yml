@@ -1,0 +1,59 @@
+label: 'Geplante Veröffentlichung'
+display:
+  default:
+    display_title: Master
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Anwenden
+          reset_button_label: Zurücksetzen
+          exposed_sorts_label: 'Sortieren nach'
+          sort_asc_label: Aufsteigend
+          sort_desc_label: Absteigend
+      pager:
+        options:
+          tags:
+            previous: ‹‹
+            next: ››
+            first: '« Anfang'
+            last: 'Ende »'
+          expose:
+            items_per_page_label: 'Elemente pro Seite'
+            items_per_page_options_all_label: '- Alle -'
+            offset_label: Versatz
+      fields:
+        nid:
+          separator: ', '
+        delta:
+          format_plural_string: !!binary MQNAY291bnQ=
+        nothing:
+          admin_label: 'Global: Benutzerdefinierter Text (Link zum bearbeiten)'
+          alter:
+            text: Bearbeiten
+            path: 'admin/content/scheduled-publish/edit/{{ nid }}/{{ delta }}'
+        nothing_1:
+          admin_label: 'Global: Benutzerdefinierter Text (Link zum löschen)'
+          alter:
+            text: Löschen
+            path: 'admin/content/scheduled-publish/delete/{{ nid }}/{{ delta }}'
+        title:
+          label: Titel
+          separator: ', '
+        sp_dynamic:
+          label: Ausführungszeit
+          separator: ', '
+        sp_dynamic_1:
+          label: 'Zukünftiger Moderationsstatus'
+          separator: ', '
+        dropbutton:
+          label: Aktionen
+      filters:
+        title:
+          expose:
+            label: Titel
+        sp_dynamic_moderation_state:
+          expose:
+            label: 'Zukünftiger Moderationsstatus'
+      title: 'Geplante Veröffentlichung'
+  block_1:
+    display_title: Block

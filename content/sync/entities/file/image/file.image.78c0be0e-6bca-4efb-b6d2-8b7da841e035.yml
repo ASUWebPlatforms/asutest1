@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 78c0be0e-6bca-4efb-b6d2-8b7da841e035
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+filename:
+  -
+    value: img_9855.jpg
+uri:
+  -
+    value: 'public://img_9855.jpg'
+    url: /sites/default/files/img_9855.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 42388
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-07-11T11:38:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-11T11:38:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670

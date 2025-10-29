@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 41b8c0b2-fa09-4081-ac3e-2f75a2066c23
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2020-01-22T19:14:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Aldi and the Hard Discounters March across America'
+created:
+  -
+    value: '2020-01-22T19:14:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-01-22T19:14:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-20-0005
+body:
+  -
+    value: '<p>The economic woes of 2008 gave a boost to budget retailers such as Dollar General, Aldi, and these retailers have unleashed significant change in the retailing industry in general and the grocery business sin particular.&nbsp;&nbsp; The case focuses on the hard-discounters from Germany, Aldi and to a lesser extent on Lidl to describe their operating models and their relative impact on the strategies adopted by their US peers.&nbsp; The case provides a rich discussion of the industry environment in the U.S. grocery business and the key trends that were shaping organizational strategies. It follows with an in-depth examination of the cornerstones of the hard-discount model and how the German companies have been successfully implementing this approach in the U.S. As the case closes, the US retailers had started to respond to the new competitors while firms such as Aldi had moved more deliberately into the realm of service innovation to retain an edge over peers.&nbsp; It appeared as if the hard-discounters were trying to reach into the upper tiers of customers by tailoring their choices to suit such an audience.&nbsp; They were locating in richer neighborhoods, providing a more sophisticated product assortment, and some were even rethinking their store layouts.&nbsp; These changes seemed to be going against the grain of conventional budget operators. It remained to be seen whether the sources of competitive advantage built by firms such as Aldi would prove resilient against the much larger peers who enjoyed much greater advantages of scale and resources</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-20-0005
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: cabed664-62a9-40eb-9b40-a8920e8b5f95
+field_case_series_year:
+  -
+    value: '2020-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: 'published sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: aceb4b7c-a79d-41a2-ac9f-12a4a68c95d7
+field_teaching:
+  -
+    value: "This case works ideally in an entry level session of a competitive strategy foundations course in a graduate program or in an advanced strategy course for seniors in an undergraduate program in business. \r\n\r\n(a)\tTo provide insights into the competitive dynamics at the industry level and gain a better appreciation of how industry disrupters emerge when there are environmental discontinuities\r\n(b)\tTo assess the ways in which a company builds its sources of competitive advantage by demonstrating the sequence of actions that span the gathering of key assets, deploying the assets to perform specific activities, converting activities and assets into core capabilities, and leveraging capabilities to build resilient competitive advantage\r\n(c)\tTo illustrate the transience of some sources of competitive advantage using conventional sustainability of advantage metrics such as imitability, durability, appropriability, and substitutability.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_industry.cabed664-62a9-40eb-9b40-a8920e8b5f95
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.aceb4b7c-a79d-41a2-ac9f-12a4a68c95d7

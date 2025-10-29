@@ -1,0 +1,118 @@
+uuid:
+  -
+    value: 7aafce5b-2242-41a2-b512-89962a498e96
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-06T18:23:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a378dcd0-fe4d-42ea-85bc-286698545ba0
+title:
+  -
+    value: 'UPS-owned Coyote Logistics opens Guadalajara, Mexico office'
+created:
+  -
+    value: '2017-03-30T19:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-06T18:23:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/coyote-logistics-guadalajara
+body:
+  -
+    value: |-
+      <div><!--block--><em>Summary:&nbsp; If UPS-owned Coyote Logistics’ recent expansion is any indication, the NAFTA trade agreement between the U.S. and Mexico isn’t changing anytime soon. With daily commercial trade volume approaching $1.4 billion and Mexico’s domestic economy continuing to expand, business between the two countries will continue to remain active, political hyperbole notwithstanding.</em></div>
+      <div><!--block--><em>&nbsp;</em></div>
+      <div><!--block-->The <em>Atlanta-based shipping giant purchased Chicago-based Coyote Logistics in August 2015 in order to gain access to the freight-brokerage business and increase communications and transparency in shipping information technology via Coyote’s technology surrounding the same.</em></div>
+      <div><!--block--><em>&nbsp;</em></div>
+      <div><!--block--><em>Opening an office in Guadalajara, Mexico, allows Coyote (and therefore UPS) to develop further its intra-Mexico operations and offer a wider array of services to existing and new customers, especially with Coyote’s extensive carrier network.</em></div>
+      <div></div>
+      <div>
+      <div class="blue-header-block-wrapper">
+      <div class="blue-header-block-inner-wrapper">
+      <p style="text-align: center;"><strong>Aligning Global Marketing &amp; Brand Strategy</strong><br><strong>March 3-8, 2018 | Tempe, AZ</strong></p>
+      <p style="text-align: center;"><a class="btn btn-primary" href="https://thunderbird.asu.edu/executive-education/programs/aligning-global-marketing-brand-strategy?sd=KNcoyotelog">Learn More</a></p>
+      </div>
+      </div>
+      <p class="wysiwyg-break">&nbsp;</p>
+      </div>
+      <div><!--block--><em>&nbsp;</em></div>
+      <div><!--block--><em>What does this mean? For Coyote and UPS, more business opportunities with and within America’s third-largest trading partner. For other businesses, more extensive shipping access to and within Mexico. And, on a general level, that business between the two countries will continue, with or without a wall. Read about it below...</em></div>
+      <div><!--block-->&nbsp;<br><span data-trix-selection="true" data-trix-cursor-target="true" data-trix-serialize="false"></span></div>
+      <div>[[{"fid":"4750","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Coyote Logstics","field_file_image_title_text[und][0][value]":"Coyote Logstics"},"type":"media","attributes":{"alt":"Coyote Logstics","title":"Coyote Logstics","class":"panopoly-image-original media-element file-default"}}]]</div>
+      <div><!--block-->&nbsp;</div>
+      <div><!--block--><strong>Coyote Logistics opens up office in Guadalajara, Jalisco, Mexico</strong></div>
+      <div></div>
+      <div><!--block-->Chicago-based transportation management services provider Coyote Logistics, a subsidiary of transportation and logistics bellwether, UPS, said this week it has opened up a new office in Guadalajara, Jalisco, Mexico.</div>
+      <div><!--block-->&nbsp;</div>
+      <div><!--block-->Company officials said that with this office, the company will be able to better assist Latin America-based customers, while continuing to provide shippers with truckload, less-than-truckload, intermodal brokerage, and transportation management services.</div>
+      <div><!--block--><br>A Coyote spokeswoman told [Logstics Management] that the company has been working on this expansion for more than a year, with the idea behind it being to expand service offerings for its existing North American customers but to also gain scale within Mexico as well.</div>
+      <div><!--block-->&nbsp;</div>
+      <div><!--block-->As for the biggest benefits of this expansion for shippers, the spokeswoman said the company can execute a broader, more complex array of services to existing and new customers in Mexico and North America.</div>
+      <div><!--block-->&nbsp;</div>
+      <div><!--block--><em>Read the full article at:</em></div>
+      <div><!--block--><a href="http://www.logisticsmgmt.com/article/coyote_logistics_opens_up_office_in_guadalajara_jalisco_mexico">http://www.logisticsmgmt.com/article/coyote_logistics_opens_up_office_in_guadalajara_jalisco_mexico</a></div>
+      <div></div>
+      <div></div>
+      <div><em>&nbsp;</em></div>
+    format: basic_html
+    processed: ''
+    summary: 'If UPS-owned Coyote Logistics’ recent expansion is any indication, the NAFTA trade agreement between the U.S. and Mexico isn’t changing anytime soon.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Coyote Logstics'
+    title: 'Coyote Logstics'
+    width: 360
+    height: 270
+    target_type: file
+    target_uuid: 5f7df4f0-0b50-46b4-b687-6733146ce944
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+      - user.user.a378dcd0-fe4d-42ea-85bc-286698545ba0
+    file:
+      - file.image.5f7df4f0-0b50-46b4-b687-6733146ce944
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

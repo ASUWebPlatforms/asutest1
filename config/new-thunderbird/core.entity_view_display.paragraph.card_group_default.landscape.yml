@@ -1,0 +1,32 @@
+uuid: 44718ba8-9126-412a-b642-e64e66953c31
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.paragraph.landscape
+    - field.field.paragraph.card_group_default.field_cards
+    - paragraphs.paragraphs_type.card_group_default
+  module:
+    - entity_reference_revisions
+    - layout_builder
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+_core:
+  default_config_hash: Oa5guVNZnUmR2Z3_qhEk1-gqKRbAVYtMz9-pVFYaz6U
+id: paragraph.card_group_default.landscape
+targetEntityType: paragraph
+bundle: card_group_default
+mode: landscape
+content:
+  field_cards:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: landscape
+      link: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

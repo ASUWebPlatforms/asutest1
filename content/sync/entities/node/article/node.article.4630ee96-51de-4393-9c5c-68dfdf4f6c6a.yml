@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 4630ee96-51de-4393-9c5c-68dfdf4f6c6a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: '8:15 AM: “Chances are 80-20 that we are not gonna start at 8 AM”'
+created:
+  -
+    value: '2014-06-14T18:18:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: '/knowledge-network/8:15am'
+body:
+  -
+    value: "<p>Our initial mistake of the weekend was thinking that we had beaten our sicknesses. We were quickly proven that the previous week, we had won the battle, but not yet the war. A flurry of sicknesses, too much time spent together, and not enough sleep introduced the team to the less commonly known “delirium” phase of Flawless Consulting.</p>\r\n<p>It was supposed to be a relaxing weekend on the beach before the workshops started. But apparently, Santiago, being jealous of Jennifer and Danielle, thought it would be fun to try out being sick. When he figured out it wasn’t that much fun, he headed back out to Piura escorted by Fiona only a couple of hours after getting to the beach. He claims he saw the sand… that counts right?</p>\r\n<p>[[{\"fid\":\"2828\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"815 AM\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"815 AM\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"815 AM\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Sunday came fast and brought Jennifer and Danielle back home to Piura. Santiago had managed to fight his sickness out and made Fiona promise not to tell anyone how he was whining like a little girl the night before about being sick.</p>\r\n<p>[[{\"fid\":\"2829\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8:15 AM\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8:15 AM\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"8:15 AM\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>And so, the title… A 6 AM Monday awakening cut the team’s nap time to about 4 hours. Looking like death and feeling like zombies, the team proceeded to ingest enough caffeine to give a blue whale a heart attack. Shaking, the team made it to the Regional Government’s door at 7 AM to print 150 pages worth of material. Shortly after, panic began striking our more linear team members as the “seconds” hand of the clock did laps while our team sat waiting for Mario’s assistant: the keeper of paper. She arrived at 7:30 AM, at which point, the team set up a LEAN manufacturing line that Toyota executives would envy to put these packets together.&nbsp; 7:47 AM arrived, and the team was ready to go. And in a similar fashion, 8 AM, 8:10 AM, and 8:20 AM. It was then that Fiona turned to Santiago and snickered, “Yeah, I think I’m leaning more towards an 80-20 chance that we are not going to start by 8 AM.”</p>\r\n<p>[[{\"fid\":\"2830\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8:15 AM\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8:15 AM\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"8:15 AM\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>We finally made it to the hotel by 8:30 AM… and just like that, we were reminded yet again that we were in Latin America. The actual start of the workshop happened at 10:30 AM. Adaptability and flexibility became synonymous with success as we had to fit a 6 hour workshop into 3 and a half hours with half the expected participants. To complement an interesting morning, an awkward combination of Play-DOH models, press conferences with the President of the Region, blank stares, and understanding nods filled the rest of the workshop. And after all this, the workshop was a success.</p>\r\n<p>&nbsp;[[{\"fid\":\"2831\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8:15 AM\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8:15 AM\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"8:15 AM\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Meanwhile, across town, which is incidentally 10 minutes away, the other half of the team intended on working on the Region’s Strategic Plan. I heard a quote once: “Life is what happens when you are making other plans,” but I think there should be a revised version of this: “TEM Lab is what happens when you are making other plans.” This half of the team instead of focusing on the long-term strategy for the first few days, focused on refining and developing unfinished workshops. Without the adaptive synergies that the whole group experienced during these initial days of workshops, our chances of an adequate execution would have been null.</p>\r\n<p>The second day’s workshop came with more participants and an earlier starting time. The team’s theory is that the first day’s participants were so excited about navigating Organizational Structure and Industry Analysis through an array of activities, lessons, and practice that they just had to tell their friends. Little tweaks here and there produced an even better product and just like that… another successful day came and went.</p>\r\n<p>[[{\"fid\":\"2833\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8:15 AM\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8:15 AM\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"8:15 AM\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Halfway through our trip and time is starting to feel warped: short days, but long weeks makes our time left feel precious, yet slow.</p>\r\n<p>&nbsp;</p>\r\n<p>See you in a few days!</p>\r\n<p>-Team Magnus and the 3Gs</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

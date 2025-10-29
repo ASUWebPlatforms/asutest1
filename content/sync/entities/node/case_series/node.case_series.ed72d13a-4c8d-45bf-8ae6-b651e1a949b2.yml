@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: ed72d13a-4c8d-45bf-8ae6-b651e1a949b2
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-28T00:38:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Hydro-Quebec and the Great Whale Project'
+created:
+  -
+    value: '2016-07-28T00:38:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-28T00:38:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-97-0020
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The Hydro-Quebec and Great Whale Project case focuses on the ongoing negotiations between the Quebec utility and New York Power Authority (NYPA) over a $17 billion sale of hydroelectric power. If a contract is ratified, Hydro-Quebec will proceed with the development of a major river system in northern Quebec resulting in damage to the ecosystem and the displacement of several thousand native people. Native people as well environmental groups have become highly vocal in their opposition to the project. These pressures, combined with falling demand estimates for electrical energy, have resulted in NYPA backing away from the negotiations. Officials at Hydro-Quebec are wondering how to proceed in an apparently no-win situation.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-97-0020
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1997-01-01'
+field_case_setting:
+  -
+    value: 'Canada 1992'
+field_case_source:
+  -
+    value: 'Library Case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6dbacf20-25c1-4b88-9deb-ab10c70bff77
+field_teaching:
+  -
+    value: "We use this case near the end of the multinational business management course. Its focus on stakeholder analysis and the ecological environment provide an excellent review of the complexity of decision making in a highly volatile setting. The accompanying negotiations also provide a welcome departure from the usual normal case overload at the end of the semester.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.6dbacf20-25c1-4b88-9deb-ab10c70bff77

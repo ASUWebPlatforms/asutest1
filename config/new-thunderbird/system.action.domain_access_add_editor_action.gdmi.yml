@@ -1,0 +1,14 @@
+uuid: ae4905df-c28c-4e82-9533-39708bc6f724
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.gdmi
+  module:
+    - domain_access
+id: domain_access_add_editor_action.gdmi
+label: 'Add editors to the GDMI domain'
+type: user
+plugin: domain_access_add_editor_action
+configuration:
+  domain_id: gdmi

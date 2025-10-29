@@ -1,0 +1,29 @@
+tb_gdmi.group_edit_form:
+  title: 'Edit Org. and Group Info'
+  base_route: 'tb_gdmi.dashboard_groups_schedule'
+  route_name: 'entity.group.edit_form'
+  weight: 6
+
+tb_gdmi.group_edit_admins:
+  title: 'Edit Admins'
+  base_route: 'tb_gdmi.dashboard_groups_schedule'
+  route_name: 'tb_gdmi.dashboard_groups_communications'
+  weight: 7
+
+tb_gdmi.group_edit_participants:
+  title: 'Edit Participants'
+  base_route: 'tb_gdmi.dashboard_groups_schedule'
+  route_name: 'tb_gdmi.group_edit_participants_form'
+  weight: 8
+
+tb_gdmi.group_edit_schedule:
+  title: 'Edit Scheduling'
+  base_route: 'tb_gdmi.dashboard_groups_schedule'
+  route_name: 'tb_gdmi.dashboard_groups_schedule'
+  weight: 9
+
+tb_gdmi.group_edit_communications:
+  title: 'Edit communications'
+  base_route: 'tb_gdmi.dashboard_groups_schedule'
+  route_name: 'tb_gdmi.dashboard_groups_communications'
+  weight: 10

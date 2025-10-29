@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: a703daae-d7a9-4635-ab89-dc0de064f0b5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T19:30:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Sanofi-Synthelabo and Aventis: The Birth of a National Champion (A)'
+created:
+  -
+    value: '2016-07-26T19:30:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T19:30:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-05-0014
+body:
+  -
+    value: '<p><span>It was late on Thursday, April 22, 2004, and Jean-Francois Dehecq, the Chief Executive Officer (CEO) of Sanofi-Synthelabo (Sanofi), France''s second largest pharmaceutical company, was sitting in his office thinking about what had happened over the last three months. On January 26, 2004, he had launched a hostile tender offer to acquire Aventis, France''s largest pharmaceutical company. The merger between Sanofi and Aventis would have created the world''s third largest pharmaceutical company, closing the gap with U.S.-based Pfizer and U.K.-based GlaxoSmith-Kline (GSK). Jean-Francois Dehecq had offered £á48.6 billion, but his offer had been rejected by Aventis''s Supervisory Board. Since the end of January, Aventis had been fighting back, launching a poison pill and inviting Novartis, Switzerland''s largest pharmaceutical company, to act as a white knight.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-05-0014
+field_case_page_length:
+  -
+    value: '27 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: France
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: 'This case can be used in a class in corporate finance or in mergers and acquisitions (M&As). It is intended to provide a debate over the following issues: (1) the pros and cons of a merger between Sanofi and Aventis; (2) the French government''s interference with the business world in general and with the merger between Sanofi and Aventis in particular; (3) Aventis''s defense against the hostile tender offer and in the use of a poison pill (the Plavix warrants) and the search for a white knight (Novartis); and (4) Aventis''s valuation with two categories of valuation methods: the discounted cash flows (DCF) method (the weighted average cost of capital (WACC) method), and the comparable method (multiples).'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

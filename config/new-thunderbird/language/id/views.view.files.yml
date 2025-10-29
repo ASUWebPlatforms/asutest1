@@ -1,0 +1,46 @@
+display:
+  default:
+    display_title: Bawaan
+    display_options:
+      fields:
+        filename:
+          label: Nama
+        filesize:
+          label: Ukuran
+        status:
+          label: Status
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Jumlah item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+            offset_label: Letak
+      exposed_form:
+        options:
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sortir dengan'
+          sort_asc_label: 'Urutan turun'
+      filters:
+        filename:
+          expose:
+            label: 'Nama berkas'
+        status:
+          expose:
+            label: Status
+  page_2:
+    display_options:
+      fields:
+        entity_label:
+          label: Entitas
+        type:
+          label: 'Jenis Entity'
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Jumlah item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+            offset_label: Letak
+      arguments:
+        fid:
+          exception:
+            title: Semua

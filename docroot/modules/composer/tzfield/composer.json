@@ -1,0 +1,27 @@
+{
+    "name": "drupal/tzfield",
+    "description": "Defines a time zone field type.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://www.drupal.org/project/tzfield",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/tzfield",
+        "source": "https://git.drupalcode.org/project/tzfield"
+    },
+    "authors": [
+        {
+            "name": "mark burdett",
+            "homepage": "https://www.drupal.org/u/mfb"
+        }
+    ],
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/mfb"
+        },
+        {
+            "type": "patreon",
+            "url": "https://www.patreon.com/mfb"
+        }
+    ]
+}

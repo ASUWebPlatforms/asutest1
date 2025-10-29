@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 8d5257b9-1e05-4ebe-a5aa-36655cae67ba
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Project Artemis Success Story: Kamila Sidiqi'
+created:
+  -
+    value: '2016-06-21T19:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/project-artemis-kamila-sidiqi
+body:
+  -
+    value: "<h4>Empowering Women through Business with Kaweyan Cabs</h4>\r\n<p>[[{\"fid\":\"3045\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Kamila Sidiqi\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Kamila Sidiqi\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><span>K</span><span>amila Sidiqi arrived on the campus of Thunderbird School of Global Management in 2005 as part of the first class of Project Artemis. She initially enjoyed entrepreneurial success as the founder of a dressmaking company in Kabul, but would later reflect on her business training at Thunderbird as an experience that “taught [her] the vital business skills that have helped [her] over the years in [her] various businesses.” Now, almost a decade later, Sidiqi continues to impact the shifting landscape in her home country.</span></p>\r\n<p>Over the past ten years Sidiqi has focused on establishing sustainable and modern businesses in Afghanistan. As a serial entrepreneur her ventures have ranged from dressmaking, education, business development, and manufacturing. However, Sidiqi’s latest company, Kaweyan Cabs, is arguably the most impactful for women in the newly emerging Afghan economy.</p>\r\n<p>Since the fall of the Taliban, the economy in Afghanistan has slowly begun to recover after decades of stagnation. As more jobs become available, Sidiqi aims to ensure that Afghan women who seek careers can satisfy their day-to-day transportation needs. As a result, Sidiqi created Kaweyan Cabs.</p>\r\n<p>Kaweyan Cabs offers security, convenience and comfort to clients in Kabul. The new fleet of silver Chevy compacts can be seen zipping around the capital city, and add to the new face of a transforming country. However, Kaweyan Cabs, unlike other taxi services, seeks to empower its female clientele by offering driving lessons. These lessons give women in Kabul the ability to be self-reliant like never before. It drastically increases their ability to commute to work, without having to depend on a male counterpart or brave unsafe means of transportation.</p>\r\n<p>[[{\"fid\":\"3046\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Kamila Sidiqi\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Kamila Sidiqi\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>As an alumnus of Thunderbird for Good’s Project Artemis, Kamila continues to champion the Thunderbird vision of sustainable prosperity worldwide. Her mission to empower Afghan women is positively changing the landscape of her home country. Her determination, combined with the business skills she gained through Project Artemis, has helped her achieve success that was nearly unfathomable a little over a decade ago.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

@@ -1,0 +1,30 @@
+{#
+/**
+ * @file
+ * Template for a 'form' element.
+ *
+ * Available variables
+ * - attributes: A list of HTML attributes for the wrapper element.
+ * - children: The child elements of the form.
+ *
+ * @see template_preprocess_form()
+ *
+ * @ingroup themeable
+ */
+#}
+<form{{ attributes }}>
+  {{ element.form_build_id }}
+  {{ element.form_token }}
+  {{ element.form_id }}
+  <div class="user-gdmi__items">
+  {{ element.field_first_name }}
+  {{ element.field_last_name }}
+  {{ element.field_country }}
+  {{ element.account.current_pass }}
+  {{ element.account.mail }}
+  {{ element.account.pass }}
+  </div>
+  <div class="d-flex justify-content-end">
+    <div>{{ element.actions }}</div>
+  </div>
+</form>

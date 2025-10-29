@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: fb9df592-10a7-4693-a453-f7646eccb457
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-04-21T17:12:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'ASU retains top US spot for efforts toward UN sustainability goals'
+created:
+  -
+    value: '2021-04-21T17:12:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-04-21T17:12:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/asu-retains-top-us-spot-for-sustainability
+body:
+  -
+    value: '<p><span>For the second year in a row, the university retained the top national spot when it comes to impacts made addressing&nbsp;</span>17 specific goals<span>&nbsp;aimed at achieving a better world for 2030, known as the&nbsp;</span>United Nations Sustainable Development Goals<span>&nbsp;(SDG). Adopted by all United Nations member states in 2015, these goals provide a shared blueprint for peace and prosperity for people and the planet, now and into the future.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-04-21T10:15:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 400
+    height: 200
+    target_type: file
+    target_uuid: 9ef07017-c9dd-4512-bdab-0adab2178bb1
+field_news_link:
+  -
+    uri: 'https://news.asu.edu/20210421-solutions-asu-retains-top-us-spot-un-sustainability-goals-ranking'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.9ef07017-c9dd-4512-bdab-0adab2178bb1

@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 7ffc5f06-5154-463c-9e42-fb4fa8113b1c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-10-08T16:18:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Data is Power: How Thunderbird Alumnus Mamadou Diallo Helped Protect Guinea from COVID-19'
+created:
+  -
+    value: '2020-10-08T16:16:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-10-08T16:18:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/data-power-how-thunderbird-alumnus-mamadou-diallo-helped-protect-guinea-covid-19
+body:
+  -
+    value: '<p>The communities and organizations that have been able to keep COVID-19 cases and deaths relatively low – and mitigate the economic fallout – are those that quickly implemented measures to reduce the spread of the virus. That has been the case in Guinea, home country of Thunderbird alumnus Mamadou Diallo ’20. To date, Guinea (with a population of 12.4 million) has had 10,598 cases and 66 deaths. In comparison, the Los Angeles metro area has about the same population, but 815,000 cases and almost 16,000 deaths.&nbsp;</p><p>How did Guinea protect so well against the global pandemic? There were many contributing factors – a significant one is the tracking system that Diallo and his team developed.&nbsp;</p><p>Based in Washington, D.C., Diallo is the Economic Counselor of the Republic of Guinea Embassy in the United States of America. He’s also a recent graduate of the Thunderbird&nbsp;<a href="https://thunderbird.asu.edu/degrees/graduate-degree/executive-master-in-global-affairs-management">Executive Master of Global Affairs and Management</a>&nbsp;program. With a team of three, Diallo developed a comprehensive COVID-19 tracking model that has helped to dramatically reduce the spread of the deadly virus in Guinea.</p><h3>The COVID-19 Tracking Model That Saved Guinea&nbsp;</h3><blockquote><p><i>“Complex problems require complex, multi-faceted, multi-disciplinary solutions.”&nbsp;</i><a href="https://ctt.ec/19032">Click to Tweet&nbsp;&nbsp;</a></p></blockquote><p>To start, Diallo and his team surveyed public policymakers and private sector leaders, asking their opinions about community management of the pandemic. Next, Diallo and his team aggregated the survey data and built a model to, first, forecast how many cases there would be in any given community over a 60-day period and, second, enable those communities to prepare. &nbsp;</p><p>“It’s a model that takes into account all of the systems – hospitals, communities, companies, and policymakers,” Diallo said. “Building it required economists and doctors and policymakers to communicate and work together, and that’s not always easy.” But Diallo knew based on his knowledge from Thunderbird that complex problems require complex, multi-faceted, multi-disciplinary solutions.&nbsp;</p><p>For example, one finding from the team’s survey was that Guineans were more than willing to stay home to stop or slow the spread of the coronavirus, but they would need financial support to do so. “Many people in Africa live on $1 a day or less,” Diallo said. “So, the government developed a plan to compensate people to stay home.”&nbsp;</p><p>The World Bank helped. According to a&nbsp;<a href="https://blogs.worldbank.org/nasikiliza/civil-society-and-government-agencies-guinea-collaborate-fight-against-covid-19">blog</a>&nbsp;from late August, “In Guinea, the Bank mobilized nearly $46 million in existing operations and $221 million in new funding to fight COVID-19 and to support the country’s economic recovery.” It was the survey findings and tracking system Diallo and his team developed that enabled Guinea to receive and put to best use the World Bank funding.</p><p>The end result was well worth the effort. “The 60-day COVID-19 management strategy in Guinea was a huge game changer,” Diallo said. “Because of this collaboration,&nbsp;Guinea holds the lowest death rate for COVID-19 in West Africa.”</p><h3>Tackling Other Tough Challenges in Guinea and Beyond</h3><p>The COVID-19 tracker is a perfect example of how the combination of collaboration among stakeholders, external support, and the power of data can build community resilience. It’s a model that can be extended to tackle other challenges in Guinea and beyond.</p><p>For example, Diallo explained how a lack of digital infrastructure puts Guineans at a significant disadvantage. “We need to have more developed infrastructure in order to support internet access across the country, for all citizens,” he said. “Many families in Africa have to choose between feeding their families and having internet access, so of course they’re going to choose the former.”&nbsp;</p><blockquote><p><i>“Many Africans have to choose between feeding their families and having internet access.” ~ Thunderbird alum Mamadou Diallo &nbsp;</i><a href="https://ctt.ec/9Ea0C">Click to Tweet&nbsp;&nbsp;</a></p></blockquote><p>Diallo is dedicated to using the knowledge he has acquired in the Executive Master of Global Affairs and Management program&nbsp;at Thunderbird to help Guinea continue its development, raising the standard of living for all its citizens. He said, “I intend to help resolve development problems – and teach as a volunteer the young people in our public universities, civil society organizations, and local communities on issues of development, management and the use of tools of the Fourth Industrial Revolution.”</p>'
+    format: basic_html
+    processed: ''
+    summary: 'The communities and organizations that have been able to keep COVID-19 cases and deaths relatively low – and mitigate the economic fallout – are those that quickly implemented measures to reduce the spread of the virus. That has been the case in Guinea, home country of Thunderbird alumnus Mamadou Diallo ’20. To date, Guinea (with a population of 12.4 million) has had 10,598 cases and 66 deaths. In comparison, the Los Angeles metro area has about the same population, but 815,000 cases and almost 16,000 deaths. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2121
+    height: 1414
+    target_type: file
+    target_uuid: b79ff4f4-51e9-46b5-a4c9-a7f230dd4e8e
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: dafbc210-02f0-42d5-a1e3-584df1b4db85
+  -
+    target_type: taxonomy_term
+    target_uuid: 224695c4-4c68-4e66-9f48-34cab39fd0ca
+  -
+    target_type: taxonomy_term
+    target_uuid: edd5d89f-69fc-4bbb-af7e-5badc7bcec05
+  -
+    target_type: taxonomy_term
+    target_uuid: d107034a-118e-43cc-92f3-70aa0b3790da
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.b79ff4f4-51e9-46b5-a4c9-a7f230dd4e8e
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+      - taxonomy_term.knowledge_network_tags.dafbc210-02f0-42d5-a1e3-584df1b4db85
+      - taxonomy_term.knowledge_network_tags.224695c4-4c68-4e66-9f48-34cab39fd0ca
+      - taxonomy_term.knowledge_network_tags.edd5d89f-69fc-4bbb-af7e-5badc7bcec05
+      - taxonomy_term.knowledge_network_tags.d107034a-118e-43cc-92f3-70aa0b3790da

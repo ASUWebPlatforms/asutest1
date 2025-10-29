@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 9d569110-6acb-411a-a7b5-20dd94ff5352
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-20T15:34:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7b1529a2-a560-4e29-908c-58a806b9036b
+title:
+  -
+    value: 'Navigating Cultural Borders'
+created:
+  -
+    value: '2017-08-27T19:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-20T15:34:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/navigating-cultural-borders
+body:
+  -
+    value: "<p class=\"m9088788297204562514gmail-p1\"><strong>TEM Lab - Fall, 2017</strong><br><strong>Romania, Taparo</strong><br><strong>Written by Jeff Webb '17</strong></p>\r\n<p class=\"m9088788297204562514gmail-p1\">Romania is a beautiful country in Eastern Europe, famed in the United States for Transylvania, Dracula, and vampire lore. In our short time here we have learned ways to navigate our way through the culture. Let us take you on a road trip with us through some of our cross-cultural relations.&nbsp;</p>\r\n<p class=\"m9088788297204562514gmail-p1\">After finishing our nearly 18-hour journey across the United States, Atlantic Ocean, and Western Europe, Amy, Hairold, Jeff, and Logan arrived at their final destination of Cluj-Napoca, Romania.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1839px;\" class=\"caption-inner\">[[{\"fid\":\"6703\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Taparo TEM Lab Team with CEO\",\"field_file_image_title_text[und][0][value]\":\"Taparo TEM Lab Team with CEO\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Taparo TEM Lab Team with CEO\",\"field_file_image_title_text[und][0][value]\":\"Taparo TEM Lab Team with CEO\"}},\"attributes\":{\"alt\":\"Taparo TEM Lab Team with CEO\",\"title\":\"Taparo TEM Lab Team with CEO\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]\r\n<p class=\"caption-text\">Thunderbird TEM Lab with the CEO of Taparo, a Romanian furniture manufacturer.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"m9088788297204562514gmail-p1\">In customs, the first of us through had to give a lengthy explanation as to why this random group of Americans was arriving in their distant and unknown city, and the list of follow-up questions that came with that. Luckily for the rest of us, instead of giving the same explanation, all we had to say was “what they said.” Romanians are understanding and enjoy simplifying things.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6708\",\"view_mode\":\"responsive_image\",\"fields\":{\"field_file_image_alt_text[und][0][value]\":\"Romanian Haystacks\",\"field_file_image_title_text[und][0][value]\":\"Romanian Haystacks\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"field_file_image_alt_text[und][0][value]\":\"Romanian Haystacks\",\"field_file_image_title_text[und][0][value]\":\"Romanian Haystacks\"}},\"attributes\":{\"alt\":\"Romanian Haystacks\",\"title\":\"Romanian Haystacks\",\"class\":\"panopoly-image-original media-element file-responsive-image\",\"data-delta\":\"1\"},\"link_text\":null}]]\r\n<p class=\"caption-text\">Romanian haystacks</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"m9088788297204562514gmail-p1\">Driving should be a sport here. After parking in the middle of round-about traffic, pushing through downtown traffic with everyone headed to the big fútbol game, speeding up to 50kph just to come to a quick stop 4 meters later and driving 30kph when there is nobody in front of you. Our bus drivers had no understanding of English whatsoever; that is until Michael Jackson came on the radio. Romanians don’t speak English but they love the King of Pop.</p>\r\n<p class=\"m9088788297204562514gmail-p1\">Everything is new and unique to us in this distant land. Corn on pizza, pálinka, and patio doors that become windows to name a few. Old remnants of communism from years past are noticed all over, a sign of what Romania has overcome and, in many ways, is still over coming. Romanians like to do things differently and know how to win.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6704\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Engaging with the Locals\",\"field_file_image_title_text[und][0][value]\":\"Engaging with the Locals\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Engaging with the Locals\",\"field_file_image_title_text[und][0][value]\":\"Engaging with the Locals\"}},\"attributes\":{\"alt\":\"Engaging with the Locals\",\"title\":\"Engaging with the Locals\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]\r\n<p class=\"caption-text\">Engaging with the locals</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"m9088788297204562514gmail-p1\">After walking down 4 dimly lit streets in the rain we learned of a device commonly used here to keep you dry known as an umbrella. We’re pretty certain that these devices will make it big back home, but until then, we will have to settle with drying off with a blow dryer, courtesy of our Universitas Hotel room. Romanians know how to stay dry when it rains.</p>\r\n<p class=\"m9088788297204562514gmail-p1\">Within these borders, we practice “Romanian standard time.” That is, whatever time a meeting is planned means that meeting will take place at any point after the chosen time. This becomes extremely helpful when your breakfast bread and jam is so good that you leave the hotel pension late, but you still make it to all of your planned meetings for the day. Romanians know how to make good jam and adapt on the go in regard to meetings.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6705\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Enjoying Romanian Cuisine\",\"field_file_image_title_text[und][0][value]\":\"Enjoying Romanian Cuisine\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Enjoying Romanian Cuisine\",\"field_file_image_title_text[und][0][value]\":\"Enjoying Romanian Cuisine\"}},\"attributes\":{\"alt\":\"Enjoying Romanian Cuisine\",\"title\":\"Enjoying Romanian Cuisine\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]\r\n<p class=\"caption-text\">Enjoying Romanian cuisine</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"m9088788297204562514gmail-p1\">As we wrap up the first week of our business project for the furniture manufacturer Taparo, in the foothills of the Transylvanian Alps, there is one thing we definitely know about Romania - we love it. The culture is beautiful. The history is enlightening. The geography is lush. Maybe the best of all, the people are genuine. They will give you the shirt off of their back.</p>\r\n<p class=\"m9088788297204562514gmail-p1\">While out one evening, we asked some men what type of fruit was hanging from a tree off in the distance. They told us it was a pear tree and then offered to get us a bag of them. Romanians will go out of their way to make your life better.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1849px;\" class=\"caption-inner\">[[{\"fid\":\"6706\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"In the Board Room\",\"field_file_image_title_text[und][0][value]\":\"In the Board Room\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"In the Board Room\",\"field_file_image_title_text[und][0][value]\":\"In the Board Room\"}},\"attributes\":{\"alt\":\"In the Board Room\",\"title\":\"In the Board Room\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]\r\n<p class=\"caption-text\">In the board room</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Taparo TEM Lab Team with CEO'
+    title: 'Taparo TEM Lab Team with CEO'
+    width: 4000
+    height: 2348
+    target_type: file
+    target_uuid: db993cbe-ba56-4ad4-b024-ad6f5165564a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.7b1529a2-a560-4e29-908c-58a806b9036b
+    file:
+      - file.image.db993cbe-ba56-4ad4-b024-ad6f5165564a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

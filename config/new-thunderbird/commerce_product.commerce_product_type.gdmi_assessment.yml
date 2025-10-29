@@ -1,0 +1,14 @@
+uuid: 75b25edb-0e36-444d-9444-c8cabc563889
+langcode: en
+status: true
+dependencies: {  }
+id: gdmi_assessment
+label: 'GDMI Assessment'
+traits: {  }
+locked: false
+description: 'GDMI Assessment'
+variationType: gdmi_assessment
+variationTypes:
+  - gdmi_assessment
+multipleVariations: true
+injectVariationFields: true

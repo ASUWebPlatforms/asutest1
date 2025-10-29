@@ -1,0 +1,11 @@
+uuid: bb87db90-b3a6-411e-ba22-0092ab8e03a0
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.gdmi_signposts
+id: block_content.gdmi_signposts
+target_entity_type_id: block_content
+target_bundle: gdmi_signposts
+default_langcode: site_default
+language_alterable: false

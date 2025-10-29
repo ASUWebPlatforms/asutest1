@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 826f86e0-24a1-4009-b245-4547c21c62aa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: c740eac5-4575-4b58-a963-a62837cea4e3
+filename:
+  -
+    value: gcl_team.png
+uri:
+  -
+    value: 'public://article/gcl_team.png'
+    url: /sites/default/files/article/gcl_team.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1387846
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-09-17T23:00:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-17T23:00:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.c740eac5-4575-4b58-a963-a62837cea4e3

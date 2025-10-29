@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: b980aafe-080f-4875-8f56-887b05654065
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Myanmar: The Beginning'
+created:
+  -
+    value: '2014-01-28T16:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/myanmar-beginning
+body:
+  -
+    value: "<p>[[{\"fid\":\"2982\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Myanmar: The Beginning\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Myanmar: The Beginning\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Myanmar: The Beginning\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Six TEM Lab consultants will be traveling to Yangon, Myanmar this spring to explore the role that Myanmar could play in Libbey Inc.'s global sourcing strategy. Toledo-based Libbey (LBY) is the largest producer of glass tableware in the Western Hemisphere. Libbey designs, manufactures, distributes, and markets an extensive line of high-quality glass, metal, and ceramic tableware to both businesses and households.</p>\r\n<p>Emerging markets present an opportunity for Libbey to obtain additional cost reductions. The cost to produce goods in China is reaching parity with production in the US. With Myanmar’s recently passed foreign investment laws, Libbey has a potential arbitrage opportunity if it can find suppliers to produce its assortment of tableware and flatware products while meeting its standards for quality and scale.</p>\r\n<p>The team of TEM Lab consultants is prepared to meet the challenge of finding suppliers in Myanmar that can meet Libbey’s requirements. Professionally, the team’s functional expertise includes supply chain and manufacturing in Asia and North America, finance and cost accounting in Southeast Asia, consulting and project management worldwide, and a background and passion for multicultural experience and knowledge.</p>\r\n<p>Stay tuned for an exciting emerging market adventure!</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

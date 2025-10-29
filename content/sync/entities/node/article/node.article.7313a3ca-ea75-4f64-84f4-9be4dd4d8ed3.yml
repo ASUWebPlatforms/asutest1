@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 7313a3ca-ea75-4f64-84f4-9be4dd4d8ed3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Thunderbird to train 25 women entrepreneurs from Latin America'
+created:
+  -
+    value: '2012-06-04T23:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/women-entrepreneurs-latin-america
+body:
+  -
+    value: "<div>[[{\"fid\":\"2893\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Latin America\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Latin America\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</div>\r\n<p>Thunderbird will soon welcome 25 women entrepreneurs from 10 Latin American countries to campus for two weeks of intensive business skills training. The program, a partnership with the&nbsp;<strong>U.S. Department of State</strong>&nbsp;and the&nbsp;<strong>Goldman Sachs&nbsp;<em>10,000</em>&nbsp;<em>Women</em></strong><em>&nbsp;</em>initiative, is the second of three “global cohorts” of women business owners from around the world who will receive training in Arizona. From June 9 through June 24, the women will study entrepreneurship at Thunderbird, visit businesses<em>&nbsp;</em>across the state and meet local female entrepreneurs.</p>\r\n<p>The program is a main component of U.S. Secretary of State&nbsp;<strong>Hillary Rodham Clinton’s</strong>&nbsp;<a href=\"http://www.voanews.com/policy/editorials/americas/Women-Entrepreneurs-In-The-Americas--148004115.html\">Women’s Entrepreneurship in the Americas</a>&nbsp;initiative, which seeks to break down barriers for women starting businesses in Latin America and the Caribbean. Participants selected for the competitive Goldman Sachs&nbsp;<em>10,000 Women&nbsp;</em>Entrepreneurship Partnership Program at Thunderbird are emerging women business leaders who run small to midsized companies. They represent a number of sectors — from agro-industrial processors to fashion, home décor, bakeries and traditional handicrafts. Nations represented as part of the second cohort include Argentina, Bolivia, Chile, Colombia, Nicaragua, Paraguay, Guatemala, Jamaica, Honduras and Panama.</p>\r\n<p>The&nbsp;<strong>Arizona Hispanic Chamber of Commerce</strong>&nbsp;will serve as a key local partner for this cohort, and has provided valuable logistical and communications support. The&nbsp;<em>10,000 Women</em>&nbsp;group will participate in site visits, hear from local Latina entrepreneurs in the classroom, and work directly with Phoenix’s Latina Business Enterprise group to finalize parts of their business plan. Chamber members will also participate in several Thunderbird business classes, make presentations and mentor the fellows.</p>\r\n<p>“Phoenix has become a hub for commerce with Latin America, and the&nbsp;<em>10,000 Women</em>&nbsp;program is a perfect example of an international, joint public-private venture that boosts our mutual economies across the board,” said&nbsp;<strong>Gonzalo de la Melena</strong>, president and CEO of the Arizona Hispanic Chamber of Commerce and a class of 1999 Thunderbird alumnus.</p>\r\n<p>The community is invited to meet the women at a casual open house and global market at Thunderbird’s campus at 59<span>th</span>&nbsp;Avenue and Greenway in Glendale on Monday, June 11 from 2:30-5 p.m. The women will be selling some of their products, and light refreshments will be served. Remarks will be given by Thunderbird’s Interim President, Ambassador<strong>&nbsp;Barbara Barrett</strong>, and&nbsp;<strong>Gonzalo de la Melena</strong>.<strong></strong></p>\r\n<p>Thunderbird’s philanthropic arm,&nbsp;<strong><a href=\"http://www.thunderbird.edu/about_thunderbird/thunderbird_good/about/index.htm\">Thunderbird for Good</a></strong>, has run programs for entrepreneurs from developing nations since 2004. More than 30,000 participants have attended Thunderbird for Good programs at our campus in Glendale, Arizona, and in the communities where they live and work all over the world. Past projects have trained women entrepreneurs from Afghanistan, Pakistan, Peru and Jordan, as well as male radio broadcasters and radio station owners from Afghanistan. The first Global Cohort program in January 2012 brought 28 women entrepreneurs from Indonesia, Kyrgyzstan, Tajikistan, Uzbekistan, Palau, Tonga, Samoa, Papua New Guinea, Kiribati and Malaysia.</p>\r\n<p><em>(Photo: Global Cohort Participants Ms. Lidia Estigarribia and&nbsp;</em><em>Ms. Cynthia Lorena Nunez Benitez with U.S. Ambassador to Paraguay James Thessin. Photo by the U.S. Embassy in Paraguay.)&nbsp;</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

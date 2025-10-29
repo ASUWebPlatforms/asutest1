@@ -1,0 +1,20 @@
+uuid: 6a894ccc-2e7a-4239-81e1-d0263434e793
+langcode: en
+status: true
+dependencies:
+  module:
+    - commerce_product
+    - webform
+id: commerce_product.field_assessment_webform
+field_name: field_assessment_webform
+entity_type: commerce_product
+type: webform
+settings:
+  target_type: webform
+module: webform
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

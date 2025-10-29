@@ -1,0 +1,20 @@
+uuid: 1fd8d68c-74f7-46d8-9234-c2c6291420d3
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.case_series_years
+  module:
+    - path
+id: taxonomy_term.case_series_years.path
+field_name: path
+entity_type: taxonomy_term
+bundle: case_series_years
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

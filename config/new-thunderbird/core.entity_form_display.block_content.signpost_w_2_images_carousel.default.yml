@@ -1,0 +1,55 @@
+uuid: 16e8a0b7-457e-44ee-80e1-4358209c3eef
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_w_2_images_carousel
+    - field.field.block_content.signpost_w_2_images_carousel.field_anchor_menu_settings
+    - field.field.block_content.signpost_w_2_images_carousel.field_slide
+  module:
+    - paragraphs
+id: block_content.signpost_w_2_images_carousel.default
+targetEntityType: block_content
+bundle: signpost_w_2_images_carousel
+mode: default
+content:
+  field_anchor_menu_settings:
+    type: entity_reference_paragraphs
+    weight: 27
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+  field_slide:
+    type: entity_reference_paragraphs
+    weight: 26
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+  info:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+hidden: {  }

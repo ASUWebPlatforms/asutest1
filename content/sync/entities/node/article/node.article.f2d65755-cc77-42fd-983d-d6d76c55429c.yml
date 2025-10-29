@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: f2d65755-cc77-42fd-983d-d6d76c55429c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-13T16:01:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Memo to Hospital Boards: Rush Slowly to Expand Overseas'
+created:
+  -
+    value: '2018-09-10T15:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-13T16:01:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/memo-hospital-boards-rush-slowly-expand-overseas
+body:
+  -
+    value: "<p><em>By Robert W. Courtney</em></p>\r\n<p>Multiple hospital operators recently announced plans to pursue or explore international expansion, including Brigham, Massachusetts General, and ProMedica in China, and Steward in Malta and Croatia. Others are now considering following suit, making exploratory trips abroad, and readying feasibility studies and business plans for presentation to their boards. These ambitions mark an ideal moment for the board members of these companies to put on their helpful skeptic hats and ask the questions about global readiness that will guide their organizations to the best decision.</p>\r\n<p>Going international is exciting. It holds the potential for creating new revenue streams and offers the opportunity to share best practices and compete abroad using newly innovated healthcare models. With that said, it may not be the right fit for every organization. Delivering healthcare services overseas is especially complicated and fraught with risks that should be identified, evaluated and carefully considered. Taken together, global expansion is an opportunity to be explored and executed with care and one that can be informed by the lessons of those who have taken the same path.</p>\r\n<p>Deciding to pursue an overseas project shouldn’t be based solely on opportunity. Instead, it should be guided by the key questions of what is the broader international strategy, and what is the appropriate business model for realizing it. The risk-reward spectrum ranges from consulting and management at the lower end, to building a new hospital – a task that involves levels of difficulty and risk that only seasoned operators should consider – at the upper end. A joint venture with operating responsibility has a lower level of difficulty, and its level of execution risk is moderated by local partner expertise and know-how.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>While consulting and management have the lowest risks, the business model has limited long-term sustainability and, especially for newer entrants, requires considerable front-end financial and human resources to execute effectively. Generally, the client hospital is seeking to jump-start the learning curve and access best practices in patient care, medical technologies, and business and clinical management. Over time, the local hospital becomes largely self-sufficient, or at least believes itself to be, and the consulting role diminishes. If the consulting or management fees include a success component, care is required to define success and to identify and exclude failures that are due to factors outside your control. If the project is an overseas or market first for your organization, expect surprises and hedge against them by attracting experienced talent to your team, especially at the feasibility and beachhead stages. Professionals with international transactions experience are essential at the due diligence and contractual stages.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>American healthcare, despite its well-publicized difficulties, enjoys an excellent reputation globally. Beyond that reputational advantage, consider the existing US and international competition and evaluate your organization’s relative competitive advantages and ability to execute effectively in a foreign market. There are multiple domestic and international operators who have years of overseas experience as consultants, managers, and owner-operators of hospitals and primary care facilities. These companies are actively expanding in select markets. US companies with experience operating internationally include HCA Healthcare (UK), UPMC (Italy, Ireland, Singapore, and others), and Cleveland Clinic (Canada, Abu Dhabi). Some of the more active international competitors include Raffles (Singapore), IHH (Malaysia), Ramsay (Australia), and Artemed (Germany).<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>Geopolitical volatility and trade barriers are an increasing global reality. Factor into the “go global” decision whether your target country is prone to these risks, and whether the company’s project might be negatively affected. If the project is private pay dependent, high on the list of risk factors to consider is what effect a financial crisis would have on your payments, and whether currency controls might interrupt the receipt of consulting or management fees, or block the repatriation of profits.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>Is your organization ready to meet the cultural challenges of operating abroad? Global expansion means engaging with professionals and patients from different cultures that may speak different languages, and who may have different attitudes toward clinical practice guidelines and medical ethics. What works at home will not work everywhere. Will American attitudes about how healthcare is delivered and paid for translate in the new market? What is the medical and management team’s cultural readiness to work effectively with the local team and patients? Expect different approaches to resolving the tension between medical ethics and commercial profitability. Experience working abroad is preferred, and experience working in the host country is optimal. In any case, team training is essential to fostering a global mindset that is aware of the need to adjust to different environments and cultures.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>Are your financial assumptions correctly adapted to local conditions? Imported equipment, disposables, and medical devices make up a high percentage of both capital and expense budgets, and their cost can increase quickly with currency devaluations. This risk warrants especially careful attention in heavily import-dependent developing and emerging markets, but moderates in developed markets (EU) and countries that are rapidly localizing (China, Russia, India). Collection risk also requires attention, particularly for providers targeting the growing private segments in developing countries. It’s important to be aware of local customs on payment terms and consumer credit-worthiness if all or a part of the fees for service are not paid for when rendered. Pricing policies must match according to local customs for discounts and payments in kind. In some cultures, beware of backhanders to physicians in exchange for unbilled procedures and be ready to install appropriate audit and oversight procedures. Cash flow budgets should be matched with local practices on the timing of reimbursements, which can vary significantly from country to country and payer to payer.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>The regulatory environment can present ongoing challenges. Some international laws regulating personal data and privacy (including the new EU General Data Protection Regulation), are more stringent than those in the United States. These can rapidly evolve, which could have an adverse effect on operations. Compliance may increase operating costs. Non-compliance risks fines and can expose the organization to potential liability as well as reputational harm to its brand and public image. Licensing rules can affect the quality of care your team expects to deliver. Practice varies by country on whether a foreign physician can be licensed to fully practice or only to consult. Regulatory approval obstacles and restrictions can delay or make unavailable certain medical devices, disposables, medications and antibiotics.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>Well-executed recruitment, staffing, and training programs are important success drivers. It cannot be overstated how important the outstanding physicians and clinical staff are to the ability to deliver overseas the same level of high quality care your hospital delivers at home. Recruiting is not an easy task. If external, there is competition for a limited pool of candidates that are clinically excellent, want to practice overseas, and have the ability and staying power to be effective in a foreign culture for at least several years. Many companies choose to recruit internally and post trusted professionals abroad to lead the new project. The real question is whether or not they can integrate with the foreign team to form an effective clinical team, which places an emphasis on cross-cultural training.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>While the expatriate team is essential in the early years, experience shows that long-term sustainability requires recruiting a talented and dedicated local team, and putting in place a thorough training and education program. This emphasis on process requires the transfer of know-how and ability to cultivate a commitment to the standard of care of the home country organization. Recruiting natural mentors for the beachhead team will go a long way toward achieving this result. Linking to the American hospital’s expertise through distance learning, telemedicine, and emerging digital technologies like virtual reality, are important complements to your organization’s value.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>Finally, in evaluating the company’s global readiness, the board itself may want to take a look in the mirror. Is the board’s composition fit for the purpose of overseeing the launch and execution of an international strategy? Ideally, its members should include clinicians and business professionals who have experience in the delivery of healthcare services in foreign countries.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>There are ample global growth opportunities for American hospital companies that are well-suited to expanding overseas. Many have done so successfully, while many others have failed or stumbled. Determining whether your organization can become one of the success stories is an important process.&nbsp;<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>As leadership measures the organization's readiness against the opportunity, it might include the considerations presented here in evaluating whether and how to successfully execute and sustain an overseas expansion strategy.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p><em>This article was originally published in <a href=\"https://www.beckershospitalreview.com/hospital-management-administration/memo-to-hospital-boards-rush-slowly-to-expand-overseas.html\">Becker's Hospital Review</a></em></p>\r\n<h5>About the Author</h5>\r\n<p><em>[[{\"fid\":\"60996\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\",\"field_file_image_title_text[und][0][value]\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\",\"field_file_image_title_text[und][0][value]\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\"}},\"attributes\":{\"alt\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\",\"title\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\",\"width\":\"200\",\"style\":\"float: left; margin-left: 15px; margin-right: 15px;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]Robert W. Courtney '88 is an American lawyer and business executive with over 25 years’ international business and legal experience including franchising, cross-border joint ventures, retail, real estate, healthcare services, travel, and information technology. Courtney is the senior executive director of Retail Profile Russia and Retail Impulse Nordics. He has extensive experience as a principal in or advisor to the development and management of new ventures in Russia, the Commonwealth of Independent States, Eastern Europe, Scandinavia, China, Taiwan </em>and<em> Japan. He is a 1988 graduate of Thunderbird School of Global Management.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Multiple hospital operators recently announced plans to pursue or explore international expansion, including Brigham, Massachusetts General, and ProMedica in China, and Steward in Malta and Croatia. Others are now considering following suit, making exploratory trips abroad, and readying feasibility studies and business plans for presentation to their boards. These ambitions mark an ideal moment for the board members of these companies to put on their helpful skeptic hats and ask the questions about global readiness that will guide their organizations to the best decision.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1385
+    target_type: file
+    target_uuid: b2764158-7aba-4ab6-b5e5-010381f7bc31
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.b2764158-7aba-4ab6-b5e5-010381f7bc31
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

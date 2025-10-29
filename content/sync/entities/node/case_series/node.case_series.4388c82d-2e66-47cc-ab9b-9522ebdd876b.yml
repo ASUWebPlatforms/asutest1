@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: 4388c82d-2e66-47cc-ab9b-9522ebdd876b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T19:48:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Giant Manufacturing and Economic Risk'
+created:
+  -
+    value: '2016-07-27T19:48:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T19:48:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-00-0006
+body:
+  -
+    value: '<p>This company was founded in 1972 by Anthony Lo, in Tachia, a port city in western Taiwan. From a very humble beginning, this company turned, in a period covering from 1984 to 2000, into the largest producer and the largest exporter of bicycles in the world.</p><p>The success enjoyed by Giant was based on the ability of top management to turn a problem into an advantage and the skills of this group to differentiate between a fad and an enduring shift in consumer demand</p><p>From its inception, a large proportion of the company revenues was the result of exports to North America and Europe. Therefore, managing pricing and exchange rate exposure were two major priorities of Giant.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-00-0006
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: 'Asia, Taiwan 1996'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 237c6a80-8944-42de-90a5-81f64a768231
+field_teaching:
+  -
+    value: "This case could be used in a course in global finance, in a section dealing with pricing in global markets or in a section on economic risk management.\r\n\r\nIn this case, the students are assigned the task of finding how the pricing strategies in foreign markets and variations in the exchange rate affect the company's revenues, especially US dollar revenues, given that the US constitutes the largest export market for Giant. To facilitate the learning process, the instructor is encouraged to additionally provide students with the technical note, \"Controlling Economic risk,\" as background information to resolve the assigned questions."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.237c6a80-8944-42de-90a5-81f64a768231

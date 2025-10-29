@@ -1,0 +1,23 @@
+uuid: 97924b4e-5712-484b-83b8-d455f854321c
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.hero
+    - field.storage.block_content.field_content_alignment
+  module:
+    - options
+id: block_content.hero.field_content_alignment
+field_name: field_content_alignment
+entity_type: block_content
+bundle: hero
+label: 'Content alignment'
+description: ''
+required: true
+translatable: true
+default_value:
+  -
+    value: 'justify-content-start align-items-start'
+default_value_callback: ''
+settings: {  }
+field_type: list_string

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 7f05a6a0-ff96-4536-8f1a-8bcaa6b4330b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Embrace Four Thinking Styles to Save Your Sanity'
+created:
+  -
+    value: '2012-12-10T09:49:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/four-thinking-styles
+body:
+  -
+    value: "<p>Before you try to change the way your colleagues, contacts and customers act, learn how they think. Culture involves multiple dimensions that often remain invisible, but the most important to grasp is the way different people process information and approach problems. Not everyone thinks the same, and not everyone likes the way you think.</p>\r\n<p>This is a good thing. Managers who recognize and support different thinking styles can leverage the diverse talents and perspectives of everyone around them. Different brains ask different questions, which creates the potential for different answers and different results.</p>\r\n<p>Mindful managers first must gain awareness of their own thinking biases. Thunderbird School of Global Management uses the&nbsp;Cultural Orientations Indicator, a self-assessment that helps managers identify their cultural preferences in 10 categories. Thinking is just one dimension, along with communication, space, power, individualism, competiveness, environment, time, action and structure.</p>\r\n<p>Like spokes in a wheel, each dimension works together to support a person’s overall identity. The Cultural Orientations Indicator does not place one dimension above another, but I always explore thinking first when debriefing managers on the instrument.</p>\r\n<p>Frustration and division result when managers assume everyone in their organization thinks like them — or ought to think like them. The first thing I consider when analyzing cross-cultural tension is the thinking preferences involved.</p>\r\n<p>Generally these preferences solidify during a person’s formative years and do not change over time, but effective cross-cultural managers can learn to adapt their communication style. These managers discover they can change how they communicate without changing what they say. They can switch styles without switching the message to be communicated.</p>\r\n<p>The&nbsp;Cultural Orientations Indicator&nbsp;describes four basic thinking processes that every global manager should master.</p>\r\n<p><strong>Deductive thinkers</strong></p>\r\n<p>Deductive thinkers need to know why. They ask: Why is one project more important than another? Why are we doing this? Why the sudden urgency? Why should I care? These thinkers are looking for the logic of actions in an organization.</p>\r\n<p>Knowing why makes all the difference with deductive thinkers. Every time they encounter a new idea or project, they lose interest quickly if they do not understand why. They already have stopped reading this article if I have not explained persuasively why it matters to recognize and embrace different thinking styles.</p>\r\n<p>Mindful managers who work with deductive thinkers must explain why. “Trust me, I’m the boss” simply does not work with this audience.</p>\r\n<p><strong>Inductive thinkers</strong></p>\r\n<p>The critical question shifts from why to how with inductive thinkers. How did we decide? How did we crunch the numbers? How will we change? Their decision making process also involves looking at history. They often ask: How did we do this in the past?</p>\r\n<p>When inductive thinkers analyze a problem, they need data on how things have been done in the past. They want to see reports, review history and double check results before deciding anything. Methodology matters most.</p>\r\n<p>Deductive and inductive thinkers can lose patience with each other when their problem-solving approaches clash. “Who cares how,” a deductive thinker might say. “I can tell you why.”</p>\r\n<p><strong>Linear thinkers</strong></p>\r\n<p>Linear thinkers worry first about things like when, and in what order. When is it due? What needs to happen first? Who does what?</p>\r\n<p>They dislike ambiguity or gaps in the process. They need to see how A connects to B and then C and D — like a Google Map route that provides step-by-step instructions. Lofty vision statements mean little to linear thinkers unless an organization outlines concrete plans of execution.</p>\r\n<p><strong>Systemic thinkers</strong></p>\r\n<p>Systemic thinkers have a tendency to keep an eye on the end goal, paying less attention to the details of the different steps to be taken in order to achieve the goals. In other words these are the people who have a tendency to create vision in an organization and make sure goals are attained.</p>\r\n<p>“I don’t care what you do or how you do it,” a systemic thinker might say, “as long as the job gets done.” Such managers cringe when linear thinkers on their team follow up with e-mails seeking guidance on procedures. “That’s your job to figure it out,” a systemic thinker might respond.</p>\r\n<p>A classic example of systemic leadership comes from Apple co-founder and CEO Steve Jobs, who gave his research and development team only three requirements for the iPod mp3 player. He did not care what they did as long as they delivered a product that 1. Uses no screws, 2. Is controlled with the thumb, and 3. Changes the way people carry their music. Engineers responded in 2001 with a sleek tool that revolutionized the industry.</p>\r\n<p>Most of the time the combination of thinking styles works best — but only if managers remain mindful of differences and work to build inclusive environments. Airbus overlooked some of these differences and paid a price with the A380 commercial jet. French engineers approached the design with a deductive and systemic mindset, while their German counterparts applied inductive and linear thinking.</p>\r\n<p>The result was often costly miscommunication. In one case, visionary French designers added three centimeters to the diameter of a conduit to accommodate the potential of additional wiring. The more practical German designers looked at the plans and saw unneeded costs. They trimmed three centimeters from the pipe’s diameter to save money, but then ran into problems when additional wires did not fit.</p>\r\n<p>The inaugural A380 flew out of Toulouse, France, after nine months of delays with duct tape holding some wires in place. The problem was not French or German engineering, but differences in thinking preferences and the failure of managers to cross-cultural communication.</p>\r\n<p>Managers who embrace all four thinking styles save their organizations time and money. And they save themselves considerable stress.</p>\r\n<p><em><strong><a href=\"/node/100\">Denis Leclerc</a></strong>, Ph.D., is a clinical professor of cross-cultural communication and negotiation at Thunderbird School of Global Management in Glendale, Arizona. A native of Normandy, France, Dr. Leclerc has taught at the Institute of Tourism and Transport Studies in the Netherlands and the IMC Fachhochschule in Austria. He also has taught in Mexico and the Czech Republic. He has debriefed thousands of managers all over the world on the&nbsp;Cultural Orientations Indicator. <br></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

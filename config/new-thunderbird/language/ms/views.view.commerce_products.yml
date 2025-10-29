@@ -1,0 +1,37 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: 'Set semula'
+          exposed_sorts_label: 'Susun mengikuti'
+          sort_asc_label: Menaik
+          sort_desc_label: Menurun
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+      fields:
+        title:
+          label: Tajuk
+        type:
+          label: Jenis
+        status:
+          label: Status
+          settings:
+            format_custom_true: Diterbitkan
+            format_custom_false: 'Belum diterbitkan'
+        changed:
+          label: 'Telah dikemaskinikan'
+        operations:
+          label: Operasi-operasi
+      filters:
+        type:
+          expose:
+            label: Jenis
+        title:
+          expose:
+            label: Tajuk
+  page_1:
+    display_title: Halaman

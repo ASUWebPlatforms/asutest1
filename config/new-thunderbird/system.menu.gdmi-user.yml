@@ -1,0 +1,8 @@
+uuid: 1177c229-e32a-476a-aeb3-d4fae76e754e
+langcode: en
+status: true
+dependencies: {  }
+id: gdmi-user
+label: 'GDMI User'
+description: 'GDM User menu used in the header and menus block in the lower section'
+locked: false

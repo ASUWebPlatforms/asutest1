@@ -1,0 +1,8 @@
+uuid: 6d892fe1-6941-4b7e-9087-5a2d81197c16
+langcode: en
+status: true
+dependencies: {  }
+id: virtual_tour
+label: 'Virtual Tour'
+revision: 0
+description: ''

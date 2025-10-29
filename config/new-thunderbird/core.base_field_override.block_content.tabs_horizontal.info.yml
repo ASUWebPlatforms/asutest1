@@ -1,0 +1,18 @@
+uuid: 85e87924-827c-4457-a604-ac55de259d6f
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.tabs_horizontal
+id: block_content.tabs_horizontal.info
+field_name: info
+entity_type: block_content
+bundle: tabs_horizontal
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

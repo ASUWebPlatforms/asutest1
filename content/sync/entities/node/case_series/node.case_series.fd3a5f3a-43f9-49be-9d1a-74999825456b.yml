@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: fd3a5f3a-43f9-49be-9d1a-74999825456b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:32:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Primo Benzina AG'
+created:
+  -
+    value: '2016-07-16T01:09:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:32:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-09-0008
+body:
+  -
+    value: '<p><span>Primo Benzina AG was a retail chain of petrol stations offering petrol, snacks, restaurant meals, and high-quality service in central Europe. In 2006, the company began operations with two outlets in Stuttgart, Germany, and another two outlets in Basel, Switzerland. The company grew rapidly from four outlets and sales of €2.4 million in 2006 to 24 outlets and sales of €38.1 million in 2009. Yet the company’s rapid growth in revenues was accompanied by declining profitability and a substantial increase in receivables, inventories, and capital investments in new retail outlets. The resulting cash outflows were financed by short-term loans from Dresdner Bank and by slowing payments to trade creditors. Dresdner Bank reluctantly increased the maximum amount available to the company under its term loan to €12 million from €10 million. In early 2010, Otto Schroder, Chief Executive Officer, and Annegret Heuermann, the company’s chief financial officer, completed a review of the company’s financial situation. The company’s executives were unsure whether the new credit limit would permit the company to implement its growth strategy, since the company now had a l</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-09-0008
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: cae4f45d-06ae-4b3c-8563-1ea56f81ec61
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: Europe
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: "To assess the company’s business strategy and its implications for future financial performance.\r\nTo develop cash flow statements and evaluate the impact of operating, investment, and finance decisions on the company’s cash flows.\r\nTo evaluate the company’s financial performance and its investment in working capital.\r\nTo determine the company’s future cash flow generation, determine appropriate future financing policies, and evaluate the sensitivity of its financing needs to alternative economic conditions.\r\nSpecifically, students are asked to consider several issues in the case. First, students are asked to explain how PolyMedica Corporation makes money, to evaluate its business strategy for accomplishing this objective, and to evaluate how successful execution of this strategy is likely to be observable from the company’s financial performance. Second, students are asked to analyze the company’s cash flow situation, and recent financial performance, including its profitability, asset management, and leverage. Third, students are asked to consider the quantitative impact on the company’s financial statements of capitalizing and amortizing direct response advertising outlays. Students are also asked to evaluate whether PolyMedica used accounting methods that were consistent with generally accepted accounting principles (GAAP). Fourth, students are asked to estimate the net present value (NPV) of PolyMedica’s direct response advertising outlays. Finally, students are asked to consider the communication and disclosure issues the company faced in responding to analyst criticism of its method of accounting for direct response advertising.\r\n\r\nThe case has been used successfully in MBA programs to cover corporate financial reporting issues, and in bank training programs focused on credit analysis and quality of earnings issues."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.cae4f45d-06ae-4b3c-8563-1ea56f81ec61
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

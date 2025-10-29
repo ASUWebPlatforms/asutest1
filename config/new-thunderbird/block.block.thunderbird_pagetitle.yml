@@ -1,0 +1,26 @@
+uuid: 68c79b3b-9073-4162-9d38-91b0ef675780
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - thunderbird
+_core:
+  default_config_hash: 8TTuxNh0ZnUdfosv1gEYwUsK7ZeD71__x9KGUi8dxmM
+id: thunderbird_pagetitle
+theme: thunderbird
+region: content
+weight: -12
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: "/user/*\r\n/node/*/layout/discard-changes\r\n/node/*/layout/revert"

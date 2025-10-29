@@ -1,0 +1,22 @@
+uuid: 73d1fb79-c837-4e41-a30e-3af677a6e932
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.group.field_time_zone
+    - group.type.gdmi
+  module:
+    - tzfield
+id: group.gdmi.field_time_zone
+field_name: field_time_zone
+entity_type: group
+bundle: gdmi
+label: 'Time Zone'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  exclude: {  }
+field_type: tzfield

@@ -1,0 +1,208 @@
+// Siderbar menu layout styles.
+.layout-right-sidebar {
+  display: flex;
+  flex-wrap: wrap;
+
+  @include media-breakpoint-up(md) { 
+    &__left {
+      width: 65%;
+    }
+    &__right {
+      width: 35%;
+    }
+  }
+}
+
+.node-thunderportal {
+  .signposts-container {
+    .one-col-link-list ul li a {
+      text-transform: none;
+    }
+  }
+}
+
+// Thunderportal landing page styles.
+.thunderportal-tiles {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  display: grid;
+  column-gap: 20px;
+  row-gap: 50px;
+  
+  @include media-breakpoint-up(md) { 
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include media-breakpoint-up(lg) { 
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  &.odd {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    grid-template-columns: none;
+
+    .thunderportal-tiles__item {
+      width: 100%;
+
+      @include media-breakpoint-up(md) { 
+        width: calc(50% - 20px);
+      }
+
+      @include media-breakpoint-up(lg) { 
+        width: calc(33.33% - 20px);
+      }
+    }
+  }
+
+  &__item {
+    
+    .card {
+      height: 100%;
+    }
+
+    .content {
+      border: none;
+      padding: 24px 32px !important;
+
+      @include media-breakpoint-up(lg) { 
+        min-height: 87px;
+      }
+
+      .col {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        h3 {
+          margin-bottom: 0;
+          line-height: 1.2rem;
+          
+          a {
+            text-align: center;
+            display: block;
+          }
+        }
+      }
+      
+    }
+
+    .field-image {
+      
+      &, * {
+        height: 100%;
+      }
+
+      overflow: hidden;
+      max-height: 257px;
+
+      img {
+        object-fit: cover;
+      }
+    }
+  }
+}
+
+// Portal post content type styles.
+.portal-post-hero {
+  .field-subtitle {
+    font-size: 1.5rem;
+  }
+}
+
+.node-thunderportal .hero .subheading {
+  font-size: 1.5rem;
+}
+
+.portal-post__body  {
+  margin-bottom: 5rem;
+}
+
+.nodeportal-posttitle h1 {
+  margin-top: 3rem;
+  margin-bottom: 3.5rem;
+  color: $blue-dark;
+  font-size: 3.25rem;
+}
+
+.paragraph--resources-list--square {
+  &__title {
+    font-size: 2.75rem;
+    color: $blue-mid;
+    font-weight: 900;
+    margin-bottom: 2rem;
+  }
+  
+  &__items {
+    display: grid;
+    margin-bottom: 3.5rem;
+    gap: 20px;
+    
+    @include media-breakpoint-up(md) { 
+      grid-template-columns: repeat(2, 1fr);
+    }
+    
+    @include media-breakpoint-up(lg) { 
+      max-width: 80%;
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  &__item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $gray-1;
+    padding: 1rem;
+    min-height: 120px;
+    
+    .btn, 
+    a {
+      display: block;
+      text-align: center;
+      padding: 0;
+      border: none;
+      line-height: 1.2;
+
+      &:hover {
+        background-color: $gray-1;
+        color: $blue-dark;
+        text-decoration: underline;
+      }
+    }
+    
+    &, a {
+      font-size: 1.5rem;
+      font-weight: 900;
+      color: $blue-dark;
+    }
+  }
+}
+
+// Banner CTA
+.field-banner-cta {
+  background-color: $blue-mid;
+  padding: 1rem 0;
+  
+  .paragraph {
+    @extend .container;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .field-title {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+
+  .field-banner-cta {
+    a {
+      font-size: 1.5rem;
+    }
+  }
+}

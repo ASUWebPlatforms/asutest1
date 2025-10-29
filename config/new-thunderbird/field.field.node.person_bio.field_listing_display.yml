@@ -1,0 +1,23 @@
+uuid: 6ba80a6a-6722-45d3-85c0-9b0b09197c03
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_listing_display
+    - node.type.person_bio
+id: node.person_bio.field_listing_display
+field_name: field_listing_display
+entity_type: node
+bundle: person_bio
+label: 'Display in listing'
+description: 'Tick to display this bio in the faculty listing.'
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

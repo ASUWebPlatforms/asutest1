@@ -1,0 +1,15 @@
+display:
+  default:
+    display_title: Default
+    display_options:
+      pager:
+        options:
+          tags:
+            first: '« first'
+            last: 'last »'
+      exposed_form:
+        options:
+          reset_button_label: Reset
+      empty:
+        title:
+          title: 'Welcome to [site:name]'

@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 4d41d8ce-4d19-476b-96be-bed4cb91bbeb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-12-03T13:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Will Democratizing AI Accelerate Inequality?'
+created:
+  -
+    value: '2019-12-02T21:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-12-03T13:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/will-democratizing-ai-accelerate-inequality
+body:
+  -
+    value: '<p>[[{"fid":"77539","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Will democratizing AI accelerate inequality?","field_file_image_title_text[und][0][value]":"Will democratizing AI accelerate inequality?"},"link_text":null,"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":"Will democratizing AI accelerate inequality?","field_file_image_title_text[und][0][value]":"Will democratizing AI accelerate inequality?"}},"attributes":{"alt":"Will democratizing AI accelerate inequality?","title":"Will democratizing AI accelerate inequality?","class":"media-element file-default","data-delta":"1"}}]]</p><p>Originally published on&nbsp;<a href="https://insights.techreview.com/ai-and-inequality/">MIT Technology Review</a>. &nbsp;Reprinted with permission.</p><p><span>By Mark Esposito, Clinical Professor of Global Shifts and the Fourth Industrial Revolution</span></p><p>What kinds of decisions do you have to make every day? Likely, you will have to pick out your clothes, find a route to work, decide what to eat, see how to get home. Many such decisions are so general as to cut across ages, geographies, and economic contexts – the world gets complicated when we consider some of the differences. The difference, for instance, between people going to work and those looking for a job, between those who live paycheck to paycheck and those with a second home – simple differences in what someone has to consider, what they have to navigate, what they experience day to day.</p><p>These differences establish not only material inequality but informational inequality – differences in what kinds of information people have access to, opportunities to use that information, time to research, all the search costs related to navigating the resources available in the digital world. An inequality not simply of access to information but the tools at our disposal to process that information.</p><p>If ‘A chicken in every pot and a car in every drive way’ epitomized the economic promise of the 20th century, then perhaps the economic promise of the 21st century may well be an AI in every home; a promise defined less in terms of equality of material opportunity than the equality of avoiding certain kinds of challenges and problems of modern digital life, of informational equality.</p><blockquote><h3>The modern AI race is one towards an everything assistant.</h3></blockquote><p>The question in some sense is simply, ‘what kinds of decisions should you not need to make?’ Or perhaps, what kinds of inequalities exist and are accentuated due to a lack of time, a lack of the right information at the right time, a lack of knowing what the right information would even be? This is not general intelligence but the sufficient aggregation of apps and functions in a platform with an interface shared across your phone and home devices; in other words, the modern AI race is one towards an everything assistant.</p><p>Fundamentally, any system that can help with addressing daily and extreme concerns can help to alleviate time burdens, alleviate uncertainties with finding information, build new means to reach better educational resources and opportunities, assist with all of the administrative aspects of life – improvements here have the potential to build a better quality of life, or build digital dependencies if pursued without a human-centered and civic minded focus. ‘If you could redesign your day to day life, what would you leave out’ is the new empathetic challenge for designers.</p><p>AI is a tool in the same way that language is a tool, it’s a fundamental shift in the way we relate to&nbsp;<a href="https://www.project-syndicate.org/commentary/human-implications-of-artificial-intelligence-by-luciano-floridi-2017-01" target="_blank">information</a>. So, when we consider the nature of AI’s economic promise, we must connect any improvement and advancement in what it automates with what information it has, it not simply how well it searches when you tell it but the information it has available to search from continuously, how it helps you book appointments and what kinds of appointments it could feasibly help you book. The automation of&nbsp;<a href="https://techcrunch.com/2019/03/06/google-brings-its-duplex-ai-resta" target="_blank">appointment booking</a>, of finding the right item for a search request, sourcing ingredients for a recipe and ordering them, are only the beginning.</p><blockquote><h3>AI is a tool in the same way that language is a tool, it’s a fundamental shift in the way we relate to information.</h3></blockquote><p>Such trends take us to a more troubling point, as the size of the opportunity from liberating the day to day decisions is matched only by the potential to create a new divide between those who can effectively use this tech and those who can’t, even if effectively democratized. But the inequality can cascade if AI is not effectively democratized, between those who are part of a community powered by AI driven business and those not, between those who have access to the tech at all and those who do not, and all the patrimonial benefits of being included in an accelerating AI economy.</p><p>This divide will go beyond any material analysis and must be connected to a difference in what people think about daily, in how people think, in how people connect and engage with digital public life. This is the second global digital divide, connecting each household to a new global context of informational inequality. Indeed, as governments look to improve the living standards of their populations with new technology, the fundamental concern has been the resolving digital divides in internet access and quality of equipment. But the bare reality remains, AI may be best suited to liberate the economically advantaged.</p><p>The scale of both the inequality and the opportunity bear directly on the nature of government responsibility towards&nbsp; leaving the promise of AI unrealized, or letting it entrench such inequalities in a partially realized vision of democratized AI. The need to scale the tech establishes, in turn, a demand to understand this democratization as a public problem, not simply an issue of private gain. To scale incompletely would be to establish clear new lines of economic inequality; as well, to scale without developing competences could accelerate disinformation and digital dependencies.</p><p>The issue now is not simply democratizing the technology nor accelerating the training of how best to use it – but of reducing the barriers to the effective and optimal usage of the technology at all. This creates a double burden on governments, and a new demand on the tech giants, as well as aspiring AI firms and developers. In short, for the economic promise of AI to be realized then there needs to be a collective improvement of access to the right kinds of information.</p><p>But as AI researchers, as AI managers, we feel a deep demand to argue further – for the world can resolve these issues and inequalities but the concern needs to equally reflect on how we try to resolve them among the wide range of perspectives already available on the future of AI. To them all, we have a simple suggestion: forget utopia.</p><p>Forget the idea of an engineered paradise, a world where our solutions don’t produce equally vexing problems; but most assuredly, forget the idea of a world where different paths and claims to a utopian AI life are not exclusive, that such visions will not conflict, and will not drive the next generation of systemic problems. We might take caution from Isaiah Berlin in his prediction that when ends are agreed, all problems left are technical. As such, the world of AI policy and entrepreneurship is far from the technical age.</p><p><span>This article was co-authored with&nbsp;<a href="https://www.project-syndicate.org/columnist/joshua-entsminger" target="_blank">Joshua Entsminger</a>,&nbsp;<a href="https://www.project-syndicate.org/columnist/terence-tse-2" target="_blank">Terence Tse</a>, and&nbsp;<a href="https://www.weforum.org/agenda/authors/aurelie-jean/" target="_blank">Aurelie Jean</a>.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: "What kinds of decisions do you have to make every day? Likely, you will have to pick out your clothes, find a route to work, decide what to eat, see how to get home. Many such decisions are so general as to cut across ages, geographies, and economic contexts – the world gets complicated when we consider some of the differences. The difference, for instance, between people going to work and those looking for a job, between those who live paycheck to paycheck and those with a second home – simple differences in what someone has to consider, what they have to navigate, what they experience day to day.\r\n\r\nThese differences establish not only material inequality but informational inequality – differences in what kinds of information people have access to, opportunities to use that information, time to research, all the search costs related to navigating the resources available in the digital world. An inequality not simply of access to information but the tools at our disposal to process that information."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2311
+    height: 1297
+    target_type: file
+    target_uuid: f176d46b-3386-4f59-a1c6-e55744dd0a53
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4aa4b5a6-3678-488f-8b36-d3a931a8cf41
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+  -
+    target_type: taxonomy_term
+    target_uuid: 2026780f-16f2-49ac-9618-b29209fcbd9d
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.f176d46b-3386-4f59-a1c6-e55744dd0a53
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+      - taxonomy_term.knowledge_network_tags.4aa4b5a6-3678-488f-8b36-d3a931a8cf41
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+      - taxonomy_term.knowledge_network_tags.2026780f-16f2-49ac-9618-b29209fcbd9d

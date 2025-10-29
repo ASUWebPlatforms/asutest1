@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 9cdefcca-0339-4f91-a7bc-7e2556e35132
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+filename:
+  -
+    value: disagreeboss1.png
+uri:
+  -
+    value: 'public://article/disagreeboss1.png'
+    url: /sites/default/files/article/disagreeboss1.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 450409
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-09-21T17:24:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-21T17:24:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1

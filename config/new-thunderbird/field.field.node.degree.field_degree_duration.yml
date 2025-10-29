@@ -1,0 +1,19 @@
+uuid: 393074d4-35a4-488c-8e6d-b19122eb59ae
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_degree_duration
+    - node.type.degree
+id: node.degree.field_degree_duration
+field_name: field_degree_duration
+entity_type: node
+bundle: degree
+label: Duration
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

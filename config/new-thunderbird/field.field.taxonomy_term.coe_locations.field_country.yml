@@ -1,0 +1,19 @@
+uuid: 9aa35207-7721-4dd0-b4fa-49e384170fe2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_country
+    - taxonomy.vocabulary.coe_locations
+id: taxonomy_term.coe_locations.field_country
+field_name: field_country
+entity_type: taxonomy_term
+bundle: coe_locations
+label: Country
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

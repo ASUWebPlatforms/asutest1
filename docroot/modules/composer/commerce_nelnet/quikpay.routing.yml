@@ -1,0 +1,7 @@
+quikpay.rtpn:
+  path: '/quikpay/rtpn'
+  defaults:
+    _controller: '\Drupal\quikpay\Controller\QuikPayController::Rtpn'
+    _title: 'QuikPAY Real Time Payment Notification'
+  requirements:
+    _permission: 'access checkout'

@@ -1,0 +1,118 @@
+uuid: 59e4fb2b-4fa3-4bc9-b3bc-750ea0744a42
+langcode: en
+status: false
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.degree.body
+    - field.field.node.degree.field_admission_requirements
+    - field.field.node.degree.field_apply_url
+    - field.field.node.degree.field_aventri_code
+    - field.field.node.degree.field_average_age
+    - field.field.node.degree.field_campus_code
+    - field.field.node.degree.field_class_location
+    - field.field.node.degree.field_coe_location
+    - field.field.node.degree.field_concentrations
+    - field.field.node.degree.field_content_background
+    - field.field.node.degree.field_credit_hours
+    - field.field.node.degree.field_cta_button_label
+    - field.field.node.degree.field_degree_category
+    - field.field.node.degree.field_degree_delivery_method
+    - field.field.node.degree.field_degree_description
+    - field.field.node.degree.field_degree_duration
+    - field.field.node.degree.field_degree_experience
+    - field.field.node.degree.field_degree_focus
+    - field.field.node.degree.field_degree_language
+    - field.field.node.degree.field_degree_location
+    - field.field.node.degree.field_degree_purpose_of_study
+    - field.field.node.degree.field_degree_type
+    - field.field.node.degree.field_degree_type_ref
+    - field.field.node.degree.field_degree_years_of_experience
+    - field.field.node.degree.field_domain_access
+    - field.field.node.degree.field_domain_all_affiliates
+    - field.field.node.degree.field_external_url
+    - field.field.node.degree.field_header_alignment
+    - field.field.node.degree.field_image
+    - field.field.node.degree.field_meta_tags
+    - field.field.node.degree.field_plan_code
+    - field.field.node.degree.field_program_code
+    - field.field.node.degree.field_program_cost
+    - field.field.node.degree.field_program_terms
+    - field.field.node.degree.field_regions
+    - field.field.node.degree.field_scholarships
+    - field.field.node.degree.field_school_term
+    - field.field.node.degree.field_solutions
+    - field.field.node.degree.field_sub_plan_code
+    - field.field.node.degree.field_tags
+    - field.field.node.degree.field_topics
+    - field.field.node.degree.field_vertical_stripes
+    - field.field.node.degree.layout_builder__layout
+    - field.field.node.degree.layout_builder__translation
+    - node.type.degree
+  module:
+    - text
+    - user
+id: node.degree.teaser
+targetEntityType: node
+bundle: degree
+mode: teaser
+content:
+  body:
+    type: text_summary_or_trimmed
+    label: hidden
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_admission_requirements: true
+  field_apply_url: true
+  field_aventri_code: true
+  field_average_age: true
+  field_campus_code: true
+  field_class_location: true
+  field_coe_location: true
+  field_concentrations: true
+  field_content_background: true
+  field_credit_hours: true
+  field_cta_button_label: true
+  field_degree_category: true
+  field_degree_delivery_method: true
+  field_degree_description: true
+  field_degree_duration: true
+  field_degree_experience: true
+  field_degree_focus: true
+  field_degree_language: true
+  field_degree_location: true
+  field_degree_purpose_of_study: true
+  field_degree_type: true
+  field_degree_type_ref: true
+  field_degree_years_of_experience: true
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  field_external_url: true
+  field_header_alignment: true
+  field_image: true
+  field_meta_tags: true
+  field_plan_code: true
+  field_program_code: true
+  field_program_cost: true
+  field_program_terms: true
+  field_regions: true
+  field_scholarships: true
+  field_school_term: true
+  field_solutions: true
+  field_sub_plan_code: true
+  field_tags: true
+  field_topics: true
+  field_vertical_stripes: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true
+  search_api_excerpt: true

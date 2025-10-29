@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b7311c6c-a0ef-4b30-88f7-52919255be1a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:33:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a378dcd0-fe4d-42ea-85bc-286698545ba0
+title:
+  -
+    value: 'Stay Tense. Stay Engaged.'
+created:
+  -
+    value: '2017-11-30T21:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:33:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/transform-tension-collaboration-review
+body:
+  -
+    value: "<p>“When I stretch this rubber band, it creates tension. That tension is neither good nor bad, but represents an amount of potential energy that can be harnessed. More tension creates more energy. Releasing the tension puts that energy into motion.”</p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">That was how Tamara Christensen began “</span><a href=\"https://thunderbird.asu.edu/executive-education/programs/transform-tension-into-collaboration\" style=\"background-color: transparent; font-size: 1em;\">Transform Tension into Collaboration</a><span style=\"background-color: transparent; font-size: 1em;\">”, the second in a series of one-day workshops offered by Thunderbird School of Global Management, in conjunction with Arizona State University’s W.P. Carey School of Business.</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">Christensen, a faculty associate at </span><a href=\"https://herbergerinstitute.asu.edu/\" style=\"background-color: transparent; font-size: 1em;\" target=\"_blank\">ASU’s Herberger Institute for Design and the Arts</a><span style=\"background-color: transparent; font-size: 1em;\">, has literally written the book on turning natural workplace dynamics into increased innovation and collaboration. This workshop, based in part on her book, “</span><a href=\"http://a.co/aovJT64\" style=\"background-color: transparent; font-size: 1em;\">F-ing Innovation: Why innovation is hard and what to do about it</a><span style=\"background-color: transparent; font-size: 1em;\">”, brought together a diverse group of leaders from a variety of industries, including several participants&nbsp;</span>from<span style=\"background-color: transparent; font-size: 1em;\"> a Fortune 500 company.</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">Christensen discussed the types of tensions found in teams, as well as strategies for both balancing and expanding these tensions, explaining that if a person, team or company leans too much toward one end of a tension’s spectrum, there is a real possibility of missing out on an </span>opportunity<span style=\"background-color: transparent; font-size: 1em;\">.</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">For example, Knowledge (answering the question of “How to Know?”) can be expressed by the two competing forces of “Facts” and “Feelings.” Companies, teams or individuals who focus heavily on facts believe the most important knowledge comes in the form of numbers. And while quantitative data is certainly important, relying too much on this element may cause one to overlook qualitative information about experiences that can lead to novel solutions.</span></p>\r\n<p>As you might expect, an overreliance on Feelings runs to the contrary: overlooking hard data or not having difficult conversations out of a fear of conflict can be equally detrimental. Christensen says a situation where both facts and feelings are equal is ideal. Further, balancing a strong reliance on facts with an equally strong consideration for the ‘softer side’ of the topic allows for more rounded conversations and an increase in innovative solutions to challenges.</p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">It’s this approach she took with the other five tensions. Her belief is that if there are no tensions in these areas, there probably isn’t much engagement, either. </span></p>\r\n<h3><span style=\"background-color: transparent; font-size: 1em;\">6 Areas of Workplace Tension</span></h3>\r\n<ul>\r\n<li>Knowledge<strong> – How to know?</strong></li>\r\n<li><strong>Risk</strong> – What’s at stake? Do you make decisions based on fear or on faith?</li>\r\n<li><strong>Assessment</strong> – What to measure? Are decisions or actions successes or failures (binary), or can be used as a learning opportunity?</li>\r\n<li>Pace<strong> of Change</strong> – When to change? Are decisions made only when there’s a compelling reason and, even then, at a glacial pace, or is it change for change’s sake?</li>\r\n<li><strong>Ambiguity</strong> – How to adapt? Do teams seek the familiar ways of doing things, or is trying something new reason enough to try it?</li>\r\n<li><strong>Playing Field</strong> – Who matters? Is the team or organization bound and determined to beat the competitors, perhaps at nearly any cost, or is the organization too friendly, even to competitors, and perhaps unwilling to hold poorly performing employees accountable?</li>\r\n</ul>\r\n<p>Through a series of exercises and self-assessment activities, participants reviewed the six tensions within the context of their own business challenges. Christensen discussed different methods of both identifying and working to resolve these issues, saying that while the concepts aren’t particularly difficult, they can sometimes be hard to implement.</p>\r\n<p>Or maybe not.</p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">Toward the end of the day when Christensen asked if anyone had specific ideas they planned to present when they returned to work, one participant reported, “I spoke with a colleague on [our last] break, and we’ve already got one of these things underway.”</span></p>\r\n<p><i style=\"background-color: transparent; font-size: 1em;\">To learn more about this and other programs from Thunderbird’s Executive Education division, please visit </i><a href=\"https://thunderbird.asu.edu/executive-education\" style=\"background-color: transparent; font-size: 1em;\"><i>https://thunderbird.asu.edu/executive-education</i></a><i style=\"background-color: transparent; font-size: 1em;\">.</i></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Addressing complex business challenges requires that diverse experts work well together. Unfortunately, collaborative efforts introduce dynamics that often present their own entirely new set of obstacles.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2217
+    height: 2044
+    target_type: file
+    target_uuid: 7476aea0-a109-49c4-af82-bf72be7e45b0
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a378dcd0-fe4d-42ea-85bc-286698545ba0
+    file:
+      - file.image.7476aea0-a109-49c4-af82-bf72be7e45b0
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

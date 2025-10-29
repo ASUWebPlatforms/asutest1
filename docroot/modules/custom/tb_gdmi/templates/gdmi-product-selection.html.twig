@@ -1,0 +1,5 @@
+<div class="gdm-product-selection">
+  {% for item in items %}
+    {{ drupal_entity('commerce_product', item, 'card') }}
+  {% endfor %}
+</div>

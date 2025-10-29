@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: df3bfed0-0e15-4cfd-839a-db0c775a4193
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-12-05T21:51:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 9dd55638-db56-4f83-8b00-7c12ec271897
+title:
+  -
+    value: 'Executive Master of Global Management Informational Webinar'
+created:
+  -
+    value: '2017-02-03T17:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-05T21:51:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/EMGM-webinar
+body:
+  -
+    value: "<p>[[{\"fid\":\"4185\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"attributes\":{\"alt\":\"Thunderbird’s Executive Master of Global Management Webinar\",\"height\":\"390\",\"width\":\"640\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>This webinar presents a broad overview and answers many questions about Thunderbird’s Executive Master of Global Management (Executive MGM) program.</p>\r\n<p><strong>Presenters</strong>:</p>\r\n<p><a href=\"/keaton-allen\">Keaton Allen</a> - Senior Director, Degree Programs</p>\r\n<p><a href=\"/denis-leclerc\">Denis Leclerc</a> - <span class=\"field-content\">Academic Director, Executive Master of Global Management &amp; Clinical&nbsp; Assoc Professor</span></p>\r\n<p>The Executive MGM program is designed for experienced professionals interested in broadening their global outlook and their worldwide network. Every course is taught from a global perspective, which prepares you to lead and manage people across borders and across all levels of an organization. This program goes beyond the traditional executive-level business degree, offering you comprehensive instruction in global management disciplines, as well as cross-cultural communications, negotiations and international political economy.</p>\r\n<p><a href=\"https://thunderbird.asu.edu/degrees/graduate/executive-programs-arizona-cohort\">For more information about Thunderbird's Executive MGM program</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/degrees/apply\">To apply for Thunderbird's Executive MGM program</a></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Learn more and answer your questions about how to apply to and what to expect from Thunderbird''s Executive Master of Global Management program in this informational webinar.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2100
+    height: 1400
+    target_type: file
+    target_uuid: 4d0f2771-c910-4b0d-b7bf-e25cfe658873
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c2317536-07fb-40ce-b252-f7a91e612339
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+      - user.user.9dd55638-db56-4f83-8b00-7c12ec271897
+    file:
+      - file.image.4d0f2771-c910-4b0d-b7bf-e25cfe658873
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c2317536-07fb-40ce-b252-f7a91e612339

@@ -1,0 +1,18 @@
+uuid: 167b4855-54a9-432e-a0ff-c0df5dde7518
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+id: block_content.card_selection.metatag
+field_name: metatag
+entity_type: block_content
+bundle: card_selection
+label: 'Metatags (Hidden field for JSON support)'
+description: 'The meta tags for the entity.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: map

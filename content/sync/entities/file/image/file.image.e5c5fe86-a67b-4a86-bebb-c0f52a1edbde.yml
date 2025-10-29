@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: e5c5fe86-a67b-4a86-bebb-c0f52a1edbde
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+filename:
+  -
+    value: 1_hhb1ms6lnbgk0xgebogqag.png
+uri:
+  -
+    value: 'public://article/1_hhb1ms6lnbgk0xgebogqag.png'
+    url: /sites/default/files/article/1_hhb1ms6lnbgk0xgebogqag.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1459374
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-06-26T17:02:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-06-26T17:02:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8

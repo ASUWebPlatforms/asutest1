@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 10b8feea-dc1f-472c-b692-9f6d6c19a7c8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:06:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'What''s at Stake with U.S.-Mexico Trade & Immigration'
+created:
+  -
+    value: '2017-06-23T21:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:06:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/what-at-stake-us-mexico-trade-immigration
+body:
+  -
+    value: "<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1226px;\" class=\"caption-inner\">[[{\"fid\":\"5756\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Deputy Chief of the Embassy of Mexico Juan Antonio Zabalgoitia\",\"field_file_image_title_text[und][0][value]\":\"Deputy Chief of the Embassy of Mexico Juan Antonio Zabalgoitia\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Deputy Chief of the Embassy of Mexico Juan Antonio Zabalgoitia\",\"field_file_image_title_text[und][0][value]\":\"Deputy Chief of the Embassy of Mexico Juan Antonio Zabalgoitia\"}},\"attributes\":{\"alt\":\"Deputy Chief of the Embassy of Mexico Juan Antonio Zabalgoitia\",\"title\":\"Deputy Chief of the Embassy of Mexico Juan Antonio Zabalgoitia\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p style=\"text-align: center;\" class=\"caption-text\">Deputy Chief of the Embassy of Mexico Juan Antonio Zabalgoitia and T-bird Fred Suarez</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Thunderbird alumnus Fred Suarez chairs the Florida chapter of the International Executive Resources Group (IERG), which recently had the honor of hosting Mexico’s consul general, Jose Antonio Zabalgoitia, as a guest speaker. Since the date of this meeting Zabalgoitia has been promoted as Deputy Chief of Mission to the Embassy of Mexico in Washington.</p>\r\n<p>Suarez, who is president of Business Advisors International in Miami, says the meeting highlighted how essential the U.S.-Mexican business relationship is to Miami and the overall U.S. economy. The IERG attendees – including including Larry Cole and Ximena Banos and several other T-birds – were international business leaders who have lived and worked abroad.</p>\r\n<p>In this Q&amp;A with Knowledge Network, Suarez shares his observations about U.S.-Mexican trade relations and IERG’s meeting with Zabalgoitia:</p>\r\n<h3>How would you assess the current state of U.S.-Mexican cross-border business?</h3>\r\n<p><strong>Fred Suarez:</strong> Continuous improvement has developed Mexican industry into one of high-quality and reliable sourcing – this has created jobs in Mexico and also in the U.S. In Miami, we have seen ongoing improvement over the past 10 years, driven by appointing professional personnel in the Consulate and providing enhanced service with the latest technology. We have also seen a rise in Mexican expatriates holding corporate positions in the U.S. and other countries. This is due to them gaining a top-tier education, company training and the experience of working in a large, competitive market while dealing with a difficult economic environment.</p>\r\n<h3>Based on your personal and professional observations, what’s been the impact of NAFTA?</h3>\r\n<p><strong>Fred Suarez:</strong> Mexican industry was low quality and not prepared to compete with foreign products, but NAFTA changed it into a highly skilled industry with updated technology and automation. Mexico became a reliable source of production with workers trained for the demands of increased production and economies of scale. Today, for example, Mexico is the <a href=\"http://www.npr.org/sections/money/2012/11/30/166180397/why-mexico-is-the-worlds-biggest-exporter-of-flat-screen-tvs\">leading producer</a> of TV screens worldwide and is a leader in automobile manufacturing. Mexico has benefited from a dramatic increase in manufacturing, but this has not been the main factor of manufacturing job losses in the U.S. Many more jobs have been lost due to automation and imports from China.</p>\r\n<blockquote>\r\n<p>“NAFTA changed Mexican industry into a highly skilled industry with updated technology and automation.” &nbsp;– <a href=\"https://ctt.ec/PYSJb\">Click to tweet</a><a href=\"#_msocom_1\"></a></p>\r\n</blockquote>\r\n<h3>How did business leaders respond to the consul general?</h3>\r\n<p><strong>Fred Suarez:</strong> The audience was very impressed with the consul general’s presentation, which was&nbsp;supported with many facts about the positives of&nbsp;having Mexico as our neighbor. He showed areas of NAFTA that have helped both countries’ economies. The information and statistics demonstrated the real results of U.S.-Mexican trade and dismissed adverse anti-Mexican campaign rhetoric and its continuation by the Trump administration.</p>\r\n<h3>Could you elaborate on some of the facts and statistics he shared?</h3>\r\n<p><strong>Fred Suarez:</strong> His address was titled “Mexico and the United States: Integration and Interdependence.” It provided eye-opening facts about U.S.-Mexican relations – particularly with trade and immigration – that are not widely known to the American public. Some are as follows:</p>\r\n<ul>\r\n<li>Mexico is the United States’ <a href=\"https://ustr.gov/countries-regions/americas/mexico\">third-largest</a> goods trading partner</li>\r\n<li>Mexico is the <a href=\"https://ustr.gov/countries-regions/americas/mexico\">second-largest buyer</a> of U.S. exports (US$267 billion) – larger than China, Japan and Germany <i>combined</i></li>\r\n<li>Mexico is a <a href=\"https://www.census.gov/foreign-trade/statistics/state/data/index.html\">top-five</a> export destination of 38 U.S. states</li>\r\n<li>Deep integration exists – <a href=\"https://www.wilsoncenter.org/publication/working-together-economic-ties-between-the-united-states-and-mexico\">40 percent</a> of the content in U.S. imports from Mexico is actually produced in the U.S. – 10 times more&nbsp;than the amount returning for each dollar paid on Chinese imports</li>\r\n<li>U.S. exports of goods and services to Mexico supported an estimated <a href=\"https://ustr.gov/COUNTRIES-REGIONS/AMERICAS/MEXICO\">1.2 million jobs</a> in 2015</li>\r\n</ul>\r\n<h4>What was discussed about immigration?</h4>\r\n<p><strong>Fred Suarez:</strong> The consul general’s presentation made interesting points about immigration. Despite the political campaign commentary that Mexico does not send the best of their people to the U.S., the reality is that Mexico is a <a href=\"http://travel.trade.gov/pdf/2015-Top-10-Markets.pdf\">top source</a> of visitors to the U.S., with nearly 20 million visitors per year who spend $20 billion, helping U.S. retail and tourism job markets. In fact, <a href=\"http://travel.trade.gov/pdf/2015-Top-10-Markets.pdf\">nearly one in four</a> visitors to the U.S. is from Mexico, more than the UK, Japan, China, Brazil, Germany and France combined.</p>\r\n<p>Between 2009 and 2014, <a href=\"http://www.pewhispanic.org/2015/11/19/more-mexicans-leaving-than-coming-to-the-u-s/\">1 million Mexicans</a> moved from the U.S. back to Mexico, while 870,000 from Mexico entered the U.S. during that time. The consul general said that most Mexicans who come here are hard working and are interested in improving their economic condition, while many Americans are not interested in the jobs they obtain. He stressed that Mexicans are not rapists, murderers and terrorists as they have been portrayed.</p>\r\n<p>He shared some additional statistics, such as:</p>\r\n<ul>\r\n<li><a href=\"https://www.bls.gov/opub/reports/race-and-ethnicity/archive/labor-force-characteristics-by-race-and-ethnicity-2014.pdf\">60 percent of Mexicans</a> in the U.S. participate in the U.S. workforce</li>\r\n<li>Mexican immigrants contribute <a href=\"https://www.businessinsider.com.au/mexican-immigration-us-economy-2012-7#mexican-immigrants-contribute-about-4-percent-to-total-us-gdp-and-they-represent-nearly-60-percent-of-unauthorized-workers-1\">3.8 percent to U.S. GDP</a></li>\r\n<li>Since 2010, Mexican-U.S. net migration is <a href=\"https://www.businessinsider.com.au/mexican-immigration-us-economy-2012-7#mexican-immigrants-contribute-about-4-percent-to-total-us-gdp-and-they-represent-nearly-60-percent-of-unauthorized-workers-1\">below zero</a></li>\r\n<li>In 2014, <a href=\"http://www.pewresearch.org/fact-tank/2014/12/30/u-s-border-apprehensions-of-mexicans-fall-to-historic-lows/\">more non-Mexicans than Mexicans</a> were detained at the U.S.-Mexican border</li>\r\n</ul>\r\n<h3>What do you hope to see from the Trump administration in terms of U.S.-Mexican policy?</h3>\r\n<p><strong>Fred Suarez:</strong> We all agreed that extending the wall on the border and imposing high import duties on Mexican goods would be counterproductive. If the administration lives up to its <a href=\"http://www.cnn.com/2017/01/26/politics/donald-trump-mexico-import-tax-border-wall/index.html\">threats of imposing 20 percent import duties</a>, the American consumer will end up paying higher prices for goods, and job losses will impact both sides of the border.</p>\r\n<blockquote>\r\n<p>#Tbird alumni Fred Suarez on #Trump proposals: “Extending the wall on the border and imposing high import duties on Mexican goods would be counterproductive.” – <a href=\"https://ctt.ec/8nA81\">Click to tweet</a><a href=\"#_msocom_2\"></a></p>\r\n</blockquote>\r\n<p>Our consensus is that <a href=\"/node/2666\">NAFTA should not be revoked but instead upgraded with reforms</a> that will contribute to trade and employment and will benefit the three economies striving to be more competitive. Constructive dialogue with Mexico and Canada as partners should take place to create a win-win scenario. Threats and unilateral actions on the part of the U.S. won’t improve the situation but will help build anti-U.S. sentiment and Mexican nationalism, which could help elect left-wing Andres Manuel Lopez Obrador as the next president of Mexico.</p>\r\n<p>With a border dispute, the U.S. jeopardizes many exports to Mexico, and that would adversely affect jobs, including in many of the states that voted for Trump – especially farmers from the Midwest, where corn is the <a href=\"https://www.fas.usda.gov/regions/mexico\">top U.S. export to Mexico</a>. Also at high risk are U.S. energy exports, which are <a href=\"https://www.eia.gov/todayinenergy/detail.php?id=29892\">valued at $20 billion</a>.</p>\r\n<p>Regarding immigration, the consul general expressed concern about harsh treatment in U.S. policies toward Mexicans and their families, where in many cases they have lived in the U.S. for years and their children are born here. Clearly, U.S. politicians have delayed taking action on intelligent reforms, controls and policies to provide solutions to this issue. Also a factor is that agriculture and many businesses depend on Mexican labor because they cannot find Americans to do the same work, but many workers are considered illegal.</p>\r\n<p>The U.S. has built its nation on immigrants, but without leadership to reform and create a comprehensive immigration policy, the result will be more turmoil and disruption of families. Building an expensive wall on the border at U.S. taxpayer expense and name-calling will only worsen these problems.</p>\r\n<p><strong>Share your story!</strong></p>\r\n<p>How have U.S.-Mexican cross-border relations affected you? Share your story on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n<p><strong>Learn more</strong></p>\r\n<ul>\r\n<li>Read a <a href=\"https://thunderbird.asu.edu/knowledge-network/thunderbird-professors-dear-nafta-letter-time-join-21st-century\">recap of research</a> by Thunderbird professors Robert Grosse and Jonas Gamso</li>\r\n<li>And don’t forget to subscribe to the Knowledge Network newsletter!</li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1280
+    target_type: file
+    target_uuid: 24891182-b2ba-4a77-a53d-e61a17ad94ed
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.24891182-b2ba-4a77-a53d-e61a17ad94ed
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f

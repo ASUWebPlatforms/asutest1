@@ -1,0 +1,18 @@
+uuid: 1bb33ca5-d69f-44b0-a368-a0319131926b
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.carousel_image
+id: block_content.carousel_image.changed
+field_name: changed
+entity_type: block_content
+bundle: carousel_image
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

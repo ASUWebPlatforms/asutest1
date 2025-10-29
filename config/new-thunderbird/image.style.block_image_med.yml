@@ -1,0 +1,28 @@
+uuid: 5f431e3c-fa4f-4f5a-8cad-078ce841b562
+langcode: en
+status: true
+dependencies:
+  config:
+    - crop.type.images_block
+  module:
+    - crop
+_core:
+  default_config_hash: jpatUk4CFRknYO_VdIC6DD_zgt9VO-oeaUzsa2HZGGs
+name: block_image_med
+label: 'Block Image 4:3 MED'
+effects:
+  0a882e9e-e146-4547-a484-49afc6b66d30:
+    uuid: 0a882e9e-e146-4547-a484-49afc6b66d30
+    id: crop_crop
+    weight: -10
+    data:
+      crop_type: images_block
+      automatic_crop_provider: null
+  bf180d68-8396-414f-940a-054d3303936f:
+    uuid: bf180d68-8396-414f-940a-054d3303936f
+    id: image_scale
+    weight: -9
+    data:
+      width: 600
+      height: null
+      upscale: false

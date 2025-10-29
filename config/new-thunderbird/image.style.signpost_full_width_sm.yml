@@ -1,0 +1,23 @@
+uuid: fc4e47b8-7889-43ea-951f-36cdf7fa5459
+langcode: en
+status: true
+dependencies: {  }
+name: signpost_full_width_sm
+label: 'Signpost full-width sm'
+effects:
+  d91fd2f8-56ee-4edb-a96b-2f887a5fc6bf:
+    uuid: d91fd2f8-56ee-4edb-a96b-2f887a5fc6bf
+    id: image_scale
+    weight: 1
+    data:
+      width: null
+      height: 400
+      upscale: false
+  37fc8e67-096a-479b-b0fb-4438b42bddc6:
+    uuid: 37fc8e67-096a-479b-b0fb-4438b42bddc6
+    id: image_scale
+    weight: 2
+    data:
+      width: 510
+      height: null
+      upscale: false

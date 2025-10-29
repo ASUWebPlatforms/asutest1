@@ -1,0 +1,25 @@
+uuid: 03806598-c6d5-46ac-9bd2-d9bed580c54d
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.gdmi_assessment
+    - field.storage.commerce_product.field_assessment_webform
+  module:
+    - webform
+id: commerce_product.gdmi_assessment.field_assessment_webform
+field_name: field_assessment_webform
+entity_type: commerce_product
+bundle: gdmi_assessment
+label: 'Assessment Webform'
+description: 'GDMI Assessment Webform'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:webform'
+  handler_settings:
+    target_bundles: null
+    auto_create: false
+field_type: webform

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: a92bb5e9-1e74-4cce-b004-0cb65eacdd69
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+filename:
+  -
+    value: az-recession-news.jpg
+uri:
+  -
+    value: 'public://az-recession-news.jpg'
+    url: /sites/default/files/az-recession-news.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 525079
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-04-23T15:45:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-23T15:45:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f

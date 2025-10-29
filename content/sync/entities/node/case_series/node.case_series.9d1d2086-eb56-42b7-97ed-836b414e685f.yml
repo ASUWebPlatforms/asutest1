@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 9d1d2086-eb56-42b7-97ed-836b414e685f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T21:29:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Broadband Communications, Inc.'
+created:
+  -
+    value: '2016-07-26T21:29:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T21:29:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-04-0014
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Anna Amphlett and Katy Ianuzzo are in the planning stages of acquiring a bankrupt cable company operating in the San Juan Islands of Washington State. The entrepreneurs plan to resuscitate the business with new capital, develop new products and services such as high-speed Internet, and operate the new business as Broadband Communications, Inc. The entrepreneurs have approached San Juan Community Bank for a $3 million loan, but the bank has asked the entrepreneurs to provide the company''s business plan, including projected financial statements for the first year of operations, before they will consider funding the new business.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-04-0014
+field_case_page_length:
+  -
+    value: '5 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'Washington State'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  - {  }
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: "Students are asked to prepare financial statements using the company's balance sheet at its inception (Exhibit 2 in the case) and a set of eleven summary transactions described in the case. The instructor can provide students with an Excel worksheet to organize the beginning balance sheet, i.e., each balance sheet account in a separate column and the accounting events. The amounts on the balance sheet at the business's inception can be put in the first row under the appropriate balance sheet account label. The transactions described in the case can be inserted in successive rows on the worksheet. The completed worksheet (see Exhibit TN-1) enables students to prepare the company's financial statement. These include (1) the balance sheet at the end of the first year from the totals in the last row (see Exhibit TN-2), (2) the income statement and statement of retained earnings for the first year from the amounts recorded (excluding the dividends) in the retained earning account (see Exhibit TN-3), (3) the statement of cash flows for the first year using the direct method from the amounts recorded in the cash column (see Exhibit TN-4), and (4) the statement of cash flows for the first year using the indirect method by starting with net income and adding the accrual adjustments such as depreciation and the change in receivables, inventories, payables, etc. (see Exhibit TN-5).\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82

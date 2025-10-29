@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: d64529fa-3955-4f29-a480-138aa80e80f1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:19:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Jolene Sim - Where are they now?'
+created:
+  -
+    value: '2016-06-21T19:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:19:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/jolene-sim
+body:
+  -
+    value: "<p>[[{\"fid\":\"2882\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jolene Sim\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Jolene Sim\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><span>Jolene Sim Hui Ching is the Director of Mainstream Online Buzz (MOB), an online social media-advertising agency in Kuala Lumpur, Malaysia.</span></p>\r\n<p>In a few words, Jolene is simply a driving force. When you first meet Jolene, you know she is one of those people that get things moving. When you speak with Jolene, you know she is one of those people that is constantly thinking – creating, learning and improving.</p>\r\n<p><em><strong>Jolene at Thunderbird</strong></em></p>\r\n<p>Jolene attended Thunderbird as part of the U.S. Department of State and Goldman Sachs 10,000 Women Entrepreneurship Partnership (<a href=\"http://t4g.thunderbird.edu/programs/us-dept-state-and-goldman-sachs-partnership\" target=\"_blank\">http://t4g.thunderbird.edu/programs/us-dept-state-and-goldman-sachs-partnership</a>), a program sponsored by Goldman Sachs and the U.S. Department of State to provide business training to women entrepreneurs all around the world to help them start or improve their business. At the time, Jolene and her classmates from college had just started MOB (<a href=\"https://www.mobuzzasia.com/\">https://www.mobuzzasia.com</a>). At Thunderbird, she received “one-on-one consultation” on how to improve parts of the business. More importantly, she had the opportunity to meet other women entrepreneurs from all over the world and exchange ideas. She gained mentors and was able to increase revenues for MOB upon her return to Malaysia. MOB has since been running social media campaigns from clients ranging from AirAsiaGo (one of South East Asia’s largest online hotel booking sites) to Maybank (Malaysia’s largest bank).</p>\r\n<p>For example, for Tai Thong Group of Restaurants, the largest chain of Chinese restaurants in Malaysia, Jolene and her team were tasked with generating word of mouth regarding the chain’s mooncakes and encourage sales. The 7-week campaign generated 30,000 fans who earned points for performing actions such as liking a Facebook page, leaving testimonial, downloading a discount voucher and more. Winners walked away with vouchers for Thai Thong restaurants and other gadgets.</p>\r\n<p><em><strong>How the Thunderbird Program changed the business model – From MOB to Incentify.</strong></em></p>\r\n<p><em><strong>[[{\"fid\":\"2883\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jolene Sim\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Jolene Sim\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</strong></em></p>\r\n<p>One of the key lessons learned during the journey was the importance of having a scalable business model.&nbsp; Thus, MOB moved from doing a lot of direct client servicing and campaigns to launching their own product line. Applying the lessons learned from Thunderbird, Jolene and team are excited to be launching a new product line called Incentify that allows any business to easily create and encourage brand advocacy across multiple social media channels including Facebook, Twitter, Instagram, Website, Email and others.</p>\r\n<p>Brands from around the world can now reward consumers with points for a range of social activities such as Facebook likes, tweets, shares, Instagram photos, website views and more. Consumers can then use these points to redeem or auction for prizes like an iPad or a Mac Book Pro.</p>\r\n<p><em>Note: Write to&nbsp;<a href=\"mailto:Jolene@mobuzzasia.com\">Jolene@mobuzzasia.com</a>&nbsp;if you would like to get a 14 day free trial.</em></p>\r\n<p>[[{\"fid\":\"2884\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jolene Sim\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Jolene Sim\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><em><strong>Incentify in Education</strong></em></p>\r\n<p>Jolene and her team are also applying the same concept in the education sphere where educators can use a points reward system to incentivize good learning behavior among children. Students can earn points for a range of learning actions such as arriving to class on time or participating in group work, to going online and completing trivia questions or education games. In return, students get to use their points to redeem for prizes.</p>\r\n<p>This initiative won the Global Innovation through Science and Technology (GIST) grant worth $5,000 for the best female entrepreneur award held in Dubai last year. They were also selected by the World Bank as one of the top 20 ventures for the 5th Global Forum on Innovation &amp; Technology Entrepreneurship held in South Africa.</p>\r\n<p>The system is in closed beta phase, and is currently being tested amongst educators in Malaysia and Singapore as well as an online financial education portal with Maybank Foundation called Cashvillekidz.</p>\r\n<p>[[{\"fid\":\"2885\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jolene Sim\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Jolene Sim\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><br><em><strong>Sharing her thoughts</strong></em></p>\r\n<p>When asked if there is any advice she’d like to share with other entrepreneurs. Jolene claims that “…getting financial resources was the easiest part”, she says. “You can get money from many sources now. Due to the Internet and nature of various businesses, there are many options, which do not require high initial start-up costs. The real challenge lies in sustaining your business and making it scale to the level you want it to be.”</p>\r\n<p>Her advice to young entrepreneurs: “Get good mentors, advisers, team members and partners. No man/woman is an island.”</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

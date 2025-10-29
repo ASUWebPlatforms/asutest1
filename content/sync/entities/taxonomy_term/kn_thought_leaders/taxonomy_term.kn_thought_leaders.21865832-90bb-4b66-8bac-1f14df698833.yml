@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: 21865832-90bb-4b66-8bac-1f14df698833
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: kn_thought_leaders
+    target_type: taxonomy_vocabulary
+    target_uuid: 93c7e45d-aa11-4e86-aef3-2753aca985ca
+revision_created:
+  -
+    value: '2021-10-01T10:39:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Joshua Ault'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 37
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2021-10-01T10:39:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

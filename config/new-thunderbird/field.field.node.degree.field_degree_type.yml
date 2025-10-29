@@ -1,0 +1,21 @@
+uuid: 11fd3277-a10e-4ebd-a9aa-9549a1e2902e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_degree_type
+    - node.type.degree
+  module:
+    - options
+id: node.degree.field_degree_type
+field_name: field_degree_type
+entity_type: node
+bundle: degree
+label: 'Degree Type'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

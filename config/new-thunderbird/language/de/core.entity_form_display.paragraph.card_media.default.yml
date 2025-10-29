@@ -1,0 +1,9 @@
+content:
+  field_cta:
+    settings:
+      title: Seitenabschnitt
+      title_plural: Seitenabschnitte
+  field_cta_secondary:
+    settings:
+      title: Seitenabschnitt
+      title_plural: Seitenabschnitte

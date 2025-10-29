@@ -1,0 +1,14 @@
+uuid: 91ce9cd5-c3e9-497a-80a4-a3980eeaca67
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.gdmi_participant
+  module:
+    - user
+id: user_add_role_action.gdmi_participant
+label: 'Add the GDMI participant role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: gdmi_participant

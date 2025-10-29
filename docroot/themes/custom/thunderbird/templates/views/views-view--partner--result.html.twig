@@ -1,0 +1,71 @@
+{#
+/**
+ * @file
+ * Theme implementation for Partner result view template.
+ *
+ * @ingroup themeable
+ */
+#}
+{%
+  set classes = [
+    'row',
+    dom_id ? 'js-view-dom-id-' ~ dom_id,
+  ]
+%}
+<div class="container find-my-path--results">
+  <div{{ attributes.addClass(classes) }}>
+    {{ title_prefix }}
+    {{ title }}
+    {{ title_suffix }}
+
+    <div class="col-4">
+      {% if header %}
+        <header>
+          {{ header }}
+        </header>
+      {% endif %}
+    </div>
+
+    <div class="col-8">
+      <div class="row d-none">
+        <div class="col-12">
+          <div class="views-exposed-form--wrapper mb-4">
+            {{ exposed }}
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12">
+          {{ attachment_before }}
+        </div>
+      </div>
+
+      <div class="view-result-cards row">
+        {% if rows -%}
+          {{ rows }}
+        {% elseif empty -%}
+          {{ empty }}
+        {% endif %}
+        {{ pager }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ attachment_after }}
+{{ more }}
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      {% if footer %}
+        <footer>
+          {{ footer }}
+        </footer>
+      {% endif %}
+
+      {{ feed_icons }}
+    </div>
+  </div>
+</div>

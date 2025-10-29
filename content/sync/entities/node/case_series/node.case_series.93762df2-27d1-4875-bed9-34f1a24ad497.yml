@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 93762df2-27d1-4875-bed9-34f1a24ad497
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:53:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Airwide International China (A): Key Account Selling'
+created:
+  -
+    value: '2016-07-16T00:44:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:53:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-11-0011
+body:
+  -
+    value: '<p><span>Airwide International was one of the top suppliers of commercial and residential air conditioning systems in Europe, with a growing presence in the attractive markets of Asia. Increasing competition from Chinese and international manufacturers coupled with a sales organization built primarily by hiring (from other industries) and retraining have produced a pattern of uneven sales. At a recent national sales meeting, the performance of the Shanghai region surfaced as an area of concern for senior management. The transition from product selling to key account selling has met with obstacles; primary among them is the insufficient commitment of some area sales leaders. A review meeting with a Shanghai’s sales leader reveals some of the problems and provides the Sales VP an opportunity to go over the essence of Key Account Management.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-11-0011
+field_case_page_length:
+  -
+    value: '6 Pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: e4eebf14-d9a4-41de-a032-937f490f51a8
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: China
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "This case is designed for MBA-level courses and senior-level undergraduate courses in Sales Management and Business-to-Business Marketing. More specifically, its educational objectives can be defined as:\r\n\r\nTo provide a context for studying the essential elements of sales and account strategy\r\nTo examine and contrast two different approaches to sales: transaction-based, and account management\r\nTo sensitize students to the complex aspects of selling to organizational buyers\r\nTo introduce the basic principles that inform the operation of a purchasing decision-making unit (DMU).\r\nTo lead students through a detailed, step-by-step evaluation of the process that a key account manager follows to develop an account strategy and plan a sales call"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.e4eebf14-d9a4-41de-a032-937f490f51a8
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

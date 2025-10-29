@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 4b98bab8-d687-4f99-b275-3af20d9fa590
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T21:15:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Zenon Environmental'
+created:
+  -
+    value: '2016-07-19T21:15:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T21:15:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-06-0009
+body:
+  -
+    value: '<p><span>Emerging markets represent a very sizable opportunity for Zenon, a leader in the membrane filtration technology, and the water treatment industry in general. The replication of the developed economies model in emerging markets is fraught with difficulties. It requires a different set of skills and resources, a critical focus on relationships, and a distinct attitude toward risk. A new strategic blueprint for business development in emerging economies is being developed. South Africa is the immediate test for the new model. An initial market viability study has been delivered to management.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-06-0009
+field_case_page_length:
+  -
+    value: '20 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8db1280b-8749-4695-a03c-6ac905bb63e8
+field_case_series_year:
+  -
+    value: '2006-01-01'
+field_case_setting:
+  -
+    value: 'South Africa, Emerging'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: 'The case has been primarily taught at MBA level, as part of the International Marketing track, to introduce the topic of international market assessment and international market entry. In the Business-to-Business Marketing track, it has been used to illustrate account planning and strategy for government clients. The case also contains sufficient information about borderline business practices—influence peddling and financial greasing—to warrant a presence in a Business Ethics curriculum.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.8db1280b-8749-4695-a03c-6ac905bb63e8
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

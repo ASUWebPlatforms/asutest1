@@ -1,0 +1,23 @@
+uuid: e9392c23-76a8-4f52-8d8b-744b31e5b5f1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_x_coordinate
+    - taxonomy.vocabulary.coe_locations
+id: taxonomy_term.coe_locations.field_x_coordinate
+field_name: field_x_coordinate
+entity_type: taxonomy_term
+bundle: coe_locations
+label: 'X Coordinate'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: decimal

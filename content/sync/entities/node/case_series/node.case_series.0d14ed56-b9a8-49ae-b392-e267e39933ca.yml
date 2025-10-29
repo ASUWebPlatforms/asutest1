@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: 0d14ed56-b9a8-49ae-b392-e267e39933ca
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T22:28:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Island Foods, Inc.'
+created:
+  -
+    value: '2016-07-26T22:28:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T22:28:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-03-0001
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case centers around the first two years of operation of a small local restaurant. The case principally concerns the development of key financial statements for the two years of actual operations. Students are also asked to use ratios to analyze past operations, and to develop proforma financial statements for the third year of operations. The decision setting is a possible bank loan to expand additional locations.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-03-0001
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3bee552a-7bfd-4ec2-9718-4a90ac0275a4
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: 'Southwest U.S.'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: "The purpose of this case is to provide students with the opportunity to prepare financial statements, both historical and proforma, for a start-up business. Using given cash flow data, students are asked to prepare the actual financial statements for the first two years of operations. Students are also asked to determine if, using various financial ratios and proforma financial statements, the owners should be given a bank loan to open two additional restaurants.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.3bee552a-7bfd-4ec2-9718-4a90ac0275a4
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe

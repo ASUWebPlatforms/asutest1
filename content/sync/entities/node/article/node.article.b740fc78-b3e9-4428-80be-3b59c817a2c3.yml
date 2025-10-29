@@ -1,0 +1,77 @@
+uuid:
+  -
+    value: b740fc78-b3e9-4428-80be-3b59c817a2c3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-01T20:43:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+title:
+  -
+    value: 'Thunder Tips of a Powerful Resume '
+created:
+  -
+    value: '2017-01-14T18:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-01T20:43:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/tips-powerful-resume
+body:
+  -
+    value: "<p>[[{\"fid\":\"4068\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"career management center employment\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"career management center employment\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><span style=\"color: #000000;\">Tips for Creating a Powerful Resume </span></p>\r\n<p><span style=\"color: #000000;\">&nbsp;</span><span style=\"color: #000000;\">As the spring semester begins here at Thunderbird, the search for summer internships or post-graduation employment is in full swing. If you haven't already done so, now is the time to update those resumes and showcase your skills! Here are a few tips for making the most impact:</span></p>\r\n<ol>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Use the top of your resume to highlight key skills </span>: This makes it easy for hiring managers to see your best qualities right away.</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Research Both the Company and the Specific Program/Position</span>: Tailor resumes by emphasizing relevant experience that matches the job’s requirements.&nbsp;</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Proofread, Proofread, Proofread</span>: Simple grammar mistakes can cause a hiring manager to question your attention to detail.</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Writing Style</span>: Be sure to write clearly and concisely.</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Formatting</span>: Ensure that formatting is consistent and professional. The average recruiter only spends seconds reviewing your resume, so be sure to include important information first.</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Keep Bullet Points Brief and Interesting</span>: Use active verbs and key words that describes skills relevant to the job.</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Computer Skills and Activities</span>: Include Microsoft Office only if you have advanced competency in the program. List other activities and honors you have received.</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">PAR Statements</span>: Restructure job tasks and responsibilities in such a way that demonstrates your accomplishments through quantifiable results. This adds credibility and demonstrates specific ways in which you excelled at your job duties.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</li>\r\n</ol>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

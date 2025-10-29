@@ -1,0 +1,6 @@
+noindex_metatag.routes_config_form:
+  title: 'Noindex Metatag Settings'
+  route_name: noindex_metatag.routes_config_form
+  description: 'List out Urls to Noindex in html header using Meta tag'
+  parent: system.admin_config_search
+  weight: 99

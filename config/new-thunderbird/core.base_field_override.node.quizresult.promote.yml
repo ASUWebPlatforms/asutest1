@@ -1,0 +1,22 @@
+uuid: cffbf1a9-9db9-4fa9-b3b0-6f2e92f67a65
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.quizresult
+id: node.quizresult.promote
+field_name: promote
+entity_type: node
+bundle: quizresult
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -1,0 +1,81 @@
+body {
+  overflow-x: hidden; // Disable horizontal overflow on page
+}
+
+// Headings
+// -----------------------------------------------------------------------------
+
+h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
+  color: $blue-dark;
+}
+
+h1, h2, .h1, .h2 {
+  color: $blue-mid;
+}
+
+// Text
+// -----------------------------------------------------------------------------
+p {
+  max-width: 100%; // Override Webspark 700px max width
+}
+
+// Links
+// -----------------------------------------------------------------------------
+a {
+
+  color: $blue-light;
+
+/*  @include hover {
+
+  }*/
+}
+
+// Lists
+// -----------------------------------------------------------------------------
+ol,
+ul,
+dl {
+
+}
+
+// Undo WYSIWYG class styling for <ul>
+ul, ul.uds-list {
+  list-style: square;
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+  padding: 0rem 0rem 0rem 1.125rem;
+
+  li:before {
+      display: none;
+  }
+}
+ul ul {
+  list-style: square;
+}
+// Image
+// -----------------------------------------------------------------------------
+img {
+
+}
+
+figure {
+
+}
+
+figcaption {
+
+}
+
+// Other
+// -----------------------------------------------------------------------------
+blockquote {
+
+}
+
+strong {
+
+}
+
+small {
+
+}

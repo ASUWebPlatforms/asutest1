@@ -1,0 +1,11 @@
+content:
+  field_body:
+    third_party_settings:
+      maxlength:
+        maxlength_js_label: 'Eingabe begrenzt auf @limit Zeichen, verbleibend: <strong>@remaining</strong>'
+  field_cta:
+    settings:
+      title_plural: Seitenabschnitte
+  field_cta_secondary:
+    settings:
+      title_plural: Seitenabschnitte

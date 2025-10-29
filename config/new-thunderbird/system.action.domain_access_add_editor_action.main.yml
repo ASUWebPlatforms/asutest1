@@ -1,0 +1,14 @@
+uuid: 0addf5f9-1de6-437b-b96b-05e9c9372edb
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.main
+  module:
+    - domain_access
+id: domain_access_add_editor_action.main
+label: 'Add editors to the Thunderbird domain'
+type: user
+plugin: domain_access_add_editor_action
+configuration:
+  domain_id: main

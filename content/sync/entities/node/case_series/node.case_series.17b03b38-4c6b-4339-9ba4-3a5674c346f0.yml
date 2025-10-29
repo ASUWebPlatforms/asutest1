@@ -1,0 +1,94 @@
+uuid:
+  -
+    value: 17b03b38-4c6b-4339-9ba4-3a5674c346f0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-01-16T23:46:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'James McAllister: Learning from BP and NASA'
+created:
+  -
+    value: '2018-01-16T23:46:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-16T23:46:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a05-17-0014
+body:
+  -
+    value: '<p><span style="color: #000000; font-family: Times New Roman; font-size: small;">James McAllister was responsible for the construction of new production facilities for a rapidly growing global medical equipment manufacturer. A recent safety audit, triggered by an anonymous reporting system, revealed that a supervisor had discouraged reporting several significant “near-miss” events that could have led to serious injury or fatality.<span>&nbsp; </span>The same individual indicated several deviations from company safety policies and standards.<span>&nbsp; </span>The company’s COO, Sarah Gupta, asked McAllister to extract lessons learned from BP’s Macondo oil spill and NASA’s Challenger disaster. Each of these incidents is summarized in the case</span><span></span>.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A05-17-0014
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2017-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields: {  }
+field_teaching:
+  -
+    value: 'This case provides a platform for understanding and preventing normalization of deviance that can lead to significant deviations from safe operating practices. The examples in the case also illustrate how workgroup cultures are formed and how strong cultures can blind team members from considering warning signs and ideas for improvement from those outside the team.  Specific approaches for overcoming these challenges are shared in the teaching note.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678

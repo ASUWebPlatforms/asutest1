@@ -1,0 +1,23 @@
+uuid: 39af9b4e-5645-4fd4-8ad6-5ab55cbcc060
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.rankings
+    - field.storage.block_content.field_rank_cta
+  module:
+    - link
+id: block_content.rankings.field_rank_cta
+field_name: field_rank_cta
+entity_type: block_content
+bundle: rankings
+label: CTA
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  title: 2
+  link_type: 17
+field_type: link

@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 45050a80-d13f-4c54-9e6c-3d012013c75f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:57:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Aussie Pies C'
+created:
+  -
+    value: '2016-07-16T01:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:57:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-07-0004
+body:
+  -
+    value: '<p><span>Aussie Pies, Inc. was established in Seattle, Washington in 2005 after Anna Amphlett and Andrew Ferris discovered Aussie meat pies on a vacation to Australia. The meat pie, a hand-sized pot pie made with pastry and filled with minced (ground) beef and gravy, is consumed as a takeaway food snack in Australia. To obtain financing from Bank of America, the company’s business plan initially forecasted sales of a little over one million dollars in 2006, the first year of operations. But with an aggressive sales and marketing campaign, sales reached $6 million in 2006. Although sales greatly exceeded their expectations, Amphlett and Ferris were disappointed that net income in the first year was only $786,000 and that the company had cash on hand of just $200,000 at the end of 2006.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-07-0004
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: fbb454b4-09b8-4097-be5d-3aef8b1a4baa
+field_case_series_year:
+  -
+    value: '2007-01-01'
+field_case_setting:
+  -
+    value: 'Seattle, 2007'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a6684deb-541e-4d46-9983-01e213d10328
+field_teaching:
+  -
+    value: 'This case enables students to prepare a statement of cash flows for Aussie Pies, and evaluate the company’s cash flow situation in its first year of operations. The case also allows students to evaluate the company’s first-year profit performance. The case is a continuation of Aussie Pies (A) and (B), but it can be used as a stand-alone case since it provides sufficient background on the company’s strategy, operations, and financial situation.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.fbb454b4-09b8-4097-be5d-3aef8b1a4baa
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.a6684deb-541e-4d46-9983-01e213d10328

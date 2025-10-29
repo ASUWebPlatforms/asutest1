@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 654a8ab4-8dab-4794-9782-0a66081e2eee
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'T-bird nominated to serve as U.S. Ambassador to Mauritania'
+created:
+  -
+    value: '2016-06-22T17:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/US-ambassador--mauritania
+body:
+  -
+    value: "<p>[[{\"fid\":\"871\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>U.S. President Barack Obama has nominated&nbsp;career diplomat<strong>Larry Edward André, Jr. ‘88</strong>&nbsp;to serve as ambassador to the West African nation of Mauritania, the White House announced on Sept. 10, 2013. André has extensive experience in Africa, most recently serving as acting envoy and director of the Office of the Special Envoy for Sudan and South Sudan at the U.S. Department of State.&nbsp;Prior to this role,&nbsp;he served as deputy executive director for the State Department’s Bureau of African Affairs from 2010 to 2011.&nbsp;He also served in&nbsp;Tanzania from 2008 to 2010, in Kenya from 2006 to 2008, and in Sierra Leone from 2002 to 2004.</p>\r\n<p>Before&nbsp;earning an MBA at&nbsp;Thunderbird, André received a&nbsp;Bachelor of Arts&nbsp;degree from Claremont McKenna College in California.</p>\r\n<p>When André is appointed&nbsp;in Mauritania, he will join a list of at least five other Thunderbird alumni who have served as U.S. ambassadors.&nbsp;<strong>Philip Reeker ‘91&nbsp;</strong>served in Macedonia,&nbsp;<strong>Niels Marquardt ‘80</strong>&nbsp;served in Madagascar,&nbsp;<strong>Lewis Lucke ‘77</strong>&nbsp;served in Swaziland,&nbsp;<strong>W.L. Brown ‘60</strong>&nbsp;served in Austria, and&nbsp;<strong>Tony Holmes ‘79</strong>&nbsp;served in Burkina Faso.&nbsp;Former Thunderbird President and&nbsp;Trustee&nbsp;<strong>Barbara Barrett</strong>&nbsp;also served as U.S. Ambassador to Finland. Thunderbird diplomats from other countries include&nbsp;<strong>Luis Alberto Moreno ‘77,</strong>&nbsp;who served as Colombia’s ambassador to the United States prior to his current role as president of Inter-American Development Bank president,</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: dbab4e69-1be5-4ab6-bd64-52b3212ad0da
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-03-11T16:03:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Key Takeaways from Davos 2020'
+created:
+  -
+    value: '2020-02-25T00:32:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-11T16:03:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/key-takeaways-davos-2020
+body:
+  -
+    value: '<p>More than 750 world leaders converged at Davos 2020 to discuss the primary challenges of the 4th&nbsp;Industrial Revolution and develop critical solutions. We had the immense privilege of being there and hosting two side events. Click on this infographic to see details of what was discussed.&nbsp;</p><p><a href="https://www.thinglink.com/scene/1283509797555011587">[[{"fid":"79924","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false},"link_text":null,"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false}},"attributes":{"class":"media-element file-default","data-delta":"1"}}]]</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><img src="//cdn.thinglink.me/api/image/1283509797555011587/1024/10/scaletowidth#tl-1283509797555011587;" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;" class="alwaysThinglink"></p><p>&nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: 'More than 750 world leaders converged at Davos 2020 to discuss the primary challenges of the 4th Industrial Revolution and develop critical solutions. We had the immense privilege of being there and hosting two side events. This infographic details what was discussed. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1913
+    height: 1567
+    target_type: file
+    target_uuid: 92df5b02-e5a4-4f45-b0e4-efe46bff1d72
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 92319e4c-3a94-47e0-9831-fcb00a1be31c
+  -
+    target_type: taxonomy_term
+    target_uuid: 6639eb98-9810-48da-a1ed-34598e85e32a
+  -
+    target_type: taxonomy_term
+    target_uuid: e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+  -
+    target_type: taxonomy_term
+    target_uuid: 60b6056a-f443-495e-beb5-9fedd39c2b7f
+  -
+    target_type: taxonomy_term
+    target_uuid: f714459d-6552-4f21-95a0-e7076f1706a6
+  -
+    target_type: taxonomy_term
+    target_uuid: d56db585-56f6-4a48-b753-745e3a7e210c
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.92df5b02-e5a4-4f45-b0e4-efe46bff1d72
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.knowledge_network_tags.92319e4c-3a94-47e0-9831-fcb00a1be31c
+      - taxonomy_term.knowledge_network_tags.6639eb98-9810-48da-a1ed-34598e85e32a
+      - taxonomy_term.knowledge_network_tags.e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+      - taxonomy_term.knowledge_network_tags.60b6056a-f443-495e-beb5-9fedd39c2b7f
+      - taxonomy_term.knowledge_network_tags.f714459d-6552-4f21-95a0-e7076f1706a6
+      - taxonomy_term.knowledge_network_tags.d56db585-56f6-4a48-b753-745e3a7e210c

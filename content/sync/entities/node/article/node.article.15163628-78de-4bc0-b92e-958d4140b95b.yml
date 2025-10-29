@@ -1,0 +1,75 @@
+uuid:
+  -
+    value: 15163628-78de-4bc0-b92e-958d4140b95b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-07T22:58:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+title:
+  -
+    value: 'Onboard Intelligence'
+created:
+  -
+    value: '2017-01-11T16:45:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-07T22:58:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/Onboard-Intelligence
+body:
+  -
+    value: "<p><span style=\"color: #222222; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: calibri,sans-serif; font-size: 14.66px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; background-color: #ffffff; font-variant-ligatures: normal; font-variant-caps: normal;\">by Alexander Marino</span></p>\r\n<p><span style=\"color: #222222; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: calibri, sans-serif; font-size: 14.66px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px;\"></span><span style=\"color: #222222; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: calibri, sans-serif; font-size: 14.66px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px;\">On my plane ride home this holiday, I volunteered to be put on stand-by with the enticement to receive a three-hundred-dollar voucher if I had to be bumped up, but if not I ran the risk of losing my position in Southwest airlines' open seating policy. Sure enough, someone didn’t show up and I ended up last on the plane.I found myself wedged in a middle seat between two large men who had already taken over both armrests. I &nbsp;did anything in my power to stay claim despite the extreme&nbsp;displeasure of feeling enclosed by strangers. I also avoided having conversations on this long plane ride for obvious reasons, but my neighbor crept on my “Enabling Collaboration” book and began asking questions about what field I worked in, and since there is no escape I dove into the conversation. Turns out he was a retired Archaeologist with a passion for Cultural Anthropology, and experience consulting for the Air Force on the Navajo Indian tribe’s legal status as a sovereign nation within U.S. territory. We had a conversation for three hours discussing social movements in the 1960’s, Indian-U.S. relations from the perspective of different U.S. government administrations, executive agreements designating sites as national monuments and what this means for pipeline expansion into Native American territory, the burning man culture’s roots in a new environmental and social responsibility movement, the importance of cultural sensitivity and relationship building in cross-cultural environments such as my consulting practice in Madagascar or his Air Force briefings emphasizing the spiritual connection the Navajo tribe has to their land and water sources. Being able to relate to his experiences and participate in such an intellectual conversation with a professional of more than 30 years’ experience truly made me appreciate the vigorous case studies, consulting practicums, late-night group projects, and heated pub night discussions with fellow students at Thunderbird. If you are reading this as an alum or second-year student you already know what I mean, however, if you’re a new or prospective student get ready to take full advantage of an adventure that will expand your mind and worldview exponentially. In the trenches the depth of your knowledge is never obvious, but when you leave Thunderbird and re-enter the world you will do so with a unique outlook and perspective that brings to light the authenticity and value of the Thunderbird mystique.&nbsp;</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

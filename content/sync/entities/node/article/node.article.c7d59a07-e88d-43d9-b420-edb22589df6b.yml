@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: c7d59a07-e88d-43d9-b420-edb22589df6b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-12-18T20:56:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Peer Learning: Collaboration over Competition'
+created:
+  -
+    value: '2017-12-07T20:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-18T20:56:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/3-business-school-students-benefits-peer-learning-0
+body:
+  -
+    value: "<p>Research shows that peer learning – when students interact with each other to attain educational goals – is the most effective way to learn. It builds the ‘real-world’ skillsets that employers are looking for. And, it’s more fun.</p>\r\n<p>At Thunderbird, our peer-to-peer learning approach is referred to as the ‘collaborate to graduate’ model. Hear from three Thunderbird graduates about their experiences in this collaborative learning environment.</p>\r\n<h3>Faduma Mohamed calls her fellow students a “source of learning and inspiration”</h3>\r\n<p>[[{\"fid\":\"10172\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Faduma Mohamed \",\"field_file_image_title_text[und][0][value]\":\"Faduma Mohamed \"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Faduma Mohamed \",\"field_file_image_title_text[und][0][value]\":\"Faduma Mohamed \"}},\"link_text\":null,\"attributes\":{\"alt\":\"Faduma Mohamed \",\"title\":\"Faduma Mohamed \",\"height\":\"292\",\"width\":\"520\",\"style\":\"float: left; margin: 5px 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]“In my class, we had so many different backgrounds. In terms of culture, of course, but also in terms of undergraduate degrees; people with lots of experience or little-to-no experience. But everyone had worked at some point in their life. We all had different ways of thinking, and you saw that in the classroom discussions or group projects. That’s better than thinking in just one direction. We realized that none of our experiences were superior to the other.”</p>\r\n<p><a href=\"https://youtu.be/4urdf8QTb0g\">Watch Faduma's video</a> | <a href=\"https://thunderbird.asu.edu/about/news-events/asu-thunderbird-student-carries-many-homes-her-heart\">Read Faduma’s story</a></p>\r\n<blockquote>\r\n<p>“We all have different ways of thinking, and you see that in the classroom discussions or group projects. That’s better than thinking in just one direction.” – <em><a href=\"https://thunderbird.asu.edu/knowledge-network/3-business-school-students-benefits-peer-learning\">Click to tweet</a></em></p>\r\n</blockquote>\r\n<h3>For Nancy Shereni, the peer-to-peer learning experience was “life-changing”</h3>\r\n<p>[[{\"fid\":\"9602\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"height\":\"292\",\"width\":\"518\",\"style\":\"float: right; margin: 5px 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]With her family half a world away, Nancy steeled herself for intense competition from driven classmates when she arrived at Thunderbird. But learning took on a different shape with the 'collaborate to graduate’ model – meaning students cheered each other on in coursework, shared notes about their hometowns and home countries, and even traveled to visit families for holidays… “Having that firsthand experience, it was life-changing honestly,” she said, adding, “People here were just really willing to teach, to learn, to grow together. It was competitive, but a good competition. People were willing to help each other and genuinely wanted to see each other succeed.”</p>\r\n<p><a href=\"https://vimeo.com/228997978\">Watch Nancy's video</a> | <a href=\"https://thunderbird.asu.edu/about/news-events/international-student-finds-home-thunderbird-school\">Read Nancy’s story</a></p>\r\n<blockquote>\r\n<p>“People here are just really willing to teach, to learn, to grow together. It’s competitive, but it’s a good competition.” – <em><a href=\"https://ctt.ec/iSvc2\">Click to tweet</a></em><a href=\"#_msocom_1\" id=\"_anchor_1\" name=\"_msoanchor_1\"></a></p>\r\n</blockquote>\r\n<div>\r\n<h3>Collaboration is key to growth, says Juan Carlos Quiroga</h3>\r\n<p>[[{\"fid\":\"6552\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"height\":\"292\",\"width\":\"517\",\"style\":\"float: left; margin: 5px 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]Juan Carlos&nbsp;refers to Thunderbird’s peer learning approach as “super collaborative.” He says, “Of course it was competitive – that’s healthy. But people helped and collaborated in every aspect so all of us grew as a ‘we.’ ” Juan Carlos&nbsp;credits his fellow T-birds for helping expand and open his own mind. “You interact with people from all over the world, whether you’re in class or out of class. It was beautiful, because you learn from so many cultures 24/7.” That cultural awareness and global focus can translate into business success.</p>\r\n<p><a href=\"https://vimeo.com/229919271\">Watch Juan Carlos's video</a> | <a href=\"https://thunderbird.asu.edu/about/news-events/thunderbird-bolivia-student-seizes-opportunities-succeed-and-give-back\">Read Juan Carlos’s story</a></p>\r\n<blockquote>\r\n<p>“We all are somehow immersed in globalization … when we eat, when we buy, when we do business, we are all exposed to it.” – <em><a href=\"https://ctt.ec/c5mT3\">Click to tweet</a></em><a href=\"#_msocom_1\" id=\"_anchor_1\" name=\"_msoanchor_1\"><br></a></p>\r\n</blockquote>\r\n<h4>Join the discussion!</h4>\r\n<p>Have you participated in peer-to-peer learning? What was your experience? What are the values you see in peer learning versus a more traditional approach? Share your thoughts with us on&nbsp;<a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>,&nbsp;<a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and&nbsp;<a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: 'At Thunderbird, our peer-to-peer learning approach is referred to as the ‘collaborate to graduate’ model. Hear from three Thunderbird graduate students as they talk about their experiences in this collaborative learning environment.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 640
+    height: 436
+    target_type: file
+    target_uuid: e59cecfb-04f7-4bd3-8f3f-0b93a3d1bb19
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.e59cecfb-04f7-4bd3-8f3f-0b93a3d1bb19
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

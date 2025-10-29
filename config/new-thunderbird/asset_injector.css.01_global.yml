@@ -1,0 +1,78 @@
+uuid: f4fcc358-dc99-4edc-9cc2-95c32e500cf1
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: 01_global
+label: '01 - Global'
+code: |
+  .hero.justify-content-end.align-items-end .content>div, .hero.justify-content-end.align-items-end .content>h1, .hero.justify-content-end.align-items-end .content>h2, .hero.justify-content-end.align-items-end .content>h3, .hero.justify-content-end.align-items-end .content>h4, .hero.justify-content-end.align-items-end .content>h5, .hero.justify-content-end.align-items-end .content>h6, .hero.justify-content-end.align-items-end .content>p {
+      text-align: left;
+  }
+  .standard-card {
+      border: 1px solid #ccc;
+      padding: 15px;
+      min-height: 350px;
+      margin: 15px 0;
+      position: relative;
+  }
+  .blocktitle {
+      font-size: 2.125rem;
+      color: #002e5f;
+      letter-spacing: -.5px;
+      line-height: 2.125rem;
+      font-weight: 900;
+      margin: 20px 0;
+  }
+  .blockbtn {
+      position: absolute;
+      bottom: 20px;
+  }
+  .blockbtn a {
+      color: #FFF;
+  }
+
+  .block-edee7a73-16b7-49e1-8f2d-157666ff9f7d {
+  	background-position: top !important;
+  }
+
+  @media only screen and (max-width: 768px) {
+  	.block-edee7a73-16b7-49e1-8f2d-157666ff9f7d {
+  		background-position: left !important;
+  	}
+  }
+
+  .node-type--certificate {
+   scroll-behavior: smooth;
+  }
+media: all
+preprocess: false
+conditions:
+  node_type:
+    id: node_type
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      article: article
+      asu_news: asu_news
+      career_path: career_path
+      case_series: case_series
+      certificate: certificate
+      coe: coe
+      degree: degree
+      event: event
+      home_page: home_page
+      insight: insight
+      landing_page: landing_page
+      life_long_learning: life_long_learning
+      news: news
+      newsletter: newsletter
+      page: page
+      partner: partner
+      person_bio: person_bio
+      quizresult: quizresult
+      thunderbird_news: thunderbird_news
+contexts: {  }
+conditions_require_all: true

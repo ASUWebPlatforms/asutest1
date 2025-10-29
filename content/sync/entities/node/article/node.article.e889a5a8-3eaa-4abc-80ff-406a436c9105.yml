@@ -1,0 +1,73 @@
+uuid:
+  -
+    value: e889a5a8-3eaa-4abc-80ff-406a436c9105
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Project DreamCatcher'
+created:
+  -
+    value: '2016-05-25T19:51:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/project-dreamcatcher
+body:
+  -
+    value: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra vel eros at consectetur. Integer vel erat nunc. Donec in facilisis ipsum. Aliquam luctus mauris ligula, sit amet elementum nibh feugiat non. Sed vulputate nulla ac urna bibendum, vel iaculis felis facilisis. Sed fermentum metus est, non vehicula quam mollis in. Integer vulputate elementum pretium. Curabitur accumsan id erat vel venenatis. Curabitur laoreet lectus eget ligula mattis consequat. Nam eget purus ac enim accumsan volutpat.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra vel eros at consectetur. Integer vel erat nunc. Donec in facilisis ipsum. Aliquam luctus mauris ligula, sit amet elementum nibh feugiat non. Sed vulputate nulla ac urna bibendum, vel iaculis felis facilisis. Sed fermentum metus est, non vehicula quam mollis in. Integer vulputate elementum pretium. Curabitur accumsan id erat vel venenatis. Curabitur laoreet lectus eget ligula mattis consequat. Nam eget purus ac enim accumsan volutpat.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra vel eros at consectetur. Integer vel erat nunc. Donec in facilisis ipsum. Aliquam luctus mauris ligula, sit amet elementum nibh feugiat non. Sed vulputate nulla ac urna bibendum, vel iaculis felis facilisis. Sed fermentum metus est, non vehicula quam mollis in. Integer vulputate elementum pretium. Curabitur accumsan id erat vel venenatis. Curabitur laoreet lectus eget ligula mattis consequat. Nam eget purus ac enim accumsan volutpat.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra vel eros at consectetur. Integer vel erat nunc. Donec in facilisis ipsum. Aliquam luctus mauris ligula, sit amet elementum nibh feugiat non. Sed vulputate nulla ac urna bibendum, vel iaculis felis facilisis. Sed fermentum metus est, non vehicula quam mollis in. Integer vulputate elementum pretium. Curabitur accumsan id erat vel venenatis. Curabitur laoreet lectus eget ligula mattis consequat. Nam eget purus ac enim accumsan volutpat.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra vel eros at consectetur. Integer vel erat nunc. Donec in facilisis ipsum. Aliquam luctus mauris ligula, sit amet elementum nibh feugiat non. Sed vulputate nulla ac urna bibendum, vel iaculis felis facilisis. Sed fermentum metus est, non vehicula quam mollis in. Integer vulputate elementum pretium. Curabitur accumsan id erat vel venenatis. Curabitur laoreet lectus eget ligula mattis consequat. Nam eget purus ac enim accumsan volutpat.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network: {  }
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546

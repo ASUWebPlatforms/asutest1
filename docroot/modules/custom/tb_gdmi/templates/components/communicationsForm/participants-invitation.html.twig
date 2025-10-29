@@ -1,0 +1,77 @@
+ <div class="manage-groups-communications">
+    <h3>Participant Invitation Settings</h3>
+    <p>You can change the scheduling and messaging of the Participant Invitations below. If you do not make any changes, the invitations will be sent immediately with the default message when launch the group.</p>
+
+    <div class="communications-container communications-container__participant-invitation">
+      <div class="participant-invitation-schedule">
+        <div class="subsection-title subsection-title__column required">
+          <span class="required">Schedule:</span>
+          <span class="thin-text">(Choose one)</span>
+        </div>
+        <div class="schedule-options">
+          <div class="gdmi-check-form-group">
+            <input class="form-control gdmi-check" {% if content.defaults.schedule_type == 'immediately' %} checked {% endif %} name="participants_schedule_type" id="participants_schedule_type_immediately" value="immediately" type="radio">
+            <label for="participants_schedule_type_immediately">Immediately</label>
+          </div>
+          <div>
+            <div class="gdmi-check-form-group">
+              <input class="form-control gdmi-check" {% if content.defaults.schedule_type == 'datetime' %} checked {% endif %} name="participants_schedule_type" id="participants_schedule_type_datetime" value="datetime" type="radio">
+              <label for="participants_schedule_type_datetime">On a select date</label>
+            </div>
+            {% include "@tb_gdmi/components/communicationsForm/field-datetime.html.twig" with {
+              field_name: 'participant_inivitation',
+              options: content.options.date,
+              defaults: content.defaults.partic_schedule
+            }%}
+          </div>
+        </div>
+      </div>
+      <div class="participant-invitation-message">
+        <div class="subsection-title required">
+          <span class="required">Message</span>
+          <span class="thin-text">(Choose one):</span>
+        </div>
+        <div class="message-options">
+          <div class="message-default">
+            <div class="gdmi-check-form-group">
+              <input class="form-control gdmi-check" {% if content.defaults.message_type == 'default' %} checked {% endif %} name="participants_message_type" id="participants_message_type_default" value="default" type="radio">
+              <label for="participants_message_type_default">Default message</label>
+            </div>
+            <div class="message-container">
+              <div class="message-container__content">
+                  <div class="message-heading">
+                    <span class="d-block">Title:</span>
+                    <span class="message-title">{{ content.participants_default_message.title }}</span>
+                  </div>
+                  <div>
+                    <div class="message-heading">
+                      <span>Body:</span>
+                    </div>
+                    <div class="message-body">
+                      {{ content.participants_default_message.body.value|raw }}
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          {# <div class="message-custom">
+            <div class="gdmi-check-form-group">
+              <input class="form-control gdmi-check" {% if content.defaults.message_type == 'custom' %} checked {% endif %} name="participants_message_type" id="participants_message_type_custom" value="custom" type="radio">
+              <label for="participants_message_type_custom">Custom message</label>
+              <small>A custom message will always include a button <br> to “Go to your GDMI account” at the bottom.</small>
+            </div>
+
+            <div class="js-form-item form-item form-group">
+              <label class="form-label" for="custom_message_title">Title:</label>
+              <input class="form-control" type="text" id="custom_message_title" name="custom_message_title" value="{{ content.defaults.partic_message_title }}">
+            </div>
+
+            <div class="js-form-item form-item form-group">
+              <label class="form-label" for="custom_message_body">Body:</label>
+              <textarea class="form-control" rows="4"  id="custom_message_body" name="custom_message_body">{{ content.defaults.partic_message_body|striptags }} </textarea>
+            </div> 
+          </div>#}
+        </div>
+      </div>
+    </div>
+  </div>

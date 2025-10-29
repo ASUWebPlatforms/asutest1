@@ -1,0 +1,30 @@
+$heading-font-family: $font-family-base;
+$heading-font-weight: 900;
+$heading-text-align: $uds-component-heading-text-align;
+$heading-opacity: $uds-component-heading-opacity;
+$heading-margin: $uds-component-heading-margin;
+$heading-line-height: $uds-component-heading-line-height-formula;
+
+$heading-one-font-size: $font-size-base * 4.025;
+$heading-one-letter-spacing: $uds-component-heading-one-letter-spacing;
+
+$heading-one-article-font-size: $uds-component-heading-one-article-font-size;
+
+$heading-one-mobile-font-size: $uds-component-heading-one-mobile-font-size;
+
+$heading-two-font-size: $font-size-base * 4.025;
+$heading-two-letter-spacing: $uds-component-heading-two-letter-spacing;
+
+$heading-two-mobile-font-size: $uds-component-heading-two-mobile-font-size;
+
+$heading-three-font-size: $font-size-base * 2.125;
+$heading-three-letter-spacing: $uds-component-heading-three-letter-spacing;
+
+$heading-four-font-size: $font-size-base * 1.5;
+$heading-four-letter-spacing: $uds-component-heading-four-letter-spacing;
+
+$heading-five-font-size: $font-size-base * 1.375;
+$heading-five-letter-spacing: $uds-component-heading-five-letter-spacing;
+
+$heading-six-font-size: $font-size-base * 1.125;
+$heading-six-letter-spacing: $heading-five-letter-spacing;

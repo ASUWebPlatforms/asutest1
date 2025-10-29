@@ -1,0 +1,13 @@
+label: 'Соңғы пікірлер'
+display:
+  default:
+    display_title: Стандартты
+    display_options:
+      title: 'Соңғы пікірлер'
+      empty:
+        area_text_custom:
+          content: 'Пікірлер жоқ.'
+  block_1:
+    display_title: Блок
+    display_options:
+      block_description: 'Соңғы пікірлер'

@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 1acf949e-fc66-4442-9a14-50219f88c7c2
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2020-04-23T23:18:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Lenovo at the Crossroads: Coronavirus Meets Complexity'
+created:
+  -
+    value: '2020-04-23T23:18:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-23T23:18:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-20-0010
+body:
+  -
+    value: '<p>This case describes the evolution of Lenovo from its origins in China in 1984 through the onset of the coronavirus crisis in early 2020. It focuses on four phases of growth, each bringing massive change and risk. Its most recent change puts the company at the intersection of globalization and the Fourth Industrial Revolution. As challenging as these developments have been, the coronavirus, with its origins in China and worldwide spread, represents a huge new threat to Lenovo and potentially undermines the company’s commitment to globalization. The company’s supply chain was disrupted, and its exposure to Chinese suppliers raised important questions about the risks of such a base when trying to reach and compete globally. <br>The case raises interesting questions: what does it mean to be a truly global company and are the benefits worth the costs? How can companies fully manage the complexities that emanate from the dual imperatives of globalization and technological change? More specifically, can Chinese technology companies flourish as insiders in the U.S. and Europe? At the same time, does globalization mean that the company is too American to thrive in China? And by extension, what are the longer term implications for Western companies?</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-20-0010
+field_case_page_length:
+  -
+    value: '14 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: dc7c996c-21e4-4f32-ba41-49f7deafec88
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2020-01-01'
+field_case_setting:
+  -
+    value: 'China, Global'
+field_case_source:
+  -
+    value: 'Private / Filed'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 82faebf9-1074-4611-9b41-ba9fa62bf3cc
+  -
+    target_type: taxonomy_term
+    target_uuid: fd9b1245-17c0-43da-8b1e-1e820fd48d2b
+field_teaching:
+  -
+    value: "Learning Objectives\r\n1.\tEnhance student understanding of the challenges companies face as they attempt to globalize.\r\n2.\tReview the power and influence of business ecosystems, particularly amongst tech firms in China and introduce the concept of de-coupling China from the West.\r\n3.\tBuild an awareness of how the two biggest disruptors of our era—globalization and technological change—bring overwhelming complexity to decision makers.  \r\nAudience\r\nThe primary audience for the case is executive programs as well as MBA classes on strategy and leadership.  This teaching note is organized for MBA-level students.  \r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.dc7c996c-21e4-4f32-ba41-49f7deafec88
+      - taxonomy_term.case_series_categories.0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+      - taxonomy_term.case_series_fields.82faebf9-1074-4611-9b41-ba9fa62bf3cc
+      - taxonomy_term.case_series_fields.fd9b1245-17c0-43da-8b1e-1e820fd48d2b

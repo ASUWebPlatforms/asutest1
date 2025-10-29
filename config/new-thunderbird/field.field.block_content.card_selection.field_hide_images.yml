@@ -1,0 +1,23 @@
+uuid: 34446e67-ffcf-4cc7-a6e1-b6c471583f24
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - field.storage.block_content.field_hide_images
+id: block_content.card_selection.field_hide_images
+field_name: field_hide_images
+entity_type: block_content
+bundle: card_selection
+label: 'Hide images'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

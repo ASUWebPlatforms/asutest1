@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 8aff43e9-3f06-49ff-88f7-f0f4a8d7fb25
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-11-09T22:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Rosneft: An Oil Major Rises in Russia'
+created:
+  -
+    value: '2016-11-09T22:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-11-09T22:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-16-0007
+body:
+  -
+    value: '<p>The case study on Rosneft was written to focus on two central themes, (1) the impact of state ownership on the governance and functioning of large corporations in emerging markets, and (2) the growth of State Owned Multinational Corporations (SOMNCs) in the oil and gas industry.&nbsp;&nbsp; The study offers rich insights into the chaotic founding of Rosneft reflecting events that have a lot of parallels in other emerging markets that have been through transformative economic reforms.&nbsp; It chronicles the actions of two powerful leaders who have shaped the destiny of the company from a grab bag of odds and ends to a modern corporation that has become a global powerhouse in the oil and gas industry.&nbsp; In doing so, the case offers several important lessons both in leadership and strategy especially as it applies to mixed ownership companies in settings where the government plays an instrumental role in directing the destiny of corporations.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-16-0007
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: Russia
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: fd9b1245-17c0-43da-8b1e-1e820fd48d2b
+field_teaching:
+  -
+    value: 'Teaching Purposes The specific objectives of the case are to: 1. To illustrate the challenges associated with managing state owned enterprises, their governance, and their growth strategies. 2. To offer insights into the manner in which leaders navigate strategy challenges as they steer state owned enterprises in emerging markets 3. To gain insights into the globalization potential, aspirations and challenges associated with SOEs in general and NOCs in particular.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.fd9b1245-17c0-43da-8b1e-1e820fd48d2b

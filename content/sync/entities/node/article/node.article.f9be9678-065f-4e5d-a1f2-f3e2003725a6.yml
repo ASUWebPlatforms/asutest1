@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: f9be9678-065f-4e5d-a1f2-f3e2003725a6
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Cultura Fitness'
+created:
+  -
+    value: '2014-04-25T14:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/cultura-fitness
+body:
+  -
+    value: "<p>Many of you may not know that Peru has one of the highest obesity rates in the world. Just over 62% of the adult population is obese<a href=\"/#_edn1\">[i]</a> This percentage nears that of Mexico and the US, both of which have the highest adult obesity rates in the world, 70% and 69% respectively.<a href=\"/#_edn2\">[ii]</a> Despite this alarming statistic, Peru is amidst a “nutritional and lifestyle transition,” and a healthy foods and fitness phenomena is sweeping the nation.</p>\r\n<p>&nbsp;<span>What’s amazing is that we notice this cultural shift everywhere we go! Granted we live in Miraflores, one Lima’s most affluent areas, but it’s amazing to see people – men and women of various ages and sizes - come out in droves to exercise in the streets, parks and gyms.&nbsp;</span></p>\r\n<p><em><span>People exercising in a small gym which sells our client's products</span></em></p>\r\n<p><span><img src=\"/sites/default/files/img_1291-2.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1530 img__view_mode__default\"></span></p>\r\n<p><em><span>Street Zumba class on Sunday morning on a major Miraflores Avenue, one of the many avenues&nbsp;</span><span>the city closes on Sundays for people to exercise</span></em></p>\r\n<p><span><img src=\"/sites/default/files/img_1398-1_0.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1532 img__view_mode__default\"><br></span></p>\r\n<p>Not only do many Peruvians want to be healthier, they want to look better. In November 2012, a main Peruvian newspaper, El Gestion, reported that as Peru’s economy has developed in recent years, an achievement-oriented segment of the population has emerged. This group is typically young, formally employed and living in urban areas. More than half the people in this group (55%) reported that looking good physically is the most important aspect in projecting their desired image, with 85% saying that their appearance has a direct impact on how they feel.<a href=\"/#_edn1\">[i]</a>&nbsp; This has lead to an increase not only in the usage of beauty and personal care products but also the number of gyms and other exercise facilities and opportunities. We confirmed this with a few of our Peruvian friends whom undoubtedly fall into this category.</p>\r\n<p>What’s great about this entire situation is that these people we see everyday, everywhere that exercise on a regular basis and care about eating healthier are our client’s target customer segment. We get to watch them in action as they shop, run, eat and spend time with their family and friends. All of these observations have been incredibly valuable in helping us design our marketing communication plan. It also makes conducting customer surveys and doing market research much easier.&nbsp;</p>\r\n<p><em>Kelly surveying a young Peruvian professional at Parque Kennedy</em></p>\r\n<p><img src=\"/sites/default/files/img_1815.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1534 img__view_mode__default\"></p>\r\n<p>Also, in true Thunderbird style we’ve adapted to the high standards of physical fitness in our new community by keeping up our own consistent exercise routines. Staying fit and fitting in!!!</p>\r\n<p><em>Uriel running along the vast stretch of Costa Verde in Malecon, Miraflores</em><br> <br><img src=\"/sites/default/files/img_1543.jpg\" alt=\"\" width=\"480\" height=\"480\" class=\"Image img__fid__1535 img__view_mode__default\"></p>\r\n<p><em>Kelly, uriel and Patricia at Larcomar after our daily afternoon run on the Costa Verde</em></p>\r\n<p><img src=\"/sites/default/files/larco_mar.jpg\" alt=\"\" width=\"417\" height=\"417\" class=\"Image img__fid__1536 img__view_mode__default\"></p>\r\n<p><em>Bryan with a model for Gloria products at Gold's Gym</em></p>\r\n<p><img src=\"/sites/default/files/wp_20140414_013-1.jpg\" alt=\"\" width=\"480\" height=\"270\" class=\"Image img__fid__1537 img__view_mode__default\"></p>\r\n<p>Saludos,&nbsp;</p>\r\n<p>Team Apilab</p>\r\n<p><strong>References</strong></p>\r\n<p><span>[i] “Perú a 8 puntos del récord mundial de obesidad.” 9 July 2013. http://www.rpp.com.pe/2013-07-09-peru-a-8-puntos-del-record-mundial-de-obesidad-noticia_611585.html</span></p>\r\n<p><span>&nbsp;</span><span>[ii] “Mexico Obesity Rate Higher Than U.S., Says U.N. Report.” Huffington Post. July 2013. http://www.huffingtonpost.com/2013/07/09/mexico-obesity-rate-united-states_n_3568537.html</span></p>\r\n<p><span> [ii] Consumer Lifestyles in Peru. Euromonitor International. Passport. September 2013.</span></p>\r\n<div><br>\r\n<div>\r\n<p><a href=\"/#_ednref1\">[i]</a> Consumer Lifestyles in Peru. Euromonitor International. Passport. September 2013.</p>\r\n</div>\r\n</div>\r\n<div>\r\n<p><a href=\"/#_ednref1\"><br>[i]</a> “Perú a 8 puntos del récord mundial de obesidad.” 9 July 2013. http://www.rpp.com.pe/2013-07-09-peru-a-8-puntos-del-record-mundial-de-obesidad-noticia_611585.html</p>\r\n<div>\r\n<p><a href=\"/#_ednref2\">[ii]</a> “Mexico Obesity Rate Higher Than U.S., Says U.N. Report.” Huffington Post. July 2013. http://www.huffingtonpost.com/2013/07/09/mexico-obesity-rate-united-states_n_3568537.html</p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

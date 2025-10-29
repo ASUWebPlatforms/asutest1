@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: e4d4a89b-3ebb-4d89-a395-2378cdd4c497
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-05-11T03:20:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Arizona State management school holds graduation ceremony via robot'
+created:
+  -
+    value: '2020-05-11T03:20:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-11T03:20:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/arizona-state-management-school-holds-graduation-ceremony-via-robot
+body:
+  -
+    value: '<p><span>Arizona State plans to use robots during the graduation ceremony for its Thunderbird School of Global Management. The school’s dean, Dr. Sanjeev Khagram, and Juili Kale, one of its soon-to-be graduates discuss.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-05-10T20:15:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: c652f5a7-3d6b-4454-9626-1d59e4f3fda3
+field_news_link:
+  -
+    uri: 'https://www.cnbc.com/video/2020/05/08/arizona-state-management-school-holds-graduation-ceremony-via-robot.html'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: CNBC
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.c652f5a7-3d6b-4454-9626-1d59e4f3fda3

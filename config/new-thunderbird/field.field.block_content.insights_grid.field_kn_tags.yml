@@ -1,0 +1,29 @@
+uuid: 7a90db91-4b7f-4b4c-a97f-1bbaae648a7b
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.insights_grid
+    - field.storage.block_content.field_kn_tags
+    - taxonomy.vocabulary.knowledge_network_tags
+id: block_content.insights_grid.field_kn_tags
+field_name: field_kn_tags
+entity_type: block_content
+bundle: insights_grid
+label: 'KN tags'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      knowledge_network_tags: knowledge_network_tags
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

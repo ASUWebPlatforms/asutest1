@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 63b25a60-dedd-4524-9d01-72eb35c9f98e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+filename:
+  -
+    value: sunrise-1703357_1920.jpg
+uri:
+  -
+    value: 'public://article/sunrise-1703357_1920_0.jpg'
+    url: /sites/default/files/article/sunrise-1703357_1920_0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 308558
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-02-27T16:31:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-27T16:31:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466

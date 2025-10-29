@@ -1,0 +1,17 @@
+uuid: a2ec187d-c24b-4f79-8a7a-50eedc462bda
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: signpost_2_columns
+label: 'Signpost '
+effects:
+  9a4a0f6f-a29c-471c-bf15-53c54f61f9c3:
+    uuid: 9a4a0f6f-a29c-471c-bf15-53c54f61f9c3
+    id: focal_point_scale_and_crop
+    weight: 2
+    data:
+      width: 588
+      height: 305
+      crop_type: focal_point

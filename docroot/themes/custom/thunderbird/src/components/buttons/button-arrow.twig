@@ -1,0 +1,2 @@
+{% set aria_label %}{% include 'themes/custom/thunderbird/src/components/buttons/button-label.twig' with { url: url, title: title } %}{% endset %}
+<a href="{{ url }}" {{ aria_label }} class="readmore" role="link" target="{{ target }}">{{ title }}&nbsp;&nbsp;<span class="fas fa-fab fa-arrow-right"></span></a>

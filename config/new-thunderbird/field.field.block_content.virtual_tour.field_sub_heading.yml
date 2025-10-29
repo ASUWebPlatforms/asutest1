@@ -1,0 +1,19 @@
+uuid: 17e94361-1f57-45b5-a944-59c7334cc0db
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.virtual_tour
+    - field.storage.block_content.field_sub_heading
+id: block_content.virtual_tour.field_sub_heading
+field_name: field_sub_heading
+entity_type: block_content
+bundle: virtual_tour
+label: 'Subhead Label'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,403 @@
+uuid: f6b0408b-2184-464f-b164-faeb64e9fdc9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.insight.body
+    - field.field.node.insight.field_article_image
+    - field.field.node.insight.field_article_network
+    - field.field.node.insight.field_author
+    - field.field.node.insight.field_centers
+    - field.field.node.insight.field_certificates
+    - field.field.node.insight.field_content_background
+    - field.field.node.insight.field_degrees
+    - field.field.node.insight.field_domain_access
+    - field.field.node.insight.field_domain_all_affiliates
+    - field.field.node.insight.field_featured
+    - field.field.node.insight.field_image
+    - field.field.node.insight.field_insight_date
+    - field.field.node.insight.field_insight_type
+    - field.field.node.insight.field_kn_tags
+    - field.field.node.insight.field_link
+    - field.field.node.insight.field_meta_tags
+    - field.field.node.insight.field_migrated
+    - field.field.node.insight.field_other_authors
+    - field.field.node.insight.field_person_id
+    - field.field.node.insight.field_publication
+    - field.field.node.insight.field_regions
+    - field.field.node.insight.field_related_thought_leaders
+    - field.field.node.insight.field_schedule_publishing
+    - field.field.node.insight.field_solutions
+    - field.field.node.insight.field_tags
+    - field.field.node.insight.field_topics
+    - field.field.node.insight.field_vertical_stripes
+    - field.field.node.insight.layout_builder__layout
+    - field.field.node.insight.layout_builder__translation
+    - image.style.thumbnail
+    - node.type.insight
+  module:
+    - content_moderation
+    - field_group
+    - field_states_ui
+    - image
+    - media_library
+    - metatag
+    - path
+    - scheduled_publish
+    - select2
+    - tb_global
+    - text
+third_party_settings:
+  field_group:
+    group_migrated_data:
+      children:
+        - field_article_image
+        - field_article_network
+        - field_related_thought_leaders
+        - field_migrated
+      label: 'Migrated data'
+      region: content
+      parent_name: ''
+      weight: 16
+      format_type: details
+      format_settings:
+        classes: ''
+        id: ''
+        open: false
+        description: ''
+        required_fields: true
+    group_tagging:
+      children:
+        - field_degrees
+        - field_certificates
+        - field_regions
+        - field_solutions
+        - field_centers
+        - field_kn_tags
+      label: Tagging
+      region: content
+      parent_name: ''
+      weight: 17
+      format_type: details
+      format_settings:
+        classes: ''
+        id: ''
+        open: false
+        description: ''
+        required_fields: false
+    group_hero:
+      children:
+        - field_image
+        - field_vertical_stripes
+        - field_content_background
+      label: Hero
+      region: content
+      parent_name: ''
+      weight: 1
+      format_type: details
+      format_settings:
+        classes: ''
+        id: ''
+        open: true
+        description: ''
+        required_fields: true
+id: node.insight.default
+targetEntityType: node
+bundle: insight
+mode: default
+content:
+  body:
+    type: text_textarea_with_summary
+    weight: 10
+    region: content
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+  created:
+    type: datetime_timestamp
+    weight: 4
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_article_image:
+    type: image_image
+    weight: 16
+    region: content
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
+    third_party_settings: {  }
+  field_article_network:
+    type: options_select
+    weight: 17
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_author:
+    type: entity_reference_autocomplete
+    weight: 12
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_centers:
+    type: select2_entity_reference
+    weight: 21
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_certificates:
+    type: select2_entity_reference
+    weight: 18
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_content_background:
+    type: boolean_checkbox
+    weight: 13
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_degrees:
+    type: select2_entity_reference
+    weight: 17
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_domain_access:
+    type: options_buttons
+    weight: 40
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_domain_all_affiliates:
+    type: boolean_checkbox
+    weight: 41
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_featured:
+    type: boolean_checkbox
+    weight: 15
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_image:
+    type: media_library_widget
+    weight: 11
+    region: content
+    settings:
+      media_types: {  }
+    third_party_settings: {  }
+  field_insight_type:
+    type: options_select
+    weight: 14
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_kn_tags:
+    type: select2_entity_reference
+    weight: 22
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_link:
+    type: tb_styled_link
+    weight: 20
+    region: content
+    settings:
+      placeholder_url: ''
+      placeholder_title: ''
+      allow_style_selection: '1'
+      available_styles:
+        'btn-default btn-blue btn': 'btn-default btn-blue btn'
+        'btn-default btn-gold btn': 'btn-default btn-gold btn'
+      default_style: 'btn-default btn-blue btn'
+      size: btn-default
+    third_party_settings:
+      field_states_ui:
+        form:
+          type: ''
+          list: ''
+          add: Add
+  field_meta_tags:
+    type: metatag_firehose
+    weight: 18
+    region: content
+    settings:
+      sidebar: true
+      use_details: true
+    third_party_settings: {  }
+  field_migrated:
+    type: boolean_checkbox
+    weight: 20
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_other_authors:
+    type: string_textarea
+    weight: 9
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  field_person_id:
+    type: string_textfield
+    weight: 11
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_publication:
+    type: string_textfield
+    weight: 13
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_regions:
+    type: select2_entity_reference
+    weight: 19
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_related_thought_leaders:
+    type: entity_reference_autocomplete
+    weight: 18
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_schedule_publishing:
+    type: scheduled_publish
+    weight: 101
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_solutions:
+    type: select2_entity_reference
+    weight: 20
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_vertical_stripes:
+    type: boolean_checkbox
+    weight: 12
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+  moderation_state:
+    type: moderation_state_default
+    weight: 100
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  path:
+    type: path
+    weight: 7
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  promote:
+    type: boolean_checkbox
+    weight: 5
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  simple_sitemap:
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  status:
+    type: boolean_checkbox
+    weight: 8
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  sticky:
+    type: boolean_checkbox
+    weight: 6
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 3
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  url_redirects:
+    weight: 19
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_insight_date: true
+  field_tags: true
+  field_topics: true
+  layout_builder__layout: true
+  layout_builder__translation: true

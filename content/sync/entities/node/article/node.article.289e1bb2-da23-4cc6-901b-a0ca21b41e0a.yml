@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 289e1bb2-da23-4cc6-901b-a0ca21b41e0a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-19T22:49:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'Military. Momentum. Master’s Degrees.'
+created:
+  -
+    value: '2017-11-01T20:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-19T22:49:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/military-momentum-masters
+body:
+  -
+    value: "<p>The best things in life are free; one, in fact, is changing the world.</p>\r\n<p><span>On April 8, 1946, Thunderbird School of Global Management (originally known as the American Institute for Foreign Trade [AIFT]) was chartered on the Glendale, Ariz. World War II airbase, Thunderbird Field No. 1, where pilots from around the world came for training during wartime. </span></p>\r\n<p><span>Lt. General Barton Kyle Yount obtained the airfield with the express purpose of developing a school focused exclusively on international trade and global relations. The airfield—which was valued at $407,000—was acquired at a 100% discount (i.e., a gift), which raised eyebrows around the nation until congressmen on the House Surplus Property Committee deemed that <strong>not only did Thunderbird qualify for the nonprofit discount, but that its existence would actually contribute to the cause of world peace</strong>. </span></p>\r\n<p><span><span><span><span>Yount was named Thunderbird’s first president, and established a vision for the school that remains today.</span></span></span></span></p>\r\n<blockquote>\r\n<p><span><span><span><span>Built on the phrase coined by original faculty member Dr. William Lytle Schurz:<strong> “Borders frequented by trade seldom need soldiers,”</strong> Thunderbird’s mission to “educate global leaders who create sustainable prosperity worldwide” was born.</span></span></span></span></p>\r\n</blockquote>\r\n<p>[[{\"fid\":\"4822\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Military History\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Military History\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Military History\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Military History\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Military History\",\"title\":\"Thunderbird Military History\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><span><span>But before the school embarked on its now 70+ year journey in international business education, the world-changing Thunderbird Field No. 1 already had high aspirations—even simply in its architectural layout which was designed to look from the air like an etching of a mythical Anasazi Thunderbird, the airfield was a 640 acre, square property within which was a 5,280' square base all-way field, with a 2,582' x 1,850' oiled mat in the northwest corner, and 3 dirt runways (the longest of which were the 3,200' northeast/southwest &amp; northwest/southeast strips).</span></span></p>\r\n<p><span>[[{\"fid\":\"4823\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Military History\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Military History\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Military History\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Military History\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Military History\",\"title\":\"Thunderbird Military History\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>\r\n<p><span>Army Air Force signed a contract with Southwest Airways, no relation to Southwest&nbsp;Airlines, to provide instructors and facilities for a primary training school for its aviation cadets in March 1941, beginning with a class of 59 candidates. Eventually, 10,000 pilots from&nbsp;</span>three nations (the United States, China, and the United Kingdom) trained at the field before it was deactivated in June 1945.</p>\r\n<blockquote>\r\n<p><span>It was less than a year later that Thunderbird—as a school—would take over the hallowed grounds of the military base known worldwide for embracing international pilots. </span></p>\r\n</blockquote>\r\n<p><span>By 1955, Thunderbird offered two unique degrees: a Bachelor of Foreign Trade and a Master of Foreign Trade. Over the years, the Bachelor’s program was discontinued and the Master’s program morphed into a Master of International Management (MIM). In 2001, the MIM was adapted into an MBA in Global Management to respond to the growing demand for graduates with a business administration focus. During those same years, Thunderbird expanded its degree program offerings to include an online MBA, an executive MBA and early-career master’s degrees like the Master of Arts in Global Affairs &amp; Management. As the business and academic worlds continued to evolve, Thunderbird returned to its roots—shifting its MBA back to a specialized Master of Global Management and relaunching its Bachelor’s programs in global management and foreign trade. </span></p>\r\n<p><span>Now a unit of the Arizona State University Knowledge Enterprise, Thunderbird Field No. 1&nbsp;continues to play a valuable role in the local and global community. </span></p>\r\n<blockquote>\r\n<p><span>Like the pilots during WWII, students from Thunderbird hail from around the world (over the last 5 years, more than 90 nations have been represented on campus). And, still, the welcoming nature of Thunderbird Field No. 1—which saw the value in cross-cultural interaction and the proud impact of internationalism—remains today.</span></p>\r\n</blockquote>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Thunderbird Military History'
+    title: 'Thunderbird Military History'
+    width: 491
+    height: 325
+    target_type: file
+    target_uuid: fb6b37f9-4e57-4770-82c3-d53155746b96
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c98a978-a0e5-4ad3-ae54-71103288ecdd
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.fb6b37f9-4e57-4770-82c3-d53155746b96
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.2c98a978-a0e5-4ad3-ae54-71103288ecdd

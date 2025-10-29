@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 5339b73d-3b0b-4cc1-a651-851c1ac40e4d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: climate_change_a_complex_issue_that_requires_a_complex_solution_.jpg
+uri:
+  -
+    value: 'public://article/climate_change_a_complex_issue_that_requires_a_complex_solution_.jpg'
+    url: /sites/default/files/article/climate_change_a_complex_issue_that_requires_a_complex_solution_.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 757761
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-08-20T16:29:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-08-20T16:29:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

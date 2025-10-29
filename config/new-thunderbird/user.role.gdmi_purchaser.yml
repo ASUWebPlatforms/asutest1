@@ -1,0 +1,14 @@
+uuid: 943605e5-e638-4210-9da9-0f3154cb69d3
+langcode: en
+status: true
+dependencies:
+  module:
+    - commerce_checkout
+    - webform
+id: gdmi_purchaser
+label: 'GDMI purchaser'
+weight: 6
+is_admin: null
+permissions:
+  - 'access checkout'
+  - 'view own webform submission'

@@ -1,0 +1,40 @@
+{#
+/**
+ * @file
+ * Template for a Signpost - 2+ Columns w/ Links block.
+ */
+#}
+{% set classes = ([
+  'container',
+  'signpost',
+])
+%}
+{% extends 'block.html.twig' %}
+
+{% set list_counter = 0 %}
+{% for key in  content.field_link_list|keys%}
+  {% if key matches '/^[-+]?[0-9]*\\.?[0-9]+$/' %}
+    {% set list_counter = 1 + list_counter %}
+  {% endif %}
+{% endfor %}
+{% if list_counter|render|trim < 3 %}
+  {% set new_class = 'two-lists container' %}
+  {% set col =  "col-md-6" %}
+{% else %}
+  {% set new_class = 'more-lists' %}
+  {% set col = "col" %}
+{% endif %}
+
+{% block content %}
+  <div class="signposts-container links-2-plus-col row {{ new_class }}" >
+    <div class="signpost-content {{ col }}">
+      {{ content.field_body }}
+    </div>
+    <div class="link-list {{ col }}">
+      {% include 'themes/custom/thunderbird/templates/paragraph/paragraph--link-list.html.twig' with {
+        content:content.field_link_list,
+        list_counter:list_counter,
+      } %}
+    </div>
+  </div>
+{% endblock %}

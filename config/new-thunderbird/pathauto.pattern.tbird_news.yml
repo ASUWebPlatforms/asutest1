@@ -1,0 +1,22 @@
+uuid: b937f0bf-7b77-4e7c-8683-ead6e8467f67
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: tbird_news
+label: 'TBird news'
+type: 'canonical_entities:node'
+pattern: 'tbird-news/[node:title]'
+selection_criteria:
+  92691300-8d2e-480c-bdea-84c4acaca341:
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: 92691300-8d2e-480c-bdea-84c4acaca341
+    context_mapping:
+      node: node
+    bundles:
+      external_news: external_news
+selection_logic: and
+weight: -5
+relationships: {  }

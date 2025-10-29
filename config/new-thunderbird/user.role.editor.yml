@@ -1,0 +1,247 @@
+uuid: 77dd1c1e-f253-4787-a9bf-df436c642627
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_display.node.case_series.default
+    - core.entity_view_display.node.certificate.default
+    - core.entity_view_display.node.coe.default
+    - core.entity_view_display.node.degree.default
+    - core.entity_view_display.node.event.default
+    - core.entity_view_display.node.home_page.default
+    - core.entity_view_display.node.insight.default
+    - core.entity_view_display.node.landing_page.default
+    - core.entity_view_display.node.news.default
+    - core.entity_view_display.node.page.default
+    - core.entity_view_display.node.partner.default
+    - filter.format.basic_html
+    - filter.format.embed_html
+    - filter.format.full_html
+    - filter.format.restricted_html
+    - media.type.document
+    - media.type.image
+    - media.type.image_block_images
+    - media.type.remote_video
+    - media.type.video
+    - node.type.case_series
+    - node.type.certificate
+    - node.type.coe
+    - node.type.degree
+    - node.type.event
+    - node.type.home_page
+    - node.type.insight
+    - node.type.landing_page
+    - node.type.news
+    - node.type.page
+    - node.type.partner
+    - node.type.person_bio
+    - node.type.thunderbird_news
+    - taxonomy.vocabulary.certificate_tags
+    - taxonomy.vocabulary.class_locations
+    - taxonomy.vocabulary.coe_locations
+    - taxonomy.vocabulary.degree_category
+    - taxonomy.vocabulary.degree_experience
+    - taxonomy.vocabulary.degree_tags
+    - taxonomy.vocabulary.degree_types
+    - taxonomy.vocabulary.event_tags
+    - taxonomy.vocabulary.insight_tags
+    - taxonomy.vocabulary.news_tags
+    - taxonomy.vocabulary.partner_tags
+    - taxonomy.vocabulary.person_tags
+    - taxonomy.vocabulary.school_terms
+    - taxonomy.vocabulary.solutions
+    - taxonomy.vocabulary.topics
+    - workflows.workflow.editorial_workflow
+  module:
+    - content_moderation
+    - contextual
+    - entity_browser
+    - file
+    - filter
+    - layout_builder
+    - media
+    - node
+    - paragraphs
+    - path
+    - quickedit
+    - scheduled_publish
+    - system
+    - taxonomy
+    - toolbar
+id: editor
+label: Editor
+weight: 4
+is_admin: null
+permissions:
+  - 'access administration pages'
+  - 'access card_categories entity browser pages'
+  - 'access card_items entity browser pages'
+  - 'access content'
+  - 'access content overview'
+  - 'access contextual links'
+  - 'access files overview'
+  - 'access in-place editing'
+  - 'access media overview'
+  - 'access scheduled publish pages'
+  - 'access site in maintenance mode'
+  - 'access taxonomy overview'
+  - 'access toolbar'
+  - 'access user profiles'
+  - 'administer menu'
+  - 'administer nodes'
+  - 'administer taxonomy'
+  - 'configure all case_series node layout overrides'
+  - 'configure all certificate node layout overrides'
+  - 'configure all coe node layout overrides'
+  - 'configure all degree node layout overrides'
+  - 'configure all event node layout overrides'
+  - 'configure all home_page node layout overrides'
+  - 'configure all insight node layout overrides'
+  - 'configure all landing_page node layout overrides'
+  - 'configure all news node layout overrides'
+  - 'configure all page node layout overrides'
+  - 'configure all partner node layout overrides'
+  - 'configure editable case_series node layout overrides'
+  - 'configure editable certificate node layout overrides'
+  - 'configure editable coe node layout overrides'
+  - 'configure editable degree node layout overrides'
+  - 'configure editable event node layout overrides'
+  - 'configure editable home_page node layout overrides'
+  - 'configure editable insight node layout overrides'
+  - 'configure editable landing_page node layout overrides'
+  - 'configure editable news node layout overrides'
+  - 'configure editable page node layout overrides'
+  - 'configure editable partner node layout overrides'
+  - 'create and edit custom blocks'
+  - 'create case_series content'
+  - 'create certificate content'
+  - 'create coe content'
+  - 'create degree content'
+  - 'create document media'
+  - 'create event content'
+  - 'create home_page content'
+  - 'create image media'
+  - 'create image_block_images media'
+  - 'create insight content'
+  - 'create landing_page content'
+  - 'create media'
+  - 'create news content'
+  - 'create page content'
+  - 'create partner content'
+  - 'create remote_video media'
+  - 'create terms in certificate_tags'
+  - 'create terms in class_locations'
+  - 'create terms in coe_locations'
+  - 'create terms in degree_category'
+  - 'create terms in degree_experience'
+  - 'create terms in degree_tags'
+  - 'create terms in degree_types'
+  - 'create terms in event_tags'
+  - 'create terms in insight_tags'
+  - 'create terms in news_tags'
+  - 'create terms in partner_tags'
+  - 'create terms in person_tags'
+  - 'create terms in school_terms'
+  - 'create terms in topics'
+  - 'create thunderbird_news content'
+  - 'create url aliases'
+  - 'create video media'
+  - 'delete all revisions'
+  - 'delete any case_series content'
+  - 'delete any certificate content'
+  - 'delete any coe content'
+  - 'delete any degree content'
+  - 'delete any event content'
+  - 'delete any home_page content'
+  - 'delete any insight content'
+  - 'delete any landing_page content'
+  - 'delete any media'
+  - 'delete any news content'
+  - 'delete any page content'
+  - 'delete any partner content'
+  - 'delete any thunderbird_news content'
+  - 'delete media'
+  - 'delete own document media'
+  - 'delete own image media'
+  - 'delete own image_block_images media'
+  - 'delete own remote_video media'
+  - 'delete own video media'
+  - 'delete terms in topics'
+  - 'edit any case_series content'
+  - 'edit any certificate content'
+  - 'edit any coe content'
+  - 'edit any degree content'
+  - 'edit any document media'
+  - 'edit any event content'
+  - 'edit any home_page content'
+  - 'edit any image media'
+  - 'edit any image_block_images media'
+  - 'edit any insight content'
+  - 'edit any landing_page content'
+  - 'edit any news content'
+  - 'edit any page content'
+  - 'edit any partner content'
+  - 'edit any person_bio content'
+  - 'edit any remote_video media'
+  - 'edit any thunderbird_news content'
+  - 'edit any video media'
+  - 'edit own case_series content'
+  - 'edit own certificate content'
+  - 'edit own coe content'
+  - 'edit own degree content'
+  - 'edit own event content'
+  - 'edit own home_page content'
+  - 'edit own insight content'
+  - 'edit own landing_page content'
+  - 'edit own news content'
+  - 'edit own page content'
+  - 'edit own partner content'
+  - 'edit own person_bio content'
+  - 'edit own thunderbird_news content'
+  - 'edit terms in certificate_tags'
+  - 'edit terms in class_locations'
+  - 'edit terms in coe_locations'
+  - 'edit terms in degree_category'
+  - 'edit terms in degree_experience'
+  - 'edit terms in degree_tags'
+  - 'edit terms in degree_types'
+  - 'edit terms in event_tags'
+  - 'edit terms in insight_tags'
+  - 'edit terms in news_tags'
+  - 'edit terms in partner_tags'
+  - 'edit terms in person_tags'
+  - 'edit terms in school_terms'
+  - 'edit terms in solutions'
+  - 'edit terms in topics'
+  - 'revert all revisions'
+  - 'update any media'
+  - 'update media'
+  - 'use editorial_workflow transition archive'
+  - 'use editorial_workflow transition create_new_draft'
+  - 'use editorial_workflow transition publish'
+  - 'use text format basic_html'
+  - 'use text format embed_html'
+  - 'use text format full_html'
+  - 'use text format restricted_html'
+  - 'view all media revisions'
+  - 'view all revisions'
+  - 'view any unpublished content'
+  - 'view case_series revisions'
+  - 'view certificate revisions'
+  - 'view coe revisions'
+  - 'view degree revisions'
+  - 'view event revisions'
+  - 'view home_page revisions'
+  - 'view insight revisions'
+  - 'view landing_page revisions'
+  - 'view latest version'
+  - 'view media'
+  - 'view news revisions'
+  - 'view own unpublished content'
+  - 'view own unpublished media'
+  - 'view page revisions'
+  - 'view partner revisions'
+  - 'view person_bio revisions'
+  - 'view the administration theme'
+  - 'view thunderbird_news revisions'
+  - 'view unpublished paragraphs'

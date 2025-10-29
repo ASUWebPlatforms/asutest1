@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: aaa7202b-7cf7-4f42-b568-3712f64e9cd7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:07:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'How Will You Know if Your New Boss Will Crush Your Soul?'
+created:
+  -
+    value: '2017-10-13T18:52:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:07:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-will-you-know-if-your-new-boss-will-crush-your-soul
+body:
+  -
+    value: "<p><span>[[{\"fid\":\"8394\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How Will You Know if Your New Boss Will Crush Your Soul?\",\"field_file_image_title_text[und][0][value]\":\"How Will You Know if Your New Boss Will Crush Your Soul?\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How Will You Know if Your New Boss Will Crush Your Soul?\",\"field_file_image_title_text[und][0][value]\":\"How Will You Know if Your New Boss Will Crush Your Soul?\"}},\"link_text\":null,\"attributes\":{\"alt\":\"How Will You Know if Your New Boss Will Crush Your Soul?\",\"title\":\"How Will You Know if Your New Boss Will Crush Your Soul?\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]When you’re interviewing for jobs and evaluating potential employers, it’s important to figure out whether working there would kill your personal life. How do you know if an employer will respect your out-of-work interests and responsibilities?&nbsp;</span><a href=\"http://pennywademysteries.com/about-the-author/\">Lucy English, PhD</a><span>, a sociologist and thought leader on work and life success, gave me three tips to uncover how supportive your new boss will be of your work/life balance.</span></p>\r\n<h3><span>Look closely at the policies and programs offered.</span></h3>\r\n<p>You may not have kids yet, and you may not even be planning, but if the employer offers child care benefits, it’s a good sign that they recognize that employees need support to be successful in life outside of work. Other benefits look for include elder care support, flexible scheduling, maternity and paternity leave policies, tuition reimbursement and other career development offerings, and wellness programs. There’s always a lot of information to take in, and you’ll be focused on the job itself, but if you force yourself to take time with the materials from HR and understand how the organization works to support you as a whole person, you’ll be glad later.</p>\r\n<h3><span>Listen carefully to what’s said in between the formal conversations in the workplace</span>.</h3>\r\n<p>You’ll be on-site in an interview capacity, but there will be moments in hallways, waiting areas, and before and after meetings when you should listen as carefully as you do when you’re in interview conversations.&nbsp; Do people greet each other in friendly ways? Do they chat about life outside of work? Do they seem to know each others’ partners’ and childrens’ names? These may seem like small things, but when you hear people chat about personal matters at work, it’s a good sign that the workplace welcomes employees as whole people.&nbsp; English has consulted in organizations where people never displayed pictures of the kids on their desks and avoided talking about personal matters because it was viewed as unprofessional.&nbsp; Pay careful attention so you avoid that kind of employer.</p>\r\n<h3><span>Have the confidence to ask the boss about things that are important to you up front.</span></h3>\r\n<p>You can do so without necessarily tipping your hand, but if something matters, then you’d better find out the answer now. For example, expectations about responsiveness outside of work hours can vary enormously from one employer to the next. If protected personal time is important to your mental health, then find out what the culture is like at your prospective employer. You can ask in a way that positions you as a responsive team player. For instance, you could say “I tend to turn off electronics to concentrate on my family on Saturdays. Is the culture here one of staying connected during off hours? I’d want everyone to know that they could call me if they really needed to reach me.&nbsp; Does that fit with expectations?”&nbsp; If asking a question like that gets you dinged on the interview, then you don’t want to work there.</p>\r\n<p>The job search is a stressful and overwhelming process.&nbsp; You may be tempted to simplify your decision based on the job duties themselves, the prestige of the employer, or your feelings about a few people you meet.&nbsp; While these are all important, you should also take time to take in the broader landscape and consider whether working there will allow you to have the kind of life you want outside of work.</p>\r\n<p>&nbsp;</p>\r\n<blockquote>\r\n<p>Join Dana Manciagli’s <a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\"><span style=\"text-decoration: underline;\">Job Search Master Class</span> </a>right now and immediately access the most comprehensive job search system currently available!</p>\r\n</blockquote>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 82679286-37ed-45fb-aab0-75d63605b396
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.82679286-37ed-45fb-aab0-75d63605b396
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

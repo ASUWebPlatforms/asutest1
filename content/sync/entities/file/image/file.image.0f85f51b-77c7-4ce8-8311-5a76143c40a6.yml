@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 0f85f51b-77c7-4ce8-8311-5a76143c40a6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+filename:
+  -
+    value: thunderbird-interim-location.jpg
+uri:
+  -
+    value: 'public://article/thunderbird-interim-location.jpg'
+    url: /sites/default/files/article/thunderbird-interim-location.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 223071
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-02-19T03:03:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-19T03:03:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b

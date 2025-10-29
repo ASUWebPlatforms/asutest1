@@ -1,0 +1,23 @@
+uuid: 26a76d90-b707-4eb7-a692-7cc5ae26f7be
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.video_gallery
+    - field.storage.block_content.field_columns
+  module:
+    - options
+id: block_content.video_gallery.field_columns
+field_name: field_columns
+entity_type: block_content
+bundle: video_gallery
+label: Columns
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: four-columns
+default_value_callback: ''
+settings: {  }
+field_type: list_string

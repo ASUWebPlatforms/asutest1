@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 5c344c81-0a6b-4d6a-abf5-899e729013c3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:44:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+title:
+  -
+    value: 'Crisis Management: Two Hidden Leadership Opportunities'
+created:
+  -
+    value: '2017-01-20T16:54:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:44:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/crisis-management-leadership-opportunities
+body:
+  -
+    value: "<p>By <a href=\"/node/90\">Christine Pearson, Ph.D.</a>, Professor of Global Leadership</p>\r\n<p>Since the dawn of organizational crisis management, decades ago, I have made it my priority to help executives, managers and their organizations manage crises. Together, we have improved crisis preparations and containment, and put lessons learned into place in operations around the globe.</p>\r\n<p>Some executives used to think of crisis management as a luxury. It’s not, especially today. Facing into the complexities of the VUCA-esque business environment makes it the ante for survival, the guarantor for the prerogative of success. If your organization is sizable, or if it has deep pockets, or if it has high visibility, or if it touches potentially dangerous technologies, products or supplies, chances are you have a crisis management plan.</p>\r\n<p>Senior leaders and other influencers in headquarters probably get together every so often to discuss dilemmas like how to deal with your key stakeholders, access resources, and manage the media, in the event of an organizational crisis. You may not know the particulars, but if you ask around, you’ll probably discover that they exist. If they don’t, there’s Hidden Leadership Opportunity #1:Step up to champion or enhance crisis preparations.</p>\r\n<p>Chances are good that you work for an organization that operates across cultures. At the least, you probably have international suppliers or customers, or other key stakeholders, offices or holdings outside your organization’s home country. Have your crisis management preparations gone global? If not, there’s Hidden Leadership Opportunity #2: Step up to globalize your existing crisis management plans to match the vulnerabilities and opportunities of your organization’s global environment.</p>\r\n<p>What’s the payoff? You’ll build a clearer sense of your organization and its key stakeholders, You’ll grow your network in vital ways. And, in the most dramatic situations, you may even improve readiness that can make the difference between life and death, for your organization or the people affected by it.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: 09848a7f-73f3-4d17-97cc-f0db43ad6162
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1
+    file:
+      - file.image.09848a7f-73f3-4d17-97cc-f0db43ad6162
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: df529571-97a3-4340-b36a-db0f0d9334dd
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Thunderbird Hosts Former First Lady of Ghana, Nana Konadu Agyeman-Rawlings'
+created:
+  -
+    value: '2016-06-21T19:40:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/nana-konadu-agyeman-rawlings
+body:
+  -
+    value: "<p>It was a calm breezy morning November 22, 2013 when I entered the admissions office to start my usual daily work as a Graduate Assistant. Following a lovely ritual of&nbsp;exchanging greetings with the ever-smiling Sandra, positive-spirited Michelle, and Katie, I was met with the most exciting news to begin my day – a prospective student had just called the school from my country of Ghana to make enquiries on our program offerings and was very interested in starting a graduate degree in Fall 2014.&nbsp;</p>\r\n<p>[[{\"fid\":\"3030\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Hosts Former First Lady of Ghana, Nana Konadu Agyeman\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Hosts Former First Lady of Ghana, Nana Konadu Agyeman\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>He had heard of Thunderbird School of Global Management from a local radio feature, and&nbsp;read from the online and print media of an excellent speaker session hosted last Tuesday, November 19, 2013 for Ghana’s former first lady, Her Excellency, Mrs. Nana Konadu Agyeman-Rawlings. She is&nbsp;also the Founder and Executive President of the 31st December Women’s Movement (31stDWM) – a grassroots NGO that empowers women economically, politically, socially and culturally.</p>\r\n<p>A moment of history that has lived through my heart since I met this extraordinary woman for the very first time in my entire life, after knowing her and the first family solely through sociopolitical news items on&nbsp;print and electronic media. Beyond sharing some of her personal challenges working to improve livelihoods of impoverished women&nbsp;and children through her influence as first lady, she carefully laid out a premise for her argument that “GDP alone is not a sufficient measure of well being,” while speaking on the topic, “<em>Development, Politics, and National Government: The Impact on African Women.\"&nbsp;</em>She had earlier shared her work mantra, centrally themed from the quote&nbsp;<em>\"If you educate a man, you educate an individual but if you educate a woman, you educate a whole nation\" (Dr. Kwegyir Aggrey).</em><em>&nbsp;</em></p>\r\n<p>Sitting through the lecture, I couldn’t help but understand from another perspective the reasons why Thunderbird breeds leaders who see beyond the ordinary in every&nbsp;situation. For once, it felt as if she had been through a Thunderbird experience when her profile was read out, but she was more than one of us – an influencer from the other end for T-birds and other upcoming leaders. The calmness and general warmness with which she received and answered questions from the audience and interacted with them afterwards was really amazing – a very humbling presence.</p>\r\n<p>To crown such an awesome time, shaking her hand and presenting her with a Thank You gift on behalf of the school was a unique moment which echoed a statement I made to Mrs. Erika Amoako-Adjei, the amazing woman who made all this happen, \"<em>This was simply an excellent night of brilliance.\"</em></p>\r\n<p>I look forward to seeing Thunderbird for Good build on this opportunity and extend its reach to Africa, changing lives - many women at a time.</p>\r\n<p><strong>Thank you Your Excellency, we have been really honored by your presence amongst us.</strong></p>\r\n<p>Thank you, The Office of President Penley, for co-sponsoring the event and providing refreshments for the reception that followed.</p>\r\n<p>Thank you, Thunderbird for Good for organizing the visit, coordinating with student clubs, and hosting this distinguished guest.</p>\r\n<p>Thanks, to the African Business Club for co-sponsoring the event and doing a great job of bringing the campus community out.</p>\r\n<p>[[{\"fid\":\"3031\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Hosts Former First Lady of Ghana, Nana Konadu Agyeman\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Hosts Former First Lady of Ghana, Nana Konadu Agyeman\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><span><em>From left: Djoudie Etoundi Essomba '13, Danielle Rinderknecht '14,&nbsp;Erika Amoako-Agyei, President Larry Penley, H.E. Mrs. Agyeman-Rawlings, Nicole Mueller '14, and Barry Kofi King '14&nbsp;</em></span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

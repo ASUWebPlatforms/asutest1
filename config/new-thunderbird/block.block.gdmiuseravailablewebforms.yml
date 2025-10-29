@@ -1,0 +1,33 @@
+uuid: 9d17c3bc-b5f6-4cda-b6d9-ab3cc466fb75
+langcode: en
+status: true
+dependencies:
+  module:
+    - domain
+    - system
+    - tb_gdmi
+  theme:
+    - thunderbird
+id: gdmiuseravailablewebforms
+theme: thunderbird
+region: content
+weight: -4
+provider: null
+plugin: gdmi_user_available_weforms
+settings:
+  id: gdmi_user_available_weforms
+  label: 'GDMI User Available Webforms'
+  label_display: '0'
+  provider: tb_gdmi
+visibility:
+  domain:
+    id: domain
+    negate: false
+    context_mapping:
+      domain: '@domain.current_domain_context:domain'
+    domains:
+      gdmi: gdmi
+  request_path:
+    id: request_path
+    negate: false
+    pages: /dashboard

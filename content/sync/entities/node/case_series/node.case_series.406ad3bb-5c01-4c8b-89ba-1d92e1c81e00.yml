@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: 406ad3bb-5c01-4c8b-89ba-1d92e1c81e00
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-28T00:25:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Satellite Education System: IBM Corporation'
+created:
+  -
+    value: '2016-07-28T00:25:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-28T00:25:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-97-0011
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The IBM Corporation investigated the feasibility of delivering employee education via geosynchronous satellite to replace classroom instruction in 1984. This would require considerable expenditures. The benefit would result from savings of travel and living expenses of executive education participants who previously had to travel to two classroom locations (Briarcliff, New York, and Irving, Texas).</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-97-0011
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1997-01-01'
+field_case_setting:
+  -
+    value: 'United States 1984'
+field_case_source:
+  -
+    value: 'Field case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 27945f38-c0a1-4f01-9e8d-770e0ed92d18
+field_teaching:
+  -
+    value: "The case is useful in corporate finance courses in which capital budgeting is an integral component. The case allows students practical instruction and application of how to structure and solve a capital budgeting problem.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.27945f38-c0a1-4f01-9e8d-770e0ed92d18

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 6165e78b-3271-45db-a788-58dda1cff63f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:09:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'What Business Leaders Can Learn from Endurance Athletes'
+created:
+  -
+    value: '2017-10-23T19:38:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:09:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/what-business-leaders-can-learn-endurance-athletes
+body:
+  -
+    value: "<p><span>We’ve all watched the drama play out in businesses of every size, from major corporations to brand new startups: companies fail when their leaders have a vision for growth that is too ambitious, or when they fail to scale fast enough to deliver growth.</span></p>\r\n<p>CEO and executive coach, Dr. Alison Eyring – founder of&nbsp;<a href=\"http://www.organisationsolutions.com/\">Organization Solutions</a><span style=\"text-decoration: underline;\">,&nbsp;</span>endurance athlete, and author of&nbsp;<a href=\"http://www.organisationsolutions.com/insights/pacing-for-growth\"><em>Pacing for Growth; Why Intelligent Restraint Drives Long-Term Success</em></a>&nbsp;– has watched it happen all over the world.</p>\r\n<p>Often, hyper-growth companies—like Uber, for example—<a href=\"http://nymag.com/selectall/2017/03/dramatic-history-ride-hailing-app-uber-and-ceo-kalanick.html\">fall into this trap</a>. “[Uber] didn’t think about building compassion into its profit line,”&nbsp;<a href=\"http://www.businessinsider.com/uber-investor-chris-sacca-on-susan-fowlers-claims-2017-3\">wrote</a>&nbsp;one publication. “In their race for growth, they haven’t built the leadership capabilities needed to sustain their growth trajectory,” Eyring said.</p>\r\n<h3><span>When Going Too Fast Is Too Much</span></h3>\r\n<p>In addition to her business career, Eyring has over 15 years of experience training for and competing in endurance sports. She has learned all complex systems have real limits to growth—and when you push them too far or too fast, the system breaks down.</p>\r\n<p>“I learned this the hard way when I tore my calf training for a 100k race in Mongolia,” said Eyring. “When injury happens to a business, it’s usually because the business is starting to feel the pain of going too far and too fast without the leadership capabilities needed to sustain it.”</p>\r\n<p>Eyring says that Uber, and the “next Ubers,” can learn from the failure of QXL.com. At the height of the first dot-com boom in the late 1990s, this ill-fated online auction company was the European rival to eBay.&nbsp;<a href=\"http://qxl.com/\">QXL.com</a>&nbsp;was the darling of the UK Internet scene, and at one point was valued at over $2 billion. But behind the scenes, there was a lack of focus and alignment amongst its leadership, and a tendency to bite off far more than they could chew.</p>\r\n<h3><span>Endurance VS Sprints</span></h3>\r\n<p>Jules Persaud, Director of Trips at AirBnB and former QXL employee, remembers: “Products would be launched in haste and the resources needed to make them successful were moved into other new areas before sustainable growth had taken hold. Shiny new projects and PR-driven initiatives created multiple ‘sprints’ that didn’t fold into a cohesive strategy.”</p>\r\n<p>During the time of QXL.com’s hyper-growth, its leadership was under huge pressure to keep growing. They felt compelled to keep moving quickly, but they needed to build new capabilities to sustain its growth. However, none of its leaders were willing to put their hands up and challenge whether activities fit into a cohesive strategy.</p>\r\n<p>Ultimately, eBay won the day; their leaders were focused, relentless, and obsessive about their goals.</p>\r\n<p>“If you push a business too fast or too far without first building the right capabilities, you cause harm to the business and you cause harm to its people,” said Eyring. “Saying no takes mature leadership—the kind that drives an organization to focus on the right things and empowers people to say no when things don’t make sense.”</p>\r\n<p>QXL was in such a rush to grow, they failed to develop the capability of mature leadership.&nbsp;</p>\r\n<h3><span>The Answer: Intelligent Restraint</span></h3>\r\n<p>Leaders need to push their business to grow as fast and as far as possible if they are to keep up with the competition and with rapidly evolving customer needs. But just like endurance athletes, Eyring says, they also need to know when are at their max, so that they can build up the capabilities they will need to sustain long-term growth.</p>\r\n<p>This is especially tough for hyper-growth companies like QXL and Uber, where leaders are consumed by growth—breaking into new markets and launching new products.</p>\r\n<p>“When we push beyond the limits of the organization without critical leadership capabilities, the result can be ruinous—both financially and in terms of staff burnout and media catastrophes,” said Eyring. “By practicing what I call ‘Intelligent Restraint,’ businesses can drive the performance they need today and still build the right capabilities that they will need to transform for tomorrow.”</p>\r\n<p>Is your business pacing for growth? Take&nbsp;<a href=\"https://organisationsolutions.typeform.com/to/PkjxE6\">this</a>&nbsp;quick test to see.</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\" style=\"font-size: 1em;\"><i>her website.</i></a></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 4d94c53b-0d54-4ad0-bcf6-0a522d09c0d4
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.4d94c53b-0d54-4ad0-bcf6-0a522d09c0d4
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: dc7c996c-21e4-4f32-ba41-49f7deafec88
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: case_series_authors
+    target_type: taxonomy_vocabulary
+    target_uuid: 3dcd6be4-7864-44e6-8d39-b57e5c5634ca
+revision_created:
+  -
+    value: '2021-10-01T10:39:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Allen J. Morrison'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 15
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2021-10-01T10:39:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

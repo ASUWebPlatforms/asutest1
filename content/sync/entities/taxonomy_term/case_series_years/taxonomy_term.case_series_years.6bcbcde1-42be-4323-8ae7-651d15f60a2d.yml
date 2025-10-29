@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: 6bcbcde1-42be-4323-8ae7-651d15f60a2d
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: case_series_years
+    target_type: taxonomy_vocabulary
+    target_uuid: fab57298-5193-474b-a564-babcdda9b42d
+revision_created:
+  -
+    value: '2021-10-01T10:39:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: '2012'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 5
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2021-10-01T10:39:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

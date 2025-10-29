@@ -1,0 +1,117 @@
+uuid:
+  -
+    value: e59110a7-83db-4483-999f-e3b68a72fe96
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:42:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Quandrant Homes: Adapting a Lean Operating Model to New Market Realities'
+created:
+  -
+    value: '2016-07-16T00:33:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:42:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a11-12-0010
+body:
+  -
+    value: '<p>Quadrant Homes, a subsidiary of Fortune 500 Weyerhaeuser Company’s Real Estate Division, had gained renown for its lean-oriented business model. Starting with a major overhaul in 1996, Quadrant built a formidable operating system that effectively served the needs of first-time home buyers in the Puget Sound region of Washington State, on the Northwest coast of the U.S. The operating system, built on a solid employee culture of operational excellence, produced partly customized, build-to-order homes using an “even-flow” process that delivered on Quadrant’s value proposition, “More House, Less Money.” Between 1996 and 2007, customer referrals more than quadrupled, market share expanded ten-fold, net margin per house had tripled, and the company’s revenues and profits had soared.</p><p>Quadrant’s fortunes changed dramatically when the housing bust hit the Seattle area in 2007. Risk-averse, first-time home buyers pulled out of the market or gravitated toward foreclosed or distressed properties at bargain prices. Additionally, the preferences of the market had shifted away from Quadrant’s rather bland-looking, boxy houses toward more customization and differentiation. In reading and discussing the case, students are challenged to consider what led Quadrant temporarily down the wrong path, and how it can reinvent its value discipline and supporting operating system in light of new insights about customer preferences and economic factors.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A11-12-0010
+field_case_page_length:
+  -
+    value: '14 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 81a58b57-2b5b-4514-9fb8-ada0dfca1e69
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: 'U.S., Washington State'
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: c148e8af-a6d3-4da8-8ddf-8e8c923378a5
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: 'The case can be used in business schools for MBA, EMBA, or executive audiences. It might also be of interest to students in construction management or industrial engineering. We use the case in operations classes to illustrate the importance of integrating the value delivery system with an organization’s high-level strategy, and to introduce some of the challenges organizations face in adapting their operating systems to changing customer expectations. The story’s reach extends beyond operations, and it also would be appropriate for use in courses on change management, marketing, or strategy.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.81a58b57-2b5b-4514-9fb8-ada0dfca1e69
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.c148e8af-a6d3-4da8-8ddf-8e8c923378a5
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

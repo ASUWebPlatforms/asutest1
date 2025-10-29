@@ -1,0 +1,88 @@
+display:
+  default:
+    display_title: Основной
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Применить
+          reset_button_label: Сбросить
+          exposed_sorts_label: 'Сортировать по'
+          sort_asc_label: 'По возрастанию'
+          sort_desc_label: 'По убыванию'
+      pager:
+        options:
+          tags:
+            first: '« Первая'
+            last: 'Последняя »'
+          expose:
+            items_per_page_label: 'Элементов на страницу'
+            items_per_page_options_all_label: '- Все -'
+            offset_label: Пропустить
+      fields:
+        created:
+          label: Создано
+        remote_addr:
+          label: IP-адрес
+        view_webform_submission:
+          label: Операции
+      arguments:
+        in_draft:
+          exception:
+            title: Все
+  embed_administer:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: Действие
+        locked:
+          label: Заблокировано
+        created:
+          label: Создано
+        completed:
+          label: Завершено
+        remote_addr:
+          label: IP-адрес
+        operations:
+          label: Операции
+      filters:
+        locked:
+          expose:
+            label: Заблокировано
+  embed_manage:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: Действие
+        locked:
+          label: Заблокировано
+        created:
+          label: Создано
+        completed:
+          label: Завершено
+        remote_addr:
+          label: IP-адрес
+        view_webform_submission:
+          label: Операции
+        edit_webform_submission:
+          label: Операции
+      filters:
+        locked:
+          expose:
+            label: Заблокировано
+  embed_review:
+    display_options:
+      fields:
+        locked:
+          label: Заблокировано
+        created:
+          label: Создано
+        completed:
+          label: Завершено
+        remote_addr:
+          label: IP-адрес
+        view_webform_submission:
+          label: Операции
+      filters:
+        locked:
+          expose:
+            label: Заблокировано

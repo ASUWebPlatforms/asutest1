@@ -1,0 +1,52 @@
+uuid: ea48d95a-7e58-4a4f-99e3-5db1ca64d4a7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.download.field_download
+    - field.field.paragraph.download.field_download_date
+    - field.field.paragraph.download.field_download_label
+    - field.field.paragraph.download.field_icon
+    - paragraphs.paragraphs_type.download
+  module:
+    - datetime
+    - file
+    - fontawesome
+id: paragraph.download.default
+targetEntityType: paragraph
+bundle: download
+mode: default
+content:
+  field_download:
+    type: file_url_plain
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_download_date:
+    type: datetime_custom
+    label: hidden
+    settings:
+      timezone_override: ''
+      date_format: d/m/y
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_download_label:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_icon:
+    type: fontawesome_icon_formatter
+    label: hidden
+    settings:
+      layers: false
+    third_party_settings: {  }
+    weight: 4
+    region: content
+hidden: {  }

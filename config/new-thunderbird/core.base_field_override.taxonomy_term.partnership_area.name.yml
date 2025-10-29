@@ -1,0 +1,18 @@
+uuid: 150792b9-27b5-4a46-a9e2-10f1a78d8642
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.partnership_area
+id: taxonomy_term.partnership_area.name
+field_name: name
+entity_type: taxonomy_term
+bundle: partnership_area
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

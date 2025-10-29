@@ -1,0 +1,23 @@
+uuid: fa3a83a9-2fc1-491c-b641-7faffdc892c3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_vertical_stripes
+    - node.type.news
+id: node.news.field_vertical_stripes
+field_name: field_vertical_stripes
+entity_type: node
+bundle: news
+label: 'Remove Vertical Stripes'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

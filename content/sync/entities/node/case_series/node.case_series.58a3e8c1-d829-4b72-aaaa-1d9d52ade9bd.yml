@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 58a3e8c1-d829-4b72-aaaa-1d9d52ade9bd
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T18:53:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Reebok Cool'
+created:
+  -
+    value: '2016-07-26T18:53:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T18:53:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-05-0011
+body:
+  -
+    value: '<p><span>Having lost the sweepstakes for the endorsement of LeBron James to Nike, Reebok needs to explore new frontiers for business growth. Reebok has decided to establish a stronger and more emotional relationship with the male urban consumer. The undertaking requires a focus on the sneaker as a fashion accessory, incredibly effective buzz marketing, and the ability to penetrate the networks that operate within the hip-hop culture. Further, it needs to devise a way of capitalizing on cool trends to take its new proposition global.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-05-0011
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: a5fcb7d0-12dc-4a50-b681-7ba98280ba03
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: U.S./Global
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: 'Appropriate for advanced marketing strategy courses at graduate level, and international marketing and management classes of an MBA program. The case was specifically designed for an executive audience as a follow-up to Planet Reebok (HBS 9-594-074) as it explores the challenges of repositioning the company to appeal to the global urban youth market.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.a5fcb7d0-12dc-4a50-b681-7ba98280ba03
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

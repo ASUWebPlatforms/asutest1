@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: a2c5bd21-9452-4379-a844-a3126e0151de
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2020-04-27T20:17:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'General Motors'' Global Strategy'
+created:
+  -
+    value: '2020-04-27T20:17:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T20:17:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-20-0009
+body:
+  -
+    value: '<p>This case examines General Motors’ (GM) global strategy.&nbsp; From a manufacturing presence in 34 countries in 2007 to only eight countries in 2020, GM has dramatically changed its global strategy.&nbsp; GM has withdrawn from many regions and countries, including Europe, India, Australia, and Indonesia. Many assembly plants have been closed and sales are now heavily concentrated in the United States. Was GM retreating to its profit sanctuary in the United States and giving up on global business?&nbsp; How would GM’s strategy fare against more global competitors such as Toyota, Volkswagen, and growing Chinese companies like Geely and Great Wall?&nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-20-0009
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: fb21e646-4d63-4339-986d-3a9246575132
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 54e7aa4c-5c7d-4f05-8c6d-40fff9aaa0b0
+field_case_series_year:
+  -
+    value: '2020-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 82faebf9-1074-4611-9b41-ba9fa62bf3cc
+field_teaching:
+  -
+    value: "To help students understand: \r\n•\tThe definition and characteristics of a global industry.\r\n•\tThe key competitive demands and challenges in a global industry.\r\n•\tThe changing nature of competition and the imperative that companies adjust their strategies as their competitive environment evolves.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.fb21e646-4d63-4339-986d-3a9246575132
+      - taxonomy_term.case_series_industry.54e7aa4c-5c7d-4f05-8c6d-40fff9aaa0b0
+      - taxonomy_term.case_series_categories.0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+      - taxonomy_term.case_series_fields.82faebf9-1074-4611-9b41-ba9fa62bf3cc

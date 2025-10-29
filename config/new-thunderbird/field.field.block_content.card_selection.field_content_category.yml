@@ -1,0 +1,53 @@
+uuid: 509b983a-ac98-40ac-bbcc-c94d38b44cb5
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - field.storage.block_content.field_content_category
+    - taxonomy.vocabulary.centers
+    - taxonomy.vocabulary.certificate_type
+    - taxonomy.vocabulary.class_locations
+    - taxonomy.vocabulary.coe_locations
+    - taxonomy.vocabulary.degree_category
+    - taxonomy.vocabulary.department
+    - taxonomy.vocabulary.event_categories
+    - taxonomy.vocabulary.fields
+    - taxonomy.vocabulary.insight_types
+    - taxonomy.vocabulary.knowledge_network_tags
+    - taxonomy.vocabulary.life_long_learning_categories
+    - taxonomy.vocabulary.solutions
+    - taxonomy.vocabulary.topics
+id: block_content.card_selection.field_content_category
+field_name: field_content_category
+entity_type: block_content
+bundle: card_selection
+label: 'Content category'
+description: 'Only used if a content type is selected.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      coe_locations: coe_locations
+      centers: centers
+      certificate_type: certificate_type
+      class_locations: class_locations
+      degree_category: degree_category
+      department: department
+      event_categories: event_categories
+      fields: fields
+      knowledge_network_tags: knowledge_network_tags
+      insight_types: insight_types
+      life_long_learning_categories: life_long_learning_categories
+      solutions: solutions
+      topics: topics
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: degree_category
+field_type: entity_reference

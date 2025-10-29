@@ -1,0 +1,18 @@
+uuid: b6518946-75d8-4c3f-ad80-a1fe84bda8bc
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_vertical_stripes
+field_name: field_vertical_stripes
+entity_type: node
+type: boolean
+settings: {  }
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

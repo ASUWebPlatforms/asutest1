@@ -1,0 +1,20 @@
+uuid: d8a7177f-7fe5-437a-ab3f-6a3e3cca362e
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_average_age
+field_name: field_average_age
+entity_type: node
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

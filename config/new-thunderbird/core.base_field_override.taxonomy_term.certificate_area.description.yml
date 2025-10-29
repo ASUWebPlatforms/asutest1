@@ -1,0 +1,20 @@
+uuid: cac0b7ca-4d1f-44a3-a35f-f5cb362d8f3c
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.certificate_area
+  module:
+    - text
+id: taxonomy_term.certificate_area.description
+field_name: description
+entity_type: taxonomy_term
+bundle: certificate_area
+label: Description
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

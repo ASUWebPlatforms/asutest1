@@ -1,0 +1,60 @@
+label: プロモーション
+display:
+  default:
+    display_title: デフォルト
+    display_options:
+      exposed_form:
+        options:
+          submit_button: 適用
+          reset_button_label: リセット
+          exposed_sorts_label: 並び替え基準
+          sort_asc_label: 昇順
+          sort_desc_label: 降順
+      pager:
+        options:
+          tags:
+            previous: ‹‹
+            next: ››
+            first: '« 最初'
+            last: '最後 »'
+          expose:
+            items_per_page_label: ページ毎の件数
+            items_per_page_options_all_label: '- 全て -'
+            offset_label: オフセット
+      fields:
+        name:
+          label: 名前
+          separator: ', '
+        offer__target_plugin_id:
+          separator: ', '
+        usage_limit:
+          label: 使用方法
+          separator: ', '
+        usage_limit_customer:
+          separator: ', '
+        start_date:
+          label: 開始日
+          separator: ', '
+        end_date:
+          label: 終了日
+          separator: ', '
+        operations:
+          label: 操作
+      filters:
+        name:
+          expose:
+            label: 名前
+        code:
+          expose:
+            label: クーポンコード
+        status:
+          expose:
+            label: 状態
+      title: プロモーション
+  admin:
+    display_title: ページ
+    display_options:
+      menu:
+        title: リスト
+      tab_options:
+        title: リスト

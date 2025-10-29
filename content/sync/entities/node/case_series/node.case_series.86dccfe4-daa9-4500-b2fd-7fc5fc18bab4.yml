@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 86dccfe4-daa9-4500-b2fd-7fc5fc18bab4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T18:07:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Fairfield Communities, Inc.'
+created:
+  -
+    value: '2016-07-27T18:07:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T18:07:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-02-0015
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>In 2000, Fairfield Communities, Inc. was one of the largest timeshare operators in the U.S. The company''s portfolio of resorts consisted of 35 resorts located in 12 states and the Bahamas. Of the company''s resorts, 25 were located in destination areas with popular vacation attractions such as Daytona Beach, Florida, and Las Vegas, Nevada and ten were located in scenic regional locations. Fairfield sold and financed vacation ownership intervals (VOI) providing a deeded interest in the use of a fully furnished vacation property of a specific size, at a specific location, at a specific time of the year and a specified length of stay. Customers typically provided a down payment of 16%-18% of the purchase price and financed the balance. Approximately, 80% of Fairfield''s customers elected to finance their VOI purchases through the company on terms of up to seven years and at interest rates of approximately 15% per year. To finance its rapid growth, Fairfield securitized the receivables by "selling" them to special purpose entities (SPE). The SPE issued debt collateralized by the receivables. As permitted under U.S. GAAP, Fairfield accounted for the SPE using the equity method of accounting rather than consolidating the SPE''s financial statements. Thus, the SPE''s debt did not directly appear on Fairfield''s balance sheet. An acquisition offer from Carnival Corporation, the world''s largest cruise-line company, was withdrawn after Carnival''s stock price dropped 42% after the announcement. In November 2000,Fairfield received an offer from Cendant Corporation to acquire the company for $15 per share. Valerie Amphlett, an analyst with Arbitrage Fund, has been asked to examine Fairfield''s recent financial performance, including an analysis of the effects of the company''s accounting treatment of the SPE to determine whether Fairfield is worth $15 per share.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-02-0015
+field_case_page_length:
+  -
+    value: '28 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4045175b-6b4e-4902-be3d-1c6e39082609
+field_case_series_year:
+  -
+    value: '2002-01-01'
+field_case_setting:
+  -
+    value: 'United States December 2000'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: "The case provides opportunities for students to apply financial analysis, accounting analysis and valuation techniques to Fairfield, a timeshare company, which used special purpose entities (SPE) to finance of its growing contracts receivable portfolio. The case provides background information on the timeshare industry and Fairfield's business and financing strategies. The case also provides extensive financial statement data from Fairfield's 2000 10-K to enable the student to evaluate Fairfield's financial performance. Under FAS 125, Fairfield used the equity method to account for the wholly owned SPE. Fairfield's footnote information on the SPE enables students to prepare financial statements assuming the SPE is consolidated. Consolidating the SPE unwinds Fairfield's \"sale\" of the receivables to the SPE and effectively treats the transfer of receivables to the SPE as collateralized borrowing. Quality of earnings issues can be addressed by analyzing Fairfield's other accounting policies. Finally, valuation issues can be addressed by determining whether Fairfield is worth $18 per share, the target price an analyst suggested for the company's stock or $15-$16 per share, the offer price Fairfield received from Cendant in November 2000. The case provides sufficient market data to estimate the company's cost of equity. The Feltham-Ohlson accounting-based valuation approach is used in this note to estimate Fairfield's equity value. The case has been used in the Corporate Financial Reporting elective course in the Masters program at Thunderbird, The American Graduate School of International Management\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.4045175b-6b4e-4902-be3d-1c6e39082609
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe

@@ -1,0 +1,25 @@
+uuid: 1f2e2473-ac57-4208-ba13-c04826ae8fb2
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_quote
+    - field.field.block_content.signpost_quote.field_signpost_quote
+  module:
+    - entity_reference_revisions
+id: block_content.signpost_quote.default
+targetEntityType: block_content
+bundle: signpost_quote
+mode: default
+content:
+  field_signpost_quote:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  langcode: true

@@ -1,0 +1,31 @@
+uuid: 84b25f65-38a6-447b-84ab-b1ffddcc5639
+langcode: en
+status: true
+dependencies:
+  module:
+    - tb_gdmi_hubspot
+_core:
+  default_config_hash: jqvz1BDflEnKHGd9SltUgpa_gdPA1QCWom--ANpCEzU
+title: 'GDMI Daily Cron'
+id: tb_gdmi_hubspot_daily_cron
+weight: 0
+module: tb_gdmi_hubspot
+callback: tb_gdmi_hubspot_daily_cron
+scheduler:
+  id: crontab
+  configuration:
+    rules:
+      - '0 1 * * *'
+launcher:
+  id: serial
+  configuration:
+    timeouts:
+      lock_timeout: 3600
+    launcher:
+      thread: 0
+logger:
+  id: database
+  configuration:
+    method: '3'
+    expire: 1209600
+    retain: 1000

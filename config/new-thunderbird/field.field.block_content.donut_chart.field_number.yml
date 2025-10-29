@@ -1,0 +1,25 @@
+uuid: de8da718-3a44-46db-bf96-0dcca70f3b50
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.donut_chart
+    - field.storage.block_content.field_number
+_core:
+  default_config_hash: 7UiarAOIiGI2K4IYYnLWDp5b8WgaNyawNIhA0cybeN8
+id: block_content.donut_chart.field_number
+field_name: field_number
+entity_type: block_content
+bundle: donut_chart
+label: Number
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: 0
+  max: 100
+  prefix: ''
+  suffix: ''
+field_type: integer

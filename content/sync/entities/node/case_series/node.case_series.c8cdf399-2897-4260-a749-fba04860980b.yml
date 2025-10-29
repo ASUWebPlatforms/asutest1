@@ -1,0 +1,94 @@
+uuid:
+  -
+    value: c8cdf399-2897-4260-a749-fba04860980b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-01-16T23:51:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'JetBlue & Gladly: Omnichannel Customer Service'
+created:
+  -
+    value: '2018-01-16T23:40:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-16T23:51:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a04-17-0003
+body:
+  -
+    value: "<p><span style=\"color: #000000;\">Facing increased customer service scrutiny in the airline industry, JetBlue, in August 2017, announced a partnership with Gladly, a relatively new entrant in the customer service software market. JetBlue was going beyond simply using Gladly’s software. The company decided to invest in Gladly through its venture capital arm, JetBlue Technology Ventures. Frankie Littleford, JetBlue’s Vice President of Customer Support, stated, “\"We are fortunate enough to be working so closely with Gladly that we are co-creating this [platform]together.” </span></p>\r\n<p><span style=\"color: #000000;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000;\">Bonny Simi, president of JetBlue Technology Ventures group, was enthusiastic about a potential “onmichannel” approach to communicating with customers. \"People just don't want to call in anymore. So we are aiming for omnichannel communication that is on at all hours, that can take advantage of AI (artificial intelligence) to resolve customers' issues as quickly as possible, and that will work with all of the important messenger apps.\"</span><a name=\"_ftnref1\" title=\"\" href=\"https://thunderbird.asu.edu/#_ftn1\"><span style=\"text-decoration: underline;\"><span style=\"color: #0066cc;\">[1]</span></span></a><span style=\"color: #000000;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000;\">Picking the right customer-service platform and then rolling it out without disrupting current operations were no small tasks for any airline, but JetBlue was committed to make it simpler for its customers to communicate with the company</span></p>\r\n<div><hr>\r\n<div>\r\n<p><a name=\"_ftn1\" title=\"\" href=\"https://thunderbird.asu.edu/#_ftnref1\"><span style=\"text-decoration: underline;\"><span style=\"color: #0066cc;\">[1]</span></span></a><span style=\"color: #000000;\"><span style=\"font-family: Times New Roman;\"> “JetBlue's New Customer Service Software Will Track Your Complaints,” Conde Nast Traveler, https://www.cntraveler.com/story/jetblues-new-customer-service-software-will-track-your-complaints.</span></span></p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A04-17-0013
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2017-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields: {  }
+field_teaching:
+  -
+    value: 'This case provides a platform for exploring how organizations can improve service value and customer service efficiency through careful selection, testing, and implementation of web-based applications This case could be taught in a variety of different classes. I use it in a class called International Value Chains.  Therefore, the primary focus of this teaching note is on service value.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678

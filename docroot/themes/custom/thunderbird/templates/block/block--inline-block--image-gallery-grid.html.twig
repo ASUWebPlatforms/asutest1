@@ -1,0 +1,19 @@
+{% set classes = [ 
+  'block', 
+  'block-' ~ configuration.provider|clean_class, 
+  'block-' ~ plugin_id|clean_class
+  ] %}
+<div {{ attributes.addClass(classes) }}>
+    {{ title_prefix }}
+    {{ title_suffix }}
+    <di class="image-gallery-grid">
+        <div class="image-gallery-grid-item first navy">
+            <span>{{ content.field_title.0['#context'].value|striptags('<br>')|raw }}</span>
+        </div>
+        {% for item in  content.field_image_items['#items'] %}
+            <div class="image-gallery-grid-item {{ item.entity.field_background_color.value }}">
+                {{ content.field_image_items[loop.index0] }}
+            </div>
+        {% endfor %}
+    </di>
+ </div>

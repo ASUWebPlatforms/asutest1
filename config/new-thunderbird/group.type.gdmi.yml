@@ -1,0 +1,12 @@
+uuid: 2284cf30-d26d-4bc5-90da-92628d65bc52
+langcode: en
+status: true
+dependencies: {  }
+id: gdmi
+label: GDMI
+description: ''
+new_revision: true
+creator_membership: true
+creator_wizard: false
+creator_roles:
+  - gdmi-primary_admin

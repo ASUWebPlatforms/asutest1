@@ -1,0 +1,20 @@
+uuid: 8ca3b94d-a4ab-45e5-83ff-91ad32c4f396
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.quizresult
+id: node.quizresult.uid
+field_name: uid
+entity_type: node
+bundle: quizresult
+label: 'Authored by'
+description: 'The username of the content author.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: 'Drupal\node\Entity\Node::getDefaultEntityOwner'
+settings:
+  handler: default
+  handler_settings: {  }
+field_type: entity_reference

@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 1e208b2d-3cac-4ade-9fdb-0e16731244d3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Importance of Communication in Teamwork'
+created:
+  -
+    value: '2014-08-08T23:52:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/communication-teamwork
+body:
+  -
+    value: "<p>[[{\"fid\":\"3043\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Importance of Communication in Teamwork\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"The Importance of Communication in Teamwork\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>The MBA program at Thunderbird emphasizes the importance of both hard and soft skills, particularly with respect to working in a global environment in cross cultural and cross functional teams. Throughout our academic experience, the majority of our work was in groups, meaning that as a TEM Lab team, we were well versed in team dynamics before coming to Peru. In fact, we got quite a bit of training on communicating properly by understanding the culture and communication style of our counterparts and adjusting our message accordingly, in order for it to resonate properly with the listener. However, there is something very special about being in an unfamiliar place, working in a high context, ambiguous environment, and most importantly staying with the same group of people around the clock, for an extended period of time. The combination of the previously stated factors brings to light the importance of true communication in teamwork, something that everybody discusses, but which is difficult to grasp until the right combination of factors converge.</p>\r\n<p>Before leaving for Peru, our team spent some time going over each member’s communication style as it relates to other members and the group. &nbsp;It was a fun and light hearted activity which took our minds off of the more dense topics that we were covering and gave us an opportunity to laugh a little at ourselves. It was only later, once we were actually in the field, did we realize the great importance of the insight that we had gained about each other and how such insight could help us negotiate among ourselves to make decisions, and obviously communicate with outsiders. Note, after the initial analysis of our communication styles, we realized that we were not terribly different from each other, but the beauty is always in the nuances, isn’t it?</p>\r\n<p>Once we arrived in Piura and after we met with the PROCOMPITE team, we realized that it would be a lot more efficient for us to split into two teams of two for the workshops and different two teams of two for the strategy recommendations. &nbsp;The teams were split along the lines of interest, and less along communication style lines, but the resulting combinations miraculously turned out just right. Or more accurately, the combination of our communication styles, personal and professional experiences, and all of our communications and cultural awareness courses really did just “click.” The workshop teams were divided by common interest in products and previous experience, Malorie and Ted were grouped to go to the less developed provinces, closer to the mountains, where the emphasis would be on working with coco and coffee. This team's communication style is defined by a hands on approach and a direct and informal style. The second workshop group, Barbara and I, focused on the more developed regions, closer to the coast, and our communication style is more formal. For the strategic aspect of the TEM Lab, the team split into teams divided along the lines of interest, Barbara and Ted are to study the port and the infrastructure, their communication style is more formal. Malorie and I are to study the priority product lines for the region--our communication style is collaborative, yet independent.</p>\r\n<p>When we meet as a group, the four of us are collaborative, yet structured, in that every team member has the opportunity to contribute but usually only one person speaks at a time, often with an email explanation of a thought process going out to the team before meetings, so as to have the most clarity during the meetings. Now, in describing the team and our different communication styles, it seems as though we may have been lucky that we happened to align well, or that our group has four highly similar members but the beauty is actually in the nuance.</p>\r\n<p>In analyzing how we came to be a fully functional, multi modal team, the secret is not a secret at all. The fact is that every member worked really hard to communicate well, to understand and be understood. We worked hard to set up a foundation for this experience by going through training in the many communication courses that we all had (thank you Thunderbird professors), through analyzing ourselves as communicators and our previous communication experiences, by analyzing communication failures and successes, and by setting our minds on the goal of clear communication and finding the road that will take us there. This communication and teamwork experience has been like none other. The TEM Lab experience truly brings together the key components of the MBA program, equally emphasizing both hard skills and soft skills, thus allowing for both professional and personal growth. Such has been the experience so far; I am looking forward to the professional and personal lessons as we enter our last week in Piura, as well as back on campus, when we will have some time to reflect on and digest our time here.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

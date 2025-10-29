@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 4c6ed831-5925-40b8-a714-b4c809a1f732
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-02T22:15:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+title:
+  -
+    value: 'Women’s Entrepreneurship in the Americas'
+created:
+  -
+    value: '2017-01-11T21:51:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-02T22:15:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/womens-entrepreneurship-americas
+body:
+  -
+    value: "<p>[[{\"fid\":\"3952\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Global Cohorts from Thunderbird for Good Programs\",\"field_file_image_title_text[und][0][value]\":\"Global Cohorts from Thunderbird for Good Programs\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Global Cohorts from Thunderbird for Good Programs\",\"title\":\"Global Cohorts from Thunderbird for Good Programs\",\"class\":\"panopoly-image-original media-element file-default\"}}]]<span style=\"line-height: 107%; font-family: 'Calibri',sans-serif; font-size: 9pt; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Global Cohorts from Thunderbird for Good Programs</span></p>\r\n<p>By: Ellen Alexander<span style=\"line-height: 107%; font-family: 'Calibri',sans-serif; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><br></span></p>\r\n<p>Thunderbird for Good is proud to announce a new project in Central America! Partnering with WEAmericas (Women’s Entrepreneurship in the Americas) and with funds from the United States Department of State’s Bureau of Western Hemisphere Affairs, Thunderbird for Good will be training women entrepreneurs in countries like Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama in business and management skills.</p>\r\n<p>Utilizing our rich alumni network and business background, Thunderbird for Good will hold one week intensive business and management training programs in Spanish. Aside from business training, coursework will also address cultural and social barriers the women may face. Graduates will then be provided with mentorships while they work on their own business growth plan projects. The end of the program will culminate into graduates presenting their projects to investors, private-sector companies, and financial institutions.</p>\r\n<p>&nbsp;Our goal is to promote gender equality and women’s economic empowerment in Central America by providing business consulting support for the accelerated growth and expansion of women-owned enterprises, provide networking opportunities and mentorships, and provide access to capital to facilitate long-term success and inclusive growth.</p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"font-family: Calibri;\"><span style=\"color: #000000;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">&nbsp;</span></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1022
+    height: 681
+    target_type: file
+    target_uuid: dc008259-97fc-41a4-bab5-8031fa065018
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1
+    file:
+      - file.image.dc008259-97fc-41a4-bab5-8031fa065018
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: fecca80f-c666-4737-a5a6-ea4a422c443e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Thunderbird for Good Participates at the Global Entrepreneurship Summit in Kenya'
+created:
+  -
+    value: '2016-06-21T19:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/entrepreneurship-summit-kenya
+body:
+  -
+    value: '<p>Kellie Kreiser, the Executive Director of Thunderbird for Good, was invited to present at the 2015&nbsp;<a href="http://www.ges2015.org/" target="_blank">Global Entrepreneurship Summit</a>&nbsp;(GES) in Nairobi, Kenya. The GES brings together leading entrepreneurs from around the world for networking, education, and to promote the idea of entrepreneurship globally. This year’s agenda had an additional day at the beginning of the conference that was focused on youth and women.</p><p>Due to the extensive work that Thunderbird for Good has done with entrepreneurs, including several successful programs with the U.S. Department of State, Kellie was invited to speak on a panel titled, “Tools for Financial Success.” She talked about the value of business education and provided information about the different tools and resources that are available for women and youth entrepreneurs. These included&nbsp;<a href="http://www.freeportinmycommunity.com/" target="_blank">Freeport-McMoRan’s</a>&nbsp;<a href="http://dreambuilder.org/" target="_blank">DreamBuilder</a>,<a href="https://entrepreneurship.asu.edu/startup-school" target="_blank">ASU Startup School</a>, and other online tools and games to teach entrepreneurs how to grow a business and get access to capital. The full session was filled with eager women and youth entrepreneurs, many of whom stayed another hour afterwards to speak to the panelists.</p><p>[[{"fid":"2822","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Global Entrepreneurship Summit in Kenya","field_file_image_title_text[und][0][value]":false},"type":"media","link_text":null,"attributes":{"alt":"Global Entrepreneurship Summit in Kenya","class":"panopoly-image-original media-element file-default"}}]]</p><p>GES panel on Tools for Financial Success. (Photo by David Macharia, CEO and Founder of Versatile Photographers.<a href="http://www.versatilephotographers.com/" target="_blank">http://www.versatilephotographers.com</a>)</p><p>Since 2005, Thunderbird for Good has had a focus on training women entrepreneurs in emerging markets, operating programs such as&nbsp;<a href="http://t4g.thunderbird.edu/programs/project-artemis-pakistan" target="_blank">Project Artemis Pakistan</a>&nbsp;and the&nbsp;<a href="http://t4g.thunderbird.edu/programs/us-dept-state-and-goldman-sachs-partnership" target="_blank">Goldman Sachs&nbsp;<em>10,000 Women</em>&nbsp;<em>Initiative</em></a>.</p><p>Incidentally, Kellie wasn’t the only person from the Thunderbird for Good team to visit Kenya in July. Wynona Heim was also there earlier in the month to work with women entrepreneurs and had the chance to meet with local Thunderbird alumni. Both Kellie and Wynona were able to connect with alumni from&nbsp;<em>10,000 Women</em>&nbsp;during their visits.</p><p>Although Kellie was in Kenya for only a few days, she was able to take time to visit&nbsp;<a href="https://www.sheldrickwildlifetrust.org/" target="_blank">The David Sheldrick Wildlife Trust</a>, which is dedicated to protecting endangered species. While she was there, she adopted a baby elephant!</p><p>The GES was a great way to meet with entrepreneurs from all over the world and share Thunderbird for Good’s expertise with the youth and women in attendance.</p><p>[[{"fid":"2823","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Summit in Kenya","field_file_image_title_text[und][0][value]":false},"type":"media","link_text":null,"attributes":{"alt":"Summit in Kenya","class":"panopoly-image-original media-element file-default"}}]]</p><p>Kellie Kreiser with GES attendees, including two graduates of the&nbsp;<em>10,000 Women Initiative.</em>&nbsp;(Photo by David Macharia, CEO and Founder of Versatile Photographers.&nbsp;<a href="http://www.versatilephotographers.com/" target="_blank">http://www.versatilephotographers.com</a>)</p>'
+    format: full_html
+    processed: |
+      <p>Kellie Kreiser, the Executive Director of Thunderbird for Good, was invited to present at the 2015&nbsp;<a href="http://www.ges2015.org/" target="_blank">Global Entrepreneurship Summit</a>&nbsp;(GES) in Nairobi, Kenya. The GES brings together leading entrepreneurs from around the world for networking, education, and to promote the idea of entrepreneurship globally. This year’s agenda had an additional day at the beginning of the conference that was focused on youth and women.</p>
+      <p>Due to the extensive work that Thunderbird for Good has done with entrepreneurs, including several successful programs with the U.S. Department of State, Kellie was invited to speak on a panel titled, “Tools for Financial Success.” She talked about the value of business education and provided information about the different tools and resources that are available for women and youth entrepreneurs. These included&nbsp;<a href="http://www.freeportinmycommunity.com/" target="_blank">Freeport-McMoRan’s</a>&nbsp;<a href="http://dreambuilder.org/" target="_blank">DreamBuilder</a>,<a href="https://entrepreneurship.asu.edu/startup-school" target="_blank">ASU Startup School</a>, and other online tools and games to teach entrepreneurs how to grow a business and get access to capital. The full session was filled with eager women and youth entrepreneurs, many of whom stayed another hour afterwards to speak to the panelists.</p>
+      <p>[[{"fid":"2822","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Global Entrepreneurship Summit in Kenya","field_file_image_title_text[und][0][value]":false},"type":"media","link_text":null,"attributes":{"alt":"Global Entrepreneurship Summit in Kenya","class":"panopoly-image-original media-element file-default"}}]]</p>
+      <p>GES panel on Tools for Financial Success. (Photo by David Macharia, CEO and Founder of Versatile Photographers.<a href="http://www.versatilephotographers.com/" target="_blank">http://www.versatilephotographers.com</a>)</p>
+      <p>Since 2005, Thunderbird for Good has had a focus on training women entrepreneurs in emerging markets, operating programs such as&nbsp;<a href="http://t4g.thunderbird.edu/programs/project-artemis-pakistan" target="_blank">Project Artemis Pakistan</a>&nbsp;and the&nbsp;<a href="http://t4g.thunderbird.edu/programs/us-dept-state-and-goldman-sachs-partnership" target="_blank">Goldman Sachs&nbsp;<em>10,000 Women</em>&nbsp;<em>Initiative</em></a>.</p>
+      <p>Incidentally, Kellie wasn’t the only person from the Thunderbird for Good team to visit Kenya in July. Wynona Heim was also there earlier in the month to work with women entrepreneurs and had the chance to meet with local Thunderbird alumni. Both Kellie and Wynona were able to connect with alumni from&nbsp;<em>10,000 Women</em>&nbsp;during their visits.</p>
+      <p>Although Kellie was in Kenya for only a few days, she was able to take time to visit&nbsp;<a href="https://www.sheldrickwildlifetrust.org/" target="_blank">The David Sheldrick Wildlife Trust</a>, which is dedicated to protecting endangered species. While she was there, she adopted a baby elephant!</p>
+      <p>The GES was a great way to meet with entrepreneurs from all over the world and share Thunderbird for Good’s expertise with the youth and women in attendance.</p>
+      <p>[[{"fid":"2823","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Summit in Kenya","field_file_image_title_text[und][0][value]":false},"type":"media","link_text":null,"attributes":{"alt":"Summit in Kenya","class":"panopoly-image-original media-element file-default"}}]]</p>
+      <p>Kellie Kreiser with GES attendees, including two graduates of the&nbsp;<em>10,000 Women Initiative.</em>&nbsp;(Photo by David Macharia, CEO and Founder of Versatile Photographers.&nbsp;<a href="http://www.versatilephotographers.com/" target="_blank">http://www.versatilephotographers.com</a>)</p>
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

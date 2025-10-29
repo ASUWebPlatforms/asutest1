@@ -1,0 +1,13 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: ਫਿਲਟਰ
+          reset_button_label: ਰੀ-ਸੈੱਟ
+      arguments:
+        promotion_id:
+          exception:
+            title: ਸਭ
+  page_1:
+    display_title: ਸਫਾ

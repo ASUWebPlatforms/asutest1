@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: e3b6f025-ef77-4180-a6f9-abf29ebb2da0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:15:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Thunderbird—Improving the Online Experience'
+created:
+  -
+    value: '2016-07-15T21:48:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:15:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-14-0005
+body:
+  -
+    value: '<p>The Thunderbird website had become very difficult to manage. The ability to change content in a dynamic manner was increasingly limited. The website was not resource or SEO friendly. The Web crawlers (e.g., Googlebot, Bingbot) had difficulty finding the correct key words because of the junk code embedded in the HTML pages. In November 2012, after a broad institutional effort, a new website was launched. The new website ran on an open source technology, the code was cleaner, and offered much better access to crawlers. It made SE0 management more effective.</p><p><span>As the MBA recruitment process becomes increasingly dependent on its online marketing strategy, the ability to buy media effectively, measure performance, and adjust its plans quickly acquire incredible relevance.</span></p><p><span>The performance of the new website and the school’s online media buying must be evaluated. Data on the first four months of Web traffic is available from Google Analytics. The data has been downloaded and is available as an Excel file. Thunderbird’s online marketing goals are defined as (a) to improve the effectiveness of display/sponsored ads placement, (b) to increase traffic to the programs pace by 25%, (c) to improve conversions, measured by the downloading of an application form, by 30%</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-14-0005
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: 2270de7c-1055-4fcf-9b58-b85e16a372c0
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 277b6b34-2156-4ef1-a61f-465fd4f307c7
+field_case_series_year:
+  -
+    value: '2014-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: e77be6c9-431a-4d4c-b39b-4ead71395cb0
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+  -
+    target_type: taxonomy_term
+    target_uuid: dae030f6-5ee5-4c65-bcad-7f73b2bac57b
+field_teaching:
+  -
+    value: "To gain knowledge of Google Analytics data structure and learn how to effectively understand Web metrics\r\nTo explore different manners of utilizing Web metrics by developing KPIs (Key Performance Indicators)\r\nTo examine a methodology for the evaluation of online performance data\r\nTo understand the activities and programs geared to driving traffic to a website\r\nTo learn about the intricacies of online advertising and media planning\r\nTo develop criteria to evaluate the impact of different media budget allocation approaches"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.2270de7c-1055-4fcf-9b58-b85e16a372c0
+      - taxonomy_term.case_series_industry.277b6b34-2156-4ef1-a61f-465fd4f307c7
+      - taxonomy_term.case_series_categories.e77be6c9-431a-4d4c-b39b-4ead71395cb0
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946
+      - taxonomy_term.case_series_fields.dae030f6-5ee5-4c65-bcad-7f73b2bac57b

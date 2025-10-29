@@ -1,0 +1,29 @@
+uuid: faabd8e4-a3ae-4bc5-9b81-f31700056af8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_certificate_topic
+    - node.type.certificate
+    - taxonomy.vocabulary.certificate_category
+id: node.certificate.field_certificate_topic
+field_name: field_certificate_topic
+entity_type: node
+bundle: certificate
+label: 'Certificate Topic'
+description: 'Select relevant topics for this certificate'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      certificate_category: certificate_category
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

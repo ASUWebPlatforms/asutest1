@@ -1,0 +1,18 @@
+uuid: 5759f7a5-dc6d-404c-af9c-40786bcedea3
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.blockquote
+id: paragraph.blockquote.created
+field_name: created
+entity_type: paragraph
+bundle: blockquote
+label: 'Authored on'
+description: 'The time that the Paragraph was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 76684ec4-2218-4916-abba-cddf7de7ebd1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-04T19:25:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Future of Internationalism Post-2016'
+created:
+  -
+    value: '2017-01-22T18:16:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-04T19:25:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/future-of-internationalism
+body:
+  -
+    value: "<p>It began when citizens of the United Kingdom shocked the world and voted to leave the European Union. It continued in Europe with the rise of nationalist candidates in Germany and France, where voters will elect new heads of state this year. And then it hopped the pond when American citizens shocked the world and elected Donald Trump to the presidency.</p>\r\n<p>Are these examples of rising nationalism around the world referenda on what had been a half-century of growing internationalism? What do they portend for global trade? What do they mean for global business? There really is no better place to address those questions than here, an institution founded in 1946 on the principle that with greater global engagement comes peace and prosperity for all.</p>\r\n<p>Here we note some of the recent conversations Thunderbird School of Global Management faculty and students are having. You can join the conversation, too, on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n<p><strong>Professor Joshua Ault: Economic Forces Push Us Outward, But Social Forces Call Us Home</strong></p>\r\n<p>“Make no mistake: there are always two forces at play, one pulling us toward globalism and one pulling us toward nationalism.” That’s Thunderbird School of Global Management Assistant Professor Joshua Ault talking about the tug-of-war between social forces and economic forces. The tug-of-war is always present. The key for global business leaders, Ault writes, is to be able to read the match as it is playing out at any moment in the locations they’re doing business in, and adapt their strategy and tactics accordingly.</p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/economic-forces\">Read the article here on Knowledge Network!</a><a href=\"#_msocom_1\" id=\"_anchor_1\"><br></a></p>\r\n<p><strong>Professor Mary Teagarden: On China Trade, We Can Put the Genie Back in the Bottle – But We Shouldn’t</strong></p>\r\n<p>Thunderbird School of Global Management Professor of Global Strategy Mary Teagarden writes that nationalism is rising in the United States, and in China, too, which is a dangerous combination. Where economists say the U.S. and China wouldn’t actually get into a trade war, because it would be bad for everyone, there are many examples of people making decisions that they think might improve their own lot but do in fact end up making it worse. “Just because a certain outcome is best for everyone involved, doesn’t mean that outcome will come to pass,” Dr. Teagarden writes.</p>\r\n<p>What does that mean for global business leaders? Don’t assume that a trade war could never happen. In fact, it’s time to shore up contingency plans in case it does.</p>\r\n<p>Stay tuned for a recap of the article here on Knowledge Network!</p>\r\n<p><strong>From the Thunderbird Student Newspaper Das Tor: A Call for Unity</strong></p>\r\n<p>In the introduction to a reprint of a November 2001 article by former Thunderbird School of Global Management President Roy Herberger, Das Tor Editor-in-Chief Jake Strickler writes about the xenophobia that has not faded since 2001, and a competing sentiment: a call for unity. “With Mr. Trump’s election,” Strickler writes, “this is a worldview that we must reignite.”</p>\r\n<p><a href=\"https://thunderbird.asu.edu/node/2342\">Read the article here on Knowledge Network</a></p>\r\n<p><strong>From Das Tor: Thunderbird in a Divided World</strong></p>\r\n<p>In a statement posted just after the election of Donald Trump, the staff of Das Tor, Thunderbird’s student newspaper, shares their perspective on whether or not the election represents broader “anti-globalist” sentiment taking hold around the world. And they call to T-birds’ better angels: “A world growing increasingly divided presents us with unique challenges, and we must seek out new ways in which to bridge divides.”</p>\r\n<p><a href=\"https://thunderbird.asu.edu/node/2343\">Read the article here on Knowledge Network</a></p>\r\n<p><strong>From Das Tor: T-Birds Respond to the Election</strong></p>\r\n<p>After the election of Donald Trump, Thunderbird’s student newspaper Das Tor launched an online survey to collect the post-election opinions of T-birds around the world. 84.3 percent of the 123 students and alumni who responded said that the election results were not good for the world. Many shared their perspectives in detail, reprinted by Das Tor.</p>\r\n<p><a href=\"https://thunderbird.asu.edu/node/2341\">Read the article here on Knowledge Network</a></p>\r\n<p><strong>Join the discussion!</strong></p>\r\n<p>What do you think? Are we experiencing a pendulum swing back toward economic nationalism, as Joshua Ault contends? Are you, like many Thunderbird students, concerned that we’ve entered a period of declining globalism? Share your thoughts on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a></p>\r\n<p>&nbsp;<em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 900
+    height: 615
+    target_type: file
+    target_uuid: 62fb12ad-8f26-4a32-9a56-8f4805929354
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b08d5919-cc6b-4ba9-b8e0-c87cc431314a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.62fb12ad-8f26-4a32-9a56-8f4805929354
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b08d5919-cc6b-4ba9-b8e0-c87cc431314a

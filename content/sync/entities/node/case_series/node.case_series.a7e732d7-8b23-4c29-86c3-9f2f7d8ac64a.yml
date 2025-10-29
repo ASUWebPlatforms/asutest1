@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: a7e732d7-8b23-4c29-86c3-9f2f7d8ac64a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:14:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Redesigning Trauma Operations at University Hospital'
+created:
+  -
+    value: '2016-07-15T21:44:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:14:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a20-14-0004
+body:
+  -
+    value: '<p><span>The CEO of University Hospital expressed concern about the financial viability of the hospital’s trauma care operations. On the one hand, trauma care was an important part of the hospital’s community service mission and, as a teaching hospital, also part of its educational mission. On the other hand, trauma care had been a money-losing proposition for many years, and also had caused disruptions to the hospital’s other care-delivery services. The CEO and the chief trauma surgeon (who served as the hospital’s director of trauma services) collaborated to rethink physical arrangements and processes to make trauma care more effective at a lower cost. A natural solution, growing out of concepts from organization design and process architecture, would be to reorganize resources and create an area dedicated to trauma care. For those familiar with operations management terminology, potential solutions can be drawn from cellular manufacturing concepts that have been effectively moved into the service sector. The case discussion helps to illustrate that changes in physical configuration cannot, by themselves, ensure success. Students are challenged to consider complementary factors that will support the configuration change, as well as the challenges the hospital might face in implementing and sustaining the reconfigured work unit.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A20-14-0004
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: cbde4988-5061-44b9-a8c4-68c9763065ce
+field_case_series_year:
+  -
+    value: '2014-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a940c00d-3667-46c8-af69-61c90ab77b45
+  -
+    target_type: taxonomy_term
+    target_uuid: c148e8af-a6d3-4da8-8ddf-8e8c923378a5
+field_teaching:
+  -
+    value: "The case offers students the opportunity to:\r\n\r\nApply process architecture and resource configuration concepts in the context of a service setting.\r\nIdentify challenges that arise when resources needed to serve an identifiable market segment are scattered around an organization.\r\nAppreciate the value of focusing resources when the volume of demand justifies it.\r\nRecognize the complementary changes that must be introduced in parallel with the creation of a focused work unit.\r\nDescribe the challenges an organization is likely to face when making major changes in structure."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.cbde4988-5061-44b9-a8c4-68c9763065ce
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.a940c00d-3667-46c8-af69-61c90ab77b45
+      - taxonomy_term.case_series_fields.c148e8af-a6d3-4da8-8ddf-8e8c923378a5

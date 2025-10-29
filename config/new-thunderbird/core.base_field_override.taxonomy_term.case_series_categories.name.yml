@@ -1,0 +1,18 @@
+uuid: 9cea1dec-5f31-4292-9423-29ea2c14e7b3
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.case_series_categories
+id: taxonomy_term.case_series_categories.name
+field_name: name
+entity_type: taxonomy_term
+bundle: case_series_categories
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

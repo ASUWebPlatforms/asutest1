@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: fd4b24ca-258c-4975-a537-aa982ae3b6e2
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-07-28T22:21:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'Diverse Teams Produce Better Results'
+created:
+  -
+    value: '2017-07-28T22:21:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-28T22:21:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/diverse-teams-produce-better-results
+body:
+  -
+    value: "<p>By Bethany Chijindu '17, Master of Global Management</p>\r\n<p>We live in a culturally diverse world, and for a business to keep on growing, it is important that it has diverse teams working on its projects. Diversity is not limited to racial diversity, included in this mix is gender as well.</p>\r\n<p>&nbsp;There are many reasons why having diverse teams produce better results. Listed below are a few of them:</p>\r\n<p><strong>The Generating of Diverse and Creative Ideas</strong></p>\r\n<p>The more diverse your teams are the more options and solutions produced in the group discussions and meetings.&nbsp; There is a lot of wealth to draw from, with people drawing from their respective cultures, and their experiences.</p>\r\n<p><strong>Group Think is reduced</strong></p>\r\n<p>Group Think often occurs in groups made up of individuals who share the same ideas and who make faulty decisions and come to a consensus without critically looking at issues from different angles. &nbsp;With a more diverse group, groupthink reduces, because people often come into the meetings with different ideas, and then there are serious discussions, with different sections arguing for their idea and positions. By looking at different angles critically, the group gets a much fuller picture of the situation and this allows for the suggestion of better solutions, solutions that take into consideration all the angles and thus have more practical impact. &nbsp;</p>\r\n<p><strong>Conflicts can be the best incubator of solutions</strong></p>\r\n<p>Often when people hold on strongly to their positions and ideas, conflicts are more likely to occur in these tense discussions, but teams who have been prepared in advance can use conflict to get the best results.&nbsp; These results achieved by members listening to both or all sides, and leaving space for compromise or for new ideas that come out during the heat of arguments. This is because the best ideas sometimes come out in the middle of a heated discussion, with different side arguing the pros and cons of each side before concluding about the way to go forward.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

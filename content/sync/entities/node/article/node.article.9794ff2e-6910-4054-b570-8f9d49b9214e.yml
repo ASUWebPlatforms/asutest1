@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 9794ff2e-6910-4054-b570-8f9d49b9214e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:34:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Interview as a Team Player'
+created:
+  -
+    value: '2018-01-15T14:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:34:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/interview-team-player
+body:
+  -
+    value: "<p>Do you&nbsp;come across&nbsp;at&nbsp;an&nbsp;interview as a competent&nbsp;but self-interested&nbsp;candidate&nbsp;or as a high-performing team player? Many companies are anxious to hire new employees who don’t just have the right experience and expertise, but who will also fit the&nbsp;corporate&nbsp;culture and act as strong team players. How can you, as a candidate for a new job, prove that you not only have the drive and competence to do the job, but that you will also make the whole team better?  <span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>I recently&nbsp;spoke&nbsp;with Rebecca Teasdale, one of the authors of the new book,&nbsp;<a href=\"http://www.theloyalistteam.com/\"><span>The Loyalist Team</span></a>,&nbsp;who has researched best practices for high-performance teamwork for the last 25 years. Here’s her advice.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h3>Have your teamwork stories ready. <span data-ccp-props=\"{&quot;335559685&quot;:360,&quot;335559739&quot;:200}\">&nbsp;</span></h3>\r\n<p>Giving examples of your&nbsp;past&nbsp;teams’&nbsp;successes, not just your own,&nbsp;is a great way to show you&nbsp;can play on&nbsp;a team.&nbsp;When asked in an interview to share an accomplishment you are most proud, throw in a story about&nbsp;shared success.&nbsp;For example,&nbsp;<span>I’m mos</span><span>t proud of a time I helped&nbsp;</span><span>a teammate succeed</span><span>&nbsp;at</span><span>…</span><span>&nbsp;</span>&nbsp;Further,&nbsp;if you can&nbsp;speak to&nbsp;a time you helped&nbsp;a team&nbsp;recover from a setback or deal with conflict,&nbsp;even&nbsp;better.&nbsp;<span>When our project team missed an important deadline, I made sure everyone kn</span><span>ew I had their back and focused</span><span>&nbsp;on what we could learn instead of blaming&nbsp;</span><span>others</span><span>.</span><span>&nbsp;</span><span data-ccp-props=\"{&quot;335559685&quot;:360,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h3>Down with “Me” and up with “We.”<span data-ccp-props=\"{&quot;335559685&quot;:360,&quot;335559739&quot;:200}\">&nbsp;</span></h3>\r\n<p>When giving examples of your team’s successes, use “we” language&nbsp;to show you can share the credit with teammates.&nbsp;However, when speaking of your mistakes and setbacks, stick with the “I” language to show you are quick to take accountability.<span data-ccp-props=\"{&quot;335559685&quot;:360,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h3>Ask questions about the hiring manager’s team&nbsp;– your potential peers.<span data-ccp-props=\"{&quot;335559685&quot;:360,&quot;335559739&quot;:200}\">&nbsp;</span></h3>\r\n<p>Asking questions about&nbsp;your future team is fair game.&nbsp;Show you understand team dynamics by asking questions like:&nbsp;<span>Ho</span><span>w does the team work together?&nbsp;</span><span>How does the</span><span>&nbsp;team work through conflict? What matters most on this team?&nbsp;</span><span>How does this team respond to failure?</span><span data-ccp-props=\"{&quot;335559685&quot;:360,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“Having&nbsp;expertise&nbsp;in your field is considered price of entry these days.&nbsp;Employers are looking for&nbsp;candidate who&nbsp;bring&nbsp;the ability to&nbsp;play well&nbsp;with others&nbsp;and&nbsp;push their teammates to achieve great results,” says Teasdale.&nbsp;Applicants can stand apart from their competition&nbsp;by touting&nbsp;the importance of teamwork and giving examples&nbsp;of how they made a difference on a team.&nbsp;Some&nbsp;top team player attributes&nbsp;you can demonstrate&nbsp;are:<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<ul>\r\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"9\" data-aria-posinset=\"1\" data-aria-level=\"1\">Working collaboratively<span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></li>\r\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"9\" data-aria-posinset=\"2\" data-aria-level=\"1\">Productively managing conflict&nbsp;<span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></li>\r\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"9\" data-aria-posinset=\"3\" data-aria-level=\"1\">Sharing credit<span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></li>\r\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"9\" data-aria-posinset=\"4\" data-aria-level=\"1\">Helping your teammates succeed<span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></li>\r\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"9\" data-aria-posinset=\"5\" data-aria-level=\"1\">Not engaging in gossip or hearsay about other teammates<span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></li>\r\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"9\" data-aria-posinset=\"6\" data-aria-level=\"1\">Holding teammates accountable for&nbsp;their team behavior<span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></li>\r\n</ul>\r\n<p>Savvy interviewers&nbsp;know how to avoid&nbsp;making&nbsp;hiring mistakes – that is, bringing in an employee who is qualified on paper but isn’t a culture fit in their organization.&nbsp;Give yourself the best chance to stand out&nbsp;in your next interview&nbsp;by&nbsp;showing you&nbsp;<span>are</span>&nbsp;the hard-to-find team player the company is looking for.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p><span data-ccp-props=\"{&quot;335559739&quot;:200}\"><span>Join Dana Manciagli’s&nbsp;</span><a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a><span>&nbsp;</span><em>right now</em><span>&nbsp;and immediately access the most comprehensive job search system currently available!</span></span></p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><i><a href=\"http://danamanciagli.com/\">her website.</a></i></p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/how-avoid-getting-fired\">How to Avoid Getting Fired</a><br><a href=\"https://thunderbird.asu.edu/knowledge-network/one-thing-you-must-do-after-submitting-your-resume\">The ONE THING You Must Do After Submitting Your Résumé<br>6 Tips to Be a Better Manager/Coach</a><br><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility!</a><a href=\"https://thunderbird.asu.edu/knowledge-network/5-simple-linkedin-hacks-optimize-your-job-search\"><br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/appreciating-diversity\">Getting to Know You – Appreciating Diversity</a></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: 957b47fa-b121-482d-8e30-e30d63f2ab3c
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.957b47fa-b121-482d-8e30-e30d63f2ab3c
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: ccb5ae26-20cd-4101-99d4-bc8ede820a16
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+filename:
+  -
+    value: landry_signe_us_senate_committee.jpg
+uri:
+  -
+    value: 'public://landry_signe_us_senate_committee.jpg'
+    url: /sites/default/files/landry_signe_us_senate_committee.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 244549
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-08-02T20:14:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-02T20:14:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc

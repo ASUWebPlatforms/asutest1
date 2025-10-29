@@ -1,0 +1,165 @@
+uuid: 4b81d4ca-1b9f-47cf-b54c-9cdf8205b962
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.group.gdmi.field_custom_reminders
+    - field.field.group.gdmi.field_due_date
+    - field.field.group.gdmi.field_invitations_sent
+    - field.field.group.gdmi.field_invite_sent_date
+    - field.field.group.gdmi.field_organization
+    - field.field.group.gdmi.field_partic_custom_msg_body
+    - field.field.group.gdmi.field_partic_custom_msg_title
+    - field.field.group.gdmi.field_partic_inv_schedule_date
+    - field.field.group.gdmi.field_partic_invit_msg_type
+    - field.field.group.gdmi.field_partic_reminders_type
+    - field.field.group.gdmi.field_partic_schedule_type
+    - field.field.group.gdmi.field_results_data
+    - field.field.group.gdmi.field_start_date
+    - field.field.group.gdmi.field_status
+    - field.field.group.gdmi.field_time_zone
+    - group.type.gdmi
+  module:
+    - datetime
+    - entity_reference_revisions
+    - options
+    - text
+id: group.gdmi.default
+targetEntityType: group
+bundle: gdmi
+mode: default
+content:
+  field_custom_reminders:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 9
+    region: content
+  field_due_date:
+    type: datetime_default
+    label: above
+    settings:
+      timezone_override: ''
+      format_type: medium
+    third_party_settings: {  }
+    weight: -1
+    region: content
+  field_invitations_sent:
+    type: boolean
+    label: above
+    settings:
+      format: boolean
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  field_invite_sent_date:
+    type: datetime_default
+    label: above
+    settings:
+      timezone_override: ''
+      format_type: medium
+    third_party_settings: {  }
+    weight: 11
+    region: content
+  field_organization:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: -4
+    region: content
+  field_partic_custom_msg_body:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 7
+    region: content
+  field_partic_custom_msg_title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 6
+    region: content
+  field_partic_inv_schedule_date:
+    type: datetime_default
+    label: above
+    settings:
+      timezone_override: ''
+      format_type: medium
+    third_party_settings: {  }
+    weight: 5
+    region: content
+  field_partic_invit_msg_type:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_partic_reminders_type:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 8
+    region: content
+  field_partic_schedule_type:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  field_results_data:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_start_date:
+    type: datetime_default
+    label: above
+    settings:
+      timezone_override: ''
+      format_type: medium
+    third_party_settings: {  }
+    weight: -2
+    region: content
+  field_status:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: -3
+    region: content
+  field_time_zone:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  label:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: -5
+    region: content
+hidden:
+  changed: true
+  created: true
+  langcode: true
+  search_api_excerpt: true
+  uid: true

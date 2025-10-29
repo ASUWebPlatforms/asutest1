@@ -1,0 +1,5 @@
+content:
+  field_body:
+    third_party_settings:
+      maxlength:
+        maxlength_js_label: 'Conteúdo limitado a @limit caracteres, restam: <strong>@remaining</strong>'

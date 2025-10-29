@@ -1,0 +1,7 @@
+tb_degrees.apply_now_form:
+  path: '/tb_degrees/form/apply_now'
+  defaults:
+    _form: '\Drupal\tb_degrees\Form\ApplyNowForm'
+    _title: 'ApplyNowForm'
+  requirements:
+    _access: 'TRUE'

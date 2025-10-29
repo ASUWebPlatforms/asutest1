@@ -1,0 +1,18 @@
+uuid: 43b42ac2-e39e-429c-abb3-4a21264f0ce3
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.case_series
+id: node.case_series.title
+field_name: title
+entity_type: node
+bundle: case_series
+label: Title
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

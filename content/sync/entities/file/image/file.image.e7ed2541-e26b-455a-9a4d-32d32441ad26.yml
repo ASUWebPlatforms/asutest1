@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: e7ed2541-e26b-455a-9a4d-32d32441ad26
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+filename:
+  -
+    value: s3.png
+uri:
+  -
+    value: 'public://s3.png'
+    url: /sites/default/files/s3.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1543631
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-05-29T17:50:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-29T17:50:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234

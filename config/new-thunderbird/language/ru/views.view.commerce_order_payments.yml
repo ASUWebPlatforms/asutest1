@@ -1,0 +1,22 @@
+display:
+  default:
+    display_title: 'По умолчанию'
+    display_options:
+      fields:
+        completed:
+          label: Завершено
+        operations:
+          label: Операции
+      exposed_form:
+        options:
+          submit_button: Применить
+          reset_button_label: Сбросить
+          exposed_sorts_label: 'Сортировать по'
+          sort_asc_label: 'По возрастанию'
+          sort_desc_label: 'По убыванию'
+      arguments:
+        order_id:
+          exception:
+            title: Все
+  page_1:
+    display_title: Страница

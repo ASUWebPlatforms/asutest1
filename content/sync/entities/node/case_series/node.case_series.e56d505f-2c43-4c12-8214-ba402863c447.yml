@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: e56d505f-2c43-4c12-8214-ba402863c447
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:01:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Mont Blanc Tunnel Disaster: Lessons Learned'
+created:
+  -
+    value: '2016-07-16T01:32:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:01:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-07-0011
+body:
+  -
+    value: '<p><span>The 1999 Mont Blank Tunnel Fire case uses a time-line approach with discussion of events during each time period. Students are requested to identify problems which were management-caused, either prior to or during the fire situation. The fire resulted in million of dollars in damage, thirty-nine deaths, and a three-year closure of the tunnel.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-07-0011
+field_case_page_length:
+  -
+    value: '5 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2007-01-01'
+field_case_setting:
+  -
+    value: Europe
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields: {  }
+field_teaching:
+  -
+    value: "To develop a student’s ability to identify “lessons learned” from a disaster situation.\r\n\r\nTo develop a student’s ability to generate remedies for situations involving mistakes or inappropriate actions on the part of management."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24

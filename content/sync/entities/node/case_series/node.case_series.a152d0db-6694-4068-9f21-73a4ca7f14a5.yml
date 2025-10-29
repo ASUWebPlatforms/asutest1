@@ -1,0 +1,115 @@
+uuid:
+  -
+    value: a152d0db-6694-4068-9f21-73a4ca7f14a5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T19:44:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Golden Arch Hotel: McDonald''s Adventure in the Hotel Industry'
+created:
+  -
+    value: '2016-07-26T19:44:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T19:44:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-05-0017
+body:
+  -
+    value: '<p>In 2001, McDonald''s launched a new venture by opening two hotels in Switzerland (Zurich and Lully) under the name "Golden Arch Hotel." The hotels were positioned as four-star accommodations with cutting-edge in-room technology and unique, modern interior design. Testimonials of guests were mixed following their stays in the Golden Arch Hotels. Most seemed to agree, however, that the four-star rating didn''t seem to match with McDonald''s image.</p><p>Given the saturated world hamburger market, McDonald''s headquarters in Chicago had decided to launch a "diversification" strategy to foster new ideas and concepts worldwide. Urs Hammer, McDonald''s Switzerland long-time CEO, proposed a foray into the hotel business building on McDonald''s image of cleanliness and fast, friendly service. With McDonald''s strong global brand recognition and the transferable competencies from restaurant to hospitality, Hammer was convinced the project would be a success.</p><p>The hotel market in Zurich was booming with multiple building projects under way. The growth was happening so rapidly, in fact, that analysts predicted overcapacity in the very near future. In a fiercely competitive hotel market, Golden Arch Hotels was faced with the challenge of how to profitably target the key customer segments: travel groups, business travelers, and frequent travelers (FITs). With only two locations in one highly competitive country, how well is Golden Arch positioned in Switzerland, and how can the model be expanded and launched throughout the world?</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-05-0017
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: a9ad1451-ed9f-408d-8b5f-c56ebfea33cc
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: Switzerland
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a940c00d-3667-46c8-af69-61c90ab77b45
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+  -
+    target_type: taxonomy_term
+    target_uuid: 1909abf6-6c12-48f9-9484-3fe80c280fb8
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "Global Marketing \r\nService Marketing \r\nMarketing Strategy \r\nSegmenting \r\nPositioning and Branding \r\nPricing and Profit Calculation \r\nThe case shows how a global market leader in the fast-food restaurant business enters the hotel market with mixed success. The case illustrates the importance of how the different aspects of a service business have to be aligned in order to be successful (i.e., positioning, branding, segmenting, pricing, market entry, global marketing). The financial figures provided in the case indicate that not all alternative strategies are viable."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.a9ad1451-ed9f-408d-8b5f-c56ebfea33cc
+      - taxonomy_term.case_series_categories.2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+      - taxonomy_term.case_series_fields.a940c00d-3667-46c8-af69-61c90ab77b45
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946
+      - taxonomy_term.case_series_fields.1909abf6-6c12-48f9-9484-3fe80c280fb8
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

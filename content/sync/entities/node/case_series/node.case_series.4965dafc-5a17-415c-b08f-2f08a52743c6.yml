@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 4965dafc-5a17-415c-b08f-2f08a52743c6
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:50:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'TCAS, Inc.'
+created:
+  -
+    value: '2016-07-27T23:50:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:50:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-98-0021
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The cases describes the foreign exchange problems faced by Mr. John Christopher, in the spring of 1995. Christopher''s company, TCAS, had just been awarded the bid to deliver and install a new management information software system and local area network computer system for a customer in Canada. TCAS is a US-based company with no previous international experience. The company, as a result of the bid award, was confronted with a very large foreign exchange exposure. TCAS has additional problems, including an operating loss in the previous year, and the potential of continuing losses in the current year in the absence of the subject sale. TCAS needs to make a profit on this contract, manage its foreign exchange exposure, and restructure its balance sheet.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-98-0021
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: a0705c30-3cd0-49cf-b91d-30cd375c011c
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: 'U.S., Canada, 1995'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 77375e49-6022-42e9-9bb0-e00457b47ac2
+field_teaching:
+  -
+    value: "The case has two objectives. The first objective is to review the fundamentals of exchange rate determination and to employ the basic parity models in forecasting the Canadian dollar. The second objective is to analyze the various foreign exchange risk management instruments and to learn how to select the appropriate instrument.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.a0705c30-3cd0-49cf-b91d-30cd375c011c
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.77375e49-6022-42e9-9bb0-e00457b47ac2

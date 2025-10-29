@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 16e5540d-4347-4acb-b33d-72e31523e398
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: a7aac563-891e-4f4c-b422-e50d2195759c
+filename:
+  -
+    value: choice-architecture.jpg
+uri:
+  -
+    value: 'public://choice-architecture.jpg'
+    url: /sites/default/files/choice-architecture.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 26681
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-12-08T17:52:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-08T17:52:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a7aac563-891e-4f4c-b422-e50d2195759c

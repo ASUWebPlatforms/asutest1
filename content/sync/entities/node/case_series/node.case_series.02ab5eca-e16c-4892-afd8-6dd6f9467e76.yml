@@ -1,0 +1,110 @@
+uuid:
+  -
+    value: 02ab5eca-e16c-4892-afd8-6dd6f9467e76
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:15:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Outburst at ABCO'
+created:
+  -
+    value: '2016-07-15T23:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:15:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-14-0006
+body:
+  -
+    value: '<p><span>Tom Henderson, engineering manager and 10-year veteran of ABCO, leads the 25-member Omega product development team. While presenting his team’s performance data at a monthly briefing meeting, Henderson is subjected to the verbal jabs of Bill Fenner, ABCO’s VP of Distributed Services. As the meeting progresses, Fenner becomes increasingly aggressive, causing Henderson to falter in front of his colleagues and senior executives. After learning that their boss has been “shredded” by Fenner, the Omega team reduces its exceptional performance. Part B (in the Teaching Note) reveals Henderson’s next actions. Part C (also in the Teaching Note) concludes with longer-term consequences for Henderson and ABCO.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-14-0006
+field_case_page_length:
+  -
+    value: '2 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2fc90aaf-3837-44e7-8ce9-2649e97c9cb6
+field_case_series_year:
+  -
+    value: '2014-01-01'
+field_case_setting:
+  -
+    value: NA
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: fcc6123c-dc3e-4c19-97c3-b1c33944f69d
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: e73e3976-e6dd-4aca-ac80-54c8853bc396
+field_teaching:
+  -
+    value: "This case has two objectives:\r\n\r\nTo explore the causes, escalation, and costs of incivility among employees, including targets, offenders, bystanders, subordinates, bosses, teams, and the organization at large.\r\nTo elicit discussion about expectations, challenges, and opportunities to demonstrate leadership that arise in day-to-day challenges."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+      - taxonomy_term.case_series_industry.2fc90aaf-3837-44e7-8ce9-2649e97c9cb6
+      - taxonomy_term.case_series_fields.fcc6123c-dc3e-4c19-97c3-b1c33944f69d
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.e73e3976-e6dd-4aca-ac80-54c8853bc396

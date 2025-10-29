@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: ef611528-ee1b-40a2-a06c-6f0dd5891f10
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-05-29T19:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'Conquering the Mountain of Information'
+created:
+  -
+    value: '2018-05-29T17:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-29T19:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/conquering-mountain-information
+body:
+  -
+    value: "<p>Written by Yun Chen (Jenny) Li</p>\r\n<p><strong>Summer 2018, Global Consulting Lab (GCL)</strong><br><strong>Ecuador, UMCO</strong></p>\r\n<p>After a week of <a href=\"/node/3247\">learning about pots and pans</a> from UMCO and <a href=\"/node/3251\">interviewing restaurant chefs</a>, we began our second week by brainstorming and organizing what we learned from our client and our interviews. Even though everyone was in the same meeting, each team member had different insights from our conversations. <a href=\"/node/181\">Professor Tom Hunsaker </a>told our team on the first day that there would be a period of time in which we would have too much information that would make everything complicated. We would need to learn how to overcome this and clarify the information. By organizing our thoughts, our team was able to conquer the mountain of information we had and focus on the main scopes of our project.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"18276\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Behind the scenes of our work</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>In addition to the data provided by the client, we sent out an online survey to our target market in order to understand their reason for purchasing cookware, interests in cooking, and preferences in kitchenware. So far, we have collected about 80 complete surveys. These survey results helped us build the brand identity for UMCO’s new product line and provided valid data for our client.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"18277\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Using Excel to analyze the data from the survey results (Left: Nathan Christiansen)</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>After working closely with our client and as a team, we successfully presented our mid-point presentation to the UMCO marketing department. This presentation showed what we have done so far and what we plan on doing in the next few days before our final deliverable. We provided the demographic information of our target market, the survey results, competitor analysis, distribution analysis, and consumer personas. This was a presentation that ensured that both UMCO and our team were on the same page.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"18278\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]\r\n<p class=\"caption-text\">Mid-point presentation with UMCO marketing team (From left to right: Martín and Javier from UMCO, Chantelle, Nathan, myself, Sanne, Madeline, and Alex )</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Although I have been working in Ecuador for only two weeks, I have learned more than I thought I would before I came here. I am happy with all that our team has accomplished so far and look forward to the final deliverable next week!</p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2642
+    height: 1982
+    target_type: file
+    target_uuid: ab369dcf-3627-48a6-88c6-a16b58e3ad79
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    file:
+      - file.image.ab369dcf-3627-48a6-88c6-a16b58e3ad79
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

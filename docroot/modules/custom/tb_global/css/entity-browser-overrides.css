@@ -1,0 +1,15 @@
+/* Overrides to fix checkbox positioning for entity browser in layout builder modal. */
+.view-node-select .views-row,
+.view-term-select .views-row {
+  overflow: hidden;
+}
+
+.view-node-select .views-field-entity-browser-select,
+.view-term-select .views-field-entity-browser-select {
+  float: left;
+}
+
+.view-node-select .views-field-entity-browser-select .form-item,
+.view-term-select .views-field-entity-browser-select .form-item {
+  margin: 2px 6px 2px 0;
+}

@@ -1,0 +1,80 @@
+uuid:
+  -
+    value: 6de113ac-651d-4e3e-ae61-69317aabd857
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-01T20:27:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+title:
+  -
+    value: 'Tips for Writing an Impactful Cover Letter'
+created:
+  -
+    value: '2017-02-02T14:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-01T20:27:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/impactful-cover-letter
+body:
+  -
+    value: "<p><span style=\"color: #000000;\"><span style=\"font-family: Helvetica;\">There is a common perception in today’s rapidly evolving world that the cover letter is outdated, but this couldn't be further from the truth. Cover letters remain integral because they are your first opportunity to impress a potential employer and, as such, they must be thoughtfully and purposefully written. Here are some tips to ensure you make the most impact.</span></span></p>\r\n<p>&nbsp;</p>\r\n<ol>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Establish a Connection</span> - Begin by grabbing the reader’s attention and explaining <i>why</i> you want to work for the company.</p>\r\n<p>&nbsp;</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Don't Reiterate Your Resume</span>: Instead, choose to elaborate on a few of your particular skills and experiences, providing the prospective employer with a “picture of proof” of your value. Be sure to write in complete (full) sentences vs. “abbreviated resume writing” which often omits words to be more concise.</p>\r\n<p>&nbsp;</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Show What You </span><span style=\"text-decoration: underline;\">A</span><span style=\"text-decoration: underline;\">re Capable </span><span style=\"text-decoration: underline;\">o</span><span style=\"text-decoration: underline;\">f</span>: What benefits can you bring to the company? Why should they hire you? What can these skills and benefits bring to them in the future?</p>\r\n<p>&nbsp;</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Use Concrete Examples and Numbers</span>: Quantify your accomplishments, if you can, to demonstrate specific ways in which you contributed and excelled beyond the job description.</p>\r\n<p>&nbsp;</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Focus on Your Skills, not Your Education</span>: Employers understand what skill sets come along with your degree. What they want to see is how your individual experiences using specific skills differentiate you.</p>\r\n<p>&nbsp;</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Focus on Relevant Information and Experience</span>: Tailor your cover letter for the specific company or position. A consulting firm won’t want to read about your teaching career, for example, unless you can showcase specific, transferable skills.</p>\r\n<p>&nbsp;</p>\r\n</li>\r\n<li>\r\n<p><span style=\"text-decoration: underline;\">Include Testimonials</span>: Hearing about your achievements from others has tremendous value. Consider including statements like… “My former supervisor once said I was the most efficient salesperson she had ever worked with.”</p>\r\n</li>\r\n</ol>\r\n<p><span style=\"color: #000000; font-family: Helvetica;\">For more information about cover letters, or additional career support, contact the Career Management Center at <a href=\"mailto:employer.relations@thunderbird.edu\">employer.relations@thunderbird.edu</a></span><span style=\"color: #000000; font-family: Helvetica;\">.</span></p>\r\n<p>&nbsp;</p>\r\n<div><span style=\"font-family: Times New Roman;\"><span style=\"font-family: Times New Roman;\"><span style=\"color: #000000;\"></span></span></span><hr><span style=\"font-family: Times New Roman;\"><span style=\"color: #000000;\"></span><span style=\"color: #000000;\"> </span></span>\r\n<div><span style=\"color: #000000; font-family: Times New Roman;\"> </span>\r\n<div><span style=\"color: #000000; font-family: Times New Roman;\"> </span>\r\n<p><span style=\"color: #000000; font-family: Times New Roman; font-size: small;\">&nbsp;</span></p>\r\n<span style=\"color: #000000; font-family: Times New Roman;\"> </span></div>\r\n<span style=\"color: #000000; font-family: Times New Roman;\"> </span></div>\r\n<span style=\"color: #000000; font-family: Times New Roman;\"> </span></div>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 640
+    height: 360
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

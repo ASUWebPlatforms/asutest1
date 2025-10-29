@@ -1,0 +1,18 @@
+uuid: 30583b12-44e0-4ed1-b3e9-ce8a9dc71324
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.web_directory
+id: block_content.web_directory.changed
+field_name: changed
+entity_type: block_content
+bundle: web_directory
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

@@ -1,0 +1,27 @@
+uuid: d131d4d0-aa20-48c4-aa3f-68ae776fc056
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.case_series
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats: {  }
+id: node.case_series.body
+field_name: body
+entity_type: node
+bundle: case_series
+label: Abstract
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+  required_summary: false
+field_type: text_with_summary

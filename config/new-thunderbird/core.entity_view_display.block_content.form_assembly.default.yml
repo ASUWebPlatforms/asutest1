@@ -1,0 +1,23 @@
+uuid: 8fe4690d-741f-4eb7-91e8-6e0cffe59986
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.form_assembly
+    - field.field.block_content.form_assembly.body
+  module:
+    - text
+id: block_content.form_assembly.default
+targetEntityType: block_content
+bundle: form_assembly
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true

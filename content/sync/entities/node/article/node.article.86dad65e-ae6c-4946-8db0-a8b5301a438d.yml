@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 86dad65e-ae6c-4946-8db0-a8b5301a438d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-01-10T21:42:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Become a Thunderbird Global Insights Contributor!'
+created:
+  -
+    value: '2018-04-05T21:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-01-10T21:42:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /TGI-contributors
+body:
+  -
+    value: '<p>Thank you for your interest in becoming a contributor for <strong>Thunderbird Global Insights</strong>. As we continue to provide top-tier quality content, we realize that you are among our most valuable sources of insight and engagement. We look forward to working with you!</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 5760
+    height: 3840
+    target_type: file
+    target_uuid: a1376ac3-b1e1-489d-bbcd-463cfcfcded6
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    file:
+      - file.image.a1376ac3-b1e1-489d-bbcd-463cfcfcded6
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

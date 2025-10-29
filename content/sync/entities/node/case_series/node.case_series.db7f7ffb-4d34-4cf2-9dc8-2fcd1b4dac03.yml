@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: db7f7ffb-4d34-4cf2-9dc8-2fcd1b4dac03
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2021-02-01T22:27:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'The Semiconductor Industry'
+created:
+  -
+    value: '2021-02-01T22:26:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-02-01T22:27:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-21-0005
+body:
+  -
+    value: '<p>Semiconductors are the brains of modern electronics.&nbsp; They are used in medical devices, communications, computing, defense, transportation, energy, and technologies of the future such as artificial intelligence, data science, and advanced wireless networks.&nbsp; This case examines the global semiconductor industry and its structure.&nbsp; The case raises several important questions: Is Intel falling behind competitors in the race to make ever more powerful processors?&nbsp; Apple, Amazon, Facebook and other tech firms are designing their own chips - how will this impact the industry? Is the fabless model based on contract manufacturing superior to Intel’s model of designing and making its own branded products?&nbsp; Will Chinese companies close the technology gap with firms like TSMC, Samsung, and Intel?&nbsp; &nbsp;&nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-21-0005
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: fb21e646-4d63-4339-986d-3a9246575132
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2021-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'Public Sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 82faebf9-1074-4611-9b41-ba9fa62bf3cc
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+field_teaching:
+  -
+    value: "The objectives of this case are to help students understand: \r\n1)\tThe nature of global industries \r\n2)\tThe structure and basis for competitive advantage in the semiconductor industry\r\n3)\tThe global interconnectedness of the industry value chain\r\n4)\tKey competitive and geopolitical questions and issues associated with semiconductors"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.fb21e646-4d63-4339-986d-3a9246575132
+      - taxonomy_term.case_series_categories.0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+      - taxonomy_term.case_series_fields.82faebf9-1074-4611-9b41-ba9fa62bf3cc
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b

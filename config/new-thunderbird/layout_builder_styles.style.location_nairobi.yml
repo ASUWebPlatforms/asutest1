@@ -1,0 +1,12 @@
+uuid: 1cf25c29-2597-4cc2-8f4a-c902d7813284
+langcode: en
+status: true
+dependencies: {  }
+id: location_nairobi
+label: 'Location Nairobi'
+classes: "section-background\r\nnairobi"
+type: section
+group: default
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

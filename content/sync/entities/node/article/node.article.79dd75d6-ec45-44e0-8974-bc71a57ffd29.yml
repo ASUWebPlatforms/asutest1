@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 79dd75d6-ec45-44e0-8974-bc71a57ffd29
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-14T19:28:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Thunderbird Students Take Part in the #YouAreWelcomeHere Movement'
+created:
+  -
+    value: '2017-05-11T23:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-14T19:28:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/you-are-welcome-here
+body:
+  -
+    value: "<p>The national #YouAreWelcomeHere campaign, promoted by&nbsp;<a href=\"https://business.facebook.com/nafsa/\" target=\"_blank\">NAFSA Association of International Educators</a>, affirms a shared commitment to provide a diverse, supportive and safe environment to all students. Thunderbird continues to extend a warm welcome to international students.</p>\r\n<p>[[{\"fid\":\"5116\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"You Are Welcome Here - Thunderbird School of Global Management\",\"height\":\"390\",\"width\":\"640\",\"class\":\"panopoly-image-video media-element file-default\"}}]]</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 950
+    height: 513
+    target_type: file
+    target_uuid: 4b8a5893-3fed-4b3f-ad62-218292eca8b1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.4b8a5893-3fed-4b3f-ad62-218292eca8b1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

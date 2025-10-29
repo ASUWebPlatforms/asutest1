@@ -1,0 +1,37 @@
+uuid: 329070ac-efad-4766-a2d5-daf884f2bb89
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.paragraph.image_gallery
+    - field.field.paragraph.gallery_image.field_formatted_text
+    - field.field.paragraph.gallery_image.field_image_link
+    - field.field.paragraph.gallery_image.field_media
+    - field.field.paragraph.gallery_image.field_title
+    - paragraphs.paragraphs_type.gallery_image
+  module:
+    - layout_builder
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+_core:
+  default_config_hash: Nv5ubG6JAkjQWOk84ZsERm9CRjuk9VKhNOVsoWKACBU
+id: paragraph.gallery_image.image_gallery
+targetEntityType: paragraph
+bundle: gallery_image
+mode: image_gallery
+content:
+  field_media:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: image_gallery
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  field_formatted_text: true
+  field_image_link: true
+  field_title: true

@@ -1,0 +1,110 @@
+uuid:
+  -
+    value: 85e55c32-abac-4648-bbbb-3e64199ad9f7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T16:59:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The U.S. - China Wind Power Dispute'
+created:
+  -
+    value: '2016-07-15T21:22:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T16:59:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-15-0017
+body:
+  -
+    value: '<p><span>In 2010, China’s rapid development of wind energy, and specifically, its policies to promote wind turbine manufacturing, had resulted in significant loss of market share in the wind turbine market in China for U.S. and other foreign manufacturers. Although China was clearly violating WTO rules with its trade policies, U.S. and other firms were reluctant to bring a dispute to the WTO for fear of retaliation on the part of the Chinese government in the form of loss of access to the Chinese market. As a result, the United Steel Workers of America (USWA) trade union brought the dispute the WTO. Because the trade violations were so clear, China backed down even before the dispute could get out of the first, consultations, phase of the WTO dispute settlement process.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-15-0017
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95ca5101-0e03-41b8-b83c-faf4576d6cb3
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: bd9918ff-0a0b-4144-a33b-8a5f4e4807fb
+field_case_series_year:
+  -
+    value: '2015-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+field_fields: {  }
+field_teaching:
+  -
+    value: 'This case can be used in a course on states and markets in the global economy, principles of global management, global business environment, or foreign trade to demonstrate how the World Trade Organization (WTO) solves trade disputes – both in theory and in practice. It can be used in a course on the U.S. business environment to demonstrate U.S. trade policy. It can be used in a course on the business environment of Asia to demonstrate China’s role in the global economy. '
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.95ca5101-0e03-41b8-b83c-faf4576d6cb3
+      - taxonomy_term.case_series_industry.bd9918ff-0a0b-4144-a33b-8a5f4e4807fb
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3

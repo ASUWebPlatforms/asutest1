@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 42867f4f-2913-4cbe-b3c3-d2d26c10f357
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: screen_shot_2017-03-28_at_12.46.36_pm.png
+uri:
+  -
+    value: 'public://article/screen_shot_2017-03-28_at_12.46.36_pm_0.png'
+    url: /sites/default/files/article/screen_shot_2017-03-28_at_12.46.36_pm_0.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1912751
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-03-31T14:42:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-31T14:42:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

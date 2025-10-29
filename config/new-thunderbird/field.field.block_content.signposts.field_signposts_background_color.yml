@@ -1,0 +1,23 @@
+uuid: 1164d66f-f906-4fa2-934d-ad585e8b62b9
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signposts
+    - field.storage.block_content.field_signposts_background_color
+  module:
+    - options
+id: block_content.signposts.field_signposts_background_color
+field_name: field_signposts_background_color
+entity_type: block_content
+bundle: signposts
+label: 'Background Color'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: Default
+default_value_callback: ''
+settings: {  }
+field_type: list_string

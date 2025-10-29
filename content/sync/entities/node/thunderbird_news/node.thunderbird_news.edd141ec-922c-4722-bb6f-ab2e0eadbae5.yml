@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: edd141ec-922c-4722-bb6f-ab2e0eadbae5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-10-30T19:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Interview with Dr. Sanjeev Khagram'
+created:
+  -
+    value: '2020-10-30T19:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-10-30T19:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/spreaker
+body:
+  -
+    value: '<p><span>"Thunderbird is truly an inspirational and pivotal institution." Dr. Sanjeev Khagram, Director General and Dean of Thunderbird School of Global Management is interviewed by David Cogan founder of Eliances and host of the Eliances Heroes show.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-10-30T12:30:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 720
+    height: 368
+    target_type: file
+    target_uuid: c0bd3719-946b-4071-8dfb-914cb7fe0a66
+field_news_link:
+  -
+    uri: 'https://www.spreaker.com/user/eliances/dr-sanjeev-khagram-director-general-and-'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.c0bd3719-946b-4071-8dfb-914cb7fe0a66

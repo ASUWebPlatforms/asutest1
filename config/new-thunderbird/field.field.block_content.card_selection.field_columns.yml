@@ -1,0 +1,23 @@
+uuid: ff9d41de-d8c0-4f94-980d-66fe948377e7
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - field.storage.block_content.field_columns
+  module:
+    - options
+id: block_content.card_selection.field_columns
+field_name: field_columns
+entity_type: block_content
+bundle: card_selection
+label: Columns
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: three-columns
+default_value_callback: ''
+settings: {  }
+field_type: list_string

@@ -1,0 +1,120 @@
+uuid:
+  -
+    value: 0b63cbea-5ebe-486a-9b0c-d82241e0aec7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:27:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Petróleos Mexicanos (PEMEX)'
+created:
+  -
+    value: '2016-07-16T00:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:27:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-13-0011
+body:
+  -
+    value: '<p><span>Petróleos Mexicanos (Pemex) was struggling. The national oil company of Mexico, Pemex held total reign over the Mexican oil and gas industry. The largest company in Latin America, it employed 140,000 people, made up 3% of Mexico’s GDP, and provided nearly 40% of the funds for the Mexican government’s budget. But production of oil and gas had been dropping for years, and the single field which had made up more than 50% of total production just five years ago, Cantarell, was in rapid decline. Pemex had been a cash cow for the Mexican state, but was notoriously inefficient and potentially corrupt. For the first time since the 1938 revolution which had nationalized the Mexican oil and gas industry, there was serious consideration of undertaking fundamental change at Pemex. ‘Change could mean everything from altering the Mexican constitution to taking the company public.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-13-0011
+field_case_page_length:
+  -
+    value: '17 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2013-01-01'
+field_case_setting:
+  -
+    value: 'North America/Mexico'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 56cb1ff7-6529-4d29-bef6-05d31c36c384
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+field_teaching:
+  -
+    value: 'This case has been used in both MBA and Executive Education programs to examine the challenges of a national oil company’s operations in a state largely dependent on that industry. Given the deeply embedded government role in the Mexican oil and gas industry as a result of its own constitution, the case can be used to explore government industrial policy—and its challenges—as the resource richness declines. The case is also useful in class discussion and debate over what types of ownership and returns are necessary for global firms to invest and absorb risks for their capital and technology in somewhat anti-market environments.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3
+      - taxonomy_term.case_series_fields.56cb1ff7-6529-4d29-bef6-05d31c36c384
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b

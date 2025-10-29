@@ -1,0 +1,25 @@
+uuid: 514056b6-a602-446b-8d60-e12efc20b0aa
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.stats_carousel
+    - field.field.block_content.stats_carousel.field_signpost_icon
+  module:
+    - entity_reference_revisions
+id: block_content.stats_carousel.default
+targetEntityType: block_content
+bundle: stats_carousel
+mode: default
+content:
+  field_signpost_icon:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: stats
+      link: ''
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  langcode: true

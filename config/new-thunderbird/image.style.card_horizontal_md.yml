@@ -1,0 +1,17 @@
+uuid: b72c9aef-7d8a-47f1-a5ac-24978a6644d4
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: card_horizontal_md
+label: 'Card horizontal md'
+effects:
+  8eb958e0-619a-4f4f-beac-a9fd1d7a40cc:
+    uuid: 8eb958e0-619a-4f4f-beac-a9fd1d7a40cc
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 220
+      height: 171
+      crop_type: focal_point

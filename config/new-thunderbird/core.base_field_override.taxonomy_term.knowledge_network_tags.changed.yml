@@ -1,0 +1,18 @@
+uuid: 306f1e81-aa97-4978-b0fe-b308f895fe56
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.knowledge_network_tags
+id: taxonomy_term.knowledge_network_tags.changed
+field_name: changed
+entity_type: taxonomy_term
+bundle: knowledge_network_tags
+label: Changed
+description: 'The time that the term was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

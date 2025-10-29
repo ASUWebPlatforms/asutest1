@@ -1,0 +1,43 @@
+display:
+  default:
+    display_title: Bawaan
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: Tindakan
+        name:
+          label: Penulis
+        changed:
+          label: Diperbaharui
+        operations:
+          label: Operasi-operasi
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Jumlah item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+            offset_label: Letak
+      exposed_form:
+        options:
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sortir dengan'
+          sort_asc_label: 'Urutan turun'
+      filters:
+        langcode:
+          expose:
+            label: Bahasa
+  page_unapproved:
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: Tindakan
+        name:
+          label: Penulis
+        changed:
+          label: Diperbaharui
+        operations:
+          label: Operasi-operasi
+      filters:
+        langcode:
+          expose:
+            label: Bahasa

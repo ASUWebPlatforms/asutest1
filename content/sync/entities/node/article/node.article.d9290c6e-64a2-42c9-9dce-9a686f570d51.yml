@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: d9290c6e-64a2-42c9-9dce-9a686f570d51
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:11:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: f6c2187b-4cbe-4450-a0ef-519b51f07bfe
+title:
+  -
+    value: 'What I Learned From Mike Wallace: Close The Deal'
+created:
+  -
+    value: '2017-02-05T20:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:11:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/mike-wallace
+body:
+  -
+    value: "<p>[[{\"fid\":\"4198\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>Mike Wallace, Correspondent of CBS <em>60 Minutes</em></strong></p>\r\n<div class=\"prose\">\r\n<p>In the deep recesses of my memory is a ‘mind chalet’ with different rooms for different purposes. The one I visit occasionally, like going to church on holidays, is where I keep the really meaningful things that somehow got lost in the shuffle.</p>\r\n<p>One of the big moments in that storehouse of lost dreams was a collaboration with <em>60 Minutes</em> correspondent, Mike Wallace.</p>\r\n<p>I first met Wallace at an award dinner I threw for Morley Safer, his&nbsp;<em>60 Minutes&nbsp;</em>co-host.</p>\r\n<div class=\"slate-resizable-image-embed slate-image-embed__resize-full-width\" data-imgsrc=\"https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAx0AAAAJDAyMWFmY2FkLTRjYzEtNDQ3Ny1hOTM0LTkxYmQ5MzY2ZjU2Nw.jpg\"><img src=\"https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAx0AAAAJDAyMWFmY2FkLTRjYzEtNDQ3Ny1hOTM0LTkxYmQ5MzY2ZjU2Nw.jpg\"></div>\r\n<p><em>Morley Safer, correspondent for 60 Minutes</em></p>\r\n<p>Wallace was the emcee and he gave what you would expect, a sharp, funny, warm and sentimental hug of an introduction with a few jabs to Safer’s ribs. He started off by observing Safer liked to think of himself as ‘everyman’ but it took a great leap of faith to drive around New York in a Rolls Royce and wear Turnbull and Asser ties and see yourself as an ordinary guy. At the end of the evening, Safer had a few more laugh lines, and over&nbsp;drinks,&nbsp;we agreed he was lucky to have such a lousy friend as Wallace.</p>\r\n<div class=\"slate-resizable-image-embed slate-image-embed__resize-full-width\" data-imgsrc=\"https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAqZAAAAJGFmODgxNmYzLWRmMzEtNDNjMS1iOTdhLWE3YTIwNGM0NzY2NA.jpg\"><img src=\"https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAqZAAAAJGFmODgxNmYzLWRmMzEtNDNjMS1iOTdhLWE3YTIwNGM0NzY2NA.jpg\"></div>\r\n<p>Then Mike asked me about my work at Forbes and I talked about his work at 60 Minutes and how we were doing similar investigative journalism stories. He said, “Jeff, why don’t we do something together, you publish it and we film it?” He said when he returned from some travel, he'd like me to come over to CBS.</p>\r\n<p>Most of us don’t think about celebrities on TV having real offices. We think they work in a studio where staplers and water jugs get filled magically.</p>\r\n<div class=\"slate-resizable-image-embed slate-image-embed__resize-full-width\" data-imgsrc=\"https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAxRAAAAJGM3NTM5OWQ3LTc3YzAtNGEzYy05ODU5LTBjYTgwYTI1ZDg2OA.jpg\"><img src=\"https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAxRAAAAJGM3NTM5OWQ3LTc3YzAtNGEzYy05ODU5LTBjYTgwYTI1ZDg2OA.jpg\"></div>\r\n<p>That is how I found myself waiting for Wallace to bring me back to his office overlooking the Hudson River off 9th avenue.</p>\r\n<p>Wallace greeted me in the waiting room without a jacket, in an open-collared shirt. He held court in a midsized room you might expect of a vice president at an office supply company. Most of the big shots he took down on&nbsp;<em>60 Minutes</em>&nbsp;would be shocked to see how vulnerable he seemed behind a simple desk placed across from the window with two visitor chairs in front. This was the man about whom it was said, \"the most fear-inspiring four words in journalism are 'Mike Wallace is calling.'\"</p>\r\n<p>Then Morley Safer and Don Hewitt, the famed producer of&nbsp;<em>60 Minutes</em>, poked their heads in, asking us if we wanted coffee. Morley looked at me and said, \"just because you gave me an award doesn't mean I get you coffee, but I'll make an exception.\" I thought, who is going to believe that Morley Safer fetched me a cup of java?</p>\r\n<p>Safer brought back coffee mugs and sat down on Wallace's credenza. The two of them looked like hard working, shirtsleeves journalists, except for a few extra zeros next to their salaries. Finally, we got around to our collaboration and came up with a plan that was as pristine as it was daring. Forbes would write a story and get it to 60 Minutes the week before it came out so they could air on Sunday and we would publish the following Monday. It had never been tried on TV or in publishing. Much could go wrong, but a lot could go very right.</p>\r\n<p>I brought the deal back to Forbes Magazine where my editor was as lukewarm as if I suggested publishing on cheesecloth instead of glossy paper. In the magazine world, a publisher and editor collaborate, they don’t tell each other what to do, a very healthy way to run a business. I even took him to meet Wallace to see if the charm would rub off and help to broker the deal, but no dice. The editor felt it could backfire, given&nbsp;<em>60 Minutes</em>&nbsp;reputation for savagery. Some deals aren't destined to happen, no matter how good they seem. In the end, I think I judged it right, but we will never know, and Wallace and Safer are gone now.</p>\r\n<p>A smart boss once told me, 'time kills deals.' I didn't close the deal and all the solid reasons in the world won't change that fact.&nbsp;</p>\r\n<p>The next time I get an idea this good, I’ll make sure to park it in the waiting room of the mind chalet.&nbsp;</p>\r\n</div>\r\n<p><strong>Author’s Bio</strong></p>\r\n<p>Jeff Cunningham is a global leadership advocate, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at&nbsp;ASU’s Thunderbird School of Global Management&nbsp;and was the former publisher of Forbes Magazine, an internet CEO and venture capital partner.</p>\r\n<p>He is a chronicler of iconic leaders. As an interviewer/host, he created a YouTube interview series now co-produced by @Thunderbird, Iconic Voices, featuring mega moguls like Warren Buffett to Jeff Immelt at&nbsp;<a href=\"http://www.iconicvoices.tv\" target=\"_blank\">IconicVoices.TV</a>. His articles are posted to LinkedIn and Medium via&nbsp;<a href=\"http://www.theartofleaders.com\" target=\"_blank\">TheArtofLeaders.com</a>.</p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1080
+    target_type: file
+    target_uuid: 98b40cf9-53fa-4719-8c0d-a67c6d849baf
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.f6c2187b-4cbe-4450-a0ef-519b51f07bfe
+    file:
+      - file.image.98b40cf9-53fa-4719-8c0d-a67c6d849baf
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

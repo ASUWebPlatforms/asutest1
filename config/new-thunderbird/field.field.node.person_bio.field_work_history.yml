@@ -1,0 +1,27 @@
+uuid: 33a955dd-85e0-4ca0-b39f-a647dd227f71
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_work_history
+    - node.type.person_bio
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - basic_html
+      - full_html
+id: node.person_bio.field_work_history
+field_name: field_work_history
+entity_type: node
+bundle: person_bio
+label: 'Work History'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

@@ -1,0 +1,10 @@
+uuid: 878027d2-984a-45df-97c5-acd9226d6581
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.image_gallery_thumbnail
+label: 'Image gallery thumbnail'
+targetEntityType: media
+cache: true

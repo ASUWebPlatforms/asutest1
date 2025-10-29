@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: a072214d-e2fd-4516-8a7c-c6d0eda09d28
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-20T16:04:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Nothing Goes Viral Like a Virus'
+created:
+  -
+    value: '2017-05-24T18:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-20T16:04:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/nothing-viral-like-virus
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">The Mongols taught us if you want something to go viral, absolutely nothing beats a&nbsp;virus.</h3>\r\n<h4 style=\"text-align: center;\">What can disruption teach us? Does it destroy or does it transform? Can it revive us? The 14th Century shares its secrets.</h4>\r\n<p class=\"graf graf--p graf-after--p\">On October 1347, twelve Genoese merchant ships bearing a ghostly appearance pulled into port at Messina. Most of the sailors were infected or dead. The Sicilians called it “black death,” so named because they were returning from the Crimean city of Caffa, a seaport on the Black Sea.</p>\r\n<p class=\"graf graf--p graf-after--p\">Mongols from Central Asia brought the infection with them as they laid siege to the city. Caffa’s frightened citizenry hid behind ramparts and Mongols weaponized the virus by hurling infected bodies over the walls. When the sailors departed, the disease was bound for Sicily and all of Europe.</p>\r\n<p class=\"graf graf--p graf-after--p\">Before it would run its course, the Plague would kill 35 percent of the known world and nearly half the population of England. It was an equal opportunity disruptor, sparing no one, neither kings nor queens and especially, not children.</p>\r\n<p class=\"graf graf--p graf-after--p\">[[{\"fid\":\"5287\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"field_file_image_title_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"field_file_image_title_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\"}},\"attributes\":{\"alt\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"title\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--figure\">The symptoms of the Bubonic Plague are the Medieval origin of a child’s cry of “‘booboo,” as they include agonizingly swollen lymph glands that ooze into body sores. The <a href=\"https://www.cdc.gov/plague/faq/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.cdc.gov/plague/faq/\">Center for Disease Control and Prevention</a>, notes, “Patients develop sudden onset of fever, headache, chills, and weakness and one or more swollen, tender and painful lymph nodes (<em>technically called buboes</em>).” When a mother asks her child if a ‘booboo’ hurts, she has no idea how much history is being recalled.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">The Plague gave birth to one of the world’s greatest disruptions.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Unfortunately, it took science several hundred years to catch up. The bacteria prey on Oriental Rat fleas from Central Asia. When the rats die, fleas move to human hosts. A person contracting the Plague has a useful life of less than a week. There are antibiotics, but still there is no vaccine, even today.</p>\r\n<p class=\"graf graf--p graf-after--h3\">[[{\"fid\":\"5288\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"field_file_image_title_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"field_file_image_title_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\"}},\"attributes\":{\"alt\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"title\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"3\"}}]]</p>\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h3 graf-after--figure\">The world caved&nbsp;in.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Those who lived fled, and those who stayed buried the dead behind, and that was the rhythm of life. People were convinced touching someone or their clothing would spread the disease, so friends, family, and even children were shunned. If you were an urban dweller, you sniffed perfume as you walked the streets, hiding the smell of death’s decay.</p>\r\n<p class=\"graf graf--p graf-after--p\">This was disruption on a cataclysmic, global scale.</p>\r\n<p class=\"graf graf--p graf-after--p\">Or was it?</p>\r\n<p class=\"graf graf--p graf-after--p\">The Black Death was a time of anguish on a scale unimaginable, but as society was turned on its head, it transformed every aspect of life, which if you survived, was far better.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Disruption can be good news if you transform.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">It led to an abrupt disruption of the Medieval caste system as peasants revolted against powerful feudal lords, who in turn had to accommodate them as the employee population dwindled. And as villages emptied, people moved to villages where they weren’t immediately welcome or didn’t understand the language or customs, leading to wariness of strangers. So they learned new languages and adopted new customs to assimilate.</p>\r\n<p class=\"graf graf--p graf-after--p\">Fewer people meant higher wages and higher living standards. Estates inherited by a handful of heirs created a more democratized landed gentry. A surplus of empty land and farms made bargains available to those who now had the cash to spend.</p>\r\n<p class=\"graf graf--p graf-after--p\">The Medieval status symbol wasn’t the coachman and carriage any more, but life itself. So hierarchical society broke down and flattened out. Not only was life mobile due to changing communities, but people’s status suddenly became mobile, too.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Disruption can make us stronger.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">As the great German philosopher Nietzsche pointed out, \"what doesn't kill us makes us stronger” and it also has the power to transform us as part of the bargain. It did both to the Europeans and we need to weigh this against the devastation if we are to have a complete picture of their society.</p>\r\n<p class=\"graf graf--p graf-after--p\">If you like Saturday Night Live, you should thank the Plague. The impetus for literary comedy was Boccaccio, who wrote the Decameron to distract people from their troubles during the time of the disease. He also chose not to write in Latin but in Florentine, his native language, so everyone could enjoy it.</p>\r\n<p class=\"graf graf--p graf-after--p\">If you enter a hospital emergency room, the Plague started special sections for people with illnesses. Before then, everyone was lumped together. If you enjoy English (vs. Latin) or being middle class, even democracy itself, and humanism which teaches us to rearrange mankind’s here and now, then you owe a debt of gratitude to the Plague — or more accurately, the transformation it led the survivors to make.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5290\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"field_file_image_title_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"field_file_image_title_text[und][0][value]\":\"Jeff Cunningham - Thunderbird Series on Disruption\"}},\"attributes\":{\"alt\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"title\":\"Jeff Cunningham - Thunderbird Series on Disruption\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"4\"}}]]\r\n<p class=\"caption-text\">The Decameron by Giovanni Boccaccio, the first work of comedy, written in Florentine vernacular (not Latin) bringing literature to the masses</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h3 graf-after--figure\">Disruption will always be with&nbsp;us.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">We don’t worry about the Bubonic Plague any longer (there <em>are</em> still a few hundred reported cases a year). Society eventually recovered and came to grips with the pestilence, but until sanity resumed, it caused so much destruction to innocents that it could be referred to as a second plague.</p>\r\n<p class=\"graf graf--p graf-after--p\">When we experience our own global disruptions, in immigration or disease or terror, we should remember, as the Medieval world teaches us, take our time to understand, analyze, and persevere against ignorance, arrogance, and resistance to truth.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">By learning the troubling lessons of the past, perhaps we can skip a few.</p>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n<hr>\r\n<p><em>Two excellent sources for those wishing to learn more about this period in history:</em></p>\r\n<ul>\r\n<li><a href=\"http://nationalinterest.org/blog/the-black-death-how-rats-fleas-germs-almost-wiped-out-europe-19745?page=show\" target=\"_blank\">The Black Death: How Rats, Fleas and Germs almost Wiped out Europe</a></li>\r\n<li><a href=\"http://listverse.com/2015/01/28/10-good-things-we-owe-to-the-black-death/\" target=\"_blank\">10 Good Things We Owe to the Black Death</a></li>\r\n</ul>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1000
+    height: 630
+    target_type: file
+    target_uuid: c8ddcace-fa04-4dc9-a887-5eb5f484560a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.c8ddcace-fa04-4dc9-a887-5eb5f484560a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

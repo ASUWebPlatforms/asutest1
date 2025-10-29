@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 6976d4d3-2d87-4ce0-ba63-5d4c21fbaae7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-06-06T17:00:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Chapter Connections May 2019'
+created:
+  -
+    value: '2019-05-03T23:01:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-06-06T17:00:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/chapter-connections-may-2019
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"72716\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"101\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"101\"}}]]</p>\r\n<p><strong>Scottsdale-</strong> The Scottsdale chapter enjoyed one last final Last Thursday before they take a break for the summer.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"72717\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"102\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"102\"}}]]</p>\r\n<p><strong>Singapore-</strong> Singapore March First Tuesday photo.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"72719\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"104\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"104\"}}]]</p>\r\n<p><strong>Singapore-</strong> Singapore April First Tuesday photo.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"72720\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"105\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"105\"}}]]</p>\r\n<p><strong>Kona</strong>- April First Tuesday Lunch in Konda brought together Jim Echle ‘72, Michiyo Echle, Scott Engers ‘82 and Maryann Engers ‘81</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73592\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"photo of Nairobi chapter connections meeting in April, 2019\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"107\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"photo of Nairobi chapter connections meeting in April, 2019\",\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"alt\":\"photo of Nairobi chapter connections meeting in April, 2019\",\"class\":\"media-element file-default\",\"data-delta\":\"107\"}}]]</p>\r\n<p><strong>Nairobi -</strong>&nbsp;Thunderbird’s Philip Thigo met with some of the local Nairobi T-birds for May First Tuesday.&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73593\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"photo of the Washington, D.C. chapter visiting the Embassy Open House\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"108\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"photo of the Washington, D.C. chapter visiting the Embassy Open House\",\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"alt\":\"photo of the Washington, D.C. chapter visiting the Embassy Open House\",\"class\":\"media-element file-default\",\"data-delta\":\"108\"}}]]</p>\r\n<p><strong>Washington, D.C -</strong>&nbsp;The DC Chapter attended the Embassy Open House Tour Day. Over 30 T-birds attended and they incorporated a lunch break that supported Project Artemis alumna's Kandahar Treasure and Global Education Ambassador's building of a school in Guatemala.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73594\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of Professor Jeff Cunningham with Seoul chapter\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"109\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of Professor Jeff Cunningham with Seoul chapter\",\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"alt\":\"Photo of Professor Jeff Cunningham with Seoul chapter\",\"class\":\"media-element file-default\",\"data-delta\":\"109\"}}]]</p>\r\n<p><strong>Seoul -</strong>&nbsp;</p>\r\n<p>Professor Jeff Cunningham visited T-birds in Seoul as part of his trip across Asia on behalf of the school.</p>\r\n<p>&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73595\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of Professor Jeff Cunningham with Shanghai chapter\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"110\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of Professor Jeff Cunningham with Shanghai chapter\",\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"alt\":\"Photo of Professor Jeff Cunningham with Shanghai chapter\",\"class\":\"media-element file-default\",\"data-delta\":\"110\"}}]]</p>\r\n<p><strong>Shanghai -</strong>&nbsp;</p>\r\n<p>T-birds in Shanghai were hosted to an alumni webinar at Chinavest presented by Professor Jeff Cunningham.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73596\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"photo of Professor Jeff Cunningham with Tokyo chapter \",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"111\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"photo of Professor Jeff Cunningham with Tokyo chapter \",\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"alt\":\"photo of Professor Jeff Cunningham with Tokyo chapter \",\"class\":\"media-element file-default\",\"data-delta\":\"111\"}}]]</p>\r\n<p><strong>Tokyo -</strong>&nbsp;Tokyo alumni hosted Professor Jeff Cunningham for a webinar event where he made a presentation on his research and also shared developments at the school.&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73597\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"photo of Professor Jeff Cunningham with Jakarta chapter\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"112\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"photo of Professor Jeff Cunningham with Jakarta chapter\",\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"alt\":\"photo of Professor Jeff Cunningham with Jakarta chapter\",\"class\":\"media-element file-default\",\"data-delta\":\"112\"}}]]</p>\r\n<p><strong>Jakarta -</strong>&nbsp;Professor Jeff Cunningham joined T-birds in Jakarta for their monthly First Tuesday gathering</p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: 'Local chapters of Thunderbird School of Global Management alumni monthly get-togethers for 2019. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: 1ef30b6c-edb3-463d-a2c6-baa44d6e1c5a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.1ef30b6c-edb3-463d-a2c6-baa44d6e1c5a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

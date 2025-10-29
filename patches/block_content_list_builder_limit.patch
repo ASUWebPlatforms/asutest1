@@ -1,0 +1,23 @@
+diff --git a/core/modules/block_content/src/BlockContentTypeListBuilder.php b/core/modules/block_content/src/BlockContentTypeListBuilder.php
+index 9e7a2457..7daff19d 100644
+--- a/core/modules/block_content/src/BlockContentTypeListBuilder.php
++++ b/core/modules/block_content/src/BlockContentTypeListBuilder.php
+@@ -50,4 +50,18 @@ protected function getTitle() {
+     return $this->t('Custom block types');
+   }
+ 
++  /**
++   * {@inheritdoc}
++   */
++  public function load() {
++    $this->limit = 10;
++    $entity_ids = $this->getEntityIds();
++    $entities = $this->storage->loadMultipleOverrideFree($entity_ids);
++
++    // Sort the entities using the entity class's sort() method.
++    // See \Drupal\Core\Config\Entity\ConfigEntityBase::sort().
++    uasort($entities, [$this->entityType->getClass(), 'sort']);
++    return $entities;
++  }
++
+ }

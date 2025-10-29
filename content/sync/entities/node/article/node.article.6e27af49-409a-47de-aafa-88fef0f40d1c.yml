@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 6e27af49-409a-47de-aafa-88fef0f40d1c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Then & Now: Thunderbird logo, 1940s to 2014'
+created:
+  -
+    value: '2016-06-24T17:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/then-now-logos
+body:
+  -
+    value: "<p>[[{\"fid\":\"1114\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Many schools retrofit their logos onto buildings, signs and other surfaces around campus. At Thunderbird the entire campus is the logo. Architects who laid out Thunderbird Field 1 in the early 1940s arranged the trees, buildings and roads into the shape of the mythological Native American creature that has represented Thunderbird for more than 70 years. Founders Hall rose at the heart of Thunderbird, while pilots kept their Stearman planes lined up as tail feathers. Pilots displayed the original red and black Thunderbird insignia on their planes from 1940 to 1945. When the airfield became the world’s first global business school in 1946, the logo remained. Since then it has changed many times — along with the school’s name — but the spirit of Thunderbird has remained. The school adopted its current logo design in 2007, but historical variations remain visible around campus. Below are variations of the logo still visible on campus.</p>\r\n<p><strong>Caption:&nbsp;</strong>An aerial photograph shows Thunderbird Field 1 in 1943 with the bird’s “head” on the right at the intersection of Greenway Road and 59th Avenue.</p>\r\n<p>&nbsp;[[{\"fid\":\"1115\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: 5a51f16a-f3ae-4b96-9934-cef9094680ce
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:02:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Enersis: Global Strategy in the Electric Power Sector'
+created:
+  -
+    value: '2016-07-27T22:02:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:02:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-99-0001
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case describes the recent history of Enersis (Chile), the largest private electric company in Latin America, emphasizing its expansion into electric power generation and distribution outside of its home country. As a result of significant governmental pressure to limit domestic expansion, the cross-border alternative was the chosen path of development. The case documents the evolution of Enersis from a state-owned electric power distribution company to a privatized power generator and distributor, to multinational powerhouse.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-99-0001
+field_case_page_length:
+  -
+    value: '19 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'Chile, 1998'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 82faebf9-1074-4611-9b41-ba9fa62bf3cc
+field_teaching:
+  -
+    value: "The case is useful in illustrating the many issues confronting a Latin American firm in expanding cross-border. Deregulation, privatization, and increasing entrepreneurship upon the part of management are explored. The case allows an in-depth discussion of whether there may be significant cultural differences across Latin American countries, whether the firm possesses or can acquire the needed cross cultural management skills and resources. According to management, these were issues of small consequence, the primary issue confronting further expansion, in their eyes, being limited availability of capital.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.82faebf9-1074-4611-9b41-ba9fa62bf3cc

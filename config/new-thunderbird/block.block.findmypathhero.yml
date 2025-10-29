@@ -1,0 +1,30 @@
+uuid: e889cc71-2dc5-4104-afee-e24dbd3def7e
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:hero:45dd6b02-d9a6-4b11-9223-6ef6afaf10d6'
+  module:
+    - block_content
+    - system
+  theme:
+    - thunderbird
+id: findmypathhero
+theme: thunderbird
+region: pre_content
+weight: -14
+provider: null
+plugin: 'block_content:45dd6b02-d9a6-4b11-9223-6ef6afaf10d6'
+settings:
+  id: 'block_content:45dd6b02-d9a6-4b11-9223-6ef6afaf10d6'
+  label: 'Find my Path hero'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: '/find-my-path/*'

@@ -1,0 +1,12 @@
+uuid: a7c623d8-3786-424f-920f-bb0da94c273f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fF870ymmwkuQMpL_bXOOT0la_YsZ86x6Pa0BNZdU3ts
+id: tooltip
+label: Tooltip
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

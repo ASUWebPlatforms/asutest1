@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 53dc68c8-d366-43de-a40e-be9c793a5cd7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-22T18:18:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'T-bird Angels Take Flight'
+created:
+  -
+    value: '2016-08-23T08:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T18:18:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/angels-take-flight
+body:
+  -
+    value: "<p>Come join us in our journey through Romania!</p>\r\n<p>Team T-bird Angels will use international business knowledge to analyze how local and Small Medium Enterprises (SMEs) encounter challenges in the Romanian environment. Help us understand why are these SMEs managed under Romanian principles underperforming if compared to foreign managed SMEs, and what is causing such performance gap? Why are these Romanian entrepreneurs struggling to compete with foreign-owned SMEs? The political, economic, and social analysis coincides perfectly with team T-bird Angels Thunderbird education thus far, and all of its teammates are very enthusiastic to engage in this project and figure out exactly what needs to be done in order to increase the level of competitiveness of Romanian entrepreneurs. What interventions and guidance will be critical in increasing the competitiveness of these entrepreneurs as Romania looks towards the future while moving away from the reminiscence of their soviet past? Follow us in our journey as we find the answer to this question.</p>\r\n<p>Our team is very excited to get started! What are we most looking forward to?&nbsp;</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"3932\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Mahmood, a professional financial expert and entrepreneur with skills in leadership and management specializes in strategic planning for startups as well as management of disruptive innovative products. As an entrepreneur, he is very excited for the opportunity to work as a consultant and to use his expertise to implement the early stages of an accelerator program.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"3933\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Chris, passionate for international business and travel, has great interest in entering Management Consulting upon graduation from Thunderbird. He is excited for the opportunity to head to Romania to consult for Babes Bolyai University in Cluj and potentially lay the foundations for Romania’s first-ever Business Accelerator program. He is looking forward to the variety and the challenge that lies ahead.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"3935\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Prita has expertise in project management, market research, and market analysis. She has led projects in the Middle East that required strategic skills to run business operations in the education industry. She holds several leadership positions in Thunderbird student clubs. She is looking forward to work on the business case for this accelerator, which would present invaluable opportunities to learn the peculiarities and the commonalities of global business. She is enthusiastic specifically to strengthen her understanding of Romanian business culture, and help the founders of each business in their entrepreneurial journey.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"3936\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>&nbsp;Hannah has previously worked in sales and marketing in the luxury goods industry. She has great interest in running her own business in the future. She looks forward to understand more about business opportunities in Romania in conjunction with the client’s accelerator program. She wants to learn more about the dynamic and complex career of a consultant in a foreign market.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"3937\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Isabel has worked in a variety of roles in both the public and private sector. She worked in India, South Korea, and China with education, business development, international marketing, global market access, translation and localization. She loves learning languages, and while working and studying internationally she has had the opportunity to learn 5 of them. She is very motivated to work on this project in a European emerging market with such a diverse team with complementary skills.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 480
+    height: 360
+    target_type: file
+    target_uuid: 22e939ea-a45e-4bbb-9ae1-6bb3383c0090
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.22e939ea-a45e-4bbb-9ae1-6bb3383c0090
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

@@ -1,0 +1,55 @@
+
+{{ attach_library('tb_gdmi/build_report_form') }}
+{{ attach_library('tb_gdmi/build_report_actions') }}
+
+<div class="reports-section build-report row">
+  <div class="col-md-5">
+      <h3>Build your PDF Report</h3>
+      <p>You can select the GDMI assessment instance that you would like to be referred to in a PDF report of your results. You may download or email the PDF report.</p>
+  </div>
+  <div class="col-md-7">
+    <form class="build-report__form">
+      <div class="inline-select">
+        <label for="selected-gdmi">Select GDMI:</label>
+        <select id="selected-gdmi" name="selected_gdmi" class="form-select custom-select">
+          <option value="0">Select GDMI for the report</option>
+          {% for key, item in options %}
+            <option value="{{ key }}">{{ item }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="gdmi-check-form-group">
+        <label for="download-pdf">Download PDF:</label>
+        <input class="form-control gdmi-check" id="download-pdf" name="download_pdf" type="checkbox">
+      </div>
+      <div>
+        <div class="gdmi-check-form-group">
+          <label for="email-report">Email PDF report to:</label>
+          <input class="form-control gdmi-check" id="email-report" name="email_report" type="checkbox">
+        </div>
+      </div>
+      <div class="build-report__email-options">
+        <div class="email-options-label text-muted"><span>Recipients:</span></div>
+        <div class="email-options-fields">
+          <div class="d-flex align-items-center">
+            <input id="self-report" name="self_report" type="checkbox" class="form-control" disabled/>
+            <label for="self-report" class="mb-0 text-muted">Self</label>
+          </div>
+          <div class="d-flex align-items-center">
+            <input id="admin-report" name="admin_report" type="checkbox" class="form-control" disabled/>
+            <label for="admin-report" class="mb-0 text-muted">Admin</label>
+            <select id="admin-email" name="admin_email" class="form-select custom-select" disabled>
+              <option value="0">Select Admin to email report to</option>
+            </select>
+          </div>
+          <div class="d-flex align-items-center">
+            <input id="other-report" name="other_report" type="checkbox" class="form-control" disabled/>
+            <label for="other-report" class="mb-0 text-muted">Other:</label>
+            <input id="other-email" name="other_email" class="form-control" type="email" placeholder="Enter email address (example@email.com)" disabled/>
+          </div>
+        </div>
+      </div>
+      <buttom id="generate-report" type="buttom" class="btn btn-gray">GENERATE AND DOWNLOAD REPORT <i class="fas fa-file-pdf ml-2"></i></buttom>
+    </form>
+  </div>
+</div>

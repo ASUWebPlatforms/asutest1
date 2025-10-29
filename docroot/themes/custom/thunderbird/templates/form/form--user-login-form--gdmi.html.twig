@@ -1,0 +1,31 @@
+{#
+/**
+ * @file
+ * Template for the login form element.
+ *
+ * Available variables
+ * - attributes: A list of HTML attributes for the wrapper element.
+ * - children: The child elements of the form.
+ *
+ * @see template_preprocess_form()
+ *
+ * @ingroup themeable
+ */
+#}
+<div class="gdmi-form gdmi-login-form container">
+  <div class="gdmi-form-body row h-100 p-0 m-0">
+    <div class="gdmi-login-form__left col-md-7">
+      <h1 class="gdmi-form__title">{{ 'GDMI Login'|t }}</h1>
+      <span class="gdmi-form__create-account">
+        {{ 'OR'|t }} <a href="{{ path('user.register') }}">{{ 'CREATE ACCOUNT'|t }}</a>
+        <i class="fas fa-arrow-right ml-2" aria-hidden="true"></i>
+      </span>
+      <form{{ attributes }}>
+        {{ children }}
+      </form>
+    </div>
+    <div class="gdmi-login-form__right col-md-5 p-0">
+      <img src="{{ element.image_url['#value'] }}"/>
+    </div>
+  </div>
+</div>

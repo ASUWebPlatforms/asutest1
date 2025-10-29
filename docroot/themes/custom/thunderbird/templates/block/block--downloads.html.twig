@@ -1,0 +1,37 @@
+{#
+/**
+ * @file
+ * Template for a block.
+ */
+#}
+{% set classes = classes | default([]) | merge([
+  'block',
+  bundle ? 'block--' ~ bundle|clean_class,
+  id ? 'block--' ~ id|replace({"_": "-"})|clean_class,
+  base_plugin_id ? base_plugin_id|clean_class,
+  derivative_plugin_id ? derivative_plugin_id|replace({"_": "-"})|clean_class,
+])|merge(utility_classes ? utility_classes : [])
+%}
+<div{{ attributes|without('id').addClass(classes) }}>
+  {{ title_prefix }}
+  {{ title_suffix }}
+  <div class="table">
+    <h3 class="heading">{{ content.field_title }}</h3>
+    <div class="wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>{{ content.field_column_title_1 }}</th>
+            <th>{{ content.field_column_title_2 }}</th>
+            <th>{{ content.field_column_title_3 }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for key, row in content.field_table_content if key|first != '#' %}
+            {{ row }}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

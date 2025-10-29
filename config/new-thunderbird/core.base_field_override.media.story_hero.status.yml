@@ -1,0 +1,22 @@
+uuid: b4873671-9b4f-4adc-a37a-5a4e291ac7ad
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.story_hero
+id: media.story_hero.status
+field_name: status
+entity_type: media
+bundle: story_hero
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

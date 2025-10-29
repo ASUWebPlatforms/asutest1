@@ -1,0 +1,54 @@
+uuid: 7e9d860e-e7ff-453e-9a76-3a5832f8fe7a
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+    - options
+id: block_content.field_content_type
+field_name: field_content_type
+entity_type: block_content
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: news
+      label: News
+    -
+      value: case_series
+      label: 'Case Series'
+    -
+      value: certificate
+      label: Certificate
+    -
+      value: degree
+      label: Degree
+    -
+      value: event
+      label: Event
+    -
+      value: insight
+      label: Insight
+    -
+      value: partner
+      label: Partner
+    -
+      value: thunderbird_news
+      label: 'Thunderbird in the News'
+    -
+      value: person_bio
+      label: 'Faculty bio'
+    -
+      value: asu_news
+      label: 'News (ASU)'
+    -
+      value: life_long_learning
+      label: 'Lifelong Learning'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

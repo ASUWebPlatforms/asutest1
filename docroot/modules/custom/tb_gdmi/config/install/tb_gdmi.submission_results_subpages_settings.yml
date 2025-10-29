@@ -1,0 +1,32 @@
+psychological:
+  image: ''
+  intro_text:
+    value: ""
+    format: full_html
+  bottom_text:
+    value: ""
+    format: full_html
+intellectual:
+  image: ''
+  intro_text:
+    value: ""
+    format: full_html
+  bottom_text:
+    value: ""
+    format: full_html
+social:
+  image: ''
+  intro_text:
+    value: ""
+    format: full_html
+  bottom_text:
+    value: ""
+    format: full_html
+digital:
+  image: ''
+  intro_text:
+    value: ""
+    format: full_html
+  bottom_text:
+    value: ""
+    format: full_html

@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 60f100a9-6484-4542-9c42-a4784a339129
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:54:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Elon Musk Goes To Charm School'
+created:
+  -
+    value: '2018-08-02T17:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:54:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/elon-musk-goes-charm-school
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">Wall Street thought Elon Musk was apologizing. He was letting them know he’s been studying for the next chapter of his incredible journey.</h3>\r\n<p>[[{\"fid\":\"63068\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Elon Musk Goes to Charm School\",\"field_file_image_title_text[und][0][value]\":\"Elon Musk Goes to Charm School\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Elon Musk Goes to Charm School\",\"field_file_image_title_text[und][0][value]\":\"Elon Musk Goes to Charm School\"}},\"attributes\":{\"alt\":\"Elon Musk Goes to Charm School\",\"title\":\"Elon Musk Goes to Charm School\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--figure\">“I want to apologize,” was the sweetest thing Wall Street has ever heard from Elon Musk. That simple mea culpa on his recent earnings call led to a 10% increase in the share price of Tesla, or more than $1 billion per word. But the apology is only the start. The episode is part of a broader transformation to come — for the company and the iconic founder and inventor. One that may surprise his detractors, and one he has made many times before.</p>\r\n<p class=\"graf graf--p graf-after--p\">During the call, Musk&nbsp;<a href=\"https://www.cnbc.com/video/2018/08/02/tesla-ceo-elon-musk-earnings.html\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.cnbc.com/video/2018/08/02/tesla-ceo-elon-musk-earnings.html\">added</a>&nbsp;a few sweeteners: the company would be cash flow positive by the next quarter and every quarter after that, and production would ramp up. Then he apologized to every analyst he berated on the last call, one by one. From a Wall Street perspective, it doesn’t get much better than making money and hearing Elon Musk say he’s sorry.</p>\r\n<p class=\"graf graf--p graf-after--p\">It is a far cry from a few months back when Musk sounded more like a petulant teenager, “don’t make a federal case out of it,” and a bill collector waving away a dead beat’s argument, “these questions are so dry, they’re killing me.”</p>\r\n<p class=\"graf graf--p graf-after--p\">After that led to a stock crash of 8%, the pundits predicted the inventor was <span>genuinely</span>&nbsp;insane: “I don’t think there’s a more bizarre earnings call I’ve listened to.” said Paul Argenti, a professor at Dartmouth’s Tuck School of Business. The&nbsp;<a href=\"https://www.washingtonpost.com/news/on-leadership/wp/2018/05/04/elon-musk-got-bored-and-shareholders-took-the-hit/?utm_term=.60834f469dd9\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.washingtonpost.com/news/on-leadership/wp/2018/05/04/elon-musk-got-bored-and-shareholders-took-the-hit/?utm_term=.60834f469dd9\">Washington Post</a>&nbsp;wrote, “Musk’s car company, which carries both the hype and inflated valuation of a tech start-up, has struggled…and he’s “back to sleeping at the factory.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Get the casket ready.</p>\r\n<p class=\"graf graf--p graf-after--p\">When we think of great inventors, we cheer them in the lab but prefer gray suits in the marketplace. Musk came off to both journalists and Wall Street as a hyperbolic gambler who rolled the dice too many times. He was taking a final Icarian crash run that would prove to the world a crazy inventor is after all, just crazy. Where the Washington Post journalist missed, however, was in not paying attention to her final comment.</p>\r\n<p class=\"graf graf--p graf-after--p\">Musk&nbsp;<em>was</em>&nbsp;back at the factory sleeping on the couch. And taking charm lessons.</p>\r\n<blockquote>\r\n<p><span class=\"markup--strong markup--pullquote-strong\"><span class=\"markup--em markup--pullquote-em\">“It’s Elon’s world, and the rest of us just live in it.” — </span></span>Justine Musk (his first&nbsp;wife)</p>\r\n</blockquote>\r\n<p class=\"graf graf--p graf-after--pullquote\">It wasn’t the first time the conventional wisdom smirked at the iconic founder and inventor. There may still be those who doubt that he has the right stuff for figuring out the complexity of a new dimension, outer space, or a latest technology, electric vehicles. But they haven’t spoken to Justine Musk, his first wife. Herself a Wharton grad (where they met), she says of life with Musk and his fierce determination: “Elon does what he wants, and he is relentless about it. It’s Elon’s world, and the rest of us just live in it.”</p>\r\n<p class=\"graf graf--p graf-after--p\">What Justine Musk is saying is that Musk does not know how to stop. That’s a bad thing when you’re losing money, but it is so great when you’re making it. Now listen to that earnings call again.</p>\r\n<p class=\"graf graf--p graf-after--p\">When I<a href=\"https://medium.com/iconicvoices/the-unicorn-whisperer-zach-coelius-191fe1e94706\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://medium.com/iconicvoices/the-unicorn-whisperer-zach-coelius-191fe1e94706\">&nbsp;interviewed</a>&nbsp;a noted Silicon Valley venture capitalist who knows Musk well, Zach Coelius, he made it clear Musk has a more onerous job than anyone imagines. When the stakes are as high as Tesla and SpaceX, Musk has fought every nasty startup demon each step of the way.</p>\r\n<p class=\"graf graf--p graf-after--p\">Here is what Coelius had to say about Musk: “<em>Running a startup is like jumping on a rocket ship flying at the fastest speed possible until it smears you against your wall of incompetence. Even as great an entrepreneur as Elon Musk, he almost went bankrupt with both Tesla and SpaceX. One of the greatest successes in modern history and the thing was dead so many times. His wall of incompetence is a lot higher than mine, but wherever your incompetence resides, that’s where the wall finds you.”</em></p>\r\n<p class=\"graf graf--p graf-after--p\">In Musk’s case, he has the stamina to wade through extraordinary challenges, and it implies he can even overcome a cranky personality. When he was rude on that earlier earnings call, that was his wall. It was time to go to the factory and sleep on the couch. Even though he&nbsp;<em>does</em>&nbsp;possess engineering and business skills beyond the scope of anyone else, including the Wall Street analysts, Musk had to find the patience to tell a memorable narrative in a consistent way we mortals can understand. He climbed his wall of incompetence.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">Steve Jobs showed us that you could be a petulant inventor most of the time as long as you are also a buoyant personality on stage. Perhaps Elon is channeling Jobs. You could do worse.</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Wall Street thought Elon Musk was apologizing. He was letting them know he’s been studying for the next chapter of his incredible journey.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 750
+    height: 563
+    target_type: file
+    target_uuid: 9bf91225-5792-458b-b658-5f9dee2a688e
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.9bf91225-5792-458b-b658-5f9dee2a688e
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

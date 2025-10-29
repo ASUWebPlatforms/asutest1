@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: fb43cf72-d880-4f9c-86c4-1e05efc46862
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T23:27:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Sauipe Resort Development'
+created:
+  -
+    value: '2016-07-26T23:27:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T23:27:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-03-0025
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case focuses on a large Brazilian company that must make the decision of whether or not to build a tourist resort. The company is trying to diversify from construction and chemicals into new areas, but has no expertise in tourism. The case presents a series of research studies by consultants, and ultimately asks the students whether the project should proceed or not.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-03-0025
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: bc53c539-af49-4bec-8222-0a4773c4f95e
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: Brazil
+field_case_source:
+  -
+    value: 'Published Material'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "The case is suited for courses in tourism, marketing strategy, marketing research, and general management. Students must develop a list of needed information and a sequence of research useful for making a major financial investment. Students are also required to evaluate research findings and to perform a SWOT analysis.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.bc53c539-af49-4bec-8222-0a4773c4f95e
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

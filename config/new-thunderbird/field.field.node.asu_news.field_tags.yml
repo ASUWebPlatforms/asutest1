@@ -1,0 +1,29 @@
+uuid: cc6513a0-62d2-4e7f-b72b-5c4e9e2524d4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_tags
+    - node.type.asu_news
+    - taxonomy.vocabulary.news_tags
+id: node.asu_news.field_tags
+field_name: field_tags
+entity_type: node
+bundle: asu_news
+label: Tags
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      news_tags: news_tags
+    sort:
+      field: name
+      direction: asc
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

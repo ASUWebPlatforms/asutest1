@@ -1,0 +1,21 @@
+uuid: 1c5cfa30-f2fa-4176-938c-03b22cf5ff59
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_icon
+    - paragraphs.paragraphs_type.download
+  module:
+    - fontawesome
+id: paragraph.download.field_icon
+field_name: field_icon
+entity_type: paragraph
+bundle: download
+label: Icon
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: fontawesome_icon

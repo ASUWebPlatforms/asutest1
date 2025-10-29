@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 58a4a852-b4df-4b18-8a59-ebd064e20508
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+filename:
+  -
+    value: henkel.png
+uri:
+  -
+    value: 'public://article/henkel.png'
+    url: /sites/default/files/article/henkel.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 26274
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-06-12T22:40:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-06-12T22:40:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466

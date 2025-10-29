@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 88bd9202-faa7-40a4-93ca-1fca1f7ea524
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:40:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'Google’s Response Should Start With “We” Not “I”'
+created:
+  -
+    value: '2017-08-23T23:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:40:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/googles-response-should-start-we-not-i
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\"><span class=\"markup--quote markup--h4-quote is-other\" data-creator-ids=\"bd56b52ecbe\">Danielle Brown of Google is saying “L’Entreprise, C’est&nbsp;Moi.”</span></h3>\r\n<p class=\"graf graf--p graf-after--h4\">Louis XIVth taught us, pronouns matter. His famous expression, “L’etat c’est moi,” may have been acceptable in past centuries for someone who sat on the French throne for 72 years.</p>\r\n<p class=\"graf graf--p graf-after--p\">[[{\"fid\":\"6713\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Google\",\"field_file_image_title_text[und][0][value]\":\"Google\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Google\",\"field_file_image_title_text[und][0][value]\":\"Google\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Google\",\"title\":\"Google\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--p\">In more egalitarian times, indulgence in the first person pronoun is seen as a psychological telltale of rank egotism. It suggests the speaker sees the world as “me” centric where everything revolves around oneself because of undue self-importance, like Louis XIVth.</p>\r\n<p class=\"graf graf--p graf-after--p\">When Danielle Brown, Google VP of Diversity, Integrity, and Governance, responded to Google’s diversity debate, she used the pronoun “I” 3x as often as “we” or “our” — her point could not be any clearer than if she had said “l’entreprise, c’est moi.”</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">This is now a story about her and not about the formidable and talented women of Silicon Valley.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">More importantly, her high handedness caused her to miss the opportunity to rebut the inaccuracies of the original memo with a thoughtful and scientific response, which a&nbsp;<a href=\"https://medium.com/@dareobasanjo/the-big-lie-of-the-google-anti-diversity-manifesto-a-penis-makes-you-better-at-javascript-55ec8f894b78\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://medium.com/@dareobasanjo/the-big-lie-of-the-google-anti-diversity-manifesto-a-penis-makes-you-better-at-javascript-55ec8f894b78\">conscientious Googler</a>&nbsp;did a few days later.</p>\r\n<p class=\"graf graf--p graf-after--p\">In Danielle Brown’s memo:</p>\r\n<h4 class=\"graf graf--h4 graf--startsWithDoubleQuote graf-after--p\">“I” is used — 15x</h4>\r\n<h4 class=\"graf graf--h4 graf-after--h4\"><span class=\"markup--strong markup--h4-strong\">My — 2x</span></h4>\r\n<h3 class=\"graf graf--h3 graf-after--h4\">Total: 17x</h3>\r\n<h4 class=\"graf graf--h4 graf-after--h3\">We — 5x</h4>\r\n<h4 class=\"graf graf--h4 graf-after--h4\">Our — 5x</h4>\r\n<h4 class=\"graf graf--h4 graf-after--h4\">Your — 1x</h4>\r\n<h3 class=\"graf graf--h3 graf-after--h4\">Total: 11x</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Her&nbsp;<a href=\"https://motherboard.vice.com/en_us/article/vbv54d/google-on-anti-diversity-manifesto-employees-must-feel-safe-sharing-their-opinions\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://motherboard.vice.com/en_us/article/vbv54d/google-on-anti-diversity-manifesto-employees-must-feel-safe-sharing-their-opinions\">memo is reprinted</a>&nbsp;below:</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><em>Googlers,<br>&nbsp;<br>&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I’m</em></span><em>&nbsp;Danielle, Google’s brand new VP of Diversity, Integrity &amp; Governance.&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>started just a couple of weeks ago, and&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;had hoped to take another week or so to get the lay of the land before introducing&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>myself</em></span><em>&nbsp;to you all. But given the heated debate we’ve seen over the past few days,&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;feel compelled to say a few words.&nbsp;<br>&nbsp;<br>&nbsp;Many of you have read an internal document shared by someone in our engineering organization, expressing views on the natural abilities and characteristics of different genders, as well as whether one can speak freely of these things at Google. And like many of you,&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;found that it advanced incorrect assumptions about gender.&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I’m</em></span><em>&nbsp;not going to link to it here as it’s not a viewpoint that&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;or this company endorses, promotes or encourages.<br>&nbsp;<br>&nbsp;Diversity and inclusion are a fundamental part of our values and the culture we continue to cultivate. We are unequivocal in our belief that diversity and inclusion are critical to our success as a company, and we’ll continue to stand for that and be committed to it for the long haul. As Ari Balogh said in his internal G+ post, “Building an open, inclusive environment is core to who we are, and the right thing to do. ‘Nuff said. “<br>&nbsp;<br>&nbsp;Google has taken a strong stand on this issue, by releasing its demographic data and creating a company wide OKR on diversity and inclusion. Strong stands elicit strong reactions. Changing a culture is hard, and it’s often uncomfortable. But&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;firmly believe Google is doing the right thing, and that’s why&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;took this job.<br>&nbsp;<br>&nbsp;Part of building an open, inclusive environment means fostering a culture in which those with alternative views, including different political views, feel safe sharing their opinions. But that discourse needs to work alongside the principles of equal employment found in our Code of Conduct, policies, and anti-discrimination laws.<br>&nbsp;<br>&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I’ve</em></span><em>&nbsp;been in the industry for a long time, and&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;can tell you that&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I’ve</em></span><em>&nbsp;never worked at a company that has so many platforms for employees to express themselves — TGIF, Memegen, internal G+, thousands of discussion groups.&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>know this conversation doesn’t end with&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>my</em></span><em>&nbsp;email today.&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;look forward to continuing to hear your thoughts as&nbsp;</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>I</em></span><em>&nbsp;settle in and meet with Googlers across the company.<br>&nbsp;<br>&nbsp;Thanks,<br>&nbsp;<br>&nbsp;Danielle</em></p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">&nbsp;</p>\r\n<h5><em>Author's Bio</em></h5>\r\n<p><em>Jeff&nbsp;Cunningham&nbsp;is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.&nbsp;</em></p>\r\n<p><em>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</em></p>\r\n<p><em>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;</em><a href=\"http://www.iconicvoices.tv/\"><em>Iconic Voices</em></a><em>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to&nbsp;JeffImmelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;</em><a href=\"http://www.jeffcunningham.com/\"><em>JeffCunningham.com.</em></a><em>&nbsp;</em></p>\r\n<p><em>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.&nbsp;</em></p>\r\n<p><em>He has also been a board director of 10 public companies.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1000
+    height: 333
+    target_type: file
+    target_uuid: fe89578f-c67f-4f5d-998a-d951ea8c6e47
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.fe89578f-c67f-4f5d-998a-d951ea8c6e47
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

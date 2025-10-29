@@ -1,0 +1,15 @@
+uuid: 5ebffcd3-70d2-4cd4-b963-c700f321d8eb
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - webspark_blocks
+_core:
+  default_config_hash: I1Ffke9HeoBnVGZagTiCWdIsQTnkSkJLGq5ycIV7xJM
+id: card_event
+label: 'Card Event'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

@@ -1,0 +1,21 @@
+uuid: af56dbb9-555a-44cd-8d74-46e96bc51c61
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.blockquote
+    - field.storage.block_content.field_quote_layout
+  module:
+    - options
+id: block_content.blockquote.field_quote_layout
+field_name: field_quote_layout
+entity_type: block_content
+bundle: blockquote
+label: 'Quote Layout'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

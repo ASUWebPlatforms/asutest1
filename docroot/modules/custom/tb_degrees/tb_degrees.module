@@ -1,0 +1,35 @@
+<?php
+
+/**
+ * @file
+ * Contains tb_degrees.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function tb_degrees_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the tb_degrees module.
+    case 'help.page.tb_degrees':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Functionality related to degree programs') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+function tb_degrees_theme() {
+  return [
+    'tb_degrees' => [
+      'render element' => 'children',
+    ],
+  ];
+}

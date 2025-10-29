@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 64c5b671-e9b8-45dc-b59e-0aa784dae15b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'T-bird students gather intelligence for Eulen America'
+created:
+  -
+    value: '2016-06-22T18:49:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/gather-intelligence-eulen-america
+body:
+  -
+    value: "<p>[[{\"fid\":\"887\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Spain-based&nbsp;<a href=\"http://www.eulen.com/\" target=\"_blank\">Grupo Eulen</a>&nbsp;seized an opportunity in fall 2013 when the aviation, janitorial and security services company learned that Thunderbird business intelligence students do consulting projects for real-world clients as part of their coursework. Senior leaders from Eulen America, including Thunderbird alumnus&nbsp;<strong>Brent Blake ’91,</strong>&nbsp;hired eight students from Professor&nbsp;<a href=\"/node/154\" target=\"_blank\">Paul Kinsinger</a>’s business intelligence class to analyze the U.S. competitive landscape.</p>\r\n<p>As part of the project, three Thunderbird students traveled&nbsp; to Miami International Airport in October to observe Eulen operations and meet employees. “We had them in planes out on the runway,” said Ana Sotorrio, director of Eulen America’s Commercial and External Affairs for Aviation. “We did not think the project would be complete if they did not see the service firsthand.”</p>\r\n<p>The Thunderbird team presented its final report to Eulen America CEO Luis Rodriguez Lopez and other senior leaders on Dec. 9, 2013, at the school’s campus near Phoenix, Arizona. “They exceeded my expectations in professionalism,” Rodriguez said.</p>\r\n<p>Blake, who serves as Eulen America’s Chief Financial Officer and Vice President of Corporate Strategy, said the information presented at Thunderbird will be helpful for his organization. “We at Eulen were very excited to review the group’s final presentation,” he said.&nbsp;”Our initial plans were to really evaluate incorporating the findings into our U.S. business strategy.&nbsp;After viewing the group’s findings, we will definitely incorporate many of the ideas and concepts identified.”</p>\r\n<p>As a Thunderbird graduate, Blake&nbsp;took the lead in exploring&nbsp;opportunities at his&nbsp;<em>alma mater.&nbsp;</em>“We thought it was a good fit,” he said. “We were very interested in partnering with Thunderbird and the&nbsp;business intelligence&nbsp;class to really take a closer look at our competition within the aviation service industry and the U.S. marketplace.&nbsp;We were satisfied with the final product, and the overall findings of the team surpassed our initial expectations.”&nbsp;&nbsp;</p>\r\n<p>Grupo Eulen, which started as a mom-and-pop janitorial company in Madrid in 1962, has more than 70,000 employees today in Europe and the Americas. Overall, Kinsinger’s students completed six business intelligence projects for paying clients in fall 2013. Thunderbird students also complete consulting projects for paying clients in various other classes, including fieldwork done in the&nbsp;<a href=\"/node/64\" target=\"_blank\">Thunderbird Emerging Markets Laboratory</a>.</p>\r\n<p><em><strong>Captions:&nbsp;</strong>Above<strong>,&nbsp;</strong>Eulen America senior leaders, from left, Ana Sotorrio, Luis Rodriguez Lopez and Brent Blake ’91&nbsp;visit Thunderbird on Dec. 9, 2013. Below, Thunderbird students&nbsp;tour Miami International Airport on Nov. 1, 2013, to see Eulen America operations.</em></p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>[[{\"fid\":\"883\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</td>\r\n<td>[[{\"fid\":\"884\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</td>\r\n</tr>\r\n<tr>\r\n<td>[[{\"fid\":\"885\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</td>\r\n<td>[[{\"fid\":\"886\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: c02f88c6-c39e-435b-aa84-b323c7680ad7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-07-28T18:56:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'Top 10 Qualities to Look for in a New Hire'
+created:
+  -
+    value: '2017-07-28T18:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-28T18:56:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/top-10-qualities-to-look-for-in-a-new-hire
+body:
+  -
+    value: "<p>By Bethany Chijindu '17, Master of Global Management</p>\r\n<p>Hiring a new employee is not an easy task, especially when there are so many candidates. However, it is important to look out for qualities in your new hire that transcends just having experience and all the talent in the world. Because there are some core, qualities that determine how successful your new hire will be in the end.</p>\r\n<p>Listed below are the top 10 qualities you want in a new hire:</p>\r\n<p>Aptitude</p>\r\n<p>This refers to the person’s ability to learn new things and skills beyond the core component skills of the job. For example do they have ability of connecting with people quickly, how are they when it comes to following set procedures? Because as a company you want, people who are competent and who add to the culture of the company and people who slow down or detract the company.</p>\r\n<p>Ambition</p>\r\n<p>It is important to have workers who have ambitions, as people with ambitions do not accept mediocrity and often give their best in all they do. People with ambitions are future oriented and so are always looking for way to improve things as they are content on resting on yesterday’s successes.</p>\r\n<p>Attitude</p>\r\n<p>The way a person thinks is reflected in how they work, so you want people with a positive attitude and who have the “never give up” spirit. This is a person who keeps ongoing even when difficulties arise, and who are committed to the job.</p>\r\n<p>Independent Thinker</p>\r\n<p>As a company who wants to grow in a world that is becoming more and more competitive, you need independent thinker who can bring new ideas to the table that would not only create competitive advantage for the company but also hold onto to that edge.</p>\r\n<p>Integrity</p>\r\n<p>This is a critical quality to look for in a new hire, a person of integrity is one you can trust to do what they say they will do, when they said they would. This saves the company the energy of always wondering when things are going to be completed. This makes it easier for Trust to occur, because you not only will you get honest feedback but you can depend on the person to do, what you asked.</p>\r\n<p>Learners</p>\r\n<p>With new technology constantly coming up and systems continuously updating , you need someone who is not stuck on what they already know, but rather one who is constantly willing and looking for ways to grow in their knowledge and willing to acquire new skills that will help your company to also grow.</p>\r\n<p>Passionate</p>\r\n<p>Workers full of passion are more likely to get things done on time, and more likely to get excited about projects that they go over and beyond to see them succeed. These people will bring in lots of creative and strategic ideas, because they believe in what they do and in the company.</p>\r\n<p>People who know their strengths</p>\r\n<p>In this day and age, you want someone who is conscious of who they are as an individual and what their strengths are, because then they are already ahead of those people who are still trying to figure it out, and so can work using their strength to their advantage in getting the best work done.</p>\r\n<p>Responsible</p>\r\n<p>For your company to continue to succeed, you need a workforce full of responsible individuals. These are people who are ready to act when then a need arises, people not just content to sit down and wait for the managers and higher up to set the ball rolling. Often times issues come up and responsible workers who act fast are able to save the situation and the result is that they create and enhance the loyalty of the customers or clients.</p>\r\n<p>Team players</p>\r\n<p>Teams often do projects, and it is therefore critical that the new hire is a team player, who can work well with others, especially under pressure. &nbsp;You need a good team player, who is able to listen and able to contribute in a group setting. &nbsp;A person who is open to listening to different ideas, and who is able to work with different temperaments, is worth keeping.&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

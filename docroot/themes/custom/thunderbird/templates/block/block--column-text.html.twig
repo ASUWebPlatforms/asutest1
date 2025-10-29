@@ -1,0 +1,33 @@
+{#
+/**
+ * @file
+ * Template for a Column Text block.
+ */
+{% 
+  set classes = ([
+    ''
+  ])
+%}
+#}
+{% extends 'block.html.twig' %}
+{% if label %}
+    {% block label %}
+      <div class="container">
+        <{{ heading_level }} {{ title_attributes.addClass(heading_style) }}>{{ label }}</{{ heading_level }}>
+      </div>
+    {% endblock %}
+{% endif %}
+{% block content %}
+  <div class="container">
+    {% set sub_heading = content.field_sub_heading|render|striptags|trim %}
+    {% if sub_heading is not empty %}<span class="subhead">{{ sub_heading }}</span>{% endif %}
+
+    <div class="row">
+      {% for key,value in content.field_text_columns['#items'] %}
+        <div class="column col-md d-flex flex-wrap">
+          {{ content.field_text_columns[key] }}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endblock %}

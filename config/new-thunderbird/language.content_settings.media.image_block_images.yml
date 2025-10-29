@@ -1,0 +1,18 @@
+uuid: 2e8fd514-cd14-42d4-a670-2d81ee6acf98
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.image_block_images
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: media.image_block_images
+target_entity_type_id: media
+target_bundle: image_block_images
+default_langcode: site_default
+language_alterable: false

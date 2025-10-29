@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 21a5b78d-baae-4630-be38-28ad76eda840
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Project Artemis Pakistan entrepreneurs delve into growth strategies'
+created:
+  -
+    value: '2011-05-16T23:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/project-artemis-pakistan-entrepreneurs
+body:
+  -
+    value: "<div>[[{\"fid\":\"2916\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Project Artemis\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Project Artemis\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</div>\r\n<p>From purchasing pencils for pennies, and from building a pizza parlor from the ground up to best business strategies for growth, nine Pakistani businesswomen recently received classroom lessons in entrepreneurship from Thunderbird School of Global Management Professor&nbsp;<a href=\"http://www.thunderbird.edu/knowledge_network/faculty_bios/faculty_alphabetical/_243799.htm\">Nathan Washburn</a>, Ph.D. The women entrepreneurs came to Thunderbird as part of a partnership between the U.S. Department of State and the&nbsp;<a href=\"http://www2.goldmansachs.com/citizenship/10000women/index.html\">Goldman Sachs&nbsp;<em>10,000 Women</em></a>&nbsp;program. The two-week entrepreneurship training program, Project Artemis, was modeled on the successful Project Artemis Afghanistan program, which launched in 2005 and has trained more than 60 businesswomen from that country.</p>\r\n<p>The strategy session led by Washburn focused on business development and growth and included a pair of hands-on exercises that taught supply-and-demand principles and the practical application of the four categories of business strategies: Cost leadership, focused cost leadership, differentiation and focused differentiation.</p>\r\n<p>“Very much, this has helped me as a businesswoman,” said Artemis fellow Rukhsana Zafar, who owns an herbal hair and skin product line, and is also developing an agribusiness focused on ecofriendly, healthy food. “Business strategy is not my greatest strength, so every moment has been valuable and exciting.”</p>\r\n<p>She said her market is not individual stores, but the clinics and the doctors who make skin and hair care products available to their patients. “My audience is interested in high quality and is conscious of the products,” said Zafar, who lives and works in Lahore, a city of 10 million people in the eastern Pakistani province of Punjab. “Mass consumers will go where the advertising is, but those are places that I can’t be to meet them, guide them to my product line. By selling to clinics and medical people, I can meet them and explain the advantages of my product; plus, I get good feedback directly from the customer.”</p>\r\n<p>Washburn’s lessons also touched on the higher value of unique products, categories of uniqueness, efficiencies involved in distribution, volume sales and more. Each of the women was given the opportunity to talk about her business and its unique challenges, followed by the professor’s assessment of where each placed within the four-squared business strategy matrix.</p>\r\n<p>“This is so relative and very good for me,” said Maria Umar, owner of a virtual services company in Peshawar that markets content writing, transcribing, travel reservations and more. “The best part of this experience at Thunderbird is that there are just nine of us who are learning these lessons, and the training is designed especially for us who have come from Pakistan. Professor Washburn and all the professors we have met have taken great pains to understand us and our culture and our needs. To hear them say something that is so pertinent to my business, my work and my way of life is very valuable.”</p>\r\n<p>The program participants, ranging in age from 25 to 50, began their entrepreneurship training at Thunderbird on May 2, 2011. They received their Project Artemis certificates in a campus ceremony May 13 in Glendale, Arizona.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

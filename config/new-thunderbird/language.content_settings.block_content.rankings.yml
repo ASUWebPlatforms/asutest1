@@ -1,0 +1,18 @@
+uuid: 0872c5b2-f8ef-4c90-95a4-dce8c798076e
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.rankings
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: block_content.rankings
+target_entity_type_id: block_content
+target_bundle: rankings
+default_langcode: site_default
+language_alterable: false

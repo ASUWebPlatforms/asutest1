@@ -1,0 +1,106 @@
+.accordion {
+    padding-top: $component-padding;
+    padding-bottom: $component-padding;
+    
+    .subtitle {
+        color: $blue-dark;
+        font-size: $h3-font-size;
+        line-height: $h3-font-size;
+        margin: 0rem 0rem 3rem; /* 0px 0px 48px */
+
+        @include media-breakpoint-down(sm) {
+           font-size: $font-size-md;
+           line-height: $font-size-md;
+        }
+    }
+
+    .snapdown {
+        align-items: center;
+        border-top: 1px solid #cccccc;
+        padding: 2.5rem 0rem; /* 40px 0px */
+
+        &:last-child {
+            border-bottom: 1px solid #cccccc;
+        }
+
+        .toggle {
+            align-items: center;
+            color: $blue-mid;
+            cursor: pointer;
+            display: flex;
+            font-size: $h5-font-size;
+            justify-content: space-between;
+            line-height: $h5-font-size;
+            font-weight: 400;
+
+            &[aria-expanded="true"] {
+                padding-bottom: 2.5rem; /* 40px */
+
+                .icon {
+                    &:after {
+                        transform: translate(-50%, -50%) rotate(0deg);
+                    }
+                }
+            }
+            
+            .icon {
+                width: 2.5rem; // 40px
+                height: 2.5rem; // 40px
+                position: relative;
+                border: 3px solid $blue-mid;
+                flex-shrink: 0; // Prevent squished width on mobile
+
+                &:before, &:after {
+                    background-color: $blue-mid;
+                    content: '';
+                    display: block;
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    width: 16px;
+                    height: 3px;
+                    transform: translate(-50%, -50%);
+                    transition: all 0.25s ease-in-out;
+                }
+                
+                &:after {
+                    transform: translate(-50%, -50%) rotate(90deg);
+                }
+            }
+        }
+
+        .content {
+            align-items: center;
+            transition: all 0.25s ease-in-out;
+
+            &[aria-expanded="true"] {
+                display: flex !important;
+            }
+
+            .image {
+                img {
+                    width: 100%;
+                    height: auto;
+                    margin-bottom: 1rem;
+                }
+            }
+
+            .body {
+                color: $gray-darkest;
+                font-size: $font-size-md;
+                font-weight: 400;
+                line-height: $font-size-xl;
+                
+                .content-heading {
+                    color: $blue-dark;
+                    font-weight: 900;
+                }
+
+                h1, h2, h3, h4, h5, h6, p {
+                    font-size: inherit;
+                    line-height: inherit;
+                }
+            }
+        }
+    }
+}

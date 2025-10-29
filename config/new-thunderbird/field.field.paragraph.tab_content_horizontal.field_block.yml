@@ -1,0 +1,80 @@
+uuid: 6633cb26-ec1b-407f-baa6-61f2ca650af0
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.blockquote
+    - block_content.type.card_and_image
+    - block_content.type.card_arrangement
+    - block_content.type.card_image_and_content
+    - block_content.type.card_selection
+    - block_content.type.column_text
+    - block_content.type.content_image
+    - block_content.type.donut_chart
+    - block_content.type.events
+    - block_content.type.flip_cards
+    - block_content.type.image
+    - block_content.type.image_and_text_block
+    - block_content.type.image_background_with_cta
+    - block_content.type.inset_box
+    - block_content.type.rankings
+    - block_content.type.signpost_1_column_w_link
+    - block_content.type.signpost_2_columns_w_link
+    - block_content.type.signpost_50_50
+    - block_content.type.signpost_quote
+    - block_content.type.signpost_w_icon
+    - block_content.type.table
+    - block_content.type.testimonial
+    - block_content.type.testimonial_on_image_background
+    - block_content.type.text_content
+    - block_content.type.video
+    - block_content.type.virtual_tour
+    - field.storage.paragraph.field_block
+    - paragraphs.paragraphs_type.tab_content_horizontal
+id: paragraph.tab_content_horizontal.field_block
+field_name: field_block
+entity_type: paragraph
+bundle: tab_content_horizontal
+label: Block
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:block_content'
+  handler_settings:
+    target_bundles:
+      blockquote: blockquote
+      card_arrangement: card_arrangement
+      card_and_image: card_and_image
+      card_image_and_content: card_image_and_content
+      card_selection: card_selection
+      column_text: column_text
+      content_image: content_image
+      donut_chart: donut_chart
+      events: events
+      flip_cards: flip_cards
+      image: image
+      image_and_text_block: image_and_text_block
+      image_background_with_cta: image_background_with_cta
+      inset_box: inset_box
+      rankings: rankings
+      signpost_50_50: signpost_50_50
+      signpost_quote: signpost_quote
+      signposts_2: signposts_2
+      signpost_w_icon: signpost_w_icon
+      table: table
+      testimonial: testimonial
+      testimonial_on_image_background: testimonial_on_image_background
+      text_content: text_content
+      video: video
+      virtual_tour: virtual_tour
+      signpost_1_column_w_link: signpost_1_column_w_link
+      signpost_2_columns_w_link: signpost_2_columns_w_link
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: blockquote
+field_type: entity_reference

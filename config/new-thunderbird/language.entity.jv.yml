@@ -1,0 +1,9 @@
+uuid: 71a621bd-2bf4-49e1-8578-ca24f2b5e077
+langcode: en
+status: true
+dependencies: {  }
+id: jv
+label: Javanese
+direction: ltr
+weight: -6
+locked: false

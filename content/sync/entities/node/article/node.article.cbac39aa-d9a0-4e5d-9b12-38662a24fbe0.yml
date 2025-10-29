@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: cbac39aa-d9a0-4e5d-9b12-38662a24fbe0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T14:37:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+title:
+  -
+    value: 'Be The Most Memorable Person in Any Room'
+created:
+  -
+    value: '2018-04-17T18:52:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T14:37:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/be-most-memorable-person-any-room
+body:
+  -
+    value: "<p style=\"text-align: center;\">[[{\"fid\":\"15746\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Man on his computer\",\"field_file_image_title_text[und][0][value]\":\"Man on his computer\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Man on his computer\",\"field_file_image_title_text[und][0][value]\":\"Man on his computer\"}},\"attributes\":{\"alt\":\"Man on his computer\",\"title\":\"Man on his computer\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Do you feel like people can’t seem to remember your name at a networking event? Do&nbsp;your ideas&nbsp;just get overlooked&nbsp;in business meetings?&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>Achieving success and being memorable go hand in hand. Charismatic people seem to make friends with everyone they&nbsp;meet,&nbsp;and those connections translate into real results in the business world. It might come naturally to some, but the secret is this: becoming more memorable can be learned and&nbsp;<i>you</i>&nbsp;can&nbsp;learn it, too.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>I spoke with&nbsp;<a href=\"https://www.udemy.com/user/vanessavanedwards/\">Vanessa Van Edwards</a>, a published author, behavioral investigator, and expert instructor to over 91,000 students on global online learning platform&nbsp;<a href=\"https://www.udemy.com/\">Udemy</a>, to&nbsp;discover&nbsp;how to best go about becoming more memorable.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<h5><span>“Vanessa, you teach workshops and courses about the hidden dynamics of people&nbsp;and relationships&nbsp;and one of your specialties&nbsp;is teaching people how to become more memorable. Why is being memorable important?”</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></h5>\r\n<p>Being memorable is extremely important. It allows us to forge meaningful long-term relationships with others. When we interact with people around us, they form opinions based on what we’re saying, how we follow-up on our promises, and the body language we display. Being aware and consciously controlling&nbsp;our body language&nbsp;in a positive way helps us become more likeable, memorable, and even trustworthy.&nbsp;&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<h5><span>“What are the barriers that keep people from being memorable?”</span></h5>\r\n<p>Our brains have a very short attention span. Being intriguing and engaging by stepping out of the cliché&nbsp;conversations helps us become more memorable. Often, people stick to the same old mind-numbing social script: Where are you from? What do you do for a living?&nbsp;Etc. We hide our quirks and try not to make waves because we instinctively want to fit in.&nbsp;However,&nbsp;suppressing what’s unique about us also makes us a bit dull. I don’t think people are boring at all, they’re just hiding who they really are.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<h5><span>“What are your top 3 tips for helping someone increase their memorability?”&nbsp;</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></h5>\r\n<p>I take a scientific approach to helping people become more memorable. Here are three great starting points:<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p><i>Show people you want to connect, talk, and start a relationship.</i>&nbsp;Body language research has shown that techniques like keeping your torso, chest and abdomen open to the world and your&nbsp;hands where people can see them helps people to more easily trust you and make a connection. Open body language immediately attracts people.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p><i>Be verbally and nonverbally respectful of people’s ideas.</i>&nbsp;It’s easy to get distracted when there are other things happening around you. However, it is important to dedicate your full attention to the person you’re speaking with. Make meaningful eye contact and point your feet at the person you’re talking to. If your feet are pointing elsewhere, you’re signaling that you’re thinking about exiting or that your mind is elsewhere. People enjoy talking to people who are fully engaged and present with them.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p><i>Connect emotionally.&nbsp;</i>Dopamine is our brain’s pleasure/reward area that makes us feel warm and fuzzy. If you stimulate that part of someone’s brain when they’re with you, they’re more likely to both like and remember you. Ask about their personal passions or the best part of their week. I’m a big believer that personal, open-ended questions help break down walls and make connections because you show that you’re truly interested to get to know the person in front of you.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>People might not remember exactly what you said, but they’ll always remember how you made them feel. Show that you’re interested in other people and they’ll become more interested in you.&nbsp;</p>\r\n<h3 style=\"text-align: center;\"><span class=\"TextRun SCXW181532433\">Join Dana&nbsp;</span><span class=\"TextRun SCXW181532433\">Manciagli’s</span><span><span class=\"TextRun SCXW181532433\"><span class=\"NormalTextRun SCXW181532433\">&nbsp;</span></span><a href=\"http://danamanciagli.com/courses/\" class=\"Hyperlink SCXW181532433\" target=\"_blank\"><span class=\"TextRun Underlined SCXW181532433\"><span class=\"NormalTextRun SCXW181532433\">Job Search Master Class®</span></span></a></span><span class=\"TextRun SCXW181532433\"><span>&nbsp;</span>now</span><span class=\"TextRun SCXW181532433\">&nbsp;and get the most comprehensive job search system available!</span></h3>\r\n<p><em><span>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</span></em><i><span><a href=\"http://danamanciagli.com/\"><span>her website.</span></a></span></i><span></span></p>\r\n<p><strong><i>READ MORE</i></strong></p>\r\n<p><a href=\"https://www.danamanciagli.com/how-to-retain-employees-by-emphasizing-bam/\">How to Retain Employees by Emphasizing BAM</a></p>\r\n<p><a href=\"https://www.danamanciagli.com/5-steps-to-get-more-out-of-your-work-day/\">5 Steps to Get More Out of Your Work Day</a></p>\r\n<p><a href=\"https://www.danamanciagli.com/be-the-most-memorable-person-in-any-room/\">Be The Most Memorable Person in Any Room</a></p>\r\n<p><a href=\"https://www.danamanciagli.com/supercharge-your-career/\">Supercharge Your Career</a></p>\r\n<p><a href=\"https://www.danamanciagli.com/mistakes-to-avoid-in-negotiating-your-new-job-offer/\">Mistakes to Avoid in Negotiating Your New Job Offer</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Do you feel like people can’t seem to remember your name at a networking event? Do your ideas just get overlooked in business meetings?  '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: 9b68def0-c6f5-4a1c-b624-097bf12c1fcb
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+    file:
+      - file.image.9b68def0-c6f5-4a1c-b624-097bf12c1fcb
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

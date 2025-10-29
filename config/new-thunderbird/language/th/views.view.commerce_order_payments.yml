@@ -1,0 +1,16 @@
+display:
+  default:
+    display_title: Default
+    display_options:
+      fields:
+        completed:
+          label: เรียบร้อยแล้ว
+        operations:
+          label: Operations
+      exposed_form:
+        options:
+          reset_button_label: Reset
+      arguments:
+        order_id:
+          exception:
+            title: ทั้งหมด

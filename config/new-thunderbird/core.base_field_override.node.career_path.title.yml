@@ -1,0 +1,18 @@
+uuid: c491b06d-c987-4477-9f6a-199b64c24b6f
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.career_path
+id: node.career_path.title
+field_name: title
+entity_type: node
+bundle: career_path
+label: Title
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

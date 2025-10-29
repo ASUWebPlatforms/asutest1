@@ -1,0 +1,83 @@
+uuid:
+  -
+    value: f509b8b1-b9df-4e5e-ad07-488a147770d0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-11-13T20:05:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Which Model of Business Consulting is Best Suited for Your Organization?'
+created:
+  -
+    value: '2018-11-13T20:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-11-13T20:05:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/which-model-business-consulting-best-suited-your-organization
+body:
+  -
+    value: "<p>[[{\"fid\":\"67555\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Which Model of Business Consulting is Best Suited for Your Organization?\",\"field_file_image_title_text[und][0][value]\":\"Which Model of Business Consulting is Best Suited for Your Organization?\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Which Model of Business Consulting is Best Suited for Your Organization?\",\"field_file_image_title_text[und][0][value]\":\"Which Model of Business Consulting is Best Suited for Your Organization?\"}},\"attributes\":{\"alt\":\"Which Model of Business Consulting is Best Suited for Your Organization?\",\"title\":\"Which Model of Business Consulting is Best Suited for Your Organization?\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<p>By Dan Schmitz&nbsp;</p>\r\n<blockquote>\r\n<p><i>\"One way to close an age is to give it a name that sticks. I propose that we name the mid-twentieth century The Age of Disabling Professions, an age when people had \"problems\", experts had \"solutions\", and scientists measured imponderables such as \"abilities\" and \"needs\".\" - Ivan Illich,&nbsp;Disabling Professions, 1978</i></p>\r\n</blockquote>\r\n<p>When it comes to the topic of consulting, how much has changed?</p>\r\n<p>There are three primary models of business consulting: Expert, Doctor, and Process Consultation. Only one will leave your organization more capable of future self-development, more aware of its own operating system, more highly networked, and more oriented to a sense of ownership and accountability. When buying consulting advice, organization leaders must develop the skill of seeing clearly the implication of a consultant's principle model of helping. The benefit is that you will make more informed decisions about the type of help you invite into your organization and how to set your own expectations for change.</p>\r\n<h3>Three Models of Business Consulting&nbsp;</h3>\r\n<p>There are three roles a helper (i.e., consultant) can play at any given time: Expert, Doctor-Patient, and Process Consultation. Each has important underlying assumptions, and each can, under the proper conditions, be useful. A consultant may also choose to play any role depending on their area of specialization and the context in which help is needed. However, many consultants primarily act from the expert or doctor-patient role. Here is a brief description of each:</p>\r\n<ul>\r\n<li>Expert– The consultant offers some information or service that the client is both requesting and unable to provide for himself. There are important assumptions in this model. Has the client correctly identified his own needs? Has he considered the consequences of expert data collection and recommendation on organizational change? Is there one reality about your organization that can be objectively studied and rendered useful to the client? This model puts great power into the hands of the consultant.</li>\r\n<li>Doctor-Patient– The consultant is brought into the organization to diagnose a problem and administer remedial treatment. There are important assumptions in this model, too. Fundamentally, it assumes an outsider can enter your organization, diagnose a problem, and issue effective remedy. This model places even more power and dependence into a consultant’s (i.e., doctor’s) hands.</li>\r\n<li>Process Consultation– The consultant endeavors to increase the client’s capacity to learn so that it can fix its own problems, today, and in the future. It is a philosophy and practice built on the idea that problems are solved more effectively and sustainably if the organization itself is at the core of both diagnostic and remedial efforts. This model keeps both responsibility and control with the client.</li>\r\n</ul>\r\n<h3>Case Study: The Group Fixes Its Own Process</h3>\r\n<p>This case study is drawn from an organization where a key business process was taking too long to complete in an environment of increasing competition. Nobody fully understood the end-to-end process. There was leadership resistance at the unit level to outsiders assessing the system and recommending changes to it. Trust was an important consideration.&nbsp;</p>\r\n<p>The process involved a medium-sized group of those who work in the system. There was a new top leader who was responsible for the system but had little understanding of how it worked and why things were as they were. There were middle managers who were accountable for the system’s process and likely felt the most vulnerable in the process. There were also those closest to the work. Collectively, they mapped the system, collected data from those doing the work, jointly learned about total system operation and sources of fault, and prepared remedial changes in the form of process ideas they would test.</p>\r\n<p>The results can only come from within. First, awareness of the total system became a shared reality for the change group. They all understood the process from end-to-end when previously nobody knew the whole value chain. Second, this new awareness and the process of working together generated a sense of ownership and responsibility for system improvement. Third, the solutions they were to test were their own creation. This provided the energy and wherewithal to change the system and successfully adapt to unintended consequences of change. These outcomes, this internalization of understanding and ownership, can only come from the process model.</p>\r\n<h3>Weighing the Pros and Cons of Each Model</h3>\r\n<p>It is important to know and embrace key assumptions of&nbsp;<i>process consulting</i>, an approach that essentially asks an organization to design and implement its own solutions. It is alluring to hire your problems solved. It is also a siren’s song – attractive but dangerous and likely to lead to undesirable consequences. Here are a few key assumptions of the process consulting model:</p>\r\n<ol>\r\n<li>You retain ownership of the business issue. It is not fully possible and never advisable to assign accountability to an external consultant.</li>\r\n<li>Only you can know what will ultimately work in your system.</li>\r\n<li>You must learn to see problems for yourself and consider your own solutions. Only then will members of your organization have the drive to implement needed change.&nbsp;</li>\r\n</ol>\r\n<p>There are, of course, situations where the expert and doctor-patient model will work, for example:</p>\r\n<ul>\r\n<li>If the problem and the solution are clearly defined and technical in nature, the expert model will likely work.</li>\r\n<li>If the problem is clear but the solution is not, then doctor-patient can work if the process is collaborative.</li>\r\n<li>If neither the problem nor the solution is clear, then process consultation is the best way forward, at least until it becomes clear what is going on.</li>\r\n</ul>\r\n<h3>So Which Consulting Model Works Best?</h3>\r\n<p>These are the three primary models of business consulting. Only process consultation will leave your organization more capable of future self-development, more aware of its own operating model, more highly networked, and more oriented to a sense of ownership and accountability. As a leader in your organization, ask your prospective helpers how they intend to engage and help your organization. The benefit is that you will become a smarter consumer of professional services. You will see how a consulting model will or will not improve your organization's ability to solve its own problems in the future.</p>\r\n<p>\"<i>You will be better because I know better</i>.\" When you sense this is the implicit position of your prospective consultant, press pause. Assess your needs and assess the unintended impact this consulting model may have on your organization. It may be fine to proceed. If so, you’ll move forward with a greater sense of choice and awareness.</p>\r\n<p><strong>&nbsp;Author bio</strong></p>\r\n<p><i>[[{\"fid\":\"67554\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Dan Schmitz is a Consultant at ON THE MARK\",\"field_file_image_title_text[und][0][value]\":\"Dan Schmitz is a Consultant at ON THE MARK\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Dan Schmitz is a Consultant at ON THE MARK\",\"field_file_image_title_text[und][0][value]\":\"Dan Schmitz is a Consultant at ON THE MARK\"}},\"attributes\":{\"alt\":\"Dan Schmitz is a Consultant at ON THE MARK\",\"title\":\"Dan Schmitz is a Consultant at ON THE MARK\",\"height\":\"103\",\"width\":\"183\",\"style\":\"float: left; margin: 10px;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]Dan Schmitz is a Consultant at ON THE MARK, a global&nbsp;</i><i><a href=\"http://on-the-mark.com/\">organization design consulting firm</a>&nbsp;</i><i>and leader in collaborative business transformation with offices in the US and UK. Dan also holds an MBA from Kent State University and a Master’s Degree in Organization Development and Change Leadership from Pepperdine University.</i></p>"
+    format: basic_html
+    processed: ''
+    summary: "When it comes to the topic of consulting, how much has changed?\r\n\r\nThere are three primary models of business consulting: Expert, Doctor, and Process Consultation. Only one will leave your organization more capable of future self-development, more aware of its own operating system, more highly networked, and more oriented to a sense of ownership and accountability. When buying consulting advice, organization leaders must develop the skill of seeing clearly the implication of a consultant's principle model of helping. The benefit is that you will make more informed decisions about the type of help you invite into your organization and how to set your own expectations for change."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1281
+    target_type: file
+    target_uuid: e336d41c-798b-41ca-9057-49ecae0a7cef
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.e336d41c-798b-41ca-9057-49ecae0a7cef
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

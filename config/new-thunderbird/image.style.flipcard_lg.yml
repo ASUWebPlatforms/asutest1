@@ -1,0 +1,17 @@
+uuid: 2deb862c-e9c2-40bf-aca9-484ebf5224f3
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: flipcard_lg
+label: 'Flipcard lg (600x495)'
+effects:
+  0239b19d-63ea-4791-8d1c-c77a4ca17f67:
+    uuid: 0239b19d-63ea-4791-8d1c-c77a4ca17f67
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 600
+      height: 495
+      crop_type: focal_point

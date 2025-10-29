@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: a6535dc1-ea91-48b9-b006-b292166cafd1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Using Social Media to Foster Tolerant Societies'
+created:
+  -
+    value: '2013-10-31T15:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/social-media-fosters-tolerant-societies
+body:
+  -
+    value: "<p>Thunderbird Professor&nbsp;<strong>Nivien Saleh,</strong>&nbsp;Ph.D.,&nbsp;spoke in The Hague, Netherlands, at the Conference on Minorities and Marginalized Groups in Constitution Building Processes, organized by the Institute for Democracy and Electoral Assistance. The topic: New media’s ability to advance minority participation in politics and constitution building. Fellow panelists included Brendan Ballou of Stanford University and political consultant Walter Owuor of Kenya. Following is an interview with Saleh from the Netherlands:</p>\r\n<p><strong>Q. Why is it necessary to talk about minority participation in constitution building?</strong><br><strong>A.&nbsp;</strong>The drafting of a constitution represents an important step in any nation’s history. The constitution is society’s vision of its own future — the fundamental law from which all other law derives its legitimacy. It assigns rights and duties to citizens, determines who is recognized as an important member of society and who isn’t.</p>\r\n<p>In recent decades the international community came to the recognition that societies should be inclusive — that they should favor not only the majority but also create space and acceptance for minority groups. And since a constitution is such an important document, any strategy aimed at the inclusion of minorities must have a constitutional component.</p>\r\n<p><strong>Q. Constitution building frequently happens in societies that were or are undemocratic. How does information and communication technology impact the relationship between the state and its citizens?</strong><br><strong>A.</strong>&nbsp;First, states have the ability to limit Internet access through firewalls. Examples include Saudi Arabia, Iran and China. But in most cases censorship is an imperfect tool for control: As ever more nations use the Internet for commerce, systematically preventing Internet usage becomes a source of competitive disadvantage.</p>\r\n<p>More importantly, technology enhances the surveillance capabilities of the state. As the nation’s primary regulator, the state can dictate how technology service providers should deal with personal information or how they should channel information flows. At the same time, the state has the financial resources to buy and deploy surveillance technologies. But for reasons of information overload, the state must focus its surveillance on specific persons of interest. It cannot monitor all citizens equally.</p>\r\n<p>Let’s now turn to the way in which technology — especially social media — empowers citizens. First, technology increases the end user’s independence of centralized sources of information, such as state-sanctioned newspapers, TV stations, and the websites of these established media channels.</p>\r\n<p>Second, these applications enable end users to find like-minded individuals, remote as they might be, and to forge communities with them, enhancing their capacity for political action. That aspect is especially important for geographically dispersed minorities such as the Roma community, which can be found in Romania, Bulgaria, Macedonia, Hungary and Slovakia. Technology enables such communities to congregate virtually and raise their voice.</p>\r\n<p>On balance (and with exceptions), technology enables the state to monitor its citizens without managing to control them. Technology also gives citizens access to new services and more ideas. As a result, citizens become more demanding, insisting to be heard. Does this mean they become democrats? Not necessarily, because democracy requires two things of citizens: Making their voices heard and listening to those who disagree with them. Technology fosters the former far more than the latter. To understand that this is so, recall the incidents of cyberbullying that have driven targeted teenagers into depression and sometimes suicide.</p>\r\n<p>It would therefore be wrong to assume — as numerous observers have done — that technology automatically renders societies more open-minded and inclusive of minorities.</p>\r\n<p><strong>Q. To what extent can minority groups use technology to advance their political inclusion?</strong><br><strong>A.</strong>&nbsp;The answer depends on how economically marginalized the group in question is. Let’s compare the LGBT community in the United States and the community of “garbage people” in Egypt.</p>\r\n<p>America’s LGBT community is moving from marginalization toward social acceptance. Importantly, a good number of its members are highly educated and enjoy a high socioeconomic status, which enables them to make demands on behalf of their group. They have won a high level of representation in Hollywood, where new comedies — for example Glee, Will and Grace or the Tyra Banks Show — have taken up the LGBT cause.</p>\r\n<p>In Cairo there lives a minority of Zabbaleen, or “garbage people.” About 70,000 strong and overwhelmingly Christian, that community has for decades been manually collecting society’s refuse, then hauling it on donkey carts into their neighborhoods, where the recyclable trash is sorted and sold, and the organic waste is fed to pigs. Even though the Zabbaleen deliver an important social service, they are outcasts — partly because of the smell and dirt around which their lives revolve, and partly because they are poor. Unlike America’s LGBT community, most Zabbaleen are illiterate and cannot afford computers to access the Internet or smartphones necessary for leveraging microblogging sites such as Twitter.</p>\r\n<p>The example of the garbage people shows that economically marginalized groups face at least three challenges in the constitution-writing process:&nbsp; 1. Lack of education means they are less likely to understand the content of constitutions and the political stakes involved in writing a constitution that is inclusive; 2. Lack of finance means they cannot afford the hardware needed to leverage technology for collective action;&nbsp; 3. Lack of education means they cannot decipher much of the content generated by technology.</p>\r\n<p><strong>Q. How can new media best be used to advance the political inclusion of minority and marginalized groups?</strong><br><strong>A.&nbsp;</strong>Technology is just a tool. Its functionality is determined by the intentions and capacities of the actors who use them. This means that technology can foster a public sphere that disintegrates into various enclaves of like-minded citizens who congregate around opinion leaders that reinforce their stereotypes. Technology can also foster a me-me-me society of individuals who want to be heard but refuse to listen.</p>\r\n<p>But if it is deliberately put in the service of inclusion, technology can bring citizens together in ways that transcend group boundaries. To maximize that potential, both activists and program officers at agencies promoting democracy must understand that any media content they create will compete for the attention of their target audience with many other sources of information. Their Web content must therefore be compelling and attractive. And to enhance the chance that their target audience keeps coming back for more, program officers and activists should integrate principles of social media marketing with the quality web content they have generated.</p>\r\n<p>What are some of the most important social media strategies? First off, get to know your audience and the social media they use. Understand what makes them tick. Connect your message to their passion. Allow them to speak back and show that you listen.<br>&nbsp;<br><strong>Q. What are some of the key experiences that might point to best practices in using new media for increased minority inclusion?</strong><br><strong>A.&nbsp;</strong>The Facebook page “We are all Khalid Said,” which was administered by Google executive Wael Ghonim and Abdelrahman Mansour and helped kick start the Egyptian Revolution of 2011 exemplifies best practice — at least before January 2011, the period with which I am familiar. That page exemplifies how social media marketing can be used to advance political strategies, especially those aimed at inclusion and solidarity.&nbsp;</p>\r\n<p>While demanding justice for Khalid Said, a young Egyptian slain by police informants, the Facebook page spoke to its members in their language — colloquial Egyptian rather than standard Arabic. It asked members for their input into tactics through opinion polls, and the page administrators showed their willingness to listen by revising their strategy based on feedback they received from page members.&nbsp; And in the process, Wael and Abdelrahman advanced the principles of democratic accountability, empowerment of the grassroots, and inclusion across genders, ages, and religious backgrounds.</p>\r\n<p><strong>Q. Looking forward, what projected future uses can we envisage for new media and information communication technologies in ensuring the participation of minorities and marginalized groups in constitution building?</strong><br><strong>A.&nbsp;</strong>What role minorities play in constitution building is more determined by the state’s willingness to include such groups and by the general social acceptance of the group than it is by technology. To the extent that technology is put in the service of inclusion and tolerance, it can help position minorities such that come constitution-writing time, the state and dominant groups will include the minority in the writing process. But this possibility will only materialize if media strategies aimed at inclusion penetrate society deeply, widely, and consistently.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

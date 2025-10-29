@@ -1,0 +1,18 @@
+uuid: 94d8d314-723b-4b55-915e-6a7b0ed7d67a
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.knowledge_network
+id: taxonomy_term.knowledge_network.name
+field_name: name
+entity_type: taxonomy_term
+bundle: knowledge_network
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

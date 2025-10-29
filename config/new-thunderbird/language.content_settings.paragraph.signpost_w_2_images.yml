@@ -1,0 +1,18 @@
+uuid: 1108d0e7-fad2-420f-84c0-eb03fbbb4a4d
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.signpost_w_2_images
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: paragraph.signpost_w_2_images
+target_entity_type_id: paragraph
+target_bundle: signpost_w_2_images
+default_langcode: site_default
+language_alterable: false

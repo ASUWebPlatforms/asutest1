@@ -1,0 +1,124 @@
+uuid:
+  -
+    value: dab422d0-ae24-4ef5-abf6-b8c235e0af1e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T21:51:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Chad-Cameroon Oil Project: Poverty Reduction or Recipe for Disaster?'
+created:
+  -
+    value: '2016-07-26T21:51:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T21:51:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-04-0023
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The largely privately funded, $3.7 billion Chad-Cameroon Petroleum Development and Pipeline Project represented the single largest foreign direct investment ever made in Sub-Saharan Africa at the time of its approval by the World Bank in June 2000. This case provides descriptive data about the project, its sponsors, the countries involved (particularly Chad), and the views of some of the project''s critics. It is designed to allow the student to gain a modest, but balanced, view of the process of dealing with large natural resource projects in emerging economies.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-04-0023
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'Chad, Cameroon'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 98f3f8e3-4eb3-42e3-92da-1e7d9254b9d2
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: 31fa2b18-a11a-47b5-bf6e-6e0352ec5dba
+  -
+    target_type: taxonomy_term
+    target_uuid: 159008fa-86a1-4be5-b1cd-f1d0eaec58b1
+field_teaching:
+  -
+    value: "The focus of the class discussion should be on some of the more important issues surrounding the process of developing a natural resource-based project in a country which faces a host of financial, political, and social issues. Due to its location and size, this particular project involves a complex series of interactions between and among three of the world's largest oil firms (Chevron Texaco and ExxonMobil of the U.S., and Petronas of Malasia), several multilateral agencies, and a series of nongovernment organizations (NGOs).\r\n\r\nIn terms of distinct points of focus for the class discussion, or so-called \"pastures,\" the case easily offers five or six such venues. For many students, this will be on of their few chances to discuss the economic, political, and social reality that exists in many African countries today. Chad is an extreme example, but it does have more than a passing similarity to a number of other countries located on the same continent. There can also be a quite reasonable discussion of the potential benefits and costs to the citizens of Chad of a natural resource-based project such as the one described in this case.\r\n\r\nThese first two pastures set the stage for forays into one or more of several other topical areas. Among those that can be addressed are the following: \r\n\r\nA more in-depth look at some specific aspects of the likely cost/benefit trade-offs involved in such a project from the perspective of the local citizenry. \r\nWhy so many of the NGO representatives were so opposed to this project, particularly given some of the likely benefits and the support of the World Bank. \r\nWhy the oil firm consortium chose to involve both the World Bank and the various NGOs in this project. \r\nWhether the inclusion of the \"Revenue Management Plan\" is likely to cause the project to have a more positive impact on the overall Chadian economy than might otherwise be the case."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.98f3f8e3-4eb3-42e3-92da-1e7d9254b9d2
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.31fa2b18-a11a-47b5-bf6e-6e0352ec5dba
+      - taxonomy_term.case_series_fields.159008fa-86a1-4be5-b1cd-f1d0eaec58b1

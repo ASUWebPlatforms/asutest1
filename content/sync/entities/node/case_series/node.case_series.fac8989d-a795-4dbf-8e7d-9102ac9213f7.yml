@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: fac8989d-a795-4dbf-8e7d-9102ac9213f7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T20:22:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Rise and Fall of Iridium'
+created:
+  -
+    value: '2016-07-27T20:22:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T20:22:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-00-0025
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case describes the development and subsequent failure of Iridium. Iridium was a satellite-based communications system initially developed by Motorola and then spun off as a separate company. Using its constellation of 66 low earth-orbit satellites, the Iridium system was intended to provide reliable communications from virtually any point on the globe. On November 1, 1998, Iridium began commercial telephone service and satellite-paging service began two weeks later. However, a variety of problems plagued the company and by May 1999 Iridium had only 10,000 subscribers. In August 1999, Iridium defaulted on its debt and filed for Chapter 11 bankruptcy protection. In March 2000, with only 50,000 subscribers, Iridium terminated its services. Motorola''s estimated financial exposure to the bankruptcy of Iridium was $2.2 billion.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-00-0025
+field_case_page_length:
+  -
+    value: '14 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: World
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "This case explores the following issues:\r\n\r\nCreating strategy under high levels of technological uncertainty.\r\nThe risks associated with being a first mover.\r\nThe risks associated with making tradeoffs to develop new products.\r\nHow to manage strategic failure.\r\nImpact of changing standards.\r\nThe importance of implementation and attention to detail in startups."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

@@ -1,0 +1,8 @@
+uuid: 9d2a1d6c-c57e-4164-a2a3-567bba801e46
+langcode: en
+status: true
+dependencies: {  }
+name: 'Lifelong Learning Categories'
+vid: life_long_learning_categories
+description: ''
+weight: 0

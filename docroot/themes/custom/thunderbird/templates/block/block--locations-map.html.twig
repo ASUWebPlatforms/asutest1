@@ -1,0 +1,10 @@
+{% set classes = ([ 'locations' ]) %}
+{% extends 'block.html.twig' %}
+{% block content %}
+  {% if not attributes.hasClass('layout-builder-block') %}
+    {{ attach_library('thunderbird/locationsmap-library') }}
+  {% endif %}
+  <div class="container">
+    <div id="mapplic"></div>
+  </div>
+{% endblock %}

@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 4728230a-e7ad-4707-9b62-8b33db59cd90
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-12-10T17:12:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'To Give or Not to Give: The Office Gift Season'
+created:
+  -
+    value: '2018-12-10T17:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-12-10T17:12:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/give-or-not-give-office-gift-season
+body:
+  -
+    value: "<h3><span>[[{\"fid\":\"68818\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Office Holiday Gift Giving\",\"field_file_image_title_text[und][0][value]\":\"Office Holiday Gift Giving\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Office Holiday Gift Giving\",\"field_file_image_title_text[und][0][value]\":\"Office Holiday Gift Giving\"}},\"attributes\":{\"alt\":\"Office Holiday Gift Giving\",\"title\":\"Office Holiday Gift Giving\",\"height\":\"677\",\"width\":\"1185\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</span></h3>\r\n<h3><span>Holiday Gift Giving Do’s and Don’ts</span></h3>\r\n<p>A&nbsp;<a href=\"http://email.prnewswire.com/wf/click?upn=PzvMxWf-2F1yQh6sa0NxEpSactbUBo-2B37VGNSxWQf7PiKQb5ntl0h0nVWQ-2FlHruydaSDyVqydUdy78tYZElHsPjsigWVL0Ht98RK2BLgk7gP-2FlOQmYIjlm6OJxYqZcaLjueizFiDZ2lew28sQyyCd00JvWP3viK-2FvBEvPAq7jju0oBd3Xpxljmb3C7zdNxcVtHVOzDbszNx8Y5g2PMPs033bZol12HDF4i2V0KaZ8lSjeKIdvIrBv1LBuNs2bMn1ep_lJGt-2By081KmyHvqbbC5YeslorhGw-2BJG33v0-2FDpAn7csme2eX2HUwrhTC0S9apib1N5knhxvpuhmUyvFz5Y8vhT0P0-2FjuHTtypPjn73xs04RGVpWi97rm6-2BEPAwbORaT6MQW6OT9OHHMDnA1XOF39JJT1UUPmwuUPjom5w5FqLcj0X7mteCYHrYg7w5wrttM0oHatovP6gXL2GqHXOE2yhYJsvuwkJIbTC50i4cx9RihNrHQHs2qXVDyT6uOK836Z4yNh8wMG3WK3x3lITZDisaVEzTAN-2F56JkpREYyAGyHRzZDm3VV8ry1eqqewj0bCO\">recent survey</a>&nbsp;found that 41&nbsp;percent&nbsp;of employees say that the number one holiday gift they want from their boss this year is a holiday bonus. However, 46&nbsp;percent&nbsp;say that holiday bonuses are not given at their company,&nbsp;and&nbsp;13&nbsp;percent&nbsp;go on to describe their boss as “stingy” this time of year.&nbsp;<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<p>“It’s a tricky line to walk because you don’t want to seem like Scrooge;&nbsp;but at the same time, giving out bonuses to each employee is not necessarily feasible for many companies,” says Rob Wilson, human resources expert and President of&nbsp;<a href=\"http://www.employco.com/\">Employco&nbsp;USA</a>, an employment solutions firm.&nbsp;<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<p>Wilson also says that many employees can struggle with holiday giving as it relates to their own colleagues or managers.&nbsp;<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<p>“Not only do many workers feel chagrined if they don’t receive a bonus from the boss, but they also have the added pressure of figuring out what to give their boss or managers, and how much to spend on coworkers,” says the employment trends expert.&nbsp;<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<p>To help circumvent these holiday headaches and keep employees focused, Wilson suggests the following Do’s and Don’ts as it relates to holiday giving:&nbsp;<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<h3><span>Set a rule&nbsp;about in-office gifts.&nbsp;</span></h3>\r\n<p>When emailing about your office holiday party, Wilson advises employers to include a line asking for employees not to give presents to their managers. “A simple line such as ‘While we appreciate your generosity, please no gifts for us.’ This will help to remove any fears of ‘brown-nosing’ or people getting favorable treatment just because they are able to splurge on a big gift for the boss while others cannot afford to do so.”&nbsp;<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<h3><span>Give back to the community.&nbsp;</span></h3>\r\n<p>“Rather than deal with the stress of Secret Santa or the distraction of a white elephant game, ask for employees to bring in one unwrapped toy to give to kids in need. Then, you can drop the toys off to a local YMCA, Toys for Tots, or similar charity. Not only will this remove stress about holiday giving in the office, but it will increase holiday spirit and joy in the office.”&nbsp;<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<h3><span>Give the best gift of all: Time off.&nbsp;</span></h3>\r\n<p>“Research has found that employees say ‘time away from the office’ as their favorite thing that employers give them this time of year. If you don’t have the funds for bonuses or a big holiday party, simply giving the team an extra day off or even half-a-day can go a long way in inspiring goodwill. Even turning the week of Christmas into a ‘casual dress’ week can help employees to feel relaxed and appreciated by the boss.”<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<p>In addition to&nbsp;these bits of advice,&nbsp;be sure to take time to walk around and say,&nbsp;“Thank you for working so hard for our company,” to your&nbsp;staff. For remote employees, write a personal e-mail to each employee or be unique and write out notes.&nbsp; Yes, hand-written&nbsp;and mailed!</p>\r\n<p>For more information on how to avoid mistakes while gift giving, take our quiz,&nbsp;<a href=\"/node/3449\"><span>Gifts Not Gaffes: What You Should Know About Cross-Cultural Giving</span></a></p>\r\n<p><strong>Author bio</strong></p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><i><a href=\"http://danamanciagli.com/\">her website.</a></i></p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/6-tips-be-better-managercoach\">How To Ask For A Raise – And Get It!<br>6 Tips to Be a Better Manager/Coach</a><br><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility!</a><a href=\"https://thunderbird.asu.edu/knowledge-network/5-simple-linkedin-hacks-optimize-your-job-search\"><br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/appreciating-diversity\">Getting to Know You – Appreciating Diversity</a></p>"
+    format: basic_html
+    processed: ''
+    summary: "A recent survey found that 41 percent of employees say that the number one holiday gift they want from their boss this year is a holiday bonus. However, 46 percent say that holiday bonuses are not given at their company, and 13 percent go on to describe their boss as “stingy” this time of year.  \r\n\r\n“It’s a tricky line to walk because you don’t want to seem like Scrooge; but at the same time, giving out bonuses to each employee is not necessarily feasible for many companies,” says Rob Wilson, human resources expert and President of Employco USA, an employment solutions firm.  "
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1280
+    height: 853
+    target_type: file
+    target_uuid: 98656510-aa48-4782-8435-421236e4b950
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b7ce5994-a336-433d-a3fa-93c52fd702a1
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.98656510-aa48-4782-8435-421236e4b950
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b7ce5994-a336-433d-a3fa-93c52fd702a1

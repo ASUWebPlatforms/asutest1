@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 0e9b0f22-742a-4a96-b7e4-61adbf5f7fc4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:01:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'The Steps American Healthcare Companies Must Consider to Expand Globally'
+created:
+  -
+    value: '2018-06-15T20:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:01:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/steps-american-healthcare-companies-must-consider-expand-globally
+body:
+  -
+    value: "<p>[[{\"fid\":\"60995\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"American Healthcare Companies Expand Globally\",\"field_file_image_title_text[und][0][value]\":\"American Healthcare Companies Expand Globally\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"American Healthcare Companies Expand Globally\",\"field_file_image_title_text[und][0][value]\":\"American Healthcare Companies Expand Globally\"}},\"attributes\":{\"alt\":\"American Healthcare Companies Expand Globally\",\"title\":\"American Healthcare Companies Expand Globally\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<p>It’s well-known around the world that despite its many breakthrough technologies and advances in healthcare, the United States lags behind other countries when it comes to coverage, cost, and quality. However, as healthcare companies rush to address these challenges driven by consumers in the US, they must realize that anything viable in America likely has potential overseas, assuming the right steps for international expansion are taken.</p>\r\n<p>For many entrepreneurs and healthcare leaders who firmly believe in their product, they must consider America as only a slice of the pie when it comes to revenue potential. For example, the medical device market was expected to reach <a href=\"https://www.statista.com/statistics/248676/projected-size-of-the-us-medical-device-industry/\" target=\"_blank\">$150 billion in 2017</a> in the US alone, a tremendous figure that demonstrates rapid growth. However, when looking outside America, the global medical device market is set to reach <a href=\"https://www.statista.com/statistics/248676/projected-size-of-the-us-medical-device-industry/\" target=\"_blank\">close to $400 billion</a>. Now, while there are thousands of companies in this industry, each targeting their own respective market segment, their revenue opportunity grows significantly when efforts go international.</p>\r\n<p>Establishing operations abroad requires the same foundation and principles to do so in the United States, but with the increased need for adaptation to local culture and business practices, and increased need for partners that can be trusted.</p>\r\n<p><strong>Conducting due diligence.</strong> Before entering any market, American healthcare companies need to perform extensive due diligence. The world may literally seem like their oyster, but blindly expanding into new regions just because they have a strong product in hand is an easy way for any company to lose money. There are certain precautions that must be taken to ensure that the market is truly a fit for their product, and this is not exclusive to the end-user audience alone:</p>\r\n<ol>\r\n<li><strong>Is the market of sufficient size?</strong> Most times, entering any new market is capital intensive, and often requires regional partners (more on that later), as well as meeting the criteria for a number of other factors. For that reason, American healthcare companies should weigh the risk versus the reward, and ensure the upside is worth the time, capital, and inevitable hurdles when entering a new region.</li>\r\n<li><strong>How is the regulatory environment different, or more importantly, the same?</strong> This point cannot be stressed enough – stick with what you know. Most countries have some semblance of regulatory body that reviews medical equipment and devices and pharmaceutical products, or anything that can be used or abused by a consumer. As such, knowing that the United States and the Federal Drug Administration (FDA) have their own unique form of checks and balances, seeking markets with similar processes presents a more familiar setting, and is thus often easier on the American company to gauge expectations.</li>\r\n<li><strong>Identify commonalities in the supply chain.</strong> Akin to the point above, how different is the supply chain in the new market? If the same or similar, then healthcare companies that have achieved success in the United States can likely adopt the same processes to succeed overseas. For example, if a company is able to sell direct to consumers in the US, but in a global market would require a distributor or middle man, then perhaps that region shouldn’t be considered for immediate expansion.</li>\r\n</ol>\r\n<p><strong>Identifying strong local partners.</strong> To the final point above, it is critical in most if not all situations to find the right individuals and organizations to partner with when entering new markets abroad. As such, once a determination to move forward in a new country is made, healthcare companies should adopt a strategy that will work across the board. First, identify regional partners that suit a specific need, which many times starts with financial resources that include banks and for some, investors. Once the capital becomes available and accounts are established, the focus must turn to operations – i.e., identifying a local individual or team that has relevant industry experience; strong leadership capabilities; a culture and transparency that reflects that of the U.S. brand; and perhaps of most importance: a commitment to the patients and the demand for the brand’s product.</p>\r\n<p>In some countries, especially developed ones, identifying these partners is relatively simple and can be done by seeking counsel from anyone who has international expansion experience. For regions that are less developed, there are so many more unknowns, which means the strength of relationship with local partners becomes more critical than ever.</p>\r\n<p>Success in the American healthcare industry is a tough nut to crack. Once achieved, it’s likely your success can resonate around the rest of the world, when executed with precision. By investing in time and resources, any company with a viable product and the desire to serve patients, can achieve success.</p>\r\n<p><em>This article was originally published in <a href=\"https://www.healthcarebusinesstoday.com/steps-american-healthcare-companies-expand-globally/\" target=\"_blank\">Healthcare Business Today</a>.</em></p>\r\n<h5>About the Author</h5>\r\n<p><em>[[{\"fid\":\"60996\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\",\"field_file_image_title_text[und][0][value]\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\",\"field_file_image_title_text[und][0][value]\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\"}},\"attributes\":{\"alt\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\",\"title\":\"Robert Courtney, Senior Executive Director, Retail Profile Russia and Retail Impulse Nordics\",\"width\":\"200\",\"style\":\"float: left; margin-left: 15px; margin-right: 15px;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]Robert W. Courtney '88 is an American lawyer and business executive with over 25 years’ international business and legal experience including franchising, cross-border joint ventures, retail, real estate, healthcare services, travel, and information technology. Courtney is the senior executive director of Retail Profile Russia and Retail Impulse Nordics. He has extensive experience as a principal in or advisor to the development and management of new ventures in Russia, the Commonwealth of Independent States, Eastern Europe, Scandinavia, China, Taiwan </em>and<em> Japan. He is a 1988 graduate of Thunderbird School of Global Management.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: 'It’s well-known around the world that despite its many breakthrough technologies and advances in healthcare, the United States lags behind other countries when it comes to coverage, cost, and quality. However, as healthcare companies rush to address these challenges driven by consumers in the US, they must realize that anything viable in America likely has potential overseas, assuming the right steps for international expansion are taken.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1104
+    height: 737
+    target_type: file
+    target_uuid: d33d274b-b700-436c-a030-cbcd7c2d9e01
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 66581819-156f-4d37-a97e-e764b7ba1f69
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.d33d274b-b700-436c-a030-cbcd7c2d9e01
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.66581819-156f-4d37-a97e-e764b7ba1f69

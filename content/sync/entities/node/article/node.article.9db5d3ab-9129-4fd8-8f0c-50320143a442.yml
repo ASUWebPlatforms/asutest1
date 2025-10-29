@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 9db5d3ab-9129-4fd8-8f0c-50320143a442
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Behind the Scenes at the Clinton Global Initiative America'
+created:
+  -
+    value: '2016-06-21T18:51:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/clinton-global-initiative-america
+body:
+  -
+    value: "<div><img src=\"http://t4g.thunderbird.edu/sites/default/files/t4g_-_bill_and_ladies.jpg\" alt=\"Bill\" width=\"323\" height=\"216\"><span>On Friday June 14th, I stood on stage at the CGI America meeting beside my colleagues Tracy Bame from Freeport McMoRan Copper and Gold and Emad Rizkalla of BlueDrop Performance Learning. The three of us represent a partnership that is bringing innovative online learning to women entrepreneurs. We were at CGI America to publically announce that we would be expanding our “DreamBuilder” program into the United States.</span></div>\r\n<p>For those of you unfamiliar with the Clinton Global Initiative, President Clinton created it in 2005 (the same year we started Thunderbird for Good) as a way to encourage leaders in government, business, and non-profit to address the world’s most pressing issues. When talking about why he started it, President Clinton always tells of how after his presidency he was often asked to speak at big events, but seldom asked to actually do anything afterwards. As he puts it, he created CGI to “turn ideas into action.”</p>\r\n<p>Every member of CGI is required to make a commitment to action. Everyone is asked to contribute however they can towards some kind of activity that will make the world a better place. Over the years, Thunderbird has participated in several commitments. We’ve partnered with organizations such as Goldman Sachs and the Inter-American Development Bank in their projects to educate women entrepreneurs. Our partnership with Freeport McMoRan started a few years ago with the South American version of the online DreamBuilder program and now has expanded to North America. Thunderbird is even involved in a new commitment with BlueDrop Performance Learning to create a training program to teach people how to make better commitments.<img src=\"http://t4g.thunderbird.edu/sites/default/files/t4g_-_cgi_paper.jpg\" alt=\"paper\" width=\"323\" height=\"216\"></p>\r\n<p>During CGI America, our DreamBuilder team was asked to participate in an on-stage commitment announcement. It’s the highest honor a commitment maker can receive… the chance to have your commitment read in front of the entire CGI community. While thankfully you almost never have to make any remarks, there is always a little thrill in wondering who will announce your commitment. Will it be President Clinton himself?</p>\r\n<p>Leading up to our big moment, we were placed behind the scenes in the “green room” to receive our coaching. Two other groups of commitment makers would join us during this session… one on early childhood development and another on work skills training for veterans. All of us were buzzing with excitement as we got ready. They led us single file down a back hallway behind the massive stage to do a practice walk through beforehand. As we waited in the grungy service corridor, we saw Bill Clinton walking towards us, surrounded by his security detail, but grinning ear to ear. As he reached us, he stopped and simply said to us “Thank you!”<br>When we got to the stage for the practice (“stand here,” “don’t turn your back to the audience,” “pause and smile for the photographs”) we were told that President Bill Clinton would NOT be introducing us, but Secretary Hillary Clinton would be. What a surprise and an honor! She has championed women’s causes for years, so it was a thrill to have her announce our work.&nbsp;</p>\r\n<p>When the time came for the actual announcement, we stood backstage watching Bill and Chelsea Clinton chat with Bill Simon (President and CEO of Walmart) and Ali Velshi (of Al Jazeera America). Then our names were called and we walked out into the bright lights in front of a ballroom filled with people. Secretary Clinton talked about DreamBuilder and how it would provide thousands of women with free online education to help them to start and grow businesses. (We heard cheers in the audience at the word “free.”) Secretary Clinton shook our hands, posed for the pictures with our certificate, and off we went, eager to see if our friends in the audience gotten good photos… to post, to tweet, to actually confirm that we were on stage with Hillary Clinton!</p>\r\n<p><img src=\"http://t4g.thunderbird.edu/sites/default/files/t4g_-_cgi_america_2013.jpg\" width=\"323\" height=\"216\"><br>In the days that followed, the news would pick up the story and the video of us shaking her hand was used by CNN as background tape for a story about her potential future presidency. All manner of people reached out to us to learn more about DreamBuilder and to see how they could get involved. We’ve even got a list started of women entrepreneurs who are ready to sign up for the program as soon as it is launched.</p>\r\n<p>The CGI events are exciting and fun, but they are also pretty brilliant. They recognize the important work many organizations are quietly doing to change the world, and help them to get the attention necessary to make the biggest possible impact. Turning ideas into action.</p>\r\n<p>&nbsp;</p>\r\n<p>To see our big announcement, go here:&nbsp;<span><a href=\"http://www.cgiamerica.org/2013/webcast/archives/view_webcast.asp?id=20\">http://www.cgiamerica.org/2013/webcast/archives/view_webcast.asp?id=20</a></span><br>To check out our DreamBuilder program, go here:&nbsp;<span><a href=\"http://www.dreambuilder.org/\">www.dreambuilder.org</a></span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

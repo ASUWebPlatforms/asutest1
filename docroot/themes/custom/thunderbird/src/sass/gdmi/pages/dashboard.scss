@@ -1,0 +1,61 @@
+.started-assessment-block  {
+  padding-top: 71px;
+  margin-bottom: 88px;
+  
+  h1, p {
+    margin-bottom: 71px;
+  }
+
+  span {
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 1;
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+
+  a {
+    font-size: 1rem;
+    font-weight: 900;
+  }
+
+  @include media-breakpoint-up(lg) {
+    &__col {
+      padding-right: 100px !important;
+    }
+  }
+
+  &.text-muted {
+    &,
+    h1,
+    span {
+      color: #979797 !important;
+    }
+
+    a {
+      color: #808080 !important;
+    }
+  }
+}
+
+.dashboard-hero {
+  position: relative;
+
+  img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .content .btn {
+    color: $gray-900;
+    background-color: $gold;
+    border-color: $gold;
+  }
+}
+
+.btn-main-action {
+  font-weight: 900 !important;
+  font-size: 16px !important;
+}

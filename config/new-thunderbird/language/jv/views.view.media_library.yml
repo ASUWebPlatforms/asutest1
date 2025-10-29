@@ -1,0 +1,68 @@
+display:
+  default:
+    display_title: Gawan
+    display_options:
+      title: Media
+      fields:
+        media_bulk_form:
+          action_title: Aksi
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- Kabeh -'
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+      filters:
+        status:
+          group_info:
+            label: Dipacak
+            group_items:
+              1:
+                title: Dipacak
+        name:
+          expose:
+            label: Jeneng
+        langcode:
+          expose:
+            label: Basa
+  page:
+    display_title: Kācā
+    display_options:
+      fields:
+        media_bulk_form:
+          action_title: Aksi
+        edit_media:
+          text: Sunting
+        delete_media:
+          text: Busak
+  widget:
+    display_title: Piranti
+    display_options:
+      arguments:
+        bundle:
+          exception:
+            title: Kabèh
+      filters:
+        name:
+          expose:
+            label: Jeneng
+  widget_table:
+    display_options:
+      fields:
+        name:
+          label: Jeneng
+        uid:
+          label: Penulis
+        changed:
+          label: 'Wis anyar'
+      arguments:
+        bundle:
+          exception:
+            title: Kabèh
+      filters:
+        name:
+          expose:
+            label: Jeneng

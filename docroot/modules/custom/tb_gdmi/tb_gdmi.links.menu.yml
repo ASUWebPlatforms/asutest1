@@ -1,0 +1,91 @@
+tb_gdmi.settings_form:
+  title: GDMI settings
+  description: Configure settings.
+  parent: system.admin_config_system
+  route_name: tb_gdmi.settings_form
+  weight: 10
+tb_gdmi.purchasing_page_settings:
+  title: GDMI purchasing page settings
+  description: Configure purchasing page settings.
+  parent: tb_gdmi.settings_form
+  route_name: tb_gdmi.purchasing_page_settings
+  weight: 10
+tb_gdmi.submission_results_page_settings_form:
+  title: Submission Results Page
+  description: Submission Results Page Configure settings.
+  parent: tb_gdmi.settings_form
+  route_name: tb_gdmi.submission_results_page_settings_form
+  weight: 10
+tb_gdmi.submission_results_subpages_settings_form:
+  title: Submission Results Subpages
+  description: Submission Results Subpages Configure settings.
+  parent: tb_gdmi.settings_form
+  route_name: tb_gdmi.submission_results_subpages_settings_form
+  weight: 10
+tb_gdmi.groups_communications:
+  title: Groups Communications
+  description: The add groups admins communications message.
+  parent: tb_gdmi.settings_form
+  route_name: tb_gdmi.groups_communications
+  weight: 10
+tb_gdmi.groups_participant_invitation_settings:
+  title: Groups participant invitation
+  description: The group participant invitation message.
+  parent: tb_gdmi.settings_form
+  route_name: tb_gdmi.groups_participant_invitation_settings
+  weight: 10
+tb_gdmi.groups_participant_reminders_settings:
+  title: Groups participant reminders
+  description: The group participant reminder message.
+  parent: tb_gdmi.settings_form
+  route_name: tb_gdmi.groups_participant_reminders_settings
+  weight: 10
+tb_gdmi.dashboard_results_mindset:
+  title: 'Your GDMI Profile'
+  description: 'Your GDMI Profile.'
+  menu_name: 'gdmi-results'
+  route_name: tb_gdmi.dashboard_results
+  route_parameters:
+    submission_id: NULL
+  class: Drupal\tb_gdmi\Plugin\Menu\MenuLinkResultsSubmission
+  weight: 1
+tb_gdmi.dashboard_results_intellectual:
+  title: 'Global Intellectual Capital'
+  description: 'Intellectual Results Page.'
+  menu_name: 'gdmi-results'
+  route_name: tb_gdmi.dashboard_capital_results
+  route_parameters:
+    submission_id: NULL
+    capital_name: 'intellectual'
+  class: Drupal\tb_gdmi\Plugin\Menu\MenuLinkResultsSubmission
+  weight: 2
+tb_gdmi.dashboard_results_digital:
+  title: 'Global Digital Capital'
+  description: 'Digital Results Page.'
+  menu_name: 'gdmi-results'
+  route_name: tb_gdmi.dashboard_capital_results
+  route_parameters:
+    submission_id: NULL
+    capital_name: 'digital'
+  class: Drupal\tb_gdmi\Plugin\Menu\MenuLinkResultsSubmission
+  weight: 3
+tb_gdmi.dashboard_results_social:
+  title: 'Global Social Capital'
+  description: 'Social Results Page.'
+  menu_name: 'gdmi-results'
+  route_name: tb_gdmi.dashboard_capital_results
+  route_parameters:
+    submission_id: NULL
+    capital_name: 'social'
+  class: Drupal\tb_gdmi\Plugin\Menu\MenuLinkResultsSubmission
+  weight: 4
+tb_gdmi.dashboard_results_psychological:
+  title: 'Global Psychological Capital'
+  description: 'Psychological Results Page.'
+  menu_name: 'gdmi-results'
+  route_name: tb_gdmi.dashboard_capital_results
+  route_parameters:
+    submission_id: NULL
+    capital_name: 'psychological'
+  class: Drupal\tb_gdmi\Plugin\Menu\MenuLinkResultsSubmission
+  weight: 5

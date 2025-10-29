@@ -1,0 +1,21 @@
+uuid: d1560d8c-892e-4419-a77d-b22e454c6303
+langcode: en
+status: true
+dependencies: {  }
+name: gdmi_results_sm
+label: 'GDMI Results (SM)'
+effects:
+  bb85236c-743b-41d2-a1ff-7c2ca0a068a6:
+    uuid: bb85236c-743b-41d2-a1ff-7c2ca0a068a6
+    id: image_convert
+    weight: -9
+    data:
+      extension: webp
+  88db776b-afc7-4a4b-86c8-e28c2b11d20d:
+    uuid: 88db776b-afc7-4a4b-86c8-e28c2b11d20d
+    id: image_scale_and_crop
+    weight: -10
+    data:
+      width: 600
+      height: 400
+      anchor: center-center

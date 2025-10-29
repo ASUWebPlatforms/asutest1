@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: cb356d5a-a9fa-4999-8423-4b6d1fb34dda
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2020-01-22T18:52:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'AT&T: An Underperforming Conglomerate?'
+created:
+  -
+    value: '2020-01-22T18:52:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-01-22T18:52:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-20-0002
+body:
+  -
+    value: '<p>In September 2019, Elliott Management (Elliott), a hedge fund manager and activist investor, disclosed that it had acquired a $3.2 billion position in AT&amp;T and was seeking strategic and operational change.&nbsp; In a letter to the AT&amp;T board, Elliott accused the company of becoming “a sprawling collection of businesses battling well-funded competitors, in new markets, with different regulations, and saddled with the financial repercussions of its choices.”&nbsp; Elliott outlined the areas of concern and a set of recommendations, including divestments of non-core businesses and a cessation in acquisitions.&nbsp; AT&amp;T must now decide if the recommendations are valid and what actions, if any, are warranted.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-20-0002
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: fb21e646-4d63-4339-986d-3a9246575132
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2020-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: 'Published sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 89217db2-bca9-4b8f-ad63-53f79bc51f71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: fd9b1245-17c0-43da-8b1e-1e820fd48d2b
+field_teaching:
+  -
+    value: 'There are three primary learning objectives.  The first is to examine the rapidly changing entertainment industry and the basis for competitive advantage.   The basis for competitive advantage can be used with the second objective, which is to develop greater understanding of how to evaluate the strategic logic of a complex corporate strategy.  Through a series of major acquisitions, AT&T has become an entertainment and communications giant competing across a diverse set of businesses.  Does the strategy make sense? Are all of the major businesses better off from AT&T ownership?  Would any of the businesses operate more successfully if they were spun off or sold to another firm?  The third objective is to examine the role of shareholder activists and to question whether they are a positive or negative force.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.fb21e646-4d63-4339-986d-3a9246575132
+      - taxonomy_term.case_series_categories.89217db2-bca9-4b8f-ad63-53f79bc51f71
+      - taxonomy_term.case_series_fields.fd9b1245-17c0-43da-8b1e-1e820fd48d2b

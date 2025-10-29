@@ -1,0 +1,18 @@
+uuid: b6488a9a-943b-48b9-b4d3-f921c971fe71
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.testimonial_on_image_background
+id: block_content.testimonial_on_image_background.info
+field_name: info
+entity_type: block_content
+bundle: testimonial_on_image_background
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

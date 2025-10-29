@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 8e62abf8-ecf4-4704-9481-e33b76eb6041
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:50:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+title:
+  -
+    value: 'Starbucks Responds To Charges of Racism With An Apology'
+created:
+  -
+    value: '2018-04-17T09:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:50:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/starbucks-responds-charges-racism-apology
+body:
+  -
+    value: "<div class=\"postArticle-content js-postField js-notesSource js-trackedPost\" data-post-id=\"d9cd8697b8eb\" data-source=\"post_page\" data-collection-id=\"b2a6394a99fa\" data-tracking-context=\"postPage\" data-scroll=\"native\">\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf-after--figure\"><em>[[{\"fid\":\"16139\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Philadelphia Starbucks Protestors\",\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Philadelphia Starbucks Protestors\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Philadelphia Starbucks Protestors\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</em></p>\r\n<p class=\"graf graf--p graf-after--figure\"><em>This article also appeared in&nbsp;</em><a href=\"https://chiefexecutive.net/starbucks-ceo-johnson-responded-racism-charges-apology/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://chiefexecutive.net/starbucks-ceo-johnson-responded-racism-charges-apology/\"><em>Chief Executive Magazine</em></a><em>.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Starbucks CEO Kevin Johnson is preaching Abraham Lincoln’s epiphany, “With public sentiment, nothing can fail: without it nothing can succeed. Public sentiment is everything,” as he veers his company away from the mass hysteria over the arrest of two black men at one of his Philadelphia locations.</p>\r\n<p class=\"graf graf--p graf-after--p\">Most people believe there are two sides to every story. But for a consumer brand of Starbucks stature, there is only the side of public sentiment. It may seem to some that Johnson’s mea culpa act is contrived or too earnest. But he knows something they don’t. The results of even heartfelt attempts to defend company behavior in the face of a social media revolt will result in even greater devastation to reputation, employees and shareholders. The ability to use one man’s shame to inspire another man’s fame is the mantra of this era. Just ask United Airlines, Equifax, or Uber.</p>\r\n<p class=\"graf graf--p graf-after--p\">The fickleness of the consumer is such that a dent can become a leak in social media which turns into a flood of unhappy customers who turn away from the franchise it took decades to build. The charge of racial profiling, whether merited or not, is so toxic, spreads so rapidly with huge unintended consequences, the only antidote is prevention. But if it’s too late, contrition holds the most promise. We may hate the company but we love a penitent.</p>\r\n<p class=\"graf graf--p graf-after--p\">Battalions in war torn regions have had to learn counterinsurgency techniques, which teach the art of negotiation over authoritarianism, Now, companies like Starbucks must retrain employees to deal with odd behaviors that were unacceptable five years ago, but today are tolerated.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">The world changed, and there are no time outs or instant replays for corporate reputation. The imbroglio in Philadelphia is a lesson that for the hearts of consumers, winning starts in the short run, and you do whatever it takes.</p>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n<p><strong>Read more from Jeff:</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/wisdom-jp-morgan-ceo-jamie-dimon\">The Wisdom of JP Morgan CEO Jamie Dimon</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/sex-and-boardroom\">Sex and The Boardroom</a></p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/amazon-and-scandalmongers\">Amazon and The Scandalmongers</a></p>\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: "After a customer relations snafu turned into a social media nightmare, the iconic consumer brand’s CEO woke up and smelled the coffee.\r\n"
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1067
+    height: 600
+    target_type: file
+    target_uuid: 70575bd0-c44e-4b70-bba4-14d9d2794d87
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8
+    file:
+      - file.image.70575bd0-c44e-4b70-bba4-14d9d2794d87
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

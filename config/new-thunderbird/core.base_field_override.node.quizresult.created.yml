@@ -1,0 +1,18 @@
+uuid: d0c5ab79-50c9-484e-aa8f-c399c90e0fc6
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.quizresult
+id: node.quizresult.created
+field_name: created
+entity_type: node
+bundle: quizresult
+label: 'Authored on'
+description: 'The time that the node was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

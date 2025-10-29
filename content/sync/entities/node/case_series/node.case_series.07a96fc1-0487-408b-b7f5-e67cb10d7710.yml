@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: 07a96fc1-0487-408b-b7f5-e67cb10d7710
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:26:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Minera Las Piedras of Chile: The Fruits of Copper'
+created:
+  -
+    value: '2016-07-17T23:44:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:26:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-06-0003
+body:
+  -
+    value: '<p><span>The leadership of Minera Las Piedras (MLP) of Chile, a privately held Chilean copper mining company, had an unusual problem in January 2005: the company had too much money. The company had earned $500 million more than expected in 2004, and as a result was now exploring its alternative uses for the funds. Although all agreed it was a nice problem, it still presented leadership with a rather complex set of choices of how and where to invest or distribute these new-found riches.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-06-0003
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2006-01-01'
+field_case_setting:
+  -
+    value: Chile
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  -
+    target_type: taxonomy_term
+    target_uuid: 7a2168f5-adeb-4285-9c4b-9e990c161c67
+  -
+    target_type: taxonomy_term
+    target_uuid: e4ecb6fa-116f-42e5-9a97-26ff25b710cc
+  -
+    target_type: taxonomy_term
+    target_uuid: 1859f567-6035-46bd-a7ea-243e41c3ad3c
+field_teaching:
+  -
+    value: 'This case was designed to serve as a platform for teaching how large corporations must deploy their operating and free cash flows on an annual basis. It highlights the continuing commitments which a company must meet in terms of annual investments and returns to its shareholders. Once these required cash flow commitments are met, the firm is then free to determine how it wishes to deploy its discretionary cash flows between shareholders, discretionary investments, and changes in capital structure. The case can also be used to link areas of traditional financial theory-cost of capital, capital budgeting, cash flow analysis, financial structure-within the general corporate strategy of the company.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4
+      - taxonomy_term.case_series_fields.7a2168f5-adeb-4285-9c4b-9e990c161c67
+      - taxonomy_term.case_series_fields.e4ecb6fa-116f-42e5-9a97-26ff25b710cc
+      - taxonomy_term.case_series_fields.1859f567-6035-46bd-a7ea-243e41c3ad3c

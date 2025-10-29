@@ -1,0 +1,18 @@
+uuid: 261ef255-965c-4ede-b5fc-1519699b9983
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.donut_chart
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: block_content.donut_chart
+target_entity_type_id: block_content
+target_bundle: donut_chart
+default_langcode: site_default
+language_alterable: false

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 1d584bc9-fcff-4310-a123-f72c3db990a6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: what_this_is_qa_with_prof._robert_grosse_thoughts_about_brexit_by_robert_grosse_.jpg
+uri:
+  -
+    value: 'public://article/what_this_is_qa_with_prof._robert_grosse_thoughts_about_brexit_by_robert_grosse_.jpg'
+    url: /sites/default/files/article/what_this_is_qa_with_prof._robert_grosse_thoughts_about_brexit_by_robert_grosse_.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 1853665
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-10-02T17:56:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-10-02T17:56:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

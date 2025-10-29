@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: 4364fc44-41ab-4201-aaf9-f5926c9d1d83
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:51:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Masonite International Corporation (A): Trouble at the Door?'
+created:
+  -
+    value: '2016-07-16T00:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:51:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-11-0008
+body:
+  -
+    value: '<p>It was May 19, 2004, and Ralf Thomas, analyst at SBU Investment Research, was reviewing the Form 40-F that one of the companies he was covering, Masonite International Corporation (Masonite), had filed with the Securities and Exchange Commission (SEC). Masonite was one of the world’s largest manufacturers and merchandisers of doors, door components, and door entry systems, headquartered in Mississauga, Ontario. Its latest results were very good, with strong growth as well as high margins and cash flows. The company was on track to pay down debt and be well positioned to achieve the investment-grade credit rating it was coveting.</p><p>But despite all this good news, Ralf had some concerns; he was wondering whether this strong performance was sustainable. He knew that earnings of building products companies were cyclical. They were generally sensitive to the state of the economy, demand for housing, consumer sentiment, sharp increases in interest rates, changes in buyers’ credit terms, and rising prices of raw materials such as wood products and steel. Most economies around the world were recording full-employment and noninflationary growth rates, but real growth was so high that central banks were mooting the idea of raising interest rates. In addition, there were now concerns that there might be housing bubbles in several geographic areas. But even more worrying, the price of raw materials, like steel, had more than doubled over the last 12 months, and there were shortages, in particular in North America, Masonite’s main market. If sales were to soften in an environment marked by high production costs and rising interest rates, Masonite’s margins and cash flows could be under pressure. Ralf still had a “buy” rating on the stock. Was it time to change it to a “hold” or even a “sell”?</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-11-0008
+field_case_page_length:
+  -
+    value: '24 Pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 72eab51d-2565-4df4-8b7a-204568fb9b34
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: 'North America'
+field_case_source:
+  -
+    value: 'Library, General Experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  - {  }
+field_teaching:
+  -
+    value: 'Class in Corporate Finance or Finance Statement Analysis'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.72eab51d-2565-4df4-8b7a-204568fb9b34
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

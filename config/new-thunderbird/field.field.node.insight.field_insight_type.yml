@@ -1,0 +1,33 @@
+uuid: 31541cab-7787-4e04-bb09-8a8b49992785
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_insight_type
+    - node.type.insight
+    - taxonomy.vocabulary.insight_types
+  content:
+    - 'taxonomy_term:insight_types:6907c488-c2fa-476a-9111-8ebeb010e28f'
+id: node.insight.field_insight_type
+field_name: field_insight_type
+entity_type: node
+bundle: insight
+label: Type
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    target_uuid: 6907c488-c2fa-476a-9111-8ebeb010e28f
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      insight_types: insight_types
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

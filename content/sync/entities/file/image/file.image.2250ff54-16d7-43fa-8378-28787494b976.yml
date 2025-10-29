@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 2250ff54-16d7-43fa-8378-28787494b976
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+filename:
+  -
+    value: owl.jpeg
+uri:
+  -
+    value: 'public://article/owl.jpeg'
+    url: /sites/default/files/article/owl.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 212147
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-07-24T20:51:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-24T20:51:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d

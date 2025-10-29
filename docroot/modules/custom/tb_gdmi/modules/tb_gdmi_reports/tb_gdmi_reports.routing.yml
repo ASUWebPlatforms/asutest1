@@ -1,0 +1,7 @@
+entity.gdmi_report.settings:
+  path: 'admin/structure/gdmi-report'
+  defaults:
+    _form: '\Drupal\tb_gdmi_reports\Form\GdmiReportSettingsForm'
+    _title: 'GDMI reports'
+  requirements:
+    _permission: 'administer GDMI reports'

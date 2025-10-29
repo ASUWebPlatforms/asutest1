@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 513d4415-d0ae-446c-b0fc-02abfac4319e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-04-21T17:11:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Tales of Global Adventure: Lost In Translation '
+created:
+  -
+    value: '2017-04-06T18:41:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-04-21T17:11:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/lost-in-translation
+body:
+  -
+    value: "<p>A trip to the local hospital</p>\r\n<p><i>By Nikhil Agarwal ’10 / China</i></p>\r\n<p><i>[[{\"fid\":\"4833\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Nikhil Agarwal image\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Nikhil Agarwal image\",\"height\":\"201\",\"width\":\"402\",\"style\":\"margin: 10px; float: left;\",\"class\":\"panopoly-image-original media-element file-default\"}}]] </i></p>\r\n<p><i>Nihao </i>- hello. That was the only word of Mandarin I knew before heading to the Land of the Dragon for Thunderbird’s first study abroad program with Peking University in Beijing, China. As most firsts go, there were some rough edges to the experience, but that is part of the beauty of the international assignments on which Thunderbirds thrive.</p>\r\n<p>In less than 48 hours, I went half way around the world to a culture totally foreign to me. My first module courses of that trimester were in another travel abroad country, Mexico. The classes had concluded on a Thursday afternoon at the <i>Instituto Tecnológico de Monterrey </i>and I had exactly one day, Friday, to get my visa for China and get on the airplane in time to arrive for the start of my Regional Business Environment class on Saturday, nearly 12,000 kilometers away in Beijing, China. \LI was really excited to be able to spend seven weeks in a part of the world that I had read and heard so much about, and to be able to experience it first-hand. The initial thing I remember after landing in Beijing was having to rate the service offered by the immigration officer on a scale of one to five. I thought of how the immigration officers in my home country of India could use something similar, since most of them just sat there working slowly, creating a backlog of waiting visitors with no care for customer service.</p>\r\n<p>Unlike most of my classmates, I had made my own housing arrangements. I wanted to save some money on lodging and stay in a place where I could meet more people. My hope was that by learning from and about the locals it would help me unravel some of the mysteries that lay in the giant underbelly of a future global leader. A friend from Beijing had suggested that the most cost effective and best way to experience Chinese culture was to live in a home-stay with a Chinese family.</p>\r\n<p>When I arrived at my home-stay to sign the paperwork, the only words I understood were my name and the English words: <i>welcome </i>and <i>student. </i>Everything else was in Mandarin and was translated through my friend. Though I had no idea what Crystal, my host mother, was saying, she was very cheerful and kept smiling all the time. This made me feel a bit more comfortable. I thought I was ready to take on the challenge.</p>\r\n<p>I had lucked out with my host-stay mother – she wanted to learn and improve her English, and I wanted to learn Mandarin. We initially started talking through broken English, because her English was better than my Mandarin. She already had me beat by three words. Soon we found all kinds of ways to express our thoughts – using hand signals, writing back and forth to each other in English. Her ample use of all kinds of “smileys” when writing her messages was a surprise. Sometimes, we just simply waited for the other person to act out what they wanted to communicate. In retrospect, the biggest asset during this time was patience and an open mind.</p>\r\n<p>As the days passed, we started to understand each other better. I began taking classes to learn Mandarin and she was very helpful in going over the day’s homework with me and helping with revisions. Since a big part of speaking Mandarin is the pronunciation and getting the tones correct, it required a lot of practice, something that she was always very generous to offer. She even taught me a couple of tricks to remember some of the pronunciations.</p>\r\n<p>My biggest language challenge came four weeks in to my stay in Beijing. I was slowly beginning to understand how things worked in the city. I was starting to enjoy my stay in China. I had even learned to babble some survival Mandarin, made local friends, and was settling into a routine. I became adventurous in the food I ate and started eating things that I wouldn’t normally.</p>\r\n<p>I had been warned to be careful of the food in China and watch what I ate, but I had mistakenly believed that since I had grown up in India, eating all kinds of food from roadside stalls and drinking, on occasion, sub-standard water, I would be okay. I soon found out how wrong I was.</p>\r\n<p>I woke up in the middle of the night covered in sweat with a bad stomachache and a worse headache. At first I dismissed it as a case of food poisoning, took a couple of aspirin tablets and went back to bed. A couple of hours later I woke up not feeling any better, and by the next afternoon I could not even hold down water.</p>\r\n<p>While I am not a big fan of hospitals and rarely fall ill, I felt I definitely had to go to the hospital after having suffered for more than 24 hours and consuming nothing more than a couple sips of water. I called the American hospital, but found out they did not have an available appointment until the next evening. I was not ready to wait that long so I called Di, one of the program coordinators from the International Student Office at Peking University. She was kind enough to accompany me to the Chinese hospital.</p>\r\n<p>Things did not go as smoothly as I had hoped. Lost in translation was how I felt. I had to explain the symptoms to Di, who explained them to the doctor and then translated back the questions from the doctor to me. I was definitely uncomfortable with the situation, especially when I was escorted to a roomful of patients who were all sitting in reclining chairs hooked up to IV drips. I was told that I had some kind of infection and the quickest and most painless way to disinfect (yes disinfect!) was to take the IV drips three times a day for three days. Now, I did not mind taking the drip, but walking into a room full of at least 300 people with only two nurses to oversee them did nothing to put me at ease. The pain was so intense, however, that I was willing to try anything that would make me better, even this magical IV drip with no name.</p>\r\n<p>The magic drip turned out to be an antibiotic that was so strong that it caused ulcers in my mouth; any sort of liquid, even water, became painful to swallow. I asked the doctor, through my translator, if she could prescribe me medicine for my ulcers, but she told me to go to a traditional Chinese drugstore and get traditional Chinese medicine, which according to her was best suited for my condition. I took her advice and decided to go to a pharmacy and get a spray. It turned out to be no better than if I had rubbed salt on my ulcers.</p>\r\n<p>Even though I could not understand the taxi drivers, nurses, doctor or the pharmacist, Di and the other coordinators were very helpful and went out of their way on a number of occasions to make me feel better. While everyone at the hospital had initially been shocked to see a foreigner coming to a local hospital instead of going to an expat one, after the initial shock they all made sure they helped me out in whatever way possible. Sometimes the nurse would come out and put me in a taxi. On one occasion a doctor even gave me a ride home.</p>\r\n<p>All of this was happening at the worst possible time for my studies: between final project submissions and end-of-module exams. As each of the five days passed, my will to stick this out became stronger, though I must admit there were times when I did check out flights home. I believe it was my Thunderbird nature and a penchant for adventure that gave me the strength to live through those horrid five days.</p>\r\n<p>A trip to the hospital was not what I had in mind when I originally set out to learn from and about the locals, but it allowed me to catch a glimpse of Chinese culture that I would otherwise never have seen.</p>\r\n<p><i>Nikhil Agarwal, </i><i>a 2010 graduate of Thunderbird, at the time of this article, was the owner of Exim Metals, a Houston, Texas-based ferrous metal scrap company. He also helped set up a fund providing short-term working capital to steel plants in western India. </i></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2486
+    height: 1316
+    target_type: file
+    target_uuid: d19ad236-3ddb-42d3-bb6d-9b07e342ed3a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.d19ad236-3ddb-42d3-bb6d-9b07e342ed3a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

@@ -1,0 +1,119 @@
+uuid:
+  -
+    value: 28c8b164-b61d-4f2b-a231-62ae4fcd3e9d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:24:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Blood Bananas: Chiquita in Colombia'
+created:
+  -
+    value: '2016-07-16T00:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:24:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-10-0012
+body:
+  -
+    value: '<p><span>Chiquita Brands International and its leaders learned a very hard lesson about paying off terrorist groups to protect their employees. Over the past 25 years, no place has been more perilous for companies than Colombia, a country that is finally beginning to emerge from the effects its Colombian banana subsidiaries had made protection payments to terrorist groups from 1997 through 2004. The Justice Department began an investigation, focusing on the role and conduct of Chiquita and some of its officers in this criminal activity. Subsequently, Chiquita entered into a plea agreement that gave them the dubious distinction of being the first major U.S. company ever convicted of dealing with terrorists, and resulted in a fine of US$25 million and other penalties. To make matters worse, the industry was facing pressure from increasing retailer purchasing power, major changes in consumer tastes and preferences, and Europe’s imposition of an “onerous tariff” on companies that sourced bananas from Latin America. With this in mind, Fernando Aguirre, Chiquita’s CEO since 2004, reflected on how the company had arrived at this point, and what had been done to correct the course so far. He faced major challenges to the company’s competitive position in this dynamic industry. What would it take to position the company on a more positive competitive trajectory? Would this even be possible in this industry and in the business climate Chiquita faced?</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-10-0012
+field_case_page_length:
+  -
+    value: '16 Pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b91234b7-5fe6-4964-80d7-0c09e20cd404
+  -
+    target_type: taxonomy_term
+    target_uuid: 09291743-98ed-47f2-8a6c-b35b3937c2ce
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2010-01-01'
+field_case_setting:
+  -
+    value: Colombia
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: ed3f6023-bab2-4a5e-a56a-1c54b925845d
+  -
+    target_type: taxonomy_term
+    target_uuid: be529d94-28fd-4a24-b924-5cecddb53b94
+  -
+    target_type: taxonomy_term
+    target_uuid: 3ccac491-e5bd-4acd-9553-9a9fef4094bc
+field_teaching:
+  -
+    value: "The case provides a vehicle for analyzing strategic, contextual, and ethical challenges underlying Chiquita’s presence in Colombia, a primary global source for bananas. The case highlights the trade-offs that Chiquita made while paying protection money to ensure business continuity and employee protection. Historic information tracks the evolution of the company from its early focus on owning plantations; growing, importing, and distributing bananas; sourcing, marketing, and distribution, to “downstream” value-chain activities that were more profitable, less nature-dependent, and less risky. The case emphasizes Chiquita’s focus on risk avoidance, cost control, and globalization; the factors that contributed to the payment of protection money; and Chiquita’s failure to respond quickly and appropriately. The case discusses decisions made as Chiquita grew from a small firm to become an industry giant; innovation, and continuous improvement as drivers of industry consolidation; and how Chiquita responded to terrorist threats and the consequences of the response. Detailed information in the case helps the reader understand potential globalization challenges and those inherent in managing external threats and high visibility crises.\r\n\r\nThe case fits well into MBA courses in industry and competitive strategy, general management, operations management, business ethics, or crisis management. Concepts from the case include emerging market risk that globalizing companies may encounter; implications of administrative heritage for organizational structure and communication flows; fundamental challenges of global coordination and control; and strategic communication role of the leader in a crisis. These concepts are applicable in multiple other industries."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b91234b7-5fe6-4964-80d7-0c09e20cd404
+      - taxonomy_term.case_series_authors.09291743-98ed-47f2-8a6c-b35b3937c2ce
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.ed3f6023-bab2-4a5e-a56a-1c54b925845d
+      - taxonomy_term.case_series_fields.be529d94-28fd-4a24-b924-5cecddb53b94
+      - taxonomy_term.case_series_fields.3ccac491-e5bd-4acd-9553-9a9fef4094bc

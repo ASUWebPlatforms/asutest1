@@ -1,0 +1,15 @@
+{#
+/**
+ * @file
+ * Template for cta field on card selection block.
+ */
+#}
+
+{# Variables come from preprocess field function #}
+{% for button in buttons %}
+  {% include '@renovation/buttons/button-arrow.twig' with {
+    url : button.link,
+    title: button.title,
+    target: button.target,
+  } %}
+{% endfor %}

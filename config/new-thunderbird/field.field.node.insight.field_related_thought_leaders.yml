@@ -1,0 +1,29 @@
+uuid: 03dd9fef-0314-485e-bdcb-28fa416c2230
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_related_thought_leaders
+    - node.type.insight
+    - taxonomy.vocabulary.kn_thought_leaders
+id: node.insight.field_related_thought_leaders
+field_name: field_related_thought_leaders
+entity_type: node
+bundle: insight
+label: 'Related Thought Leaders'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      kn_thought_leaders: kn_thought_leaders
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

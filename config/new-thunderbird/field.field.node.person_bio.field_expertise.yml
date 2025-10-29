@@ -1,0 +1,29 @@
+uuid: 1e981e21-5f47-45c5-bebd-7f8d70c79361
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_expertise
+    - node.type.person_bio
+    - taxonomy.vocabulary.expertise_areas
+id: node.person_bio.field_expertise
+field_name: field_expertise
+entity_type: node
+bundle: person_bio
+label: Expertise
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      expertise_areas: expertise_areas
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -1,0 +1,19 @@
+uuid: bb089a51-09e7-4900-b047-4babf851c196
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_cta_button_label
+    - node.type.life_long_learning
+id: node.life_long_learning.field_cta_button_label
+field_name: field_cta_button_label
+entity_type: node
+bundle: life_long_learning
+label: 'Course status label'
+description: 'Label showing the course''s availability - e.g. ''Available now'', ''Coming soon''.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,112 @@
+ <div data-index="{{ index }}" {{ pid ? 'pid=' ~ pid : '' }} class="reminder {{ collapsed ? 'collapsed' : '' }}">
+  <div class="reminder-header">
+    <div index="{{ index }}" class="reminder-title">{{ label ? label : '(Creating new reminder)' }}</div>
+    <div class="reminder-actions">
+      <div class="participant-reminder-action action-edit {{ edit_enabled ? 'enabled' : ''}}">
+        <span>
+        {% if edit_enabled %}
+          Edit details<i class="fas fa-sort-down ml-2"></i>
+        {% else %}
+          Close<i class="fas fa-sort-up ml-2"></i>          
+        {% endif %}
+        </span>
+      </div>
+      <div class="participant-reminder-action action-remove enabled">
+        <span>Remove<i class="fas fa-times ml-2"></i></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="reminder-body">
+
+    <div class="participant-reminder-schedule">
+      <div class="subsection-title subsection-title__column required">
+        <span class="required">Schedule:</span>
+        <span class="thin-text">(Choose one)</span>
+      </div>
+      <div class="schedule-options">
+        <div class="gdmi-check-form-group">
+          <input class="form-control gdmi-check" id="reminder_shedule_type_after_{{ index }}" name="reminder_shedule_type_{{ index }}" value="after" type="radio" {{ schedule_type == 'after' ? 'checked' : '' }}>
+          <select {{ schedule_type != 'after' ? 'disabled' : ''}} name="reminder_shedule_days_after" class="form-select custom-select">
+            {% for i in 1..5 %}
+              <option {{ schedule_type == 'after' and days == i ? 'selected' : '' }} value="{{ i }}">{{ i }} Day{{ i > 1 ? 's' : '' }}</option>
+            {% endfor %}
+          </select>
+          <label for="reminder_shedule_type_after_{{ index }}">After the invite</label>
+        </div>
+        <div class="gdmi-check-form-group">
+          <input class="form-control gdmi-check" id="reminder_shedule_type_before_{{ index }}" name="reminder_shedule_type_{{ index }}" value="before" type="radio" {{ schedule_type == 'before' ? 'checked' : '' }}>
+          <select {{ schedule_type != 'before' ? 'disabled' : ''}} name="reminder_shedule_days_before" class="form-select custom-select">
+            {% for i in 1..5 %}
+              <option {{ schedule_type == 'before' and days == i ? 'selected' : '' }}  value="{{ i }}">{{ i }} Day{{ i > 1 ? 's' : '' }}</option>
+            {% endfor %}
+          </select>
+          <label for="reminder_shedule_type_before_{{ index }}">Before the due date</label>
+        </div>
+        <div>
+          <div class="gdmi-check-form-group">
+            <input class="form-control gdmi-check" id="reminder_shedule_type_datetime_{{ index }}" name="reminder_shedule_type_{{ index }}" value="datetime" type="radio" {{ schedule_type == 'datetime' ? 'checked' : '' }}>
+            <label for="reminder_shedule_type_datetime_{{ index }}">On a select date</label>
+          </div>
+          {% include "@tb_gdmi/components/communicationsForm/field-datetime.html.twig" with {
+            field_name: 'participant_reminder_date',
+            options: date_options,
+            defaults: date_parts,
+            disabled: schedule_type != 'datetime'
+          }%}
+        </div>
+      </div>
+    </div>
+
+    <div class="participant-reminder-message">
+      <div class="subsection-title required">
+        <span class="required">Message</span>
+        <span class="thin-text">(Choose one):</span>
+      </div>
+      <div class="message-options">
+        <div class="message-default">
+          <div class="gdmi-check-form-group">
+            <input class="form-control gdmi-check" id="reminder_message_type_default_{{ index }}" name="reminder_message_type_{{ index }}" value="default" type="radio" {{ message_type == 'default' ? 'checked' : '' }}>
+            <label for="reminder_message_type_default_{{ index }}">Default message</label>
+          </div>
+          <div class="message-container">
+            <div class="message-container__content {{ message_type != 'default' ? 'text-muted' : '' }}">
+                <div class="message-heading">
+                  <span class="d-block">Title:</span>
+                  <span class="message-title {{ message_type != 'default' ? 'text-muted' : '' }}">{{ default_message.title }}</span>
+                </div>
+                <div>
+                  <div class="message-heading {{ message_type != 'default' ? 'text-muted' : '' }}">
+                    <span>Body:</span>
+                  </div>
+                  <div class="message-body {{ message_type != 'default' ? 'text-muted' : '' }}">
+                    {{ default_message.body.value|raw }}
+                  </div>
+                </div>
+            </div>
+          </div>
+        </div>
+        {# <div class="message-custom">
+          <div class="gdmi-check-form-group">
+            <input class="form-control gdmi-check" id="reminder_message_type_custom_{{ index }}" name="reminder_message_type_{{ index }}" value="custom" type="radio" {{ message_type == 'custom' ? 'checked' : '' }}>
+            <label for="reminder_message_type_custom_{{ index }}">Custom message</label>
+            <small class="{{ message_type != 'custom' ? 'text-muted' : '' }}">A custom message will always include a button <br> to “Go to your GDMI account” at the bottom.</small>
+          </div>
+
+          <div class="js-form-item form-item form-group">
+            <label class="form-label {{ message_type != 'custom' ? 'text-muted' : '' }}" for="reminder_custom_message_title">Title:</label>
+            <input {{ message_type != 'custom' ? 'disabled' : '' }} class="form-control" type="text" id="reminder_custom_message_title" name="reminder_custom_message_title" value="{{ message_title }}">
+          </div>
+
+          <div class="js-form-item form-item form-group">
+            <label class="form-label {{ message_type != 'custom' ? 'text-muted' : '' }}" for="reminder_custom_message_body">Body:</label>
+            <textarea {{ message_type != 'custom' ? 'disabled' : '' }}  class="form-control" rows="4"  id="reminder_custom_message_body" name="reminder_custom_message_body">{{ message_body|striptags }} </textarea>
+          </div>
+        </div> #}
+      </div>
+    </div>
+    
+    <button class="btn btn-primary text-white d-block save-reminder-btn" type="button">SAVE REMINDER</button>
+  
+  </div>
+</div>

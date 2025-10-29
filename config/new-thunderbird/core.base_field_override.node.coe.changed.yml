@@ -1,0 +1,18 @@
+uuid: 533a56fb-1998-4f88-95d8-df757dba9fce
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.coe
+id: node.coe.changed
+field_name: changed
+entity_type: node
+bundle: coe
+label: Changed
+description: 'The time that the node was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: d7ebde02-8895-483d-b1d7-4e89769b9b5e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Wedu Team Blog Home'
+created:
+  -
+    value: '2014-01-28T19:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/wedu-team-blog
+body:
+  -
+    value: '<p><span>Four enthusiastic Thunderbird students are off to Bangkok for the next five weeks; their mission is to develop a financial product that will revolutionize student loans in South East Asia. They will be assisting Wedu, a non-profit organization headquartered in Bangkok, catalyze young women in least developing countries (LDCs) into future leaders. Wedu does this by providing inspiring mentorship and innovative financing for women seeking higher education. How does Wedu identify girls/women with leadership potential in these LDCs? How can they encourage and mentor these women to pursue higher education? How much financial support needs to be given? What is the most acceptable way to collect the loan without it being too much burden on the women? And most importantly, where does Wedu get the financing for these activities? The success of the project will set the foundation for a new era of educational financing in these LDCs.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

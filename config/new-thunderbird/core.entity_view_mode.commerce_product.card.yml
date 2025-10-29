@@ -1,0 +1,10 @@
+uuid: 882c09dd-7423-43d9-8532-12d020e59e92
+langcode: en
+status: true
+dependencies:
+  module:
+    - commerce_product
+id: commerce_product.card
+label: Card
+targetEntityType: commerce_product
+cache: true

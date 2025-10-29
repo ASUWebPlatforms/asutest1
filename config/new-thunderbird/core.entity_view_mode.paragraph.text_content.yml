@@ -1,0 +1,10 @@
+uuid: 7ccaa7cd-b27f-49e5-9d07-c590f6c8ed8b
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+id: paragraph.text_content
+label: 'Text content'
+targetEntityType: paragraph
+cache: true

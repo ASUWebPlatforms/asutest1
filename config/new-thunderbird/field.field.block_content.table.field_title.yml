@@ -1,0 +1,19 @@
+uuid: c3a06940-6ca0-4f0f-9afc-b687584198a4
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.table
+    - field.storage.block_content.field_title
+id: block_content.table.field_title
+field_name: field_title
+entity_type: block_content
+bundle: table
+label: 'Title left'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

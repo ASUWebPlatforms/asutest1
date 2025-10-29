@@ -1,0 +1,74 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- Kabeh -'
+      fields:
+        created:
+          label: Digawé
+        remote_addr:
+          label: 'Alamat IP'
+        view_webform_submission:
+          label: Operasi
+      arguments:
+        in_draft:
+          exception:
+            title: Kabèh
+  embed_administer:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: Aksi
+        locked:
+          label: Dikunci
+        created:
+          label: Digawé
+        remote_addr:
+          label: 'Alamat IP'
+        operations:
+          label: Operasi
+      filters:
+        locked:
+          expose:
+            label: Dikunci
+  embed_manage:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: Aksi
+        locked:
+          label: Dikunci
+        created:
+          label: Digawé
+        remote_addr:
+          label: 'Alamat IP'
+        view_webform_submission:
+          label: Operasi
+        edit_webform_submission:
+          label: Operasi
+      filters:
+        locked:
+          expose:
+            label: Dikunci
+  embed_review:
+    display_options:
+      fields:
+        locked:
+          label: Dikunci
+        created:
+          label: Digawé
+        remote_addr:
+          label: 'Alamat IP'
+        view_webform_submission:
+          label: Operasi
+      filters:
+        locked:
+          expose:
+            label: Dikunci

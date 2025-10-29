@@ -1,0 +1,17 @@
+uuid: 22a0303d-5163-4311-b3fa-f9e9103a0c4f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KOTDi41lrDJSYvfLR6auTYS6DIrVicp3Y6WkuTeURs4
+name: footer_logo
+label: 'Footer Logo'
+effects:
+  1f048cb6-0939-4fa4-9338-aade0b0333da:
+    uuid: 1f048cb6-0939-4fa4-9338-aade0b0333da
+    id: image_scale
+    weight: 2
+    data:
+      width: 374
+      height: 60
+      upscale: false

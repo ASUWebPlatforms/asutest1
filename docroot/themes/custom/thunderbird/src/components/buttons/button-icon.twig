@@ -1,0 +1,15 @@
+<a
+  href="{{ url }}"
+  class="btn {{ button_color }} btn-thun-icon"
+  role="button"
+  target="{{ target }}"
+  data-ga-event="link"
+  data-ga-action="click"
+  data-ga-name="onclick"
+  data-ga-type="internal link"
+  data-ga-section="{{ sub_heading is empty ? heading : sub_heading }}"
+  data-ga-region="main content"
+  data-ga-text="default button">
+  {{ title }}
+  <span class="fas fa-{{ icon }}"></span>
+</a>

@@ -1,0 +1,21 @@
+uuid: dc996006-25a4-42b0-9875-fc5bb8c2ff26
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image_and_text_gdmi_block
+    - field.storage.block_content.field_theme
+  module:
+    - options
+id: block_content.image_and_text_gdmi_block.field_theme
+field_name: field_theme
+entity_type: block_content
+bundle: image_and_text_gdmi_block
+label: Theme
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

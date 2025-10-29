@@ -1,0 +1,107 @@
+uuid: 400dea3c-73da-4d7f-8ae7-74d83b68bcfc
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.group.group_scheduling
+    - field.field.group.gdmi.field_custom_reminders
+    - field.field.group.gdmi.field_due_date
+    - field.field.group.gdmi.field_invitations_sent
+    - field.field.group.gdmi.field_invite_sent_date
+    - field.field.group.gdmi.field_organization
+    - field.field.group.gdmi.field_partic_custom_msg_body
+    - field.field.group.gdmi.field_partic_custom_msg_title
+    - field.field.group.gdmi.field_partic_inv_schedule_date
+    - field.field.group.gdmi.field_partic_invit_msg_type
+    - field.field.group.gdmi.field_partic_reminders_type
+    - field.field.group.gdmi.field_partic_schedule_type
+    - field.field.group.gdmi.field_results_data
+    - field.field.group.gdmi.field_start_date
+    - field.field.group.gdmi.field_status
+    - field.field.group.gdmi.field_time_zone
+    - group.type.gdmi
+  module:
+    - field_group
+    - field_states_ui
+    - tb_gdmi
+    - tzfield
+third_party_settings:
+  field_group:
+    group_dates_container:
+      children:
+        - field_start_date
+        - field_due_date
+      label: 'Dates Container'
+      region: content
+      parent_name: ''
+      weight: 1
+      format_type: html_element
+      format_settings:
+        classes: dates-container
+        show_empty_fields: false
+        id: dates-container
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        attributes: ''
+        effect: none
+        speed: fast
+        required_fields: true
+id: group.gdmi.group_scheduling
+targetEntityType: group
+bundle: gdmi
+mode: group_scheduling
+content:
+  field_due_date:
+    type: datetime_datelist_single_time
+    weight: 3
+    region: content
+    settings:
+      date_order: DMY
+      time_type: '12'
+      increment: '30'
+    third_party_settings:
+      field_states_ui:
+        form:
+          type: ''
+          list: ''
+          add: Add
+  field_start_date:
+    type: datetime_datelist_single_time
+    weight: 2
+    region: content
+    settings:
+      date_order: DMY
+      time_type: '12'
+      increment: '30'
+    third_party_settings:
+      field_states_ui:
+        form:
+          type: ''
+          list: ''
+          add: Add
+  field_time_zone:
+    type: tzfield_offset
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_custom_reminders: true
+  field_invitations_sent: true
+  field_invite_sent_date: true
+  field_organization: true
+  field_partic_custom_msg_body: true
+  field_partic_custom_msg_title: true
+  field_partic_inv_schedule_date: true
+  field_partic_invit_msg_type: true
+  field_partic_reminders_type: true
+  field_partic_schedule_type: true
+  field_results_data: true
+  field_status: true
+  label: true
+  langcode: true
+  path: true
+  status: true
+  uid: true

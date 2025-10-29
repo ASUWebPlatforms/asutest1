@@ -1,0 +1,44 @@
+display:
+  default:
+    display_title: پیش‌فرض
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: عملکرد
+        name:
+          label: نویسنده
+        changed:
+          label: به‌روز
+        operations:
+          label: عملیات
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'آیتم‌ها در هر صفحه'
+            items_per_page_options_all_label: '- همه -'
+            offset_label: جابجایی
+      exposed_form:
+        options:
+          reset_button_label: بازنشانی
+          exposed_sorts_label: 'مرتب کن بر اساس'
+          sort_asc_label: صعودی
+          sort_desc_label: نزولی
+      filters:
+        langcode:
+          expose:
+            label: زبان
+  page_unapproved:
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: عملکرد
+        name:
+          label: نویسنده
+        changed:
+          label: به‌روز
+        operations:
+          label: عملیات
+      filters:
+        langcode:
+          expose:
+            label: زبان

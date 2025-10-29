@@ -1,0 +1,8 @@
+uuid: 0798a0c9-bc36-40c3-980c-da9fedbe0019
+langcode: en
+status: true
+dependencies: {  }
+id: image_gallery_grid
+label: 'Image Gallery Grid'
+revision: 0
+description: ''

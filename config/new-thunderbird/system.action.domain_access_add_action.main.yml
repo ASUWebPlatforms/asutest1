@@ -1,0 +1,14 @@
+uuid: 12b1be47-cdd3-4523-aa5a-54568e2c74bd
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.main
+  module:
+    - domain_access
+id: domain_access_add_action.main
+label: 'Add selected content to the Thunderbird domain'
+type: node
+plugin: domain_access_add_action
+configuration:
+  domain_id: main

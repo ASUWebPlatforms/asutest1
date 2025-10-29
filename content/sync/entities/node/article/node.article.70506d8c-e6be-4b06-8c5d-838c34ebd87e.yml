@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 70506d8c-e6be-4b06-8c5d-838c34ebd87e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'An Evening with T-Birds in Thailand'
+created:
+  -
+    value: '2014-02-13T07:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/evening-in-thailand
+body:
+  -
+    value: "<p>It is always nice to meet up with T-bird alumni outside the United States! On February 6, 2014, the Wedu team met two alumni in Bangkok; Thanet Dhamikavongs (Opp), who graduated in December 2012, and Ariya Chiravara (Big), who graduated in May 2013. Because Opp was a dorm roommate with Daisuke, the team decided to have a casual dinner with both Opp and Big to catch up and reminisce about good times at Thunderbird. The team enjoyed casual conversation with the alumni in a nice local Chinese restaurant in Chinatown. They shared their experiences while students at T-bird and their work style in Bangkok. Many small and medium-sized private own businesses are present in Bangkok. Opp’s family has a family-owned Chinese Tea export/import business in Bangkok. The Wedu team was surprised to know how hard they work and how many hours they spending working on expanding their business. He works from 8 am to 6 pm for 13 days straight and then rests on Sunday!! Big also works long hours in his pharmaceutical company. However, they both looked completely fulfilled with their business and are very happy to back in Bangkok.</p>\r\n<p><img src=\"/sites/default/files/dscf3492.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1434 img__view_mode__default\"></p>\r\n<p>After the dinner, Opp kindly took the Team to his family’s home in landmark tower. This apartment is located next to the Chao Phraya River where many Wats (temples) are located. The team had a wonderful time with Opp’s family and enjoyed the amazing view from the roof-top. This experience was just another moment for the team to remember how well Bangkok treated them.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

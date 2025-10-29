@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: f6ed4339-3ae8-4f38-b0e8-78e28e4c5374
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-28T00:27:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Plain Packs'
+created:
+  -
+    value: '2016-07-28T00:27:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-28T00:27:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a13-97-0012
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case focuses on proposed Canadian legislation intended to decrease smoking in that nation through the mandate of plain packaging for tobacco products. Canada had a history of government initiatives to deter smoking, including strict warning labels and access and advertising limitations. The draft bill would have eliminated the use of logos, colors, and trademarks on cigarette packages, the government contending that their use was a form of advertising. The proposed legislation was introduced shortly after the passage of the North American Free Trade Agreement (NAFTA), which provides strong intellectual property protection in Chapter 17. NAFTA does, however, provide an escape clause for protection of public health.&nbsp;</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A13-97-0012
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 80594fa8-2e02-455c-a733-16968adc3c8c
+field_case_series_year:
+  -
+    value: '1997-01-01'
+field_case_setting:
+  -
+    value: 'Canada 1994'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: d6b94c78-168a-42ae-8bec-4145297f7e45
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: b8dc41df-7d1a-48e1-bfdf-87db6bb4847a
+field_teaching:
+  -
+    value: "Students enjoy a multi-issue case, as it provides an opportunity to explore multiple facets of international business and political issues. The case reflects a current issue from the perspective of an international agreement and possible conflict with national law. Finally, this case offers the student insight into differences in the Canadian legislative and regulatory arenas.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.80594fa8-2e02-455c-a733-16968adc3c8c
+      - taxonomy_term.case_series_categories.d6b94c78-168a-42ae-8bec-4145297f7e45
+      - taxonomy_term.case_series_fields.b8dc41df-7d1a-48e1-bfdf-87db6bb4847a

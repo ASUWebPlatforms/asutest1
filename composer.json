@@ -1,0 +1,211 @@
+{
+    "name": "asuwebplatforms/webspark-ci",
+    "description": "Install Drupal 9 with Composer on Pantheon.",
+    "type": "project",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org",
+            "exclude": ["npm-asset/fontawesome"]
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "npm-asset/fontawesome",
+                "version": "6.4.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-6.4.2.tgz"
+                },
+                "type": "npm-asset"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor/link",
+                "version": "4.16.1",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://download.ckeditor.com/link/releases/link_4.16.1.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor/fakeobjects",
+                "version": "4.16.0",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://download.ckeditor.com/fakeobjects/releases/fakeobjects_4.16.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "path",
+            "url": "upstream-configuration"
+        },
+        {
+            "type": "path",
+            "url": "custom-dependencies"
+        }
+    ],
+    "require": {
+        "pantheon-upstreams/upstream-configuration": "*",
+        "webspark/custom-dependencies": "*"
+    },
+    "require-dev": {
+        "behat/behat": "3.13.0",
+        "behat/mink": "1.10.0",
+        "behat/mink-extension": "2.3.1",
+        "dealerdirect/phpcodesniffer-composer-installer": "1.0",
+        "dmore/behat-chrome-extension": "1.4",
+        "drupal/coder": "8.3.18",
+        "drupal/core-dev": "^9.2",
+        "drupal/drupal-driver": "2.2.2",
+        "drupal/drupal-extension": "4.2.1",
+        "genesis/behat-fail-aid": "3.7.5",
+        "jcalderonzumba/mink-phantomjs-driver": "0.3.3",
+        "mikey179/vfsstream": "1.6.11",
+        "phpunit/phpunit": "9.6.8",
+        "squizlabs/php_codesniffer": "3.7.2",
+        "sirbrillig/phpcs-changed": "v2.11.0-beta.2"
+    },
+    "conflict": {
+        "drupal/drupal": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "enable-patching": true,
+        "patches-file": "composer.patches.json",
+        "composer-exit-on-patch-failure": true,
+        "patchLevel": {
+            "drupal/core": "-p2"
+        },
+        "installer-types": [
+            "npm-asset",
+            "bower-asset"
+        ],
+        "installer-paths": {
+            "docroot/core": [
+                "type:drupal-core"
+            ],
+            "docroot/libraries/{$name}": [
+                "type:drupal-library",
+                "type:npm-asset",
+                "type:bower-asset"
+            ],
+            "docroot/modules/composer/{$name}": [
+                "type:drupal-module"
+            ],
+            "docroot/profiles/composer/{$name}": [
+                "type:drupal-profile"
+            ],
+            "docroot/themes/composer/{$name}": [
+                "type:drupal-theme"
+            ],
+            "drush/Commands/contrib/{$name}": [
+                "type:drupal-drush"
+            ],
+            "docroot/modules/custom/{$name}": [
+                "type:drupal-custom-module"
+            ],
+            "docroot/profiles/custom/{$name}": [
+                "type:drupal-custom-profile"
+            ],
+            "docroot/themes/custom/{$name}": [
+                "type:drupal-custom-theme"
+            ],
+            "docroot/private/scripts/quicksilver/{$name}/": [
+                "type:quicksilver-script"
+            ],
+            "docroot/libraries/ckeditor/plugins/{$name}": [
+                "vendor:ckeditor-plugin"
+            ]
+        },
+        "drupal-scaffold": {
+            "locations": {
+                "web-root": "./docroot"
+            },
+            "allowed-packages": [
+                "pantheon-systems/drupal-integrations"
+            ],
+            "file-mapping": {
+                "[project-root]/.editorconfig": false,
+                "[project-root]/pantheon.upstream.yml": false,
+                "[project-root]/.gitattributes": false,
+                "[web-root]/robots.txt": false
+            }
+        },
+        "build-env": {
+            "export-configuration": "drush config-export --yes"
+        }
+    },
+    "autoload": {
+        "classmap": [
+            "upstream-configuration/scripts/ComposerScripts.php",
+            "custom-dependencies/scripts/CustomComposerScripts.php"
+        ]
+    },
+    "scripts": {
+        "pre-command-run": [
+            "WebsparkCustomScripts\\CustomComposerScripts::checkCommand",
+            "DrupalComposerManaged\\ComposerScripts::writeComposerPatchFile"
+        ],
+        "unit-test": "echo 'No unit test step defined.'",
+        "lint": "find docroot/modules/custom docroot/themes/custom -name '*.php' -exec php -l {} \\;",
+        "code-sniff": [
+            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/modules/custom",
+            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/themes/custom",
+            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/modules/custom",
+            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/themes/custom"
+        ],
+        "lint-webspark": "find docroot/profiles/webspark docroot/modules/webspark docroot/themes/webspark -name '*.php' -exec php -l {} \\;",
+        "code-sniff-webspark": [
+            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/profiles/webspark",
+            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/modules/webspark",
+            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/themes/webspark",
+            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/profiles/webspark",
+            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/modules/webspark",
+            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/themes/webspark"
+        ],
+        "pre-update-cmd": [
+            "DrupalComposerManaged\\ComposerScripts::preUpdate"
+        ],
+        "post-update-cmd": [
+            "DrupalComposerManaged\\ComposerScripts::postUpdate"
+        ],
+        "custom-require": [
+            "WebsparkCustomScripts\\CustomComposerScripts::customRequire"
+        ],
+        "custom-remove": [
+            "WebsparkCustomScripts\\CustomComposerScripts::customRemove"
+        ]
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "platform": {
+            "php": "8.1.6"
+        },
+        "allow-plugins": {
+            "composer/installers": true,
+            "cweagans/composer-patches": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "drupal/core-composer-scaffold": true,
+            "oomphinc/composer-installers-extender": true,
+            "phpstan/extension-installer": true,
+            "wikimedia/composer-merge-plugin": true,
+            "zaporylie/composer-drupal-optimizations": true
+        }
+    }
+}

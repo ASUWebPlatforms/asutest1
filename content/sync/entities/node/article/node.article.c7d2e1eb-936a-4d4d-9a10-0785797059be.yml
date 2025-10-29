@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: c7d2e1eb-936a-4d4d-9a10-0785797059be
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'How to Negotiate with Jerks and Win'
+created:
+  -
+    value: '2014-02-04T08:37:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network-negotiate-with-jerks-win
+body:
+  -
+    value: "<p>Classic thinkers such as Machiavelli and Sun Tzu recommend total absence of mercy in negotiation. Subscribers to this philosophy come to the table prepared to crush the enemy at all costs — even if it means using stealth, deception and manipulation to get what they want.</p>\r\n<p>This approach works largely because unprepared or naïve counterparts find it difficult to accept the idea that some people are cunning, devious and ruthless. Coercion has a place in moral society during certain high-stakes interactions, such as hostage negotiations or when national security is on the line. But camouflage and pressure tactics can backfire in business when negotiators destroy their counterparts at the expense of long-term relationships of trust.</p>\r\n<p>Many 21st century negotiators recognize this risk. Instead of leveraging the power of coercion, they use the power of understanding to achieve mutual wins at the negotiation table. Unfortunately, some people cling to classic negotiation styles even when their perceived adversaries try to bring more transparency and civility to the process.</p>\r\n<p>People who insist on playing hardball might not know any other way to negotiate — or they might be narcissistic jerks. Resisting their tactics can be stressful and usually demands high performance practices to change the game. Here are six ways to respond.</p>\r\n<p><strong>1. Ignore the coercion.</strong>&nbsp;Classic negotiation sometimes relies on verbal abuse to intimidate or shake the confidence of a counterpart. This tactic can range from yelling to making subtle insults about a counterpart’s appearance. One response is to stay calm and pretend you did not hear the abuse. Another response is to call a break, switch topics or ask the person to repeat their message.</p>\r\n<p><strong>2. Discuss the tactic.&nbsp;</strong>Classic negotiation often relies on stealth and camouflage. One way to disarm crafty negotiators is to label their tactics and indicate awareness of the intended effects. Negotiators who leverage the power of understanding can talk openly about rules of engagement and make the case for mutual respect.</p>\r\n<p><strong>3. Lead the other.</strong>&nbsp;Open discussion about tactics can lead to discussions about leveraging the power of understanding — especially when both sides can benefit from a long-term relationship of trust. Stress the importance of what problems and compatible needs both parties have in common. Describe the possibility of mutually beneficial outcomes. Explain that hardball tactics increase reputational risks and lead to higher costs, lost deals and negative results. Remember, some people don’t know any other way to negotiate.</p>\r\n<p><strong>4. Respond in kind.</strong>&nbsp;In negotiation situations where the deal is a single transaction and a relationship is not the top concern, negotiators might want to respond in kind with their own hardball tactics. Remember, once a negotiator crosses into this territory, it is difficult or impossible to return.</p>\r\n<p><strong>5. Get a ruling.&nbsp;</strong>Classic negotiators often feel comfortable lying or cheating to defeat their opponents. If misrepresentations are discovered after a business transaction has started, the victim might need the help of an independent adjudicator. A lawsuit is one example of this type of rights-based approach, which produces a judgment imposed upon the declared winner and loser. One drawback is the absence of an agreement designed by the negotiators themselves.</p>\r\n<p><strong>6. Walk away.&nbsp;</strong>Sometimes the best option, especially when facing a pathological narcissist, is to walk away. Some psychologists assert it is naive to try to handle, manage, contain or channel a narcissist’s tactics. Pathological narcissists are, by definition, incapable of teamwork and constructive relationships.</p>\r\n<p><em><strong>Karen S. Walch, Ph.D.</strong>&nbsp;is a professor of cross-cultural communication and negotiation at Thunderbird School of Global Management. She teaches in the&nbsp;<a href=\"/node/2011\" target=\"_blank\">Executive Certificate in Global Negotiations</a>&nbsp;program for Thunderbird Online, which includes three courses: Cross-Cultural Communication, Essentials of Global Negotiations, and Managing Conflict with a Global Mindset. Dr. Walch is the author of&nbsp;<a href=\"http://www.powerofunderstanding.net/\" target=\"_blank\">Power of Understanding</a>.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

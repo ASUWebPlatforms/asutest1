@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 18f3214e-2692-430d-b170-8979921315c7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: a7aac563-891e-4f4c-b422-e50d2195759c
+filename:
+  -
+    value: gss-kn-display-image.jpg
+uri:
+  -
+    value: 'public://article/gss-kn-display-image.jpg'
+    url: /sites/default/files/article/gss-kn-display-image.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 34346
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-05-18T19:02:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-18T19:02:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a7aac563-891e-4f4c-b422-e50d2195759c

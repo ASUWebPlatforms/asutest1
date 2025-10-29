@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 8162396e-b2cd-436a-8be8-c8d930db6598
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The American Work Culture from a Non-American''s Perspective'
+created:
+  -
+    value: '2014-03-09T04:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/american-work-culture
+body:
+  -
+    value: "<p>Working in America is a tricky area to navigate for international students, not only because there is incredibly fierce competition in the job market here, but also because of government policies that limit work authorization for non-citizens. Hence a TEM Lab in DC, a first of sorts for a TEM Lab, was a fantastic opportunity for international students that wanted to experience the American work culture first hand.</p>\r\n<p>The first difference between the American and Asian working styles that I observed is work-life balance. Although many companies in Thailand encourage their employees to maintain a work-life balance, assigned workloads and expected deadlines push employees to spend long hours at the office. However, working with the WECI staff has shown us that interacting informally with colleagues via happy hours after work or sharing meals is as important as work hours. They stick to scheduled work hours as far as possible.</p>\r\n<p>The second difference is that many students and professionals in Thailand focus on theories learnt academically, while most people here in the US use logic as a weapon of choice and seek data that supports this logic, and use theories only as a shield. A shield can protect us but only for so much time. In contrast, our logic will enable us to go as far as required. WECI’s people are very logical and can accept our out-of-the box recommendations as long as those recommendations are supported by logic and relevant data.</p>\r\n<p>The last difference I observed is hierarchy. In Thailand, everything is hierarchical because of Thai culture that directs people to adhere to processes and etiquette regarding seniority and social status. It is rare to see top management such as CEOs and COOs in Thailand to have pizza and soda for lunch with their employees and interact informally, while it is very common for WEConnect. Elizabeth and Jean are very much down to earth and are easy to talk to on diverse topics.</p>\r\n<p>Being a consultant for WEConnect made me realize that I focus more on “learning and applying” rather than “studying and rehashing”, because studying helps me understand things that anyone can understand because all information is given to you, but learning makes me discover patterns and inferences that are unique to my thought process and are more helpful to my end goal. The feeling of being a thought pioneer makes the job of a consultant very interesting.</p>\r\n<p><em>Author: Kulnuttha Angsupaitoon (Kitty)</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 66581819-156f-4d37-a97e-e764b7ba1f69
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.66581819-156f-4d37-a97e-e764b7ba1f69

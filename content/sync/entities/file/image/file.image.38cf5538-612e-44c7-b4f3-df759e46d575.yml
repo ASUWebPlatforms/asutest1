@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 38cf5538-612e-44c7-b4f3-df759e46d575
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+filename:
+  -
+    value: 'Conoce a Flora Ortiz, Propietaria, Delicias del Norte'
+uri:
+  -
+    value: 'public://article/tfg2.jpg'
+    url: /sites/default/files/article/tfg2.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 62828
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-01-11T21:41:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-01-11T21:41:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1

@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: 55382d23-86c4-4c35-b724-5bfe348d6170
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T18:50:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Cz Industries Medium-Term Export Prepayment Facility'
+created:
+  -
+    value: '2016-07-27T18:50:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T18:50:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-01-0008
+body:
+  -
+    value: '<p>This case is about pre-export finance for an exporter in a developing country, Brazil. The Prepayment Facility is arranged up to a pre-determined amount for a specified time period before the buyers are known so that the exporter knows as it receives orders it will be paid in advance to help cover the cost of production. The Prepayment Facility provides the exporter with greater certainty about the volume of sales. For example, if the size of output is important to achieve economies of scale or if the building of a sales force and the level of sales activity are significant costs then these factors can be better managed.</p><p>After reviewing the needs described by Verma, Hector proposed a medium-term Export Prepayment Facility funded by IBA on behalf of the Buyer in anticipation of future export earnings by the Exporter and guaranteed by a Standby Letter of Credit (L/C). This meant the CZ Industries, a Brazilian company, would be able to assure the buyer of the product that financing was already arranged and the cost known. The amount of the prepayment facility in this case could be up to a maximum face amount of US $50 million and would have a 24-month tenor from the disbursement date. Verma would have confidence that a defined level of output was assured with pre-export financing already arranged before sales sere actually made.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-01-0008
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8996f40a-2883-4b5b-a503-e482501c3cce
+field_case_series_year:
+  -
+    value: '2001-01-01'
+field_case_setting:
+  -
+    value: Brazil
+field_case_source:
+  -
+    value: Library/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 905910e7-2a53-476e-93cd-af86add83674
+field_teaching:
+  -
+    value: "The case is useful for medium to large sized companies in developing countries that may have difficulty obtaining working capital sufficient to expand and develop and international market. The case explores the costs and the benefits of using a medium-term prepayment export facility. It also explains the process of establishing such a financial structure.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.8996f40a-2883-4b5b-a503-e482501c3cce
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.905910e7-2a53-476e-93cd-af86add83674

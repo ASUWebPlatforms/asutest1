@@ -1,0 +1,72 @@
+uuid: 55b67940-0001-43f7-8aa5-609e9695cd7b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.flip_card.field_flipcard_back_body
+    - field.field.paragraph.flip_card.field_flipcard_back_heading
+    - field.field.paragraph.flip_card.field_flipcard_cta
+    - field.field.paragraph.flip_card.field_flipcard_sub_heading
+    - field.field.paragraph.flip_card.field_headline
+    - field.field.paragraph.flip_card.field_image
+    - paragraphs.paragraphs_type.flip_card
+  module:
+    - link
+    - text
+id: paragraph.flip_card.default
+targetEntityType: paragraph
+bundle: flip_card
+mode: default
+content:
+  field_flipcard_back_body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  field_flipcard_back_heading:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_flipcard_cta:
+    type: link
+    label: hidden
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_flipcard_sub_heading:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_headline:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_image:
+    type: entity_reference_label
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 5
+    region: content
+hidden: {  }

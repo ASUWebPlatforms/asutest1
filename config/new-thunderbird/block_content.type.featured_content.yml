@@ -1,0 +1,8 @@
+uuid: 4cd6d2ac-a7e4-4fe3-bd03-f95d19f77dff
+langcode: en
+status: true
+dependencies: {  }
+id: featured_content
+label: 'Featured content'
+revision: 0
+description: ''

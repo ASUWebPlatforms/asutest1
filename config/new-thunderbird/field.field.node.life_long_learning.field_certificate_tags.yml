@@ -1,0 +1,29 @@
+uuid: fbc72b1f-cc1d-44a8-8150-ad645fdb1384
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_certificate_tags
+    - node.type.life_long_learning
+    - taxonomy.vocabulary.certificate_tags
+id: node.life_long_learning.field_certificate_tags
+field_name: field_certificate_tags
+entity_type: node
+bundle: life_long_learning
+label: Tags
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      certificate_tags: certificate_tags
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

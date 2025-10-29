@@ -1,0 +1,23 @@
+uuid: 64d8003f-3706-4f9f-802d-02ef5a8750f4
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.hero
+    - field.storage.block_content.field_vertical_stripes
+id: block_content.hero.field_vertical_stripes
+field_name: field_vertical_stripes
+entity_type: block_content
+bundle: hero
+label: 'Remove Vertical Stripes'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

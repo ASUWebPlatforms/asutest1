@@ -1,0 +1,42 @@
+display:
+  default:
+    display_title: 'Por defecto'
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: Acción
+        name:
+          label: Autor
+        changed:
+          label: Actualizado
+        operations:
+          label: Operaciones
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Elementos por página'
+            items_per_page_options_all_label: '- Todo -'
+            offset_label: Desplazamiento
+      exposed_form:
+        options:
+          reset_button_label: Restablecer
+          exposed_sorts_label: 'Ordenar por'
+      filters:
+        langcode:
+          expose:
+            label: Idioma
+  page_unapproved:
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: Acción
+        name:
+          label: Autor
+        changed:
+          label: Actualizado
+        operations:
+          label: Operaciones
+      filters:
+        langcode:
+          expose:
+            label: Idioma

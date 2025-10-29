@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: 5d6bc112-dd51-458d-9459-cbb79daa4c30
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T21:28:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Singapore International Airlines: Preparing For Turbulence Ahead'
+created:
+  -
+    value: '2016-07-26T21:28:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T21:28:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-04-0013
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>By 2004, Singapore International Airlines (SIA) enjoyed a run of exemplary profitability and service performance. It had built its strategy around the principles of a differentiated positioning using its brand image, geographic location, and outstanding service as the cornerstones of its strategy. The case offers enough data to launch into a rich discussion of the industry factors that drive profitability, and complements it with an in-depth look at the model of strategy that SIA had built in order to compete in the airline business. In recent years, there have been many environmental shocks, such as SARS, that have challenged the continued viability of the model. The company entered into an equity alliance with Virgin that has destroyed significant value. It found itself challenged by the entry of many low-cost airlines in its home market. The case closes with a decision that SIA needed to make about how it would address the onset of low-cost competitors, and whether it would make sense to move away from its differentiated premium approach.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-04-0013
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'Global, Asia-Pacific'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "This case is designed to be used in a module on business strategy. It is especially effective when it follows a discussion of both cost leadership and differentiation strategies, since the main decision point in the case relates to one of strategic change from one generic archetype to another. It has been very effective with both MBA students and executive audiences.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

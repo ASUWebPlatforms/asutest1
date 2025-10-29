@@ -1,0 +1,8 @@
+uuid: 01cfc2c5-c196-4d79-9ab8-baacdad24513
+langcode: en
+status: true
+dependencies: {  }
+id: signpost_with_modal_links
+label: 'Signpost with modal links'
+revision: 0
+description: ''

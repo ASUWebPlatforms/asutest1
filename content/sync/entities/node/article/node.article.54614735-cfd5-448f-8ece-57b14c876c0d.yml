@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 54614735-cfd5-448f-8ece-57b14c876c0d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+title:
+  -
+    value: 'How to Retain Employees by Emphasizing BAM'
+created:
+  -
+    value: '2018-04-13T17:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-retain-employees-emphasizing-bam
+body:
+  -
+    value: "<p style=\"text-align: center;\">[[{\"fid\":\"15744\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Man pulled by a rope\",\"field_file_image_title_text[und][0][value]\":\"Man pulled by a rope\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Man pulled by a rope\",\"field_file_image_title_text[und][0][value]\":\"Man pulled by a rope\"}},\"attributes\":{\"alt\":\"Man pulled by a rope\",\"title\":\"Man pulled by a rope\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p>When psychologist Abraham Maslow explained his&nbsp;<a href=\"http://pages.ucsd.edu/~nchristenfeld/Happiness_Readings_files/Class%207%20-%20Maslow%201954.pdf\">hierarchy of needs</a>, there was no mention of the workplace. However, as humans, every employee is still subjected to the needs&nbsp;described by Maslow.&nbsp;We all need something&nbsp;more&nbsp;from our jobs.<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>I recently sat down with entrepreneur and corporate culture expert&nbsp;<a href=\"https://www.leadlovetribe.com/\">Piyush&nbsp;Patel</a>, author of&nbsp;<i>Lead Your Tribe, Love Your Work</i><i>,&nbsp;</i>to discuss how companies can provide employees with what they need from their jobs.&nbsp;<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>Patel explained there are five layers in the hierarchy. The bottom two are physical needs followed by safety and security. In the workplace, these two layers get fulfilled with a paycheck and job security. You can put food on the table, you have a roof over your head,&nbsp;and you’re not afraid of losing the roof over your head any time soon.<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>Only after providing those base layers, Patel explains,&nbsp;can you hope to provide your employees&nbsp;with the top three layers that he&nbsp;calls&nbsp;BAM—belonging, affirmation and meaning.&nbsp;So,&nbsp;what does BAM look like?<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h1><span><span>B</span>elonging</span></h1>\r\n<p>As humans, it’s natural for us to want to be a part of something greater than ourselves. We’re hardwired to belong to groups. Since we spend a majority of our time in the workplace, we instinctively want to identify with those around us.<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>A great way to create a sense of belonging in your company is by giving your people the opportunity for shared experiences. Build rituals for your tribe to help them form positive memories together. Perhaps that’s through a weekly outing to a local pub or an annual retreat. The more shared experiences your tribe can build together, the stronger your tribe’s bond will be with each other.<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h1><span><span>A</span>ffirmation</span></h1>\r\n<p>Everyone likes to receive appreciation. Start by listening—really listen—to what your employees have to say. Try repeating back what you’ve heard so they know you were listening and not just waiting for your turn to talk. Another approach is to find ways to offer specific appreciation about why your employees are doing a great job. Instead of the generic, “Great job today!” try,&nbsp;“That was a tough customer, but I appreciate you staying professional.”<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>The more specific you can get, the more it’ll be obvious to your employees that you’re taking the time to see the difference they’re making in the company.<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h1><span><span>M</span>eaning</span></h1>\r\n<p>The pinnacle of Maslow’s hierarchy shows your employees they’re not just pushing buttons. Their work has meaning.<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>One great way to provide meaning is to look for opportunities to clarify the bigger picture. Generic statements of how the company is helping customers can be great for external marketing, but internally you should get more detailed. Like affirmation, the more you can clarify each person or team’s role in the bigger picture the better.<span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>Encourage your employees to share their own stories. Help everyone throughout your company see how they and their colleagues have succeeded in making someone’s day better.&nbsp;</p>\r\n<h3 style=\"text-align: center;\"><em><span class=\"TextRun SCXW220761748\"><span class=\"NormalTextRun SCXW220761748\">Join Dana&nbsp;</span></span><span class=\"TextRun SCXW220761748\"><span class=\"SpellingError SCXW220761748\">Manciagli’s</span></span><span><span class=\"TextRun SCXW220761748\"><span class=\"NormalTextRun SCXW220761748\">&nbsp;</span></span><a href=\"http://danamanciagli.com/courses/\" class=\"Hyperlink SCXW220761748\" target=\"_blank\"><span class=\"TextRun Underlined SCXW220761748\"><span class=\"NormalTextRun SCXW220761748\">Job Search Master Class®</span></span></a></span><span class=\"TextRun SCXW220761748\"><span class=\"NormalTextRun SCXW220761748\"><span>&nbsp;</span>now</span></span><span class=\"TextRun SCXW220761748\"><span class=\"NormalTextRun SCXW220761748\">&nbsp;and get the most comprehensive job search system available!</span></span></em></h3>\r\n<p>Join Dana Manciagli’s&nbsp;<a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a>&nbsp;right now and immediately access the most comprehensive job search system currently available!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><i><a href=\"http://danamanciagli.com/\">her website.</a></i></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More from Dana:</strong><br> <a href=\"https://thunderbird.asu.edu/knowledge-network/how-get-over-being-stressed-out-your-job-so-you-can-actually-do-it\">How to Get Over Being Stressed Out by Your Job So You Can Actually Do It</a><br> <a href=\"https://thunderbird.asu.edu/knowledge-network/benefits-meditation-workplace\">Benefits of Meditation in the Workplace<br> </a><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility</a></p>"
+    format: basic_html
+    processed: ''
+    summary: "When psychologist Abraham Maslow explained his hierarchy of needs, there was no mention of the workplace. However, as humans, every employee is still subjected to the needs described by Maslow. We all need something more from our jobs. \r\n\r\nI recently sat down with entrepreneur and corporate culture expert Piyush Patel, author of Lead Your Tribe, Love Your Work, to discuss how companies can provide employees with what they need from their jobs.  "
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: 9b027924-3a93-41a0-9bc8-beca5c495461
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+    file:
+      - file.image.9b027924-3a93-41a0-9bc8-beca5c495461
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 404c0e69-1990-4eea-a8ee-1e63de161b8f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:12:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'GM''s Plant-X Brazil'
+created:
+  -
+    value: '2016-07-27T23:12:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:12:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-98-0002
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case provides the facts and figures for the complete financial evaluation of the construction and operation of an automobile manufacturing plant for the new GM Macaw in Brazil. Although the Macaw is to truly be produced by GM in Brazil, the financial and economic values used in the case are fictionalized. The challenge for GM is to evaluate the pro forma financial analysis as to whether the project is a viable investment for GM from both the subsidiary and the parent''s viewpoint.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-98-0002
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 54e7aa4c-5c7d-4f05-8c6d-40fff9aaa0b0
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: 'Brazil 1997'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f67783c1-50e7-42ee-92fc-ec09fc099cf9
+field_teaching:
+  -
+    value: "The case has proved most productive when students are required to build the spreadsheet model themselves for the evaluation of the investment. The complexity of the analysis is managed by providing the students with blank templates of the spreadsheet solution that structures their thoughts and approach, while still requiring them to formulate the financial analysis itself. Once constructed, students are then required to engage in detailed sensitivity/scenario analysis in order to explore the value drivers.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.54e7aa4c-5c7d-4f05-8c6d-40fff9aaa0b0
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.f67783c1-50e7-42ee-92fc-ec09fc099cf9

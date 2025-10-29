@@ -1,0 +1,18 @@
+display:
+  default:
+    display_title: Стандартты
+    display_options:
+      fields:
+        title:
+          label: Атауы
+        name:
+          label: Автор
+        changed:
+          label: 'Соңғы жаңартулар'
+      exposed_form:
+        options:
+          reset_button_label: Ысыру
+  attachment_1:
+    display_title: Тіркеме
+  page_1:
+    display_title: Бет

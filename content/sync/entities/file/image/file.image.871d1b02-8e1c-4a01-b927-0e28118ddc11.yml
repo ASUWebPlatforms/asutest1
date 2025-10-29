@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 871d1b02-8e1c-4a01-b927-0e28118ddc11
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+filename:
+  -
+    value: flock1.jpg
+uri:
+  -
+    value: 'public://article/flock1.jpg'
+    url: /sites/default/files/article/flock1.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 71398
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-05-09T23:09:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-09T23:09:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b

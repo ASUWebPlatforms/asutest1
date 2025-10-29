@@ -1,0 +1,29 @@
+uuid: 04b7e6ef-2f0b-4b7d-830e-ba9da158efd4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_degree_experience
+    - node.type.degree
+    - taxonomy.vocabulary.degree_experience
+id: node.degree.field_degree_experience
+field_name: field_degree_experience
+entity_type: node
+bundle: degree
+label: Experience
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      degree_experience: degree_experience
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

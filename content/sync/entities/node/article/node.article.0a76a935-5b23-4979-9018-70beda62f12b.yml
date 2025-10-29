@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 0a76a935-5b23-4979-9018-70beda62f12b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T14:51:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'You’re Doing it Wrong! How Not to be a Networking “User”'
+created:
+  -
+    value: '2017-08-14T16:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T14:51:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/youre-doing-it-wrong-how-not-be-networking-user
+body:
+  -
+    value: "<p>Well now, here you are! You want – or need (!) – to pursue a job change. But you don’t have a network. So join the multitude! Yes, I know, you’ve been told over and over to build your network so you have people to engage with when you need help. But you just didn’t… Don’t kick yourself.</p>\r\n<p>Here are 4 steps to build out your professional networking now, even if you are also conducting a job search.</p>\r\n<h3><span>Engage with your local business community by researching, then connecting.</span></h3>\r\n<p>Here’s a homework assignment for you:&nbsp; Invest in a subscription to your local Business Journal. It’s a small amount with a big pay off! Then use it! How?</p>\r\n<ul>\r\n<li>Read it cover-to-cover. Your subscription should be the same price for print and/or digital so make sure you get both. Then, when the Journals start arriving, read them cover-to-cover, even the parts you might think aren’t relevant. It’s&nbsp;<em>all</em>&nbsp;relevant when you are in job search mode.</li>\r\n<li>Tear out articles and lists that are in your field of interest, whether focused on the function mentioned in the article (marketing concepts, finance concepts) or the industry (healthcare, real-estate).</li>\r\n<li>Send a LinkedIn Connect request to the people you read about. Write a personal note in your request and tell them that you read about them in your local Business Journal. You could congratulate them on the promotion you read about in “People on the Move” or simply say you think they have an interesting background and you would like to connect in LinkedIn.</li>\r\n<li>Once they respond and you are connected, you will have their e-mail address for further engagement.</li>\r\n</ul>\r\n<h3><span>Acknowledge that LinkedIn is a database, not “Networking”.</span></h3>\r\n<p>Too many people, especially job-seekers, mistake the number of connections they have on LinkedIn with how well networked they are. Don’t be that person.</p>\r\n<ul>\r\n<li>LinkedIn is a data base. Period.</li>\r\n<li>“Networking” is the ongoing process of 2-way communication for the long term.</li>\r\n<li>As soon as possible, get out of LinkedIn and into e-mail, phone, or face-to-face discussions.</li>\r\n<li>When sending e-mails to your connections, make them formal in style and grammar since your communications are an example of what you will be like as a future employee.</li>\r\n</ul>\r\n<h3><span>Fine tune your networking to approach the most relevant people based on your goal.</span></h3>\r\n<ul>\r\n<li>The first step in any job search should be to define your goal.</li>\r\n<li>Can you answer, “What are you searching for?” in the following format?</li>\r\n</ul>\r\n<p><em>“I’m looking for a &lt;function&gt; in the &lt;industry&gt; in &lt;city&gt;.&nbsp; Three examples of my target companies are ________, ________, _______. &nbsp;&nbsp;</em></p>\r\n<ul>\r\n<li>Based on this information, first, strategically pick whom you are going to network with very strategically. Second, share your goal with your network in just those clear and specific terms.</li>\r\n<li>Before contacting someone in a company you want to work for, go to their company CAREER page and see if there are posted positions you want to apply for.</li>\r\n<li>AFTER you have applied for a position, connect with individuals who can help you secure an interview. It’s great to say, “I’ve just applied to &lt;title&gt; job &lt;job #&gt; at your company and I would like to ask your help in securing an interview.”</li>\r\n</ul>\r\n<h3><span>GRATITUDE – Don’t be a “user!” Always follow up with your connections.</span></h3>\r\n<p>No matter how much they helped you (or even if they didn’t), always follow up with your connections, thank them repeatedly, and certainly let them know when you landed.</p>\r\n<ul>\r\n<li>Networking has a bad rap because most people use bad form. I’m sure you’ve been on the other end: someone reaches out to you for your advice, you give it, then you never hear back from them again. Ever.</li>\r\n<li>Networking with bad form (sloppy, lacking gratitude, lacking follow-up after the initial thank you) is called USING. Don’t be a user.</li>\r\n<li>Based on the level of support you received, go beyond an e-mail thank-you note. Hand-written notes and Starbucks cards are just some examples.</li>\r\n</ul>\r\n<p>There’s so much more to networking. And it’s awkward for everybody; “I’m an introvert, I’m from another culture, I don’t know what to say,” are, well, just excuses.</p>\r\n<p>If your career move is important to you, you’ll focus on networking for the long term, not just this once. Enjoy the process!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 581a488a-ea49-4e6d-bd31-cff79a8e9029
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.581a488a-ea49-4e6d-bd31-cff79a8e9029
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

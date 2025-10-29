@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 80f67792-9c13-471f-b768-9691fa7a234f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Three T-birds team up for Race Across America'
+created:
+  -
+    value: '2016-06-24T18:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/race-across-america
+body:
+  -
+    value: "<p><strong>Photos by&nbsp;<a href=\"http://travisjsmith.com/\">TRAVIS SMITH&nbsp;’07</a></strong></p>\r\n<p><strong>&gt;&gt;</strong>&nbsp;View the Team Melanoma Exposed&nbsp;<strong><a href=\"http://www.flickr.com/photos/thunderbirdschool/sets/72157635384778180/\">photo album</a></strong>&nbsp;on Thunderbird’s Flickr channel</p>\r\n<p>During most weeks,&nbsp;<strong>Joshua Sherwood ’06</strong>&nbsp;helps fight cancer as associate director of Global Oncology at biopharmaceutical company Bristol-Myers Squibb in New Jersey. But for six days, 10 hours and 40 minutes in June 2013, he and two Thunderbird friends joined forces to fight cancer in a different way. They helped form Team Melanoma Exposed to raise awareness and funds for skin cancer prevention during Race Across America, a nonstop coast-to-coast cycling relay from Oceanside, California, to Annapolis, Maryland. Sherwood was one of four cyclists on the partnership effort sponsored by Bristol-Myers Squibb, and T-birds&nbsp;<strong>Travis Smith ’07&nbsp;</strong>and&nbsp;<strong>Kenneth Duffy ’08</strong>&nbsp;joined the support team that traveled in two vans and a motorhome.</p>\r\n<p>Along the way, the riders saw the United States up close at an average of 19.5 miles per hour. “You really start to appreciate nature and how vastly different the country is when you slow down to experience it as a cyclist,” Sherwood said. “Every hill, every light breeze, you feel.” The team also felt the extremes in U.S. climate and topography — climbing 170,000 vertical feet during a 3,000-mile course that took the cyclists from a high of 115 degrees Fahrenheit in Arizona to a low of 45 degrees Fahrenheit in Colorado. Sherwood said the contrasts were most stark in Arizona, when he climbed from the red rocks of Sedona to the ponderosa pines of Flagstaff in less than two hours. “The sights were beautiful,” he said.</p>\r\n<p><strong>[[{\"fid\":\"1120\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]A team is born</strong></p>\r\n<p>Sherwood first met Smith in 2007 as a Thunderbird campus ambassador, and the fulltime students became friends. “I escorted him around campus,” Sherwood said. “Since then we have stayed in touch. We have done family vacations together.” Duffy, a Toshiba brand manager based in Morrisville, North Carolina, arrived later at Thunderbird and joined Sherwood and Smith as friends. When Sherwood got the idea to assemble a team for Race Across America, he tapped into his Thunderbird network for support. Smith, a photographer and videographer based in Detroit, Michigan, agreed to document the journey. Duffy signed on as a member of the support team, which included a coach, nutritionist, bicycle mechanic and several volunteers.</p>\r\n<p>Overall, Team Melanoma Exposed included 16 members, who lived together in cramped quarters during the race. Each person had different preferences and styles, which gave the T-birds an opportunity to draw upon their Thunderbird lessons in cross-cultural communication and organizational behavior. “The better we understand each other, the smoother things go,” Sherwood said. “We managed to have 16 people get across the country, working together toward one goal.”</p>\r\n<p><strong>A cyclist goes down</strong></p>\r\n<p>Misfortune nearly cut the journey short for Team Melanoma Exposed, when one cyclist collided with a&nbsp; deer in Colorado. The injured team member could not continue, which meant the three remaining riders had to decide if they could stretch their shifts without succumbing to sleep deprivation and exhaustion. “That was the only time when I doubted if we could finish,” Sherwood said. By then, the team had invested 12 months in training and four months in fundraising and planning. After an emergency huddle, the cyclists decided to press forward.</p>\r\n<p>Despite the setback, the team finished third among 10 entrants in the four-man under 50 category. The team also raised more than $100,000, distributed to four patient advocacy organizations. Visit&nbsp;<a href=\"http://www.melanomaexposed.com/raam\">www.melanomaexposed.com/raam</a>to learn more.</p>\r\n<p><strong>&gt;&gt;</strong>&nbsp;View the Team Melanoma Exposed&nbsp;<strong><a href=\"http://www.flickr.com/photos/thunderbirdschool/sets/72157635384778180/\">photo album</a></strong>&nbsp;on Thunderbird’s Flickr channel</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

@@ -1,0 +1,93 @@
+uuid: 2ea0867c-2841-448f-a7e0-6f88f07616c6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.quizresult.body
+    - field.field.node.quizresult.field_code_form
+    - field.field.node.quizresult.field_domain_access
+    - field.field.node.quizresult.field_domain_all_affiliates
+    - field.field.node.quizresult.field_image
+    - field.field.node.quizresult.layout_builder__layout
+    - field.field.node.quizresult.layout_builder__translation
+    - node.type.quizresult
+  module:
+    - ctools
+    - layout_builder
+    - layout_discovery
+    - system
+    - text
+    - user
+    - webspark_blocks
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: true
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+        components:
+          -
+            uuid: c2efeed6-0dc8-4219-9897-3ccee592da61
+            region: content
+            configuration:
+              id: 'entity_view:node'
+              label: 'Entity view (Content)'
+              label_display: '0'
+              provider: ctools
+              view_mode: hero
+              context_mapping:
+                entity: layout_builder.entity
+            weight: 2
+            additional: {  }
+          -
+            uuid: d6484822-f550-4eb3-921f-20e0c47d31b9
+            region: content
+            configuration:
+              id: system_breadcrumb_block
+              label: Breadcrumbs
+              label_display: '0'
+              provider: system
+              context_mapping: {  }
+            weight: 3
+            additional: {  }
+          -
+            uuid: 19a9259c-0be4-43fb-a540-4c3c81c35b96
+            region: content
+            configuration:
+              id: webspark_blocks_anchor_menu
+              label: 'Anchor Menu'
+              label_display: '0'
+              provider: webspark_blocks
+              context_mapping: {  }
+            weight: 4
+            additional: {  }
+        third_party_settings: {  }
+id: node.quizresult.default
+targetEntityType: node
+bundle: quizresult
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_code_form: true
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  field_image: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true
+  search_api_excerpt: true

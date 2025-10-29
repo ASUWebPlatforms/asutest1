@@ -1,0 +1,29 @@
+uuid: 2bd10f1b-ef7e-4f20-b779-d70793c475b9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_case_series_industry
+    - node.type.case_series
+    - taxonomy.vocabulary.case_series_industry
+id: node.case_series.field_case_series_industry
+field_name: field_case_series_industry
+entity_type: node
+bundle: case_series
+label: Industry
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      case_series_industry: case_series_industry
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

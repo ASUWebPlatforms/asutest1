@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: a362cb80-8efb-4fff-8f4b-4389272ead42
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+filename:
+  -
+    value: yoga.jpeg
+uri:
+  -
+    value: 'public://article/yoga.jpeg'
+    url: /sites/default/files/article/yoga.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 104844
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-07-27T16:26:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-27T16:26:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115

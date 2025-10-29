@@ -1,0 +1,98 @@
+uuid:
+  -
+    value: dbdce42a-44a5-4620-a90c-546eae93f3cf
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-09-09T18:38:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Emsad Products: Change and the Safety Journey (A/B) '
+created:
+  -
+    value: '2019-09-09T18:38:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-09-09T18:38:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a17-19-0001
+body:
+  -
+    value: '<p>Emsad, a company in the oil and gas industry, needs to improve its safety record. The company has safety systems and safety professionals but has not established safety as a core value. Safety is based on compliance and enforcement, and production is often seen as more important than safety. The company is seeking a major new client and undergoes a safety audit as part of the client’s qualification process. The audit reveals various issues and now Emsad must decide what needs to change to improve safety performance</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A17-19-0001
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: fb21e646-4d63-4339-986d-3a9246575132
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2019-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'Published sources'
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 972a8d2c-e9d2-4db1-a4a8-7a8bacdd8939
+field_teaching:
+  -
+    value: 'This case focuses on change management and personal safety in the workplace. Emsad is a successful oilfield services company that wants to improve its safety record and establish safety as a core organizational value. 1. The case provides a multi-year view of the challenges of change management and the difficulty in changing organizational culture. 2. The case will help students understand that creating a strong safety culture requires change management principles. 3. The case can be used for teaching safety management.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.fb21e646-4d63-4339-986d-3a9246575132
+      - taxonomy_term.case_series_fields.972a8d2c-e9d2-4db1-a4a8-7a8bacdd8939

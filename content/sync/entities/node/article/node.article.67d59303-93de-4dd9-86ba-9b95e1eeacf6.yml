@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 67d59303-93de-4dd9-86ba-9b95e1eeacf6
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:37:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Who Gets Blamed When The CEO Dies?'
+created:
+  -
+    value: '2017-12-26T16:16:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:37:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/who-gets-blamed-when-ceo-dies
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\"><span class=\"markup--strong markup--h4-strong\">CEOs and their boards defer to activist investors in the short term but should they resist them when making longer-term decisions?</span></h3>\r\n<p class=\"graf graf--p graf-after--figure\">The death of CSX CEO Ewing “Hunter” Harrison this past week has the corporate governance community chattering over the board’s negligence. According to&nbsp;<a href=\"https://www.wsj.com/articles/csx-chiefs-death-prompts-tough-questions-about-move-to-hire-him-1513554100\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.wsj.com/articles/csx-chiefs-death-prompts-tough-questions-about-move-to-hire-him-1513554100\"><em>The Wall Street Journal</em></a><em>,&nbsp;</em>“It was a classic triumph of short-term thinking,” said Renny Ponvert, CEO of Management CV Inc., “…now, they’re stuck with a consequence.”</p>\r\n<p class=\"graf graf--p graf-after--p\">I would say that’s overstated, something so called corporate governance specialists do frequently.</p>\r\n<p class=\"graf graf--p graf-after--p\">The board can’t always know the CEO’s health. I recall serving on a board in which the CEO underwent routine cosmetic surgery to tighten up the jowls that embarrassed him when he was on CNBC. The CEO never alerted the board about his surgery because he felt he was in no danger.</p>\r\n<p class=\"graf graf--p graf-after--p\">But the outcome was anything but routine when the surgeon nicked an artery and the CEO nearly bled to death, spending two weeks in intensive care.</p>\r\n<p class=\"graf graf--p graf-after--p\">But the CSX board knew about the health issues when they reached out to Hunter Harrison, the famed railroad CEO. They were understandably uncertain about their nature and severity, and so they asked Harrison to undergo a simple board administered medical review, the equivalent of an annual physical which executives do all the time. But he declined their offer, suggesting instead to submit a statement from his physician granting him a green light to perform his duties as CEO, to which the board agreed.</p>\r\n<p class=\"graf graf--p graf-after--p\">But should it have signaled a flashing red light to the board?</p>\r\n<p class=\"graf graf--p graf-after--p\">The answer depends on the diligence the board performed when they accepted the physician’s statement or whether other circumstances influenced their decision. Then, was all of this transparent to shareholders?</p>\r\n<p class=\"graf graf--p graf-after--p\">There are a number of legitimate reasons an executive will refuse to be examined by a board appointed medical examiner. These include privacy or lack of confidence in a new team. But in their zeal to make the hire, the board failed to draw a line in the sand that would not be crossed. Their duty of care required them to put an independent medical counsel between the shareholder interests and their lack of medical expertise in order to obtain an objective review of the findings and subject it to a board vote.</p>\r\n<p class=\"graf graf--p graf-after--p\">With respect to the other circumstances, it also appears the board was cowed by an activist investor.</p>\r\n<p class=\"graf graf--p graf-after--p\">The roaring 80’s greenmailers have morphed into a kinder, gentler, more angelic shape, better known as activist investors. According to&nbsp;<a href=\"http://www.businessinsider.com/top-10-biggest-activist-investors-2016-6/#5-cevian-capital-\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://www.businessinsider.com/top-10-biggest-activist-investors-2016-6/#5-cevian-capital-\">Business Insider</a>, people like Pershing’s Bill Ackman, Dan Loeb’s Third Point, and those ever-greenmailers, Nelson Peltz and Carl Icahn, are leading the charge and their returns are changing the way boards do business — or else they change the board.</p>\r\n<p class=\"graf graf--p graf-after--p\">The proven formula for the activist investor is a simple one: attack the weakest member of the herd. Then, install a new CEO with turnaround credentials, change out the board and management team, and within three years achieve a 50% return. It’s a nice formula when everything works as it should.</p>\r\n<p class=\"graf graf--p graf-after--p\">In the case of CSX, the investor was Paul Hilal of Mantle Ridge who had elbowed his way onto the board and was the strategist behind the turnaround plan. The magic ingredient was getting Harrison Hunter to join the company as the CEO.</p>\r\n<p class=\"graf graf--p graf-after--p\">If the board had searched the world, they would not have found a more experienced or capable railroad executive. Hunter Harrison had passion, drive, reputation for excellence, ruthlessness, practically everything it takes to perform a turnaround, except for one thing: robust health. Pressure from an activist investor, an openness to radical change, and a CEO vetting process that was not transparent led to what is now seen as a fatal mistake of corporate governance. The board hired someone who may be deemed to have been unfit to run a major company.</p>\r\n<p class=\"graf graf--p graf-after--p\">Before he died and while he was still believed to be recovering, Harrison told the Wall Street Journal, “Don’t judge me by my medical record, judge me by my performance.”</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">Shareholders and their plaintiff lawyers will be sure to say the same to the board in court. We are judging you not by your medical decision, but by your performance.</p>\r\n<p><em><!--break-->Jeff&nbsp;Cunningham&nbsp;is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.&nbsp;</em></p>\r\n<p><em>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</em></p>\r\n<p><em>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;</em><a href=\"http://www.iconicvoices.tv/\"><em>Iconic Voices</em></a><em>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to&nbsp;JeffImmelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;</em><a href=\"http://www.jeffcunningham.com/\"><em>JeffCunningham.com.</em></a><em>&nbsp;</em></p>\r\n<p><em>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.&nbsp;</em></p>\r\n<p><em>He has also been a board director of 10 public companies.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: 'CEOs and their boards defer to activist investors in the short term but should they resist them when making longer-term decisions?'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1200
+    height: 812
+    target_type: file
+    target_uuid: 9f030d87-584e-41fe-96ac-f28769fbd310
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.9f030d87-584e-41fe-96ac-f28769fbd310
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

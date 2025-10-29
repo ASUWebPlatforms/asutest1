@@ -1,0 +1,48 @@
+uuid: c7bfe97a-083d-4ac0-87d6-5c0d82e2c042
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.hero_lg
+    - image.style.hero_md
+    - image.style.hero_sm
+    - image.style.hero_xs
+    - image.style.quote_xl
+    - image.style.quote_xxl
+  theme:
+    - thunderbird
+id: quote_banner
+label: 'Quote banner'
+image_style_mappings:
+  -
+    image_mapping_type: image_style
+    image_mapping: quote_xxl
+    breakpoint_id: thunderbird.xxl
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: quote_xl
+    breakpoint_id: thunderbird.xl
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: hero_lg
+    breakpoint_id: thunderbird.lg
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: hero_md
+    breakpoint_id: thunderbird.md
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: hero_sm
+    breakpoint_id: thunderbird.sm
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: hero_xs
+    breakpoint_id: thunderbird.xs
+    multiplier: 1x
+breakpoint_group: thunderbird
+fallback_image_style: quote_xl

@@ -1,0 +1,51 @@
+display:
+  default:
+    display_title: Master
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Filter
+          reset_button_label: Reset
+          exposed_sorts_label: 'Zoradiť podľa'
+          sort_asc_label: Vzostupne
+          sort_desc_label: Zostupne
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Položky na stránku'
+            items_per_page_options_all_label: '- Všetky -'
+            offset_label: Ofset
+          tags:
+            previous: '‹ predchádzajúca'
+            next: 'nasledujúca ›'
+            first: '« prvá'
+            last: 'posledná »'
+      fields:
+        commerce_order_bulk_form:
+          action_title: 'S výberom'
+        type:
+          label: Typ
+          separator: ', '
+        store_id:
+          label: Obchod
+          separator: ', '
+        uid:
+          label: Zákazník
+          separator: ', '
+        mail:
+          label: E-mail
+          separator: ', '
+        total_price__number:
+          label: Celkom
+          separator: ', '
+        changed:
+          label: Aktualizované
+          separator: ', '
+        operations:
+          label: Operácie
+      filters:
+        type:
+          expose:
+            label: Typ
+  page_1:
+    display_title: Strana

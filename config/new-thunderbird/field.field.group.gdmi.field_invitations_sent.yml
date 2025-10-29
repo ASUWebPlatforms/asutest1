@@ -1,0 +1,23 @@
+uuid: 692a62f6-7f1c-418d-8d0e-236d8c20b8ee
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.group.field_invitations_sent
+    - group.type.gdmi
+id: group.gdmi.field_invitations_sent
+field_name: field_invitations_sent
+entity_type: group
+bundle: gdmi
+label: 'Invitations Sent'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

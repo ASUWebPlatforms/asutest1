@@ -1,0 +1,23 @@
+uuid: 5c611e27-1e3d-4bad-a803-1b8d3dde11c8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_schedule_type
+    - paragraphs.paragraphs_type.gdmi_group_participant_reminder
+  module:
+    - options
+id: paragraph.gdmi_group_participant_reminder.field_schedule_type
+field_name: field_schedule_type
+entity_type: paragraph
+bundle: gdmi_group_participant_reminder
+label: 'Schedule Type'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: after
+default_value_callback: ''
+settings: {  }
+field_type: list_string

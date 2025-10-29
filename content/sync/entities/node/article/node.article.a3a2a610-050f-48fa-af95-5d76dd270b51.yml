@@ -1,0 +1,77 @@
+uuid:
+  -
+    value: a3a2a610-050f-48fa-af95-5d76dd270b51
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-04-09T17:27:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+title:
+  -
+    value: ' Leadership Funnel: Empowering the Next Generation of Women Leaders'
+created:
+  -
+    value: '2018-03-16T21:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-09T17:27:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/leadership-funnel-empowering-next-generation-women-leaders
+body:
+  -
+    value: "<p><span style=\"background-color: transparent; font-size: 1em;\">[[{\"fid\":\"14417\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Female leaders\",\"field_file_image_title_text[und][0][value]\":\"Female leaders\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Female leaders\",\"field_file_image_title_text[und][0][value]\":\"Female leaders\"}},\"attributes\":{\"alt\":\"Female leaders\",\"title\":\"Female leaders\",\"height\":\"418\",\"width\":\"627\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">Many women have been raised being told they have the power to be “anything they want to be”. It has been trending in our society to tell our granddaughters, daughters, sisters, nieces and so on that they can pursue any dream imaginable. The path by which they get there can be less clear at times, but the motive to empower the surrounding women in our lives is there. To build the next generation of female leaders we have to pass them through a funnel of development skills that will enable them to emerge prepared for the demands of today’s marketplace.</span></p>\r\n<p style=\"text-align: center;\">&nbsp;[[{\"fid\":\"14117\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The leadership funnel\",\"field_file_image_title_text[und][0][value]\":\"The leadership funnel\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The leadership funnel\",\"field_file_image_title_text[und][0][value]\":\"The leadership funnel\"}},\"attributes\":{\"alt\":\"The leadership funnel\",\"title\":\"The leadership funnel\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"text-decoration: underline;\">Teach Self Confidence</span></p>\r\n<p>It is important to start teaching young girls about self confidence from an early age. Self confidence is not about being the loudest in the room but rather encompasses aspects such as the following:</p>\r\n<ul>\r\n<li>Standing up for something you believe in</li>\r\n<li>Sharing your opinions respectfully</li>\r\n<li>Being coachable</li>\r\n</ul>\r\n<p>Self confidence enables girls to grow assertive rather than aggressive, which is an essential quality to be a leader. An assertive leader is one who confidently stewards a team toward greatness, sees obstacles as challenges to overcome and can navigate mistakes as learning opportunities.</p>\r\n<p><span style=\"text-decoration: underline;\">Earn It Mentally</span></p>\r\n<p>Gone are the days when children made lemonade stands to earn a few bucks to go to the movies over the weekend. In today’s world of social media, we have corrupted many girls to think that success and rooftop lifestyle is earned overnight.</p>\r\n<p>This false pretense must stop!</p>\r\n<p>From early on, we need to start teaching young girls that everything we have must be earned. Before she gets that trip to Disneyland or a slumber party with her friends, she must look at ways to earn it. Be it an improvement on grades, community service or helping with chores.</p>\r\n<p>They say the best things in life are free, but truly nothing in life comes for free. We all have to earn our place on Earth.</p>\r\n<p><span style=\"text-decoration: underline;\">Start Early</span></p>\r\n<p><a href=\"https://www.forbes.com/sites/meimeifox/2017/06/12/six-ways-to-build-the-next-generation-of-female-leaders/#63affc90531c\">Ms. Lefebure</a>, the CEO and Founder of Design Army, a leading global creative agency, claims that her daughter Sophie grew into the business from an early age. She started by adding up her mum’s small bills and is now running major conferences alongside her mother because, at the age of 16 now, she has come to understand the ins and outs of the business.</p>\r\n<p>Like any habit, teaching a girl how to be a leader from the get-go is critical.</p>\r\n<ul>\r\n<li>Let them mimic your leadership</li>\r\n<li>Speak well and clearly – yelling has never really helped anyone</li>\r\n<li>Be patient</li>\r\n<li>Reinforce and reward leadership qualities</li>\r\n<li>Correct on the spot</li>\r\n</ul>\r\n<p><span style=\"text-decoration: underline;\">Talent versus Passion</span></p>\r\n<p>A good leader is one who has both passion about something and talent as well. However, we have used the words <i>passion</i> and <i>talent</i> so interchangeably over the years that their true meanings have been diluted.</p>\r\n<p>Passion is enthusiasm for something we are interested or excited about, whereas talent is a natural ability to do something. As a guardian or coach, it is important to know a young girl’s talent and passion. Although she may be passionate about opening her own lemonade stand and selling Girl Scout cookies, her talent could be writing.</p>\r\n<p>To make her an all-encompassing leader who blends her passion and talent, you may encourage her to write stories about her lemonade venture. This will be the generation of girls who get to college knowing exactly what they want to do and how they are going to go about it.</p>\r\n<p>&nbsp;</p>\r\n<p>The legacy of women in leadership today, defines the caliber of leaders we develop in days to come. If we focus on setting young girls on the right path – diving into the leadership funnel with full confidence – their futures are bright.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;<em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n<p><em>About the author:&nbsp;Annie Wambita '18 is a Masters of Global Management student at Thunderbird from Kenya and passionate about brand/product management, entrepreneurship, data insights and community investments. When she not travelling and connecting with people around the globe, you can find her by the park where she enjoys doing her creative writing.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Many women have been raised being told they have the power to be “anything they want to be”. It has been trending in our society to tell our granddaughters, daughters, sisters, nieces and so on that they can pursue any dream imaginable. The path by which they get there can be less clear at times, but the motive to empower the surrounding women in our lives is there. To build the next generation of female leaders we have to pass them through a funnel of development skills that will enable them to emerge prepared for the demands of today’s marketplace.'
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b08d5919-cc6b-4ba9-b8e0-c87cc431314a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b08d5919-cc6b-4ba9-b8e0-c87cc431314a

@@ -1,0 +1,18 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+      arguments:
+        uid:
+          exception:
+            title: Kabèh
+        type:
+          exception:
+            title: Kabèh
+        status:
+          exception:
+            title: Kabèh

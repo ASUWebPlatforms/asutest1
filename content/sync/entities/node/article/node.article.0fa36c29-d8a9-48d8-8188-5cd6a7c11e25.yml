@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 0fa36c29-d8a9-48d8-8188-5cd6a7c11e25
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-05-29T19:35:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'Putting on Our Research Hats'
+created:
+  -
+    value: '2018-05-29T17:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-29T19:35:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/putting-our-research-hats-1
+body:
+  -
+    value: "<p>By Jay McAuliffe</p>\r\n<p><strong>Summer 2018, Global Consulting Lab (GCL)</strong><br><strong>Ecuador, Siemens</strong></p>\r\n<p>The Young Consultants at Thunderbird (YC@T) are winding down the adventure in Quito, Ecuador. To recap, we as a team of six <a href=\"/node/3250\">were tasked by Siemens with helping to identify specific business opportunities</a> to grow their market share in the region by utilizing digitalization through understanding the need to incorporate specific global trends and adapt them to the local business environment. Each member of the group was assigned to research a relevant global megatrend with an emphasis on applying them towards the project's objective. The objective being for Siemens to win now and down the road.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"18280\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Successful meeting and business lunch with two top executives of Siemens. Fabian Erazo (behind Jay) and Fabian Salgado (across from John)</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>YC@T narrowed the scope to the <a href=\"/node/3250\">five key megatrends</a> we felt were necessary for Siemens to understand so they could strenghten their products moving forward. John Luebke researched changing geopolitical trends in the region. Giancarlo Romano investigated helping guide urbanization and demographic trends in the region. Jay McAuliffe explored finding fast approaching data security regulations to help better provide solutions demanding better data protection. Spencer Smith analyzed finding a way Siemens could help better utilize smart data in Ecuador, keeping Siemens business objectives in mind. Lastly, Madit Yel and Eric Cowan were tasked with finding out how global energy trends are impacting Ecuador and how Siemens can better capitalize.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"18281\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]\r\n<p class=\"caption-text\">Discussing our findings and narrowing down the relevant solutions that best help Siemens in Ecuador</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>We had our midpoint presentation on Thursday May 24 with Fabian Salgado and a few other Siemens associates. We presented the findings we had to that point, only hinting at the possible solutions that could benefit Siemens Ecuador down the line. Fabian, along with his colleagues, provided excellent feedback on our progress and what to further investigate prior to our final presentation on Tuesday May 29.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"18282\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]\r\n<p class=\"caption-text\">A nice business lunch with Fabian, Siemens' employees and YC@T to help celebrate our progress over the last two weeks</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 795
+    height: 596
+    target_type: file
+    target_uuid: e67c7a44-2611-45fd-8336-840cf67c746c
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    file:
+      - file.image.e67c7a44-2611-45fd-8336-840cf67c746c
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

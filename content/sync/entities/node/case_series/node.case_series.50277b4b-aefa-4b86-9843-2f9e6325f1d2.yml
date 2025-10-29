@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 50277b4b-aefa-4b86-9843-2f9e6325f1d2
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T18:11:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Scott - AFH'
+created:
+  -
+    value: '2016-07-27T18:11:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T18:11:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-02-0021
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case describes the company''s first attempt to design a global product development process. A major Japanese customer expresses interest in a more compact model of the existing liquid soap dispenser. The company''s senior management decided to leverage this market opportunity to develop a product that would also fit the product portfolio of European and North American divisions. The new process should integrate a world-class network of industrial designers, molders, toolmakers, contract manufacturers, and logistics providers.&nbsp;</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-02-0021
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: b1333cd0-7cdd-4c2b-bc43-37d21536f737
+field_case_series_year:
+  -
+    value: '2002-01-01'
+field_case_setting:
+  -
+    value: 'USA & Global'
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 91f41152-d22b-4626-995a-b5baa225d473
+field_teaching:
+  -
+    value: "To examine key aspects of the globalization of a critical business process.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.b1333cd0-7cdd-4c2b-bc43-37d21536f737
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.91f41152-d22b-4626-995a-b5baa225d473

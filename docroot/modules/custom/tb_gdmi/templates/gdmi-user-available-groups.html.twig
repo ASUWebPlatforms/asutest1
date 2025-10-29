@@ -1,0 +1,157 @@
+  {% if groups is not empty %}
+
+    {% for group in groups %}
+
+      <div class="manage-groups__group mb-4">
+
+        <div class="manage-groups__group-header d-flex justify-content-between align-items-center">
+            <div class="group-label" >
+              <span class="text-gold">{{ group.group.field_organization.value }}</span> - {{ group.group.label.value }}
+              <i class="fas fa-chevron-down ml-2" aria-hidden="true"></i>
+              <ul class="group-label-options collapse">
+                <li><a href="{{ url('entity.group.edit_form', {'group': group.group.id.value}) }}">Edit Org. and Group Names</a></li>
+                {% if  group.group.field_status.value == 'ongoing' %}
+                   <li><a href="{{ url('tb_gdmi.dashboard_groups_communications', {'group': group.group.id.value, 'local_task': '1', 'action': 'admins'}) }}">Add/Edit Admin(s)</a></li>
+                {% endif %}
+                <li><a href="{{ url('tb_gdmi.group_edit_participants_form', {'group': group.group.id.value}) }}">Edit Participants</a></li>
+                {% if  group.group.field_status.value == 'ongoing' %}
+                  <li><a href="{{ url('tb_gdmi.dashboard_groups_schedule', {'group': group.group.id.value, 'local_task': '1'}) }}">Edit Scheduling</a></li>
+                  <li><a href="{{ url('tb_gdmi.dashboard_groups_communications', {'group': group.group.id.value, 'local_task': '1', 'action': 'communications'}) }}">Edit Communications</a></li>
+                {% endif %}
+              </ul>
+            </div>
+            <div class="group-collapse-container">
+              <span class="status-label">({{ group.group.field_status.value == 'ongoing' ? 'In Progress' : group.group.field_status.value|replace({'_': ' '})|capitalize }})</span>
+              <div class="group-collapse-btn text-gold">
+                <span>{{ loop.index > 1 ? 'Open' : 'Collapse' }}</span>
+                <i class="fas fa-chevron-down ml-2 {{ loop.index == 1 ? 'open' : '' }}" aria-hidden="true"></i>
+              </div>
+            </div> 
+        </div>
+
+        <div class="manage-groups__group-body {{ loop.index > 1 ? 'collapse' : '' }}">
+
+          <div class="manage-groups__group-info">
+            <p>Date Created: <span>{{ group.group.created.value|date('F j, Y') }}</span></p>
+            <p>GDMI Version: <span class="version">{{ group.gdmi_version }}</span></p>
+            <p>Group Size: <span class="highlighted">{{ group.memberships|length }}</span></p>
+            <p>Group Status: <span class="highlighted">{{ group.group.field_status.value|replace({'_': ' '})|capitalize }}</span></p>
+            <p>Group Admin(s):  
+              {% if group.group.field_status.value == 'not_launched' %}
+                <span class="muted font-italic">Need to launch group...</span>
+              {% else %}
+                {% for admin in group.admins %}
+                  <span class="highlighted">
+                    {{ admin.user.field_first_name.value }} {{ admin.user.field_last_name.value }}
+                  </span>
+                  {% if admin.primary %}
+                    <span>(Primary)</span>
+                  {% endif %}
+                  {% if not loop.last %},{% endif %}
+                {% endfor %}
+              {% endif %}
+            </p>
+            {% if group.is_admin %}
+              <a class="btn btn-default {{ group.group.field_status.value == 'not_launched' ? 'btn-gray-8 text-white' : 'btn-blue'}}"  href="{{ group.group.field_status.value != 'not_launched' ? url('tb_gdmi.dashboard_groups_communications', {'group': group.group.id.value, 'local_task': '1', 'action': 'admins'}) : '' }}">Edit/Add Admin(s)</a>
+            {% endif %}
+          </div>
+
+          {% if group.is_admin %}
+            <div class="manage-groups__group-participants">
+              <div class="head-text">
+                <h3>{{ 'Participants'|t }}</h3>
+                <p>The participants attached to this group. The individuals listed here will have their results included in the group metrics.</p>
+              </div>
+              
+              <div id="options-relative-{{ group.group.id.value }}" class="position-relative">
+                <div class="table-container">
+                  <table class="gdmi-table">
+                    <thead>
+                      <th>Name</th>
+                      <th>Email Address</th>
+                      <th>Status</th>
+                      <th>Actions</th>
+                    </thead>
+                    <tbody>
+                      {% for membership in group.memberships %}
+                        <tr>
+                          <td>{{ membership.user.field_first_name.value }} {{ membership.user.field_last_name.value }}</td>
+                          <td>{{ membership.user.mail.value }}</td>
+                          <td>{{ membership.status }}</td>
+                          <td>
+                            <div class="options-dropdown" data-id="{{ group.group.id.value }}">
+                              <div class="options-btn"> 
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                              </div>
+                              <div class="dropdown-content">
+                                <ul>
+                                  <li>
+                                    <form action="{{ url('tb_gdmi.resend_invitation', {'group': group.group.id.value, 'user': membership.user.id}) }}" method="POST">
+                                      <input type="submit" value="Resend Invite Email"/>
+                                    </form>
+                                  </li>
+                                  <li>
+                                    <form action="{{ url('tb_gdmi.send_reset_password', {'user': membership.user.id}) }}" method="POST">
+                                      <input type="submit" value="Send Password Reset Email"/>
+                                    </form>
+                                  </li>
+                                  <li>
+                                    <a href="{{ url('tb_gdmi.group_edit_participants_form', {'group': group.group.id.value} ) }}">Edit Participant Information </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+              <div class="d-flex justify-content-end actions">
+                <form class="form-add-participants-{{ group.group.id.value }}" method="POST" action="{{ url('tb_gdmi.dashboard_add_pariticpants', {'group': group.group.id.value}) }}">
+                  <input data-group="{{ group.group.id.value }}" type="button" value="+ ADD PARTICIPANTS" class="btn btn-default btn-gold btn-add-participants"/>
+                </form>
+                <a href="{{ url('tb_gdmi.group_edit_participants_form', {'group': group.group.id.value}) }}" class="btn btn-default btn-blue">EDIT PARTICIPANTS</a>
+              </div>
+            </div>
+          {% endif %}
+
+          {% if group.group.field_status.value == 'not_launched' and group.is_admin %}
+            <div class="d-flex justify-content-end">
+                <a href="{{ url('tb_gdmi.dashboard_groups_schedule', {'group': group.group.id.value}) }}" type="submit" class="btn btn-default btn-blue btn-launch">
+                  LAUNCH GROUP
+                  <img class="ml-2" src="{{ file_url('themes/custom/thunderbird/assets/icons/webform/webform-button--submit.svg') }}"/>
+                </a>
+            </div>
+          {% endif %}
+
+          {% if group.group.field_status.value != 'not_launched' and group.is_admin %}
+            {% include "@tb_gdmi/components/group-selected-dates.html.twig" with {
+              type: 'manage-groups',
+              title: 'Scheduling',
+              subtitle: 'These are the dates selected for this group’s GDMI. You may edit the dates if needed.',
+              group: group.group,
+              timezone_formatted: group.timezone_formatted,
+            }%}
+
+            {% include "@tb_gdmi/components/group-communications.html.twig" with {
+              group: group.group,
+              admins: group.communications,
+              participants_invite: group.participants_invite,
+              participants_reminders: group.participants_reminders,
+              btn_class: 'ml-auto',
+              type: 'manage-groups'
+            }%}
+          {% endif %}
+
+        </div>
+      </div>  
+    {% endfor %}
+  {% else %}
+    <p>{{ 'You are not yet assigned to any group.'|t }}</p>
+  {% endif %}
+
+  {{ attach_library('tb_gdmi/manage_groups_actions') }}

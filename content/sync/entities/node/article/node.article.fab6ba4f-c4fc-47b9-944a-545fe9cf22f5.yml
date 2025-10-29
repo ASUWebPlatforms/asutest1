@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: fab6ba4f-c4fc-47b9-944a-545fe9cf22f5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Addictions and Life Savers!'
+created:
+  -
+    value: '2014-02-12T09:44:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/addictions-and-life-savers
+body:
+  -
+    value: "<p><span>The past week was overall an interesting one for team WEDU. &nbsp;As the team took a deeper dive into the project, they have discovered many challenges.&nbsp; Quantifying qualitative data, and meeting the deliverables deadlines are the two most pressing. The team is working on an innovative method of financing student loans, which is called Future Income Sharing Agreements or FISAs. The target segment is the underprivileged girls and women of the LDCs such as Cambodia, Laos etc. Wedu’s long-term success depends on its ability to accurately determine which women will provide both social change and economic returns on the funds Wedu invests in them. &nbsp;Work is going on at a hectic pace as the team discovers more about each other, as well as about the charm and challenge of working in an emerging market.&nbsp; Three key lessons came form this weeks work.</span></p>\r\n<p><span><img src=\"/sites/default/files/dscf3322.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1432 img__view_mode__default\"><br><br></span></p>\r\n<p><strong><span>WIFI</span></strong>: It is funny how we take for granted the high-speed Internet capabilities of the “most developed countries”. High-speed Internet is not easy to come by, even in Bangkok, which is one of the “Asian Tigers”.&nbsp; The hotel claims to have wifi; but the team has only been able to get on it a few times.&nbsp; It is tough to find good cafés and restaurants with free wifi. The team spent an entire hot, humid and sunny afternoon searching for a well-connected place. The team bought multiple cups of coffee and lemonade in various cafes until they landed at Starbucks (FYI, no free wifi at Starbucks, you have to pay for it)! Lesson learned: Always carry a USB flash drive to transfer data within the team. It is a lifesaver when it takes 10 minutes to download one Microsoft Word document.</p>\r\n<p><strong><span><img src=\"/sites/default/files/dscf3395.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1431 img__view_mode__default\"></span></strong></p>\r\n<p><strong><span>POST IT NOTES</span></strong>: Brain storming sessions are one of the best ways to get thoughts into words for the team. It also helps the team consolidate similar ideas said in different ways. The team found that it was very easy to use post it notes to organize the work plan. The glass window on the 41st&nbsp;floor of the office overlooking Bangkok was a gorgeous backdrop for the many orange types of post-it; yet Daisuke’s looming presence in the front of them regularly blocked the view.</p>\r\n<p><strong><span>DRINK IT UP</span></strong><span>: Everyone has a drink that brings him or her to life; it is a wake up drink in the morning, a switch to alertness in the work hours or just a drink to kill hunger for a while. While Daisuke needs something healthy in the morning, be it an orange juice or a weird colored drink (don’t know where he gets it from!), Sneha just can’t do without her coffee. Christy on the other hand has become addicted to Thai tea and Rich has found true love with his Milo drink. The team munches on local Thai snacks and sips on their own special Thai drinks.</span></p>\r\n<p>The team is doing great in Bangkok despite a few hiccups. Christy continues to combat the bugs (ants, mosquitoes and more), while Sneha still sleeps in fear of being attacked by lizards. Daisuke has proven to be a true international guide. He seems to have a sixth sense about roads and directions (maybe from prior experience of getting lost frequently); the team is grateful for opportunities to go on auto-pilot and just follow him around the city.&nbsp; Richard is enjoying the street food and is experimenting with most of the options available.&nbsp; Hopefully his food decisions don’t betray him!</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

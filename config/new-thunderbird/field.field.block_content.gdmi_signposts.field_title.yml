@@ -1,0 +1,19 @@
+uuid: 286edd3b-5a07-497d-8327-07b6cad0e065
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.gdmi_signposts
+    - field.storage.block_content.field_title
+id: block_content.gdmi_signposts.field_title
+field_name: field_title
+entity_type: block_content
+bundle: gdmi_signposts
+label: Title
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

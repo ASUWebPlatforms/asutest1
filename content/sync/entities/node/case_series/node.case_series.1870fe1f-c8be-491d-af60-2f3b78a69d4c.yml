@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: 1870fe1f-c8be-491d-af60-2f3b78a69d4c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2017-02-08T22:15:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a54fdb1e-4122-493a-83c1-97b7190d7a9d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: '3P Turbo – Cross Border Investment in Brazil'
+created:
+  -
+    value: '2017-01-19T21:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-02-08T22:15:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-16-0013
+body:
+  -
+    value: '<p>Faced with uncompetitive regulation, the founder of 3P Turbo, Jason Starks, was contemplating setting up a facility to manufacture automobile turbochargers in Brazil. At that time, Brazil was experiencing huge political turmoil, resulting from the Petrobras scandal that involved prominent business and political leaders, and the impeachment of the country’s president, Dilma Rousseff. It was also hit with the worst recession in two decades, exacerbated by low commodity prices and the slow-down of the Chinese economy. Jason had engaged with a consultant to gather some revenue and cost projections for this cross border investment to see if it would create value and make financial sense. More importantly, he needed to access the economic and political risks of Brazil and its automobile industry, and determine if the timing was right to enter the Brazilian market.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-16-0013
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: f0f95285-4d36-4d35-93c2-40aa62d3f051
+  -
+    target_type: taxonomy_term
+    target_uuid: 95ca5101-0e03-41b8-b83c-faf4576d6cb3
+field_case_series_date:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3ec5b5c4-97cd-4409-9725-a35a8ae7691d
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: Brazil
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: 'This case may be used in a core finance course, or in courses such as international finance, international business, or global financial management, in undergraduate, graduate, or executive programs, to familiarize students with the financial and non-financial aspects of cross border investments. This case is best taught after students have been exposed to discounted cash flow valuation and cost of capital, and know the investment analysis tools such as net present value (NPV) and internal rate of return (IRR). This case gives students the opportunity to use spreadsheet for cross border investment analysis to determine if the investment creates value. It involves students estimating foreign cost of capital, or forecasting future exchange rates to ultimately calculating NPV and/or IRR for the investment. The case also highlights how low interest loan could add value to a cross border project. Once the base case is built, students can conduct sensitivity, scenario or breakeven analyses to strengthen the quality of their decision. The case is a hands-on way to apply the concepts of cross border valuation.Besides spreadsheet analysis, the case considers the important factors in cross border investment decision-making, especially in a country with high political and economic risks, amidst a challenging global environment. Depending on the course, the emphasis could be on the financial analysis, the regional business and political environment, or both. The case could also be used to discuss the global automobile industry in general, and Brazilian auto industry in particular.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a54fdb1e-4122-493a-83c1-97b7190d7a9d
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.f0f95285-4d36-4d35-93c2-40aa62d3f051
+      - taxonomy_term.case_series_authors.95ca5101-0e03-41b8-b83c-faf4576d6cb3
+      - taxonomy_term.case_series_years.3ec5b5c4-97cd-4409-9725-a35a8ae7691d
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

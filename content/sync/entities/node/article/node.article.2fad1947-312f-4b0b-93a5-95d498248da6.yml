@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 2fad1947-312f-4b0b-93a5-95d498248da6
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-02-05T20:48:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'J.Crew’s Pop-Up CEO Office'
+created:
+  -
+    value: '2018-12-01T15:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-05T20:48:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/jcrews-pop-ceo-office
+body:
+  -
+    value: "<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"0*1ahBEi6OljfgRy0u.jpeg\" data-width=\"1024\" data-height=\"683\" data-is-featured=\"true\" data-action=\"zoom\" data-action-value=\"0*1ahBEi6OljfgRy0u.jpeg\" data-scroll=\"native\">\r\n<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">When the board of J Crew decided the CEO wasn’t working out, it figured four heads might be better than one. For&nbsp;now.</h3>\r\n<img src=\"https://cdn-images-1.medium.com/max/1600/0*1ahBEi6OljfgRy0u.jpeg\" width=\"1172\" height=\"782\" class=\"progressiveMedia-image js-progressiveMedia-image\" data-src=\"https://cdn-images-1.medium.com/max/1600/0*1ahBEi6OljfgRy0u.jpeg\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><strong><i>J Crew&nbsp;Store</i></strong></p>\r\n<p class=\"graf graf--p graf-after--figure\"><em>(this article previously appeared in&nbsp;</em><a href=\"https://chiefexecutive.net/j-crews-pop-up-ceo-office/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://chiefexecutive.net/j-crews-pop-up-ceo-office/\"><em>Chief Executive Magazine</em></a><em>)</em></p>\r\n<p class=\"graf graf--p graf-after--p\">And then there were four.</p>\r\n<p class=\"graf graf--p graf-after--p\">Former J.Crew CEO James Brett recently announced he was packing up after a year-and-a-half on the job. That’s about the amount of time most CEOs need just to get their bearings. The company rushed out a press release claiming it was a matter of ‘mutual agreement’ between Brett and the board of directors.</p>\r\n<p class=\"graf graf--p graf-after--p\">The J.Crew board replaced Brett with a quartet of senior officers, including “Michael Nicholson, president and COO, Adam Brotman, president and chief experience officer, Lynda Markoe, chief administrative officer, and Libby Wadle, president of Madewell Brand.”</p>\r\n<p class=\"graf graf--p graf-after--p\">For now.</p>\r\n<p class=\"graf graf--p graf-after--p\">There are many things to sort out with this story, but let’s start with asking why Brett was so dispensable that the question of his replacement was deemed secondary? What could have gone so wrong and so soon? To answer that, we have to look at several apocalyptic themes at work here.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Team of&nbsp;Rivals</h3>\r\n<p class=\"graf graf--p graf-after--h3\">It is a truism that when a CEO’s exit is described as “mutual,” it is sugarcoating that the board was in full revolt. When the board appoints a foursome as his replacement, it is disguising something more alarming, a complete lack of a succession plan. It could only be a sign that the company had no visible leader, yet by summarily dismissing the current job holder it left a team of rivals in his place and left itself little choice than to appoint all of them. But there may have been a reason for the board’s madness.</p>\r\n<p class=\"graf graf--p graf-after--p\">The interim role, which I describe as a pop-up CEO office, has far more significance than the usual stand-in. When a board appoints someone in ‘acting’ mode it is usually a well-respected executive officer who has the support of the team but is under no illusion that he or she is going to succeed the chief executive. In J.Crew’s case, that’s not true. They are all rivals for the job. It suggests the board is challenging them to cooperate to restore the company’s magic. The obvious incentive is that if the team rises to the occasion and selects the best leader to run the company, even while sacrificing their own ambition, everyone benefits. If the rivalry takes over, the board goes outside for a candidate, and everyone loses. It is a version of the psychological game known as ‘prisoner’s dilemma’ in which betrayal proves more costly than cooperation.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Private vs. Public&nbsp;Equity</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Under its previous CEO, Mickey Drexler, the store chain mismanaged its brand to the point of being unaffordable, and it was losing its cool among those willing to pay the high price points. At the time of his resignation, Drexler’s tenure was also about to collapse under a pile of debt the private equity owners had placed on the company, in part to self-enrich.</p>\r\n<p class=\"graf graf--p graf-after--p\">The company only managed to avoid bankruptcy in 2017 by convincing bondholders to transfer debt into equity, making the shareholder class very bondlike, a perilous place for a long-term player. Then, shortly after the announcement of the deal, the major shareholders, TPG and Leonard Green, borrowed even more to help finance dividends to themselves totaling $787 million.</p>\r\n<p class=\"graf graf--p graf-after--p\">A bondholder mentality isn’t a great place to be in the middle of a turnaround. In Seattle, there is a formidable adversary for short-term thinkers and he thinks in terms of how to grow the business in five years or more, not the next quarterly dividend check. The lesson for private equity run public companies is that let bondholders stick to bonds, and board directors stick to thinking about shareholders.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Dinosaur breath</h3>\r\n<p class=\"graf graf--p graf-after--h3\">The third problem at J.Crew was the presence of a ‘presence’ on the board. Mickey Drexler is not just any former CEO, he is board chair and 10% shareholders, in other words, he’s the ax, the kingmaker, and the king-toppler.</p>\r\n<p class=\"graf graf--p graf-after--p\">When legendary CEOs continue to sit on the board of the company they ran, they create an immediate credibility vacuum. Smart advice to those who follow famous leaders is “never replace the legend, replace the guy who replaced the legend.” In Brett’s case, his moves to change the company were most likely seen as a repudiation of Drexler, especially by Drexler.</p>\r\n<p class=\"graf graf--p graf-after--p\">Most public companies do not permit the former CEO to stay on the board, even to the point of sacrificing their experience and wisdom to give the current CEO a chance to be his or her leader. Maintaining the legacy figurehead at the board level sets the current officer holder up for failure, as it most likely did Brett.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Board dependence</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Demonstrating Drexler’s power over the board, as well as its lack of independence, once he was deposed for mishandling the company’s affairs, he was subsequently named the chairman. In that role, he also became instrumental in choosing his successor. An interesting reward for failure.</p>\r\n<p class=\"graf graf--p graf-after--p\">Drexler was also a 10% owner of the company, making him de facto swing vote and boss. Any CEO appointed under those circumstances knew they were facing not just a challenge in the market but inside the boardroom.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">Only the second battle was unwinnable.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><strong><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i></strong></p>\r\n<p><strong>Author’s Bio</strong></p>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p>Read more from Jeff:</p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/stop-apologizing-8-social-media-rules\">“I’m Sorry I Tweeted About Politics” — 8 Rules to Stop Saying This</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/starbucks-responds-charges-racism-apology\">Starbucks Responds To Charges of Racism With An Apology</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/quote-trump-misquote-him\">To Quote Trump is to Misquote Him</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/amazon-inspires-comeback-in-heartland\">Amazon Inspires a Comeback in The Heartland</a></li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: 'When the board of J Crew decided the CEO wasn’t working out, it figured four heads might be better than one. For now.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1024
+    height: 683
+    target_type: file
+    target_uuid: df55ee88-d6ea-4666-83b8-43910fd6ded5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.df55ee88-d6ea-4666-83b8-43910fd6ded5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

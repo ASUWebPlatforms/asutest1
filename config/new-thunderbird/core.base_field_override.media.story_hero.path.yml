@@ -1,0 +1,20 @@
+uuid: 64b87c75-9752-417a-aa35-8226da86c74a
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.story_hero
+  module:
+    - path
+id: media.story_hero.path
+field_name: path
+entity_type: media
+bundle: story_hero
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

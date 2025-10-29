@@ -1,0 +1,118 @@
+uuid:
+  -
+    value: 4a058683-4f2e-45b9-b163-91f6b12b6d87
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2021-07-15T19:39:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Enemies with benefits: Daimler and BMW’s mobility ecosystem “YOUR NOW”'
+created:
+  -
+    value: '2021-07-15T19:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-07-15T19:39:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-21-0009
+body:
+  -
+    value: '<p>The case study “Enemies with benefits: Daimler and BMW’s mobility ecosystem” portrays how the German automotive giants Daimler AG and the BMW Group, strong competitors for decades, bundle different ventures and activities in the field of new mobility solutions to create a joint ecosystem called “YOUR NOW”. The ecosystem entails a variety of different business models covering car sharing, ride-hailing, charging, parking, and mobility-as-a-service offerings. These different divisions (that Daimler and BMW often refer to as “verticals”) oftentimes complement each other, but partly also compete with each other. This situation creates a unique potential to combine complementary resources and capabilities, but also causes tensions from competitive behaviors among the single ventures.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-21-0009
+field_case_page_length:
+  -
+    value: '25 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: e61805e3-4b59-4494-84f9-991b7cc256b7
+  -
+    target_type: taxonomy_term
+    target_uuid: e7c69348-1da2-4d2a-9284-70027770820d
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 54e7aa4c-5c7d-4f05-8c6d-40fff9aaa0b0
+field_case_series_year:
+  -
+    value: '2021-01-01'
+field_case_setting:
+  -
+    value: Germany
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: fe3b2aeb-0286-4e70-bcf7-41050c3a8cc9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 04f3166f-aea8-4948-b8a2-3050edd8953b
+  -
+    target_type: taxonomy_term
+    target_uuid: cd0ee17c-d82d-45ba-b051-ac506b444b43
+field_teaching:
+  -
+    value: "-\tStudents will familiarize themselves with the companies’ rationales to join forces in the field of mobility (despite a persistently fierce rivalry in the car-making industry for more than 100 years), \r\n-\tStudents will analyze different business models combined in the ecosystem. \r\n-\tStudents will gain insights into the disruptive forces—caused by existing and new competitors—shaping the mobility industry\r\n-\tStudents will critically assess the ecosystem’s internal structure and interactions with competitors / potential complementors\r\n-\tStudents will derive recommendations on how to develop the ecosystem further in an increasingly demanding environment\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.e61805e3-4b59-4494-84f9-991b7cc256b7
+      - taxonomy_term.case_series_authors.e7c69348-1da2-4d2a-9284-70027770820d
+      - taxonomy_term.case_series_industry.54e7aa4c-5c7d-4f05-8c6d-40fff9aaa0b0
+      - taxonomy_term.case_series_categories.fe3b2aeb-0286-4e70-bcf7-41050c3a8cc9
+      - taxonomy_term.case_series_categories.0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+      - taxonomy_term.case_series_fields.04f3166f-aea8-4948-b8a2-3050edd8953b
+      - taxonomy_term.case_series_fields.cd0ee17c-d82d-45ba-b051-ac506b444b43

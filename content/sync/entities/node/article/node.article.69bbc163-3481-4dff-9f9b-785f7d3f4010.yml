@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 69bbc163-3481-4dff-9f9b-785f7d3f4010
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Project Artemis: Bamyan Baba Private School'
+created:
+  -
+    value: '2016-06-21T19:33:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/project-artemis-bamyan-baba-private-school
+body:
+  -
+    value: "<p><span><a href=\"http://t4g.thunderbird.edu/programs/project-artemis-afghanistan\" target=\"_blank\">Project Artemis</a>&nbsp;has had a significant impact on Afghan women and their communities by providing them with the</span><span>entrepreneurial</span><span>&nbsp;skills</span><span>&nbsp;they need to start&nbsp;</span><span>or grow a business. Amina Hassan Pur, a 2010 Project Artemis alumna, has been successful in opening a co-ed private school since graduating from the program.</span></p>\r\n<p>[[{\"fid\":\"2997\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Bamyan Baba Private School\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Bamyan Baba Private School\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><span><a href=\"http://www.bamyanbabaprivateschool.org/\" target=\"_blank\">Bamyan Baba Private School</a>&nbsp;first opened in 2010, but the rental fee for the property was too high. The Bamyan mayor provided land for a new building to be constructed, which opened on March 22, 2015 and has 12 classrooms. Two years ago, the school had 70 students between first and seventh grade. Currently, there are 126 students between kindergarten and eighth grade.</span></p>\r\n<p><span>Mary Jae Abbitt was a mentor to Amina during the program, and she continues to provide guidance and assistance to her to this day. The two women met while Mary Jae was living in Bamyan from 2009 until 2012, and when she heard about Amina’s goal of opening a school, she recommended her to apply for Project Artemis.</span></p>\r\n<p><span>After being selected, Amina flew to Arizona to attend the two-week program at the&nbsp;<a href=\"http://www.thunderbird.edu/\" target=\"_blank\">Thunderbird School of Global Management</a>. During the program, she created a five-year business plan, which Mary Jae said was very helpful to Amina, and she returned to Afghanistan excited to continue with her work.</span></p>\r\n<p><span>As her mentor, Mary Jae saw several differences in Amina after she completed Project Artemis. These included the way Amina spoke about having to work hard and reaching her goals, and the way she increased marketing for the school by creating banners and hanging them around town. Using banners is a unique method of marketing in a rural village such as Bamyan, but Amina found it to be very beneficial. Mary Jae said, “Amina’s attendance there was really instrumental and useful for the school.”</span></p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p>[[{\"fid\":\"2998\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Bamyan Baba Private School\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Bamyan Baba Private School\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><em><span>Students greeted Mary Jae as she arrived at the school</span></em></p>\r\n</td>\r\n<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>\r\n<td>\r\n<p>[[{\"fid\":\"2999\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Bamyan Baba Private School\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Bamyan Baba Private School\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><em><span><br>A female student reads an Afghan poem</span></em></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><span>Now that the new school has been open for several months, Mary Jae just traveled to Bamyan to assist Amina with creating her next five-year business plan. In addition, she and other partners provided funding for solar electricity and two eco-friendly heating stoves, and she has worked with local NGOs to do this. There was also an opening ceremony for the school, which Mary Jae said,“went magnificently.”</span></p>\r\n<p><span>One feature that allows the Bamyan Baba Private School to stand out from the other two public schools in the area is that it has a computer lab. The support that has been provided to the school has been beneficial to the students. About 15 percent of the students at the school are from very poor families, but are able to attend at no cost after completing an application process through the Department of Education. More than half of those students are girls. Mary Jae’s family, the primary donors, along with partners such as Carolyn Firestone, made the school a reality for this poor community located high in the Hindu Kush. The school continues to accept donations to help achieve their goal: “to provide quality and educational opportunities to girls and boys of the poorest (and safest) province in Afghanistan - Bamyan.”</span></p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>[[{\"fid\":\"3000\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Bamyan Baba Private School\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Bamyan Baba Private School\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</td>\r\n</tr>\r\n<tr>\r\n<td><em><span>Mary Jae and an eighth grade student point at the United States and Afghanistan on a map that she brought for the school<br><br></span></em></td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

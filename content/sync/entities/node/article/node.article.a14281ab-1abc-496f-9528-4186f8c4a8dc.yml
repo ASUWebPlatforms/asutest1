@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: a14281ab-1abc-496f-9528-4186f8c4a8dc
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-01T20:12:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+title:
+  -
+    value: 'Descubriendo Mi Pasion en Colombia'
+created:
+  -
+    value: '2017-01-14T08:19:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-01T20:12:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/Passion-en-Columbia
+body:
+  -
+    value: "<p><span style=\"color: #000000;\"><span style=\"font-family: Calibri;\">[[{\"fid\":\"3980\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Descubriendo Mi Pasion en Colombia\",\"field_file_image_title_text[und][0][value]\":\"Descubriendo Mi Pasion en Colombia\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Descubriendo Mi Pasion en Colombia\",\"title\":\"Descubriendo Mi Pasion en Colombia\",\"height\":\"442\",\"width\":\"787\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</span></span></p>\r\n<p><span style=\"color: #000000;\"><span style=\"font-family: Calibri;\">By Stefani Chaney</span></span></p>\r\n<p><span style=\"color: #000000;\"><span style=\"font-family: Calibri;\">Mi sueño siempre ha sido vivir y trabajar en Colombia. En diciembre estuve un mes de vacaciones en este país. Cada vez que visito me dan más ganas de poder tener la oportunidad de irme a trabajar en Bogotá. Originalmente soy de Caracas y aunque prefiero poder ir a Venezuela, donde vive la mayoría de mi familia, la realidad del país no me ha permitido residir en mi país. La confusión que ha creado el gobierno y la situación económica no es adecuada para seguir adelante con mi carrera. Sin embargo, Colombia, es un líder internacional en emprendimiento, tiene potencial de crecimiento y de esta manera crea muchas oportunidades. Para mi Colombia es lo más cercano a mi país querido. La gente, la comida, la música y los paisajes jamás me han fallado. </span></span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri;\">Desde que empecé a estudiar negocios, siempre he querido volver a Latinoamérica. Durante mi tiempo en Thunderbird tuve la oportunidad de participar en un GCL con Johnson &amp; Johnson en Lima, Perú. Durante mi estancia en Perú estuve trabajando con gente de toda la región, entendí la cultura de trabajo de este país. La comunicación laboral es más informal y el ambiente de trabajo es colectivista, pero más que todo los empleados son muy dedicados. En un futuro espero poder encontrar una oportunidad de trabajo en consultoría de estrategias y operaciones en Colombia en donde pueda alcanzar mis metas profesionales y también tener la flexibilidad de poder viajar.</span></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1334
+    height: 750
+    target_type: file
+    target_uuid: 21d5ddd8-69fb-4769-9da3-750a9a8e27e1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1
+    file:
+      - file.image.21d5ddd8-69fb-4769-9da3-750a9a8e27e1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

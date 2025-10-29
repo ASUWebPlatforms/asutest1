@@ -1,0 +1,118 @@
+uuid:
+  -
+    value: 4d623e98-4159-4728-9038-e15767ac110b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2021-02-02T17:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Crisis Management, Signal Detection, and Organizational Destruction: When a Manager Whitewashes, Buries, and Demolishes the Evidence '
+created:
+  -
+    value: '2021-02-02T17:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-02-02T17:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a05-21-0001
+body:
+  -
+    value: '<p>This case is based on an actual organizational crisis, and the day-to-day operational factors and latent conditions that led to it. Case facts focus on the role of Malcolm Thornton (pseudonym), a newly promoted manager of ride operations at an amusement park. From his first days on the job, Thornton’s ignorance and dishonesty nurture a crisis that crescendos with the grotesque death of a 10-year-old boy, who was a passenger on a park ride. Thornton’s culpability is obvious, but additional, substantial contributing factors are seeded throughout the case: faulty structure and equipment; lack of safety policies and procedures; absence of external oversight; brazen, hazardous choices made by the designer/co-owner of the deadly ride; and the dereliction of duty by corporate executives.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A05-21-0001
+field_case_page_length:
+  -
+    value: '5 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8540b242-49b8-4764-a544-a15f871eb207
+field_case_series_year:
+  -
+    value: '2021-01-01'
+field_case_setting:
+  -
+    value: Geographic
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+  -
+    target_type: taxonomy_term
+    target_uuid: 2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 74d5180a-81a2-4f01-82c2-6032bb932240
+  -
+    target_type: taxonomy_term
+    target_uuid: 50dcfc3b-752f-4182-9e59-0edcd8b89ce4
+  -
+    target_type: taxonomy_term
+    target_uuid: be529d94-28fd-4a24-b924-5cecddb53b94
+field_teaching:
+  -
+    value: "Teaching Purposes\r\n1.\tTo consider the dramatic influence of a middle manager during crisis, including how a manager’s decisions and actions can cause problems to spiral into crisis.\r\n2.\tTo look at the signal detection cycle in a real organization, including effective and appropriate noticing and reporting, and the dreadful outcomes of not responding.\r\n3.\tTo consider the vital need for eyes and voice of executive leadership when dangerous problems are occurring and, especially, when they are being ignored.\r\n4.\tTo consider how the Fourth Industrial Revolution and today’s techno-fused environment have diminished organizational control in the face of crisis, and amplified the value of signal detection. \r\n5.\tTo understand the influence of ineffective management practices across national cultures in regard to varied approaches to solving problems and avoiding crises.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+      - taxonomy_term.case_series_industry.8540b242-49b8-4764-a544-a15f871eb207
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_categories.2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+      - taxonomy_term.case_series_fields.74d5180a-81a2-4f01-82c2-6032bb932240
+      - taxonomy_term.case_series_fields.50dcfc3b-752f-4182-9e59-0edcd8b89ce4
+      - taxonomy_term.case_series_fields.be529d94-28fd-4a24-b924-5cecddb53b94

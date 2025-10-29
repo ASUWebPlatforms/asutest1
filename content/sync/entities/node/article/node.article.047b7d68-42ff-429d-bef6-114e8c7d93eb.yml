@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 047b7d68-42ff-429d-bef6-114e8c7d93eb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:36:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Did Jeff Immelt Fumble the GE Handoff?'
+created:
+  -
+    value: '2017-12-08T23:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:36:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/did-jeff-immelt-fumble-ge-handoff
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">The problem with strategy is it takes too&nbsp;long.</h3>\r\n<p class=\"graf graf--p graf-after--figure\">Once considered the best-managed company in America, a stalwart top 10 in the S&amp;P 500 with a dividend safer than Fort Knox, GE has suffered a series of crushing blows to its reputation.</p>\r\n<p class=\"graf graf--p graf-after--p\">Incoming CEO John Flannery slashed executive bonuses, cut the dividend in half, threatened a fire sale of anything that moves, slimmed down the board of directors and invited the bete noir of corporate chieftains, Nelson Peltz, onto the board. The result? A stock price near the mid-teens, and a valuation dropping like a dead weight. What happened?</p>\r\n<p class=\"graf graf--p graf-after--p\">In a phrase, the 21st Century.</p>\r\n<p class=\"graf graf--p graf-after--p\">[[{\"fid\":\"10225\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Jeff Immelt and The Transformation of GE\",\"height\":\"390\",\"width\":\"640\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--figure\">GE is a very large canary in the global coal mine. It’s disruption is typical of what is happening all over the corporate board game. Not long ago, the committee that makes up the S&amp;P 500 (they also approve the listings of the Dow) dropped oldie but goodies like Bank of America, Hewlett Packard, and Alcoa, and replaced them with Goldman Sachs, Nike, and Visa. Brands, image, and networks beat assets.</p>\r\n<p class=\"graf graf--p graf-after--p\">So what do GE’s lessons portend for the rest of American industry?</p>\r\n<p class=\"graf graf--p graf-after--p\">If change is the only constant, nimbleness is the primary skill for running a business and strategy is the next few steps and not a five year direction. By GE’s vaunted standards, long-term strategic thinking actually slows down the speed we need to navigate abrupt shifts typical of global markets.</p>\r\n<p class=\"graf graf--p graf-after--p\">I had the chance to interview former CEO Jeff Immelt in 2016, shortly before the current crisis, and his comments showed how fully aware he was of these challenges.</p>\r\n<p class=\"graf graf--p graf-after--p\">Immelt told me, “When I took over GE, the biggest surprise was the world twisted from one of relatively benign growth to one of just high volatility, high geo-political risk. In many ways, the environment today is nothing like what I thought it would be when I became CEO.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Immelt set about to reconstruct GE for this new world, and while he did everything a highly capable CEO could possibly do, he could not move fast enough given the chaotic environment. The problem wasn’t Immelt, it was the legacy of how a major business operates, slowly and methodically.</p>\r\n<p class=\"graf graf--p graf-after--p\">Disruption today springs from many sources including the Chinese economic miracle, geopolitical disruption, public discontent with major institutions which began not long ago with Occupy Wall Street and is now evident as Bitcoin savagely attacks our financial markets. Consumer tastes didn’t change, they revolted. Tesla is now the most valuable automotive company in America with a fraction of the sales of GM or Ford. Yet, the company does no traditional advertising and does not have a dealer network.</p>\r\n<p class=\"graf graf--p graf-after--p\">When I put that example to Immelt, he simply said, “business has no shelf life, and what was right ten years ago may now be obsolete. You are always planning for the next disruption, and that means looking at new markets all the time.”</p>\r\n<p class=\"graf graf--p graf-after--p\">So why didn’t GE see those changes coming? In fact, Immelt did. The problem wasn’t in the strategy but in the time it takes to implement it. Long term thinking has given way a a ‘pop up’ mentality, in which quick forming strategies appear suddenly and are able to take advantage of a market opening. By the time a major company gets its arms around the opportunity, the window closes.</p>\r\n<p class=\"graf graf--p graf-after--p\">In that era, corporate strategists were paid handsomely to reject instinctive hunches and replace them with testing and lengthy deliberation. It made boards feel secure about the money they were risking on new programs. But it had the unfortunate effect of whitewashing the real needs that were slowly creeping into the market. It is why we ended up with too many SUV’s in one era and not enough sports cars in the next. One step ahead, two steps behind. The problem wasn’t brains, it was boldness. A habit of total risk aversion is one in which the biggest risks are left until it’s too late.</p>\r\n<p class=\"graf graf--p graf-after--p\">We are in a state like the Revolutionary War era when musket loading weapons were slower than rifles, and that difference in speed meant powerful weapons were useless in battle although they made great sense in theory. Strategic planning requiring months of approval fail to stand up to Mark Zuckerberg’s ‘hacker mentality’ in which a team of Stanford dropouts creates a solution in six days not six months. The Department of Labor isn’t standing over their shoulders asking about equal opportunity or minimum wages. By the time the product is launched, Silicon Valley venture capitalists are ponying up millions to fund them to the next stage. In the glass headquarters of General Electric, teams are still working on their power points.</p>\r\n<p class=\"graf graf--p graf-after--p\">The changes have meant that long term planning as a mechanism for making decisions is in jeopardy. If it takes your team a year to develop a global competitive strategy, someone in Silicon Valley has developed an AI or blockchain workaround before your first brainstorming session.</p>\r\n<p class=\"graf graf--p graf-after--p\">Immelt saw this coming when he said to me, “I think we used to think that if you had good leaders you could be in any business. We want to have good leaders, but we actually believe that this deep domain expertise is also critically important for the future. Business has no shelf life. You really can’t be captivated by anything that’s happened in the past. It’s all about today and tomorrow in business.”</p>\r\n<p class=\"graf graf--p graf-after--p\">What was also implicit is that deep expertise is now divided into micro-segments, those which can be developed overnight and without unnecessary delays. Running a major global company relying on far flung assets and employees will give way to newer models of crowd sourcing, AI driven decision making, and networked organizations. Uber should have taken decades to build out, but instead they encouraged drivers to lease cars and download the app. Presto, a global business was born overnight.</p>\r\n<p class=\"graf graf--p graf-after--p\">The new era is teaching us Immelt’s edict that business has no shelf life, but it it has also issued a painful edict to John Flannery, that GE has no shelf life either. The abrupt seeming changes he is making are not revolutionary, they are just a realization of this fact of modern business life.</p>\r\n<p class=\"graf graf--p graf-after--p\">In leaving GE just a few short months ago, Immelt realized how dire the world looked, even for a company as solid as GE. In the words of Winston Churchill, speaking of how his successor, Anthony Eden, would feel about him after taking over the Prime Ministership, “He will praise me for two days until he realizes I have left him with a job in which no one can succeed.”</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">For a time going forward, running a major global company may feel the same.</p>\r\n<h4>Author’s Bio</h4>\r\n<p><em>Jeff&nbsp;Cunningham&nbsp;is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.&nbsp;</em></p>\r\n<p><em>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</em></p>\r\n<p><em>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;</em><a href=\"http://www.iconicvoices.tv/\"><em>Iconic Voices</em></a><em>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to&nbsp;JeffImmelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;</em><a href=\"http://www.jeffcunningham.com/\"><em>JeffCunningham.com.</em></a><em>&nbsp;</em></p>\r\n<p><em>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.&nbsp;</em></p>\r\n<p><em>He has also been a board director of 10 public companies.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Once considered the best-managed company in America, a stalwart top 10 in the S&P 500 with a dividend safer than Fort Knox, GE has suffered a series of crushing blows to its reputation.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1280
+    height: 645
+    target_type: file
+    target_uuid: 965720ab-4084-408d-b012-b407780d88b9
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.965720ab-4084-408d-b012-b407780d88b9
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

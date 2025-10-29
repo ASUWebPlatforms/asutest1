@@ -1,0 +1,23 @@
+uuid: 3c4b950b-ede8-4a1f-a276-192d23d60ab3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_signpost_link
+    - paragraphs.paragraphs_type.signpost_less_content
+  module:
+    - link
+id: paragraph.signpost_less_content.field_signpost_link
+field_name: field_signpost_link
+entity_type: paragraph
+bundle: signpost_less_content
+label: Link
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  title: 1
+  link_type: 17
+field_type: link

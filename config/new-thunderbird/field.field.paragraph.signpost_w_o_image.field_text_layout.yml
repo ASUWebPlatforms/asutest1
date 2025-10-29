@@ -1,0 +1,21 @@
+uuid: 179cbe6d-3d42-4bab-b996-2b6f8fa12f88
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_text_layout
+    - paragraphs.paragraphs_type.signpost_w_o_image
+  module:
+    - options
+id: paragraph.signpost_w_o_image.field_text_layout
+field_name: field_text_layout
+entity_type: paragraph
+bundle: signpost_w_o_image
+label: 'Text layout'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

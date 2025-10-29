@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 84157325-a624-4926-900c-7f2216f91b1b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-04-16T17:00:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: 'Thunderbird’s Global Consulting Laboratory: students with real-world experience'
+created:
+  -
+    value: '2018-04-16T17:00:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-16T17:00:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbirds-global-consulting-laboratory-students-real-world-experience
+body:
+  -
+    value: "<p class=\"p1\"><span class=\"s1\">Thunderbird’s Global Consulting Laboratory (GCL) is a three-unit client-facing, project-based capstone course that involves a three-week immersion in an emerging market. Projects are tailored to the business needs of the client and provide sophisticated data and market analysis, strategy recommendations and practical, effective plans for sustained growth.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><i>GCL is an elective course open to Thunderbird’s&nbsp;</i>Master of Arts in Global Affairs and Management students<i>. The Lab is a competitive, application-based program.</i>&nbsp;Student consultants are competitively selected, culturally adaptive, smart and motivated. Through participation in our applied learning courses, students acquire real-world experience, learn to work in cross-cultural teams, gain insights into new functions and industries and get strong resume building experiences.</span></p>\r\n<p class=\"p1\">This summer the GCL has three different projects that provide diversity and will provide a real work experience for students. These are the projects that students can have a cultural immersion and professional growth:&nbsp;</p>\r\n<p class=\"p1\"><span class=\"s1\">-</span><span class=\"s2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class=\"s1\">Heifer International, a<span class=\"s2\"></span><span class=\"s1\">&nbsp;global NGO.</span></span></p>\r\n<p class=\"p1\"><span class=\"s1\">-</span><span class=\"s2\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=\"s1\">Seimens, a multinational corporation.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">-</span><span class=\"s2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UMCO,&nbsp;</span><span class=\"s1\">A small/medium sized enterprise called&nbsp;</span></p>\r\n<p class=\"p1\"><span class=\"s1\">The basics of the program include 3 weeks onsite, for-credit course, and&nbsp;</span><span class=\"s1\">Receive on-the-ground support from&nbsp;<a href=\"https://thunderbird.asu.edu/node/181\"><span class=\"s2\">Professor Tom Hunsaker, Ph.D</span></a>., who will accompany students to the field</span></p>\r\n<p class=\"p1\"><span class=\"s1\">, real clients, real business issues, applied/experiential</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

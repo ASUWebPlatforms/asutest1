@@ -1,0 +1,449 @@
+tb_gdmi.dashboard:
+  path: '/dashboard'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\DashboardController::dashboardPage'
+    _title: 'Welcome to your dashboard'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+tb_gdmi.dashboard_purchasing:
+  path: '/dashboard/purchasing'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\DashboardController::dashboardPurchasingPage'
+    _title: 'Purchasing'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+tb_gdmi.send_order_receipt:
+  path: '/dashboard/purchasing/resend-order-receipt/{commerce_order}'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\DashboardController::resendOrderReceipt'
+    methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+    parameters:
+      commerce_order:
+        type: 'entity:commerce_order'
+tb_gdmi.dashboard_groups:
+  path: '/dashboard/groups'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::manageGroupsPage'
+    _title: 'Manage Groups'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+tb_gdmi.dashboard_groups_schedule:
+  path: '/dashboard/groups/{group}/schedule'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::groupSchedulePage'
+    _title: 'Schedule Group'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.dashboard_groups_communications:
+  path: '/dashboard/groups/{group}/communications'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::groupCommunicationsPage'
+    _title: 'Group Communications'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.dashboard_groups_add_admins:
+  path: '/dashboard/groups/{group}/add-admins'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::groupAddAdmins'
+    methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.dashboard_groups_add_admin:
+  path: '/dashboard/groups/{group}/add-admin'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::groupAddAdmin'
+    methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.dashboard_groups_remove_admin:
+  path: '/dashboard/groups/{group}/remove-admin'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::groupRemoveAdmin'
+    methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.dashboard_groups_add_reminder:
+  path: '/dashboard/groups/{group}/add-reminder'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::addParticipantReminder'
+    methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.dashboard_groups_remove_reminder:
+  path: '/dashboard/groups/{group}/remove-reminder'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::removeParticipantReminder'
+    methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.dashboard_groups_summary:
+  path: '/dashboard/groups/{group}/summary'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::groupSummaryPage'
+    _title: 'Group Summary'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.launch_group:
+  path: '/dashboard/groups/launch/{group}'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::launchGroup'
+  methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.resend_invitation:
+  path: '/dashboard/groups/resend-invitation/{group}/{user}'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::resendInviteEmail'
+  methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+    user: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+      user:
+        type: 'entity:user'
+tb_gdmi.send_reset_password:
+  path: '/dashboard/groups/send-reset-password/{user}'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::sendResetPasswordEmail'
+  methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    user: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      user:
+        type: 'entity:user'
+tb_gdmi.dashboard_capital_results:
+  path: '/dashboard/results/{submission_id}/{capital_name}'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\DashboardController::dashboardCapitalResultsPage'
+    _title: 'Results'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+    submission_id: \d+
+    capital_name: 'psychological|intellectual|social|digital'
+  options:
+    no_cache: TRUE
+tb_gdmi.dashboard_results:
+  path: '/dashboard/results/{submission_id}'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\DashboardController::dashboardResultsPage'
+    _title: 'Results'
+    submission_id: NULL
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+    submission_id: \d+
+  options:
+    no_cache: TRUE
+tb_gdmi.assessment_confirmation:
+  path: '/assessment/confirmation'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\DashboardController::assessmentConfirmationPage'
+    _title: 'Assessment Confirmation'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+tb_gdmi.restart_webform_draft:
+  path: '/restart/assessment/{submission}'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\DashboardController::restartWebformDraft'
+    _title: 'Assessment Confirmation'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+    submission: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      submission:
+        type: 'entity:webform_submission'
+tb_gdmi.dashboard_add_pariticpants:
+  path: '/dashboard/groups/{group}/add-participants'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::addParticipants'
+  methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+tb_gdmi.create_group:
+  path: '/gdmi/create-group'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::createGroup'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+#--- Reports
+# tb_gdmi.reports:
+#   path: '/dashboard/reports'
+#   defaults:
+#     _controller: '\Drupal\tb_gdmi\Controller\ReportsController::index'
+#     _title: 'Reports'
+#   requirements:
+#     _user_is_logged_in: 'TRUE'
+#     _role: 'gdmi_purchaser+gdmi_participant+administrator'
+#     _domain: 'gdmi'
+#   options:
+#     no_cache: TRUE
+tb_gdmi.submission_admins:
+  path: '/dashboard/reports/submission/{submission}/admins'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ReportsController::submissionGroupAdmins'
+  methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+    parameters:
+      submission:
+        type: 'entity:webform_submission'
+tb_gdmi.submission_results:
+  path: '/dashboard/reports/submission/{submission}/results'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ReportsController::getSubmissionResults'
+  methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+    parameters:
+      submission:
+        type: 'entity:webform_submission'
+tb_gdmi.save_report:
+  path: '/dashboard/reports/save'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ReportsController::saveReport'
+  methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+#--- Config forms
+tb_gdmi.settings_form:
+  path: '/admin/config/system/gdmi'
+  defaults:
+    _title: 'GDMI settings'
+    _form: 'Drupal\tb_gdmi\Form\SettingsForm'
+  requirements:
+    _permission: 'administer tb_gdmi configuration'
+tb_gdmi.purchasing_page_settings:
+  path: '/admin/config/system/gdmi/purchasing-page-settings'
+  defaults:
+    _title: 'GDMI purchasing page settings'
+    _form: 'Drupal\tb_gdmi\Form\PurchasingPageSettingsForm'
+  requirements:
+    _permission: 'administer tb_gdmi configuration'
+tb_gdmi.submission_results_page_settings_form:
+  path: '/admin/config/system/gdmi/submission-results'
+  defaults:
+    _title: 'GDMI Submission results page settings'
+    _form: 'Drupal\tb_gdmi\Form\SubmissionResultsPageSettingsForm'
+  requirements:
+    _permission: 'administer tb_gdmi configuration'
+tb_gdmi.submission_results_subpages_settings_form:
+  path: '/admin/config/system/gdmi/submission-results/subpages'
+  defaults:
+    _title: 'GDMI Submission results subpages settings'
+    _form: 'Drupal\tb_gdmi\Form\SubmissionResultsSubpagesSettingsForm'
+  requirements:
+    _permission: 'administer tb_gdmi configuration'
+tb_gdmi.groups_communications:
+  path: '/admin/config/system/groups-communications'
+  defaults:
+    _title: 'GDMI groups communications'
+    _form: 'Drupal\tb_gdmi\Form\GroupsCommunicationsForm'
+  requirements:
+    _permission: 'administer tb_gdmi configuration'
+tb_gdmi.groups_participant_invitation_settings:
+  path: '/admin/config/system/groups-participant-invitation-settings'
+  defaults:
+    _title: 'GDMI groups participant invitation settings'
+    _form: 'Drupal\tb_gdmi\Form\GroupParticipantInvitationSettingsForm'
+  requirements:
+    _permission: 'administer tb_gdmi configuration'
+tb_gdmi.groups_participant_reminders_settings:
+  path: '/admin/config/system/groups-participant-reminders-settings'
+  defaults:
+    _title: 'GDMI groups participant reminders settings'
+    _form: 'Drupal\tb_gdmi\Form\GroupParticipantRemindersSettingsForm'
+  requirements:
+    _permission: 'administer tb_gdmi configuration'
+#--- Forms
+tb_gdmi.group_edit_participants_form:
+  path: '/dashboard/groups/{group}/edit-participants'
+  defaults:
+    _form: '\Drupal\tb_gdmi\Form\GroupEditParticipantsForm'
+    _title: 'Edit Participants Form'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+administrator'
+    _domain: 'gdmi'
+    group: \d+
+  options:
+    no_cache: TRUE
+    parameters:
+      group:
+        type: 'entity:group'
+#--- modals
+tb_gdmi.modal:
+  path: '/gdmi-modal'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ModalsController::modal'
+  methods:  [POST]
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+tb_gdmi.cancel_purchase:
+  path: '/gdmi/cancel-purchase'
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ModalsController::cancelPurchase'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _role: 'gdmi_purchaser+gdmi_participant+administrator'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+#--- templates
+tb_gdmi.participant_reminder_form_template:
+  path: '/gdmi/templates/participant-reminder-form-template'
+  methods:  [POST]
+  defaults:
+    _controller: '\Drupal\tb_gdmi\Controller\ManageGroupsController::participantReminderFormTemplate'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE
+tb_gdmi.account_confirmation_confirm:
+  path: '/account-confirmation/confirm/{uid}/{timestamp}/{token}'
+  defaults:
+    _form: '\Drupal\tb_gdmi\Form\SetPasswordForm'
+    _title: 'Set Your Password'
+  requirements:
+    _access: 'TRUE'
+    _domain: 'gdmi'
+  options:
+    no_cache: TRUE

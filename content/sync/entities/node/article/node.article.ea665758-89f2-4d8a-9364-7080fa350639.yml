@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: ea665758-89f2-4d8a-9364-7080fa350639
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-04-24T16:01:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Tales of Global Adventure: The World Is Our Playground '
+created:
+  -
+    value: '2017-02-13T23:40:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-04-24T16:01:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/world-is-our-playground
+body:
+  -
+    value: "<p><span><i>By Catalina Cisneros ’97 / El Salvador</i></span><span><i>&nbsp;</i></span></p>\r\n<p><span>Like most Thunderbirds, I have a story to share that involves seeing myself living, working, or traveling to a place outside my birthplace. When you come from a little country like El Salvador, the rest of the world becomes your playground.<br> </span></p>\r\n<p><span>It was 7:00 a.m., a mere 80 degrees Fahrenheit with close to 100 percent humidity—that’s what it felt like to me. As I ran down the beach at the <i>Costa del Sol </i>in my homeland, I started thinking about how many years had passed since I had felt the Salvadorian sand under my feet, the heat and humidity that only a steam room can reproduce, and the warmest water I have ever dipped my toes in. The same beach had been out of reach for many years. A civil war that lasted more than 10 years had kept many of us from enjoying the simple privilege of safely taking a morning run. The sensations of the beach on this morning carried me back to my childhood, when my playful- ness ran wild and the farthest place I had traveled was still in my imagination.&nbsp;</span></p>\r\n<p><span>One of my favorite things to do as a child was to go to the beach, spending the whole day wearing my swimsuit, and playing with sand and water. I would spend entire days digging little pools on the beach and carrying water to my basins. My brothers would say, “If you keep digging that hole, you might end up in China.” After many hours in the sun, I would notice the heat. What thirst and hunger! I often resolved to have fresh oysters and <i>conchas </i>for lunch and dinner—if only my parents would allow it.&nbsp;</span></p>\r\n<p><span>My second favorite thing to do was to walk around talking to myself, pretending I spoke English fluently. I am not sure how many people in my family actually noticed me doing this. I am the youngest of six children, so my mother was content so long as I was happy, not bleeding, and entertaining myself! I always dreamed of going to New York and walking around looking and feeling like I belonged. To me that meant I had to speak English fluently, have a degree in international <i>something, </i>and actually live in a big city. Years later my childhood habit of pretending to speak English led me to finish an undergraduate degree in international finance. I found a job with Bank of America and continued planning what I believed was only the beginning of my banking career. Although I was happily married, owned a house, had a college degree and worked at a decent paying job, I felt it wasn’t enough. I wasn’t seeing enough places, speaking enough languages or hanging out with enough internationally minded people. My life was great but I needed more ... so I found Thunderbird.&nbsp;</span></p>\r\n<p><span>I always wanted a graduate degree that would define my professional persona as an international business professional. My ideal graduate school would include students with work experience who came from many places, spoke various languages and worked for different companies. I wanted to surround myself with classmates who had great stories to share. I got that and more when I applied for the Executive MBA program at Thunderbird (now called the <a href=\"https://thunderbird.asu.edu/degrees/graduate/executive-programs-arizona-cohort\" target=\"_blank\">Executive Master of Global Management</a>).&nbsp;</span></p>\r\n<p><span>My childhood desire to speak other languages and see every corner of the world before I died became more real when I joined Thunderbird. One of my favorite experiences in graduate school was traveling with my classmates to Asia. It was definitely another world. I remember telling one of my best friends in the class how strange it was that for the first time in my life—in as many places as I already had traveled around the world—this was the first time I could not read, write or pretend to say anything. I couldn’t even say, <i>“Gracias.”&nbsp;</i></span></p>\r\n<p><span>China was incredible. The Great Wall brought me to tears. The number of people overwhelmed me. I wanted to absorb everything and bring the memories back to share with family and friends. I wanted to tell my brothers that I finally understood what they meant by digging my hole in the sand and ending up in China. “I am here now in China!” I wanted to say. “Not because I kept digging, but because I kept chasing my dreams.” China is different and beautiful—like so many other beautiful places I have seen. It inspired me to continue my quest.&nbsp;</span></p>\r\n<p><span>I now work for Wells Fargo International Division and manage the Americas region for a new global payment initiative. The job allows me to draw on all my experiences—my education, my heritage, my business back- ground and my desire to continue pretending I speak other languages.&nbsp;</span></p>\r\n<p><span>Thunderbird naturally attracts visionaries who see themselves beyond their own borders. They share the international bug with everyone around them. Saying I am a T-bird is an honor. <i>Gracias, obrigada, merci, grazie </i>and thank you to Thunderbird.&nbsp;</span></p>\r\n<p><span><i>Catalina Cisneros </i><i>is a 1997 graduate of the Executive MBA program at Thunderbird School of Global Management. She stays connected to the school as a member of the Thunderbird Global Council. She is Vice President and Regional Sales Manager for Wells Fargo in San Francisco. She wrote this story on a plane to Istanbul, Turkey.&nbsp;</i></span></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1280
+    height: 720
+    target_type: file
+    target_uuid: 5c62261c-fe46-4c30-91a6-5cca4f8592d4
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.5c62261c-fe46-4c30-91a6-5cca4f8592d4
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

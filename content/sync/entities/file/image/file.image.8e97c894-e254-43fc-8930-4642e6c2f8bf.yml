@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 8e97c894-e254-43fc-8930-4642e6c2f8bf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+filename:
+  -
+    value: koppl-obit.jpg
+uri:
+  -
+    value: 'public://koppl-obit_0.jpg'
+    url: /sites/default/files/koppl-obit_0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 23212
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-30T23:02:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-30T23:02:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670

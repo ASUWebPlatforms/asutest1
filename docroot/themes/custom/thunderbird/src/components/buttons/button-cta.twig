@@ -1,0 +1,7 @@
+{% if url is not empty %}
+  {% set aria_label %}{% include 'themes/custom/thunderbird/src/components/buttons/button-label.twig' with { url: url, title: title } %}{% endset %}
+  <a href="{{ url }}" {{ aria_label }} role="button" target="{{ target }}" class="btn btn-sm cta {{ button_color }}" >
+    {{ title }}
+    {% if use_arrow %} <i class="fas fa-arrow-right text-white ml-2 p-0" aria-hidden="true"></i> {% endif %}
+   </a>
+{% endif %}

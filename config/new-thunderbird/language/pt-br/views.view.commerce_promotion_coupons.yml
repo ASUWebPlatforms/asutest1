@@ -1,0 +1,46 @@
+label: Cupons
+display:
+  default:
+    display_title: Principal
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Filtrar
+          reset_button_label: Redefinir
+          exposed_sorts_label: 'Ordenar por'
+          sort_asc_label: Ascendente
+          sort_desc_label: Decrescente
+      pager:
+        options:
+          tags:
+            previous: ‹‹
+            next: ››
+            first: '« Primeiro'
+            last: 'Último »'
+          expose:
+            items_per_page_label: 'Itens por página'
+            items_per_page_options_all_label: '- Todos -'
+            offset_label: Deslocamento
+      fields:
+        code:
+          label: Código
+          separator: ', '
+        usage_limit:
+          label: Uso
+          separator: ', '
+        usage_limit_customer:
+          label: 'Limite por cliente'
+          separator: ', '
+        operations:
+          label: Operações
+      filters:
+        code:
+          expose:
+            label: Código
+      title: Cupons
+      arguments:
+        promotion_id:
+          exception:
+            title: Tudo
+  page_1:
+    display_title: Página

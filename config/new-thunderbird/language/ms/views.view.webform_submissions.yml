@@ -1,0 +1,77 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Pohon
+          reset_button_label: 'Set semula'
+          exposed_sorts_label: 'Susun mengikuti'
+          sort_asc_label: Menaik
+          sort_desc_label: Menurun
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+      fields:
+        created:
+          label: Diciptakan
+        remote_addr:
+          label: 'Alamat IP'
+        view_webform_submission:
+          label: Operasi-operasi
+      arguments:
+        in_draft:
+          exception:
+            title: Semua
+  embed_administer:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: Tindakan
+        locked:
+          label: Terkunci
+        created:
+          label: Diciptakan
+        remote_addr:
+          label: 'Alamat IP'
+        operations:
+          label: Operasi-operasi
+      filters:
+        locked:
+          expose:
+            label: Terkunci
+  embed_manage:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: Tindakan
+        locked:
+          label: Terkunci
+        created:
+          label: Diciptakan
+        remote_addr:
+          label: 'Alamat IP'
+        view_webform_submission:
+          label: Operasi-operasi
+        edit_webform_submission:
+          label: Operasi-operasi
+      filters:
+        locked:
+          expose:
+            label: Terkunci
+  embed_review:
+    display_options:
+      fields:
+        locked:
+          label: Terkunci
+        created:
+          label: Diciptakan
+        remote_addr:
+          label: 'Alamat IP'
+        view_webform_submission:
+          label: Operasi-operasi
+      filters:
+        locked:
+          expose:
+            label: Terkunci

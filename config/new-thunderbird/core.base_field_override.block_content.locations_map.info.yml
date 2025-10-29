@@ -1,0 +1,18 @@
+uuid: 3390f02b-a0ef-44f2-b882-e334e1a1a714
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.locations_map
+id: block_content.locations_map.info
+field_name: info
+entity_type: block_content
+bundle: locations_map
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: 7ca9eef4-68e7-4d30-9a5f-2a0929cd10ff
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:31:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'TNK Russia'
+created:
+  -
+    value: '2016-07-16T01:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:31:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-09-0006
+body:
+  -
+    value: '<p><span>In July 2008, BP was embroiled in a dispute with the Russian partner of its TNK-BP joint venture. The partners had many areas of disagreement, including the level of capital investment, dividend payouts, international expansion, the number of expatriates, and selection of the CEO. The joint venture also had problems with the Russian government over employee visas and exploration licenses. From BP’s perspective, the joint venture was an important part of its global oil and gas business. TNK-BP accounted for nearly one-quarter of BP’s oil production, and close to one-fifth of its reserves. How the issues between the partners and with the government were resolved would have a lasting impact on BP and its presence in Russia. The resolution would also impact Russia’s overall reputation for attracting and supporting foreign investment</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-09-0006
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: 'Setting: Russia'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 71ae49d3-767b-4ef8-91e3-80442b78990e
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: 'This case provides insights into the complexities and realities of large-scale cross-border alliances. The case has various teaching themes: joint venture and alliance management, doing business in Russia, political risk management, and oil and gas investment. The case is suitable for several different audiences. In an MBA program, it illustrates the challenges of large cross-border joint ventures. It can be used in a course on the energy industry, or with executives from the oil and gas sector.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.71ae49d3-767b-4ef8-91e3-80442b78990e
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: f5623291-7834-4a5d-a03c-5bfac40cf902
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-11-05T19:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Customer Acquisition at Castlight Health'
+created:
+  -
+    value: '2018-11-05T19:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-11-05T19:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-18-0006-0
+body:
+  -
+    value: '<p>Anna Amphlett, a financial analyst with Tasmanian LLC, gathered information about Castlight Health, Inc., a company whose shares Tasmanian was considering acquiring for its cloud infrastructure portfolio. Castlight provided a cloud-based health solutions platform to its customers for an upfront subscription fee. Castlight experienced substantial growth in revenues over the last five years, but the company had not yet reported a bottom-line profit since its initial public offering (IPO) in 2014. Castlight Health was one of many companies that provided cloud-based computing services and were often referred to as software-as-a-service (SaaS) companies. Castlight Health sold substantially all of its services through its direct sales organization which paid its sales force commissions for acquiring customer contracts. Tasmanian’s portfolio manager had asked Amphlett to scrutinize the company’s accounting methods, particularly its revenue and expense recognition methods. Upfront revenue recognition and capitalizing and amortizing some indirect outlays were well-known methods for enhancing a company’s bottom line. Castlight Health had become quite wary of companies such as salesforce.com, ADT, and Pre-Paid Legal Services, which experienced significant stock price declines after popular press articles criticized their accounting policies. In some cases, the U.S. Securities &amp; Exchange Commission (SEC) had launched an investigation into a company’s accounting practices following the critiques. These critiques invariably questioned management’s integrity while an SEC investigation distracted management’s time and energy from the running the business.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-18-0006
+field_case_page_length:
+  -
+    value: '14 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95064f8d-cce8-4056-b928-09051b10ce49
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a6684deb-541e-4d46-9983-01e213d10328
+field_teaching:
+  -
+    value: "1.\tTo understand how a company generates revenue, and the linkage between its business strategy and its future financial performance,\r\n2.\tTo analyze a company’s growth, its ability to generate cash flows, and its recent financial performance,\r\n3.\tTo ensure that a company’s accounting methods are consistent with generally accepted accounting principles (GAAP) and evaluate their impact on a company’s reported financial statements,\r\n4.\tTo develop a communication and disclosure strategy for dealing with critics of the company’s accounting policies,\r\n5.\tTo evaluate the intrinsic value of a company’s equity security relative to its current stock price or target stock price.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.95064f8d-cce8-4056-b928-09051b10ce49
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.a6684deb-541e-4d46-9983-01e213d10328

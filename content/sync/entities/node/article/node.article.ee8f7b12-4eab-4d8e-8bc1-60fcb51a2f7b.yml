@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: ee8f7b12-4eab-4d8e-8bc1-60fcb51a2f7b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Thunderbird Alumni Network'
+created:
+  -
+    value: '2014-11-24T16:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/alumni-network-peru
+body:
+  -
+    value: "<p>As students, we are always told of the vast Thunderbird alumni network that exists across the globe. Many of these alumni return to campus to speak with current students and share their inspiring stories of professional success, and their personal missions to create sustainable prosperity around the world. However, our TEM Lab team has been lucky to meet some of these alumni on their own turf, and see this network materialize firsthand.</p>\r\n<p>[[{\"fid\":\"2895\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Network\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Network\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Alumni Network\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><span>Our first encounter with a Thunderbird alumnus was on Day 1 in Peru. As mentioned in a previous blog, only a few hours after landing in Piura,&nbsp;</span><span>Migu</span><span>el C</span><span>havarry, class of 2014, picked us up from our hotel. He treated us to a three-hour lunch of ceviche while regaling us with the history, politics and social&nbsp;</span><span>environment of the city. He was very interested in our objectives for the region, and put us in contact with key government officials to facilitate our project.</span></p>\r\n<p>The next encounter came in Lima. Casey took a weekend trip to the capital city and met with Carlos Neuhaus, class of 1974, and Willy Sono, class of 1981. Both alumni, who are now successful businessmen in Lima, made time in their busy schedules to meet Casey for lunch.&nbsp; They recalled their time at Thunderbird, spoke about their passions (which ranged from bullfighting to surfing) and even offered to make introductions for future opportunities in the city. Casey was absolutely blown away by their compassion for current students.</p>\r\n<p>[[{\"fid\":\"2896\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Network\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Network\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Alumni Network\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><span>Overall, the TEM Lab in Peru has provided a unique experience for our team to see the Thunderbird alumni network in action, and it has truly exceed our expectations. As current students nearing graduation, it is extremely heartening to know that we have the support of thousands of fellow Thunderbirds around the world, and we look forward to maintaining this proud tradition as we build our careers. &nbsp;</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

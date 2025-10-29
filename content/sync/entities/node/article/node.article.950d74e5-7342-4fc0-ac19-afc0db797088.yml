@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 950d74e5-7342-4fc0-ac19-afc0db797088
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Psychology of Pricing: What Businesses Need to Know About How Consumers’ Feelings Affect Their Behavior'
+created:
+  -
+    value: '2017-03-01T15:47:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/psychology-of-pricing-recap
+body:
+  -
+    value: "<p>Thunderbird School of Global Management Professor of Global Marketing <a href=\"https://thunderbird.asu.edu/node/161\">Richard H. Baer</a> knows that prices are on the mind of every business. But the key to effective pricing decisions, Baer explains, lies in getting into the <i>buyer’s mind</i>.</p>\r\n<p>Baer’s 35-year career in marketing and brand management with consumer products giants such as Colgate Palmolive International taught him that consumers generally see prices on a sliding scale: Too low, and buyers sense something is wrong with your product. Too high, there is something wrong with you, for being outrageous.</p>\r\n<p>As Baer discussed in a recent Global Speaker Series, understanding the emotions that drive consumers’ reactions to pricing is critical to determining the sweet spot where prices seem reasonable to consumers – and the business still makes money.&nbsp;</p>\r\n<p>“[As consumers] we have this <i>feeling</i> when we look at pricing,” says Baer. “[As businesses] we have to understand those emotions and the psychological effects of our pricing decisions.” In his lecture, Baer lays out 10 of the psychological principles that should guide businesses’ pricing decisions.</p>\r\n<p>One of those principles is the Shared Cost Effect. That is the feeling that lets people justify flying business class on the company dime versus coach when paying their own way.</p>\r\n<p>The Reference Price Effect gives buyers a more expensive starting point for calculations of what is reasonable. It’s why restaurants list their most expensive item in the upper right of the menu – where the eye naturally looks first – and why realtors often start by showing would-be homebuyers the pricier homes before the more modest ones.</p>\r\n<p>Similarly, there are implications for shelving placement, such as placing store brands next to premium brands to show the price comparisons. “The psychology is to set a higher benchmark price and then offer some scale or discount,” Baer says.</p>\r\n<p>Some emotions can be so overriding that it doesn’t matter if they fit with reality. For example, the perception that a higher price signals higher quality (Price Quality Effect).</p>\r\n<p>That emotional drive is strong enough to make buyers less sensitive to actual price, which in turn can prompt different behavior. For example, Baer explains, some consumers refuse to shop at Walmart for fear lower prices mean inferior goods. Others feel validated spending more for a luxury-brand version of an everyday item on the belief that it is better made.</p>\r\n<p>Businesses can find success by appealing to emotion over price. Tuesday Morning, for instance, offers high-quality goods at list price for a week, then gradually discounts the items up to 90 percent over time. “The quality is the same,” Baer says. “The worry is scarcity, so the decision is a gamble – if you wait a week the item might not be there. It’s Russian roulette, with a sweater.”</p>\r\n<p>The most complex principle, the Fairness Effect, goes to the heart of what buyers consider fair or not. Unsurprisingly, buyers are more sensitive to price when it falls outside the range of what they determine to be fair. Often, buyers determine what is fair based on Reference Price Effect or Price Quality Effect.</p>\r\n<p>That’s why consumers object when gas prices soar, feeling oil companies are “gouging” them for a needed commodity, yet are less likely to criticize Disney World for expensive ticket prices for what’s seen as a good entertainment deal.</p>\r\n<p>Fundamentally, consumers’ experience with prices is emotional. That’s why premium pricing works for weddings and why most consumers don’t consider hiring the cut-rate surgeon, Baer says.</p>\r\n<p>It’s also why sticker shock, which Baer calls Price Resistance, can be countered by clearly explaining the benefits of buying. And it’s why buyer’s remorse, which Baer calls Price Anxiety, can be overcome with strong communication between the business and the buyer.</p>\r\n<p>“Very key to pricing is how the buyer feels,” Baer says.</p>\r\n<p><i>These pricing principles, and many others, &nbsp;are covered in depth in the </i><!--<a href=\"https://thunderbird.asu.edu/executive-education/programs/global-marketing-growth-strategy-journey\">--><i>Global Marketing &amp; Growth Strategy Journey</i><!--</a><i>, an in-person program that starts April 19th--><i>, as well as the </i><a href=\"https://thunderbird.asu.edu/executive-education/programs/executive-certificate-global-marketing\"><i>Executive Certificate in Global Marketing online</i></a><i> (start dates vary).</i></p>\r\n<p><strong>Join the discussion!</strong></p>\r\n<p>Have you had a particularly emotional price experience as a consumer? Have you worked on the other side – in pricing for a business? Share your thoughts on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n<p>Learn more -&nbsp;<a href=\"https://thunderbird.asu.edu/knowledge-network/psychology-of-pricing-video\">Watch Professor Baer’s full lecture on demand (video)</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1946
+    height: 580
+    target_type: file
+    target_uuid: a6011435-4813-4c84-8243-af56388b896b
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.a6011435-4813-4c84-8243-af56388b896b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

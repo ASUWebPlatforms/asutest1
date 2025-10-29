@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: fd672e24-c719-4c88-851a-350b4e63b287
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: aacsb-logo-accredited-color-rgb.jpg
+uri:
+  -
+    value: 'public://article/aacsb-logo-accredited-color-rgb.jpg'
+    url: /sites/default/files/article/aacsb-logo-accredited-color-rgb.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 142311
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-06-26T19:15:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-06-26T19:15:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

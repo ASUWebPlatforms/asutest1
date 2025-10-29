@@ -1,0 +1,15 @@
+uuid: 09d9f79f-488e-428f-b731-2d349a88c9f6
+langcode: en
+status: false
+dependencies: {  }
+id: test
+label: Test
+description: ''
+weight: 0
+folder: ''
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true

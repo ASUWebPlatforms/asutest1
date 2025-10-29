@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 4159ed60-4653-41e5-a701-63de3532ebe8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T20:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Catastrophe Insurance Exposure & Hedging: Structure and Issues'
+created:
+  -
+    value: '2016-07-27T20:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T20:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/b06-00-0023
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Catastrophe insurance, like most types of insurance, is essentially a protective but option purchased by someone to ensure or "locking" the value of some underlying asset, be it a house, car, or their health. The buyer pays the insurance company a premium to purchase the policy. If some predetermined event occurs, reducing the value of the protected asset, the insurance company effectively buys or replaces the asset for the policyholder according to the details of the policy. A catastrophe, by legal standards, must be an event causing a least $25 million in damage and affecting multiple parties.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: B06-00-0023
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1e903cc9-c652-448d-9231-a2e0272a26a7
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: 'North America'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 55fc31ee-7023-4e9d-af1c-c1db22153837
+field_teaching:
+  -
+    value: N/A
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.1e903cc9-c652-448d-9231-a2e0272a26a7
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.55fc31ee-7023-4e9d-af1c-c1db22153837

@@ -1,0 +1,31 @@
+{%
+  set classes = [
+    'paragraph',
+    'paragraph--type--' ~ paragraph.bundle|clean_class,
+    view_mode ? 'paragraph--view-mode--' ~ view_mode|clean_class,
+    not paragraph.isPublished() ? 'paragraph--unpublished'
+  ]
+%}
+{% block paragraph %}
+<li class="glide__slide">
+  <div{{ attributes.addClass(classes) }}>
+    <div class="image">
+      {{ content.field_media }}
+    </div>
+    {% if content.field_image_link|render|striptags|trim is not empty %}
+      <a class="text" href="{{ content.field_image_link|render|striptags|trim }}">
+    {% else %}
+      <div class="text">
+    {% endif %}  
+      <div>
+        {{ content.field_title }}
+        {{ content.field_formatted_text }}
+      </div>
+    {% if content.field_image_link|render|striptags|trim is not empty %}
+      </a>
+    {% else %}
+      </div>
+    {% endif %} 
+  </div>
+</li>
+{% endblock paragraph %}

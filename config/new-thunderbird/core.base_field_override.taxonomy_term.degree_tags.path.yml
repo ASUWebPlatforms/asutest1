@@ -1,0 +1,20 @@
+uuid: 2bce5413-cbc1-4790-a217-ada404f91f84
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.degree_tags
+  module:
+    - path
+id: taxonomy_term.degree_tags.path
+field_name: path
+entity_type: taxonomy_term
+bundle: degree_tags
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

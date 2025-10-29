@@ -1,0 +1,10 @@
+uuid: cd31d31e-be2a-45e6-b7e5-511165ebb374
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: n4OeWnQ31KRBNlNFohpqc1LwhOxzqnNzHmOMKl5YdJg
+id: video_hero
+label: 'x Video hero'
+revision: 0
+description: ''

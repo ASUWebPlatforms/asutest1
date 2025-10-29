@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: a8c5a9f9-3934-4b38-9bef-c8d70f75f777
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2020-08-17T21:01:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Eskom of South Africa''s Death Spiral'
+created:
+  -
+    value: '2020-08-17T21:01:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-08-17T21:01:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-20-0017
+body:
+  -
+    value: '<p><strong>&nbsp; </strong>In January 2020 South Africa was once again suffering an electrical power crisis as a series of rolling blackouts, load-shedding, crippled the people and the economy. This was the latest in a series of power crises dating back to 2007. These chronic shortages were the result of failures on the part of the national electrical power producer, Eskom, and its owner, the South African government. The costs to the people of South Africa and the South African economy were enormous. Eskom was now suffering what many termed a death spiral. Its failure to produce sufficient and reliable electricity was causing its financial performance to deteriorate, calling for higher and higher electrical power rates, leading to more and more customers reducing demand and even leaving the grid. Now in the throes of leadership change, corruption investigations, and potential insolvency, it and the country was in trouble. The people of South Africa wondered when their never-ending power crisis – now in its thirteenth year – would end.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-20-0017
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9313f4c5-a9c9-434c-b170-f45fec9b8d04
+field_case_series_year:
+  -
+    value: '2020-01-01'
+field_case_setting:
+  -
+    value: 'South Africa'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4f47494d-2fbd-4183-89c1-85908f84981d
+field_teaching:
+  -
+    value: "We use the case in our Global Energy course. First, as an example of a state-owned utility – structure, performance, challenges. Secondly, as the basis for discussing how entrenched a state-owned enterprise and its key stakeholders can become. That entrenchment then poses a multitude of barriers to change, even when change is in principle desired by many of those same stakeholders. This leads to a discussion of state capture.\r\n\r\n1.The challenges faced by a state-owned enterprise under conflicting stakeholder interests \r\n2. The complexity of transitioning from fossil fuels to renewables on a national level\r\n3. The impact of corruption and conflicts of interest have in the conduct of state-owned enterprises\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_industry.9313f4c5-a9c9-434c-b170-f45fec9b8d04
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.4f47494d-2fbd-4183-89c1-85908f84981d

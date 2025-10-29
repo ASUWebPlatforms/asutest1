@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: e6e538df-abd6-46cd-8b9e-91d72afae4db
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+filename:
+  -
+    value: artemis-thunderbird-for-good.png
+uri:
+  -
+    value: 'public://article/artemis-thunderbird-for-good.png'
+    url: /sites/default/files/article/artemis-thunderbird-for-good.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 413944
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-02-28T16:57:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-28T16:57:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff

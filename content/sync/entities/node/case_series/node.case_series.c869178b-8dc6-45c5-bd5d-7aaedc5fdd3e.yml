@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: c869178b-8dc6-45c5-bd5d-7aaedc5fdd3e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:11:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'A Patent from Dr. Pallin'
+created:
+  -
+    value: '2016-07-27T23:11:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:11:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-98-0001
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case is based on an actual patent infringement lawsuit brought by Dr. Sam Pallin against Dr. Jack L. Singer for unauthorized use by the latter of the frown incision in performing cataract surgery. Dr. Pallin holds a patent on the medical procedure used in the surgery. Dr. Pallin lost the lawsuit against Dr. Singer on the ground that his patent was not on a novel procedure. In addition to the issue of patentability, the case raises an ethical question since medical process patents are viewed as unethical by the American Medical Association (AMA) and in many other countries in the world. Finally, the case raises the international issue of harmonization. Should the United States amend its patent law and disallow medical process patents so as to conform to overwhelming international practice?&nbsp;</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-98-0001
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9036b87f-0f16-45f6-9f74-942361e96a4b
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: 'United States'
+field_case_source:
+  -
+    value: 'Field case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: bb8ee5c2-1a8b-42d0-90bc-fc900cd07988
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b300eda-ef58-4923-8faf-9cf0f10c0045
+  -
+    target_type: taxonomy_term
+    target_uuid: eda8a20f-5160-47c4-a6b6-acff1ba443ff
+field_teaching:
+  -
+    value: "Even though an invention may be patentable in the sense of meeting the legal requirements that any person who meets the legal criteria, there may be societal reasons strong enough to justify not issuing the patent. This case is useful in classes with linkages to business law, ethics, or any course with business-patent issues.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.9036b87f-0f16-45f6-9f74-942361e96a4b
+      - taxonomy_term.case_series_categories.2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+      - taxonomy_term.case_series_fields.bb8ee5c2-1a8b-42d0-90bc-fc900cd07988
+      - taxonomy_term.case_series_fields.9b300eda-ef58-4923-8faf-9cf0f10c0045
+      - taxonomy_term.case_series_fields.eda8a20f-5160-47c4-a6b6-acff1ba443ff

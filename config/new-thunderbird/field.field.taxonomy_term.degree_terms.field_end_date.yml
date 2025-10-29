@@ -1,0 +1,21 @@
+uuid: 7b215352-934d-4153-894e-8d7b7e601e1d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_end_date
+    - taxonomy.vocabulary.degree_terms
+  module:
+    - datetime
+id: taxonomy_term.degree_terms.field_end_date
+field_name: field_end_date
+entity_type: taxonomy_term
+bundle: degree_terms
+label: 'End date'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: datetime

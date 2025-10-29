@@ -1,0 +1,60 @@
+uuid: 604877c2-16d1-42bd-8f02-58c3742a1534
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.taxonomy_term.concentrations.field_plan_code
+    - taxonomy.vocabulary.concentrations
+  module:
+    - path
+    - text
+id: taxonomy_term.concentrations.default
+targetEntityType: taxonomy_term
+bundle: concentrations
+mode: default
+content:
+  description:
+    type: text_textarea
+    weight: 1
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  field_plan_code:
+    type: string_textfield
+    weight: 2
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+  name:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  path:
+    type: path
+    weight: 3
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  status:
+    type: boolean_checkbox
+    weight: 4
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+hidden: {  }

@@ -1,0 +1,382 @@
+.manage-groups-communications {
+  background-color: $gray-1;
+  padding: 3rem;
+  margin-bottom: 72px;
+
+  &__note {
+    max-width: 765px;
+    padding: 8px 12px;
+    font-weight: 900;
+    color: $blue-dark;
+    font-size: 24px;
+    line-height: 1;
+    margin-bottom: 24px;
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding: 5.313rem 6.25rem;
+  }
+
+  .communications-container {
+    .subsection-title {
+      color: $blue-dark;
+      font-size: 1.125rem;
+      font-weight: 900;
+      margin-top: 0.75rem;
+
+      &__column {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .required {
+        &::before {
+          content: '*';
+          color: red;
+          margin-right: 4px;
+        }
+      }
+
+      .thin-text {
+        font-weight: 700;
+        font-style: italic;
+      }
+    }
+
+    .participant-invitation-schedule,
+    .participant-reminder-schedule {
+      display: flex;
+      flex-wrap: wrap;
+
+      .subsection-title {
+        width: fit-content;
+        margin-top: 0;
+        margin-right: 10px;
+      }
+
+      .schedule-options {
+        flex-grow: 1;
+
+        .datelist-single-time {
+          max-width: 560px;
+          margin-left: 40px;
+  
+          .form-item {
+            display: flex;
+            align-items: center;
+            
+            label {
+              margin-right: 10px;
+            }
+          }
+        }
+      }
+    }
+
+    .message-container {
+      max-width: 80%;
+
+      .message-heading {
+        color: $blue-dark;
+        font-size: 18px;
+        font-weight: 700;
+
+        & > span {
+          font-weight: 900;
+          margin-right: 10px;
+        }
+
+        .message-title {
+          font-size: 14px;
+          color: $gray-darkest;
+          font-weight: 700;
+        }
+      }
+
+      .message-body p {
+        font-size: 14px;
+      }
+
+      .message-container__content {
+        margin-bottom: 50px;
+      }
+    }
+
+    .admin-invite-action,
+    .participant-reminder-action {
+      &,
+      span {
+        display: flex;
+        align-items: center;
+      }
+
+      color: #808080;
+      font-size: 0.875rem;
+      font-weight: 900;
+      text-transform: uppercase;
+    }
+    
+    .admin-invite-action {
+      position: relative;
+      justify-content: flex-end;
+      padding: 0 20px;
+      width: 220px;
+
+      &::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        width: 1px;
+        height: 39px;
+        background-color: #CCC;
+      }
+    }
+    
+    .participant-reminder-action.action-remove {
+      position: relative;
+      padding-left: 40px;
+
+      &::before {
+        content: '';
+        position: absolute;
+        left: 20px;
+        width: 1px;
+        height: 39px;
+        background-color: #CCC;
+      }
+    }
+
+    .action-remove {
+      justify-content: flex-start;
+
+      .fa-times {
+        width: 14px;
+        border: 2px solid;
+        padding: 0.1rem;
+        border-radius: 50%;
+        top: 18px;
+      }
+    }
+    
+    .action-edit {
+      svg {
+        font-size: 24px;
+
+        &.fa-sort-down {
+          margin-top: -14px;
+        }
+        
+        &.fa-sort-up {
+          margin-top: 9px;
+        }
+      }
+    }
+
+    .action-edit,
+    .action-remove {
+      &.enabled {
+        cursor: pointer;
+        color: $blue-mid;
+      }
+    }
+
+    .participant-invitation-message,
+    .participant-reminder-message {
+      .subsection-title {
+        margin-bottom: 15px;
+      }
+
+      .message-options {
+        display: flex;
+        flex-wrap: wrap;
+
+        @include media-breakpoint-up(lg) {
+          .message-default,
+          .message-custom {
+            width: 50%;
+
+            .gdmi-check-form-group {
+              margin-bottom: 15px;
+            }
+          }
+        }
+
+        .message-custom {
+          .form-label {
+            color: $blue-dark;
+            font-size: 18px;
+            font-weight: 700;
+          }
+        }
+      }
+    }
+  }
+
+  // Admin Invitation Settings.
+  .communications-container__admin-invitation {
+    padding-top: 70px;
+    display: flex;
+
+    .subsection-title {
+      width: 88px;
+    }
+
+    .admin-items-container {
+
+      .admin-item {
+        display: flex;
+        margin-bottom: 0.5rem;
+
+        .admin-primary,
+        .admin-email {
+          label {
+            color: $blue-dark;
+            font-size: 1.125rem;
+            font-weight: 900;
+          }
+
+          input:focus { 
+            box-shadow: unset !important;
+          }
+        }
+
+        .admin-email {
+          padding: 0 1rem;
+
+          label {
+            width: 35px;
+            margin: 0;
+          }
+
+          input {
+            min-width: 250px;
+            background-color: white;
+          }
+
+          .error {
+            margin-left: 40px;
+          }
+          
+          &.disabled {
+            input {
+              background-color: $gray-1;
+              border: none;
+              min-width: 250px;
+              color: #808080;
+              font-weight: 900;
+              border-bottom: 1px solid #CCCCCC;
+              font-size: 1.125rem;
+              line-height: 3;
+            }
+          }
+        }
+
+        .admin-primary {
+          width: 100px;
+          position: relative;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+
+          label {
+            position: absolute;
+            bottom: 50px;
+            width: 80px;
+            text-align: center;
+            line-height: 1.5;
+          }
+
+          input {
+            width: 30px;
+          }
+        }
+
+        .message-container {
+          padding-left: 32px;
+          max-width: 380px;
+          padding-top: 24px;
+        }
+        
+        &:not(.edit) .message-container {
+          display: none;
+        }
+
+      }
+    }
+
+    .admins-actions {
+      margin-top: 25px;
+      padding-left: 27%;
+    }
+  }
+
+  // Participants Reminders Settings.
+  .communications-container__participant-reminders {
+    margin-top: 50px;
+
+    .reminders-container {
+      width: 80%;
+
+      .reminder {
+
+        margin-bottom: 50px;
+
+        .reminder-header {
+          display: flex;
+          justify-content: space-between;
+          margin-bottom: 26px;
+
+          .reminder-title {
+            font-weight: 700;
+            font-size: 18px;
+            font-style: italic;
+            color: $blue-dark;
+
+            &::before {
+              content: attr(index) '.';
+              display: inline-block;
+              margin-right: 21px;
+              font-style: normal;
+            }
+          }
+        }
+
+        .reminder-actions {
+          display: flex;
+        }
+
+        .participant-reminder-schedule,
+        .participant-reminder-message {
+          padding-left: 21px;
+        }
+
+        .save-reminder-btn {
+          margin-left: 40%;
+        }
+
+        &.collapsed {
+          .reminder-body {
+            display: none;
+          }
+
+          .reminder-header {
+            .reminder-title {
+              font-style: normal;
+              position: relative;
+
+              &::after {
+                content: '';
+                background-color: #CCCCCC;
+                height: 1px;
+                width: 100%;
+                position: absolute;
+                bottom: -12px;
+                left: 21px;
+              } 
+            }
+          }
+        }
+      }
+    }
+  }
+}

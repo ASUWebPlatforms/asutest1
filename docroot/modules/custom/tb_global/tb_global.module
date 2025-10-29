@@ -1,0 +1,156 @@
+<?php
+/**
+ * @file
+ * Primary module hooks for Thunderbird Global module.
+ *
+ * @DCG
+ * This file is no longer required in Drupal 8.
+ * @see https://www.drupal.org/node/2217931
+ */
+
+use Drupal\Core\Entity\Entity\EntityViewDisplay;
+use Drupal\Core\Template\Attribute;
+use Drupal\tb_global\ComponentFactory;
+
+/**
+ * Implements hook_page_attachments().
+ */
+function tb_global_page_attachments(array &$attachments) {
+  $theme = \Drupal::theme()->getActiveTheme()->getName();
+  if ($theme == 'seven') {
+    $attachments['#attached']['library'][] = 'tb_global/entity-browser-overrides';
+  }
+}
+
+/**
+ * Implements hook_preprocess_field().
+ */
+function tb_global_preprocess_field(&$variables) {
+  $element = $variables['element'];
+
+  // Field formatter configuration.
+  $entity_display = EntityViewDisplay::collectRenderDisplay($element['#object'], $element['#view_mode']);
+  $field_display = $entity_display->getComponent($element['#field_name']);
+
+  // Check if the field being rendered is enabled with load_more config.
+  if (!empty($field_display['third_party_settings']['field_load_more']) && ($field_display['third_party_settings']['field_load_more']['field_load_more_enabled'])) {
+    $variables['attributes']['class'] = 'field-load-more';
+    $variables['#attached']['library'][] = 'field_load_more/loader';
+    $items_show_limit = $field_display['third_party_settings']['field_load_more']['items_show'];
+    $link_text = $field_display['third_party_settings']['field_load_more']['link_text'];
+    $field_wrapper_class = 'field--name-' . str_replace('_', '-',$element['#field_name']);
+    $variables['#attached']['drupalSettings']['field_load_more'][$field_wrapper_class] = [
+      'limit' => $items_show_limit,
+    ];
+
+    foreach ($variables['items'] as $key => $item) {
+      if ($key > $items_show_limit - 1) {
+        $attributes = [
+          'class' => ['element-invisible']
+        ];
+
+        $variables['items'][$key]['attributes'] = new Attribute($attributes);;
+      }
+    }
+
+    if (count($variables['items']) > $items_show_limit) {
+      $content = [
+        '#type' => 'html_tag',
+        '#tag' => 'div',
+        '#attributes' => [
+          'class' => [
+            'load-more-btn btn'
+          ],
+          'data-field-class' => $field_wrapper_class
+        ],
+        '#value' => t($link_text),
+        '#cache' => [
+          'tags' => [
+            $items_show_limit . '-' . $element['#field_name'],
+          ]
+        ]
+      ];
+
+      $variables['items'][]['content'] = [
+        'container' => [
+          '#type' => 'container',
+          '#attributes' => [
+            'class' => [
+              'clearfix',
+              'col'
+            ],
+          ],
+          'content' => $content
+        ]
+      ];
+    }
+  }
+}
+
+/**
+ * Implements hook_preprocess_HOOK().
+ */
+function tb_global_preprocess_block(&$variables) {
+  $plugin_id = $variables['base_plugin_id'] ?? '';
+
+  if ($plugin_id != 'inline_block') {
+    return;
+  }
+
+  $type = $variables['derivative_plugin_id'];
+  $component = ComponentFactory::load($type, $variables);
+  if ($component) {
+    $component->buildSettings($variables);
+  }
+}
+
+/**
+ * Implements hook_preprocess_HOOK().
+ */
+function tb_global_preprocess_input__submit(&$variables) {
+  foreach ($variables['attributes']['class'] as $index => $value) {
+    // Remove the default Webspark button style.
+    if ($value == 'btn-maroon') {
+      unset($variables['attributes']['class'][$index]);
+    }
+  }
+
+  // Adds class to submit buttons.
+  $variables['attributes']['class'][] = 'btn-blue';
+}
+
+function filterArrayMonthYear($array) {
+  $filteredArray = [];
+  
+  if (!empty($array)) {
+      $filteredArray['All'] = reset($array);
+      foreach ($array as $key => $value) {
+          if (strpos($value, '2024') !== false || strpos($value, '2025') !== false) {
+              $filteredArray[$key] = $value;
+          }
+      }
+  }
+  
+  return $filteredArray;
+}
+
+/**
+ * Implements hook_toolbar_alter().
+ */
+function tb_global_toolbar_alter(&$items) {
+  $items['administration']['#attached']['library'][] = 'tb_global/toolbar';
+}
+
+function tb_global_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id) {
+  if ($form_id === 'views_exposed_form' && $form['#id'] === 'views-exposed-form-certificates-block-1') {
+    $options = filterArrayMonthYear($form['field_school_term_target_id']['#options']);
+    $form['field_school_term_target_id']['#options'] = $options;
+  }
+}
+
+/**
+ * Implements template_preprocess_HOOK().
+ */
+function tb_global_preprocess_menu__thunderportal(&$variables) {
+  $variables['attributes']['class'][] = 'menu-thunderportal';
+}

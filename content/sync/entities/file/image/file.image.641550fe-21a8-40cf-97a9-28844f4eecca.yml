@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 641550fe-21a8-40cf-97a9-28844f4eecca
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+filename:
+  -
+    value: exec_learning_webinar.png
+uri:
+  -
+    value: 'public://article/exec_learning_webinar.png'
+    url: /sites/default/files/article/exec_learning_webinar.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 665221
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-06-27T00:29:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-06-27T00:29:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b

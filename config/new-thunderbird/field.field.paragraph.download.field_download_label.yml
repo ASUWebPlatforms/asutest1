@@ -1,0 +1,19 @@
+uuid: 7c3d0c23-43eb-451a-9b58-7171cbc94dfc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_download_label
+    - paragraphs.paragraphs_type.download
+id: paragraph.download.field_download_label
+field_name: field_download_label
+entity_type: paragraph
+bundle: download
+label: Label
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

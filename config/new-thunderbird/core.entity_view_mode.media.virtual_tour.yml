@@ -1,0 +1,10 @@
+uuid: dc199d4c-5980-49de-9632-a5d917146da7
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.virtual_tour
+label: 'Virtual Tour'
+targetEntityType: media
+cache: true

@@ -1,0 +1,108 @@
+uuid:
+  -
+    value: 79d1dc5a-aa35-49ae-b79c-cd7034f6d3f0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T20:30:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'BMW of North America: Dream It. Build It. Drive It'
+created:
+  -
+    value: '2016-07-16T00:29:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T20:30:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-12-0003
+body:
+  -
+    value: '<p>BMW, the leading luxury car manufacturer in the United States, implemented a new marketing initiative based on its online video services aimed to increase sales of customized vehicles. Prior to the introduction of the “Dream It. Build It. Drive It.” program, BMW’s SUV sales in America were in decline, and the situation required an immediate management response. With the arrival of the next generation of the X3 model in 2010, BMW launched a new online service allowing customers to watch the creation of their new vehicle through live video streaming.</p><p>The case addresses the challenges of catering to the North American consumer, where most car buyers want immediate gratification with their purchases. BMW tackled this issue with a complex change in its production system to decrease lead times for its new vehicles, transferring a complete assembly line from Austria to South Carolina.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-12-0003
+field_case_page_length:
+  -
+    value: '16 Pages'
+field_case_series_author:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: 09291743-98ed-47f2-8a6c-b35b3937c2ce
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2012-01-01'
+field_case_setting:
+  -
+    value: 'North America'
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+  -
+    target_type: taxonomy_term
+    target_uuid: 04f3166f-aea8-4948-b8a2-3050edd8953b
+field_teaching:
+  -
+    value: "This case can be taught to MBA students or executives interested in the global strategy, marketing, or operations. Specific teaching objectives for this case include the following:\r\n\r\nTo underscore the importance of consumer behavior in strategic planning. \r\nOne of the reasons why BMW succeeded with its X3 marketing was that it was not only able to turn around the whole supply chain, but also design a consumer interface based on psychological and anthropological factors of the local target audience.\r\nTo examine the paradoxes related to diverse consumer choices and the ways it can be served by mass customization. According to Barry Schwartz’s concept, “The Paradox of Choice—Why More Is Less,” the elimination of choices greatly reduces the anxiety of buyers. The mass customization concept offers the benefits of diverse product offerings, but it also creates complexities in production and supply chain, hence hindering operational excellence.\r\nTo demonstrate alternative ways to engage an online sales channel in product distribution.\r\nPart of the case explains how BMW managed to add a new functionality to traditional Web-based customization and convert it to a successful sales channel.\r\nTo illustrate the complexity of the supply chain for a modern manufacturing company. \r\nThe case examines large-scale operations such as global transfers of production lines and consequences of these operations at the retail level."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.09291743-98ed-47f2-8a6c-b35b3937c2ce
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946
+      - taxonomy_term.case_series_fields.04f3166f-aea8-4948-b8a2-3050edd8953b

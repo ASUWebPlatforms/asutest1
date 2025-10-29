@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 84dbae51-ea24-4ace-a8cb-a873360b1b48
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:07:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Smart Union Group (Holdings) Limited - (Short) Toy Story'
+created:
+  -
+    value: '2016-07-16T00:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:07:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-10-0008
+body:
+  -
+    value: '<p><span>Smart Union Group (Holdings) Limited was engaged in the manufacturing of recreational and educational toys and equipment for OEMs such as Mattel, Hasbro, and Megablocks. The company’s manufacturing facilities were located in Guangdong Province, China, while the majority of the company’s sales were made in the U.S. and Europe. The company went public in September 2006 with an IPO listed on the Hong Kong Stock Exchange, which netted HK$55 million. From 2003 to 2007, the company’s sales revenues increased from HK$479 million to over HK$953 million. The company’s rapid growth was financed by issuing equity and obtaining short-term bank loans. In 2007, Smart Union invested in a silver mine in Fujian Province to offset the impact of price increases in commodities used in production, and to expand its operational scope. At the end of 2007, the company’s short-term bank debt of HK$240 million needed to be repaid or refinanced.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-10-0008
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: e8fdbb1e-468e-47a0-a277-ade38387d24b
+field_case_series_year:
+  -
+    value: '2010-01-01'
+field_case_setting:
+  -
+    value: 'Hong Kong'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: "To understand a how a company makes money, its strategy for achieving this, and the implications for the company’s financial performance,\r\nTo understand a company’s exposure to a variety of risks including, operational, commodity, exchange rate, and interest rate risks, and how it might handle these risks,\r\nTo analyze a company’s growth, its ability to generate cash flows, and its financial performance,\r\nTo evaluate a company’s financing needs, the possible financing methods it has available, and how it might choose a preferred plan.\r\nSpecifically, students are asked to consider several issues in the case. First, students are asked to explain how Smart Union makes money, to evaluate its business strategy for accomplishing this objective, and to evaluate how successful execution of this strategy is likely to be observable from the company’s performance indicators. Second, students are asked to analyze the risk faced by the company from fluctuations in commodity prices, exchange rates, and interest rates, as well as operational risks faced in manufacturing, selling and distributing its products. Third, students are asked to evaluate the company’s rapid growth, its cash flow situation, and recent financial performance, including its profitability, asset management, and leverage. Finally, students are asked to evaluate Smart Union’s cash flows, and how it will fund the bank loan due within the next year.\r\n\r\nThe case has been used successfully in MBA programs to cover corporate financial reporting issues, and in bank training programs focused on credit analysis and quality of earnings issues."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.e8fdbb1e-468e-47a0-a277-ade38387d24b
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe

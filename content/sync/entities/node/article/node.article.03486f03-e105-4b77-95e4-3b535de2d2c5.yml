@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 03486f03-e105-4b77-95e4-3b535de2d2c5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Fields and Farms of Myanmar'
+created:
+  -
+    value: '2015-08-04T03:24:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/fields-farms-myanmar
+body:
+  -
+    value: "<p>[[{\"fid\":\"3040\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fields and Farms of Myanmar\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fields and Farms of Myanmar\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"The Fields and Farms of Myanmar\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>This past week, the team&nbsp;finally got the chance to see some of the livestock production facilities that it has come to help support. The weekend started off with visits to both medium-scale and large-scale enterprises, discovering the ins and outs of operations in the poultry industry in Myanmar.&nbsp;<span>Our first visit was to a farm run by a Myanmar man who had been living in Japan for the past 17 years. He currently has capacity for 13,000 chickens total, raised in a combination of open (bamboo structures) and closed (concrete structures) and was in the process of building a new concrete, two story facility, which would double his production capacity. The difference between open and closed structures is important: closed structures allow for a cleaner, quicker turnaround between batches and thus chickens can be raised more efficiently.T</span><span>he next farm that we visited is a considerably larger operation. The farmer currently had three, 100-meter “closed” concrete buildings in use, each able to hold 13,000 chickens, as well as another three in progress. Moreover, he had eight “open” houses. &nbsp;Each of these facilities was quite a bit larger and more modern than we had expected and continued to show the enterprising efforts of the livestock community.&nbsp;</span><em>(Pictured: Darren and Robert inspect a concrete chicken house under construction.)</em></p>\r\n<p><em>[[{\"fid\":\"3041\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fields and Farms of Myanmar\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fields and Farms of Myanmar\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"The Fields and Farms of Myanmar\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</em></p>\r\n<p>The final farm visit of the week expanded on that entrepreneurial spirit. At the Silvery Pearl Dairy, which produces milk and yoghurt, we discovered a business focused on quality standards, technological advances and social responsibility. Although considered a small farm with only 38 working current milking c<span>o</span><span>ws, plus contract farms, the owner showed a serious interest in improving the quality dairy standards and had visited New Zealand and Japan to learn of testing&nbsp;</span><span>methods by which to do so.&nbsp; Moreover, the farmer was organized, enthusiastic and committed to providing better living standards for the communities as well as his livestock animals. He is the only operation that we had met thus far who expanded on his CSR plan, which included school milk programs and handing out excess production to high-poverty communities.&nbsp;<em>(Pictured: Robert, Marissa and Darren pose at the Silvery Pearl Dairy with the farmer, his wife and Winrock Technical Officer Dr. TK.)</em></span></p>\r\n<p>&nbsp;[[{\"fid\":\"3042\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fields and Farms of Myanmar\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fields and Farms of Myanmar\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"The Fields and Farms of Myanmar\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Information on the farmers, the beneficiaries of the work of the Myanmar Livestock Federation and its centralized associations, is imperative to allowing us the information necessary to formulate business plans and action plans for each of the associations. Each farm that we visit allows our understanding of the industry to grow deeper and allows us to see the aspects of the industry that are not shared in interviews. This information will be beyond beneficial in creating the upcoming deliverables for our stakeholders.<span>&nbsp;</span></p>\r\n<p>At the midpoint of our time here, the team has settled well into life in Yangon, exploring the city and created local contacts and friends. The time has flown by incredibly fast and we are trying to take advantage of the short time that we have left to see all there is to see in this animated and exciting country. &nbsp;<em>(Pictured: Robert getting friendly with a cow at the Silvery Pearl Dairy.)</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

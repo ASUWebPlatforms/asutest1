@@ -1,0 +1,32 @@
+label: สื่อ
+display:
+  default:
+    display_title: Default
+    display_options:
+      title: สื่อ
+      fields:
+        media_bulk_form:
+          action_title: แอคชั่น
+        bundle:
+          label: ประเภท
+        status:
+          label: สถานะ
+        operations:
+          label: Operations
+      pager:
+        options:
+          tags:
+            first: '« first'
+            last: 'last »'
+      exposed_form:
+        options:
+          reset_button_label: Reset
+      filters:
+        bundle:
+          expose:
+            label: ประเภท
+  media_page_list:
+    display_title: สื่อ
+    display_options:
+      menu:
+        title: สื่อ

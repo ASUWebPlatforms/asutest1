@@ -1,0 +1,108 @@
+uuid:
+  -
+    value: 29a2db3a-2ab0-4410-8af4-95d4e8a705ba
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-28T00:39:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Kenny Rogers Roasters in China'
+created:
+  -
+    value: '2016-07-28T00:39:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-28T00:39:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-97-0021
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Kenny Rogers Roasters (KRR) in China series consists of two cases. The Kenny Rogers Roasters in China (A) case documents the efforts of a U.S.-based fast food chain to penetrate the Chinese market in the mid-1990s. The cases focus on Tony Wang, president of Franchise Investment Corporation of Asia (FICA), as he evaluates the market potential for KRR in China and selects a joint venture partner for the first restaurant. The accompanying KRR in China (B) case focuses on site selection issues which are at the heart of Tony Wang''s ambitions for the restaurant chain in China. Both the (A) and (B) cases can be taught together in a single 90 minute class.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-97-0021
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: dc7c996c-21e4-4f32-ba41-49f7deafec88
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: c40525e8-e401-4c34-871c-85a1b18e293c
+field_case_series_year:
+  -
+    value: '1997-01-01'
+field_case_setting:
+  -
+    value: 'China 1996'
+field_case_source:
+  -
+    value: 'Field Case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f57b6385-747a-4893-973c-5fc9d7ec658e
+field_teaching:
+  -
+    value: "The series includes issues of goal formulation, strategy content and joint venture partner selection. The cases should be used back-to-back in the middle of a section on international strategy formulation, or at the beginning of a section on joint venture management. The (A) case forces students to evaluate the pros and cons of China under the often common assumption that everyone should be interested in the huge Chinese market. It also requires students to identify and prioritize criteria for selecting joint venture partners. The (B) case links formulation and implementation and forces students to make critical location decisions.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.dc7c996c-21e4-4f32-ba41-49f7deafec88
+      - taxonomy_term.case_series_industry.c40525e8-e401-4c34-871c-85a1b18e293c
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f57b6385-747a-4893-973c-5fc9d7ec658e

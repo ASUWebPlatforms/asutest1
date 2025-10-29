@@ -1,0 +1,10 @@
+uuid: d878797b-4ad8-46ce-b5d9-a7968f24fd6b
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.signpost_w_2_images_carousel
+label: 'Signpost w/ 2 images Carousel'
+targetEntityType: media
+cache: true

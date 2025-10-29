@@ -1,0 +1,18 @@
+uuid: ce5560a2-aaff-4aaf-abf9-5bd2086cd1e4
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.virtual_tour
+id: block_content.virtual_tour.metatag
+field_name: metatag
+entity_type: block_content
+bundle: virtual_tour
+label: 'Metatags (Hidden field for JSON support)'
+description: 'The meta tags for the entity.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: map

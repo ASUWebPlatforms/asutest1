@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 85c97764-36ee-431b-a3de-131c66220f35
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-03-31T15:20:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+title:
+  -
+    value: 'Rising From The Ashes, Thunderbird Breaks New Ground'
+created:
+  -
+    value: '2020-03-31T15:20:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-31T15:20:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: und
+body:
+  -
+    value: '<p>When we last reported on Thunderbird School of Global Management almost a year ago, the school had just received its best news in a long time. The Wall Street Journal had named Thunderbird’s Master of Global Management the best in the world. It was real validation for the direction of the school under new leadership, proof of positive change.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-02-22T17:00:00-07:00'
+field_image_legacy:
+  -
+    alt: 'Rising From The Ashes, Thunderbird Breaks New Ground'
+    title: ''
+    width: 1000
+    height: 600
+    target_type: file
+    target_uuid: 80e43bec-4926-4682-9ad3-7cfe0d759e44
+field_news_link:
+  -
+    uri: 'https://poetsandquants.com/2019/10/06/rising-from-the-ashes-thunderbird-breaks-new-ground/'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+    file:
+      - file.image.80e43bec-4926-4682-9ad3-7cfe0d759e44

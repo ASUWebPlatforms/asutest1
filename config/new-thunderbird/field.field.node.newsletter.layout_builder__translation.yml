@@ -1,0 +1,21 @@
+uuid: faf1a1c8-5c38-4c6c-8933-462e89962e90
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.layout_builder__translation
+    - node.type.newsletter
+  module:
+    - layout_builder_st
+id: node.newsletter.layout_builder__translation
+field_name: layout_builder__translation
+entity_type: node
+bundle: newsletter
+label: 'Layout Labels'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: layout_translation

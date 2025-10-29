@@ -1,0 +1,10 @@
+uuid: d8aa29b0-a2dc-4052-923f-acfa8086a308
+langcode: en
+status: true
+dependencies: {  }
+id: teaching
+label: Courses
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

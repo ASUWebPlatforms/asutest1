@@ -1,0 +1,17 @@
+uuid: 35e82966-f371-445f-b0d1-bfc8d2e38fac
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: insights_grid_xl
+label: 'Insights grid xl'
+effects:
+  b896b89b-31ca-4159-8604-f206b3171e07:
+    uuid: b896b89b-31ca-4159-8604-f206b3171e07
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 500
+      height: 500
+      crop_type: focal_point

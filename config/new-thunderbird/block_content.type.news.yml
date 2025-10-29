@@ -1,0 +1,10 @@
+uuid: caf5ed64-6274-42fc-abb0-ecaed3bc33a3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: atqa5HOuRt57mM_bNQwNbT84pjI3IHNZV9k3EF8pdzI
+id: news
+label: 'x News'
+revision: 0
+description: ''

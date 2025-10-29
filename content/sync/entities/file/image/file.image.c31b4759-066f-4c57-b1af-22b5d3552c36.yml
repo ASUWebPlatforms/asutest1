@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: c31b4759-066f-4c57-b1af-22b5d3552c36
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5ea0e9c4-e373-49d5-a651-bae8e5842940
+filename:
+  -
+    value: daisy_summerim.jpg
+uri:
+  -
+    value: 'public://article/daisy_summerim_0.jpg'
+    url: /sites/default/files/article/daisy_summerim_0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 82324
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-10-04T20:42:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-10-04T20:42:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5ea0e9c4-e373-49d5-a651-bae8e5842940

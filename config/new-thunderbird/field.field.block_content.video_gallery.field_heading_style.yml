@@ -1,0 +1,23 @@
+uuid: 3a21aee8-a37c-43f0-8c4b-9a185a6e1231
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.video_gallery
+    - field.storage.block_content.field_heading_style
+  module:
+    - options
+id: block_content.video_gallery.field_heading_style
+field_name: field_heading_style
+entity_type: block_content
+bundle: video_gallery
+label: 'Heading Style'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: h2
+default_value_callback: ''
+settings: {  }
+field_type: list_string

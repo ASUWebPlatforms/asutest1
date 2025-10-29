@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: a4bbfaa3-30ed-4127-9e67-34f547e8b826
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'T-birds connect from Hamburg to New Delhi'
+created:
+  -
+    value: '2016-06-22T19:41:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/hamburg-to-new-delhi
+body:
+  -
+    value: "<p>[[{\"fid\":\"888\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Thunderbird alumni, from left,&nbsp;<strong>Manfred Hader ’84, Cristoph Adams ’93,&nbsp;Jens-Ole Boelsen ’93</strong>&nbsp;and Hamburg Alumni Chapter Leader&nbsp;<strong>Yücel Yelken ’99</strong>&nbsp;attend a First Tuesday&nbsp;gathering in November 2013 in Germany. Many other alumni chapters have&nbsp;stayed active in recent weeks, including&nbsp;some&nbsp;that connected with&nbsp;Thunderbird students and faculty during their Winterim courses&nbsp;around the world.&nbsp;Overall,&nbsp;174 full-time students attended eight Winterim courses in Brazil, India, Peru, South Africa, Switzerland and various U.S. locations. Thank you to the&nbsp;T-birds who submitted the&nbsp;following photos from Winterims and other alumni connections:</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p>[[{\"fid\":\"889\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>New Delhi Chapter Leader and Alumni Council of Thunderbird (ACT) member&nbsp;<strong>David Wittenberg&nbsp;’93</strong>&nbsp;hosts Winterim students during their three-week course with Thunderbird Professor Kishore Dash, Ph.D.</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<p>[[{\"fid\":\"890\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>New Delhi Chapter Leader and Alumni Council of Thunderbird (ACT) member&nbsp;<strong>David Wittenberg&nbsp;’93</strong>&nbsp;hosts Winterim students during their three-week course with Thunderbird Professor Kishore Dash, Ph.D.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p>[[{\"fid\":\"891\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Thunderbird Professor John Zerio, Ph.D., second from right, mingles with alumni&nbsp;in São Paulo&nbsp;during the Brazil Winterim from Jan. 8-21, 2014.</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<p>[[{\"fid\":\"892\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>The São Paulo Alumni Chapter hosts Thunderbird&nbsp;students during the Brazil Winterim, led by Thunderbird Professor John Zerio, Ph.D., from Jan. 8-21, 2014.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p>[[{\"fid\":\"893\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>The São Paulo Alumni Chapter hosts Thunderbird&nbsp;students during the Brazil Winterim led by Thunderbird Professor John Zerio, Ph.D., from Jan. 8-21, 2014.</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<p>[[{\"fid\":\"895\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>The São Paulo Alumni Chapter hosts Thunderbird&nbsp;students during the Brazil Winterim, led by Thunderbird Professor John Zerio, Ph.D., from Jan. 8-21, 2014.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p>[[{\"fid\":\"896\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Andy Chen ’05</strong>&nbsp;connects with&nbsp;<strong>John Cook ’79</strong>&nbsp;and his daughter, Shelley, on Jan. 14, 2014, at the University of Washington in Seattle. The two alumni discovered many commonalities. They both grew up in Wisconsin, both earned undergraduate degrees at Purdue University, and both have connections to the University of Washington.</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<p>[[{\"fid\":\"897\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Andy Chen ’05</strong>&nbsp;meets current Thunderbird student&nbsp;<strong>Sundeep Sunkara&nbsp;’15</strong>&nbsp;on Jan. 13,&nbsp;2014, at a coffeeshop in Seattle, Washington. “We had a great conversation,” Chen said.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

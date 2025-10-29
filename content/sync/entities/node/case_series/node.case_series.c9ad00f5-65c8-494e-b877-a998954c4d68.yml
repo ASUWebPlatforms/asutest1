@@ -1,0 +1,119 @@
+uuid:
+  -
+    value: c9ad00f5-65c8-494e-b877-a998954c4d68
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:43:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Nodal Logistics and Custo Brasil'
+created:
+  -
+    value: '2016-07-16T01:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:43:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-08-0012
+body:
+  -
+    value: '<p><span>Just when John Penman thought Nodal Logistics Corporation (NLC or “Nodal”) was ready to move into Brazil, a new hurdle was thrown in his path. Only a few days ago—on December 11, 2007—he had finally obtained approval from the U.S.-based company’s executive board to invest $45 million in an 800,000 square foot industrial property project in São Paulo, Brazil. But that was before yesterday’s phone call from the legal department. Nodal’s legal staff had received confirmation from their São Paulo-based associate that under Brazilian law, commercial real estate contracts must be denominated in Brazilian reais. One of Nodal’s basic operating practices which had been so important to its international success had been to write all industrial real estate agreements in U.S. dollars. This posed a serious problem, as most industrial leases ranged from as short as five years to more than 12, and that was a very long time to be exposed to the Brazilian currency. John now had to delve into the multitude of strategies and derivatives that might allow the company to manage the currency risk; otherwise, the deal was dead.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-08-0012
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 63cfeb3d-3838-4ff7-8779-5e8844a85a34
+field_case_series_year:
+  -
+    value: '2008-01-01'
+field_case_setting:
+  -
+    value: 'Geographic Brazil'
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  -
+    target_type: taxonomy_term
+    target_uuid: 844e110c-bc3d-411f-9c62-1f949906ff64
+  -
+    target_type: taxonomy_term
+    target_uuid: 392c89a1-51bd-4ea1-82e3-83cf7a4391de
+  -
+    target_type: taxonomy_term
+    target_uuid: e63a6a76-e3bd-49e7-93a2-9cfd4c527752
+  -
+    target_type: taxonomy_term
+    target_uuid: f62dab35-8d4e-41d2-a8e1-540af569e4df
+field_teaching:
+  -
+    value: 'This case is used in a graduate business class in international corporate finance to focus on currency risk management alternatives related to long-term/continuing transaction exposures. The case also provides an opportunity for students to learn the basics about real estate investment trusts (REITS). The primary objective, however, is to challenge the student to do a detailed quantitative analysis of a number of hedging alternatives, but focusing on a series of cash flows over time rather than a single transaction exposure.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.63cfeb3d-3838-4ff7-8779-5e8844a85a34
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4
+      - taxonomy_term.case_series_fields.844e110c-bc3d-411f-9c62-1f949906ff64
+      - taxonomy_term.case_series_fields.392c89a1-51bd-4ea1-82e3-83cf7a4391de
+      - taxonomy_term.case_series_fields.e63a6a76-e3bd-49e7-93a2-9cfd4c527752
+      - taxonomy_term.case_series_fields.f62dab35-8d4e-41d2-a8e1-540af569e4df

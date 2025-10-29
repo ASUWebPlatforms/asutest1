@@ -1,0 +1,23 @@
+uuid: 5a08e02c-b78e-4c84-bc01-308d0f1f852c
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+_core:
+  default_config_hash: 4BuHi0E0nFDG1Ugt34sUJlCjkUXUi0of0sBQWf0oGqc
+id: block_content.field_news_feed_filter
+field_name: field_news_feed_filter
+entity_type: block_content
+type: string
+settings:
+  max_length: 255
+  case_sensitive: false
+  is_ascii: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

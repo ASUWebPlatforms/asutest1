@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: d96500cd-4039-4f8e-b9a5-1da0624a57e2
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:46:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Perrier, Nestlé, and The Agnellis'
+created:
+  -
+    value: '2016-07-27T23:46:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:46:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-98-0016
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The French mineral water company, Perrier SA, has recently undergone financial and stock price difficulties, resulting from its famous benzene scandal. This leads to an opportunistic bid from the owners of Fiat SpA, the Agnellis of Italy. The Agnelli bid is actually effected indirectly, through two French companies with whom they are allied: Exor and Saint Louis. The bid is contested by the Swiss-based food giant Nestle and its French ally, BSN. Although attempting to outflank the Agnelli camp, Nestle''s chances of success seem slim, since the Angellis and their allies control nearly 50% of Perrier.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-98-0016
+field_case_page_length:
+  -
+    value: '22 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: 'France, Switzerland, 1992'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8926627b-6df2-498a-a314-fc0fa6ef96fb
+  -
+    target_type: taxonomy_term
+    target_uuid: a84fcf4f-a96c-4796-b32b-ca01e5b32432
+  -
+    target_type: taxonomy_term
+    target_uuid: 750aa71b-b5d7-4aa0-a1f1-fb0593107f99
+  - {  }
+field_teaching:
+  -
+    value: "The case involves a straightforward and rigorous corporate valuation exercise using the WACC valuation method. However, students must grapple with a set of larger, more qualitative issues, such as disentangling a complex set of crossholdings to assess who is aligned with whom, who the insiders and outsiders are in the French corporate scene, what the likely outcomes of the court decisions are, and finally, what the likely outcomes of the decisions based on EU competition policy are. The case allows the instructor to draw generalizations about the Continental European styles of governance and their market for corporate control. The case is ideal in a second-level corporate finance, international finance, or corporate governance course.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.8926627b-6df2-498a-a314-fc0fa6ef96fb
+      - taxonomy_term.case_series_fields.a84fcf4f-a96c-4796-b32b-ca01e5b32432
+      - taxonomy_term.case_series_fields.750aa71b-b5d7-4aa0-a1f1-fb0593107f99

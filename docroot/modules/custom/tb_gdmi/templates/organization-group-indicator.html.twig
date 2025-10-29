@@ -1,0 +1,6 @@
+{% if group %}
+  <div class="organization-group-indicator container">
+    <span class="organization-group-indicator__organization">{{ group.field_organization.value }}</span>
+    <span class="organization-group-indicator__group">{{ group.label.value }}</span>
+  </div>
+{% endif %}

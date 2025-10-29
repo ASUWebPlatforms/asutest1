@@ -1,0 +1,27 @@
+uuid: 6c85330c-b802-444d-9bdf-0fce94495fb4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_signpost_body
+    - paragraphs.paragraphs_type.signpost
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - basic_html
+      - plain_text
+id: paragraph.signpost.field_signpost_body
+field_name: field_signpost_body
+entity_type: paragraph
+bundle: signpost
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

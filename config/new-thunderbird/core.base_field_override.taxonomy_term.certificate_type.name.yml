@@ -1,0 +1,18 @@
+uuid: edf11338-02fc-4ec1-b7b5-94777212c2ce
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.certificate_type
+id: taxonomy_term.certificate_type.name
+field_name: name
+entity_type: taxonomy_term
+bundle: certificate_type
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

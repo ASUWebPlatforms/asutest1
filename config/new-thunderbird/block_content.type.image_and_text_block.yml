@@ -1,0 +1,10 @@
+uuid: 2c97ff68-c448-4034-a607-b2bdb5f23e08
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: a_Xnjquvux3uuHXYhSMrjB5Y4FHpjks7ffOOstxSSAI
+id: image_and_text_block
+label: 'Signpost Full Width'
+revision: 0
+description: ''

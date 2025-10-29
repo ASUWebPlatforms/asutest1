@@ -1,0 +1,9 @@
+uuid: ccb78c49-0bce-4e56-86da-ebd6cf7e0f03
+langcode: zh-hans
+status: true
+dependencies: {  }
+id: zh-hans
+label: 'Mandarin Chinese'
+direction: ltr
+weight: -1
+locked: false

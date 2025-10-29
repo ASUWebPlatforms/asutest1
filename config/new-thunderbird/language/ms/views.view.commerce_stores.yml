@@ -1,0 +1,32 @@
+display:
+  default:
+    display_options:
+      fields:
+        is_default:
+          label: Lalai
+        name:
+          label: Nama
+        changed:
+          label: 'Telah dikemaskinikan'
+        type:
+          label: Jenis
+        operations:
+          label: Operasi-operasi
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+      exposed_form:
+        options:
+          submit_button: Pohon
+          reset_button_label: 'Set semula'
+          exposed_sorts_label: 'Susun mengikuti'
+          sort_asc_label: Menaik
+          sort_desc_label: Menurun
+      filters:
+        type:
+          expose:
+            label: Jenis
+  page_1:
+    display_title: Halaman

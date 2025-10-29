@@ -1,0 +1,38 @@
+uuid: c19a583b-cba6-40fc-bd1c-33cdaed83060
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:signposts:b6be5d5f-8f9e-4179-817f-2221b62f9c24'
+  module:
+    - block_content
+    - domain
+    - system
+  theme:
+    - thunderbird
+id: assessmentconfirmationsignposts
+theme: thunderbird
+region: content
+weight: -8
+provider: null
+plugin: 'block_content:b6be5d5f-8f9e-4179-817f-2221b62f9c24'
+settings:
+  id: 'block_content:b6be5d5f-8f9e-4179-817f-2221b62f9c24'
+  label: 'Looking for your results?'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  domain:
+    id: domain
+    negate: false
+    context_mapping:
+      domain: '@domain.current_domain_context:domain'
+    domains:
+      gdmi: gdmi
+  request_path:
+    id: request_path
+    negate: false
+    pages: /assessment/confirmation

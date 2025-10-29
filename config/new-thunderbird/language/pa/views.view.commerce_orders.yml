@@ -1,0 +1,24 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: ਫਿਲਟਰ
+          reset_button_label: ਰੀ-ਸੈੱਟ
+      pager:
+        options:
+          tags:
+            previous: '‹ ਪਿੱਛੇ'
+            next: 'ਅੱਗੇ ›'
+            last: 'ਆਖਰੀ »'
+      fields:
+        placed:
+          label: ਮਿਤੀ
+        type:
+          label: ਕਿਸਮ
+      filters:
+        type:
+          expose:
+            label: ਕਿਸਮ
+  page_1:
+    display_title: ਸਫਾ

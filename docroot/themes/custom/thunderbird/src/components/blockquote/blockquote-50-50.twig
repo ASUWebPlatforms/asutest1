@@ -1,0 +1,14 @@
+<div class="blockquote {{ blockquote_type }}">
+  <h2>{{ heading }}</h2>
+  <div class="row">
+    <div class="col-md-6 text d-flex flex-wrap align-content-center">
+      <span class="double-quote">“</span>
+      <p class="quote">{{ body_text }}</p>
+      <div class="author">{{ citation_author }}</div>
+      <div class="description">{{ citation_description }}</div>
+      {% include '@renovation/buttons/button-action.twig' with { url : cta.link, title: cta.title } %}
+    </div>
+    {# TODO: Remove placeholder link with media field #}
+    <div class="col-md-6 image {{ image_position }}" style="background-image: url('/themes/custom/thunderbird/src/components/blockquote/placeholder.jpg')"></div>
+  </div>
+</div>

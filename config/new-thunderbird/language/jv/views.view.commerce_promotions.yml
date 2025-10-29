@@ -1,0 +1,32 @@
+display:
+  default:
+    display_title: Gawan
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- Kabeh -'
+      fields:
+        name:
+          label: Jeneng
+        operations:
+          label: Operasi
+      filters:
+        name:
+          expose:
+            label: Jeneng
+        status:
+          expose:
+            label: Status
+  admin:
+    display_title: Kācā
+    display_options:
+      menu:
+        title: Daftar
+      tab_options:
+        title: Daftar

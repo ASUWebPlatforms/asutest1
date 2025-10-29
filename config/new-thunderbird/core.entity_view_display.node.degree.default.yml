@@ -1,0 +1,1232 @@
+uuid: 2e8d6db5-5c30-4c49-a2b3-d56ecc065af7
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.accordion
+    - block_content.type.blockquote
+    - block_content.type.card_and_image
+    - block_content.type.card_selection
+    - block_content.type.column_text
+    - block_content.type.flip_cards
+    - block_content.type.image_and_text_block
+    - block_content.type.signpost_2_columns_w_link
+    - block_content.type.stats_carousel
+    - block_content.type.table
+    - block_content.type.text_content
+    - field.field.node.degree.body
+    - field.field.node.degree.field_admission_requirements
+    - field.field.node.degree.field_apply_url
+    - field.field.node.degree.field_aventri_code
+    - field.field.node.degree.field_average_age
+    - field.field.node.degree.field_campus_code
+    - field.field.node.degree.field_class_location
+    - field.field.node.degree.field_coe_location
+    - field.field.node.degree.field_concentrations
+    - field.field.node.degree.field_content_background
+    - field.field.node.degree.field_credit_hours
+    - field.field.node.degree.field_cta_button_label
+    - field.field.node.degree.field_degree_category
+    - field.field.node.degree.field_degree_delivery_method
+    - field.field.node.degree.field_degree_description
+    - field.field.node.degree.field_degree_duration
+    - field.field.node.degree.field_degree_experience
+    - field.field.node.degree.field_degree_focus
+    - field.field.node.degree.field_degree_language
+    - field.field.node.degree.field_degree_location
+    - field.field.node.degree.field_degree_purpose_of_study
+    - field.field.node.degree.field_degree_type
+    - field.field.node.degree.field_degree_type_ref
+    - field.field.node.degree.field_degree_years_of_experience
+    - field.field.node.degree.field_domain_access
+    - field.field.node.degree.field_domain_all_affiliates
+    - field.field.node.degree.field_external_url
+    - field.field.node.degree.field_header_alignment
+    - field.field.node.degree.field_image
+    - field.field.node.degree.field_meta_tags
+    - field.field.node.degree.field_plan_code
+    - field.field.node.degree.field_program_code
+    - field.field.node.degree.field_program_cost
+    - field.field.node.degree.field_program_terms
+    - field.field.node.degree.field_regions
+    - field.field.node.degree.field_scholarships
+    - field.field.node.degree.field_school_term
+    - field.field.node.degree.field_solutions
+    - field.field.node.degree.field_sub_plan_code
+    - field.field.node.degree.field_tags
+    - field.field.node.degree.field_topics
+    - field.field.node.degree.field_vertical_stripes
+    - field.field.node.degree.layout_builder__layout
+    - field.field.node.degree.layout_builder__translation
+    - node.type.degree
+  module:
+    - ctools
+    - layout_builder
+    - layout_builder_restrictions
+    - layout_discovery
+    - metatag
+    - options
+    - range
+    - system
+    - text
+    - user
+    - webspark_blocks
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: true
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: Content
+          context_mapping: {  }
+        components:
+          -
+            uuid: 0eacd841-d24b-4b90-8eca-5baaca633a8f
+            region: content
+            configuration:
+              id: 'entity_view:node'
+              label: 'Entity view (Content)'
+              label_display: '0'
+              provider: ctools
+              view_mode: hero
+              context_mapping:
+                entity: layout_builder.entity
+            weight: 0
+            additional: {  }
+          -
+            uuid: 19d52291-1ba8-4a29-a7c3-051370164beb
+            region: content
+            configuration:
+              id: system_breadcrumb_block
+              label: Breadcrumbs
+              label_display: '0'
+              provider: system
+              context_mapping: {  }
+            weight: 1
+            additional: {  }
+          -
+            uuid: 70734ffb-ed2f-4ab3-819d-ec178cc42faa
+            region: content
+            configuration:
+              id: webspark_blocks_anchor_menu
+              label: 'Anchor Menu'
+              label_display: '0'
+              provider: webspark_blocks
+              context_mapping: {  }
+            weight: 2
+            additional: {  }
+          -
+            uuid: e79390e8-4446-4dc8-af72-574e8f5ab17f
+            region: content
+            configuration:
+              id: 'inline_block:text_content'
+              label: Overview
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 18d78b22-08ac-4ef1-b00a-842babea2f60
+              block_revision_id: 8
+              block_serialized: null
+              type: text_content
+              uuid: 18d78b22-08ac-4ef1-b00a-842babea2f60
+            weight: 3
+            additional: {  }
+          -
+            uuid: 04682053-f922-41b9-ac1a-f36c8cca6c87
+            region: content
+            configuration:
+              id: 'inline_block:stats_carousel'
+              label: 'Degree Stats'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 189997df-8e52-4ac3-b957-60dfd67dd21c
+              block_revision_id: 9
+              block_serialized: null
+              type: stats_carousel
+              uuid: 189997df-8e52-4ac3-b957-60dfd67dd21c
+            weight: 4
+            additional: {  }
+          -
+            uuid: e3df0da2-9af9-4576-9e97-9e615678ccf0
+            region: content
+            configuration:
+              id: 'inline_block:column_text'
+              label: 'Who Should Attend? X'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 9f0e59f5-5d7f-4ca0-bbfc-89aa3dcdcb7f
+              block_revision_id: 12
+              block_serialized: null
+              type: column_text
+              uuid: 9f0e59f5-5d7f-4ca0-bbfc-89aa3dcdcb7f
+            weight: 8
+            additional: {  }
+          -
+            uuid: 5f4712b9-e4dd-43f1-a9e8-4ffe86929895
+            region: content
+            configuration:
+              id: 'inline_block:blockquote'
+              label: 'Student Testimonials'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: ca49f1a6-edd8-439b-899d-4e1677aa3010
+              block_revision_id: 13
+              block_serialized: null
+              type: blockquote
+              uuid: ca49f1a6-edd8-439b-899d-4e1677aa3010
+            weight: 9
+            additional: {  }
+          -
+            uuid: ea7f0243-c184-4868-8bea-a830fd257813
+            region: content
+            configuration:
+              id: 'inline_block:signpost_2_columns_w_link'
+              label: 'Career Opportunities'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 7892cce7-2874-45a2-83cc-aee130d20e9e
+              block_revision_id: 14
+              block_serialized: null
+              type: signpost_2_columns_w_link
+              uuid: 7892cce7-2874-45a2-83cc-aee130d20e9e
+            weight: 10
+            additional: {  }
+          -
+            uuid: a133e939-378b-4f43-a823-8f5cfee03bdb
+            region: content
+            configuration:
+              id: 'inline_block:signpost_2_columns_w_link'
+              label: 'Concentrations & Curriculum'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: caab11f5-cf29-4a1e-aae2-e7a90be03bd5
+              block_revision_id: 15
+              block_serialized: null
+              type: signpost_2_columns_w_link
+              uuid: caab11f5-cf29-4a1e-aae2-e7a90be03bd5
+            weight: 11
+            additional: {  }
+          -
+            uuid: 33b66fb5-9b5e-4d12-a8ea-471de81ad9f6
+            region: content
+            configuration:
+              id: 'inline_block:table'
+              label: 'Core Curriculum'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: c9b39ceb-7669-40ad-9963-543fd2664b72
+              block_revision_id: 16
+              block_serialized: null
+              type: table
+              uuid: c9b39ceb-7669-40ad-9963-543fd2664b72
+            weight: 12
+            additional: {  }
+          -
+            uuid: 42e7c108-3bfc-41bd-8775-73b4acc93afb
+            region: content
+            configuration:
+              id: 'inline_block:text_content'
+              label: 'Financial Aid & Costs'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 51ad9d2f-f533-4604-957e-2f347d9b5d8d
+              block_revision_id: 17
+              block_serialized: null
+              type: text_content
+              uuid: 51ad9d2f-f533-4604-957e-2f347d9b5d8d
+            weight: 13
+            additional: {  }
+          -
+            uuid: 3050dbac-4c9e-4814-baa2-262ceca74a75
+            region: content
+            configuration:
+              id: 'inline_block:accordion'
+              label: 'Financial Aid and Costs Accordion'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: bb45d8a4-831d-4df8-82c4-b470c148478c
+              block_revision_id: 18
+              block_serialized: null
+              type: accordion
+              uuid: bb45d8a4-831d-4df8-82c4-b470c148478c
+            weight: 14
+            additional: {  }
+          -
+            uuid: c2cde4fe-833b-4b26-b8ba-dc3469cac4ae
+            region: content
+            configuration:
+              id: 'inline_block:table'
+              label: 'Program Costs'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: d4b1f7a3-7abd-454a-8fdf-ed7019197f54
+              block_revision_id: 19
+              block_serialized: null
+              type: table
+              uuid: d4b1f7a3-7abd-454a-8fdf-ed7019197f54
+            weight: 15
+            additional: {  }
+          -
+            uuid: e41f8f75-9896-4711-9f5d-364e2513120f
+            region: content
+            configuration:
+              id: 'inline_block:text_content'
+              label: 'Our Campus'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 5081cbc6-546c-49a3-a6a7-78cf52443dfb
+              block_revision_id: 20
+              block_serialized: null
+              type: text_content
+              uuid: 5081cbc6-546c-49a3-a6a7-78cf52443dfb
+            weight: 16
+            additional: {  }
+          -
+            uuid: 9edb2732-b9f9-4df3-9379-275c00089733
+            region: content
+            configuration:
+              id: 'inline_block:text_content'
+              label: 'Requirements & Deadlines'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: c75ad336-37ea-4e42-b649-3a9560171626
+              block_revision_id: 21
+              block_serialized: null
+              type: text_content
+              uuid: c75ad336-37ea-4e42-b649-3a9560171626
+            weight: 17
+            additional: {  }
+          -
+            uuid: b34cfa93-c9a4-492f-928e-2478653de41c
+            region: content
+            configuration:
+              id: 'inline_block:accordion'
+              label: 'Application Requirements Accordion'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 7f586574-6b7f-4697-bf3b-3c81d66ca06d
+              block_revision_id: 22
+              block_serialized: null
+              type: accordion
+              uuid: 7f586574-6b7f-4697-bf3b-3c81d66ca06d
+            weight: 18
+            additional: {  }
+          -
+            uuid: 5132913e-6796-4abe-a1af-72568cc5c891
+            region: content
+            configuration:
+              id: 'inline_block:table'
+              label: 'Application Deadlines'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 426df082-4aac-4940-aacc-f374a450a8f5
+              block_revision_id: 23
+              block_serialized: null
+              type: table
+              uuid: 426df082-4aac-4940-aacc-f374a450a8f5
+            weight: 19
+            additional: {  }
+          -
+            uuid: 113e98ca-09cf-4fcd-a72c-64f877bc96a6
+            region: content
+            configuration:
+              id: 'inline_block:card_selection'
+              label: 'Attend an Information Session'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 19cabb08-445b-4d9c-8d49-bdeb169c37ab
+              block_revision_id: 24
+              block_serialized: null
+              type: card_selection
+              uuid: 19cabb08-445b-4d9c-8d49-bdeb169c37ab
+            weight: 20
+            additional: {  }
+          -
+            uuid: e21440bb-1026-4b5a-ad17-785b8c410a78
+            region: content
+            configuration:
+              id: 'inline_block:card_and_image'
+              label: 'MGM Program Application'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 3be6102d-dd51-40ed-adba-7c4a32c6ebd4
+              block_revision_id: 25
+              block_serialized: null
+              type: card_and_image
+              uuid: 3be6102d-dd51-40ed-adba-7c4a32c6ebd4
+            weight: 21
+            additional: {  }
+          -
+            uuid: 81266806-300f-4c1a-a7d9-c100fa66308f
+            region: content
+            configuration:
+              id: 'inline_block:image_and_text_block'
+              label: 'Need Help Finding the Right Program'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 6f1e53ef-5d26-47d7-aebc-23a4766ceee0
+              block_revision_id: 26
+              block_serialized: null
+              type: image_and_text_block
+              uuid: 6f1e53ef-5d26-47d7-aebc-23a4766ceee0
+            weight: 22
+            additional: {  }
+          -
+            uuid: f217de4c-803b-4c3b-a6ee-fc1152a43692
+            region: content
+            configuration:
+              id: 'inline_block:flip_cards'
+              label: 'Degree Flip Cards'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 2b49f158-7416-4746-8146-b219b4339c32
+              block_revision_id: 27
+              block_serialized: null
+              type: flip_cards
+              uuid: 2b49f158-7416-4746-8146-b219b4339c32
+            weight: 7
+            additional: {  }
+          -
+            uuid: 955d9aca-6c30-49fa-8c28-6e7767aee592
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_tags'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: true
+                third_party_settings: {  }
+            weight: 23
+            additional: {  }
+          -
+            uuid: c4078dc6-83c9-4f7a-b244-a0845f41481e
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_degree_type'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: list_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 24
+            additional: {  }
+          -
+            uuid: a5fb5c66-1f3f-4d2c-8b58-67fce990beee
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_degree_purpose_of_study'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: list_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 25
+            additional: {  }
+          -
+            uuid: 916f2a1d-4f72-4101-9425-a9ee907dd1b8
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_regions'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: true
+                third_party_settings: {  }
+            weight: 25
+            additional: {  }
+          -
+            uuid: cf2738f4-4b72-4583-af72-1224244f48e5
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_degree_delivery_method'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: list_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 26
+            additional: {  }
+          -
+            uuid: 5d589d8e-f438-4b43-9f55-0e23934c946a
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_degree_focus'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: list_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 27
+            additional: {  }
+          -
+            uuid: d14a7193-3cdf-49e6-b606-f077b3e6aa6f
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_coe_location'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: true
+                third_party_settings: {  }
+            weight: 26
+            additional: {  }
+          -
+            uuid: 046be412-a4e7-403e-92a8-543c2dabbb1d
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_degree_years_of_experience'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: range_integer
+                label: above
+                settings:
+                  range_separator: '-'
+                  thousand_separator: ''
+                  range_combine: true
+                  field_prefix_suffix: false
+                  from_prefix_suffix: false
+                  to_prefix_suffix: false
+                  combined_prefix_suffix: false
+                third_party_settings: {  }
+            weight: 28
+            additional: {  }
+          -
+            uuid: f224bc6b-3134-4bb8-abae-207facae5eb2
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_degree_location'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: list_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 29
+            additional: {  }
+          -
+            uuid: 52708c54-0ef4-44f2-bdb7-f21342b89128
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_degree_language'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: list_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: null
+            additional: {  }
+          -
+            uuid: 35d7da42-e355-44b9-9f8f-b6e17912d90e
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_degree_type_ref'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: true
+                third_party_settings: {  }
+            weight: 27
+            additional: {  }
+          -
+            uuid: aaa22260-e884-47f8-bb9c-70f9f39e3d1d
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_topics'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: true
+                third_party_settings: {  }
+            weight: 31
+            additional: {  }
+          -
+            uuid: d3dcd11b-1de2-4475-8664-ba40f2cb40f0
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_header_alignment'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: list_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 32
+            additional: {  }
+          -
+            uuid: c323f2c4-70ec-4ae0-865f-6f8aae218a20
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_vertical_stripes'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: boolean
+                label: above
+                settings:
+                  format: default
+                  format_custom_false: ''
+                  format_custom_true: ''
+                third_party_settings: {  }
+            weight: 33
+            additional: {  }
+          -
+            uuid: 66c01101-85de-494c-8870-c81e521f8658
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_content_background'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: boolean
+                label: above
+                settings:
+                  format: default
+                  format_custom_false: ''
+                  format_custom_true: ''
+                third_party_settings: {  }
+            weight: 34
+            additional: {  }
+          -
+            uuid: 25ef4393-c1c8-496e-af9e-1cb335ca54c8
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_meta_tags'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: metatag_empty_formatter
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 35
+            additional: {  }
+          -
+            uuid: f70da974-fad5-4c6a-b43e-07fcf6c9f978
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_program_code'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: string
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+            weight: 36
+            additional: {  }
+          -
+            uuid: 98605277-4e01-45be-bb0f-8b31e39749d8
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_plan_code'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: string
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+            weight: 37
+            additional: {  }
+          -
+            uuid: 18b93a86-efae-4d32-90be-e3082e2cabc3
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_sub_plan_code'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: string
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+            weight: 38
+            additional: {  }
+          -
+            uuid: a656364d-30a7-41d3-9d16-184b8cdc1b79
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_program_terms'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: true
+                third_party_settings: {  }
+            weight: 40
+            additional: {  }
+          -
+            uuid: d8cff7af-c52b-4ec3-b4b7-85c12e54aeb5
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_campus_code'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: list_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 41
+            additional: {  }
+          -
+            uuid: dc3274be-0b5e-42e8-b11c-e0fe2457c9e4
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_apply_url'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: string
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+            weight: 42
+            additional: {  }
+          -
+            uuid: 05c3a357-45d7-4cc0-9e5e-ebb7285a0784
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_concentrations'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: entity_reference_label
+                label: above
+                settings:
+                  link: true
+                third_party_settings: {  }
+            weight: 43
+            additional: {  }
+          -
+            uuid: 5b9e215b-2504-4aa3-999f-fc7616e81832
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_cta_button_label'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: string
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+            weight: 44
+            additional: {  }
+          -
+            uuid: bca8c3c5-dfd5-4f75-a1f6-425b30e71bad
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_aventri_code'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: string
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+            weight: 45
+            additional: {  }
+          -
+            uuid: f2609413-bb58-4a87-9f10-89be44f9383d
+            region: content
+            configuration:
+              id: 'field_block:node:degree:field_external_url'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: basic_string
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 46
+            additional: {  }
+        third_party_settings: {  }
+  layout_builder_restrictions:
+    allowed_block_categories: {  }
+    entity_view_mode_restriction:
+      allowed_layouts:
+        - onecol_full_width_section
+        - onecol_fixed_width_section
+        - layout_twocol_bootstrap_section
+      denylisted_blocks:
+        'Custom blocks':
+          - webspark_blocks_back_to_top
+      allowlisted_blocks:
+        ASU:
+          - webspark_blocks_anchor_menu
+        'ASU Degrees and RFI':
+          - asu_degree_rfi_rfi_block
+        'Chaos Tools':
+          - 'entity_view:node'
+        Forms: {  }
+        'Inline blocks':
+          - 'inline_block:accordion'
+          - 'inline_block:apply_now'
+          - 'inline_block:blockquote'
+          - 'inline_block:card_and_image'
+          - 'inline_block:card_selection'
+          - 'inline_block:class_profile'
+          - 'inline_block:column_text'
+          - 'inline_block:embed_html'
+          - 'inline_block:flip_cards'
+          - 'inline_block:carousel_image'
+          - 'inline_block:image_gallery'
+          - 'inline_block:signpost_1_column_w_link'
+          - 'inline_block:signpost_2_columns_w_link'
+          - 'inline_block:image_and_text_block'
+          - 'inline_block:signposts'
+          - 'inline_block:signpost_with_modal_links'
+          - 'inline_block:stats_carousel'
+          - 'inline_block:table'
+          - 'inline_block:text_content'
+          - 'inline_block:carousel_video'
+          - 'inline_block:video_gallery'
+        System:
+          - system_breadcrumb_block
+      restricted_categories:
+        - 'ASU Breadcrumb'
+        - 'ASU brand'
+        - 'ASU footer'
+        - 'Content fields'
+        - Help
+        - 'Lists (Views)'
+        - Menus
+        - User
+        - 'Webspark blocks'
+        - core
+id: node.degree.default
+targetEntityType: node
+bundle: degree
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  field_admission_requirements:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 117
+    region: first
+  field_apply_url:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 138
+    region: content
+  field_aventri_code:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 141
+    region: content
+  field_average_age:
+    type: number_integer
+    label: above
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    weight: 114
+    region: first
+  field_campus_code:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 137
+    region: content
+  field_class_location:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 106
+    region: first
+  field_coe_location:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 121
+    region: content
+  field_concentrations:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 139
+    region: content
+  field_content_background:
+    type: boolean
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 130
+    region: content
+  field_credit_hours:
+    type: number_integer
+    label: above
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    weight: 113
+    region: first
+  field_cta_button_label:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 140
+    region: content
+  field_degree_category:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 111
+    region: first
+  field_degree_delivery_method:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 121
+    region: content
+  field_degree_description:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 116
+    region: first
+  field_degree_duration:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 112
+    region: first
+  field_degree_experience:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 109
+    region: first
+  field_degree_focus:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 122
+    region: content
+  field_degree_language:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 125
+    region: content
+  field_degree_location:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 124
+    region: content
+  field_degree_purpose_of_study:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 120
+    region: content
+  field_degree_type:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 119
+    region: content
+  field_degree_type_ref:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 126
+    region: content
+  field_degree_years_of_experience:
+    type: range_integer
+    label: above
+    settings:
+      range_separator: '-'
+      thousand_separator: ''
+      range_combine: true
+      field_prefix_suffix: false
+      from_prefix_suffix: false
+      to_prefix_suffix: false
+      combined_prefix_suffix: false
+    third_party_settings: {  }
+    weight: 123
+    region: content
+  field_external_url:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 142
+    region: content
+  field_header_alignment:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 128
+    region: content
+  field_image:
+    type: entity_reference_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 102
+    region: first
+  field_meta_tags:
+    type: metatag_empty_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 131
+    region: content
+  field_plan_code:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 133
+    region: content
+  field_program_code:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 132
+    region: content
+  field_program_cost:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 115
+    region: first
+  field_program_terms:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 136
+    region: content
+  field_regions:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 120
+    region: content
+  field_scholarships:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 105
+    region: first
+  field_school_term:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 107
+    region: first
+  field_solutions:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 119
+    region: content
+  field_sub_plan_code:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 134
+    region: content
+  field_tags:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 118
+    region: content
+  field_topics:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 127
+    region: content
+  field_vertical_stripes:
+    type: boolean
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 129
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true
+  search_api_excerpt: true

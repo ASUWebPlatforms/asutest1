@@ -1,0 +1,31 @@
+uuid: dd77d37c-5b1c-40ef-89c0-871b14739987
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.cta_button.field_button_color
+    - field.field.paragraph.cta_button.field_button_label
+    - paragraphs.paragraphs_type.cta_button
+  module:
+    - options
+id: paragraph.cta_button.default
+targetEntityType: paragraph
+bundle: cta_button
+mode: default
+content:
+  field_button_color:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_button_label:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 5a271d3c-05ac-4732-beb2-b187a00e2ca1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-07-19T18:02:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: 'A Summer Well Spent'
+created:
+  -
+    value: '2018-07-17T16:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-07-19T18:02:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/summer-well-spent
+body:
+  -
+    value: "<p>[[{\"fid\":\"62400\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Global Consulting Laboratory\",\"field_file_image_title_text[und][0][value]\":\"A group of Thunderbird Students Bonnie Piper, Olivia Mulerwa, Alex Lind, Dray Williams and Marissa Garay who travelled to Ecuador as part of their GCL experience.\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Global Consulting Laboratory\",\"field_file_image_title_text[und][0][value]\":\"A group of Thunderbird Students Bonnie Piper, Olivia Mulerwa, Alex Lind, Dray Williams and Marissa Garay who travelled to Ecuador as part of their GCL experience.\"}},\"attributes\":{\"alt\":\"Thunderbird Global Consulting Laboratory\",\"title\":\"A group of Thunderbird Students Bonnie Piper, Olivia Mulerwa, Alex Lind, Dray Williams and Marissa Garay who travelled to Ecuador as part of their GCL experience.\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]It all began with a trip to Quito, Ecuador to work with Heifer International through <a href=\"/node/2462\">Thunderbird’s Global Consulting Lab</a>. I honestly don’t think my words will even begin to describe this life-changing, educational experience that has become a memory I will forever treasure.</p>\r\n<p>We headed to a new country to work on a project that, to be honest, none of us 100% understood, but all of us were 200% excited about and committed to. Our journey began with a one-week trip across the country to four different rural areas with one of Heifer Ecuador’s training officials, María Clara Osejo. This trip was eye-opening to all of us and was the primary reason that made us work day and night on our final deliverable to Heifer, which I can say we were all very proud of.</p>\r\n<p>Throughout this week we met with rural entrepreneurs who had different levels of businesses with products like Palo Santo essential oil, honey, crabmeat, alpaca wool, and dairy. We had the chance to talk to these entrepreneurs and they had the chance to communicate their passion for these different businesses, to the point where we even milked a cow and carried a baby alpaca. By the time our work in Quito at the Heifer headquarters began a week later, we had more than enough ideas about how to share our Thunderbird class knowledge with them. We decided to focus our training module on three key areas that were missing or were being practiced at a very basic level, in just about every one of the places we visited: marketing, finance, and management.</p>\r\n<h5>Applying Thunderbird's concepts in Ecuador</h5>\r\n<p>We thought about the way we have learned these disciplines at Thunderbird and then realized we now had to teach it to people who had no clue what these concepts even meant; this was a huge challenge. The first step was creating a needs assessment that could help a trainer realize at what stage each business was. The outcomes of this needs assessment then helped us develop a scope and sequence plan for the training module with overarching goals across three different skill levels. Finally, we developed a training module skeleton with specific objectives for each of the lesson plans we would create. We developed approximately 20 lessons for each of our three key areas, with the end goal of helping each of these entrepreneurs, and hopefully others in the future, to build the necessary foundations for their businesses to grow. This project embodied the true meaning of teamwork, friendship, and applied learning. We could not have done it without the global experience, local knowledge and full support that Consulting Lab lead, <a href=\"/node/181\">Dr. Tom Hunsaker</a> provided us with.</p>\r\n<h5>Internship at The Phoenix Symphony</h5>\r\n<p>[[{\"fid\":\"12620\",\"view_mode\":\"teaser\",\"fields\":{\"format\":\"teaser\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"4\":{\"format\":\"teaser\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-teaser\",\"data-delta\":\"4\"}}]]Once I was back in Phoenix, I began an eight-week internship at The Phoenix Symphony in the Development department. During my internship, I learned about fundraising and the different types of gifts donors make as well as how a non-profit arts organization retains its donor base and shows its appreciation to them. I’ve also had the chance to practice and extend my organizational abilities, Excel knowledge and financial analysis skills (thank you <a href=\"/node/142\">Dr. Michael Moffett</a>!). I must say that I have also met and networked with impressive people, one of them being Jim Ward, the Symphony’s CEO and, coincidentally, a Thunderbird alum! This work experience has helped me begin to prepare for life after graduate school and narrow down my job choices.</p>\r\n<p>This has been a summer where, even though I’m not physically on campus, Thunderbird has kept teaching and inspiring me all along.&nbsp;</p>\r\n<p><strong>Read more:</strong></p>\r\n<ul>\r\n<li><a href=\"/node/3297\">Project Recap: Student Consultants for Heifer International</a></li>\r\n<li><a href=\"/node/3296\">T-birds Create Business Training Manual for Heifer, Ecuador</a></li>\r\n<li><a href=\"/node/3248\">Traveling with Heifer (Part 1)</a></li>\r\n<li><a href=\"/node/3259\">Traveling Ecuador with Heifer International (Part 2)</a></li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1600
+    height: 1200
+    target_type: file
+    target_uuid: 6277c29a-a521-4527-a106-ac1198ac7838
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    file:
+      - file.image.6277c29a-a521-4527-a106-ac1198ac7838
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

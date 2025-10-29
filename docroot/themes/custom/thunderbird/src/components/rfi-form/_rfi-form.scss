@@ -1,0 +1,31 @@
+#rfi-container {
+  // Temporarily replace image - TODO: Add media field to form
+  .uds-image-text-block-image-container {
+    background-size: cover;
+    background-position: center;
+    background-image: url('/themes/custom/thunderbird/assets/img/rfi-background.jpg');
+    padding-bottom: 25%;
+
+    img {
+      display: none;
+    }
+  }
+
+  .uds-image-text-block-text-container {
+    .rfi-progress {
+      .progress-bar {
+        background-color: $blue-mid;
+      }
+    }
+
+    .uds-rfi-form-wrapper {
+      h2 {
+        span {
+          box-shadow: none;
+          background: none;
+          color: inherit;
+        }
+      }
+    }
+  }
+}

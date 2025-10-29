@@ -1,0 +1,22 @@
+uuid: 883d64c2-18b7-4bb3-9f57-53e8fc847462
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.knowledge_network
+id: taxonomy_term.knowledge_network.status
+field_name: status
+entity_type: taxonomy_term
+bundle: knowledge_network
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

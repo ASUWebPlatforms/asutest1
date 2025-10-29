@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: ebb58216-2f46-439e-8ebf-8561420a6119
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+filename:
+  -
+    value: kaison_afew_year_back_and_today.png
+uri:
+  -
+    value: 'public://article/kaison_afew_year_back_and_today.png'
+    url: /sites/default/files/article/kaison_afew_year_back_and_today.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 364325
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-26T22:22:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-26T22:22:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95

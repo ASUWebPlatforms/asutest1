@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 6b694161-c1cd-4cd8-a941-797abc8a2319
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-08-23T15:38:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+title:
+  -
+    value: 'Arizona State University assisting with efforts to help Afghan women escape Taliban'
+created:
+  -
+    value: '2021-08-23T15:38:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-23T15:38:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /Khagram-Cavuto-Artemis
+body:
+  -
+    value: '<p><span>ASU Thunderbird School of Global Management Director-General and Dean Sanjeev Khagram on how the university is providing support to Afghan women.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-08-23T08:30:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 533
+    height: 310
+    target_type: file
+    target_uuid: 23e42e37-ae1d-4725-8649-2c9391a4d8fd
+field_news_link:
+  -
+    uri: 'https://video.foxbusiness.com/v/6268801505001'
+    title: 'Arizona State University assisting with efforts to help Afghan women escape Taliban'
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: 'FOX Business'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc
+    file:
+      - file.image.23e42e37-ae1d-4725-8649-2c9391a4d8fd

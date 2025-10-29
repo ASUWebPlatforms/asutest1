@@ -1,0 +1,47 @@
+label: Магазини
+display:
+  default:
+    display_title: Головне
+    display_options:
+      title: Магазини
+      fields:
+        commerce_store_bulk_form:
+          action_title: 'З вибраним'
+        is_default:
+          label: Базово
+          separator: ', '
+        name:
+          label: 'Назва (ім''я)'
+          separator: ', '
+        changed:
+          label: Оновлено
+          separator: ', '
+        type:
+          label: Тип
+          separator: ', '
+        operations:
+          label: Операції
+      pager:
+        options:
+          tags:
+            next: 'наступна ›'
+            previous: '‹ попередня'
+            first: '« перша'
+            last: 'остання »'
+          expose:
+            items_per_page_label: 'Елементів на сторінку'
+            items_per_page_options_all_label: '- Усе -'
+            offset_label: Зміщення
+      exposed_form:
+        options:
+          submit_button: Застосувати
+          reset_button_label: Скинути
+          exposed_sorts_label: 'Впорядкувати за'
+          sort_asc_label: Зрост
+          sort_desc_label: Спад
+      filters:
+        type:
+          expose:
+            label: Тип
+  page_1:
+    display_title: Сторінка

@@ -1,0 +1,24 @@
+{#
+/**
+ * @file
+ * Template for a Stats Carousel block.
+ */
+#}
+{% set classes = ([
+  'stats',
+  'stats-carousel'
+])
+%}
+{% extends 'block.html.twig' %}
+
+{% block content %}
+  {{ attach_library('thunderbird/stats-library') }}
+
+  <div class="container carousel">
+    {% for key,value in content.field_signpost_icon['#items'] %}
+      <div class="slide">
+        {{ content.field_signpost_icon[key] }}
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}

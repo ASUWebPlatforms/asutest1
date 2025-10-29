@@ -1,0 +1,68 @@
+uuid: 76173fac-c67a-4f36-bdb3-355768fab995
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.gdmi_assessment
+    - core.entity_view_mode.commerce_product.card
+    - field.field.commerce_product.gdmi_assessment.body
+    - field.field.commerce_product.gdmi_assessment.field_assessment_webform
+    - field.field.commerce_product.gdmi_assessment.field_image
+    - field.field.commerce_product.gdmi_assessment.field_participants_expansion
+    - image.style.gallery_md
+  module:
+    - commerce_product
+    - layout_builder
+    - media
+    - text
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+id: commerce_product.gdmi_assessment.card
+targetEntityType: commerce_product
+bundle: gdmi_assessment
+mode: card
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_image:
+    type: media_thumbnail
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: gallery_md
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  title:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: true
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  variations:
+    type: commerce_add_to_cart
+    label: hidden
+    settings:
+      combine: true
+    third_party_settings: {  }
+    weight: 3
+    region: content
+hidden:
+  created: true
+  field_assessment_webform: true
+  field_participants_expansion: true
+  langcode: true
+  search_api_excerpt: true
+  stores: true
+  uid: true

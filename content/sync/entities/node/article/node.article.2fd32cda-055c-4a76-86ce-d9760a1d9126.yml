@@ -1,0 +1,110 @@
+uuid:
+  -
+    value: 2fd32cda-055c-4a76-86ce-d9760a1d9126
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-06T18:26:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a378dcd0-fe4d-42ea-85bc-286698545ba0
+title:
+  -
+    value: 'Argentina’s President Macri''s state visit to Spain'
+created:
+  -
+    value: '2017-03-20T21:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-06T18:26:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/argentina-president-macri-visits-spain
+body:
+  -
+    value: |-
+      <div style="text-align: center;"><em>Summary: Argentina’s president recently addressed the Spanish Congress during a February 2017 state visit to promote relations between the countries, including their respective roles in restarting negotiations between the European Union and the Mercosur trading bloc. Although President Macri's address was directed at Spanish business investment into Argentina, it may also signal future opportunities in Argentina for companies from other regions. Read the story below...</em></div>
+      <div style="padding-left: 30px;"><br>
+      <div style="padding-left: 30px;" class="caption  mceTemp draggable">
+      <div style="width: 552px; padding-left: 30px;" class="caption-width-container">
+      <div style="width: 552px;" class="caption-inner">[[{"type":"media","fid":"4565","view_mode":"default","fields":{},"attributes":{"alt":"Spain's King Felipe and Queen Letizia with Macri and his wife Juliana Awada","title":"Spain's King Felipe and Queen Letizia with Macri and his wife Juliana Awada","height":"277","width":"552","class":"panopoly-image-original media-element file-default"}}]]
+      <p style="padding-left: 30px;" class="caption-text">&nbsp;</p>
+      </div>
+      </div>
+      </div>
+      <br><strong></strong></div>
+      <div style="padding-left: 30px;"></div>
+      <div style="padding-left: 30px;"><strong>Argentina’s President Macri begins state visit to Spain</strong></div>
+      <div style="padding-left: 30px;"><!--block-->&nbsp;</div>
+      <div style="padding-left: 30px;"><!--block-->Accompanied by more than 200 business leaders, Macri will be focusing his four-day visit on persuading Spanish investors to return to his country.</div>
+      <div style="padding-left: 30px;"><!--block-->&nbsp;</div>
+      <div style="padding-left: 30px;"><!--block-->“We want Spain to occupy the role it once did, we want it to take part in a grand infrastructure plan,” said Argentinean Foreign Minister Susana Malcorra at a press conference earlier this week. The objective of the visit, as Spain’s Economy Minister Luis De Guindos has already noted, is for Argentina to be Spain’s “preferential investment destination.”<br><br></div>
+      <div style="padding-left: 30px;">
+      <div class="blue-header-block-wrapper">
+      <div class="blue-header-block-inner-wrapper">
+      <p style="text-align: center;"><strong>Strategic Global Influence &amp; Negotiation<br>October 2-5, 2017 | Tempe, AZ</strong></p>
+      <p style="text-align: center;"><a class="btn btn-primary" href="https://thunderbird.asu.edu/executive-education/programs/strategic-influence-negotiation?sd=KNspainvisit">Learn More</a></p>
+      </div>
+      </div>
+      <p class="wysiwyg-break">&nbsp;</p>
+      </div>
+      <div><a href="http://elpais.com/elpais/2017/02/22/inenglish/1487768466_658025.html"><em>Read the full article.</em></a><br><br><br><em><br></em></div>
+    format: basic_html
+    processed: ''
+    summary: 'Although President Macri''s recent address to the Spanish congress was directed at Spanish business investment into Argentina, it may also signal future opportunities in Argentina for companies from other regions.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Spain''s King Felipe and Queen Letizia with Macri and his wife Juliana Awada'
+    title: 'Spain''s King Felipe and Queen Letizia with Macri and his wife Juliana Awada'
+    width: 980
+    height: 492
+    target_type: file
+    target_uuid: ece1c97d-dfb8-4d2b-8642-ad7f2f27237f
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+      - user.user.a378dcd0-fe4d-42ea-85bc-286698545ba0
+    file:
+      - file.image.ece1c97d-dfb8-4d2b-8642-ad7f2f27237f
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

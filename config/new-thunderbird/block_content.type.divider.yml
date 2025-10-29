@@ -1,0 +1,10 @@
+uuid: f7bc0321-07c1-4f23-8448-fd3b3111e0af
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pModceJpAmDtH-GntH-CqC7RaoHyzztRSlXaC2pbhck
+id: divider
+label: Divider
+revision: 0
+description: 'Add spacing between blocks.'

@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: 461aff17-73ef-4460-a6b4-81ac7c4d9b97
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-11-05T19:06:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Procter & Gamble Versus Nelson Peltz'
+created:
+  -
+    value: '2018-11-05T19:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-11-05T19:06:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-18-0008
+body:
+  -
+    value: "<p>The case uses the backdrop of a bitter battle between Nelson Peltz, the activist shareholder and founder of Trian Partners and the management of Procter &amp; Gamble. The battle focused on the future strategic direction of the company. While Nelson Peltz identified a host of concerns ranging from poor brand management and innovation failures to weak corporate governance and P&amp;G's insular culture, the management of P&amp;G countered that it had a sound strategy in place that it was executing and that the initial results were indeed quite positive. The case explores the major strategic questions that P&amp;G confronts at the time of the battle. It offers a wealth of information about trends in the fast moving consumer goods sector globally allowing for a nuanced discussion of strategic options available to competing firms. Combined with a discussion of management imperatives at P&amp;G, the case provides the basis for the key decisions that the reader is expected to make regarding the proxy battle.</p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-18-0008
+field_case_page_length:
+  -
+    value: '15 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1859f567-6035-46bd-a7ea-243e41c3ad3c
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: "This case is ideally suited for an advanced strategy audience preferably in a graduate level course that deals with both finance and strategy issues. When used at that level, the case lends itself to the application of standard analytical frameworks such as industry analysis, global strategy typologies, and institutional voids in emerging markets. For an advancing student, the case study illustrates the manner in which the basic concepts of strategy formulation and analysis gain in complexity in the context of very large publicly traded multinationals in contexts that are witnessing monumental change. It is also ideal as a platform for discussing the intersection between strategy and finance from the perspective of activist investors, a topic of immense interest among executives at publicly traded companies.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.1859f567-6035-46bd-a7ea-243e41c3ad3c
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

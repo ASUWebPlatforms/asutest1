@@ -1,0 +1,19 @@
+uuid: 02d0c400-1cc4-41ce-86ce-bd550fe9dcda
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_case_series_subject
+    - node.type.case_series
+id: node.case_series.field_case_series_subject
+field_name: field_case_series_subject
+entity_type: node
+bundle: case_series
+label: Subject
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

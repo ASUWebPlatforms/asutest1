@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: a1afcf47-b61d-4fb8-8433-b9156faca55f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-11-09T21:26:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'CH2M Hill: A Private Firm in a Public World'
+created:
+  -
+    value: '2016-11-09T21:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-11-09T21:26:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-16-0009
+body:
+  -
+    value: '<p>CH2M Hill was an employee-owned and controlled professional engineering services firm providing engineering, construction, consulting, design and design-build, procurement, engineering-procurement-construction (EPC), operations and maintenance, program management and technical services to customers all over the world. A large portion of the company’s project business was funded by governments. With $5.9 billion in sales in 2015 and 25,000 employees worldwide, the company was a global player. But in 2014 CH2M Hill posted record losses. A multitude of project and contract cost overruns around the world had resulted in losses that threatened the firm’s very survival. A private capital equity injection had provided critical refinancing – but at the loss of pure employee ownership and control. Now in 2016, after returning to profitability, many of the firm’s core owners, its employees, questioned whether the firm’s unique employee ownership structure would survive.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-16-0009
+field_case_page_length:
+  -
+    value: '14 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2fc90aaf-3837-44e7-8ce9-2649e97c9cb6
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: USA/Global
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: 'This case has been used in degree and non-degree programs. The case highlights the evolution of a private, employee-owned company, into a hybrid entity in which a private equity investor has growing interest and influence. Corporate pursuit of growth in recent years had moved the firm into industry segments of declining profitability and increasing business risk. The company’s declining fortunes in recent years had resulted in rising debt, forcing the outside equity injection from a private equity investor, leaving leadership with difficult choices in the near-future over a possible undesired initial public offering. The case ultimately raises the question as to whether its employee ownership structure was compatible with corporate growth going-forward.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_industry.2fc90aaf-3837-44e7-8ce9-2649e97c9cb6
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

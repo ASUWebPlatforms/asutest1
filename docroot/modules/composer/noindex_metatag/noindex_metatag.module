@@ -1,0 +1,100 @@
+<?php
+
+/**
+ * @file
+ * Contains the noindex_metatag module.
+ */
+
+/**
+ * Implements hook_page_attachments().
+ */
+function noindex_metatag_page_attachments(array &$attachments) {
+
+  $no_index = FALSE;
+  $current_path = \Drupal::service('path.current')->getPath();
+  $relative_path = \Drupal::service('path_alias.manager')->getAliasByPath($current_path);
+  $host = \Drupal::request()->getHost();
+
+  // Get the configurations.
+  $routes_settings = \Drupal::config('noindex_metatag.routes');
+  $disable_routes = $routes_settings->get('disable_routes', '');
+  $enable = $routes_settings->get('enable_noindex', '');
+  $disable_routes = explode("\n", $disable_routes);
+
+  if ($enable) {
+    foreach ($disable_routes as $route) {
+      $route = trim($route);
+
+      $start = noindex_metatag_start_string_value($route, '/');
+      $end = noindex_metatag_end_string_value($route, '*');
+
+      if ($start && $end) {
+        $string = substr_replace($route, "", -1);
+        $no_index = noindex_metatag_start_string_value($relative_path, $string);
+      }
+      elseif ($start) {
+        $string = substr_replace($route, "", 1);
+        $no_index = noindex_metatag_start_string_value($relative_path, $route);
+      }
+      elseif ($end) {
+        $string = substr_replace($route, "", -1);
+        $no_index = noindex_metatag_start_string_value($host, $string);
+      }
+
+      if ($no_index) {
+        if (isset($attachments['#attached']['html_head'])) {
+          foreach ($attachments['#attached']['html_head'] as $key => $val) {
+            foreach ($val as $meta) {
+              if (isset($meta['#attributes']['name']) && ($meta['#attributes']['name'] == 'robots')) {
+                $attachments['#attached']['html_head'][$key][0]['#attributes']['content'] = 'noindex';
+              }
+              else {
+                $robots = [
+                  '#tag' => 'meta',
+                  '#attributes' => [
+                    'name' => 'robots',
+                    'content' => 'noindex',
+                  ],
+                ];
+                $attachments['#attached']['html_head'][] = [$robots, 'robots'];
+              }
+            }
+          }
+        }
+        else {
+          $robots = [
+            '#tag' => 'meta',
+            '#attributes' => [
+              'name' => 'robots',
+              'content' => 'noindex',
+            ],
+          ];
+          $attachments['#attached']['html_head'][] = [$robots, 'robots'];
+        }
+      }
+
+    }
+  }
+}
+
+/**
+ * Function to check start string value.
+ */
+function noindex_metatag_start_string_value($string, $startStringValue) {
+  if ($startStringValue) {
+    $len = strlen($startStringValue);
+    return (substr($string, 0, $len) === $startStringValue);
+  }
+  return FALSE;
+}
+
+/**
+ * Function to check end string value.
+ */
+function noindex_metatag_end_string_value($string, $endStringValue) {
+  $len = strlen($endStringValue);
+  if ($len == 0) {
+    return TRUE;
+  }
+  return (substr($string, -$len) === $endStringValue);
+}

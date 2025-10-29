@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: e5778c0d-a145-4c23-8611-d676d778e5e8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T23:07:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Commercial Customer Service Bank One'
+created:
+  -
+    value: '2016-07-26T23:07:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T23:07:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a20-03-0015
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>When Jamie Dimon took over as CEO of Bank One in 2000, the Bank''s shareholders barraged him with questions and complaints about customer service. They wanted to know what he planned to do to improve customer service at Bank One, the sixth largest bank in the U.S. Dimon made customer service one of the top priorities he tackled during the first two years of his leadership. He set up systems to track, measure and reward the quality of customer service.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A20-03-0015
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8bed5133-6131-4fce-986d-7d2f30371afe
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: US
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: eca46972-c62f-4657-94af-264a9afd7f81
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a940c00d-3667-46c8-af69-61c90ab77b45
+field_teaching:
+  -
+    value: "To examine how Bank One, sixth largest Bank in the U.S. restored consumer confidence in its faltering customer service. To discover strategies to continuously improve commercial service at Bank One.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.8bed5133-6131-4fce-986d-7d2f30371afe
+      - taxonomy_term.case_series_categories.eca46972-c62f-4657-94af-264a9afd7f81
+      - taxonomy_term.case_series_fields.a940c00d-3667-46c8-af69-61c90ab77b45

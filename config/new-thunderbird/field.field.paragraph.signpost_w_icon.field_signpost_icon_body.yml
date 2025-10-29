@@ -1,0 +1,26 @@
+uuid: 49e053ab-baa7-4ba3-8807-40a7ea55eba3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_signpost_icon_body
+    - paragraphs.paragraphs_type.signpost_w_icon
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - plain_text
+id: paragraph.signpost_w_icon.field_signpost_icon_body
+field_name: field_signpost_icon_body
+entity_type: paragraph
+bundle: signpost_w_icon
+label: Content
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

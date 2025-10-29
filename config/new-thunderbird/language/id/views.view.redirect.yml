@@ -1,0 +1,21 @@
+label: Pengalihan
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sortir dengan'
+          sort_asc_label: 'Urutan turun'
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Jumlah item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+            offset_label: Letak
+      fields:
+        created:
+          label: Dibuat
+      title: Pengalihan
+  page_1:
+    display_title: Halaman

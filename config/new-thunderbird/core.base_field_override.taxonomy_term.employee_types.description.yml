@@ -1,0 +1,20 @@
+uuid: fdeedcac-23f4-400f-bc9f-738ca4c9c8af
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.employee_types
+  module:
+    - text
+id: taxonomy_term.employee_types.description
+field_name: description
+entity_type: taxonomy_term
+bundle: employee_types
+label: Description
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

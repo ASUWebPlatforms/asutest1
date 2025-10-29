@@ -1,0 +1,18 @@
+uuid: 1fc10a83-0a76-475e-aacc-5a2abbc11f2f
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.coe
+id: node.coe.metatag
+field_name: metatag
+entity_type: node
+bundle: coe
+label: 'Metatags (Hidden field for JSON support)'
+description: 'The meta tags for the entity.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: map

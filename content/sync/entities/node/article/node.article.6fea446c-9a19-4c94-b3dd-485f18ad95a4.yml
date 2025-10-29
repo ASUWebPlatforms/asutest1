@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 6fea446c-9a19-4c94-b3dd-485f18ad95a4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:04:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'How to put the HUMAN back in HR Experiences'
+created:
+  -
+    value: '2017-09-27T17:14:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:04:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-put-human-back-hr-experiences
+body:
+  -
+    value: "<p><span>Today, companies need to win the hearts and minds of employees. To be successful, organizations must provide positive experiences that inspire employees to do the best work of their lives. A positive employee experience is an impactful and powerful – and ultimately human – experience; one in which employees become able, over time, to invest more of their entire selves into the workplace. If employees experience higher levels of humanity at work, they tend to perform better, are more likely to exert extra effort at their jobs, and are less likely to quit companies.</span></p>\r\n<p>What can organizations do to make tangible improvements in employee engagement, retention, workplace culture, and recruitment? I spoke to Chris French, Vice President of Customer Success at employee recognition firm Globoforce, who believes that to best move the needle in each area, HR leaders must shift their focus from traditional human capital management processes to creating a more human employee experience. He shared recent insights from a Globoforce/SHRM report surveying nearly 800 HR leaders and practitioners in support:</p>\r\n<h3>Retaining your best employees is getting harder.</h3>\r\n<p>This is the second year in a row that retention and employee turnover top the list of HR challenges as indicated by nearly half of all organizations surveyed (46%). It’s no surprise, really, when you consider that Bureau of Labor Statistics data show the ratio of unemployed persons per job opening was 1.4 in September 2016 – nearly the lowest since January 2001.</p>\r\n<p>A few years ago, workers might have tolerated a less than satisfactory experience at work. In today’s job market though, the power is in the hands of job seekers. Bersin by Deloitte, an HR research and advisory firm, estimates that organizations lose more than $100,000 for every employee who leaves. This doesn’t include other indirect costs such as lost client relationships, institutional knowledge, and previous training for the employee leaving.</p>\r\n<h3>Continuous positive feedback is becoming more important.</h3>\r\n<p>Employees are willing to go above and beyond when they are in a work environment where they feel appreciated and recognized for their efforts. Most organizations have codified the behaviors they need every employee to demonstrate for the organization to succeed. Many call these behaviors “core values,” though other terms are also used such as “leadership standards,” or “success behaviors.” When positive feedback is linked to one of these defined, desired behaviors or core values, it’s a “values-based recognition program.” In fact, HR professionals with values-based recognition are nine times more likely to rate their program as excellent. They perceive values-based recognition programs as having a high return on investment when it comes to employee engagement, adding humanity to the workplace, reinforcing corporate values, and increasing employee happiness.</p>\r\n<h3>Invest 1 percent or more of payroll toward a rewards and recognition budget.</h3>\r\n<p>Do you want to build a healthy, productive corporate culture? If so, you need happy employees. The Boston Consulting Group and The Network recently surveyed 200,000 people from 189 countries and found the most important job element for all employees is appreciation for their work. Companies that spend 1 percent or more of their payroll toward recognizing employees are nearly three times as likely to rate their program as excellent (26 percent), compared to companies that spend less than 1 percent on employee recognition (9 percent) because the increased frequency of recognition and positive feedback creates a fundamentally different employee experience. And this experience helps attract job candidates, retain employees, and deliver strong ROI.</p>\r\n<h3>Instill more human workplace programs.</h3>\r\n<p>As organizations strive to create positive employee experiences, they’re also focusing on bringing more humanity into the workplace. A human workplace acknowledges employees’ unique strengths and empowers individuals, strengthens relationships, and provides a clear purpose aligned with achievable goals. The Globoforce/SHRM 2016 survey finds that HR leaders are most likely focusing on trying to create a more human workplace (86 percent), followed by business unit leaders and managers (57 percent), and lastly senior leadership or executive teams (52 percent). The data also shows those who win culture awards are more likely to focus on recognition and appreciation, corporate citizenship or charity, and diversity and inclusion.</p>\r\n<h3>Create more coaches, not managers.</h3>\r\n<p>The role of the manager is fundamentally changing from one of “command and control” to “inspire and empower.” Decades of research have long proven the need for managers and leaders to provide higher levels of empathy toward employees – with the aim to develop and grow their respective skills and strengths. Forward-thinking companies worldwide are driving this shift toward contemporary management where managers become mentors to their people and teams.</p>\r\n<p>Many companies spend a lot of time and money on performance reviews, but how effective are they? Forty percent of those surveyed said they do not think their organization’s performance reviews are an accurate appraisal of employees’ work. While some annual reviews may miss the mark, the 2016 Globoforce/SHRM survey shows that coaching is an important piece of turning performance management into an ongoing conversation, as opposed to a once-a-year meeting (45 percent said coaching is “very important” and 93 percent said managers need more training on how to coach employees).</p>\r\n<p>French adds that from performance reviews to performance ratings, annual bonuses to crowd-sourced rewards and pay, forward-thinking organizations are looking past old ways of workplace thinking, and building new ways to connect the modern workforce. But to best succeed, the onus is on organizations to build work cultures that truly inspire their people to achieve their fullest potential. They do this by treating employees as humans rather than simply an output of productivity.</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1080
+    height: 628
+    target_type: file
+    target_uuid: c4a42064-13f0-4260-b31b-70ceb920e5f0
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.c4a42064-13f0-4260-b31b-70ceb920e5f0
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

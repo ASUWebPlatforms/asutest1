@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: dd7737a7-0890-4cdb-81f1-92ff36f2eedd
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-02-05T22:38:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Ryanair: Can a leopard change its spots?'
+created:
+  -
+    value: '2019-02-05T22:38:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-05T22:38:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-18-0011
+body:
+  -
+    value: '<p>The case provides a discussion of the birth and evolution of Ryanair in Europe.&nbsp; It paints a rich picture of the avenues of competitive advantage that the company had built in its march toward dominance among the low cost carriers segment of the aviation business in Europe.&nbsp; The early segment of its history provides a very useful discussion to explore fundamental concepts in strategy such as competitive positioning, activity maps, low cost strategies, and tradeoffs.&nbsp; The latter half of the case describes the transformation of Ryanair from a pure low cost provider to more of a value added company that seeks to enhance the overall customer experience within the constraints of a low cost model.&nbsp; It closes with a set of issues that surface when Ryanair undertakes the massive shift in its strategy to become a more customer friendly airline company.&nbsp; The later half of the case is an ideal vehicle to reinforce the concept of tradeoffs in strategy and the need for strategic clarity around what a company will do and what it will not do.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-18-0011
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4e3812e5-0753-4588-a7c2-ed4efdbbc48e
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: 'European Union'
+field_case_source:
+  -
+    value: 'Published materials'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1909abf6-6c12-48f9-9484-3fe80c280fb8
+field_teaching:
+  -
+    value: "(a)\tTo provide a grounded, actionable approach to thinking through complex issues that confront strategy makers (i.e., which customers should we serve/not serve? How should we translate our strategic thinking into a business model? How should we position ourselves for sustainable advantage?)\r\n(b)\tTo discuss the creation and execution of large scale change management programs that require a host of changes in structure, organizational culture, organizational strategy, as well as organizational systems and processes"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_industry.4e3812e5-0753-4588-a7c2-ed4efdbbc48e
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.1909abf6-6c12-48f9-9484-3fe80c280fb8

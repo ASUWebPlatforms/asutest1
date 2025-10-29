@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: dcc1b714-79b6-433b-924e-80130eb99638
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: knowledge_network_tags
+    target_type: taxonomy_vocabulary
+    target_uuid: c352cb75-6f00-43ac-b7de-72fb275f69be
+revision_created:
+  -
+    value: '2021-10-01T10:39:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Organizational Culture'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2021-10-01T10:39:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

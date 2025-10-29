@@ -1,0 +1,22 @@
+uuid: 156be260-3d37-4632-9a2a-694ede716853
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.career_path
+id: node.career_path.sticky
+field_name: sticky
+entity_type: node
+bundle: career_path
+label: 'Sticky at top of lists'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

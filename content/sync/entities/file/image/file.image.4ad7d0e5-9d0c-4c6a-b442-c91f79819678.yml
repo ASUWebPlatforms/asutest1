@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 4ad7d0e5-9d0c-4c6a-b442-c91f79819678
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+filename:
+  -
+    value: nigeria_-_visiting_incubators.jpg
+uri:
+  -
+    value: 'public://nigeria_-_visiting_incubators.jpg'
+    url: /sites/default/files/nigeria_-_visiting_incubators.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 6074353
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-09-22T16:26:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T16:26:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234

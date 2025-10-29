@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 1bbb5542-9747-43e9-aed6-5dcea442c83d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-12-05T01:38:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'T-birds Discuss Business in South Africa'
+created:
+  -
+    value: '2017-12-01T01:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-05T01:38:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/t-birds-discuss-business-south-africa
+body:
+  -
+    value: '<p>[[{"fid":"10108","view_mode":"default","fields":{"format":"default"},"type":"media","field_deltas":{"1":{"format":"default"}},"attributes":{"alt":"2017 Summerim - South Africa","height":"390","width":"640","style":"display: block; margin-left: auto; margin-right: auto;","class":"panopoly-image-video media-element file-default","data-delta":"1"},"link_text":null}]]</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 856
+    height: 532
+    target_type: file
+    target_uuid: 7679ce2c-6120-407d-b09a-8ba658167f58
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.7679ce2c-6120-407d-b09a-8ba658167f58
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

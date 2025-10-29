@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: ef7cbc29-9b59-45d9-8438-cb262e6e164c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-31T16:52:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Chapter Connections May 2017'
+created:
+  -
+    value: '2017-05-30T15:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-31T16:52:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/chapter-connections-may-2017
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5331\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Munich-</strong> First Tuesday from L-R &nbsp;Wally Schoch '77, Larry Schulz '78 , Tom Lipton, Athan Kostopoulos '85 and Birte Lesoigne.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5332\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Delhi-</strong> hold their 5th consecutive T-bird gathering.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5333\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Belgrade, Serbia-</strong> Meets often and on Thursday May 4 they had a T-bird gathering in the residency of US ambassador to Serbia Kyle R. Scott '80. Other T-birds in attendance Bojana Ristic '14, Milica Picuric '10 and Vladimir Pajovic '01.</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5334\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Milwaukee-</strong> May 2nd First Tuesday crew. Rafael Galarza ’91, Chapter Leader Alexandra Sielaff ’89, Dan Curtin ’83, Dave Reed ’89 &amp; Jodi Schneider ’15.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5335\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>DC-</strong> May First Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5336\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>South Florida-</strong> May First Tuesday.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5337\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Little Rock-</strong> Inaugural May First Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5338\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Denver-</strong> 25 alumni got together for the May 1 Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5339\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Kona-</strong> L-R: Chapter Leader Jim Echle ‘72, Michiyo Echle (sitting) &nbsp;Maryann Engers, and Scott Engers ‘82</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5342\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Sao Paulo-</strong> May 22 Thunderbird CEO Director General Allen Morrison and Chief Engagement Officer Patrick McDermott met with Chapter Leader Pedro Carvalho ’94 and the Sao Paulo alumni.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5340\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>Luxembourg-</strong> Chapter Leader Daniel Partel ’67 and the Luxembourg alumni met on Monday May 8.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"5341\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><strong>London-</strong> May First Tuesday.</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: c01bccf1-9075-4e8f-81f1-8c019d753388
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.c01bccf1-9075-4e8f-81f1-8c019d753388
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

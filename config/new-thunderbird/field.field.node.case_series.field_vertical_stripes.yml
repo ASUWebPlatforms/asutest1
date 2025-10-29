@@ -1,0 +1,23 @@
+uuid: 0eff95fa-6106-4590-953f-db6e3655c58b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_vertical_stripes
+    - node.type.case_series
+id: node.case_series.field_vertical_stripes
+field_name: field_vertical_stripes
+entity_type: node
+bundle: case_series
+label: 'Remove Vertical Stripes'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

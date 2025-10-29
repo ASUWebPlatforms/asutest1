@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 16a03b33-3bd8-4405-9f2b-6458240457d9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Thunderbird collaborates with U.S.- Afghan Women’s Council partners to launch Afghan Women Entrepreneurs Training Toolkit'
+created:
+  -
+    value: '2011-09-06T23:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /afghan-women-entrepreneurs-training
+body:
+  -
+    value: "<div>\r\n<div>[[{\"fid\":\"2905\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Training Toolkit\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Training Toolkit\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</div>\r\n<p>Eva Weigold-Schultz, Terry Neese, Wynona Heim, and Noa Meyer at the Tool Kit launch at Georgetown University</p>\r\n</div>\r\n<p>Afghan women play a vital role in growing the Afghan economy.&nbsp; They are opening businesses in industries that range from traditional handicrafts to construction and consulting companies.&nbsp; They are providing not only goods and services to their communities, but are creating jobs and generating income to ensure their families are well-fed and their children are given opportunities that they never had under the Taliban.&nbsp; All of these efforts are having a positive effect on Afghanistan’s stability and development.&nbsp; In 2010-11 Afghanistan’s GDP grew at an annual rate of 11%, compared to the global growth rate of 5% according to the IMF.&nbsp; This growth will need to continue for the short term if long-term stability is to be reached, especially given the 40% unemployment which is surely contributing to instability now.</p>\r\n<p>Afghan women are incredibly strong in spirit, believing in a brighter future for their children despite living in the most dangerous country in the world for women (<a href=\"http://www.trust.org/\">www.trust.org</a>&nbsp;Danger Poll, 2011).&nbsp; The entrepreneurial spirit, courage, and sheer determination of these Afghan women are second to none, but often they lack the family support, basic education and training that will help them grow their businesses to their full potential and maintain sustainability over time.&nbsp; The literacy rate among women in Afghanistan is estimated at around 13%, and 70-80% of Afghan females still face forced marriage (US Department of State data).</p>\r\n<p>As part of the&nbsp;<a title=\"US/Afghan Women's Council\" href=\"http://gucchd.georgetown.edu/76315.html\" target=\"_blank\">U.S.-Afghan Women’s Council</a>&nbsp;efforts, world-class business management training is offered to current and prospective women entrepreneurs through the Goldman Sachs&nbsp;<a title=\"10,000 Women\" href=\"http://www2.goldmansachs.com/citizenship/10000women/index.html\" target=\"_blank\"><em>10,000 Women</em>&nbsp;Program</a>,&nbsp;<a title=\"Project Artemis\" href=\"http://thunderbird.edu/about_thunderbird/thunderbird_good/afghanistan/project_artemis_afghanistan/index.htm\" target=\"_blank\">Project Artemis</a>&nbsp;here at Thunderbird School of Global Management, and Peace Through Business at the&nbsp;<a title=\"IEEW\" href=\"http://www.ieew.org/\" target=\"_blank\">Institute for Economic Empowerment of Women</a>.&nbsp; These programs have directly influenced hundreds of women entrepreneurs in Afghanistan, but there are thousands more that we have yet to reach.</p>\r\n<p>On Monday July 25th, the U.S./Afghan Women’s Council, in collaboration with Project Artemis at Thunderbird, Goldman Sachs&nbsp;<em>10,000 Women</em>, and the Peace Through Business Program at the Institute for the Economic Empowerment of Women launched an initiative called the Women’s Entrepreneurship Training Tool Kit.&nbsp; This initiative, made possible with funding from the U.S.-Afghan Women’s Council at Georgetown University through a grant from the Goldman Sachs Foundation, brought together the three business training programs to develop a “toolkit” of materials for program graduates to use in sharing entrepreneurial knowledge and practices with other Afghan women business owners – or aspiring business owners.&nbsp; Eva Weigold-Schultz, U.S.-Afghan Women’s Council, Noa Meyer, Goldman Sachs&nbsp;<em>10,000 Women</em>, Terry Neese, Peace Through Business, and myself from Project Artemis were on hand at the 2011 Peace Through Business International Women’s Economic Summit held at Georgetown University to introduce the Tool Kit.</p>\r\n<p>The toolkits are produced in the form of a set of workbooks designed and developed by faculty who have years of experience in training women entrepreneurs from Afghanistan.&nbsp; The workbooks, designed and developed by faculty from Thunderbird School of Global Management and&nbsp;<a title=\"Northwood University\" href=\"http://www.northwood.edu/\" target=\"_blank\">Northwood University</a>, pose a series of questions which first introduce aspiring entrepreneurs to the essential elements and pitfalls of starting a business, and then provide practical, how-to details on expanding and growing a new business.&nbsp; The workbooks will be provided in hard copy and electronic version to graduates of the three training programs, and to their alumni associations.</p>\r\n<p>Women trained under the U.S.-Afghan Women’s Council business programs often pay forward their knowledge to others in their communities in order to encourage business growth in their country.&nbsp; These women educate, mentor, speak at events, teach others to start and grow businesses, and share expertise in their particular industry. Graduates of our programs will now have this “toolkit” at their disposal to help them guide others in their communities who might come to them asking for their advice in starting a business.&nbsp; The toolkits are designed simply, so that a minimum of training is needed for the women to become the trainers.&nbsp; The women can use these workbooks in either a small group setting, or in a one-on-one environment, whichever best fits their situation.</p>\r\n<p>By providing these workbooks to women we work with, we hope to not only maximize the reach of our training programs and increase the number of successful Afghan women entrepreneurs, but to encourage greater networking, mentoring, and leadership among the women themselves. Through this ‘train the trainers’ initiative, U.S.-Afghan Women’s Council entrepreneurship programs hope to reach over 1,000 women each year in support of Afghanistan’s continued economic and social development.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

@@ -1,0 +1,19 @@
+uuid: b0c6d73f-c10d-4a4d-9cec-34086c066cd6
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.tabs_vertical
+    - field.storage.block_content.field_heading
+id: block_content.tabs_vertical.field_heading
+field_name: field_heading
+entity_type: block_content
+bundle: tabs_vertical
+label: Heading
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

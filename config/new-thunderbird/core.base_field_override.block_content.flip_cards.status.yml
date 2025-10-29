@@ -1,0 +1,22 @@
+uuid: 432d23ab-75ca-477d-bf95-eeb38aca2115
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.flip_cards
+id: block_content.flip_cards.status
+field_name: status
+entity_type: block_content
+bundle: flip_cards
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

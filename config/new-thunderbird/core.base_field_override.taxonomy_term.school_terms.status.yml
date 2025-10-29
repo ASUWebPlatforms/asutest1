@@ -1,0 +1,22 @@
+uuid: e8b72458-b984-43c7-9ed7-a2219cdf9c41
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.school_terms
+id: taxonomy_term.school_terms.status
+field_name: status
+entity_type: taxonomy_term
+bundle: school_terms
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

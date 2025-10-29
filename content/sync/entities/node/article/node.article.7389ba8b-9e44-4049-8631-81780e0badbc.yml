@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 7389ba8b-9e44-4049-8631-81780e0badbc
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:49:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'Fire a Misfit, Discover a Genius'
+created:
+  -
+    value: '2017-10-11T19:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:49:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/youre-going-get-fired-congratulations
+body:
+  -
+    value: "<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\"><em>Why Getting Fired Could Be The Best Thing For Your Career&nbsp;</em></h3>\r\n<p class=\"graf graf--p graf-after--h3\"><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">[[{\"fid\":\"8363\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Why Getting Fired Could Be the Best Thing for Your Career\",\"field_file_image_title_text[und][0][value]\":\"Why Getting Fired Could Be the Best Thing for Your Career\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Why Getting Fired Could Be the Best Thing for Your Career\",\"field_file_image_title_text[und][0][value]\":\"Why Getting Fired Could Be the Best Thing for Your Career\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Why Getting Fired Could Be the Best Thing for Your Career\",\"title\":\"Why Getting Fired Could Be the Best Thing for Your Career\",\"height\":\"217\",\"width\":\"433\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]Jerry Seinfeld realized it as soon as he read the script: his part was missing.&nbsp;</span>Oprah Winfrey learned the news in a different way. The network told her she was too emotional on camera and demoted the future media mogul to television’s graveyard, a daytime talk show.</p>\r\n<p class=\"graf graf--p graf-after--p\">Entrepreneurs get fired, too. Warren Buffett couldn’t hack it at Wharton. He went back to Omaha and finished up at the local state university. After he started Berkshire Hathaway, he had trouble convincing neighbors to invest at $19 a share. (Those shares are now worth $15 million&nbsp;<em>each.</em>)</p>\r\n<p class=\"graf graf--p graf-after--p\">For some, true north shines early in our careers. But most of us need an occasional reminder that we aren’t in the right place, that there is a better path waiting to be discovered. Only it means we need to get fired first.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">To paraphrase an old Wall Street expression, you start getting fired the day you take the job. There are many ways to approach this existential fact of life. Some prefer to stick it out and transform themselves to fit in with the zeitgeist, or maybe they are just a lucky son-in-law. Others wander around aimlessly as if part of some laboratory experiment, blaming everyone for their missteps. It’s always the boss’s fault.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">[[{\"fid\":\"8164\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<h3 class=\"graf graf--h3 graf-after--figure\">Then there are the self-discoverers</h3>\r\n<p class=\"graf graf--p graf-after--h3\">When they get fired, they take off. Part of the reason is they know that the right culture, the one that embraces their particular brand of crazy, will make all the difference in their lives. For Warren Buffett, it meant being close to home, a place where he could trust people.&nbsp;<span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">Those early investors stayed with Berkshire through ups and downs, which allowed the famed stock picker to become the greatest long-term investor in history.</span>&nbsp;Buffett is called the Oracle of Omaha not just because he sees into the future, but also because Omaha was the only place that would let him. And somehow, when he left the Ivy League doors of Wharton, he understood that.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Pocket Money</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Just like the dentist tells you, getting fired is going to hurt. But if your checking account is zilch, then getting fired is like having dental work without novocaine.</p>\r\n<p class=\"graf graf--p graf-after--p\">I have fired at least 50 people in my career. Before they even got to my office, I asked myself, what will they say to their families? The one thing you don’t want them to say is, “I’m broke, kids.” I’ve seen children pulled out of school or holidays abruptly canceled. There is no reason for that.</p>\r\n<p class=\"graf graf--p graf-after--p\">So, when you are given the boot, do your part to make sure it doesn’t happen. Admit defeat but instead of fighting the decision, be gracious and tell your soon to be ex-boss how much you have loved working for the company. Say that you want to leave on a high note and see about extending benefits, say, six months’ severance instead of eight weeks. Whatever you ask, having a financial cushion to fall back on is the difference between a stumble and a life that may crumble.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Feel the&nbsp;pain</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Losing a job is the eighth-biggest stressor in our lives, according to the Holmes and Rahe Stress Scale, weighing in at 47 points. The scale pegs the outer limit of stress at 300, so if you get the boot you are on your way to some kind of breakdown. Be kind to yourself.</p>\r\n<p class=\"graf graf--p graf-after--p\">There are many home brew remedies for dealing with job loss stress, including herbal tea. But for those who devote their lives to business, camomile blend isn’t going to do the trick. Recognizing that you might need to listen to the universe for a change and then transforming yourself with that knowledge are first steps. Like Jerry and Oprah, you will discover finding your true calling is not just the best, but the only revenge.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">The makeover</h3>\r\n<p class=\"graf graf--p graf-after--h3\">The opportunity has come to reinvent yourself. Why? Because that other version of you isn’t working, literally. While you may feel your firing was unfair, if you are honest, you probably recognize there was a disconnect. You can trace the outlines of alienation and missed signals. The times the boss put off your review or your coworkers didn’t answer your emails about how awful this place is. They understood better than you how to be an employee — and nothing more. That’s why we get fired. We forget we are only employees and start believing we are family.</p>\r\n<h3 class=\"graf graf--h3 graf-after--p\">Find your true&nbsp;north</h3>\r\n<p class=\"graf graf--p graf-after--h3\">When someone sends us packing, the first thing we must decide, should we go in a new direction? Hang out our own shingle? Take your time to sort this one out, it may be the most critical question in the next stage of your life. Inquire of the people you know and respect, including former co-workers, are you the entrepreneurial type or not? Skip the reflexive temptation to say, ‘I’m starting my own consulting company’, unless you really are a consultant. You know, the kind where someone prints up business cards, “The Joe Smith Group.” Only there is no group, only jobless Joe.</p>\r\n<p class=\"graf graf--p graf-after--p\">One of the smartest people I know, George Gilder, the well-known high-tech author, turned a setback into a sabbatical. In the late 1990s, he found himself on the beach and started to read about a new phenomenon called the internet. He took a yearlong retreat traveling around the country, meeting and talking to interesting people who clued him into where the world was going. That is when he launched his newsletter and conference business, which&nbsp;<em>Forbes</em>&nbsp;Magazine co-published.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">So go for it. Take the time. Don’t go into a cave, get into the market. Your life is too important to get lost again because you didn’t have a map. After you get fired, you know something others don’t: what you need to succeed and the kind of organization that will help make that happen. And, as Winston Churchill said, “Never, never, never, never give up.”</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">&nbsp;</p>\r\n<h4><span>Author’s Bio</span></h4>\r\n<p><em><span>Jeff&nbsp;Cunningham&nbsp;is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.&nbsp;</span></em></p>\r\n<p><em><span>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</span></em></p>\r\n<p><em><span>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;</span></em><a href=\"http://www.iconicvoices.tv/\"><em><span>Iconic Voices</span></em></a><em><span>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to&nbsp;JeffImmelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;</span></em><a href=\"http://www.jeffcunningham.com/\"><em><span>JeffCunningham.com.</span></em></a><em><span>&nbsp;</span></em></p>\r\n<p><em><span>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.&nbsp;</span></em></p>\r\n<p><em><span>He has also been a board director of 10 public companies.</span></em></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/you-are-brand-whats-your-tagline\">You Are a Brand. What's Your Tagline?</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/qa-part-one-global-negotiating-skills-are-different-and-essential\">Negotiating an International Deal? Better Know Your Cultural Cues</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/fear-failure-stopping-you\">Is Fear of Failure Stopping You?</a></p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1000
+    height: 658
+    target_type: file
+    target_uuid: 6694cb94-d12a-45ca-a248-46345029307a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.6694cb94-d12a-45ca-a248-46345029307a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

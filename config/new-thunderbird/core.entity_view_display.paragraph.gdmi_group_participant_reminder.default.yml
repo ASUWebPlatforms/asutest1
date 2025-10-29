@@ -1,0 +1,80 @@
+uuid: d671c26a-8f6e-4152-8fea-bbcab5ea6d61
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.gdmi_group_participant_reminder.field_date
+    - field.field.paragraph.gdmi_group_participant_reminder.field_days
+    - field.field.paragraph.gdmi_group_participant_reminder.field_message_body
+    - field.field.paragraph.gdmi_group_participant_reminder.field_message_title
+    - field.field.paragraph.gdmi_group_participant_reminder.field_message_type
+    - field.field.paragraph.gdmi_group_participant_reminder.field_reminder_sent
+    - field.field.paragraph.gdmi_group_participant_reminder.field_schedule_type
+    - paragraphs.paragraphs_type.gdmi_group_participant_reminder
+  module:
+    - datetime
+    - options
+    - text
+id: paragraph.gdmi_group_participant_reminder.default
+targetEntityType: paragraph
+bundle: gdmi_group_participant_reminder
+mode: default
+content:
+  field_date:
+    type: datetime_default
+    label: above
+    settings:
+      timezone_override: ''
+      format_type: medium
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_days:
+    type: number_integer
+    label: above
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_message_body:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 5
+    region: content
+  field_message_title:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  field_message_type:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_reminder_sent:
+    type: boolean
+    label: above
+    settings:
+      format: boolean
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 6
+    region: content
+  field_schedule_type:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  search_api_excerpt: true

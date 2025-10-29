@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 3a19257d-e523-48c2-bf89-3c2956ebf08f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+filename:
+  -
+    value: de_klerk.png
+uri:
+  -
+    value: 'public://article/de_klerk.png'
+    url: /sites/default/files/article/de_klerk.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 934591
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-05-17T20:54:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-17T20:54:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115

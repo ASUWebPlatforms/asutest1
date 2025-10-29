@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: 6bc4e2ff-cc90-4b68-ba39-efbe69cc5ec0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T23:22:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'AMD Medical Systems'
+created:
+  -
+    value: '2016-07-26T23:22:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T23:22:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-03-0023
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>AMD Medical Systems is a manufacturer of instrumentation for laparoscopy surgery, with a global product line and global market presence. Marketing activities are in their majority delegated to the local field organizations. By virtue of its growing population, increasing economic affluence, and liberal trade posture Mexico has become and attractive market for AMD products. Jorge Aguilar, the Mexico country manager, must develop a new pricing policy for AMD line of laparoscopic cholecystectomy (gall bladder removal) instruments. Given the structure of the Mexican market, in which the state is the dominant provider, pricing will be a key determinant of AMD''s ability to compete, attain market share goals, and deliver the financial returns demanded by headquarters.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-03-0023
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5f017537-6a4d-4b8e-9d69-45d5b73acec0
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: Mexico
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+  -
+    target_type: taxonomy_term
+    target_uuid: 507c0265-2c02-4a8a-a94e-ca9ce40c9b78
+field_teaching:
+  -
+    value: "Capstone marketing or international business course at undergraduate level, Marketing Strategy, Business-to-Business Marketing, or International Business course at MBA level.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.5f017537-6a4d-4b8e-9d69-45d5b73acec0
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946
+      - taxonomy_term.case_series_fields.507c0265-2c02-4a8a-a94e-ca9ce40c9b78

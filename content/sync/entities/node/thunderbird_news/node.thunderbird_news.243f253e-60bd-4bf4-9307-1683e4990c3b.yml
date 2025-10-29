@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 243f253e-60bd-4bf4-9307-1683e4990c3b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-05-03T17:36:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Space programmes boom as private-sector exploration takes off'
+created:
+  -
+    value: '2021-05-03T17:36:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-05-03T17:36:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/space-programmes
+body:
+  -
+    value: '<p>US universities rush to meet student demand driven by growth of SpaceX, Virgin Galactic and Blue Origin</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-05-03T10:30:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 1920
+    height: 1080
+    target_type: file
+    target_uuid: 7aed630e-7f67-4410-9810-e8441990d2af
+field_news_link:
+  -
+    uri: 'https://www.timeshighereducation.com/news/space-programmes-boom-private-sector-exploration-takes'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: 'Times Higher Education'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.7aed630e-7f67-4410-9810-e8441990d2af

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: b259168e-b3df-424b-988c-6d80daddb0bf
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'A Starry Night with the Rising Stars'
+created:
+  -
+    value: '2014-02-27T05:16:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/starry-night-rising-stars
+body:
+  -
+    value: "<p>One of the major reasons for the team to visit Cambodia was to meet with the Rising Stars. Rising Stars are young women with a unique passion for the development of their community and country. They have proven leadership potential and are interested in pursuing a university degree at the undergraduate or masters level, but they are unable to cover the full expenses of their education. Wedu helps these rising stars accomplish their dreams and make a difference in society.</p>\r\n<p>The team met with Monirath, Phearong and Chhorvy who are current Rising Stars with Wedu. The team also had a future rising star join them who brought a different perspective to the discussion. The conversations started off with basic introductions of everyone at the table. The current Rising Stars spoke about how helpful Wedu has been to their growth as a student over the past few months. The icebreakers were discussions about Cambodian social norms and places to visit. With time, the Rising Stars felt comfortable talking about how they support their families and make ends meet with just a few bread earners at home. It was a humbling experience to hear them discuss their financial obligations and conditions they live in.</p>\r\n<p>[[{\"fid\":\"2836\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"A Starry Night\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"A Starry Night\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"A Starry Night\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>It was very clear that student loans are a rare concept in Cambodia. Wedu indeed has a market that they could well capture with the right product. There is an immense need for funding higher education for these bright young women who seem so passionate about working for their community and country. Each one of these girls said they would chose to return to Cambodia on completion of their degree to help contribute to their country. The team took a lot of time to discuss FISAs and made efforts to convey that a FISA was different from a loan. The very thought of being under debt made the Rising Stars very uncomfortable. The team realized that communicating financial details to the parents of these Rising Stars could be a useful option.</p>\r\n<p>The team then got down to discussing the intricate details of the FISA model with the Rising Stars. The team ran some numbers with them on futuristic salary and the amount to be paid back based on the investment made by Wedu. The debate on how much is ‘too much’ to pay back the loan revealed a lot about the affordability of a decent lifestyle post-graduation and securing a good job. Despite assuming a random salary of $1000/month, the Rising Stars still found it tough to accept paying back $100/month to Wedu. The team found it interesting on how the rising stars negotiated to bring down the payback amount to 3% from the proposed 10% pay back on their income. &nbsp;The Rising Stars also spoke about how grateful they were to have mentors who Skype in with them for over 4 hours/month. These mentors not only boost their confidence but also guide and inspire them to focus on their goals and future dreams. &nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

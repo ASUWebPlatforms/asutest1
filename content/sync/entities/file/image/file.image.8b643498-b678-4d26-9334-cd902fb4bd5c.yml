@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 8b643498-b678-4d26-9334-cd902fb4bd5c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 0144467c-a20e-442d-a62a-b9822733750e
+filename:
+  -
+    value: gopr9130.jpg
+uri:
+  -
+    value: 'public://article/gopr9130.jpg'
+    url: /sites/default/files/article/gopr9130.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 2004137
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-09-20T07:05:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-20T07:05:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.0144467c-a20e-442d-a62a-b9822733750e

@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: dedda72a-475f-4178-ab25-2e99f85db811
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-09-11T17:21:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Thunderbird global affairs program harnesses historic events of 2020'
+created:
+  -
+    value: '2020-09-11T17:21:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-09-11T17:21:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/thunderbird-global-affairs-program-harnesses-historic-events-of-2020
+body:
+  -
+    value: '<p><span>In Arizona State University’s first academic program based entirely at its Washington, D.C., location, an innovative graduate curriculum is giving the initial cohort deep insights into how to address the 21st century’s most complex leadership challenges.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-09-11T10:15:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 1000
+    height: 600
+    target_type: file
+    target_uuid: e63505ec-e87b-41b5-a675-42d83123873a
+field_news_link:
+  -
+    uri: 'https://asunow.asu.edu/20200909-global-engagement-thunderbird-global-affairs-program-harnesses-historic-events-2020'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: 'ASU Now'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.e63505ec-e87b-41b5-a675-42d83123873a

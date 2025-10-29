@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: fe7af577-8daf-4b78-9aa5-0440cea59550
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Coconut Republic'
+created:
+  -
+    value: '2014-11-25T15:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/coconut-republic
+body:
+  -
+    value: "<div><br><img src=\"/sites/default/files/nc_coconut.jpg\" width=\"200\" height=\"150\" class=\"undefined\" hspace=\"10\" vspace=\"10\">As the fourth week of work begins we find ourselves scratching our heads. It’s not as though we feel we haven’t made progress, rather the coconut industry is not as cut-and-dry as we assumed it would be, or at least as we pictured it in our heads before coming here. A supply chain seems simple in strategy class case studies with all the participants fitting perfectly into their respective boxes; too bad this isn’t strategy class.</div>\r\n<div>Organizations, to a varying extent, are just that - organized. The people that engage in them are more-or-less active participants. In emerging markets and their industries (at least this one) that’s not always the case. Let's use our project as an example: Looking at the coconut farmers, those at the origin of the supply chain. It would be a stretch to say that they have elected to be coconut farmers, or even that they are active participants. Most of the time the reason they have coconut farms is because they are in possession of a piece of land that they've inherited. Coconut trees are very easy to grow so all the farmers really have to do is tend the land. After that the brokers are the ones that come to harvest the coconuts when it’s time. This gives the brokers all the power over pricing, but it alleviates the burden from the farmers of actually doing much work. The funny thing is that, even though all the farmers say they would like to receive a higher price for their coconuts they don’t seem very interested in taking the necessary steps to empower themselves.</div>\r\n<div><img src=\"/sites/default/files/coconut_bateau.jpg\" width=\"200\" height=\"150\" class=\"undefined\" hspace=\"10\" vspace=\"10\">Moving up the supply chain is where things start to get confusing. We believed that after the farmers there were only brokers and factories before the product went into C2O’s hands. This doesn’t seem to always be the case. First, there is the issue of a “cracking station”, the place where the water coconuts are opened and the water is extracted. Sometimes the brokers have their own cracking stations, sometimes cracking stations are independent. Sometimes when the cracking stations are independent they get the nuts from another intermediary that buys from the farmers; when this is the case it means there are four steps in between the farmers and C2O. Other times there is complete vertical integration where someone is both the broker and factory, and in some cases even has their own farms. Part of why this might be, and certainly something that makes tracking this down difficult at times, is because water is not the only reason to be in the coconut industry, but also the meat/flesh (“copra”). Although the copra from the kinds of coconuts used for water is minimal and sold only for sweet and value-added products (e.g. ice cream) these people might also deal in or process the coconuts that are harvested solely for copra use in coconut milk and oil.</div>\r\n<div><img src=\"/sites/default/files/dct_fresh.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1823 img__view_mode__default\" hspace=\"10\" vspace=\"10\">This can all be very confusing, and it would be false to say that we’ve completely unraveled the complexity of the industry. Other factors also play into the difficulty of discovery, such as lack of communication channels, lack of publication, and informal information. Trying to get names and numbers of the people we could or should contact is much more difficult than looking at the yellow pages (.com), and if we are lucky enough to acquire their information getting ahold of them and then actually speaking with them also poses a challenge. One thing is for sure: The TEM Lab experience certainly involves a great deal of ambiguity management.&nbsp;</div>\r\n<div></div>\r\n<div><img src=\"/sites/default/files/drunk_guy.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1824 img__view_mode__default\"></div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

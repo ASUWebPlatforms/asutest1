@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 4a7af67c-6a04-497b-806f-58043f3bf820
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-20T15:50:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Tales of Global Adventure: Expect Delays'
+created:
+  -
+    value: '2017-06-21T21:06:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-20T15:50:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/tales-global-adventure-expect-delays
+body:
+  -
+    value: |-
+      <p>Global misadventures with a Nigerian passport</p>
+      <p><i>By Gbemi Disu ’06 / Nigeria and Beyond </i></p>
+      <p>T here are many reasons why I love being Nigerian. My country represents friendly, warm people, delicious food, a great sense of style and an enterprising spirit. However, seamless global travel is <i>not </i>one of the reasons I love being Nigerian. Before you conclude that I am being too harsh or prone to hyperbole, I will share with you some interesting episodes of my global misadventures of traveling with a Nigerian passport.</p>
+      <p><i><strong>2004 England:</strong> </i>Following a fun summer in the United Kingdom hanging out with friends and family to celebrate the start of my MBA program at Thunderbird, I decided to renew my student visa at the U.S. Embassy in London. I made an appointment, got approved for the visa and paid the fee to have my passport mailed to me.</p>
+      <p>A week before departing the United Kingdom, I still had not gotten my passport back. I decided to put in a friendly reminder call to the U.S. Embassy about needing my passport. That was when I learned my passport and all my documents had vanished somewhere between the embassy, the post office and my house, which was only a few train stops away. I was told that if I wanted to start school on time, I had to get a new Nigerian passport, reapply for a U.S. visa and pay the fee a second time. And oh, by the way, I was told this could not be done in time to catch my British Airways nonrefundable flight back to Arizona.</p>
+      <p>The upside to this incident was that it validated my choice in attending Thunderbird. When I called the school in Arizona to explain my situation, Judy Johnson and Maureen Cameron from Thunderbird’s Admissions Office were beyond helpful! They got me all of the documents I needed for the process, and sent them immediately. This helped offset the reaction I got at the Nigerian Embassy, where officials were disinclined to expedite the passport process without adequate tears and begging on my part. With my new Nigerian passport in hand, I had to return to the U.S. Embassy, which insisted again on mailing my documents to me—despite this being the root of my predicament in the first place. Let’s just say I quickly learned the true meaning of the Nigerian adage, “May your road be rough.”</p>
+      <p>Through some type of divine intervention, I was able to get my passport, my visa and a new plane ticket in time to start school back in Arizona.</p>
+      <p><strong><i>2005 Germany: </i></strong>I was working for an oil company and had flown via Lufthansa Airlines to get to my project site. My company made my flight arrangements; they hadn’t checked the transit visa requirements. I was denied passage on the connecting flight to my destination. My project was delayed for two weeks while the German Embassy tried to find my temporarily misplaced passport.</p>
+      <p><strong><i>2006 United States: </i></strong>Just after graduating from Thunderbird, I had grand plans of traveling the world with my fellow graduates and sneaking in one last international reprieve before we embarked on our future careers. I didn’t realize that while waiting for my U.S. work permit to be issued, I was not allowed to leave the country. Well, I guess that’s not true; technically I was allowed to leave, I just couldn’t come back in. So I took the time to discover the diverse lands of the United States and traveled through 14 states.</p>
+      <p><i><strong>2007 United States:</strong> </i>The bank I worked for had failed to re-apply for my work permit on time. A work-around plan was developed: I had to quit the company, leave the country for a few months and then be rehired by the bank once the matter was sorted out.</p>
+      <p><strong><i>2008 United Arab Emirates: </i></strong>I had my travel Monopoly set confiscated by a customs agent in Dubai because the fake money and dice looked too much like gambling paraphernalia.</p>
+      <p><strong><i>2008 Turkey: </i></strong>In Istanbul, the immigration officials apparently missed the memo that Nigeria had issued new passports. They looked at my valid paperwork and decided I was traveling with fake papers; I was detained.</p>
+      <p><strong><i>2009 Malaysia: </i></strong>I had decided to visit my good friend and fellow T-bird Kimaya over the Christmas holiday break. She recently had relocated to Singapore, and we decided to have a quick reunion and travel to Malaysia for Christmas. The same day our bus arrived at the Kuala Lumpur city border inside Malaysia, a Nigerian man halfway around the world caused an incident involving his underpants, plastic explosives and Delta/Northwest Airlines. That is what I get for spending my time sightseeing and shopping in Singapore instead of catching up on world news!</p>
+      <p>Everything seemed to be going smoothly as Kimaya and I waited with our passports at the border checkpoint. We had our paperwork ready and were eagerly looking forward to starting our Christmas vacation in Kuala Lumpur. Then the Malaysian immigration agent got to me. “Sorry, you cannot be cleared,” he said. Thinking he had made a mistake, I showed him my visa again. Surely he could see it was valid.</p>
+      <p>Frowning, he muttered something I could not fully understand. Apparently, none of the six languages that Kimaya and I spoke were useful in Malaysia. The only part I could grasp was that Nigerians were not permitted to enter Malaysia by land or sea. “Interesting,” I thought, rechecking my visa for this fine print. Not finding it, I inquired as to when this rule was established. “Today,” came the response.</p>
+      <p>By this time, the cleared passengers were waiting on the bus and were livid that one person was standing between them and their destinations. Kimaya, an Indian citizen, had been cleared to enter Malaysia, but in a display of T-bird camaraderie, she chose to stay behind with me. The driver simply shrugged, ushered us both off the coach and threw our bags unceremoniously on the ground.</p>
+      <p>Unable to understand the border officers or to be understood, we were escorted and loaded into less-than-stellar transportation with “unsavory characters of questionable immigration status.” Apparently, I belonged in the same group. We were deported back to Singapore, where I did not have a re-entry permit. This meant four hours for me at a border control area, while I tried to obtain a special permit that would allow me to go straight to Singapore’s Changi Airport to buy a one-way ticket on Christmas Day to Malaysia. This was neither fun nor cheap. I worried that even Kimaya would lose patience with me, but she stayed by my side.</p>
+      <p>Kimaya and I finally got on a flight and arrived less than an hour later at the Kuala Lumpur airport. Only then did we learn the details about the bomb scare in the United States by a fellow Nigerian. “If the crime was committed by this person on a plane,” I wondered, “why would the Malaysians want me flying into their country but not riding a bus?” I kept this thought to myself, not wanting to give anybody around me new ideas.  Despite my best attempts to dislike Malaysia, because of the inconveniences and additional expense of the plane ticket, I ended up having a great time. The lure of beef <i>rendang, </i>great nightlife, shopping, and ridiculously inexpensive spa resorts soon had me forgetting my tribulations and chalking up the experience to yet another global misadventure with my <strong>Nigerian passport. </strong></p>
+      <p><strong> <i>2010 Mexico: </i></strong>I learned after arriving in the border town between the United States and Mexico, that the embassy had changed its forms and procedures, which turned a one-day trip into a three-day ordeal. Leticia, my Thunderbird colleague/translator, and I were stuck in Nogales, Mexico, trying to renew my U.S. visa. This misadventure became more memorable when I was finally able to leave Nogales, and a car exploded. I was grateful to be in the car with Leticia on the U.S. side of the border driving north toward Phoenix—I couldn’t be detained for the car blowing up.</p>
+      <p>As I plan more trips in the future, I do not doubt that I will have more stories to share with my fellow T-birds, friends, and family. Needless to say, traveling with me is never boring.</p>
+      <p><i>Gbemi Disu, </i><i>a 2006 graduate of Thunderbird School of Global Management, was the Barton Kyle Yount Award recipient for her class. Previously she was Assistant Vice President of Strategic Cost Management for HSBC in Chicago, Illinois. At the time of this writing, she was Special Assistant to then Thunderbird President Ángel Cabrera, Ph.D.&nbsp;</i></p>
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: Nigeria
+    title: Nigeria
+    width: 1024
+    height: 768
+    target_type: file
+    target_uuid: 5133cf22-9a6c-43b0-a0b6-ec4ed994b3c3
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.5133cf22-9a6c-43b0-a0b6-ec4ed994b3c3
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

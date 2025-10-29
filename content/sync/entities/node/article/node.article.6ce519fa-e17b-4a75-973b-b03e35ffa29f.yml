@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 6ce519fa-e17b-4a75-973b-b03e35ffa29f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:23:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+title:
+  -
+    value: 'When Anger Flashes in the Workplace'
+created:
+  -
+    value: '2017-03-22T21:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:23:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/anger-in-the-workplace
+body:
+  -
+    value: "<div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"4731\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"anger in workplace\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"anger in workplace\",\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"alt\":\"anger in workplace\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Anger in the Workplace</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div></div>\r\n<div><strong>The 3 Primary Negatives: Anger, Fear, and Sadness</strong></div>\r\n<div>&nbsp; &nbsp;</div>\r\n<div>Anger, fear, and sadness are three primary negative emotions commonly encountered in the workplace. <em>Knowing more about these specific emotions can increase your skill at handling them and build the confidence you need to take effective action.</em></div>\r\n<div>&nbsp; &nbsp; &nbsp;</div>\r\n<div><strong>Anger</strong></div>\r\n<div>&nbsp; &nbsp;</div>\r\n<div>This may be the most prevalent negative emotion at work. It is certainly the most acceptable. As I have observed in field research and found across surveys and interviews, displays of anger can be so common and powerful in some organizations that employees sometimes learn to habitually use anger to get their way.</div>\r\n<div>Working with and around angry people is exhausting: It wears others out, undermines their drive, and suppresses their cognitive abilities. When individuals dare to respond to anger, brain chemistry can cause them to have difficulty communicating well or thinking clearly. Unfortunately, inferior responses can strengthen angry employees’ self-serving biases about being right, stoke their confidence, and reinforce their use of anger.</div>\r\n<div>&nbsp; &nbsp; &nbsp;&nbsp;</div>\r\n<div><strong>Angry encounters can spin into long-lasting resentment and unhappiness.</strong> Based on thousands of survey responses regarding incivility, research colleagues and I found that <strong>(1)</strong> employees who are treated angrily typically seek retribution, harbor animosity, or both; <strong>(2)</strong> some employees who simply witness or hear about others’ angry outbursts may seek recourse; and <strong>(3)</strong> employees in anger-tainted workplaces find ways to get even with offenders and with their organizations. The following guidelines are imperative for effective managerial response to anger.<br><br></div>\r\n<div><strong>Don’t let yourself get sucked in.</strong> When anger is initially stirring, expect your own anger or fear to rise. Whether you are the target of anger or a referee among angry employees, aim to slow down the situation. Do what you can to quiet yourself and the environment. Remain still. Listen carefully. Aim to project a composed, neutral demeanor by speaking calmly, clearly, and deliberately, but do not be condescending. When you are the target of anger, do not attempt to justify yourself or argue the point. Rather, strive to contain your own negative emotions.</div>\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n<div>When dealing with anger in the workplace, calmly try to unknot and understand the full situation without being absorbed by it. Speak with individuals one-on-one to ascertain their perspectives. Help angry employees consider appropriate ways of handling heated issues, by discussing problems and developing plans to deal with similar challenges more effectively in the future. When anger is directed at you, fully evaluate whether complaints are justified. If so, apologize and take action promptly to correct the problem. If not, aim to remain respectful and carry on.</div>\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n<div><strong>Don’t side with an employee you think has been wronged.</strong> Doing so can harden negative attitudes, making the situation more brittle and more resistant to improvement. Instead, aim to speak from a position of neutrality. Resist the temptation to empathize with negative comments about any individual or the circumstances. Do not attribute harmful intentions, even if they seem obvious. As an executive at a public-sector organization recommended, “Create an environment where employees understand the personal costs if they’re not pulling for the team. Help angry employees consider and initiate forward-focused thinking and action in a solutions-based environment, rather than dwelling on the negative.”</div>\r\n<div>&nbsp; &nbsp;&nbsp;</div>\r\n<div class=\"btn btn-gold\"><a href=\"http://sloanreview.mit.edu/article/the-smart-way-to-respond-to-negative-emotions-at-work/?utm_medium=referral&amp;utm_source=author&amp;utm_campaign=featmar17#ref9\">Read the Full Article</a></div>\r\n<div>&nbsp; &nbsp; &nbsp;</div>\r\n<div><strong>About the Author</strong></div>\r\n<div>Christine M. Pearson is a professor of global leadership at the Thunderbird School of Global Management in Glendale, Arizona. &nbsp;A groundbreaking international business school for more than 70 years, Thunderbird is a unit of the Arizona State University Knowledge Enterprise.&nbsp;</div>\r\n<div>&nbsp; &nbsp;</div>\r\n<div><strong>About the Research</strong></div>\r\n<div>This article draws on a stream of research that the author, in collaboration with coauthors, has carried out for more than two decades to understand how managers and employees handle the dark side of workplace behavior — from exceptional incidents involving organizational crises to commonplace uncivil interactions among employees.i All of the studies examined some aspect of the role of negative emotions.</div>\r\n<div>&nbsp; &nbsp;</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: f70be57c-c268-4fc6-88f2-18b889b72e9c
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115
+    file:
+      - file.image.f70be57c-c268-4fc6-88f2-18b889b72e9c
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

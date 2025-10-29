@@ -1,0 +1,12 @@
+uuid: 2d54919f-7fee-4698-b036-d999ad98952a
+langcode: en
+status: true
+dependencies: {  }
+id: location_london
+label: 'Location London'
+classes: "section-background\r\nlondon"
+type: section
+group: default
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

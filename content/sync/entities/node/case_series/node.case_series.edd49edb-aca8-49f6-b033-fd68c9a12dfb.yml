@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: edd49edb-aca8-49f6-b033-fd68c9a12dfb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:34:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Express Scripts, Inc.'
+created:
+  -
+    value: '2016-07-27T23:34:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:34:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-98-0006
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The purpose of this case is to illustrate the derivation of financial statements under accrual accounting without using ledger accounts on T accounts or using the terms, debits and credits. The case is written for executive education programs to illustrate the accounting model to non-financial managers. The case takes a balance sheet perspective by asking students to interpret how each of the accounting events described in the case affect the beginning balance sheet. The case is centered around Express Scripts, Inc., a pharmaceutical benefits management company listed on the NASDAQ under the ticker symbol ESRX.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-98-0006
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 13096043-8dd0-4a05-ae37-8f09da97fdae
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: US
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: fe942eac-8173-4b97-943d-46ec7a8f3582
+field_teaching:
+  -
+    value: "The bare bones issues in the case could be accomplished in one 80-minute class. However, the ideal time frame for the case is two consecutive 80-minute classes. In the first 80-minute class, the accounting transactions can be discussed in about 50-60 minutes and the remaining time used to develop the balance sheet and income statement. In the second 80-minute class, the cash flow statements using the direct and indirect method will require about 30 minutes; the discussion issues about 30 minutes and the remaining 20 minutes can be used to assess the company's basic financial performance using the raw data and some basic financial ratios.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.13096043-8dd0-4a05-ae37-8f09da97fdae
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.fe942eac-8173-4b97-943d-46ec7a8f3582

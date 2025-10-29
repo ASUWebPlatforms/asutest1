@@ -1,0 +1,18 @@
+uuid: 2ed5987b-563b-4a1e-961d-cc6aee635007
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.grid_links
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: block_content.grid_links
+target_entity_type_id: block_content
+target_bundle: grid_links
+default_langcode: site_default
+language_alterable: false

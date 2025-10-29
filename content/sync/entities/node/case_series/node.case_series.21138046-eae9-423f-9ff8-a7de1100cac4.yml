@@ -1,0 +1,117 @@
+uuid:
+  -
+    value: 21138046-eae9-423f-9ff8-a7de1100cac4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:20:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Implementing Lean Operations at Caesars Casinos'
+created:
+  -
+    value: '2016-07-15T23:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:20:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a11-14-0014
+body:
+  -
+    value: '<p><span>In December 2014, Brad Hirsch stood on the gaming floor at Harrah’s Metropolis Casino and Hotel in Metropolis, Illinois, where he had recently been assigned the position of General Manager and Senior Vice President. The property was part of Caesars Entertainment, the world’s most geographically diversified provider of casino entertainment. Evidence from customer surveys and data on loyalty-card usage patterns, as well as competitive pressures across the casino industry, indicated a general need for process improvement at the Metropolis facility. Hirsch had successfully led employee-centered efforts to apply LEAN operating principles to improve customer service in three of his company’s casinos in Tunica, Mississippi. He believed what he learned from those experiences would be applicable in the Metropolis location, but wondered if he should consider a modified approach that could potentially produce results more quickly with the help of a team of internal experts.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A11-14-0014
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: fad3aa89-9db3-41c4-b3be-1592bac70c58
+field_case_series_year:
+  -
+    value: '2014-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6ae3f694-d10d-4a05-82a4-684ea4c05a01
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: c148e8af-a6d3-4da8-8ddf-8e8c923378a5
+  -
+    target_type: taxonomy_term
+    target_uuid: 4fc27edb-5c1f-445f-b71f-dd63b8cf8d22
+  -
+    target_type: taxonomy_term
+    target_uuid: 8c75fa19-1ad4-4a85-86e7-04cf6d33ad63
+  -
+    target_type: taxonomy_term
+    target_uuid: 2eb1b1c1-005a-4325-a4ab-c80f25457985
+field_teaching:
+  -
+    value: 'The case offers a comprehensive description of a successful LEAN implementation in a service environment, offering students an example of the sequence of activities involved, the tools applied, and the challenges faced in the initiative. The story can serve as a self-contained tutorial on LEAN, allowing students to reflect on key lessons.  It also raises questions about whether the high-involvement, time-consuming approach applied at Tunica should be adopted at the Metropolis facility. Students are asked to consider whether it is necessary or worthwhile to invest thousands of hours of employee time in a LEAN initiative, and contrast the risks and benefits of the Tunica approach versus an expert-driven approach. The instructor can also challenge students to think about how they would pitch the idea of a LEAN initiative to executives at Metropolis.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.fad3aa89-9db3-41c4-b3be-1592bac70c58
+      - taxonomy_term.case_series_categories.6ae3f694-d10d-4a05-82a4-684ea4c05a01
+      - taxonomy_term.case_series_fields.c148e8af-a6d3-4da8-8ddf-8e8c923378a5
+      - taxonomy_term.case_series_fields.4fc27edb-5c1f-445f-b71f-dd63b8cf8d22
+      - taxonomy_term.case_series_fields.8c75fa19-1ad4-4a85-86e7-04cf6d33ad63
+      - taxonomy_term.case_series_fields.2eb1b1c1-005a-4325-a4ab-c80f25457985

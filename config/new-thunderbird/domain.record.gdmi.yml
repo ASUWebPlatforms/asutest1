@@ -1,0 +1,11 @@
+uuid: 331b9912-f525-4ea2-939f-47f6c2abb24f
+langcode: en
+status: true
+dependencies: {  }
+id: gdmi
+domain_id: 10667555
+hostname: gdmi.thunderbird.asu.edu
+name: GDMI
+scheme: https
+weight: 2
+is_default: false

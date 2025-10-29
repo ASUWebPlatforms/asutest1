@@ -1,0 +1,23 @@
+uuid: 8f7c53b5-d982-42cf-b077-e1a548cbdb22
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.insights
+    - field.field.block_content.insights.body
+  module:
+    - text
+id: block_content.insights.default
+targetEntityType: block_content
+bundle: insights
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true

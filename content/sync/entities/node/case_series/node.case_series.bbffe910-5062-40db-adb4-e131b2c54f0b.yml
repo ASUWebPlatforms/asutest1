@@ -1,0 +1,108 @@
+uuid:
+  -
+    value: bbffe910-5062-40db-adb4-e131b2c54f0b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:28:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Buyer’s Remorse: GM’s Alliance with Fiat'
+created:
+  -
+    value: '2016-07-17T23:47:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:28:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-06-0005
+body:
+  -
+    value: '<p><span>It was February 2, 2005, and General Motor''s (GM) Chairman and Chief Executive Officer (CEO) Rick Wagoner was running short on time. Fiat S.P.A. (Fiat) was threatening to exercise its option that GM purchase Fiat under their 2000 agreement. Although the put option had been included in the Master Agreement, neither party had really believed it would ever be exercised. And both Fiat''s and GM''s fortunes had changed dramatically—mostly for the worse—in the past five years. Rick Wagoner was to meet Fiat''s Chairman and CEO on February 13 to discuss final terms.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-06-0005
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2006-01-01'
+field_case_setting:
+  -
+    value: Europe
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9066b6e9-2890-4746-9fd4-dd5412d733c7
+  -
+    target_type: taxonomy_term
+    target_uuid: 1859f567-6035-46bd-a7ea-243e41c3ad3c
+  -
+    target_type: taxonomy_term
+    target_uuid: 93832ce9-0cd4-464d-aefb-68e8196da29a
+field_teaching:
+  -
+    value: 'This is one of the more bizarre tales in recent years of how strategic alliances may go awry. The case focuses on how an element of the Master Agreement signed between General Motors and Fiat—the put option—resulted eventually in the destruction of a highly successful series of joint ventures between these two large automakers. The pivotal element, the put option agreement embedded within the agreement, eventually resulted in GM agreeing to pay Fiat $2 billion in February 2005 to "annul" the entire alliance. The case raises questions about the due diligence by the two companies in preparing for the agreement, the actual construction of the agreement itself, and the unfortunate series of events which eventually resulted in Fiat leveraging the embedded put to extract a large exit payment from GM. In the end, the case may also be used to question what the value of an acquisition is to an acquirer, including the associated responsibilities and liabilities associated with an existing operating business.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.9066b6e9-2890-4746-9fd4-dd5412d733c7
+      - taxonomy_term.case_series_fields.1859f567-6035-46bd-a7ea-243e41c3ad3c
+      - taxonomy_term.case_series_fields.93832ce9-0cd4-464d-aefb-68e8196da29a

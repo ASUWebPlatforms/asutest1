@@ -1,0 +1,51 @@
+label: Betalingen
+display:
+  default:
+    display_title: Standaard
+    display_options:
+      title: Betalingen
+      fields:
+        amount__number:
+          label: Betaling
+          separator: ', '
+        refunded_amount__number:
+          label: 'Terugbetaald:'
+          separator: ', '
+        avs_response_code_label:
+          separator: ', '
+        avs_response_code:
+          label: AVS-statuscode
+          separator: ', '
+        state:
+          label: Status
+          separator: ', '
+        payment_gateway:
+          label: 'Payment gateway'
+          separator: ', '
+        authorized:
+          label: Geautoriseerd
+          separator: ', '
+        completed:
+          label: Voltooid
+          separator: ', '
+        remote_id:
+          label: 'Remote ID'
+          separator: ', '
+        operations:
+          label: Bewerkingen
+      exposed_form:
+        options:
+          submit_button: Toepassen
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sorteren op'
+          sort_asc_label: Oplopend
+          sort_desc_label: Aflopend
+      arguments:
+        order_id:
+          exception:
+            title: Alle
+  page_1:
+    display_title: Pagina
+    display_options:
+      menu:
+        title: Betalingen

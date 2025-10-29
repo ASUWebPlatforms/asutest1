@@ -1,0 +1,11 @@
+uuid: 1c3878db-aed6-4f52-8ca5-d3df572b4b81
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.gdmi_assessment
+id: commerce_product.gdmi_assessment
+target_entity_type_id: commerce_product
+target_bundle: gdmi_assessment
+default_langcode: site_default
+language_alterable: false

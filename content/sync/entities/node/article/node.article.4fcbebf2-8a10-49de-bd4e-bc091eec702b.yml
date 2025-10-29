@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 4fcbebf2-8a10-49de-bd4e-bc091eec702b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:05:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'What’s Behind Success? Your Mindset, for Starters.'
+created:
+  -
+    value: '2017-03-20T16:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:05:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/mindset-positioning
+body:
+  -
+    value: "<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"4572\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Mindset Positioning_Thunderbird\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Mindset Positioning_Thunderbird\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Mindset Positioning_Thunderbird\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Mindset Positioning</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p style=\"text-align: center;\"><span>&nbsp;</span></p>\r\n<p><span>On Wednesday, March 15, Thunderbird hosted a faculty spotlight event on “Mindset Positioning,” a book co-written by Thunderbird Clinical Associate <a href=\"/node/181\">Professor Tom Hunsaker</a>, Ph.D., </span><span>and Mr. Brandon Klippel. This talk was the second event in Thunderbird’s 2017 ‘Global Speaker Series.’ </span></p>\r\n<p><span><span class=\"Apple-tab-span\"> </span></span><span>Klippel, <span>a leader, mentor, and coach for a&nbsp;</span><span>Fortune 500 firm</span><span>&nbsp;</span><span>has immense experience&nbsp;</span><span>in the financial industry</span>. He spoke about how he entered the financial services setting in 2008, a rather bad time to switch careers, and the challenges he faced as a result. In fact, he said, his career-switch drama proved to him how important it was to approach his work and goal-setting with a healthy level of emotional engagement if he wanted to weather the rough patch in his new industry. &nbsp;</span></p>\r\n<p><span>Klippel talked about how we as human beings get too comfortable too quickly and set psychological boundaries for ourselves which prevent us from performing at our full potential. According to his experience, this is because whenever we are working toward our goals, either set by ourselves or the people we work for, we perceive them as just “plain goals.” However, if we put an emotional value behind these goals, go a step further and question ourselves about why are we working toward achieving them and what will happen if we don’t, we will be self-motivated enough not only to reach these goals but to surpass them. </span></p>\r\n<p><span><span>The book, “Mindset Positioning,” breaks down the process of achieving desired results into the following equation:&nbsp;</span></span></p>\r\n<p><span><span><span><span>[[{\"fid\":\"4749\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Mindset Positioning_Thunderbird\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Mindset Positioning_Thunderbird\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Mindset Positioning_Thunderbird\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></span></span></span></p>\r\n<p><span>&nbsp;</span></p>\r\n<p><span>The diagram above briefly explains the various stages we go through before reaching our desired results: </span></p>\r\n<ol>\r\n<li>\r\n<p><span>Mindset: </span><span>Our brains don’t distinguish between </span><span>believing</span><span> and </span><span>doing</span><span>. Our mindset can change our emotional state and it’s where we must start if we want to succeed.</span></p>\r\n</li>\r\n<li>\r\n<p><span>Engagement Attitude:&nbsp;Our emotional state is a leading predictor of the&nbsp;quality&nbsp;of our activities (how&nbsp;wise&nbsp;they are and how well we do them). This marks our level of engagement and how we put values behind our activities. Our emotional attitude can vary along the following scale—and it isn’t until we reach the pinnacle (i.e., “Innovative”) that we are destined for success.</span></p>\r\n</li>\r\n<ol>\r\n<li>Disconnected: This level is characterized by general disbelief that our actions are important or meaningful</li>\r\n<li>Complacent: A step ahead of disconnected but stuck in a rut, this level is characterized by the&nbsp;general<span style=\"background-color: transparent;\"> comfort with our current state and a primary focus on just getting something done.&nbsp;<span>Over 70% of managers fall into this space.</span></span></li>\r\n<li>Visionary: Moving in the right direction, this level is characterized by a shift in our thinking and a general belief that something better is possible.</li>\r\n<li>Innovative: Now we’re talking. This level is characterized by a feeling of connectedness to a cause. When we reach this emotional attitude level, we are open to challenges, we embrace learning and the desire to stretch the boundaries of what is possible in valuable ways.</li>\r\n</ol>\r\n<li>\r\n<p><span>Behaviors/Activities: </span><span>To achieve success, we have to focus our behaviors and actions on producing quality work, not just a quantity of work.</span></p>\r\n</li>\r\n<li>\r\n<p><span>Results: </span><span>Whether good or bad, the results we achieve shape the way we think about the future. By shifting our mindset, working to achieve an engagement attitude of innovation, and ensuring our behaviors and activities are focused on quality work, we will achieve results which shine a bright light on our future. If we don’t… that light is dimmed.</span></p>\r\n</li>\r\n</ol>\r\n<p>Regardless of your starting point, the good news is one’s mindset is surprisingly malleable with the right inputs.&nbsp; Dr. Hunsaker explains, “Different from a personality trait, which is described as inherent or fixed, the process to effectively positioning one’s mindset is inclusive (nearly anyone can do it) and straightforward (it does not require tremendous time or technical skill).&nbsp; And it doesn’t necessarily depend on changing your surroundings or the participants in it.&nbsp; It’s essential, but it doesn’t have to be exclusive-you can start right where you are.”<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p><span style=\"text-decoration: underline;\"></span>&nbsp;As the closing pages of the book describe, \"Embracing the positioning cycle and encouraging others to do the same can have a dynamic, lasting effect.&nbsp; The call to&nbsp;<i>think about what you think about&nbsp;</i>is much more than a clever grouping of words.&nbsp; It’s largely the difference between maximized and unrealized potential.”</p>\r\n<p><a href=\"https://www.amazon.com/Mindset-Positioning-dramatically-different-outcomes/dp/0998518603\"><span>Learn more about “Mindset Positioning: Why similar talent yields dramatically different outcomes. And what to do about it.”</span></a></p>\r\n<p><a href=\"https://www.amazon.com/Mindset-Positioning-dramatically-different-outcomes/dp/0998518603\">&nbsp;</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 800
+    height: 400
+    target_type: file
+    target_uuid: aa03b3ae-19a4-4dd9-a68a-0f65a89f232b
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.aa03b3ae-19a4-4dd9-a68a-0f65a89f232b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

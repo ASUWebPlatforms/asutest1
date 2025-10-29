@@ -1,0 +1,29 @@
+uuid: d7059b18-deb9-48af-8b51-51ea00ebb197
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - paragraphs
+_core:
+  default_config_hash: _E7L4RBN-Obd-ykXZoMUTvtZzJly1BzLMl4Cw_u62bQ
+id: paragraph.field_text_color
+field_name: field_text_color
+entity_type: paragraph
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: default
+      label: 'Gray 7'
+    -
+      value: text-white
+      label: White
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

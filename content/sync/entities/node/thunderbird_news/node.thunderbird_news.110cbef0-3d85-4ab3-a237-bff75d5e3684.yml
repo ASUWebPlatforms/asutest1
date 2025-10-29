@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 110cbef0-3d85-4ab3-a237-bff75d5e3684
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-04-29T14:30:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Competition delivers the goods and the crew for all NASA commercial space services'
+created:
+  -
+    value: '2021-04-29T14:30:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-04-29T14:30:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/competition
+body:
+  -
+    value: '<p>On April 23, SpaceX launched a crew of international astronauts to the Space Station. This marks the third human spaceflight success for the firm’s Crew Dragon Capsule, developed under NASA’s Commercial Crew program. The amazing accomplishments of this program and of its predecessor, Comercial Orbital Transportation Services (COTS), which funded development of SpaceX’s Falcon 9 rocket and the cargo version of Dragon, depended not only on great engineering by SpaceX and other NASA vendors, but also upon the power of system redundancy and market competition. Both programs succeed, in great part, because NASA had two systems and two vendors. While we celebrate that, it appears that those lessons were not fully internalized on Capitol Hill.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-04-29T07:30:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 720
+    height: 368
+    target_type: file
+    target_uuid: c904d604-e94f-44d2-bd11-94d0be3ad543
+field_news_link:
+  -
+    uri: 'https://spacenews.com/op-ed-competition-delivers-the-goods-and-the-crew-for-all-nasa-commercial-space-services/'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: SpaceNews
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.c904d604-e94f-44d2-bd11-94d0be3ad543

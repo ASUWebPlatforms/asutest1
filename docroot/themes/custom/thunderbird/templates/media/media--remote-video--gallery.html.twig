@@ -1,0 +1,23 @@
+{#
+/**
+ * @file
+ * Theme implementation to present a remote video gallery media item.
+ *
+ * @see template_preprocess_media()
+ *
+ * @ingroup themeable
+ */
+#}
+<div{{ attributes.addClass('video-item') }}>
+  {{ title_suffix.contextual_links }}
+
+  <a href="#link-{{ media.id() }}" class="video" data-lity>{{ content.thumbnail }}</a>
+  <div id="link-{{ media.id() }}" class="lity-hide modal-content">
+    {{ content.field_media_oembed_video }}
+  </div>
+
+  <div class="metadata" dir="auto">
+    <div class="date">{{ content.created }}</div>
+    <div class="title">{{ content.name }}</div>
+  </div>
+</div>

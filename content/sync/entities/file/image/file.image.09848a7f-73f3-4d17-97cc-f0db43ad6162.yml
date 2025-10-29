@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 09848a7f-73f3-4d17-97cc-f0db43ad6162
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+filename:
+  -
+    value: crisis-management.jpg
+uri:
+  -
+    value: 'public://article/crisis-management_0.jpg'
+    url: /sites/default/files/article/crisis-management_0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 31447
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-01-20T21:48:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-01-20T21:48:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f

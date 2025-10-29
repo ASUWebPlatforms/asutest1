@@ -1,0 +1,20 @@
+uuid: 2668f117-f1df-4c92-814c-0a1faf4fcb83
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.coe_locations
+  module:
+    - path
+id: taxonomy_term.coe_locations.path
+field_name: path
+entity_type: taxonomy_term
+bundle: coe_locations
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

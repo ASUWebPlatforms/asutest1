@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 872cdc6a-def1-4f7f-8906-5db5f3725563
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:05:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Benecol: Raisio''s Global Nutriceutical'
+created:
+  -
+    value: '2016-07-27T22:05:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:05:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-99-0004
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Raisio (Finland) is in the final stages of introducing its revolutionary product, Benecol, to the global market. Benecol, when ingested on a daily basis (for example as an additive to margarine), reduces LDL cholesterol levels in the human body by 10-15%. After a successful debut in Finland in the fall of 1996, Raisio has concluded a global marketing agreement with Johnson &amp; Johnson''s (US) McNeil Consumer Products Group. The product has now, just prior to introduction in the United States, run into regulatory objections from the Food &amp; Drug Administration (FDA). The question is whether the current strategy is really in the best interests of shareholders, and what the market should do in valuing the prospects for this current hot stock.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-99-0004
+field_case_page_length:
+  -
+    value: '21 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: a3e2bcd3-f4a0-4df0-b1c9-478df5e4b3c5
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'Finland, United States, 1998/99'
+field_case_source:
+  -
+    value: 'Field case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 855c0ea6-5225-49c7-a911-037ed2bad950
+field_teaching:
+  -
+    value: "The case focuses on the complexities of penetrating global markets when the product is difficult to classify as a food, dietary supplement, or pharmaceutical, when time is of the essence, and value fleeting. The market penetration strategy proposed by McNeil Consumer Products is controversial, and if the United States Food and Drug Administration chooses to block the product's entry, Raisio has risked much. In addition to the complex product definition and marketing strategy issues, the case allows a very detailed analysis of how the parent company Raisio may profit from the global introduction of Benecol, and how the analysts in the marketplace value a firm like Raisio.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.a3e2bcd3-f4a0-4df0-b1c9-478df5e4b3c5
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.855c0ea6-5225-49c7-a911-037ed2bad950

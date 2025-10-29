@@ -1,0 +1,29 @@
+uuid: 541e025c-a3b2-4c1f-b0c0-b6a880391431
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.apply_now
+    - field.storage.block_content.field_degree
+    - node.type.degree
+id: block_content.apply_now.field_degree
+field_name: field_degree
+entity_type: block_content
+bundle: apply_now
+label: Degree
+description: 'Select the degree the user will be applying for. If not selected, the degree from the current page will be used.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      degree: degree
+    sort:
+      field: title
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

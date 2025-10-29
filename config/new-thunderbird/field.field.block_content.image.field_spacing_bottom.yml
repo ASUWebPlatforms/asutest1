@@ -1,0 +1,23 @@
+uuid: 83e94504-d45f-4591-9eff-4ecf6b6746b0
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image
+    - field.storage.block_content.field_spacing_bottom
+  module:
+    - options
+_core:
+  default_config_hash: JyAc-ySBQfUDqyPp4OcSoad07f-UyikA-jz2Y2AmpbA
+id: block_content.image.field_spacing_bottom
+field_name: field_spacing_bottom
+entity_type: block_content
+bundle: image
+label: 'Spacing bottom'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

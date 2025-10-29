@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: f862b701-1800-481e-a473-4a001a96d66e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:10:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Cat Recovers: Caterpillar, Inc. in the Late 1990''s'
+created:
+  -
+    value: '2016-07-27T22:10:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:10:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-99-0010
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Caterpillar, Inc. (Cat) is the acknowledge global leader in the heavy construction equipment industry. In addition, it has a meaningful presence in several other global industries including agricultural equipment, diesel engines, and equipment financing. The case provides significant background data on the heavy construction equipment industry and on Cat''s progress and prospect up to early 1998. It also provides some data in respect to major competitors such as Komatsu, Deere and Company, and Case Corporation. The reader is asked to assess Cat''s performance to date , to assess recent changes in the industries of which Cat is a part, and to consider what Cat will need to do in order to maintain a sustainable competitive advantage. The case can be either used on a standalone basis or as a follow-on session to the HBS case entitled Komatsu: Ryoichi Kawai''s Leadership (HBS 9-390-037).</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-99-0010
+field_case_page_length:
+  -
+    value: '22 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8dcf10b6-a4f4-4e16-8135-f42ee61eacc8
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'Global markets, 1997'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 548fde6d-822b-4de5-b8c2-f82507dd7cfe
+field_teaching:
+  -
+    value: "This case has been used in both master's-level degree programs and executive education seminars under the general title of Competitive Response in a Global Setting. It allows participants to explore a wide set of issues, ranging from aspects of a learning organization, on through exogenous factors such as the managerial implications of dramatic shifts in foreign exchange rates, and on to the strategic and managerial implications of the possible convergence of multiple industries.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.8dcf10b6-a4f4-4e16-8135-f42ee61eacc8
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.548fde6d-822b-4de5-b8c2-f82507dd7cfe

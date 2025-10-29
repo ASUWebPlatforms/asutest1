@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 9e7987f3-bc52-4898-8c07-29c399d153f4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'T-bird nominated for Billboard Latin Music Marketing Award'
+created:
+  -
+    value: '2016-06-22T17:48:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/latin-music-marketing-award
+body:
+  -
+    value: "<div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\r\n<div class=\"field-items\">\r\n<div class=\"field-item even\">\r\n<p>[[{\"fid\":\"870\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Thunderbird alumnus&nbsp;<strong>Ted Ketterer ’10</strong>&nbsp;and his Coca-Cola team were nominated for a&nbsp;<a href=\"http://www.billboardevents.com/sites/default/files/uploads/BLMC%202013%20-%20Music%20Marketing%20Awards%20Finalists-%20ENG.pdf\">Latin Music Marketing Award</a>&nbsp;at the Billboard Latin Music Conference &amp; Awards, which took place April 22-25, 2013, in Miami, Florida. The team’s interactive Coca-Cola MIX’ON campaign, one of two runners up for Best Online or Social Campaign, allowed Hispanic teens and other Latin music fans to influence the red carpet show at the 2012 American Music Awards. Participants voted on a duet partner for U.S. singer-songwriter Jason Derülo and made other key decisions about the live performance.</p>\r\n<p>“We turned fans into producers,” Ketterer said. “We inspired teens and artists to express themselves through music and influence the biggest night in music entertainment.”</p>\r\n<p>The campaign started with Coca-Cola inviting three up-and-coming Latin artists to collaborate with Derülo at a recording studio in Miami. “Everything came together in Miami,” Ketterer said. “I knew it was going to be big when I saw the creativity and energy in the studio, and the way the artists fed off each other.”</p>\r\n<p>In the end, more than 72,000 voters selected&nbsp;<a href=\"http://www.youtube.com/watch?v=swDdePyUZoY\">YouTube sensation Alyssa Bernal</a>&nbsp;over Panamanian artist Joey Montana and Dominican singer, songwriter and producer Maffio. Many fans used their thumbs to provide feedback with “digital applause,” a process of tapping to the beat on a handheld device. “The campaign was social and mobile at its core,” Ketterer said.</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>[[{\"fid\":\"869\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</td>\r\n</tr>\r\n<tr>\r\n<td><span>Ted Ketterer, left, participates in a bowling get-together on the eve of the American Music Awards in Los Angeles. 90210 actor Tristan Wilds, center, was one of the digital hosts for the Coca-Cola MIX’ON campaign, and Maffio, right, was one of the up-and-coming Latin performers.</span></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>Ketterer said the global mindset at Thunderbird and the international collaboration he experienced as a student helped prepare him for his marketing career. “The overall attitude at Thunderbird was great,” he said. “I learned to think optimistically and to be comfortable in uncomfortable situations.”</p>\r\n<p>Besides the Coca-Cola MIX’ON campaign, Ketterer and his team collaborated on a Coca-Cola Summer Olympics campaign that won the award for Best TV Campaign. Overall, 12 marketing campaigns in four categories were selected as finalists for the Billboard event.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"field field-name-field-magazine-department field-type-taxonomy-term-reference field-label-above\">\r\n<div class=\"field-label\"></div>\r\n<p>&nbsp;</p>\r\n<div class=\"field-items\"></div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

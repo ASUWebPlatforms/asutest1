@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: a71942d7-9ac5-46a5-a7e0-3f4ee7c7f34d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:28:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Minerva, S.A'
+created:
+  -
+    value: '2016-07-27T23:28:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:28:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-98-0005
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case focuses on the efforts of Theo Grigoris, Managing Director of Minerva and Vasilli Goudes, newly hired Commercial Director, as they try to figure out where the company should be headed. Minerva is a leading producer of olive oil, seed oils, and margarine in Greece. It faces increasing competition from Unilever''s Greek affiliate and is battling enormous internal problems. Antiquated control systems, quality problems, poorly motivated and inadequately trained employees, have all hindered Minerva''s ability to compete effectively.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-98-0005
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: dc7c996c-21e4-4f32-ba41-49f7deafec88
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: 'Greece, 1996'
+field_case_source:
+  -
+    value: 'Field case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 313d770c-8fd5-47ee-a492-a64322a9ec2b
+field_teaching:
+  -
+    value: "The case is an excellent introductory case in a general management/ business policy course. The sheer number of problems the company is facing both strategic and operational requires students to make important decisions about what is important and what is not important. Understanding Minerva's core competencies is a good starting point in setting priorities. The case also draws students into a broader discussion of internationalization. As the edible oils industry regionalizes, Minerva is facing tough choices about how and when it should move beyond its traditional Greek markets. The case helps provide insights into the pressures behind internationalization and the challenges smaller companies face in making themselves viable international competitors.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.dc7c996c-21e4-4f32-ba41-49f7deafec88
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.313d770c-8fd5-47ee-a492-a64322a9ec2b

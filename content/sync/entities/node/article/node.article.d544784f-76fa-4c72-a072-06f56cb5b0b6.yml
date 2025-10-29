@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: d544784f-76fa-4c72-a072-06f56cb5b0b6
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:13:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Unfriendly Skies: Chances are Your Company Could be the Next United Airlines'
+created:
+  -
+    value: '2017-04-12T16:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:13:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/disunited-airlines
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">Business has a design problem called regulation</h3>\r\n[caption][[{\"fid\":\"4878\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Disunited Airlines by Jeff Cunningham\",\"field_file_image_title_text[und][0][value]\":\"Disunited Airlines by Jeff Cunningham\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Disunited Airlines by Jeff Cunningham\",\"field_file_image_title_text[und][0][value]\":\"Disunited Airlines by Jeff Cunningham\"}},\"attributes\":{\"alt\":\"Disunited Airlines by Jeff Cunningham\",\"title\":\"Disunited Airlines by Jeff Cunningham\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]<em>If you work in a regulated industry, you run a ‘government first’ culture, not a customer culture. Customers drive your bottom line, but the government and labor unions put you out of business</em>[/caption]<p class=\"graf graf--p graf-after--p\"><span>Wells Fargo. Then Uber. Now United Airlines flight 3411. Let’s fire the CEO, right?</span></p>\r\n<p class=\"graf graf--p graf-after--p\">As everyone with access to a cell phone now knows, the United Airlines fiasco should never have happened. So why did it? Were they so dumb?</p>\r\n<p class=\"graf graf--p graf-after--p\">I don’t think so, at least not that dumb.</p>\r\n<p class=\"graf graf--p graf-after--p\">In our haste to pin blame on the CEO, we fail to recognize mistakes are multi-factor and ignore the insidious influences baked into our culture. These include the role of a powerful government regulator and labor union bureaucracy that limit people’s ability to make sensible choices just at the time the airline urgently needed flexibility.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">That’s why the typical pattern for American business is: do stupid stuff, rinse and repeat.</span></p>\r\n<p class=\"graf graf--p graf-after--p\"><strong><span class=\"markup--strong markup--p-strong\">More than a video clip.</span></strong></p>\r\n<p class=\"graf graf--p\"><span style=\"background-color: transparent;\">When people do things as bizarre as the violent removal on UA flight 3411, you can be sure there is a backstory. In the media rush to get in on the sensational bandwagon, they often skip over the important parts. That’s why the typical pattern for a crisis such as this is</span><span style=\"background-color: transparent;\">: do stupid stuff, rinse and repeat.</span></p>\r\n<p class=\"graf graf--p graf-after--p\"><span style=\"background-color: transparent;\">If you make your living in construction, finance, banking, healthcare, energy, defense, gambling, law enforcement or air transportation, then you understand how government regulation, and just as ominously, labor regulation, can affect the culture and the day to day behavior of your employees. This is done indirectly by labor unions exerting a disproportionate influence on legislation through campaign donations or more directly, through the Department of Labor, which often does their bidding.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">If you work in a regulated industry, you run a ‘<em>government first</em>’ culture, not a customer culture. Customers drive your bottom line, but the government and labor unions put you out of business. As Samuel Johnson would say, it concentrates the mind wonderfully.</p>\r\n<p class=\"graf graf--p graf-after--p\">I am fortunate enough to have spent my career blissfully unaware of regulation as a publisher of Forbes Magazine, a venture capitalist, an internet CEO, and now a professor.</p>\r\n<p class=\"graf graf--p graf-after--p\">But as my father was captain of an international airline flying across the Atlantic, and I worked for the airlines through college and was a member of the International Association of Machinists, I did get some first-hand knowledge of government and labor regulations.</p>\r\n<p class=\"graf graf--p graf-after--p\">Every aspect of a flight and cabin crew’s life is measured, monitored, rated, reported, as well as stiffly penalized, for the smallest technical infractions, including the time it takes to join a flight in progress waiting for a fresh crew.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>I want my iPad</strong></p>\r\n<p class=\"graf graf--p graf-after--p\">Have you ever argued with a flight attendant about the iPad in your seat pocket? With a disdainful glance, they scoop it up and place it four rows back in the overhead bin? That’s because the government loves the overhead bin. According to the government, there has never been a case of loss of life due to a flying iPad, but why take a chance?</p>\r\n<p class=\"graf graf--p graf-after--p\">If you read or saw the story of Chesley Sullenberger, the intrepid pilot of US Airways flight 1549, after he landed in the Hudson River just of Manhattan and saved 155 lives, you know the FAA investigated him for taking undue risks (he was fortunately exonerated) by landing the engineless plane in the river.</p>\r\n<p class=\"graf graf--p graf-after--p\">In the airline business, a cabin crew (refers to flight attendants as contrasted to flight crew) may have been stuck on the ground for a variety of reasons including equipment or a crew member called in sick or was delayed by traffic on the way to the airport. By that time, certain members of the crew exceeded their union maximum flight hours (downtime is counted against them) and they must be replaced immediately before the flight is allowed to take off.</p>\r\n<p class=\"graf graf--p graf-after--p\">There are a hundred reasons why a change of crew happens. But there is only one measure of success, and that is the plane must continue its journey as scheduled. To fail at this one measure is to risk FAA penalties, ratings downgraded, and loss of business due to rebookings on other airlines.&nbsp;Jobs are threatened in those circumstances and employees naturally react with fear.&nbsp;<span>When that occurs, they can do some really dumb things.</span></p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>On-time or go home</strong></p>\r\n<p class=\"graf graf--p graf-after--p\">By the way, the fact that matters is “on-time.” The regulations are silent on what happens if a crew member gets into an accident because of speeding to the airport to make the flight. Unlike a Domino’s Pizza driver, the government accepts no liability for the effects of regulation.</p>\r\n<p class=\"graf graf--p graf-after--p\">That is the substance of my comment. Everyone now knows including the CEO, the United Airlines fiasco should never have happened. But what is missing from the picture is that the absurd behavior of airline and law enforcement personnel would not have taken place without the insidious influence of regulations.</p>\r\n<p class=\"graf graf--p graf-after--p\">There were alternatives. Oscar Munoz’ people could have offered a higher reward for passengers to leave the flight. They could have delayed the flight the crew was supposed to meet. However, companies have controls over expenses and ground crew doesn’t have the authority from the FAA to force flight delays within the ten minutes or so before takeoff for non-safety reasons. The 100-year storm in a regulated industry can happen every day.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">The lesson isn’t just a stop and think situation. It is a stop and think about whether you are the captive of regulation and what you can do about it because even when the government is the boss, the customer is always right.</p>\r\n<hr>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--p graf--leading\"><strong><span class=\"markup--strong markup--p-strong\">Author’s Bio</span></strong></h3>\r\n<p class=\"graf graf--p graf-after--p\">Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p class=\"graf graf--p graf-after--p\">He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p class=\"graf graf--p graf-after--p\">He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\" class=\"markup--anchor markup--p-anchor\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\" class=\"markup--anchor markup--p-anchor\">JeffCunningham.com.</a></p>\r\n<p class=\"graf graf--p graf-after--p\">His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">He has also been a board director of 10 public companies.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 537
+    height: 407
+    target_type: file
+    target_uuid: 2f036852-fb4a-468a-a1aa-9d68d3b89d8b
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.2f036852-fb4a-468a-a1aa-9d68d3b89d8b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

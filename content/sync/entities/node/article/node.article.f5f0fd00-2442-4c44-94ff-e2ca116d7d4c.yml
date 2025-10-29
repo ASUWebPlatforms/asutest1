@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: f5f0fd00-2442-4c44-94ff-e2ca116d7d4c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'What happens in Mexico'
+created:
+  -
+    value: '2014-03-03T03:24:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/what-happens-in-mexico
+body:
+  -
+    value: "<p><img src=\"/sites/default/files/img-20140228-wa0003.jpg\" title=\"mexico\" alt=\"mexico\" width=\"250\" height=\"188\" class=\"undefined\"></p>\r\n<p>When I asked people what I should expect when I go to Mexico City for the site visit portion of our WEConnect International TEM Lab project, they all said one thing: “Be careful!” These words echoed in my mind as I arrived in the airport on Wednesday night. I consider myself a savvy traveler, having navigated around the Balkans, Rome, Paris, all with minimal language abilities. So, if people were&nbsp;<span>telling me to be careful, what possibly could I encounter?</span></p>\r\n<p>After being in Mexico City for almost a week, what I encountered was actually a warm welcome to the city and to the WEConnect Mexico team. From facilitating getting a mobile SIM card to getting allergy medicine because the unique Mexico air had kicked in my allergies like a running faucet, the Mexico team played a perfect host to me.</p>\r\n<p>Aside from learning so much about WEConnect’s operations in Mexico from the Mexico team, I had the opportunity to interact with the organizations key stakeholders, potential “customers” and women-owned businesses as well. I was able to view first hand the Mexico team in action at events and at pitch meetings. All of these have proven to be extremely valuable to me and the rest of the team in determining the right path for WEConnect’s progress.</p>\r\n<p>During my stay, I also had the opportunity to meet with talented professionals involved in entrepreneurship, the Exxon Mobil CSR campaign, Thunderbird alumni working at the US Embassy and the Mexican Government, and other career professionals to get a better idea of the landscape of business in Mexico. Mexico City is a wonderfully vibrant place to live and work in, the Mexican culture showing itself at every opportunity - the streets, the food, the people. By the end of my stay, I was all but apprehensive about the warning to “be careful”, as I happily accepted an invitation for another trip to Mexico.</p>\r\n<p><em>Author: Christine Moore</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

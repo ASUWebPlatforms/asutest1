@@ -1,0 +1,20 @@
+uuid: 43bb8c9f-c6ac-4ece-afd8-fd39b3f74651
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.certificate_area
+  module:
+    - path
+id: taxonomy_term.certificate_area.path
+field_name: path
+entity_type: taxonomy_term
+bundle: certificate_area
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

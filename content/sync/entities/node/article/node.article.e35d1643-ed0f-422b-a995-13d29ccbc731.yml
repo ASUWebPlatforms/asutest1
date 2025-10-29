@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: e35d1643-ed0f-422b-a995-13d29ccbc731
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-12-22T19:45:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Thunderbird Grads Find Global Opportunities'
+created:
+  -
+    value: '2017-12-22T19:45:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-22T19:45:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-grads-find-global-opportunities
+body:
+  -
+    value: '<iframe width="560" height="315" src="https://www.youtube.com/embed/g331AWFI4Ns?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>'
+    format: full_html
+    processed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/g331AWFI4Ns?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>'
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 640
+    height: 427
+    target_type: file
+    target_uuid: 2a597f0a-71be-4deb-8be6-95f3e79966cb
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c98a978-a0e5-4ad3-ae54-71103288ecdd
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.2a597f0a-71be-4deb-8be6-95f3e79966cb
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.2c98a978-a0e5-4ad3-ae54-71103288ecdd

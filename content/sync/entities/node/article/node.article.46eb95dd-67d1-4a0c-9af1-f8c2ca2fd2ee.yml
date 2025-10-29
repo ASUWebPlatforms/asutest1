@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 46eb95dd-67d1-4a0c-9af1-f8c2ca2fd2ee
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-01-10T21:43:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Sense-making and Entrepreneurship in Industry 4.0'
+created:
+  -
+    value: '2019-06-25T17:48:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-01-10T21:43:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/sense-making-and-entrepreneurship-in-industry-40
+body:
+  -
+    value: "<div class=\"style-scope ytd-expander\">\r\n<div class=\"style-scope ytd-video-secondary-info-renderer\">\r\n<p>&nbsp;With the advent of the Fourth Industrial Revolution, there is a fair amount of sense-making that companies must muddle through as they attempt to see into the future. Strategies and tactics must be well-thought out before action is taken. Sense-making and entrepreneurship go hand-in-hand and we need to talk more about it. Join our webinar and explore questions like:</p>\r\n<ul>\r\n<li>How can companies ensure a happy/stable workforce and maintain relationships with regulators and voters as technologies begin to yield effects on labor markets?&nbsp;</li>\r\n<li>How quickly will artificial intelligence mature and produce expected and unexpected effects?</li>\r\n<li>How will governments respond to issues such as bias in A.I. or privacy concerns?</li>\r\n</ul>\r\n<p>Presented by:</p>\r\n<p>Julian Leuthold<br>CEO of GetGlobal</p>\r\n</div>\r\n<div class=\"style-scope ytd-video-secondary-info-renderer\">[[{\"fid\":\"73936\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\"}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]</div>\r\n<div class=\"style-scope ytd-video-secondary-info-renderer\"></div>\r\n<div class=\"style-scope ytd-video-secondary-info-renderer btn btn-primary\"><a href=\"/knowledge-network/webinars\">Watch more Webinar Recordings</a></div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Sense-making and Entrepreneurship in Industry 4.0 webinar presented by Julian Leuthold'
+    title: null
+    width: 1728
+    height: 972
+    target_type: file
+    target_uuid: 15413614-d2ad-496f-92de-214f866779a8
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c2317536-07fb-40ce-b252-f7a91e612339
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    file:
+      - file.image.15413614-d2ad-496f-92de-214f866779a8
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c2317536-07fb-40ce-b252-f7a91e612339

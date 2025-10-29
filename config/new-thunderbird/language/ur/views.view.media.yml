@@ -1,0 +1,31 @@
+display:
+  default:
+    display_title: 'طے شدہ'
+    display_options:
+      fields:
+        media_bulk_form:
+          action_title: ایکشن
+        bundle:
+          label: قِسم
+        uid:
+          label: مصنف
+        status:
+          label: حالت
+        operations:
+          label: معاملات
+      pager:
+        options:
+          tags:
+            previous: '› گزشتہ'
+            first: '» ابتدائی'
+      exposed_form:
+        options:
+          submit_button: فلٹر
+          exposed_sorts_label: 'کی طرف سے  کی گئی مرتب سازی'
+      filters:
+        bundle:
+          expose:
+            label: قِسم
+        langcode:
+          expose:
+            label: زبان

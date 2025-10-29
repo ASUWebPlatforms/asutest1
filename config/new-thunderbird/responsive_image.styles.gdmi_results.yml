@@ -1,0 +1,44 @@
+uuid: 834f0f05-2cdf-46de-8d41-7bea8b193fa8
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.gdmi_results_md
+    - image.style.gdmi_results_sm
+  theme:
+    - thunderbird
+id: gdmi_results
+label: 'GDMI Results'
+image_style_mappings:
+  -
+    image_mapping_type: image_style
+    image_mapping: gdmi_results_md
+    breakpoint_id: thunderbird.xxl
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: gdmi_results_md
+    breakpoint_id: thunderbird.xl
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: gdmi_results_md
+    breakpoint_id: thunderbird.lg
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: gdmi_results_md
+    breakpoint_id: thunderbird.md
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: gdmi_results_sm
+    breakpoint_id: thunderbird.sm
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: gdmi_results_sm
+    breakpoint_id: thunderbird.xs
+    multiplier: 1x
+breakpoint_group: thunderbird
+fallback_image_style: '_original image_'

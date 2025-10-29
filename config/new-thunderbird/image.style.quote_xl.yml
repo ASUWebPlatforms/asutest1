@@ -1,0 +1,17 @@
+uuid: dd90d3bb-012a-41d8-9ad0-f92e5dd033e3
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: quote_xl
+label: 'Quote xl (1440x650)'
+effects:
+  1bc3cd0f-03ab-428c-b3fe-805991d92cfc:
+    uuid: 1bc3cd0f-03ab-428c-b3fe-805991d92cfc
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 1440
+      height: 650
+      crop_type: focal_point

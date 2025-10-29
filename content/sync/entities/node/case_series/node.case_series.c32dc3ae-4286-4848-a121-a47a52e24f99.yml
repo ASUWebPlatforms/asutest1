@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: c32dc3ae-4286-4848-a121-a47a52e24f99
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T19:49:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'South African Breweries Group'
+created:
+  -
+    value: '2016-07-27T19:49:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T19:49:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-00-0007
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case deals with the challenge of developing a global business from a South African base. South African Breweries is the dominant company in beer production and distribution in Africa with rapidly growing presence in Europe and Asia. South African Breweries faces both the challenge of global expansion and the development of a talented local work force in the face of a changing legal and social environment in South Africa. The case describes the series of programs instituted by South Africa Breweries management to deal with these challenges.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-00-0007
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 251a6374-fb3e-473c-8d34-ec9a70a99e88
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: 'South Africa'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "The case illustrates the challenges of leading corporate culture changes of balancing needs for expansion with needs for internal development, and of the role of HR system in driving change. The case focuses on an African company which is attempting to become a global leader while dealing with issues that reflect the complexity of South African social structure.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+      - taxonomy_term.case_series_industry.251a6374-fb3e-473c-8d34-ec9a70a99e88
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

@@ -1,0 +1,25 @@
+display:
+  default:
+    display_options:
+      fields:
+        is_default:
+          label: ਮੂਲ
+        name:
+          label: ਨਾਂ
+        type:
+          label: ਕਿਸਮ
+      pager:
+        options:
+          tags:
+            next: 'ਅੱਗੇ ›'
+            previous: '‹ ਪਿੱਛੇ'
+            last: 'ਆਖਰੀ »'
+      exposed_form:
+        options:
+          reset_button_label: ਰੀ-ਸੈੱਟ
+      filters:
+        type:
+          expose:
+            label: ਕਿਸਮ
+  page_1:
+    display_title: ਸਫਾ

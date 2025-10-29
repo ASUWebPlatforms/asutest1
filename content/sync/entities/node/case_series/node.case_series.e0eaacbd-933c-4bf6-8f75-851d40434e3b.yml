@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: e0eaacbd-933c-4bf6-8f75-851d40434e3b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T19:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Financial Analysis - Identifying The Industry'
+created:
+  -
+    value: '2016-07-27T19:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T19:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-01-0022
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Companies within an industry face similar opportunities and constraints, they often make similar operating, investing and financing decisions. Therefore, companies within the same industry tend to exhibit similar financial characteristics, as measured by financial ratios. On the other hand, since opportunities and constraints tend to be different across industries, companies in different industries tend to exhibit different financial ratios. With some knowledge of the different operating, investing and financing decisions across industries, financial ratios can be used to identify an industry.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-01-0022
+field_case_page_length:
+  -
+    value: '5 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2001-01-01'
+field_case_setting:
+  -
+    value: '1998 - 2000'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: bef9d686-9479-45e5-898c-8c931e77b519
+  -
+    target_type: taxonomy_term
+    target_uuid: 3fa06125-d246-487c-b781-8410d51cda00
+field_teaching:
+  -
+    value: "Using financial statement data for 12 companies, students are asked to match the 12 companies with 12 different industries. The case has been used in the Thunderbird MIM program to introduce ratio analysis in the introductory financial accounting course. The case provides common-sized balance sheets (all items scaled by total assets), common-sized income statements (all items scaled by net sales), and selected financial ratios for the most recent three years for the 12 companies. Since unusual deviation from target values may occur in any given year, the values were averaged over the three most recent years.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.bef9d686-9479-45e5-898c-8c931e77b519
+      - taxonomy_term.case_series_fields.3fa06125-d246-487c-b781-8410d51cda00

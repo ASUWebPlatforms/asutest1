@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 001c1c02-2105-4486-8f4a-7e9fd133d4f9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-04-29T17:55:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+title:
+  -
+    value: 'Using the Fourth Industrial Revolution to Fight COVID-19 Around the World '
+created:
+  -
+    value: '2020-04-29T07:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-29T17:55:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/4ir-fight-covid-19
+body:
+  -
+    value: '<p><em><strong>By Dr. Landry Signé, Dr. Sanjeev Khagram, and Julia Goldstein&nbsp;</strong></em></p><p>From artificial intelligence for medical diagnostics to mobile technology for data collection and contact tracing, technologies associated with the&nbsp;Fourth Industrial Revolution&nbsp;offer efficient and effective ways to cope with the speed, scope, and impact of the COVID-19 pandemic. But these technologies are far from evenly distributed around the world, and this leaves lagging countries and their vulnerable populations at a considerable disadvantage in their capacity to decrease the risk and slow the transmission of the disease.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-04-29T08:30:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 640
+    height: 360
+    target_type: file
+    target_uuid: 3e939a44-3f81-4cc0-bf70-770ef0164b76
+field_news_link:
+  -
+    uri: 'https://www.brookings.edu/techstream/using-the-fourth-industrial-revolution-to-fight-covid-19-around-the-world/'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+    file:
+      - file.image.3e939a44-3f81-4cc0-bf70-770ef0164b76

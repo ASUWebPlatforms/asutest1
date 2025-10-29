@@ -1,0 +1,70 @@
+uuid: 86394837-cb74-41bb-a611-5d44e3b1e40d
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.gdmi_assessment
+    - field.field.commerce_product.gdmi_assessment.body
+    - field.field.commerce_product.gdmi_assessment.field_assessment_webform
+    - field.field.commerce_product.gdmi_assessment.field_image
+    - field.field.commerce_product.gdmi_assessment.field_participants_expansion
+  module:
+    - commerce_product
+    - field_load_more
+    - text
+id: commerce_product.gdmi_assessment.default
+targetEntityType: commerce_product
+bundle: gdmi_assessment
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_participants_expansion:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  title:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  variations:
+    type: commerce_add_to_cart
+    label: hidden
+    settings:
+      combine: true
+    third_party_settings:
+      field_load_more:
+        items_show: ''
+        link_text: ''
+        field_load_more_enabled: 0
+    weight: 3
+    region: content
+hidden:
+  created: true
+  field_assessment_webform: true
+  langcode: true
+  search_api_excerpt: true
+  stores: true
+  uid: true

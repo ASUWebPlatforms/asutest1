@@ -1,0 +1,16 @@
+uuid: cf07ed9c-7154-4480-98a2-7f75e7fe34e9
+langcode: en
+status: true
+dependencies:
+  config:
+    - group.type.gdmi
+id: gdmi-admin
+label: Admin
+weight: 5
+internal: false
+audience: member
+group_type: gdmi
+permissions_ui: true
+permissions:
+  - 'administer members'
+  - 'edit group'

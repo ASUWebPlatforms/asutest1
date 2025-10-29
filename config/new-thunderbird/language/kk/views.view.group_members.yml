@@ -1,0 +1,19 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Ысыру
+      fields:
+        name:
+          label: Пайдаланушы
+        group_roles:
+          label: Рөлдер
+        dropbutton:
+          label: Операциялар
+      arguments:
+        gid:
+          exception:
+            title: Барлық
+  page_1:
+    display_title: Бет

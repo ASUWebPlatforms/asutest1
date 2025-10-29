@@ -1,0 +1,68 @@
+uuid: 100e41b4-cfb4-44a4-972a-5dbc6c35d711
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.paragraph.signpost_w_o_links
+    - field.field.paragraph.card_with_icon.field_body
+    - field.field.paragraph.card_with_icon.field_card_link
+    - field.field.paragraph.card_with_icon.field_clickable
+    - field.field.paragraph.card_with_icon.field_cta
+    - field.field.paragraph.card_with_icon.field_heading
+    - field.field.paragraph.card_with_icon.field_icon
+    - paragraphs.paragraphs_type.card_with_icon
+  module:
+    - allowed_formats
+    - maxlength
+    - paragraphs
+    - text
+_core:
+  default_config_hash: TTpooCeSTrDb-cxtmFnyyOZjdf2cc8syekPmGtzWpM4
+id: paragraph.card_with_icon.signpost_w_o_links
+targetEntityType: paragraph
+bundle: card_with_icon
+mode: signpost_w_o_links
+content:
+  field_body:
+    type: text_textarea
+    weight: 1
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings:
+      maxlength:
+        maxlength_js: null
+        maxlength_js_label: 'Content limited to @limit characters, remaining: <strong>@remaining</strong>'
+        maxlength_js_enforce: false
+        maxlength_js_truncate_html: false
+      allowed_formats:
+        hide_help: '0'
+        hide_guidelines: '0'
+  field_cta:
+    type: entity_reference_paragraphs
+    weight: 2
+    region: content
+    settings:
+      title: CTA
+      title_plural: CTA
+      edit_mode: open
+      add_mode: button
+      form_display_mode: signpost_w_o_links
+      default_paragraph_type: cta
+    third_party_settings: {  }
+  field_heading:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  field_card_link: true
+  field_clickable: true
+  field_icon: true
+  field_show_borders: true
+  status: true

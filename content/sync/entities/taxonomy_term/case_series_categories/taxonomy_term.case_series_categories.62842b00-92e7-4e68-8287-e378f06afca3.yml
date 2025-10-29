@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: 62842b00-92e7-4e68-8287-e378f06afca3
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: case_series_categories
+    target_type: taxonomy_vocabulary
+    target_uuid: 362d035b-63d4-4830-a99e-852d6241cb2e
+revision_created:
+  -
+    value: '2021-10-01T10:39:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'International Policy'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 1
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2021-10-01T10:39:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

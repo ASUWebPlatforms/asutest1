@@ -1,0 +1,19 @@
+uuid: f7936870-e6a4-4000-8564-f95d38de91eb
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image_and_text_gdmi_block
+    - field.storage.block_content.field_heading
+id: block_content.image_and_text_gdmi_block.field_heading
+field_name: field_heading
+entity_type: block_content
+bundle: image_and_text_gdmi_block
+label: Heading
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

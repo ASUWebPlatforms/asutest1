@@ -1,0 +1,29 @@
+uuid: e3df73a6-b786-45d5-9fd8-e1c0ddec5292
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+    - options
+_core:
+  default_config_hash: PvIh02w2MlRjUcKIFKOfWvNveUXA2DPco1PAZpw6yxs
+id: block_content.field_text_color
+field_name: field_text_color
+entity_type: block_content
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: default
+      label: 'Gray 7'
+    -
+      value: text-white
+      label: White
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

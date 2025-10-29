@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b48820c4-aeaa-4d21-8ff8-c4fa8c2c93e7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-11-07T22:55:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'Party Your Way to a New Job!'
+created:
+  -
+    value: '2017-11-01T20:09:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-11-07T22:55:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/party-your-way-new-job
+body:
+  -
+    value: "<p>‘Tis the season of holiday parties! Brush up on your networking skills and party your way into a new job.</p>\r\n<p>Here are eight tips that will make the most of your party time and help you make connections while still having fun:&nbsp;</p>\r\n<h3><span>Get to the party early.</span></h3>\r\n<p>Catch people when they are fresh and before it is too crowded. That’s the best time to network. If you are with friends, just tell them that you are going to “work the room” so you won’t be hanging with them all night. Circulate; don’t coagulate.</p>\r\n<h3><span>Be hands-free.</span></h3>\r\n<p>You’ll need to be able to shake hands, use your hands to talk, or make notes on someone’s business card so you’ll remember what you talked about. Check your coat and briefcase, or leave them at home. If you’re carrying a bag or purse, consider an over-the-shoulder style.&nbsp;</p>\r\n<h3><span>Put your name badge on your right side.</span></h3>\r\n<p>Your right shoulder is your leading shoulder when you shake hands. It comes forward and makes it easier to read your name badge. (Ladies, don’t put that badge too low. It can be embarrassing for you and the gentleman trying to read it.) And if your badge comes on a lanyard, tie a knot in the back of the cord so it sits high enough for others to comfortably see at a glance. If you handwrite your name badge, just put your first name in big letters so it’s easy to read. That’s really all anybody cares about and remembers anyway.&nbsp;</p>\r\n<h3><span>Bring business cards.</span></h3>\r\n<p>Countless people who go to networking events make the horrible mistake of arriving without business cards, then they tell people they ran out. Oh, really? If you are “between jobs,” order some online or print on your desktop printer. Just have them!</p>\r\n<h3>&nbsp;Be interested, not interesting.</h3>\r\n<p>Ask more questions than you answer, listen carefully and make eye contact. And, please, don’t keep glancing around the room while you are talking to someone. That’s rude.</p>\r\n<h3><span>Work the room, don’t spend too much time with just one or two new people.</span></h3>\r\n<p>[[{\"fid\":\"8978\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Party Your Way to a New Job This Holiday Season\",\"field_file_image_title_text[und][0][value]\":\"Party Your Way to a New Job This Holiday Season\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Party Your Way to a New Job This Holiday Season\",\"field_file_image_title_text[und][0][value]\":\"Party Your Way to a New Job This Holiday Season\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Party Your Way to a New Job This Holiday Season\",\"title\":\"Party Your Way to a New Job This Holiday Season\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]No matter how engaging they may be, let others have an opportunity to meet them. Besides, you need to “work the room” too. Ask if you can talk at a later time, get a business card, and then move on.&nbsp;</p>\r\n<h3><span>Stay on top of your party game, don’t drink too much.</span></h3>\r\n<p>Did I really have to say that? While it’s the holiday season and you are at a party, remember you are creating a first and lasting impression. Don’t make an impression you’d rather forget. You can alternate an alcoholic drink with a glass of water, drink sparkling water, set a certain drink limit for yourself, or just don’t drink anything.&nbsp;</p>\r\n<h3><span>Follow up with people you meet.</span></h3>\r\n<p>You get all dressed up, go to an event, meet great people, and then do nothing? What a shame. Connect on LinkedIn or send a personal e-mail within 48 hours, no later!&nbsp;</p>\r\n<p>Have a great time, enjoy some fun parties, and meet lots of fascinating people. And keep networking!</p>\r\n<p>&nbsp;</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: '‘Tis the season of holiday parties! Brush up on your networking skills and party your way into a new job.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 43ef7019-178f-4f3a-8689-44752e557e3c
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.43ef7019-178f-4f3a-8689-44752e557e3c
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

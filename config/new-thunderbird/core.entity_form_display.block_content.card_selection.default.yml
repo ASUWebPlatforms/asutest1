@@ -1,0 +1,378 @@
+uuid: 9401b7d4-f5fd-481c-9e10-d7478d97e2a6
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - entity_browser.browser.card_items
+    - field.field.block_content.card_selection.body
+    - field.field.block_content.card_selection.field_anchor_menu_settings
+    - field.field.block_content.card_selection.field_author
+    - field.field.block_content.card_selection.field_block_class
+    - field.field.block_content.card_selection.field_card_display
+    - field.field.block_content.card_selection.field_cards_heading_level
+    - field.field.block_content.card_selection.field_certificates
+    - field.field.block_content.card_selection.field_columns
+    - field.field.block_content.card_selection.field_content_category
+    - field.field.block_content.card_selection.field_content_position_cards
+    - field.field.block_content.card_selection.field_content_type
+    - field.field.block_content.card_selection.field_cta
+    - field.field.block_content.card_selection.field_degrees
+    - field.field.block_content.card_selection.field_heading_level
+    - field.field.block_content.card_selection.field_heading_style
+    - field.field.block_content.card_selection.field_hide_images
+    - field.field.block_content.card_selection.field_items
+    - field.field.block_content.card_selection.field_items_to_display
+    - field.field.block_content.card_selection.field_regions
+    - field.field.block_content.card_selection.field_solutions
+    - field.field.block_content.card_selection.field_sort_order
+  module:
+    - conditional_fields
+    - entity_browser
+    - field_group
+    - field_states_ui
+    - paragraphs
+    - select2
+    - text
+third_party_settings:
+  field_group:
+    group_options:
+      children:
+        - field_content_type
+        - field_items_to_display
+        - field_content_category
+        - field_regions
+        - field_degrees
+        - field_certificates
+        - field_author
+        - field_sort_order
+      label: Options
+      region: content
+      parent_name: ''
+      weight: 7
+      format_type: details
+      format_settings:
+        classes: ''
+        id: ''
+        open: false
+        description: 'Options to automatically display cards based on type and category.'
+        required_fields: false
+    group_display_options:
+      children:
+        - field_cards_heading_level
+        - field_columns
+        - field_card_display
+        - field_hide_images
+      label: 'Display options'
+      region: content
+      parent_name: ''
+      weight: 8
+      format_type: details
+      format_settings:
+        classes: ''
+        id: ''
+        open: false
+        description: ''
+        required_fields: false
+id: block_content.card_selection.default
+targetEntityType: block_content
+bundle: card_selection
+mode: default
+content:
+  body:
+    type: text_textarea_with_summary
+    weight: 4
+    region: content
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+  field_anchor_menu_settings:
+    type: entity_reference_paragraphs
+    weight: 10
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: anchor_menu_settings
+    third_party_settings: {  }
+  field_author:
+    type: entity_reference_autocomplete
+    weight: 13
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_block_class:
+    type: string_textfield
+    weight: 26
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_card_display:
+    type: options_select
+    weight: 6
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_cards_heading_level:
+    type: options_select
+    weight: 4
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_certificates:
+    type: select2_entity_reference
+    weight: 12
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings:
+      conditional_fields:
+        de743276-a75f-401e-bde3-6c656f43d4de:
+          entity_type: block_content
+          bundle: card_selection
+          dependee: field_content_type
+          settings:
+            state: visible
+            condition: '!empty'
+            grouping: AND
+            values_set: 1
+            value: ''
+            values: {  }
+            value_form:
+              -
+                value: certificate
+            effect: show
+            effect_options: {  }
+            selector: ''
+  field_columns:
+    type: options_select
+    weight: 5
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_content_category:
+    type: entity_browser_entity_reference
+    weight: 9
+    region: content
+    settings:
+      entity_browser: card_categories
+      field_widget_display: label
+      field_widget_edit: true
+      field_widget_remove: true
+      field_widget_replace: false
+      open: false
+      field_widget_display_settings: {  }
+      selection_mode: selection_append
+    third_party_settings:
+      conditional_fields:
+        79f2de73-fc84-4f4f-905b-193d275c5b31:
+          entity_type: block_content
+          bundle: card_selection
+          dependee: field_content_type
+          settings:
+            state: visible
+            condition: '!empty'
+            grouping: AND
+            values_set: 1
+            value: ''
+            values: {  }
+            value_form: {  }
+            effect: show
+            effect_options: {  }
+            selector: ''
+  field_content_position_cards:
+    type: options_select
+    weight: 5
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_content_type:
+    type: options_select
+    weight: 7
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_cta:
+    type: entity_reference_paragraphs
+    weight: 3
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+  field_degrees:
+    type: select2_entity_reference
+    weight: 11
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings:
+      conditional_fields:
+        26665976-82ed-403b-b1d5-e8f53cb079ff:
+          entity_type: block_content
+          bundle: card_selection
+          dependee: field_content_type
+          settings:
+            state: visible
+            condition: '!empty'
+            grouping: AND
+            values_set: 1
+            value: ''
+            values: {  }
+            value_form: {  }
+            effect: show
+            effect_options: {  }
+            selector: ''
+  field_heading_level:
+    type: options_select
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_heading_style:
+    type: options_select
+    weight: 1
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_hide_images:
+    type: boolean_checkbox
+    weight: 7
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_items:
+    type: entity_browser_entity_reference
+    weight: 6
+    region: content
+    settings:
+      entity_browser: card_items
+      field_widget_display: label
+      field_widget_edit: true
+      field_widget_remove: true
+      field_widget_replace: false
+      open: false
+      field_widget_display_settings: {  }
+      selection_mode: selection_append
+    third_party_settings: {  }
+  field_items_to_display:
+    type: number
+    weight: 8
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings:
+      conditional_fields:
+        122bb4ca-4da3-43c7-a3ea-1527320277c0:
+          entity_type: block_content
+          bundle: card_selection
+          dependee: field_content_type
+          settings:
+            state: visible
+            condition: '!empty'
+            grouping: AND
+            values_set: 1
+            value: ''
+            values: {  }
+            value_form: {  }
+            effect: show
+            effect_options: {  }
+            selector: ''
+  field_regions:
+    type: select2_entity_reference
+    weight: 10
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings:
+      conditional_fields:
+        166648bb-3feb-473c-abde-6428eaa2d203:
+          entity_type: block_content
+          bundle: card_selection
+          dependee: field_content_type
+          settings:
+            state: visible
+            condition: '!empty'
+            grouping: AND
+            values_set: 1
+            value: ''
+            values: {  }
+            value_form: {  }
+            effect: show
+            effect_options: {  }
+            selector: ''
+  field_sort_order:
+    type: options_select
+    weight: 14
+    region: content
+    settings: {  }
+    third_party_settings:
+      conditional_fields:
+        23be7686-cf47-442b-81a7-084147d8d894:
+          entity_type: block_content
+          bundle: card_selection
+          dependee: field_content_type
+          settings:
+            state: visible
+            condition: '!empty'
+            grouping: AND
+            values_set: 1
+            value: ''
+            values: {  }
+            value_form: {  }
+            effect: show
+            effect_options: {  }
+            selector: ''
+  info:
+    type: string_textfield
+    weight: 2
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 9
+    region: content
+    settings:
+      include_locked: false
+    third_party_settings:
+      field_states_ui:
+        form:
+          type: ''
+          list: ''
+          add: Add
+  translation:
+    weight: 11
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_solutions: true

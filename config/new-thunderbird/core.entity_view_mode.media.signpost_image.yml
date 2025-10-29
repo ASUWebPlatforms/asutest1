@@ -1,0 +1,10 @@
+uuid: 892b0381-145c-49b0-8224-94f1f51041c1
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.signpost_image
+label: 'Signpost Image'
+targetEntityType: media
+cache: true

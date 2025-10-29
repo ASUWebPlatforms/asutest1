@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 34ac6e52-72e7-4e1c-a716-dd708089bcd8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+filename:
+  -
+    value: grad_bw.jpg
+uri:
+  -
+    value: 'public://grad_bw.jpg'
+    url: /sites/default/files/grad_bw.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 83808
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-04-23T19:55:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-23T19:55:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f

@@ -1,0 +1,21 @@
+ <div class="manage-groups-communications">
+    <h3>Participant Reminders Settings</h3>
+    <p>You can edit or add reminder(s) sent to participants below. You can add scheduling to the reminder as well as custom messaging. If no changes are made, the default reminder will be used.</p>
+
+    <div class="communications-container communications-container__participant-reminders">
+      <div class="gdmi-check-form-group">
+        <input class="form-control gdmi-check" {% if content.defaults.reminders_type == 'default' %} checked {% endif %} name="participants_reminders_type" id="participants_reminder_type_default" value="default" type="radio">
+        <label for="participants_reminder_type_default">Default Reminder</label>
+        <p>A default reminder, utilizing the default reminder message, will be sent out 1 day before the due date to every participant with an unfinished GDMI.</p>
+      </div>
+      <div class="gdmi-check-form-group">
+        <input class="form-control gdmi-check" {% if content.defaults.reminders_type == 'custom' %} checked {% endif %} name="participants_reminders_type" id="participants_reminder_type_custom" value="custom" type="radio">
+        <label for="participants_reminder_type_custom">Custom Reminder(s)</label>
+        <p>A custom reminder message that will have its own scheduling and messaging. You may set multiple reminders if you would like.</p>
+      </div>
+      <div class="reminders-container">
+        {{ content.reminders }}
+      </div>
+      <button class="btn d-block mx-auto text-white add-reminder-btn" type="button">+ Add Reminder</button>
+    </div>
+  </div>

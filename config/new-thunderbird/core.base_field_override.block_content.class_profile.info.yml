@@ -1,0 +1,18 @@
+uuid: c8bc1cba-827d-46a7-97c0-6453bbce2bd2
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.class_profile
+id: block_content.class_profile.info
+field_name: info
+entity_type: block_content
+bundle: class_profile
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

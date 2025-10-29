@@ -1,0 +1,42 @@
+uuid: b90a64e2-d727-4146-9a94-8c7b3277a791
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.card_horizontal
+    - field.field.media.image.field_caption
+    - field.field.media.image.field_image_caption
+    - field.field.media.image.field_media_image
+    - media.type.image
+    - responsive_image.styles.card_horizontal
+  module:
+    - layout_builder
+    - responsive_image
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+_core:
+  default_config_hash: 7iQPtqwifpyyE8v9VmSHhB8Gcz6rtFG4kyqJXYElIvs
+id: media.image.card_horizontal
+targetEntityType: media
+bundle: image
+mode: card_horizontal
+content:
+  field_media_image:
+    type: responsive_image
+    label: hidden
+    settings:
+      responsive_image_style: card_horizontal
+      image_link: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  field_caption: true
+  field_image_caption: true
+  langcode: true
+  name: true
+  thumbnail: true
+  uid: true

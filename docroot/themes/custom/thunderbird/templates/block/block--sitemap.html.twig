@@ -1,0 +1,8 @@
+{% set classes = [
+  'container'
+  ] %}
+{% extends 'block.html.twig' %}
+
+{% block content %}
+  {{ sitemap_tree | raw }}
+{% endblock %}

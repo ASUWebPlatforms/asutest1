@@ -1,0 +1,15 @@
+uuid: 3ac9bc8a-b727-4768-8d38-77835a968ffb
+langcode: en
+status: true
+dependencies: {  }
+name: signpost_wide
+label: 'Signpost Wide (1125 x 450)'
+effects:
+  5b98ef64-ecec-4b21-bf81-4c2e5bcde675:
+    uuid: 5b98ef64-ecec-4b21-bf81-4c2e5bcde675
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1125
+      height: 450
+      anchor: center-center

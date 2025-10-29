@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 83324311-0a6d-4f22-b605-e5bac7fa7df3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: '5 Tips for Triangulation'
+created:
+  -
+    value: '2014-02-14T07:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/5-tips-triangulation
+body:
+  -
+    value: "<p>[[{\"fid\":\"3078\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"5 Tips for Triangulation\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"5 Tips for Triangulation\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"5 Tips for Triangulation\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>We've visited close to 15 markets and met with nearly 30 factory operators, craftsman, distributors, export professionals, businesspeople, foreign investors, and representatives of chambers of commerce.</p>\r\n<p>Sometimes we hear fantastical stories that make it sound like the streets to FDI in Myanmar are paved with gold. Other times we hear of a country riddled with unsurpassable obstacles. Some vendors in a local market claimed that none of their products were made in Myanmar—\"Myanmar made,\" we later learned, is synonymous with low quality. Yet, vendors in tourist markets claim that nearly everything is \"from Myanmar\"—they've caught on that tourist want to buy souvenirs made in the place they visit.</p>\r\n<p>How do we know the truth? How can we know for certain that what we're being told is not a lie or wishful thinking or pessimism? Well, we're not experts yet, but here are five tips we've found to be useful when triangulating information.<br><br><strong>1. Choose transparency over obscurity, build trust, create psychological harmony.</strong><br>Start your conversation with a smile. Be vulnerable if possible. Speak as much of the local language as you can to show that you are relationship oriented...and to show off how poor your language skills are! If you're not fluent in your target's native language, travel with a local friend who will help translate or hire a translator. Do not pepper your target with questions and let them ask a few of you, if you'd like. Laugh easily. Make jokes. Let show your general interest in your target as a human.</p>\r\n<p>Match like with like: If you are speaking with a young woman, you may be more successful if you send a young woman. If the person with whom you are speaking fancies him or herself a teacher, channel your inner curious student. If the person fancies him or herself a powerful businessperson, play up how much he or she knows and how many people he or she knows. You do not want your target to be on his or her guard or to be nervous. If you can create psychological harmony, your target will likely share more.<br><br><strong>2. Teach your translator.</strong><br>You may find it beneficial to hire a local translator, even if you are fluent in the local language. The nuances of communication are difficult even for natives. You may speak the right words, but in the wrong way. Asking about sensitive issues is delicate and a translator should be chosen very wisely. If you don't want to raise any red flags, you may choose to hire someone who is culturally non-threatening, like a soft-spoken young woman. If you are negotiating terms of a large business deal, you might want to find an older businessman with an extensive network. Make sure that your translator understands your end goals and the tactics (like those in this blog) that you'd like to employ.</p>\r\n<p>For example, you might need to teach your translator a bit about the different steps in a supply chain, like manufacturer, warehouse, distributor, showroom, and retailer. You may need to briefly describe how various products are manufactured. You may need to review INCO terms. Explain the nature of your project, your job, and your client or company. You should help them understand how you will be benefitting the target so that they do not feel timid or guilty when asking questions.<br><br><strong>3. Ask the same question in different ways...and sometimes in the same way.</strong><br>Sometimes people misunderstand when you ask the first time. Sometimes your message is lost in translation. Sometimes your target does not want to answer the question. Sometimes they are lying to you. Sometimes you've asked the question in a way that does not reveal everything you could know. No matter the issue, asking the same question many times often illuminates the truth. The target will eventually understand, rephrase the mistruth into something more accurate, or provide more detailed information. Always remember tip #1 though: do not become antagonistic or interrogate. Simply \"check\" your understanding and phrase the question repeat as if it's a new question.</p>\r\n<p>For example, to learn more about a distribution network you might ask, \"Do you make this product\" \"Is this product made in Myanmar?\" \"Where is this made\" \"How do you get product?\" \"Who is your distributor?\" \"Who do you call when you need more product?\"<br><br><strong>4. Assert something that you know is false, then say, \"right?\"</strong><br>Use this tactic when you know that the target would benefit from responding affirmatively to a yes-or-no question. This tip is especially useful in an indirect culture where contradicting someone is uncomfortable. For example, you are meeting with a bamboo basketer. He seems to imply that he produces the baskets from raw material to final product. You know that he is incentivized by price to say, \"Yes,\" if you ask him if he makes the rolls of woven bamboo you see in the corner of his house: it makes him look good and he knows it will make you happy. Therefore, instead you should say, \"Oh, I see. So you buy these rolls of woven bamboo from Yangon?\" You can often see micro-expression or other reflexive psychological responses if what you've said is false. He may<br>even do a half nod before he's heard what you said because he'd really like to confirm anything you say. However, if he has indeed made the bamboo rolls himself, once he's heard your full question, he may quickly say, \"Oh no. I make those myself.\"</p>\r\n<p>You've left him to contradict you in order to assert the truth. You've also set him up to teach you about what he does so that he can prove what he's saying is true. He may talk you through the steps to process raw bamboo into a basket. He may even show you. Use this one in combination with tip #2 and you're golden.<br><br><strong>5. Spend time observing people and compare your observations to what you're being told.</strong><br>Perhaps you are standing near a large building outside a local market. You notice young men going into the building with huge bundles of textiles and some young men coming out with small bundles of textiles. You might assume that this is a distribution center where textile manufacturers bring finished products and market vendors buy small bundles for sale at their stalls. Next you might identify who holds power and ask that person what they know. For example, in a market you might notice that the young men are coming to and from a line of trucks and one person seems to be directing traffic. This person is a great person to talk to for information. He probably knows everything about distribution of textiles in the city.</p>\r\n<p>Now check if everything you've observed matches with what you've heard elsewhere. Did a vendor inside tell you that he or she has different products than everyone else and has an exclusive relationship with his or her supplier? You may need to question the reliability of this information with some of the other tactics on this list.</p>\r\n<p><em>Author: Lacey Yoder (Best practices shared by entire team.)<br>Photo: Ann learns to throw pottery on a manual wheel.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 66581819-156f-4d37-a97e-e764b7ba1f69
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.66581819-156f-4d37-a97e-e764b7ba1f69

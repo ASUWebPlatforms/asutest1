@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 350ac068-8248-4c5f-b090-3361964e0f49
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+filename:
+  -
+    value: mistakes-to-avoid-in-negotiating-your-new-job-offer.png
+uri:
+  -
+    value: 'public://article/mistakes-to-avoid-in-negotiating-your-new-job-offer.png'
+    url: /sites/default/files/article/mistakes-to-avoid-in-negotiating-your-new-job-offer.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 222305
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-04-12T23:02:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-12T23:02:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95

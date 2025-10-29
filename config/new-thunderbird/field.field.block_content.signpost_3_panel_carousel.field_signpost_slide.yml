@@ -1,0 +1,109 @@
+uuid: 778015be-5f3d-468e-8ae4-2ab11a8d7e9d
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_3_panel_carousel
+    - field.storage.block_content.field_signpost_slide
+    - paragraphs.paragraphs_type.signpost_w_2_images
+  module:
+    - entity_reference_revisions
+id: block_content.signpost_3_panel_carousel.field_signpost_slide
+field_name: field_signpost_slide
+entity_type: block_content
+bundle: signpost_3_panel_carousel
+label: Signpost
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      signpost_w_2_images: signpost_w_2_images
+    negate: 0
+    target_bundles_drag_drop:
+      accordion_panel:
+        weight: 24
+        enabled: false
+      anchor_menu_settings:
+        weight: 25
+        enabled: false
+      blockquote:
+        weight: 26
+        enabled: false
+      card:
+        weight: 27
+        enabled: false
+      card_degree:
+        weight: 28
+        enabled: false
+      card_event:
+        weight: 29
+        enabled: false
+      card_group_default:
+        weight: 30
+        enabled: false
+      card_group_degree:
+        weight: 31
+        enabled: false
+      card_group_story:
+        weight: 32
+        enabled: false
+      card_group_with_icon:
+        weight: 33
+        enabled: false
+      card_media:
+        weight: 34
+        enabled: false
+      card_story:
+        weight: 35
+        enabled: false
+      card_with_icon:
+        weight: 36
+        enabled: false
+      cta:
+        weight: 37
+        enabled: false
+      flip_card:
+        weight: 42
+        enabled: false
+      gallery_image:
+        weight: 38
+        enabled: false
+      image:
+        weight: 39
+        enabled: false
+      link_list:
+        weight: 45
+        enabled: false
+      signpost:
+        weight: 40
+        enabled: false
+      signpost_less_content:
+        weight: 47
+        enabled: false
+      signpost_quote:
+        weight: 41
+        enabled: false
+      signpost_w_2_images:
+        weight: 49
+        enabled: true
+      signpost_w_icon:
+        weight: 42
+        enabled: false
+      signpost_w_o_image:
+        weight: 43
+        enabled: false
+      tab_content:
+        weight: 44
+        enabled: false
+      testimonial:
+        weight: 45
+        enabled: false
+      tooltip:
+        weight: 46
+        enabled: false
+field_type: entity_reference_revisions

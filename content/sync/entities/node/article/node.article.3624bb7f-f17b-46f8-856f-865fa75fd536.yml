@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 3624bb7f-f17b-46f8-856f-865fa75fd536
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Supplier Diversity 101'
+created:
+  -
+    value: '2014-02-22T14:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/supplier-diversity
+body:
+  -
+    value: "<p><strong>Supplier Diversity? What is that?</strong></p>\r\n<p>You are a global MNC and have hundreds, if not thousands of businesses across the world that supply to your organization. You want to provide opportunities to those vendors that are typically not used for sourcing and cannot afford complacency creeping into your products or services because of the same set of suppliers. Hence you require that your supply chain be as diverse as possible, because that manifests into the products and services you create for your customer. You want to bring the world to your customer, hence you transact with diverse suppliers, because the demographics of the suppliers’ communities would be quantitatively reflected into your products and services. This is what supplier diversity is about.<span>&nbsp;</span></p>\r\n<p>Supplier Diversity is a program that promotes the use of diversity organizations as suppliers. “Diversity” could mean that individuals of diverse races, women, veterans, LGBT or service-disabled veterans own the supplier’s business. Historically underutilized or small business vendors also are eligible for this program. It requires that the business owners have a minimum of 51% ownserhip and control. Because the roots of this program lie in the Civil Rights Movement, it is originated in the US (mostly US-based MNCs implemented the program first) and hence US-based ethnic minorities are included as well.</p>\r\n<p><strong>So why is Supplier Diversity so important?</strong></p>\r\n<p>Women and minority-owned businesses are among the fastest growing sectors of the economy and a key force behind job growth and creation in economic recovery. Hence it makes sense to capitalize on this aspect. The importance and benefits of this program are described as follows:</p>\r\n<ul>\r\n<li>Business growth and innovation could be increased and costs could be reduced through a broader vendor choice</li>\r\n<li><span>Both</span><span>&nbsp;corporations and vendors develop significant c</span><span>ompetitive advantages</span></li>\r\n<li><span>Brand image, corporate-community ties and CSR (corporate social responsibility) are enhanced</span></li>\r\n<li><span>Employment opportunities</span><span>, talent recruiting and retention</span><span>&nbsp;with the diverse suppliers increase tremendously</span></li>\r\n</ul>\r\n<p><strong>How does it work?</strong></p>\r\n<p>MNCs such as Walmart, Exxon Mobil, Accenture and Dell are big players in the supplier diversity program arena.&nbsp;Each corporation has a different process of executing these programs, but all rely on a database of diverse suppliers and a system that helps verify (or certify) the authenticity of a supplier and whether it has the capabilities to supply to the corporation. MNCs employ the services of certifying companies or companies that have a huge, user-friendly supplier database that can be accessed through membership programs in the company.<span>&nbsp;Once verified by the intermeridary certifying company, an MNC establishes a relationship with the supplier if its choice, creates contracts and begins transactions. &nbsp;</span></p>\r\n<p>Outside the USA, this program is referred to as Supplier Diversity and Inclusion.&nbsp;In most countries, even the developed ones, it is extremely difficult to gain access to information about diversity suppliers, because there is no single global organization that records and disburses information, especially about women-owned businesses.&nbsp;WEConnect International saw an exceptional opportunity to officially initiate this program on a global scale, effectively becoming the pioneer for supplier diversity in many countries worldwide. In-country corporations seek to create relationships with WEConnect because they need access to their local set of diversity suppliers. WEConnect International strives to be that global organization that fills this void of lack of information and hence, although headquartered in the US, it offers business certification programs in global markets.</p>\r\n<p><em>Author: Sneha Gayatri</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 66581819-156f-4d37-a97e-e764b7ba1f69
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.66581819-156f-4d37-a97e-e764b7ba1f69

@@ -1,0 +1,57 @@
+uuid: 4d2cb1c0-b781-47fd-9558-4d0915794f61
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.signpost_with_modal_links.field_body
+    - field.field.paragraph.signpost_with_modal_links.field_heading
+    - field.field.paragraph.signpost_with_modal_links.field_link_text
+    - field.field.paragraph.signpost_with_modal_links.field_sub_heading
+    - paragraphs.paragraphs_type.signpost_with_modal_links
+  module:
+    - text
+id: paragraph.signpost_with_modal_links.default
+targetEntityType: paragraph
+bundle: signpost_with_modal_links
+mode: default
+content:
+  field_body:
+    type: text_textarea
+    weight: 3
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  field_heading:
+    type: string_textfield
+    weight: 2
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_link_text:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_sub_heading:
+    type: string_textfield
+    weight: 1
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  translation:
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

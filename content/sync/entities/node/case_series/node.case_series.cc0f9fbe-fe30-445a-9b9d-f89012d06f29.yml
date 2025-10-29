@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: cc0f9fbe-fe30-445a-9b9d-f89012d06f29
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:28:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Hola-Kola—The Capital Budgeting Decision'
+created:
+  -
+    value: '2016-07-16T00:22:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:28:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-13-0013
+body:
+  -
+    value: '<p><span>Antonio Ortega, the owner of Bebida Sol, a private-label carbonated soft drink company based in Mexico, was contemplating whether to invest in a new zero-calories soda product line, Hola-Kola. This was the first major capital investment decision Antonio had to make after his father unexpectedly passed away. Through a market study, he collected some data about the potential market size and the costs associated with this new product line. Along with these data was also the fact that the new product line might severely erode his existing regular soda sales. He needed to determine if this capital investment was worth making and would create value for his company.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-13-0013
+field_case_page_length:
+  -
+    value: '5 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: f0f95285-4d36-4d35-93c2-40aa62d3f051
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 251a6374-fb3e-473c-8d34-ec9a70a99e88
+field_case_series_year:
+  -
+    value: '2013-01-01'
+field_case_setting:
+  -
+    value: Mexico
+field_case_source:
+  -
+    value: 'General experience'
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: "This case could be used in the core finance course, either undergraduate or graduate, to familiarize students with investment or capital budgeting decisions. It allows students to build financial models on spreadsheets, carry out sensitivity, scenario, or breakeven analyses. With the free cash flows calculated, students can also use the different capital budgeting measures such as NPV, IRR, payback period, and profitability index to determine if the project creates value for the firm. The case could also be used as a hands-on way to apply the concepts of discounted cash flow analysis.\r\n\r\nBesides tool building, the case could also be used to illustrate the importance of competitive environment and a firm’s strategic direction in investment decision-making."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.f0f95285-4d36-4d35-93c2-40aa62d3f051
+      - taxonomy_term.case_series_industry.251a6374-fb3e-473c-8d34-ec9a70a99e88
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

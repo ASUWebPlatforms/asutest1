@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 3ee52c06-b0e1-4698-8e02-567aa925c7b1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:31:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'Experience Beats Credentials In The Emergency Room. Why Not The C Suite?'
+created:
+  -
+    value: '2017-10-02T16:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:31:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/experience-beats-credentials-emergency-room-why-not-c-suite
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">After a doctor performs a procedure for the 60th time, we see better outcomes. Should we be thinking about how we choose a&nbsp;CEO?</h3>\r\n<p class=\"graf graf--p graf-after--figure\">[[{\"fid\":\"8158\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Experience Beats Credentials\",\"field_file_image_title_text[und][0][value]\":\"Experience Beats Credentials\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Experience Beats Credentials\",\"field_file_image_title_text[und][0][value]\":\"Experience Beats Credentials\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Experience Beats Credentials\",\"title\":\"Experience Beats Credentials\",\"style\":\"margin: 10px; float: left;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]A man shot in the chest traveling in the back of an ambulance at 90 mph has one decision to make. Should he go to the local community hospital with extensive experience in gunshot wounds or the research institution 25 miles down the road with a nationally known specialist?</p>\r\n<p class=\"graf graf--p graf-after--p\">Most of us will choose the specialist. That could be a fatal mistake.</p>\r\n<p class=\"graf graf--p graf-after--p\">Even among highly logical thinkers like scientists, there is a universal tendency towards ‘authority bias.’ This is why the first thing an academic does upon reviewing an article is find out where the author got her Ph.D. The bias does more than choose reading material. It convinces us we are safer with a well known&nbsp;<em>someone</em>&nbsp;over a skilled&nbsp;<em>anyone</em>. The quick explanation is when we choose the nationally known surgeon, even if the outcome is fatal, it wasn’t their fault and it wasn’t your fault. Stuff happens, right?</p>\r\n<p class=\"graf graf--p graf-after--p\">But if a ‘nobody’ from a community hospital does the procedure and the patient dies, the headline is “surgery botched by community doc.” We would much rather risk our lives than make a decision friends will criticize.</p>\r\n<p class=\"graf graf--p graf-after--p\">There is ample reason now to choose the less credentialed alternative. The New England Journal of Medicine&nbsp;<a href=\"http://www.nejm.org/doi/pdf/10.1056/NEJMp1508472\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://www.nejm.org/doi/pdf/10.1056/NEJMp1508472\">issued a report</a>, Clinical Effect of Surgical Volume, that discovered when a&nbsp;<span class=\"markup--strong markup--p-strong\">surgeon completes his or her 60th procedure</span>, they reach a proficiency level that predicts better outcomes. It exceeds other factors that include advanced degrees, reputation, and prestige. It summarized the findings as “ volume may be a surrogate for what we care about (good outcomes).”</p>\r\n<p class=\"graf graf--p graf-after--p\">Surgery is a complex art, not unlike managing a global enterprise or planning a wartime maneuver. We should rethink whether we have allowed credential worship to rule out the value of experience<span class=\"markup--strong markup--p-strong\">&nbsp;</span>in these complicated endeavors. Or at the least, be sure that credentials and experience are aligned in decision making.</p>\r\n<p class=\"graf graf--p graf-after--p\">In surgery, the shift in emphasis to practice over prestige is happening on a wide scale and great hospitals are making a swift recovery from the bias.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">They have no choice. Making the right decision in their business is a matter of life or death.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">&nbsp;</p>\r\n<h4><span>Author’s Bio</span></h4>\r\n<p><em><span>Jeff&nbsp;Cunningham&nbsp;is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.&nbsp;</span></em></p>\r\n<p><em><span>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</span></em></p>\r\n<p><em><span>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;</span></em><a href=\"http://www.iconicvoices.tv/\"><em><span>Iconic Voices</span></em></a><em><span>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to&nbsp;JeffImmelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;</span></em><a href=\"http://www.jeffcunningham.com/\"><em><span>JeffCunningham.com.</span></em></a><em><span>&nbsp;</span></em></p>\r\n<p><em><span>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.&nbsp;</span></em></p>\r\n<p><em><span>He has also been a board director of 10 public companies.</span></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1000
+    height: 666
+    target_type: file
+    target_uuid: e07a41a7-e371-4593-ba64-1395b0242785
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.e07a41a7-e371-4593-ba64-1395b0242785
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

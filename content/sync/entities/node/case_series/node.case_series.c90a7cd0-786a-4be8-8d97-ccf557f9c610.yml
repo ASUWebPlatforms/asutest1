@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: c90a7cd0-786a-4be8-8d97-ccf557f9c610
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T19:51:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Leading Across Cultures: France'
+created:
+  -
+    value: '2016-07-26T19:51:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T19:51:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/d15-05-0020
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Leading Across Cultures: France is part of a series of white papers focusing on leadership effectiveness in a variety of culture settings. The authors explore the historical and cultural roots of leading effectively in France. Examples of leadership in France are contrasted with leadership in other cultures. In addition, the author concludes with a discussion of how leadership in France is change in the context of globalization.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: D15-05-0020
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: France
+field_case_source:
+  -
+    value: 'Library, general experience'
+field_case_subject:
+  - {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: dfb75b01-ed2a-4294-b672-48c2e46282c4
+field_teaching:
+  -
+    value: "The white papers in this series are intended to be used to generate discussion of leadership in multiple cultural contexts. This paper can be used as a standalone reading or as part of a set of cultures to encourage a compare-and-contrast type of discussion.\r\n\r\nThe white papers are intended to generate discussion, debate, and reflection on the part of the reader/participant. The series was created to be used in an MBA-level leadership course or a session in a management course. The papers are particularly appropriate for a class on global leadership.\r\n\r\nThe white papers should be supplemented with other materials presenting different/expanded views on the cultural context in the GLOBE research on cultural variables and leadership implications."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+      - taxonomy_term.case_series_fields.dfb75b01-ed2a-4294-b672-48c2e46282c4

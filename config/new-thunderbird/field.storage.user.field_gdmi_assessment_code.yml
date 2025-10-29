@@ -1,0 +1,19 @@
+uuid: adbac725-2658-4efe-b2c3-bb26b9c24af2
+langcode: en
+status: true
+dependencies:
+  module:
+    - tb_gdmi
+    - user
+id: user.field_gdmi_assessment_code
+field_name: field_gdmi_assessment_code
+entity_type: user
+type: webform_access_code
+settings: {  }
+module: tb_gdmi
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 7f6b95d8-5eb6-4f9c-b17b-5566d97c9aba
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2021-02-02T17:35:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'COVID and Crisis Management: How the Tour de France Averted Ultimate Super-spreader Status '
+created:
+  -
+    value: '2021-02-02T17:35:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-02-02T17:35:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-21-0002
+body:
+  -
+    value: '<p>By all reasonable counts, the 2020 Tour de France 2 (Tour) probably should have been cancelled. The phenomenon could have become an extreme transmitter for the coronavirus (COVID). Had the grand tradition continued normally, it would have drawn millions of spectators, who would have gathered at venues throughout France, packed together for the best views of the field, within arm’s reach of cycling celebrities who were accustomed to high-touch access, selfie embraces, and victory hugs. Many decisions and actions made during the Tour secured crisis aversion, and offer prime lessons for organizational crisis preparation and response, as described in this case.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-21-0002
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 96d54877-6115-4625-9b05-72c810986896
+field_case_series_year:
+  -
+    value: '2021-01-01'
+field_case_setting:
+  -
+    value: France
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: abd0340a-f228-4f57-89d2-afca7c1a18ef
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: be529d94-28fd-4a24-b924-5cecddb53b94
+field_teaching:
+  -
+    value: "1.\tTo understand the cultural context within which these events took place.\r\n2.\tTo adopt a cross-cultural perspective of crisis management by considering the geographic setting of the Tour. \r\n3.\tTo understand the perspectives of stakeholders including individuals, groups, organizations, and communities of the 2020 Tour de France that could affect or be affected by the coronavirus. \r\n4.\tTo study behavioral mandates and compliance and how they affect the success of the Tour in managing COVID contamination including the role of cyclists’ values, norms and expectations."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+      - taxonomy_term.case_series_industry.96d54877-6115-4625-9b05-72c810986896
+      - taxonomy_term.case_series_categories.abd0340a-f228-4f57-89d2-afca7c1a18ef
+      - taxonomy_term.case_series_fields.be529d94-28fd-4a24-b924-5cecddb53b94

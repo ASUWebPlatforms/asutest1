@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 41f383cc-333f-46f8-ba52-507adf5639ed
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Blending Medicine and Culture in the Navajo Nation'
+created:
+  -
+    value: '2012-12-10T09:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/medicine-culture-navajo-nation
+body:
+  -
+    value: "<p>Phoenix has cutting edge healthcare and bio-industry centers that attract interest from all over the world, but Navajo patients looking for cultural understanding often find better service at a local hospital three hours north in a remote corner of Arizona.</p>\r\n<p>I visited the Tuba City hospital May 10-11, 2012, with 13 students from Thunderbird School of Global Management. The visit was part of a two-week tour of healthcare and bio-industry centers across Arizona. Twelve of the students hailed from outside the United States, coming from places such as India, China, South Korea, Japan and Saudi Arabia. The Navajo experience was a highlight for a student population geared toward learning about culture and language.</p>\r\n<p>The Tuba City Regional Health Care Center, which opened on the Navajo Nation in 1975, has made bold moves in recent years to integrate the traditional ways of tribal elders with the miracles of modern medicine. Joseph Engelken, CEO, and Joette Walters, Clinical Education and Telemedicine Manager, graciously hosted the visit and offered important contextual insights.</p>\r\n<p>In addition to hiring Navajo nurses and doctors whenever possible, the center employs a traditional healer, Patrick Boone, who speaks the tribal language and possesses deep knowledge of the tribe’s spiritual history, handed down over centuries through storytelling. Soon the medical campus will include a traditional hogan dwelling, where the healer can engage in spiritual interactions and ceremonies with patients and, as needed, administer traditional healing remedies that complement “modern” treatments.</p>\r\n<p>Boone introduced himself to our group in Navajo and described his clan lineage. In many ways he functions as a therapist. He sits with patients, listens to their stories, and prays with them when invited. In some cases the holistic approach succeeds where Western medicine fails.</p>\r\n<p>The accommodations drive home the importance of culture in any healthcare delivery setting. Hospitals and clinics that overlook local customs and preferences risk creating an unwelcoming environment that hinders the healing process.</p>\r\n<p>The federal government made the mistake of cultural insensitivity and paid a price when the Tuba City center opened more than 30 years ago. An example was the building’s design. Navajo hogans always open eastward toward the sunrise, but the original hospital structure faced south.</p>\r\n<p>This did not help with the larger problem — pervasive mistrust of Western medicine among many Navajos and members of the neighboring Hopi Nation. Skepticism toward technology has softened in recent decades, but belief in traditional healing has not gone away.</p>\r\n<p>Instead of fighting the federally imposed mindset, Tuba City Regional Health Care boosted its efforts to coexist with the local culture in September 2002. This is when the nonprofit tribal organization gained local control under a self-determination contract with the U.S. Indian Health Service. Local control has offered many benefits, not the least of which is a closer integration with tribal customs and local conditions.</p>\r\n<p>My students finished the Tuba City trip with a tour of the new outpatient primary care center. Unlike the original hospital next door, this center has a main entrance that opens to the east. The cultural nod sends a message that patients and their families have entered a facility designed to serve them.</p>\r\n<p><em><strong>Karen Brown,</strong>&nbsp;Ph.D., is the late professor of operations management at Thunderbird School of Global Management. She is the co-author of “Managing Projects: A Team-Based Approach” (McGraw-Hill, 2009)</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 66581819-156f-4d37-a97e-e764b7ba1f69
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.66581819-156f-4d37-a97e-e764b7ba1f69

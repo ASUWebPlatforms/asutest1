@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: 25e6113d-5d3f-4c46-a8bf-ea847a7369f8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T20:00:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Prague Venture Group'
+created:
+  -
+    value: '2016-07-27T20:00:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T20:00:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a05-00-0012
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Prague Venture Group chronicles an attempt by an American entrepreneur to start a venture capital investment firm in post-communist Eastern Europe. To demonstrate the feasibility of acquiring and turning around former state-owned companies, the protagonist structures a deal with an optics-manufacturing firm, only to learn that the firm''s Czech owners have no intention of allowing Prague Venture Group to gain control. After this setback the protagonist finds it difficult to regain momentum.&nbsp;</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A05-00-0012
+field_case_page_length:
+  -
+    value: '18 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1616316a-868c-4a91-8f64-528150a47539
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: 'Eastern Europe 1993 - 1999'
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5e465552-3b19-4d0d-8456-49bd2a78ff07
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 618ea680-d2f0-43dc-9b57-4b187c5eb20e
+field_teaching:
+  -
+    value: "The case illustrates the problems inherent to doing business in the emerging market environments where legal systems are undeveloped and business norms are based on non-market ideologies. It also introduces students to the cultural legacy of communism in nations such as the Czech Republic.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.1616316a-868c-4a91-8f64-528150a47539
+      - taxonomy_term.case_series_categories.5e465552-3b19-4d0d-8456-49bd2a78ff07
+      - taxonomy_term.case_series_fields.618ea680-d2f0-43dc-9b57-4b187c5eb20e

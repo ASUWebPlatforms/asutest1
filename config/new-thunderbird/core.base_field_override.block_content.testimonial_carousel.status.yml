@@ -1,0 +1,22 @@
+uuid: 53d7976c-a426-4671-97cb-172f1ecc18a0
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.testimonial_carousel
+id: block_content.testimonial_carousel.status
+field_name: status
+entity_type: block_content
+bundle: testimonial_carousel
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

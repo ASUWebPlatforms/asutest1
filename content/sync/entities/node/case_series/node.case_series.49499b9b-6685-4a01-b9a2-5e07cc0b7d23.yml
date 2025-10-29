@@ -1,0 +1,113 @@
+uuid:
+  -
+    value: 49499b9b-6685-4a01-b9a2-5e07cc0b7d23
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:37:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Saudi Arabia: Ready for Take Off'
+created:
+  -
+    value: '2016-07-16T01:14:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:37:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-09-0015
+body:
+  -
+    value: '<p><span>Throughout 2008 and into early 2009, the executive team of World Communications Corporation (WCC) became deeply involved in the examination of whether it should invest in a large production and distribution operation into Saudi Arabia. The Saudi Arabian economy has grown dramatically, thanks to rising oil prices and export revenues during 2008. In early 2009, Seth Thomas, the CEO of WCC, was faced with three potential alternatives. The first one was to risk building a manufacturing plant and distribution center in Saudi Arabia, and strengthen the company’s competitive position abroad. The second alternative was to expand plant capacity at home and continue to export, as the company had done so successfully for years. The third alternative was to wait and delay both decisions because of the uncertainties caused by the global financial and economic crises in 2008. Whether Saudi Arabia could manage its economy to avoid the worldwide recession was an open debate, but preliminary data were encouraging. The case examines government regulations and treatment of foreign investment and the level of education of the labor force and educational system to support the growth of local executives and managers.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-09-0015
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: 'U.S., Saudi Arabia'
+field_case_source:
+  -
+    value: 'General experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  -
+    target_type: taxonomy_term
+    target_uuid: 31fa2b18-a11a-47b5-bf6e-6e0352ec5dba
+  -
+    target_type: taxonomy_term
+    target_uuid: 1aaad8e3-c2d8-43ee-b10c-16a98ddac24b
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+field_teaching:
+  -
+    value: 'Foreign direct investment and incentivizes, international finance, country risk and foreign exchange exposure analysis and risk management, and educational system and level of executive human capital development.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4
+      - taxonomy_term.case_series_fields.31fa2b18-a11a-47b5-bf6e-6e0352ec5dba
+      - taxonomy_term.case_series_fields.1aaad8e3-c2d8-43ee-b10c-16a98ddac24b
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b

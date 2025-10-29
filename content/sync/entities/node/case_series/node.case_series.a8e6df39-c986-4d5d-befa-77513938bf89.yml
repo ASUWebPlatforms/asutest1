@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: a8e6df39-c986-4d5d-befa-77513938bf89
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-11-09T21:26:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Electrolux & GE Appliances'
+created:
+  -
+    value: '2016-11-09T21:11:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-11-09T21:26:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-16-0001
+body:
+  -
+    value: '<p>Electrolux’s valuation team was trying to finish its valuation of GE Appliances in August 2014. The GE Appliance valuation team was working out of Electrolux’s corporate headquarters in Stockholm, Sweden. Its task was to complete both a valuation and suggested final offer for GE’s appliance unit. The team’s challenge was in separating the value of GE’s appliance unit from its value to Electrolux, for the two were quite different. GE knew this, and would be building that differential into its asking price. At the same time, GE’s new industrial strategy, to move away from consumer products and financial services, left no place for appliances in its corporate future.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-16-0001
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 65621ce3-4e73-4152-9045-4437b7b2a0c9
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: 'Published material'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields: {  }
+field_teaching:
+  -
+    value: 'This case can be used in both degree (undergraduate and graduate) and non-degree business courses to teach capital budgeting and valuation. The case subject highlights the incremental impacts of a potential acquisition, including valuation of the primary business, impacts on the acquiror’s existing business, and potential synergies'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_industry.65621ce3-4e73-4152-9045-4437b7b2a0c9
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129

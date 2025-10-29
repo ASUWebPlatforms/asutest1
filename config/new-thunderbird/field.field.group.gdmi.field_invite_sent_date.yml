@@ -1,0 +1,21 @@
+uuid: 28362690-23a9-48ab-b7c2-e1a1e4c39c39
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.group.field_invite_sent_date
+    - group.type.gdmi
+  module:
+    - datetime
+id: group.gdmi.field_invite_sent_date
+field_name: field_invite_sent_date
+entity_type: group
+bundle: gdmi
+label: 'Invite sent date'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: datetime

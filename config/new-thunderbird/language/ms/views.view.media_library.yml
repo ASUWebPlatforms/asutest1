@@ -1,0 +1,72 @@
+display:
+  default:
+    display_title: Lalai
+    display_options:
+      title: Media
+      fields:
+        media_bulk_form:
+          action_title: Tindakan
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+      exposed_form:
+        options:
+          reset_button_label: 'Set semula'
+          exposed_sorts_label: 'Susun mengikuti'
+          sort_asc_label: Menaik
+          sort_desc_label: Menurun
+      filters:
+        status:
+          group_info:
+            label: Diterbitkan
+            group_items:
+              1:
+                title: Diterbitkan
+              2:
+                title: 'Belum diterbitkan'
+        name:
+          expose:
+            label: Nama
+        langcode:
+          expose:
+            label: Bahasa
+  page:
+    display_title: Halaman
+    display_options:
+      fields:
+        media_bulk_form:
+          action_title: Tindakan
+        edit_media:
+          text: Sunting
+        delete_media:
+          text: Padam
+  widget:
+    display_title: Widget
+    display_options:
+      arguments:
+        bundle:
+          exception:
+            title: Semua
+      filters:
+        name:
+          expose:
+            label: Nama
+  widget_table:
+    display_options:
+      fields:
+        name:
+          label: Nama
+        uid:
+          label: Pengarang
+        changed:
+          label: 'Telah dikemaskinikan'
+      arguments:
+        bundle:
+          exception:
+            title: Semua
+      filters:
+        name:
+          expose:
+            label: Nama

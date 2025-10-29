@@ -1,0 +1,25 @@
+uuid: 13a82a8d-c15e-4bdb-9f27-8162f2eb9a0f
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.flip_cards
+    - field.field.block_content.flip_cards.field_flipcard
+  module:
+    - entity_reference_revisions
+id: block_content.flip_cards.default
+targetEntityType: block_content
+bundle: flip_cards
+mode: default
+content:
+  field_flipcard:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true

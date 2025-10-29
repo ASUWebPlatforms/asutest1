@@ -1,0 +1,8 @@
+uuid: bc60c6c5-c25d-44b3-8b30-6d00de970385
+langcode: en
+status: true
+dependencies: {  }
+id: link_collection
+label: '- Link Collection'
+revision: 0
+description: ''

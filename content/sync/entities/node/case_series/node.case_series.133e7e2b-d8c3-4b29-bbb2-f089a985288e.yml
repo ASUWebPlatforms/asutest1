@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 133e7e2b-d8c3-4b29-bbb2-f089a985288e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:58:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Space Shuttle Challenger Teleconference'
+created:
+  -
+    value: '2016-07-16T00:47:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:58:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-11-0017
+body:
+  -
+    value: '<p>This case provides an historical description of the differences between the Apollo Space Program era and the Space Shuttle Program as a backdrop for the teleconference that occurred the night before the Challenger shuttle disaster.</p><p>Roger Boisjoly (Morton Thiokol engineer and central character) tries to persuade NASA to postpone the Challenger launch that included Christa McAuliffe, the teacher participating in the Teacher in Space program. He is rebuffed by NASA management since the condition of gas blow-by existed on several successful launches. The priorities and constraints facing NASA led a culture of “fix and fly” that blinded them to the need for a major redesign of the solid rocket booster.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-11-0017
+field_case_page_length:
+  -
+    value: '11 Pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting: {  }
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject: {  }
+field_fields: {  }
+field_teaching:
+  -
+    value: "The primary teaching purpose for this case is to allow participants to better understand the impact that priorities and constraints exert on organizational processes in decision making. These pressures make it more difficult to engage in inclusive decision making.\r\n\r\nBy better understanding the cultural ladders of different stakeholders, one can provide more opportunities for effective and inclusive communication and decision making."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678

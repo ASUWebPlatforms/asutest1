@@ -1,0 +1,21 @@
+uuid: 87ae6f3f-b317-45ea-94c7-c068164cccb3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_degree_purpose_of_study
+    - node.type.degree
+  module:
+    - options
+id: node.degree.field_degree_purpose_of_study
+field_name: field_degree_purpose_of_study
+entity_type: node
+bundle: degree
+label: 'Purpose of Study'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

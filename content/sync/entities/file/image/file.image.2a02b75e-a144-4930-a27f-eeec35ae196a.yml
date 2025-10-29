@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 2a02b75e-a144-4930-a27f-eeec35ae196a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+filename:
+  -
+    value: new-building-400.jpg
+uri:
+  -
+    value: 'public://new-building-400.jpg'
+    url: /sites/default/files/new-building-400.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 58012
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-12-22T15:29:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-12-22T15:29:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6

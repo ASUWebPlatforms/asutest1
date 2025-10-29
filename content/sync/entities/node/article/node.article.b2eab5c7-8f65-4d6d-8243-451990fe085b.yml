@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: b2eab5c7-8f65-4d6d-8243-451990fe085b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:36:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The ONE THING You Must Do After Submitting Your Résumé'
+created:
+  -
+    value: '2018-01-02T16:14:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:36:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/one-thing-you-must-do-after-submitting-your-resume
+body:
+  -
+    value: "<p>You&nbsp;apply&nbsp;for a&nbsp;really cool&nbsp;job, and now you wait for&nbsp;the&nbsp;phone&nbsp;to ring, right?&nbsp;Calling the company could make you look over-eager, or even rude, right?<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>Actually,&nbsp;no. Waiting&nbsp;would be a big mistake. You can’t just submit a&nbsp;résumé&nbsp;and think your work is done. Being proactive&nbsp;by following up&nbsp;is key, and now there’s research to&nbsp;back this up.&nbsp;<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>I spoke to Michael Steinitz, executive director of&nbsp;<a href=\"https://www.roberthalf.com/work-with-us/our-services/accountemps\">Accountemps</a>, and he is a big believer in reaching out to potential employers after sending in your application.<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>In an&nbsp;Accountemps&nbsp;<a href=\"https://www.roberthalf.com/blog/job-interview-tips/hello-its-me-again?utm_campaign=Press_Release&amp;utm_medium=Link&amp;utm_source=Press_Release\">survey</a>&nbsp;of human resources managers, 100 percent of respondents said&nbsp;job seekers&nbsp;should&nbsp;check in&nbsp;after submitting a&nbsp;résumé. Let’s&nbsp;put it&nbsp;another way: 0 percent thought following up was a bad idea.<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>There’s no excuse not to touch base.&nbsp;Doing so&nbsp;demonstrates&nbsp;you’re&nbsp;highly&nbsp;interested in the&nbsp;position. It&nbsp;also&nbsp;shows off your&nbsp;energy, perseverance and professionalism&nbsp;–&nbsp;virtues&nbsp;a&nbsp;manager loves&nbsp;to see in potential employees.&nbsp;They know that candidates&nbsp;who display initiative during the recruiting process are likely to bring that quality to their work as well.<img src=\"https://www.danamanciagli.com/DiviWP/wp-content/uploads/2017/12/man-waiting-by-phone-300x200.jpg\" style=\"margin: 10px; float: right;\" width=\"300\" height=\"200\" class=\"size-medium wp-image-8590 alignright\"></p>\r\n<p>Think of it this way:&nbsp;Who wants to hire&nbsp;someone&nbsp;who sits&nbsp;back and expects&nbsp;things to come to them?&nbsp;You&nbsp;have to&nbsp;put yourself firmly in the hiring manager’s line of sight as someone&nbsp;who’s&nbsp;enthusiastic&nbsp;and on the ball.&nbsp;<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>But the devil’s in the details. Here is&nbsp;Michael’s advice about&nbsp;how to go about following up:<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<ul>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\"><strong>HOW.</strong>&nbsp;Of the managers interviewed, 64 percent prefer to receive&nbsp;a&nbsp;follow-up&nbsp;via email. This form of communication allows recipients to easily respond&nbsp;and&nbsp;is not an imposition on their time. The next most&nbsp;popular method&nbsp;among hiring managers&nbsp;is a phone call&nbsp;(21 percent), while&nbsp;only 14 percent like in-person follow-ups.&nbsp;Whatever you do, don’t text hiring managers&nbsp;–&nbsp;even if you somehow&nbsp;find&nbsp;their mobile number. And&nbsp;please&nbsp;don’t reach out via social media.&nbsp;</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;335559685&quot;:360}\">&nbsp;</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\"><strong>WHEN.</strong>&nbsp;Following up is&nbsp;great. Pestering is not.&nbsp;Don’t&nbsp;contact them&nbsp;the very next day. Give them enough time to read&nbsp;your&nbsp;résumé&nbsp;and evaluate your skillset against that of your competition.&nbsp;But do&nbsp;follow up before the application window closes and your&nbsp;résumé&nbsp;is&nbsp;forgotten.&nbsp;What’s the sweet spot?&nbsp;Of the managers surveyed, 35 percent said one&nbsp;to&nbsp;two weeks after submitting a&nbsp;résumé, while 29 percent&nbsp;think&nbsp;less than&nbsp;a&nbsp;week&nbsp;is good.</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;335559685&quot;:360}\">&nbsp;</span></li>\r\n</ul>\r\n<p>“Many job seekers are too ‘nice’,” Steinitz said. “They don’t want to&nbsp;come across&nbsp;as&nbsp;being&nbsp;pushy, so they wait&nbsp;–&nbsp;and wait.&nbsp;Hiring managers are busy. Just because you don’t hear back from them doesn’t mean they’re not interested. Following up is an excellent way to add a personal touch to your application and stand out.”<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>But there’s&nbsp;no need for extravagant tactics.&nbsp;<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>“A quick email should do it,”&nbsp;he said.&nbsp;“After about a week, reiterate your interest with a courteous and concise&nbsp;message. Also ask about the next steps. The important thing is to not miss out on&nbsp;the next&nbsp;opportunity to&nbsp;make a good impression.”<span data-ccp-props=\"{}\">&nbsp;</span></p>\r\n<p>Don’t settle for being just another&nbsp;anonymous&nbsp;résumé&nbsp;in a pile. Call attention to your enthusiasm and&nbsp;corporate fit with a&nbsp;follow-up email, and go get that job.</p>\r\n<p>Join Dana Manciagli’s&nbsp;<a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a>&nbsp;<em>right now</em>&nbsp;and immediately access the most comprehensive job search system currently available!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><i><a href=\"http://danamanciagli.com/\">her website.</a></i></p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/6-tips-be-better-managercoach\"><span>How To Ask For A Raise – And Get It!</span><br>6 Tips to Be a Better Manager/Coach</a><br><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility!</a><a href=\"https://thunderbird.asu.edu/knowledge-network/5-simple-linkedin-hacks-optimize-your-job-search\"><br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/appreciating-diversity\">Getting to Know You – Appreciating Diversity</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'You apply for a really cool job, and now you wait for the phone to ring, right? Calling the company could make you look over-eager, or even rude, right? Actually, no. Waiting would be a big mistake. You can’t just submit a résumé and think your work is done. Being proactive by following up is key, and now there’s research to back this up.  '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: 55e9565d-67dd-4a86-8a14-4fd63d1470d5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.55e9565d-67dd-4a86-8a14-4fd63d1470d5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

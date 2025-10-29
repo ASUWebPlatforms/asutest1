@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 7ed2d000-67f0-4f74-8b18-f32ea1657398
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Tennis pro starts new path with Thunderbird'
+created:
+  -
+    value: '2016-06-24T17:26:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/tennis-pro-new-path
+body:
+  -
+    value: "<p>[[{\"fid\":\"1109\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Pressure-packed business trips took&nbsp;<strong>Story Tweedie-Yates ’13</strong>&nbsp;to five continents in six years, yet she came to Thunderbird in 2011 with no corporate experience. As a touring professional in the Women’s Tennis Association, the U.S. player gained a different type of experience. “Tennis allowed me to develop the ability to cope with stress,” said Tweedie-Yates, who graduated from Thunderbird on May 3, 2013, with an MBA internship and full-time employment already lined up. Although life as a touring pro was sometimes grueling, Tweedie-Yates said the game taught her patience and sharpened her global mindset. “I didn’t have room for negativity,” she said. “I learned how to enjoy it.”</p>\r\n<p>Along the way, she also built a resume of success. She won multiple tournaments and achieved career-high world rankings of 189 in doubles and 316 in singles. Tennis scholarships also paid for her psychology degree from Stanford University, where she helped the Cardinal win national team championships in 2002 and 2004. She also picked up Spanish while competing in Mexico. During one pause on the WTA tour in November 2010, Tweedie-Yates had a conversation about her long-term career goals with former NBA All-Star Alvin Adams, a family friend who played his entire career with the Phoenix Suns. Tweedie-Yates expressed an interest in international business, and Adams immediately recommended Thunderbird. “He and his wife are the reason I’m here,” Tweedie-Yates said.</p>\r\n<p>Her Thunderbird coursework and connections helped her land a summer 2012 internship with OneOcean in Seattle, Washington, which led to a summer 2013 internship with Henkel in Scottsdale, Arizona. Afterward, Tweedie-Yates planned to accept a full-time offer to join Cisco’s marketing leadership development program, which started in September 2013 in San Jose, California. Tweedie-Yates said two Thunderbird alumni from Henkel and five alumni from Cisco helped her prepare for her interviews. “There’s now a network of T-birds ready to help me,” she said. “Thunderbird really helped me get my foot in the door.”</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

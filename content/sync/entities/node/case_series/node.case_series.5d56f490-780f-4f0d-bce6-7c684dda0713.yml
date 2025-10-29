@@ -1,0 +1,113 @@
+uuid:
+  -
+    value: 5d56f490-780f-4f0d-bce6-7c684dda0713
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T22:10:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Dealing with Governments in Emerging Markets: The Crude Oil Pipeline (OCP) in Ecuador'
+created:
+  -
+    value: '2016-07-26T22:10:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T22:10:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-04-0028
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Ecuador''s main industry is petroleum, which generates half of export earning, finances much of the government budget, and employs directly more than 12,000 people in a country of 14 million people. The oil was discovered by foreign oil companies, produced and distributed largely by them until a national company was created in 1974, and is exported to them by the government-owned company and by the remaining companies operating in Ecuador. Relations between the companies and the government have been quite turbulent, with the government taking partial ownership of the main company in 1974, buying out Gulf Oil a year later, and finally taking Texaco''s share in 1992. Only medium-sized and small foreign oil companies remain, since the opportunities in Ecuador are limited, and the government has proven unreliable in its regulation of the firms. This case describes the process through which a second oil pipeline was built in 2001 to transport oil from the jungle to the coast, and the dealing between the companies and the government during that process. Even in 2004 there were several major unresolved issues that left government-company relations on very conflictive terms.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-04-0028
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'Ecuador 1998-2001'
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 56cb1ff7-6529-4d29-bef6-05d31c36c384
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "This case can be taught in a government-business relations course, a course on doing business in emerging markets, and of course in any context that deals with company-government relations in the oil industry. Either a company or a government point of view may be taken-and the case could be used to create a negotiation between the two sides, either at the time of the OCP approval effort in 1998-2001 or, more currently, to deal with the tax conflict and the various other problems that have arisen between the Ecuadorian government of President Lucio Gutierrez and the foreign companies during 2002-04.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3
+      - taxonomy_term.case_series_fields.56cb1ff7-6529-4d29-bef6-05d31c36c384
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

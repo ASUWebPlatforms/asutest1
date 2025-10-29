@@ -1,0 +1,81 @@
+uuid:
+  -
+    value: 559c3cff-76b9-4de0-8402-29727790d8f5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-01-31T21:11:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'KISHI, do you love me?'
+created:
+  -
+    value: '2019-01-31T21:11:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-01-31T21:11:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/kishi-do-you-love-me
+body:
+  -
+    value: "<p>TEM Lab, Spring 2019<br>Peru, Libbey Glass<br>Written by Frankie Ferrer</p>\r\n<p>You know that feeling when you’re about to experience something new? That overwhelming feeling of excitement and anticipation - almost like an adrenaline rush. We heard the flight attendant announce “Hola y bienvenidos a Lima, Peru!” and just like that it hit us - we were in a new country about to embark on our epic TEM Lab consulting journey. So who’s we and what exactly is a TEM Lab? Our team consists of Hannah Savage, Melissa Williams, Frankie Ferrer, and Natasha Astari or better known as ‘The Dream Team’. We are second year Master of Global Management students at Thunderbird School of Global Management graduating in May of this year. We are participating in our school’s flagship program - Thunderbird Emerging Markets (TEM) Consulting Lab, which is a client-facing, project based capstone course that involves a five week complete immersion in an emerging market around the world. Student consultants must form a team to engage in a project tailored to the business needs of the client to provide data and market analysis, strategy recommendations and practical, effective plans for sustained growth.</p>\r\n<p>Our client is, The Libbey Glass Company, a global tableware leader selling manufactured and sourced glass, ceramic and metal tableware. Libbey is strongly interested in sourcing suppliers in the South American Andean region and that’s where The Dream Team comes in to gage the readiness of the market for potential partnerships to export products back to the United States. The target country in this region is Peru.</p>\r\n<p>Seated along the west coast of South America, Peru is the third largest country behind Brazil and Argentina and is home to quite arguably the best food in the world, most famous for Machu Picchu and the Incan Trail and has the highest sand dune in the world. Peru literally has it all; beauty, a deep rich history, mystery, adventure, dramatic and diverse landscapes, bright vibrant people and clothing and amazing food - home of three of the 50 best restaurants in the world (#6; Central, #7; Maido, #39; Astrid y Gáston). Peruvians take pride in their food and it tends to take center stage in casual conversations and business meetings.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"70569\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Team in Peru\",\"field_file_image_title_text[und][0][value]\":\"TEM Team in Peru\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Team in Peru\",\"field_file_image_title_text[und][0][value]\":\"TEM Team in Peru\"}},\"attributes\":{\"alt\":\"TEM Team in Peru\",\"title\":\"TEM Team in Peru\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">The Dream Team’s first lunch with Lucio, our interpreter, trying traditional Peruvian cuisine at Punto Azul. Photo credit: Frankie Ferrer</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><br>Our team hit the ground running hard as soon as we arrived. We started off our first day with a meeting with logistics and transportation company, American President Lines (APL), followed by a showroom visit with Jallpa Nina where the team had its first opportunity to speak Spanish in a professional setting and ended with a visit to the open market where we further used our Spanish to obtain business contacts from store owners who sell souvenirs made out of glass, ceramics and wood - all sourced materials that our client is particularly interested in. Throughout our first week, we met our translator and new friend, Lucio, immersed ourselves in their food culture trying Peruvian ceviche, octopus and the popular ‘arroz con pollo’ (rice with chicken), connected with the Lima Thunderbird Alumni chapter, engaged with local businesses with meetings taking place each day and even toured our first ceramics factory. What a busy yet successful week, right? We thought so too! The huge success of our first week made us even more excited for our project and as we continued to snowball our contacts in Lima,&nbsp; we were also falling more in love with the city and specifically the district we live in - Miraflores.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"70568\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Team in Peru\",\"field_file_image_title_text[und][0][value]\":\"TEM Team in Peru\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Team in Peru\",\"field_file_image_title_text[und][0][value]\":\"TEM Team in Peru\"}},\"attributes\":{\"alt\":\"TEM Team in Peru\",\"title\":\"TEM Team in Peru\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">The Dream Team (missing Natasha Astari) with Jallpa Nina owner, Eduardo, at a business meeting/factory visit. Photo credit: Lucio</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>As expected, our first week in Lima was full of major adjustments with regard to the cultural aspects and business environment that came in all forms - positive and negative. One of our biggest challenges took place in our own home in Miraflores - KISHI aka our WiFi. Unstable, unreliable, and a huge inconvenience for our team since our client does not have a presence or office in Lima, so our home is our office. As you read the blog post title “KISHI, do you love me?” - well KISHI does not love us and as a result we’ve purchased our own personal hotspots (a popular approach to getting WiFi in Lima as it tends to be spotty everywhere and additionally - not many restaurants/cafes offer free WiFi). We quickly learned that proficiency in Spanish is necessary for any projects that involve engaging with local businesses. Time was another major adjustment. Americans are fixed on time while Peruvians are very flexible. Additionally, we discovered that Peruvians tend to exaggerate the length of time. For example, a 30 minute walk is actually only 10 minutes and when someone says they will meet us in 15 minutes that really means 30 minutes to an hour later. Like any new situation and environment, it requires us to be flexible and open-minded and willing to fully immerse ourselves - qualities that every Tbird possesses.</p>\r\n<p>We are loving our time in Peru and excited to bring you along with us into the field and along the process to celebrate our victories, hear our frustrations and watch our project unfold as we deliver our recommendations to Libbey, showcase our professionalism as we navigate a brand new business environment and proudly represent Thunderbird as TEM Lab ambassadors. Follow our progress through our blog posts and our #TEMLabTuesday takeover on the official Thunderbird School of Global Management Instagram account @thunderbird1946 every Tuesday. Hasta luego!</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\"><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/lab_pic_1.jpg?itok=2GeDoZDj\" title=\"TEM Team in Peru\" alt=\"TEM Team in Peru\" class=\"media-element file-default\" data-delta=\"1\" data-fid=\"70567\" data-media-element=\"1\">\r\n<p class=\"caption-text\">Cotton candy sky view from the balcony at our home in Miraflores. Photo credit: Frankie Ferrer</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><br><br></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2500
+    height: 1875
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

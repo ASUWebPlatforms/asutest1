@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 0a7ab63b-55a4-4225-abe9-abaf3b7c0d26
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:03:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Pantera Communications, Inc.'
+created:
+  -
+    value: '2016-07-16T00:52:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:03:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a10-10-0003
+body:
+  -
+    value: '<p><span>Andrew Ferris, a recent Thunderbird MBA graduate, joined Diversified Equity Investors LLC as an analyst specializing in the telecom, information technology, and cable/satellite industries. He was asked to provide a financial and accounting analysis report on Pantera Communications, Inc., a rapidly growing virtual telecom company. Pantera leased lines from the major long-distance operators, and resold long distance services using a network of independent representatives (IRs) who were paid an upfront commission for each new subscriber who signed up for the company’s long distance service. Financial analysts were critical of the company’s accounting policy of deferred revenue from the start-up package sold to IRs, and capitalizing and amortizing the commissions paid to IRs for acquiring new customers.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A10-10-0003
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: ff0baecf-fa6a-4bea-af29-86d46d6e405d
+field_case_series_year:
+  -
+    value: '2010-01-01'
+field_case_setting:
+  -
+    value: 'Saudi Arabia'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 59c4d91a-86be-46c9-b3ed-1c2a8eb27652
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: "To understand how a company makes money, its strategy for achieving this, and the implications for the company’s financial performance,\r\n To analyze a company’s growth, its ability to generate cash flows, and its financial performance,\r\n To evaluate a company’s accounting methods and their impact on a company’s financial performance,\r\nTo develop a communication and disclosure strategy for dealing with critics of the company’s accounting policies.\r\nSpecifically, students are asked to consider several issues in the case. First, students are asked to explain how Pantera Communications makes money, to evaluate its business strategy for accomplishing this objective, and to evaluate how successful execution of this strategy is likely to be observable from the company’s financial performance. Second, students are asked to analyze the company’s cash flow situation, and recent financial performance, including its profitability, asset management, and leverage. Third, students are asked to consider the quantitative impact on the company’s financial statements of deferring revenues from the sale of start-up packages to IRs, and capitalizing and amortizing over 12 months commissions paid to IRs for signing up new customers. Students are also asked to evaluate whether Pantera used accounting methods that were consistent with generally accepted accounting principles (GAAP). Fourth, students are asked to consider the communication and disclosure issues the company faces in responding to analyst criticism of its method of accounting for start-up kit revenues, and expenditures commissions paid to IRs for new customer acquisitions.\r\n\r\nThe case has been used successfully in MBA programs to cover corporate financial reporting issues, and in bank training programs focused on credit analysis and quality of earnings issues."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.ff0baecf-fa6a-4bea-af29-86d46d6e405d
+      - taxonomy_term.case_series_categories.59c4d91a-86be-46c9-b3ed-1c2a8eb27652

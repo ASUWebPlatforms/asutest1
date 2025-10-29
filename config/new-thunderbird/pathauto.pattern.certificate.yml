@@ -1,0 +1,22 @@
+uuid: 48f91ea0-cbdf-49ee-acfb-14398002ceb9
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: certificate
+label: Certificate
+type: 'canonical_entities:node'
+pattern: 'executive-education/individual/[node:title]'
+selection_criteria:
+  c830b06a-db3e-453c-82e1-b6af8c09b2e6:
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: c830b06a-db3e-453c-82e1-b6af8c09b2e6
+    context_mapping:
+      node: node
+    bundles:
+      certificate: certificate
+selection_logic: and
+weight: -5
+relationships: {  }

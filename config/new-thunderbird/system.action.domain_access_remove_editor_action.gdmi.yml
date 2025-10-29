@@ -1,0 +1,14 @@
+uuid: a1ebdd03-9832-4e10-a5cb-9729be649d41
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.gdmi
+  module:
+    - domain_access
+id: domain_access_remove_editor_action.gdmi
+label: 'Remove editors from the GDMI domain'
+type: user
+plugin: domain_access_remove_editor_action
+configuration:
+  domain_id: gdmi

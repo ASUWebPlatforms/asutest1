@@ -1,0 +1,116 @@
+uuid:
+  -
+    value: 9d8d32ef-1c31-456c-a8ce-da8ec8925272
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:34:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'HP’s Acquisition of Autonomy'
+created:
+  -
+    value: '2016-07-16T00:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:34:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-13-0022
+body:
+  -
+    value: '<p>On August 18, 2011, Hewlett Packard, under the leadership of then-CEO Léo Apotheker, announced a friendly acquisition of U.K.-based Autonomy, a market leader in the management of structured and unstructured data for business management solutions, for $11.1 billion. This acquisition attracted tremendous media attention, due to both its size and price. The offer price paid to Autonomy was at £25.5 a share, a 64% premium over its previous day’s stock price.</p><p><span>Although a number of critics had argued that the price was excessive, many believed the change in HP’s strategic direction was appropriate. On November 20, 2012, only one year later, HP made a shocking announcement that it was writing off $8.8 billion of the $11.1 billion purchase price, of which more than $5 billion was due to accounting improprieties and misrepresentations of Autonomy’s financial results.</span></p><p><span>&nbsp;</span><span>How could this deal have gone so wrong? Did HP not carry out proper due diligence and valuation before the offer? Was this acquisition a strategic fit to HP? The case provides an opportunity for students to analyze the corporate strategy of HP, examine HP’s financial performance overall and its various business segments, determine how and if Autonomy fits in with HP, and value the acquisition using discounted cash flow (DCF) and multiples analyses.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-13-0022
+field_case_page_length:
+  -
+    value: '21 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: a57c51c4-e926-483d-b968-e2cf5500fa95
+field_case_series_year:
+  -
+    value: '2013-01-01'
+field_case_setting:
+  -
+    value: 'Industry & Competitive Strategy'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: 'This case has been used in both MBA and Executive Education programs to examine the process and valuation of potential acquisitions and the basic use of discounted cash flow analysis. The case allows a narrowly defined valuation debate using traditional discounted cash flow valuation techniques, combined with a wider scope of corporate strategy and future value creation.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_industry.a57c51c4-e926-483d-b968-e2cf5500fa95
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

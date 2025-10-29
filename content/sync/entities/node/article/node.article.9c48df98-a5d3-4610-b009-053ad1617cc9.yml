@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 9c48df98-a5d3-4610-b009-053ad1617cc9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'World traveler joins Thunderbird alumni network at age 65'
+created:
+  -
+    value: '2016-06-24T21:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/world-traveler-alumni
+body:
+  -
+    value: "<p>[[{\"fid\":\"1133\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Many Thunderbird students graduate with the hope of beginning a global adventure, but one online student sees his MBA as a sort of capstone to a lifetime of world experiences.&nbsp;<strong>Jay Jacobsmuhlen ’13</strong>&nbsp;will walk across the stage this week at age 65 and receive what will be his fourth higher education degree — also having earned bachelor’s, master’s and law degrees – and with his feet having touched down in more than 80 countries. “I was actually first interested in Thunderbird as an undergrad,” said Jacobsmuhlen, whose love for global adventure traces back to age 13 when his parents put him on plane from Seattle, Washington, to Germany to visit family for the summer.&nbsp; But his decision to pursue law took him in another direction. “I was debating business or law,” he said, “and ended up pursuing my law degree.”</p>\r\n<p>Throughout most of his life, Jacobsmuhlen’s day job kept him anchored in his hometown of Portland, Oregon, but he was able to fulfill his desire to see the world while serving 27 years in the civil affairs unit of the U.S. Army Reserve. It wasn’t until a close friend died of pancreatic cancer that Jacobsmuhlen knew he wanted to live his everyday life differently. The wake-up call took him back to school, where he earned a master’s degree in applied linguistics and landed a job with Samsung in Seoul, South Korea. It was there, working in Samsung’s HR development center and helping people prepare for overseas assignments, that his interest in Thunderbird was rekindled.</p>\r\n<p>“It was unfinished business,” Jacobsmuhlen said. “Now that I have my MBA, my goal is to do something to contribute, to inspire people to be the best that they can be and to help them create an impact around them. The concept of retirement doesn’t appeal to me.”</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

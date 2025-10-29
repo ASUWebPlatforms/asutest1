@@ -1,0 +1,20 @@
+display:
+  default:
+    display_title: Gawan
+    display_options:
+      fields:
+        changed:
+          label: 'Wis anyar'
+        operations:
+          label: Operasi
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- Kabeh -'
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+  page_1:
+    display_title: Kācā

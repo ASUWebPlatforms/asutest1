@@ -1,0 +1,39 @@
+uuid: db8411a2-e916-4906-a107-0b3514107217
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_campus_code
+field_name: field_campus_code
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: ONLNE
+      label: ONLNE
+    -
+      value: DTPHX
+      label: DTPHX
+    -
+      value: WEST
+      label: WEST
+    -
+      value: LOSAN
+      label: LOSAN
+    -
+      value: WASHD
+      label: WASHD
+    -
+      value: SYNC
+      label: SYNC
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

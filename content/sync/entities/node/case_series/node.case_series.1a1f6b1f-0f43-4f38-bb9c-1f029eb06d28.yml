@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: 1a1f6b1f-0f43-4f38-bb9c-1f029eb06d28
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T20:27:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Porsche Exposed'
+created:
+  -
+    value: '2016-07-26T20:27:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T20:27:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-04-0004
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>It was January and Porsche-the legendary manufacturer of performance sports cars-wished to reevaluate rate strategy. Porsche''s management had always been unconcerned about opinions of the equity market, buts its currency hedging strategy was becoming something of a lighting rod for criticism. Although the currency hedging results had been positive, many experts believed that Porsche had simply been "more lucky than good." There was a growing nervousness among analysts that the company was actually speculating on currency movements, and that was not in the best interests of shareholders. Analysts were estimating that more than 40% of earnings were to come from currency hedging. Porsche''s President and CEO, Dr. Wendelin Wiedeking, now wished to revisit the company''s exposure management strategy.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-04-0004
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'Europe, U.S., 2004'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: e63a6a76-e3bd-49e7-93a2-9cfd4c527752
+  -
+    target_type: taxonomy_term
+    target_uuid: 62d0117b-f168-490f-86e2-e783d4681313
+  -
+    target_type: taxonomy_term
+    target_uuid: fb1b92a6-5076-49c3-a187-f38ce1f0ff19
+field_teaching:
+  -
+    value: "The case is intended to provide a contemporary debate over the use of financial derivatives (in this case, foreign currency options) as a method for the management of the economic exposure (also called operating exposure) experienced by Porsche as a result of its global sales. Porsche serves as an excellent focal point for this debate, given that it produces in only one currency environment, the euro zone, and then exports products globally. In addition, the decision-making of senior management is also questioned because the firm has continued to be highly controversial in its attitudes and practices related to financial reporting, and the associated practices of management towards shareholders relations and corporate governance as a whole. The case could be used in a class in international finance, international financial management, or corporate finance.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.e63a6a76-e3bd-49e7-93a2-9cfd4c527752
+      - taxonomy_term.case_series_fields.62d0117b-f168-490f-86e2-e783d4681313
+      - taxonomy_term.case_series_fields.fb1b92a6-5076-49c3-a187-f38ce1f0ff19

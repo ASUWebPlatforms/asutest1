@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 440d5a8e-e138-49f1-b459-ec99e4100f70
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+filename:
+  -
+    value: ramaswamy.jpg
+uri:
+  -
+    value: 'public://ramaswamy.jpg'
+    url: /sites/default/files/ramaswamy.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 82291
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-06-21T21:19:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-06-21T21:19:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670

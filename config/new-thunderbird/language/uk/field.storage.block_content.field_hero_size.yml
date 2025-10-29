@@ -1,0 +1,8 @@
+settings:
+  allowed_values:
+    -
+      label: Мале
+    -
+      label: Середній
+    -
+      label: Велике

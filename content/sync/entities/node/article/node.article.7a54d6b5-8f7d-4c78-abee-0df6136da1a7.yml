@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 7a54d6b5-8f7d-4c78-abee-0df6136da1a7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-10-30T19:02:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Thunderbird Webinar: Storytelling for Leaders'
+created:
+  -
+    value: '2018-10-30T18:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-10-30T19:02:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-webinar-storytelling-leaders
+body:
+  -
+    value: "<div class=\"style-scope ytd-expander\">\r\n<div class=\"style-scope ytd-video-secondary-info-renderer\">Stories are an effective means of communication, not just because they are memorable, but because humans seem to be especially attuned to taking in new information in story formats. Storytelling is an important tool that leaders can use to cast a strong vision, explain complex topics, and persuade their followers. Join us for this hour-long discussion on how you can use storytelling in your organization.</div>\r\n</div>\r\n<p>[[{\"fid\":\"66964\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>&nbsp;</p>\r\n<p class=\"btn btn-gold\"><a href=\"/knowledge-network/webinars\">Watch more Webinar Recordings</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 747
+    height: 440
+    target_type: file
+    target_uuid: d71dad81-8a77-4065-af68-879adcfbc7dd
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c2317536-07fb-40ce-b252-f7a91e612339
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.d71dad81-8a77-4065-af68-879adcfbc7dd
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c2317536-07fb-40ce-b252-f7a91e612339

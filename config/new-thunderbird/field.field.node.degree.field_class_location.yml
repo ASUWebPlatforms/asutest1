@@ -1,0 +1,29 @@
+uuid: 39fdc9f5-a889-4c43-bf12-4e588da172df
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_class_location
+    - node.type.degree
+    - taxonomy.vocabulary.class_locations
+id: node.degree.field_class_location
+field_name: field_class_location
+entity_type: node
+bundle: degree
+label: Location
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      class_locations: class_locations
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

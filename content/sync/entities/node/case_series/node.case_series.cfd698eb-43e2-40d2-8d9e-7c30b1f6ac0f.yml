@@ -1,0 +1,99 @@
+uuid:
+  -
+    value: cfd698eb-43e2-40d2-8d9e-7c30b1f6ac0f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-11-09T22:37:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'China’s National Oil Companies: Restructuring The Three Dragons'
+created:
+  -
+    value: '2016-11-09T22:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-11-09T22:37:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-16-0008
+body:
+  -
+    value: '<p>China’s three National Oil Companies (NOCs) collectively represent a potent force in the world of oil and gas. While they have been mostly focused on domestic priorities since their founding, they started a methodical program of globalization at the behest of the Chinese government in the mid 1990’s. By 2016, they had completed a string of overseas acquisitions and seemed poised to gain enough strength to become contenders in the competitive battles against the more established International oil Companies (IOCs). The government had announced its intent to reform the NOCs in order to make them more efficient such that they would be able to compete against the best globally. The idea was to create a Chinese ExxonMobil out of the three NOCs. However, the road ahead appeared rocky. There were three main issues that posed formidable obstacles. First, the governance structure and state control had bred a culture that did not seem ready for transformative change. Political interference and lack of a clear strategic direction were just two of the outcomes associated with the resistive culture. These shortcomings manifested themselves in the second major obstacle namely the instinct to protect resources although the NOCs themselves did not seem to have the technology to monetize the reserves. The slow development of shale was a case in point. Despite controlling the world’s largest reserves of shale, China had not been able to come anywhere close to replicating the runaway success that the US had demonstrated. The government had not articulated a clear shale development strategy, and had been dragging its feet with respect to trying imported technology and allowing foreign companies to operate leases. Lastly, there were clouds on the horizon with respect to global expansion as well. The decline in energy prices and a slowing down of domestic economic growth in China had stifled the global march of the NOCs. The case study builds on this complex context to explore whether reforms are likely to be implemented and whether they are likely to succeed.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-16-0008
+field_case_page_length:
+  -
+    value: '19 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: China
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: fd9b1245-17c0-43da-8b1e-1e820fd48d2b
+field_teaching:
+  -
+    value: 'The case was written with a global strategy audience in mind and hence can be used to (a) illustrate a range of important concepts relating to the external context of firms competing in a global industry. Since it deals with State Owned Organizations (SOEs), it (b) provides additional insights that are not accessible in the typical corporate business cases. It is also suitable in courses dealing with global/regional studies with an emphasis on energy issues and works very well with an executive audience in the oil and gas industry.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_fields.fd9b1245-17c0-43da-8b1e-1e820fd48d2b

@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: cda19b48-d29b-4512-ab07-2428d67ab981
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T16:42:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Seeking Balance between Social Purpose and Entrepreneurship: Homeland Development Initiative Foundation (HDIF)'
+created:
+  -
+    value: '2016-07-15T20:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T16:42:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-16-0004
+body:
+  -
+    value: '<p><span>HDIF is one of the few Armenia-based organizations that falls under the vague definition of a social enterprise. HDIF is focusing its activity in three areas: selling handicrafts; tourism development through organizing festivals; and, empowering rural communities in Armenia. The founder, Tim Straight, is leaving the foundation and the executive director will have to assume responsibility for the emerging new strategy that she and the founder had begun discussing. Should she continue down the same path and remain heavily dependent on the continuing financial investments from Tim Straight, or should she shift to a new and economically promising area of eco-tourism in order to become financially sustainable?</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-16-0004
+field_case_page_length:
+  -
+    value: '17 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 19892893-4564-4f3d-8483-774c83d91f51
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: Armenia
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: aceb4b7c-a79d-41a2-ac9f-12a4a68c95d7
+  -
+    target_type: taxonomy_term
+    target_uuid: c6795fbc-e9ac-478e-84c5-23e103eea668
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: 'This strategy case can be used in an MBA level or Executive class and is intended to illustrate the differences between for-profit activity, CSR, social entrepreneurship, and philanthropy. Students will assess the existing market and analyze possible paths that could be followed by the new director of the foundation by using Porter''s Five Forces analysis to determine the best strategy for HDIF to pursue.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.19892893-4564-4f3d-8483-774c83d91f51
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.aceb4b7c-a79d-41a2-ac9f-12a4a68c95d7
+      - taxonomy_term.case_series_fields.c6795fbc-e9ac-478e-84c5-23e103eea668
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

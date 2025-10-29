@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: bf466e2e-01b3-4013-b21e-95b08c14cdda
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T19:22:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'SF Corporation & Trade Finance Securitization'
+created:
+  -
+    value: '2016-07-27T19:22:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T19:22:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-01-0015
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case deals with the process and uses of securitization and focuses specifically on its use for international trade receivables since a substantial share of SF sales revenue comes from exports to Latin America, especially Brazil. The case involves a telecommunications equipment company that is trying to grow and compete during the early 2000s when technology is changing rapidly and global telecommunication systems were being revamped worldwide. Survival in this highly competitive environment is dependent on being able to finance both research and development and the installation and delivery of new systems. From the buyers'' perspective, pricing and financing are also very important.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-01-0015
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: b06d7c7b-b5ce-4e80-bb6d-57d24a40b63d
+field_case_series_year:
+  -
+    value: '2001-01-01'
+field_case_setting:
+  -
+    value: 'U.S. Latin America'
+field_case_source:
+  -
+    value: Library/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 905910e7-2a53-476e-93cd-af86add83674
+field_teaching:
+  -
+    value: "The case is useful for a company that has reliable data on a large volume of standardized transactions or sales for a number of years. It explores the costs and benefits of using securitization as compared to obtaining a commercial bank loan. In addition, the case examines the process of securitization, the various options that exist, and the process of selecting an option that is best for the company taking into consideration the needs of potential investors. The company described is selling product domestically and overseas with payment terms that run from 90 days to three years. In discussing the case, there may also be an issue of where the securitization should be done: in the US or Latin America\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.b06d7c7b-b5ce-4e80-bb6d-57d24a40b63d
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.905910e7-2a53-476e-93cd-af86add83674

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 5b3fecc0-dfd7-4fbe-9a9c-fb1e02d7535c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-19T21:03:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'Gil Penchina: Angels and Demons & Other Mysteries of Venture Investing'
+created:
+  -
+    value: '2017-05-19T21:03:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-19T21:03:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: und
+body:
+  -
+    value: "<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf-after--figure graf--trailing\"><em>When your initials are ‘GP’ it’s little surprise that you end up running a venture capital fund. But unicorn angel investor Gil Penchina isn’t any ordinary VC. Talking with him is more like hanging out at the Oyster Bar at New York City’s Grand Central, there’s always one more sip of sauvignon blanc or a fresh oyster left. After my last interview, Gil called and suggested a few more ideas for those ready to peer into the deeper mysteries of angel investing.</em></p>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><hr class=\"section-divider\"></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf--leading\">Jeff Cunningham:&nbsp;Gil. What does your early warning radar tell you about 2017?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>Gil Penchina</em><em>:&nbsp;</em>Valuations, mainly. It’s getting a little crazy.</p>\r\n<p class=\"graf graf--p graf-after--p\">Is 2017 the new 2000?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>This may not even be news, but people read about startups and think, oh, these kids just make stuff, and it works. What I find is people underestimate just how ugly it really can be.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">What’s the ugliest part?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>The disasters no one hears about. I remember a bunch of stories at one point about Zenefits and Theranos. The media seemed shocked they did horrible things, that they cheated. It happens with more startups than you think. They feel pressured to step near or over the line. I’m having a stern discussion with one right now, as we speak.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Investor beware?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>No question. I talked to a woman at 500 Startups about a company that was accepted into their incubator and was also accepted into Y Combinator using a different name, but the same team, same idea. They were taking money from both.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">That sounds more like Las Vegas than Silicon Valley?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>Maybe not so surprising, really. When you think about it,&nbsp;</em><em>when you invest in startups you’re looking for people who break the rules, but then we’re totally shocked when they break the rules on us.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Do younger founders tend to be delusional about themselves and their companies?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>Sometimes when you’re a first-time CEO, you may have trouble admitting when things are going badly and dealing with reality, versus the story you’ve been telling yourself and your investors and your employees.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">What are you doing differently now that you’ve got more deals?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>The AngelList syndicate is great for funding at the $100,000, $500,000, $1 million level but it isn’t as useful when you’re working a $10 million round. I’ve actually been working with a fund for a few years now and am moving in that direction.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">When you hear people say, “Google is going to crush you,” is that an automatic turnoff for investing?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>Actually, maybe the opposite, because when you’re a mouse and someone says the elephant is going to kill you, you only need to move a little faster than the elephant.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">How do you do your due diligence when you are looking at a new sector?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>You start by finding out what’s out there. Then you look at every deal you can. That’s really the secret of startup investing. As you are investigating, you are building a network, meeting experts, and soon you become one. Then people start to call you. It’s an iterative process.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">When you make a deal decision, how often is it collaborative?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>I think two eyes are better than one. It helps to talk these things through with a partner. Sometimes as you toss it around and you realize there are things you hadn’t thought of.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">What do you look for in a deal partner?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>If you think about these investment pairings, there’s usually one person that understands the market and the product, and another person who understands financials, valuations and terms. They pair together very nicely.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">In the old days, people went to work for big companies and then startups, now they are just skipping to the startup phase.</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>At one time, it used to be you went to IBM because it was safe, and you could work there for 40 years and retire. IBM’s not very safe anymore. They lay off 10,000 people a year.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">What is happening that people can enter a startup at so many different stages of their careers?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>If you think of the Hollywood model, people come together to do a movie, producers, directors, actors, screen hands. When the production is through, they leave. For startups, team building is a much more organic process now. The main thing is startups find talent when they need it and the talent finds experience that would take decades otherwise.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Dave McClure&nbsp;<a href=\"https://500hats.com/99-vc-problems-but-a-batch-ain-t-one-why-portfolio-size-matters-for-returns-16cf556d4af0\" target=\"_blank\" class=\"markup--anchor markup--p-anchor\" data-href=\"https://500hats.com/99-vc-problems-but-a-batch-ain-t-one-why-portfolio-size-matters-for-returns-16cf556d4af0\">wrote a Medium post</a>&nbsp;arguing you ought to invest in at least 100 — 200 deals or more in an Angel portfolio. Do you agree?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>The tipping point is about 25 for seed investing, in my experience. That is a way of saying 1 in every 25 of my deals will return 25x. I think Dave McClure’s point is the more deals the more likely you are to get the outlier, where the real money is made. The other thing, the earlier you invest the more you need a broad portfolio. Many series A firms assume 1 in 10, as an example.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Why can’t you cherry pick?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>Because cherry picking requires accurate advance information about the future.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">But wouldn’t your life be a lot easier — and richer — if you only did the ten best deals that came your way?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>If I knew the ones with the best potential, I would have already retired. It’s a lot messier than people think, right? I mean, think about how many times in the last 20 years you’ve heard, “This year mobile’s going to be big.” I heard it in 1991. I heard it in 1997. I heard it in 2000 and I heard it again in 2003. Each time they were teams with good products going after that market and failing miserably. Then all of a sudden, it’s 2006 and the iPhone comes out and boom… Mobile is BIG.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Is there an ideal age for someone who wants to be a venture capitalist?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>I don’t know that there’s an answer to that question. There are some young people who are very unemotional and have good judgment, and there are some older people that are very emotional and have bad judgment. I think over time you learn to take the emotion out. Young golfers get angry and throw their clubs around. Professional golfers never throw their clubs around, because they take emotion out of the game.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Are big venture capital firms like Sequoia or Kleiner important to you?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>They’re more a lagging indicator. At the time frame I invest, Sequoia isn’t interested.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Are there gaps to be exploited in the venture funding ecosystem?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>There are always gaps. Right now I focus on the gap between seed and A, or the early A that helps a startup get to scale from early proof points.The other big gap today is late stage startups that raised at a high valuation 18 months ago and need more money but haven’t made quite enough progress.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">A subject getting a lot of attention is how we can get more female founders into the game. Your thoughts?</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>I think it is a problem.&nbsp;</em><em>There aren’t enough women going into programming, and therefore not enough women going into engineering, and therefore not enough women getting into engineering management.&nbsp;</em><em>Like anything else in the world, there’s no simple answer. Sunlight cures a lot of things. If you think there’s a problem, talk about it, and then you can impact the scale and the intensity of awareness, and the likelihood of a better outcome.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">When you sense you’re not getting regular reports from a portfolio company, is that a pretty good indication of trouble?</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><em>Not necessarily, but when you’re asking for information and they’re stonewalling, that is never a good thing. But sometimes founders and CEOs are just busy although they may be doing a great job. My joke is always, “Well-written updates are highly correlated with earnest first timers and not necessarily with outcomes.”</em></p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">&nbsp;</p>\r\n<p>Author’s Bio<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.iconicvoices.tv/&amp;source=gmail&amp;ust=1495312225303000&amp;usg=AFQjCNHjqA3kKhjHE0f2henNp82kw-l8hw\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.jeffcunningham.com/&amp;source=gmail&amp;ust=1495312225304000&amp;usg=AFQjCNGuCUxfPz8JHhlGIKrEa7xgXOh0UQ\">JeffCunningham.com.</a><span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He has also been a board director of 10 public companies.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i></p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

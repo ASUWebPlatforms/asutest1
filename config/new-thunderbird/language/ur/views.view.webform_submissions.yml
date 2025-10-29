@@ -1,0 +1,58 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          exposed_sorts_label: 'کی طرف سے  کی گئی مرتب سازی'
+      pager:
+        options:
+          tags:
+            previous: ››
+            next: ‹‹
+            first: '» ابتدائی'
+      fields:
+        view_webform_submission:
+          label: معاملات
+          text: 'مشاہدہ کریں'
+  embed_administer:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: ایکشن
+        locked:
+          label: بند
+        operations:
+          label: معاملات
+      filters:
+        locked:
+          expose:
+            label: بند
+  embed_manage:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: ایکشن
+        locked:
+          label: بند
+        view_webform_submission:
+          label: معاملات
+          text: 'مشاہدہ کریں'
+        edit_webform_submission:
+          label: معاملات
+          text: ترمیم
+      filters:
+        locked:
+          expose:
+            label: بند
+  embed_review:
+    display_options:
+      fields:
+        locked:
+          label: بند
+        view_webform_submission:
+          label: معاملات
+          text: 'مشاہدہ کریں'
+      filters:
+        locked:
+          expose:
+            label: بند

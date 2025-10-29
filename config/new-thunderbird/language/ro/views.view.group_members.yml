@@ -1,0 +1,51 @@
+display:
+  default:
+    display_title: Expert
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Aplică
+          reset_button_label: Resetează
+          exposed_sorts_label: 'Sortare după'
+          sort_asc_label: Ascendent
+          sort_desc_label: Descendent
+      pager:
+        options:
+          tags:
+            previous: ‹‹
+            next: ››
+            first: '« Primul'
+            last: 'Ultimul »'
+          expose:
+            items_per_page_label: 'Elemente pe pagină'
+            items_per_page_options_all_label: '- Toate -'
+            offset_label: Decalaj
+      fields:
+        name:
+          label: Utilizator
+          separator: ', '
+        group_roles:
+          label: Roluri
+          separator: ', '
+        changed:
+          label: Actualizat
+          separator: ', '
+        created:
+          label: Înscris
+          separator: ', '
+        dropbutton:
+          label: Operațiuni
+      empty:
+        area_text_custom:
+          content: 'Nu există membri disponibili.'
+      arguments:
+        gid:
+          exception:
+            title: Toate
+          title: '{{ arguments.gid|placeholder }} membri'
+      title: Membri
+  page_1:
+    display_title: Pagina
+    display_options:
+      menu:
+        title: Membri

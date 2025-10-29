@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 5241c139-3aff-454f-989b-47468c9cc55e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-19T23:13:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'How To Disagree With The Boss by General David Petraeus'
+created:
+  -
+    value: '2017-09-21T17:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-19T23:13:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-disagree-boss-general-david-petraeus
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">In my interview with America’s most decorated war hero, General David Petraeus, now a partner of private equity firm KKR, we discussed his time in the Oval Office and the importance of sticking with principles, even when the recipient doesn’t want to hear&nbsp;it.</h3>\r\n<p class=\"graf graf--p graf-after--figure\">The first lesson a senior executive learns is there aren’t many good ways to disagree with the CEO.</p>\r\n<p class=\"graf graf--p graf-after--p\">For General Petraeus, his entire career prepared him for the moment President Obama asked him to take command of U.S. Forces in Afghanistan. The mission was truly impossible, as a handful of failed predecessors could attest.</p>\r\n<p class=\"graf graf--p graf-after--p\">Following a script only Hollywood could write, the Obama Administration believed the right General could manage an orderly drawdown of troops and leave behind a stable and functioning government in a land run by warlords and militias. It would require Spartan determination and the humanitarian instincts of a Peace Corps volunteer. It would require, in short, General David Petraeus, the most decorated war hero since World War II.</p>\r\n<p class=\"graf graf--p graf-after--p\">Petraeus graciously accepted the Commander in Chief’s assignment, but not without a warning. He needed to be sure Obama understood what kind of battlefield commander he was getting, and he wanted to spell this out even if it made things awkward. It was the only way Petraeus felt he would always be able to give the President unvarnished advice about a future he knew would be uncertain.</p>\r\n<p class=\"graf graf--p graf-after--p\">For any business executive involved in a crisis, the impact of shading the facts or understating challenges always ends badly. That was the circumstance Petraeus wanted to avoid.</p>\r\n<p class=\"graf graf--p graf-after--p\">[[{\"fid\":\"7320\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--figure\">Here are General Petraeus’ comments from our interview on how he went about delivering a dissenting point of view to the Commander in Chief:</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“When President Obama first asked me to take on the assignment in Afghanistan, we sat together in the Oval Office to discuss the challenges. I felt very strongly it was important — if he was choosing me to do the job — to know who he was getting.”</em></p>\r\n<p class=\"graf graf--p graf-after--p\"><em>So I said in the clearest terms, “</em><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"anon bd56b52ecbe\"><em>Mr. President, you should understand that I will provide my best professional military advice based first on the facts on the ground — and then by the mission you’ve given us, informed by the issues with which you have to deal uniquely</em></span><em>.”</em></p>\r\n<p class=\"graf graf--p graf-after--p\">To someone with no military background like Obama, it may have sounded like the kind of thing a General says to a President. But to Petraeus, it was a marker he would call on to defend his position when the President became engaged in the politics of war, as the election of 2012 drew near.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">One of the safest bets a President can make is war eventually becomes unpopular.</span>&nbsp;As the death toll grew and the battle raged on, an election mentality took hold, putting pressure on the President by party stalwarts to switch things up. He resorted to an old fashioned remedy, do what you said only faster. So he pushed the timetable and level of troop withdrawals and invited Petraeus back to the Oval Office to get him to agree.</p>\r\n<p class=\"graf graf--p graf-after--p\">What does an executive do when facing a determined boss or a board that has already made up its mind on a key decision? Do you stand your ground even if you know they are wrong or do you capitulate to the powerful, as have legions of executives from Enron to Lehman Brothers?</p>\r\n<p class=\"graf graf--p graf-after--p\">General Petraeus studied the facts as only a Princeton Ph.D. can, and concluded the timetable was too aggressive. It could lead to chaos and even more tragedy.</p>\r\n<p class=\"graf graf--p graf-after--p\">During the course of our interview, I asked him, how do you challenge the Commander in Chief when his position is final?</p>\r\n<p class=\"graf graf--p graf-after--p\">Carefully, as the expression goes.</p>\r\n<p class=\"graf graf--p graf-after--p\">In their subsequent Oval Office meeting, Obama expressed his position and waited to hear the General’s agreement.</p>\r\n<p class=\"graf graf--p graf-after--p\">Petraeus responded by acknowledging the President’s points, including the politics. Then, he staked out the ground where he would make his stand:</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“Mr. President, I’ll be aware of those matters (the political realities), but my advice will always be determined first by facts on the ground, as I said at our earlier meeting.</em></p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“And if those facts are unchanged, so my advice, too, is unchanged.</em></p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“That was an interesting, tense moment.”</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Leadership, when viewed close up, is a series of bold decisions. In the face of dissenting views, regardless of how powerful the boss may be, you must let it be known your decision making is based on a careful study of the facts, not the temptation to give in to popular opinion.</p>\r\n<p class=\"graf graf--p graf-after--p\">Your ‘true north’ will help you through those times a chorus of voices is telling you look the other way. That&nbsp;<em>is</em>&nbsp;the epitaph of great failures like Enron and Lehman.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">By following the example of General Petraeus, you are far more likely to bring back victories, on and off the battlefield.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">&nbsp;</p>\r\n<h4><span>Author’s Bio</span></h4>\r\n<p><em><span>Jeff&nbsp;Cunningham&nbsp;is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.&nbsp;</span></em></p>\r\n<p><em><span>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</span></em></p>\r\n<p><em><span>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;</span></em><a href=\"http://www.iconicvoices.tv/\"><em><span>Iconic Voices</span></em></a><em><span>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to&nbsp;JeffImmelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;</span></em><a href=\"http://www.jeffcunningham.com/\"><em><span>JeffCunningham.com.</span></em></a><em><span>&nbsp;</span></em></p>\r\n<p><em><span>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.&nbsp;</span></em></p>\r\n<p><em><span>He has also been a board director of 10 public companies.</span></em></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/fear-failure-stopping-you\">Is Fear of Failure Stopping You?</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/entrepreneurial-success-five-stage-process\">Entrepreneurial Success Is a 5-Stage Process</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/you-need-strong-boss-4-tips-get-them-there\">You Need a Strong Boss; 4 Tips to Get Them There.</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1000
+    height: 512
+    target_type: file
+    target_uuid: 9cdefcca-0339-4f91-a7bc-7e2556e35132
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.9cdefcca-0339-4f91-a7bc-7e2556e35132
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

@@ -1,0 +1,21 @@
+uuid: d98d6187-aeaf-4736-a1c9-76e22ab5b80f
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image_and_text_gdmi_block
+    - field.storage.block_content.field_bg_color_content_sections
+  module:
+    - options
+id: block_content.image_and_text_gdmi_block.field_bg_color_content_sections
+field_name: field_bg_color_content_sections
+entity_type: block_content
+bundle: image_and_text_gdmi_block
+label: 'Background Color'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

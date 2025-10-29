@@ -1,0 +1,98 @@
+.group-summary {
+
+  & > div {
+    margin-bottom: 2.5rem;
+    padding: 1rem;
+
+    &.gray-section {
+      background-color: $gray-1;
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    & > div {
+      margin-bottom: 71px;
+      padding: 0 75px;
+    }
+
+    & > div.gray-section {
+      padding: 75px;
+    }
+  }
+
+  &__gdmi-version {
+    
+    & > p {
+      margin-bottom: 37px;
+    }
+
+    .version {
+      background-color: $blue-dark;
+      color: $gold;
+      font-size: 2.125rem;
+      font-weight: 900;
+      line-height: 1;
+      margin: auto;
+      max-width: 514px;
+      padding: 48px 0;
+      text-align: center;
+    }
+  }
+}
+
+.group-communications {
+  margin-bottom: 20px;
+
+  .communications-content {
+    max-width: 815px;
+
+    & > p {
+      font-size: 14px;
+    }
+    
+    .communications-section {
+      margin-bottom: 42px;
+
+      ol {
+        font-weight: 700;
+        padding-left: 20px;
+      }
+    }
+
+    span.divider {
+      background-color: #CCCCCC;
+      display: inline-block;
+      height: 39px;
+      margin: 0 1rem;
+      margin-bottom: -12px;
+      width: 1px;
+    }
+
+    .no-message {
+      border-bottom: 1px solid #CCC;
+      line-height: 52px;
+    }
+  }
+
+  .btn {
+    display: block;
+    width: fit-content;
+  }
+}
+
+.group-participants-list {
+  background-color: $gray-1;
+  
+  p {
+    font-size: 14px;
+  }
+
+  .table-container {
+    max-height: 350px;
+    overflow-y: scroll;
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding: 75px;
+  }
+}

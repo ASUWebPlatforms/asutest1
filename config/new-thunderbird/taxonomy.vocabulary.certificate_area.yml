@@ -1,0 +1,8 @@
+uuid: d07c4c4e-bbb4-4440-8acf-135f14496276
+langcode: en
+status: true
+dependencies: {  }
+name: 'Certificate areas'
+vid: certificate_area
+description: 'Used in Find my Path.'
+weight: 0

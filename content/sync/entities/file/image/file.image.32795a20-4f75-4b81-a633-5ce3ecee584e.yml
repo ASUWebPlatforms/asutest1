@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 32795a20-4f75-4b81-a633-5ce3ecee584e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+filename:
+  -
+    value: 2017_e27_class_picture_day_-_39.jpg
+uri:
+  -
+    value: 'public://2017_e27_class_picture_day_-_39.jpg'
+    url: /sites/default/files/2017_e27_class_picture_day_-_39.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 208285
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-05-01T22:02:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-01T22:02:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466

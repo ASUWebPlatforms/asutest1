@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: c884cdbb-6225-440b-a9ed-53831c8ab1a6
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-28T00:29:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Tianjin Plastics'
+created:
+  -
+    value: '2016-07-28T00:29:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-28T00:29:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-97-0014
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>A U.S.-based power plant provider is evaluating the prospects for a project financing of a turn-key power project in Tianjin, China. The prospective project financing agreement must be structured to assure cash flow capability, as well as to provide some protection against either blocked funds in China or foreign exchange risks of potential currency (Chinese renminbi) devaluation.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-97-0014
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1997-01-01'
+field_case_setting:
+  -
+    value: 'China, 1996'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 7723e79a-ec56-48a6-9383-6225a8f8d93a
+field_teaching:
+  -
+    value: "This case is designed as a vehicle for discussing the fundamentals of project financing. It is intended to highlight the traditional risks inherent in projects and how project finance can be used to mitigate or manage these risks from the perspectives of the various parties to the project; both debt and equity providers.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.7723e79a-ec56-48a6-9383-6225a8f8d93a

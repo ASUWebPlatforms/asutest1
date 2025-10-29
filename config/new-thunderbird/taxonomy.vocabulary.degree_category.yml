@@ -1,0 +1,8 @@
+uuid: 262c377a-31ac-4462-ad6c-b74616a01260
+langcode: en
+status: true
+dependencies: {  }
+name: 'Degree Category'
+vid: degree_category
+description: ''
+weight: 0

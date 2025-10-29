@@ -1,0 +1,91 @@
+uuid:
+  -
+    value: c5020b69-7304-4736-bc3d-b3f5d2c7c543
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-04T19:41:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Handshake, Kiss, or Bow?'
+created:
+  -
+    value: '2018-08-27T16:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-04T19:41:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/handshake-kiss-or-bow
+body:
+  -
+    value: "<p>As the old adage goes, you have only one chance to make a first impression. In business and politics, that first impression can be the beginning of a long and mutually beneficial relationship – or a faux pas that freezes the relationship before it’s even begun. </p>\r\n\r\n<p>While people around the world generally accept a proffered handshake – even if it is culturally or circumstantially inappropriate – showing cultural sensitivity from the very beginning can set the stage for long-term success.</p>\r\n\r\n<p>Hover over the icons on the map below to learn what greeting is appropriate in different circumstances around the world.</p>\r\n\r\n<p><img src=\"//cdn.thinglink.me/api/image/1066086157072203779/1024/10/scaletowidth#tl-1066086157072203779;'\" style=\"max-width: 100%;\" class=\"alwaysThinglink\"></p>\r\n<script async charset=\"utf-8\" src=\"//cdn.thinglink.me/jse/embed.js\"></script>"
+    format: full_html
+    processed: |-
+      <p>As the old adage goes, you have only one chance to make a first impression. In business and politics, that first impression can be the beginning of a long and mutually beneficial relationship – or a faux pas that freezes the relationship before it’s even begun. </p>
+      <p>While people around the world generally accept a proffered handshake – even if it is culturally or circumstantially inappropriate – showing cultural sensitivity from the very beginning can set the stage for long-term success.</p>
+      <p>Hover over the icons on the map below to learn what greeting is appropriate in different circumstances around the world.</p>
+      <p><img src="//cdn.thinglink.me/api/image/1066086157072203779/1024/10/scaletowidth#tl-1066086157072203779;'" style="max-width: 100%;" class="alwaysThinglink"></p>
+      <script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+    summary: 'As the old adage goes, you have only one chance to make a first impression. In business and politics, that first impression can be the beginning of a long and mutually beneficial relationship – or a faux pas that freezes the relationship before it’s even begun.'
+    summary_processed: |
+      <p>As the old adage goes, you have only one chance to make a first impression. In business and politics, that first impression can be the beginning of a long and mutually beneficial relationship – or a faux pas that freezes the relationship before it’s even begun.</p>
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1332
+    height: 788
+    target_type: file
+    target_uuid: 15d3eff8-654e-4c60-9311-4df5c3d6236c
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b7ce5994-a336-433d-a3fa-93c52fd702a1
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.15d3eff8-654e-4c60-9311-4df5c3d6236c
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b7ce5994-a336-433d-a3fa-93c52fd702a1

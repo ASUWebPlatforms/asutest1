@@ -1,0 +1,36 @@
+uuid: 38bd38a1-0218-40ab-9b54-790122ed3ded
+langcode: en
+status: true
+dependencies:
+  module:
+    - domain
+    - tb_gdmi
+  theme:
+    - thunderbird
+id: gdmiheadersandmenus
+theme: thunderbird
+region: sub_header
+weight: -14
+provider: null
+plugin: headers_and_menus
+settings:
+  id: headers_and_menus
+  label: 'GDMI Headers and menus'
+  label_display: '0'
+  provider: tb_gdmi
+  title: 'GDMI Hub'
+  upper_menu: account
+  lower_menu: gdmi-user
+  link:
+    id: ''
+    uri: ''
+    title: ''
+  in_user_route: false
+visibility:
+  domain:
+    id: domain
+    negate: false
+    context_mapping:
+      domain: '@domain.current_domain_context:domain'
+    domains:
+      gdmi: gdmi

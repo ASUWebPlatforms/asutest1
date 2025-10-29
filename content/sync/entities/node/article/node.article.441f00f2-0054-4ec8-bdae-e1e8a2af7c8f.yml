@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 441f00f2-0054-4ec8-bdae-e1e8a2af7c8f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-15T03:21:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Assessing the ROI of Executive Development'
+created:
+  -
+    value: '2017-11-29T23:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-15T03:21:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/whats-roi-executive-education
+body:
+  -
+    value: "<h3>[[{\"fid\":\"9929\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"What’s the ROI of Executive Education?\",\"field_file_image_title_text[und][0][value]\":\"What’s the ROI of Executive Education?\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"What’s the ROI of Executive Education?\",\"field_file_image_title_text[und][0][value]\":\"What’s the ROI of Executive Education?\"}},\"attributes\":{\"alt\":\"What’s the ROI of Executive Education?\",\"title\":\"What’s the ROI of Executive Education?\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</h3>\r\n<h3>How the Costs and Benefits Stack up for Both Students and Their Employers</h3>\r\n<p>When executive education course participants talk about what they got out of the professional development, they cite specifics: Being a better leader; having more focus, energy, and direction in business; being equipped with new tools and skills to solve problems.</p>\r\n<p>Their employers cite similar benefits: Employees return after executive education courses as better leaders with more focus, equipped with new skills to solve challenges and realize opportunities for the organization.</p>\r\n<blockquote>\r\n<p><em>“Executive education pays dividends to both the employee and the employer.” – <a href=\"https://ctt.ec/2c82z\">Click to Tweet</a><a href=\"#_msocom_1\" id=\"_anchor_1\" name=\"_msoanchor_1\"></a></em></p>\r\n</blockquote>\r\n<p><strong>But do those returns justify the investment of both time and money?</strong></p>\r\n<p>At Thunderbird School of Global Management, program participants and employers alike report that the returns do indeed justify the investment, with significant gains in both the short and long term.</p>\r\n<p>[[{\"fid\":\"9972\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TBird Kuscuoglu\",\"field_file_image_title_text[und][0][value]\":\"TBird Kuscuoglu\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TBird Kuscuoglu\",\"field_file_image_title_text[und][0][value]\":\"TBird Kuscuoglu\"}},\"link_text\":null,\"attributes\":{\"alt\":\"TBird Kuscuoglu\",\"title\":\"TBird Kuscuoglu\",\"height\":\"173\",\"width\":\"472\",\"style\":\"float: right; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<div>\r\n<h3>Expectations and Benchmarks for Change</h3>\r\n<p>The best way to assess the return on investment (ROI) of an executive education program is to begin with expectations. Thinking about what you expect to achieve from the course will help you assign it value. If a course will help you qualify for a promotion, that’s a lot of value. If it will help you solve a business problem that’s preventing revenue growth, that’s a lot of value too.</p>\r\n<p>Use these questions to help define your overall expectations:</p>\r\n<h4>Student expectations</h4>\r\n<ul>\r\n<li>What do you expect to get from the course?</li>\r\n<li>What are your personal benchmarks for change?</li>\r\n<li>Are you looking for a new career?</li>\r\n<li>Are you planning to make a career shift in your current workplace?</li>\r\n<li>Are you an entrepreneur looking to start or expand your own business?</li>\r\n<li>Do you hope to cultivate an international professional network?</li>\r\n<li>Are you interested in taking part in a diverse learning environment?</li>\r\n</ul>\r\n<h4>Employer expectations</h4>\r\n<ul>\r\n<li>What is your shortlist of organizational needs?&nbsp;</li>\r\n<li>What are your organizational benchmarks for change?</li>\r\n<li>Are you investing in an employee you want to be a top performer?</li>\r\n<li>Will executive education training help you identify future leaders?</li>\r\n<li>Do you want to maximize your employees’ potential in the short term?</li>\r\n<li>Are you looking to create a common business language among employees?</li>\r\n</ul>\r\n<h3>Short-term and Long-term ROI</h3>\r\n<p>“You have to look at your education just like you do a business opportunity,” says Thunderbird Executive Education’s Senior Director of Open Enrollment Programs Joel Dupuis. “You have to be forward thinking. Where are you going? How does executive education fit into your strategies for getting there?”</p>\r\n<blockquote>\r\n<p>“You have to look at your education just like you do a business opportunity.” – <a href=\"https://ctt.ec/zEnX7\"><em>Click to Tweet&nbsp;</em></a></p>\r\n</blockquote>\r\n<p>There can be great value in taking time out from the day-to-day business world to develop new skills. Time in an executive program can help deepen your understanding of your own organization and related industries. And it can introduce you to the nuances of completely unrelated businesses. A professional development program can help you sharpen your strategic instincts and your understanding of context, and give you a heightened awareness of the signals you send in your daily interactions and communications.&nbsp;It certainly can prepare you for new opportunities when they arise.</p>\r\n<p>And it can make you a better candidate for advancement, giving you a competitive advantage in your current organization. When an employer sees an individual who has taken the time to further his or her education, to fine-tune skills and enhance understanding about the business world and the world in general, that indicates a commitment to learning and development and a commitment to the business – often two important consideration factors for advancement.</p>\r\n<p>At Thunderbird, there’s an added benefit: the lifelong international network. Whether your executive education program is one day or two years, the background, caliber, and experience of the other students add significant value. As a T-bird, you’ll be part of a vast global network of like-minded professionals – a network that will pay dividends for the rest of your career.</p>\r\n<h3>Value for the Business</h3>\r\n<p>Investing in employees’ education can have significant retention benefits for an organization. Identifying individuals for training and advancement sends a message that they are valued and have a future at the organization. Increased retention cuts down on hiring and training costs.</p>\r\n<blockquote>\r\n<p>“Investing in employees’ education can have significant retention benefits for an organization.” – <a href=\"https://ctt.ec/3ksj8\"><em>Click to Tweet</em></a><a href=\"#_msocom_3\" id=\"_anchor_3\" name=\"_msoanchor_3\"></a></p>\r\n</blockquote>\r\n<p>In addition, executive education can help identify potential leaders to further invest in for the long-term. In an age when employees migrate more quickly from job to job, training can be a way to maximize their value. It also offers the business a chance to assess the performance of potential leaders. For example, in one recent custom program at Thunderbird, seven out of the 20 employees who attended applied what they learned so well they were promoted into management roles.</p>\r\n<p>Now, that's ROI.</p>\r\n<div class=\"blue-header-block-wrapper\">\r\n<div style=\"text-align: left;\" class=\"blue-header-block-inner-wrapper\">\r\n<h3 style=\"text-align: left;\">The Value of Thunderbird Executive Education</h3>\r\n<p style=\"text-align: left;\">The Thunderbird Executive Education team has extensive experience in global business, including a <a href=\"https://thunderbird.asu.edu/executive-education/about/educator-network\">faculty of real-world practitioners</a>&nbsp;who thrive on developing solutions for the most complicated global scenarios. We aim to help both students and organizations by:</p>\r\n<ul>\r\n<li>Helping you and your organization resolve complex global management issues</li>\r\n<li>Delivering on strategic priorities</li>\r\n<li>Developing new&nbsp;skills and achieving solutions</li>\r\n<li>Instilling new ideas for your unique&nbsp;business&nbsp;challenges</li>\r\n<li>Honing your ability to implement new ideas in ways that create value for your organization</li>\r\n<li>Establishing a learning environment where diversity of culture, function, and industry is prominent</li>\r\n<li>Providing an opportunity to grow alongside&nbsp;executive education participants from some of the world's top global companies</li>\r\n</ul>\r\n<p style=\"text-align: left;\">At Thunderbird, when it comes to executive education, everyone wins.&nbsp;</p>\r\n</div>\r\n</div>\r\n<h4>More Thunderbird Executive Education FAQs</h4>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/node/2539\">How to Pay for Your Executive Education Course</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/node/2772\">Who Offers the Best Executive Development: Universities, Consultants or Trainers?</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/node/2883\">Degree or Non-Degree? That Is the Question</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/node/2887\">What's Better for Me? Online or In-person Executive Development</a></li>\r\n</ul>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: "The best way to assess the return on investment (ROI) of an executive education program is to begin with expectations. Thinking about what you expect to achieve from the course will help you assign it value. If a course will help you qualify for a promotion, that’s a lot of value. If it will help you solve a business problem that’s preventing revenue growth, that’s a lot of value too.\r\n"
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1275
+    target_type: file
+    target_uuid: 4e46f6ce-be88-47e5-a786-b44ecd15ef7a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.4e46f6ce-be88-47e5-a786-b44ecd15ef7a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

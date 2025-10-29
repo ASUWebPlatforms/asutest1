@@ -1,0 +1,120 @@
+uuid:
+  -
+    value: dea2d617-a6cc-4fd0-bc77-ba482c9152c4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-12-16T17:31:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Gifts Not Gaffes: What You Should Know About Cross-Cultural Giving'
+created:
+  -
+    value: '2020-12-15T18:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-12-16T17:31:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/gifts-not-gaffes
+body:
+  -
+    value: "<h4>They say with gifts it's the thought that counts. That's not always the case with cross-cultural gift giving. The wrong gift could send a very wrong message.</h4>\r\n<p>For most business leaders, the ROI of gift giving is important. Deciding how much to spend is the easy part. Choosing the right gift is much harder. Gift-giving gaffes can not only negate the value of the gesture in the first place, but can actually irreparably harm the relationship and damage the corporate reputation.</p>\r\n<p>Whether you are giving gifts to colleagues, clients, prospective clients or employees, it’s important to be aware of the gift-giving practices in that country. Take our advice. If you want to keep business dealings on the up and up, make sure you do your research on the gift-giving customs in the recipient's country. Not every gift is created equal.</p>\r\n<h3>5 Global Gift-Giving Tips</h3>\r\n<p>When gift giving crosses international borders, there are a lot of Dos and Don’ts to keep in mind. In general, these guidelines will keep you safe in most situations:&nbsp;</p>\r\n<ol>\r\n<li>Keep a calendar of important dates around the world – just because it’s holiday time in one place doesn’t mean it is in another.</li>\r\n<li>Make gifts personal when possible.</li>\r\n<li>Know how much to spend. Very expensive gifts can look like you’re trying too hard – and possibly run you afoul of anti-bribery laws.</li>\r\n<li>Be sensitive to religious and cultural beliefs.</li>\r\n<li>Stay aware of news and events that might change cultural sensitivities, even if temporarily.</li>\r\n</ol>\r\n<div class=\"blue-header-block-wrapper\">\r\n<div class=\"blue-header-block-inner-wrapper\">\r\n<p>Here are just three examples that illustrate how important it is to do your homework as you think about gift giving in the global business world:</p>\r\n<ul>\r\n<li><span>Giving gifts to Malays:</span>&nbsp;Do not give toy dogs or pigs to children. Do not give anything made of pigskin. Avoid white wrapping paper (symbolizes death) and yellow wrapping paper (the color of royalty).</li>\r\n<li><span>Giving gifts to Chinese:</span>&nbsp;Wrap gifts in happy colors: red, pink, yellow. It’s best to give gifts in even numbers since odd numbers are unlucky. If you give knives, scissors, or any cutting tool, you are signaling that you want to sever the relationship.</li>\r\n<li><span>Giving gifts to Indians:</span>&nbsp;Money should be given in odd numbers. Offer a gift with the right hand only. Do not give leather products to a Hindu or alcohol unless you are certain the recipient drinks.&nbsp;</li>\r\n</ul>\r\n</div>\r\n</div>\r\n<p>Exchanging gifts is a highly valued custom in some countries. In others, it's considered unimportant or even inappropriate. Your best intentions won’t matter if the recipient is offended. Test your global gift-giving savvy here and see if you're ready for the gifting season.</p>\r\n<iframe id=\"interactApp5bfc2c3ccb496200130a1031\" width=\"100%\" height=\"700px\" frameborder=\"0\" border=\"none\"  src=\" https://www.tryinteract.com/share/quiz/5bfc2c3ccb496200130a1031\"></iframe>"
+    format: plain_text
+    processed: |
+      <p>&lt;h4&gt;They say with gifts it&#039;s the thought that counts. That&#039;s not always the case with cross-cultural gift giving. The wrong gift could send a very wrong message.&lt;/h4&gt;<br />
+      &lt;p&gt;For most business leaders, the ROI of gift giving is important. Deciding how much to spend is the easy part. Choosing the right gift is much harder. Gift-giving gaffes can not only negate the value of the gesture in the first place, but can actually irreparably harm the relationship and damage the corporate reputation.&lt;/p&gt;<br />
+      &lt;p&gt;Whether you are giving gifts to colleagues, clients, prospective clients or employees, it’s important to be aware of the gift-giving practices in that country. Take our advice. If you want to keep business dealings on the up and up, make sure you do your research on the gift-giving customs in the recipient&#039;s country. Not every gift is created equal.&lt;/p&gt;<br />
+      &lt;h3&gt;5 Global Gift-Giving Tips&lt;/h3&gt;<br />
+      &lt;p&gt;When gift giving crosses international borders, there are a lot of Dos and Don’ts to keep in mind. In general, these guidelines will keep you safe in most situations:&amp;nbsp;&lt;/p&gt;<br />
+      &lt;ol&gt;<br />
+      &lt;li&gt;Keep a calendar of important dates around the world – just because it’s holiday time in one place doesn’t mean it is in another.&lt;/li&gt;<br />
+      &lt;li&gt;Make gifts personal when possible.&lt;/li&gt;<br />
+      &lt;li&gt;Know how much to spend. Very expensive gifts can look like you’re trying too hard – and possibly run you afoul of anti-bribery laws.&lt;/li&gt;<br />
+      &lt;li&gt;Be sensitive to religious and cultural beliefs.&lt;/li&gt;<br />
+      &lt;li&gt;Stay aware of news and events that might change cultural sensitivities, even if temporarily.&lt;/li&gt;<br />
+      &lt;/ol&gt;<br />
+      &lt;div class=&quot;blue-header-block-wrapper&quot;&gt;<br />
+      &lt;div class=&quot;blue-header-block-inner-wrapper&quot;&gt;<br />
+      &lt;p&gt;Here are just three examples that illustrate how important it is to do your homework as you think about gift giving in the global business world:&lt;/p&gt;<br />
+      &lt;ul&gt;<br />
+      &lt;li&gt;&lt;span&gt;Giving gifts to Malays:&lt;/span&gt;&amp;nbsp;Do not give toy dogs or pigs to children. Do not give anything made of pigskin. Avoid white wrapping paper (symbolizes death) and yellow wrapping paper (the color of royalty).&lt;/li&gt;<br />
+      &lt;li&gt;&lt;span&gt;Giving gifts to Chinese:&lt;/span&gt;&amp;nbsp;Wrap gifts in happy colors: red, pink, yellow. It’s best to give gifts in even numbers since odd numbers are unlucky. If you give knives, scissors, or any cutting tool, you are signaling that you want to sever the relationship.&lt;/li&gt;<br />
+      &lt;li&gt;&lt;span&gt;Giving gifts to Indians:&lt;/span&gt;&amp;nbsp;Money should be given in odd numbers. Offer a gift with the right hand only. Do not give leather products to a Hindu or alcohol unless you are certain the recipient drinks.&amp;nbsp;&lt;/li&gt;<br />
+      &lt;/ul&gt;<br />
+      &lt;/div&gt;<br />
+      &lt;/div&gt;<br />
+      &lt;p&gt;Exchanging gifts is a highly valued custom in some countries. In others, it&#039;s considered unimportant or even inappropriate. Your best intentions won’t matter if the recipient is offended. Test your global gift-giving savvy here and see if you&#039;re ready for the gifting season.&lt;/p&gt;<br />
+      &lt;iframe id=&quot;interactApp5bfc2c3ccb496200130a1031&quot; width=&quot;100%&quot; height=&quot;700px&quot; frameborder=&quot;0&quot; border=&quot;none&quot;  src=&quot; <a href="https://www.tryinteract.com/share/quiz/5bfc2c3ccb496200130a1031&quot;&gt;&lt;/iframe&amp;gt">https://www.tryinteract.com/share/quiz/5bfc2c3ccb496200130a1031&quot;&gt;&lt;/ifra…</a>;</p>
+    summary: "They say with gifts it's the thought that counts. That's not always the case with cross-cultural gift giving. The wrong gift could send a very wrong message.\r\n\r\nFor most business leaders, the ROI of gift giving is important. Deciding how much to spend is the easy part. Choosing the right gift is much harder. Gift-giving gaffes can not only negate the value of the gesture in the first place, but can actually irreparably harm the relationship and damage the corporate reputation.\r\n\r\nWhether you are giving gifts to colleagues, clients, prospective clients or employees, it’s important to be aware of the gift-giving practices in that country. Take our advice. If you want to keep business dealings on the up and up, make sure you do your research on the gift-giving customs in the recipient's country. Not every gift is created equal."
+    summary_processed: |
+      <p>They say with gifts it&#039;s the thought that counts. That&#039;s not always the case with cross-cultural gift giving. The wrong gift could send a very wrong message.</p>
+      <p>For most business leaders, the ROI of gift giving is important. Deciding how much to spend is the easy part. Choosing the right gift is much harder. Gift-giving gaffes can not only negate the value of the gesture in the first place, but can actually irreparably harm the relationship and damage the corporate reputation.</p>
+      <p>Whether you are giving gifts to colleagues, clients, prospective clients or employees, it’s important to be aware of the gift-giving practices in that country. Take our advice. If you want to keep business dealings on the up and up, make sure you do your research on the gift-giving customs in the recipient&#039;s country. Not every gift is created equal.</p>
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2121
+    height: 1414
+    target_type: file
+    target_uuid: b8e3306b-3e79-4d69-974d-030510e09227
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b7ce5994-a336-433d-a3fa-93c52fd702a1
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: be23d3df-c315-4f8a-86c5-c9be4f65d17d
+  -
+    target_type: taxonomy_term
+    target_uuid: e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.b8e3306b-3e79-4d69-974d-030510e09227
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b7ce5994-a336-433d-a3fa-93c52fd702a1
+      - taxonomy_term.knowledge_network_tags.be23d3df-c315-4f8a-86c5-c9be4f65d17d
+      - taxonomy_term.knowledge_network_tags.e3d3a9c4-b417-4fbd-81c8-c6f551e7f155

@@ -1,0 +1,33 @@
+uuid: 0f1f7fed-42d2-4675-9c54-e97aca0f49df
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.taxonomy_term.coe_locations.field_country
+    - field.field.taxonomy_term.coe_locations.field_location_image
+    - field.field.taxonomy_term.coe_locations.field_location_url
+    - field.field.taxonomy_term.coe_locations.field_pin_class
+    - field.field.taxonomy_term.coe_locations.field_x_coordinate
+    - field.field.taxonomy_term.coe_locations.field_y_coordinate
+    - taxonomy.vocabulary.coe_locations
+id: taxonomy_term.coe_locations.default
+targetEntityType: taxonomy_term
+bundle: coe_locations
+mode: default
+content:
+  field_country:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  description: true
+  field_location_image: true
+  field_location_url: true
+  field_pin_class: true
+  field_x_coordinate: true
+  field_y_coordinate: true
+  langcode: true

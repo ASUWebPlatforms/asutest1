@@ -1,0 +1,35 @@
+uuid: e8d6fe99-bbab-494d-a09a-ee26fe8c9d1b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_degree_years_of_experience
+    - node.type.degree
+  module:
+    - range
+id: node.degree.field_degree_years_of_experience
+field_name: field_degree_years_of_experience
+entity_type: node
+bundle: degree
+label: 'Years of Experience'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: 0
+  max: null
+  field:
+    prefix: ''
+    suffix: ''
+  from:
+    prefix: ''
+    suffix: ''
+  to:
+    prefix: ''
+    suffix: ''
+  combined:
+    prefix: ''
+    suffix: ''
+field_type: range_integer

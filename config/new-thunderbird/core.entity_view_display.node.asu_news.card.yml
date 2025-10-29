@@ -1,0 +1,66 @@
+uuid: 24aa2165-14ae-4505-8c48-3aaaeac4d495
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.card
+    - field.field.node.asu_news.body
+    - field.field.node.asu_news.field_domain_access
+    - field.field.node.asu_news.field_domain_all_affiliates
+    - field.field.node.asu_news.field_image
+    - field.field.node.asu_news.field_news_date
+    - field.field.node.asu_news.field_tags
+    - field.field.node.asu_news.layout_builder__layout
+    - field.field.node.asu_news.layout_builder__translation
+    - node.type.asu_news
+  module:
+    - datetime
+    - layout_builder
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+id: node.asu_news.card
+targetEntityType: node
+bundle: asu_news
+mode: card
+content:
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: signpost_2_columns
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_news_date:
+    type: datetime_default
+    label: hidden
+    settings:
+      timezone_override: ''
+      format_type: date
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_tags:
+    type: entity_reference_label
+    label: hidden
+    settings:
+      link: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 3
+    region: content
+hidden:
+  body: true
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true

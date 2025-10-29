@@ -1,0 +1,19 @@
+uuid: ed551d6b-2509-4761-a10a-a2cb1e02fd57
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_degrees
+field_name: field_degrees
+entity_type: node
+type: entity_reference
+settings:
+  target_type: node
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

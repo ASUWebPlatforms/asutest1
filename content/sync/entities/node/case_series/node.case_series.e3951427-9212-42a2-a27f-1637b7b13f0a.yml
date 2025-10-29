@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: e3951427-9212-42a2-a27f-1637b7b13f0a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'IDIEM—Catalogo Verde'
+created:
+  -
+    value: '2016-07-15T21:42:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-14-0003
+body:
+  -
+    value: '<p>The IDIEM, through its Energy and Sustainability Department, has launched a new line of consultancy services for LEED (Leadership in Energy and Environmental Design) in Chile. A central component of this initiative is the online<em>Catalogo Verde,</em>&nbsp;a portal for the environmental rating of construction materials. The site is designed to provide technical specifications and detailed materials testing results for architects designing buildings to be certified as LEED compliant. The LEED certification constitutes a third-party validation of the energy and environmental performance of buildings. An LEED certification is seen by the general public as an indicator of corporate social responsibility and good citizenship for the owners and users.</p><p><span>The IDIEM—</span><em>Catalogo Verde</em><span>&nbsp;was designed as a knowledge instrument for the engineering and architecture markets, but also as a tool to build relationships and open doors for other IDIEM services. Besides, it is a tool to build the IDIEM brand among key influencers in the construction industry, government agencies, real estate investors, and materials suppliers.</span></p><p><span>&nbsp;</span><em>Catalogo Verde&nbsp;</em><span>has been very well received. The backing of IDIEM is an umbrella that guarantees its excellence and competence. Management has launched a series of initiatives to build up online traffic and accelerate the adoption of LEED by architects in Chile.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-14-0003
+field_case_page_length:
+  -
+    value: '19 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2014-01-01'
+field_case_setting:
+  -
+    value: Chile
+field_case_source:
+  -
+    value: Private
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "To examine the complexities of Certification Marketing, an evolving concept that is growing alongside a more visible commitment to social responsibility by global corporations and more socially conscious national enterprises.\r\nTo explore the challenges of introducing an ambitious marketing initiative within an organization steeped in tradition and aversion to self-serving publicity.\r\nTo illustrate the inner workings of a digital marketing campaign and consider the complexities of steering a knowledge organization towards becoming a specialized digital publisher.\r\nTo introduce the user to an important dimension of modern corporate social responsibility, that is environmental and energy sustainability via LEED certification."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

@@ -1,0 +1,31 @@
+display:
+  default:
+    display_title: 'طے شدہ'
+    display_options:
+      fields:
+        media_bulk_form:
+          action_title: ایکشن
+      pager:
+        options:
+          tags:
+            next: ‹‹
+            previous: ››
+      exposed_form:
+        options:
+          exposed_sorts_label: 'کی طرف سے  کی گئی مرتب سازی'
+      filters:
+        langcode:
+          expose:
+            label: زبان
+  page:
+    display_options:
+      fields:
+        media_bulk_form:
+          action_title: ایکشن
+        delete_media:
+          text: 'حذف کریں'
+  widget_table:
+    display_options:
+      fields:
+        uid:
+          label: مصنف

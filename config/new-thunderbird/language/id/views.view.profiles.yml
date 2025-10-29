@@ -1,0 +1,19 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Terapkan
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sortir dengan'
+          sort_asc_label: 'Urutan turun'
+      arguments:
+        uid:
+          exception:
+            title: Semua
+        type:
+          exception:
+            title: Semua
+        status:
+          exception:
+            title: Semua

@@ -1,0 +1,10 @@
+entity-browser-overrides:
+  version: 1.x
+  css:
+    theme:
+      css/entity-browser-overrides.css: {}
+toolbar:
+  version: VERSION
+  css:
+    theme:
+      css/toolbar.css: {}

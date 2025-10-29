@@ -1,0 +1,30 @@
+uuid: 6e369f31-73dd-47b4-a004-03b450ce5c8d
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+  theme:
+    - thunderbird
+_core:
+  default_config_hash: NbZuJS-SjpyLHLAK3PR7HD6px2LMD9mGIIxfPZ2wNlY
+id: thunderbird_primaryadminactions
+theme: thunderbird
+region: pre_content
+weight: -8
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      article: article
+      page: page

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 28354ba9-da7e-4167-836b-bdfe1cae9f6f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Three Steps to Visionary, Hands-On Leadership'
+created:
+  -
+    value: '2013-04-16T11:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/visionary-hands-on-leadership
+body:
+  -
+    value: "<p>Micromanagers drop down and do the work of their direct reports. Dreamers float in the clouds and never get anything done. Both styles can wreak havoc on an organization. Yet visionary, hands-on leadership is possible. Thunderbird Executive Education participants follow three basic steps to find the right balance.</p>\r\n<p><strong>1. Learn your level.</strong>&nbsp;Organizations need leaders, but they don’t need everyone at the same level. Authors Ram Charan, Steve Drotter and Jim Noel describe a progression of distinct leadership levels in their book, The Leadership Pipeline (Jossey-Bass, 2nd edition 2011). Some people function as individual contributors or self-leaders. Others take additional responsibilities as team leaders, leaders of leaders or eventually as senior leaders. All organizations, no matter the size, need high performers at all levels. Would-be leaders do harm when they fail to recognize their level and fit their performance to the role. Being a great team leader is not so great, for example, when a person is supposed to be working one level up as a leader of leaders. Whether a person floats up or drops down, the identity crisis creates organizational gaps that hurt morale and ultimately the bottom line.</p>\r\n<p><strong>2. Calibrate the delivery.</strong>&nbsp;Floating up or dropping down is easy, but catching yourself in the act is difficult. Shakespeare’s character Brutus explains the basic problem in Julius Caesar, when Cassius asks him if he can see his own face. “No, Cassius,” he replies. “For the eye sees not itself, but by reflection, by some other things.” In the same way that people need mirrors to see their own features, leaders need authentic feedback to see the hard truths about their workplace performance. Leaders serious about their craft recruit mentors inside and outside their organizations. They also seek 360-degree feedback from supervisors, peers and direct reports. Using the information they gather, leaders can pinpoint two or three things to do differently and then work to improve.</p>\r\n<p><strong>3. Zoom in and out.</strong>&nbsp;Most cameras come equipped with lenses that can zoom in to capture the details and then zoom out to record the big picture. Effective leaders must develop a similar ability — regardless of their level within an organization. The key is learning when to zoom in and how long to stay before zooming back out. The right balance changes with each assignment. Team leaders might need to spend 80 percent of their time focused on short-term results and only 20 percent of their time being visionary, while effective CEOs usually adopt the opposite ratio.</p>\r\n<p>Most aspiring leaders have a micromanager or dreamer inside them eager to come out. So stay vigilant and keep your default behaviors in check.</p>\r\n<p><em><a href=\"/node/94\"><strong>Caren Siehl</strong>, Ph.D.</a>, is a clinical professor of management at Thunderbird School of Global Management.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

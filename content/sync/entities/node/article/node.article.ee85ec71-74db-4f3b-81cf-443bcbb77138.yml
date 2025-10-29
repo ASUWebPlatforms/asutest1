@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: ee85ec71-74db-4f3b-81cf-443bcbb77138
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-17T01:44:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'The Great Transformation of Myanmar'
+created:
+  -
+    value: '2018-09-12T20:38:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-17T01:44:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/great-transformation
+body:
+  -
+    value: "<p>TEM Lab, Fall 2018<br>Myanmar, Heho Potato<br>Written by Tyler Stringham&nbsp;</p>\r\n<p>Myanmar, formerly known as Burma, has undergone a great transformation. Originally under a military regime for decades, yet since 2011, Myanmar has been transitioning into a democracy. In the words of our client Mr. Htwe Chan, “during that time, everyone was poor. The government had control of so much. But now we have more freedom. We can become rich.” The people have control of their economy again, and it has shown. Myanmar is now one of the fastest-growing economies in the world, with a GDP annual growth rate averaged at 8.73%.&nbsp;</p>\r\n<p>It feels reminiscent to the opening of the Chinese economy during the 1970s and 80s, but on a smaller scale. When China began introducing further market-based principles, the economy really began to heat up. Foreign direct investment began to flow into the country and foreign ideas flowed with them. With this rebirth of the country, our team also hopes to play our own part in helping the Burmese people thrive through rural development.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"64903\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Myanmar\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Myanmar \"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Myanmar\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Myanmar \"}},\"attributes\":{\"alt\":\"TEM Lab in Myanmar\",\"title\":\"TEM Lab in Myanmar \",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Brandan and Brian in awe of the Shan State countryside</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>The overall goal of Value Chains for Rural Development is to sustainably reduce poverty and hunger in Myanmar by improving smallholder productivity and profitability, strengthening value chain linkages and competitiveness, and increasing private sector engagement to support value chain upgrading. Those are fancy words for: help the people by helping improve their economy and business practices.</p>\r\n<p>And so here we are, in one of the most majestic places we have ever been, in beautiful Shan State, Myanmar. In the few weeks we have been here, we have seen incredible, lush, rolling farmlands. We have seen imposing mountain sides with peaks hidden by a soft silky layer of cloud cover. Most alluring of all, floating villages and gardens over the most picturesque lake we have ever seen.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"64904\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Myanmar\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Myanmar \"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Myanmar\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Myanmar \"}},\"attributes\":{\"alt\":\"TEM Lab in Myanmar\",\"title\":\"TEM Lab in Myanmar \",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Observing Inle Lake’s local Intha people, with their communities based entirely on the water</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>This is now the current state of Myanmar. There is a lot of work that needs to be done, but we are so excited to be engaged in making a lasting difference. We get the chance to ride this great wave as it emerges. As we put our noses to the grindstone to assist the Burmese in this great transformation, we can’t help but contemplate for a moment the beauty of this country, its people, its culture and its way of life.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"64905\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Myanmar\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Myanmar \"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Myanmar\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Myanmar \"}},\"attributes\":{\"alt\":\"TEM Lab in Myanmar\",\"title\":\"TEM Lab in Myanmar \",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]\r\n<p class=\"caption-text\">Team Myanmar and our client Mr. Htwe Chan overlooking the city</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Is this what it feels like to be a T-bird?</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1306
+    height: 980
+    target_type: file
+    target_uuid: 052c5856-557a-4e9c-a1af-f5ae69f824d7
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    file:
+      - file.image.052c5856-557a-4e9c-a1af-f5ae69f824d7
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

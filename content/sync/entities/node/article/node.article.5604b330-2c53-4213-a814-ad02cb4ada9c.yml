@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 5604b330-2c53-4213-a814-ad02cb4ada9c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-07-23T17:59:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+title:
+  -
+    value: 'Beat the Bot and Get to the Hiring Manager'
+created:
+  -
+    value: '2018-07-23T17:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-07-23T17:59:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/beat-bot-and-get-hiring-manager
+body:
+  -
+    value: "<h3>[[{\"fid\":\"62630\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"\\\"Beat the Bots\\\"\",\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"\\\"Beat the Bots\\\"\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"\\\"Beat the Bots\\\"\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</h3>\r\n<h3>How to ensure your résumé&nbsp;gets past an ATS</h3>\r\n<p>When you’ve&nbsp;put time and energy into perfecting your&nbsp;résumé, you want to make sure it’s being seen by&nbsp;the right&nbsp;people.&nbsp;With technology playing a bigger role in&nbsp;recruitment,&nbsp;it’s essential that you consider the role of an Applicant&nbsp;Tracking&nbsp;System (ATS)&nbsp;when writing your&nbsp;résumé.</p>\r\n<p>Neglect this, and you risk your application being filtered out by the computer system. While this may sound daunting, with some thought and extra care,&nbsp;it’s&nbsp;easy to do. Follow our advice below to help you beat the bots.&nbsp;&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>I spoke to&nbsp;Alice&nbsp;Greedus, Career Expert at&nbsp;<a href=\"https://www.resume-library.com/\" target=\"_blank\">Résumé-Library</a>, who walked me step by step through the best way to “get past an ATS.”</p>\r\n<h3><span>Know how&nbsp;an&nbsp;ATS works</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></h3>\r\n<p>To master something,&nbsp;you need&nbsp;to have a solid understanding of how it works.&nbsp;Therefore,&nbsp;you must&nbsp;know exactly how the recruiter will be using this software&nbsp;if&nbsp;you&nbsp;hope to&nbsp;maximize&nbsp;your chances of success.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>An&nbsp;ATS&nbsp;is&nbsp;computer software&nbsp;that handles a number of recruitment needs, including&nbsp;sorting&nbsp;through&nbsp;résumés.&nbsp;But how does this actually work? Simply put,&nbsp;résumés&nbsp;will&nbsp;filter through&nbsp;the&nbsp;software, which&nbsp;searches&nbsp;for key phrases&nbsp;and&nbsp;criteria.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>The computer will then rank the&nbsp;résumés&nbsp;in order of relevance. The idea is to save the recruiter time,&nbsp;while&nbsp;matching them with the best candidates.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Recruiters will usually conduct&nbsp;a number of keyword searches to help them get the best results from&nbsp;an ATS.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>If you’re careful and selective about the information you put&nbsp;in your&nbsp;résumé,&nbsp;you don’t need to worry about&nbsp;the ATS hindering your chances. Instead,&nbsp;think of this&nbsp;as a way to help&nbsp;you&nbsp;get your application in front of&nbsp;the hiring manager.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>Make use of keywords</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></h3>\r\n<p>Recruiters use keywords for their ATS search. Therefore, if you hope to get your application seen,&nbsp;you must&nbsp;do so&nbsp;too. Neglect this step and you risk your&nbsp;résumé&nbsp;being lost in a sea of applications.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Start by&nbsp;analyzing&nbsp;the job&nbsp;listing.&nbsp;You need to read&nbsp;through this&nbsp;carefully and highlight the key skills and qualities the employer is looking for. As an&nbsp;example,&nbsp;they might be looking for&nbsp;someone who is&nbsp;organized, so you would then use that keyword&nbsp;in your&nbsp;résumé.&nbsp;&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Once&nbsp;you&nbsp;have a better understanding of what&nbsp;the recruiter is looking for,&nbsp;you need to incorporate these keywords&nbsp;into your&nbsp;application. But be careful&nbsp;not to&nbsp;overdo&nbsp;it,&nbsp;each paragraph&nbsp;must flow and look professional.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>Tailor your&nbsp;résumé&nbsp;for&nbsp;every role</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></h3>\r\n<p>A generic&nbsp;résumé&nbsp;that looks like it was plucked from an&nbsp;Internet&nbsp;template&nbsp;won’t get you far. To get past an ATS you must tailor&nbsp;it&nbsp;for&nbsp;every role you apply to.&nbsp;So,&nbsp;even if you think you’ve perfected your resume for one role,&nbsp;you might need to make some adjustments for another company.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Phrases&nbsp;that don’t really say a lot about your abilities such as&nbsp;“team player”&nbsp;need to be revamped with the&nbsp;company in mind.&nbsp;&nbsp;Do some research into the company to help you get&nbsp;a better idea of&nbsp;its&nbsp;core values.&nbsp;Then you should be able to&nbsp;think of&nbsp;ways&nbsp;you can reflect&nbsp;these&nbsp;in your&nbsp;résumé.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>Pay attention to language and formatting&nbsp;</span></h3>\r\n<p>While the ATS is a clever tool,&nbsp;it still requires&nbsp;your&nbsp;résumé&nbsp;to be&nbsp;laid&nbsp;out in the correct way.&nbsp;Therefore, you must include titles for each section. For example, these&nbsp;might&nbsp;be&nbsp;Skills,&nbsp;Qualifications,&nbsp;Experience,&nbsp;and&nbsp;Hobbies and&nbsp;Interests.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Having these categories will make sure that the computer picks up the right information from the right parts of your&nbsp;résumé.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Alongside this, ensure that you&nbsp;have&nbsp;a&nbsp;simple&nbsp;format.&nbsp;Avoid&nbsp;any complicated graphics because the software picks up words&nbsp;not images.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>What’s more, you should avoid any styles that use unusual bullet points or fonts,&nbsp;because the ATS may not register these properly. Follow the rule that everything should be kept simple;&nbsp;use&nbsp;easy-to-read&nbsp;fonts such as Calibri&nbsp;or Arial.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>In summary&nbsp;</span></h3>\r\n<p>Don’t let the ATS scare you off. Instead, think of it as a tool to help the hiring manager find you! Follow&nbsp;this&nbsp;advice&nbsp;to help you create a&nbsp;résumé&nbsp;that will&nbsp;beat the bots&nbsp;and end up&nbsp;in front of the hiring manager.</p>\r\n<p>&nbsp;</p>\r\n<h3><span class=\"TextRun SCXW42992605\">Join Dana&nbsp;</span><span class=\"TextRun SCXW42992605\">Manciagli’s</span><span class=\"TextRun SCXW42992605\">&nbsp;</span><a href=\"http://danamanciagli.com/courses/\" class=\"Hyperlink SCXW42992605\" target=\"_blank\">Job Search Master Class®</a><span class=\"TextRun SCXW42992605\">&nbsp;now</span><span class=\"TextRun SCXW42992605\">&nbsp;and get the most comprehensive job search system available!</span><span class=\"EOP SCXW42992605\">&nbsp;</span></h3>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><i><a href=\"http://danamanciagli.com/\">her website.</a></i></p>\r\n<p><strong>Read More from Dana:</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/its-good-year-look-job\">It’s a Good Year to Look for a Job</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/networking-reluctance-3-keys-overcoming-it\">Networking Reluctance: 3 Keys to Overcoming It</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/tips-new-graduate-and-job-seeker\">Tips for the New Graduate – and Job Seeker</a></p>\r\n<p><span>&nbsp;</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: 63db72d6-f5e3-4185-a5a4-9128895ba20d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8
+    file:
+      - file.image.63db72d6-f5e3-4185-a5a4-9128895ba20d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

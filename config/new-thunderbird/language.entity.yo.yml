@@ -1,0 +1,9 @@
+uuid: 9ddfec87-a275-4e4d-99ce-ecf36b2ee96b
+langcode: en
+status: true
+dependencies: {  }
+id: yo
+label: Yoruba
+direction: ltr
+weight: 18
+locked: false

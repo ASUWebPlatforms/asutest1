@@ -1,0 +1,45 @@
+label: Kortingscodes
+display:
+  default:
+    display_title: Master
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Filter
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sorteren op'
+          sort_asc_label: Oplopend
+          sort_desc_label: Aflopend
+      pager:
+        options:
+          tags:
+            previous: ‹‹
+            next: ››
+            first: '« Eerste'
+            last: 'Laatste »'
+          expose:
+            items_per_page_label: 'Items per pagina'
+            items_per_page_options_all_label: '- Alle -'
+            offset_label: Offset
+      fields:
+        code:
+          label: Code
+          separator: ', '
+        usage_limit:
+          label: Gebruik
+          separator: ', '
+        usage_limit_customer:
+          separator: ', '
+        operations:
+          label: Bewerkingen
+      filters:
+        code:
+          expose:
+            label: Code
+      title: Kortingscodes
+      arguments:
+        promotion_id:
+          exception:
+            title: Alle
+  page_1:
+    display_title: Pagina

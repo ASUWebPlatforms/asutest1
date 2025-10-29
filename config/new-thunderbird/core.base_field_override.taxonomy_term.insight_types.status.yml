@@ -1,0 +1,22 @@
+uuid: 9876b26b-0bb9-4ad5-bf4a-d71d24692564
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.insight_types
+id: taxonomy_term.insight_types.status
+field_name: status
+entity_type: taxonomy_term
+bundle: insight_types
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

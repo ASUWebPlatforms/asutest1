@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 41091d2b-df18-4a39-8351-ac4d5c9b7239
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-12T16:14:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'How To Dream Up Your Dream Job'
+created:
+  -
+    value: '2017-09-12T16:14:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-12T16:14:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-dream-your-dream-job
+body:
+  -
+    value: "<p>Even early to mid-career professionals often aren’t sure what they really want to do. Behavioral assessments, value exploration, and dreaming big can get the ball rolling.</p>\r\n<p>To really understand what is most important,&nbsp;<a href=\"https://www.careernegotiations.com/about.html\">career and executive coach Tad Mayer</a>&nbsp;shared with me a simplified version of the process he uses to help his clients find focus. Tad shows how a twist on dreaming big can be helpful in developing a valuable list of professional options. First, figure out what’s important to you, then collaborate with others to brainstorm options.</p>\r\n<h2><span>Dream Big!</span></h2>\r\n<p>Ask yourself, “If I could do anything, without any limitations, what would I do?” If this question is difficult to answer, context can be helpful; try something like, “Pretend you have an ATM that just keeps spitting out cash,” or “You can do anything. Don’t know how to play baseball? Who cares — you’re can now be a starter for the Boston Red Sox!”</p>\r\n<p>Let’s say that Mayer’s client Marissa comes up with the following:</p>\r\n<ul>\r\n<li>Fixing all the problems with the T (subway system) in Boston.</li>\r\n<li>Being an astronaut on a mission to Mars.</li>\r\n</ul>\r\n<p>Unlike the assumed point of this exercise – to find a path to one of the dreams – the purpose is to figure out&nbsp;<em>why</em>&nbsp;you want to do those things. You may not be able to accomplish your dreams right now, but you can find something that gives you what you find important about your dreams.</p>\r\n<h2><span>Ask Why?</span></h2>\r\n<p>Why do you have those dreams? What needs, motivations, and aspirations would be met by them? What’s important about them to you?</p>\r\n<p>The drivers behind Marissa’s dreams:</p>\r\n<ul>\r\n<li>Solve complex logistical problems</li>\r\n<li>Make people’s daily lives better</li>\r\n<li>Promote reliability</li>\r\n<li>Leave things better than when she started</li>\r\n<li>Be a link between the builders and the end-users</li>\r\n<li>Experience adventure</li>\r\n<li>Do something few have done before</li>\r\n<li>Challenge herself intellectually</li>\r\n<li>Surround herself with brilliant people</li>\r\n<li>Be known as someone who makes a difference</li>\r\n<li>Represent something bigger than herself</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h2><span>Prioritize</span></h2>\r\n<p>Which drivers are most important to you? If this seems daunting, use a grouping method. Sort your list into three buckets: Must Have, Should Have, and Nice to Have.</p>\r\n<p>Most important to Marissa are to:</p>\r\n<ul>\r\n<li>Surround herself with brilliant people</li>\r\n<li>Solve complex logistical problems</li>\r\n<li>Be a link between the builders and the end-users</li>\r\n<li>Leave things better than when she started</li>\r\n<li>Be known as someone who makes a difference</li>\r\n</ul>\r\n<p><span>&nbsp;</span></p>\r\n<h2><span>Collaborate</span></h2>\r\n<p>Now take your list on the road! Meet with worldly, broad-thinkers in your network whom you can ask, “When you hear my list of what’s important in a job and career, what professional options come to mind?” Then ask, “Who else should meet with to explore this?” After four or five meetings, you should have a solid list of possible paths to prioritize and pair down.</p>\r\n<p>Time to stop thinking of possible options for Marissa; time to go discover ideas for&nbsp;<em>you</em>&nbsp;based on your needs, motivations, and aspirations!</p>\r\n<blockquote>\r\n<p>Join Dana Manciagli’s <a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\"><span style=\"text-decoration: underline;\">Job Search Master Class</span></a> right now and immediately access the most comprehensive job search system currently available!</p>\r\n</blockquote>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 2c78dc74-d3a1-4869-84ad-7bac131e9e92
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.2c78dc74-d3a1-4869-84ad-7bac131e9e92
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

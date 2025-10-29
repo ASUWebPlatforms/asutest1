@@ -1,0 +1,26 @@
+uuid: b1c25ef3-206c-40c5-bbcb-3eb96ffee323
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_signpost_title
+    - paragraphs.paragraphs_type.signpost_w_o_image
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - plain_text
+id: paragraph.signpost_w_o_image.field_signpost_title
+field_name: field_signpost_title
+entity_type: paragraph
+bundle: signpost_w_o_image
+label: Title
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

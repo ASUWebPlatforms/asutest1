@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 1c6b50e3-8d92-4b7b-a08e-aeaab6047d2f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-05-08T21:58:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Thunderbird grads at ASU ''walk'' virtually using avatar robots'
+created:
+  -
+    value: '2020-05-08T07:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-08T21:58:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/thunderbird-grads-at-asu-walk-virtually
+body:
+  -
+    value: '<p><span>The coronavirus pandemic has thrown a wrench into graduation plans for thousands of students. But many are finding a way to celebrate virtually. For example, grads at the Thunderbird School of Global Management at ASU are preparing to “walk” at graduation, using avatar robots.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-05-07T13:45:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: 71a39c82-eefb-44cb-904c-7a03b5b5f26d
+field_news_link:
+  -
+    uri: 'https://www.azfamily.com/news/continuing_coverage/coronavirus_coverage/thunderbird-grads-at-asu-walk-virtually-using-avatar-robots/article_4773c762-9003-11ea-b432-73fcd29e3c7a.html'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: 'AZ Family'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.71a39c82-eefb-44cb-904c-7a03b5b5f26d

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 2ebf498e-e775-4997-a64d-dcca9bd671df
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 95fc6201-114c-48b4-80c4-220535d24f4e
+filename:
+  -
+    value: global_technology.jpg
+uri:
+  -
+    value: 'public://article/global_technology.jpg'
+    url: /sites/default/files/article/global_technology.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 35542
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-11-06T22:20:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-11-06T22:20:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.95fc6201-114c-48b4-80c4-220535d24f4e

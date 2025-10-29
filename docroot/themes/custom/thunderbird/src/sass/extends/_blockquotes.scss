@@ -1,0 +1,102 @@
+/*--------------------------------------------------------------
+# Blockquotes Alt
+
+1. Reset of various elements.
+2. Blockquote, mobile
+3. Blockquote, desktop
+--------------------------------------------------------------*/
+
+// Resets styles possibly applied by Bootstrap by default.
+blockquote {
+  border-left: none;
+  font-weight: inherit;
+  padding-left: 0;
+  max-width: none;
+}
+
+/*------------------------------------------------------------------
+2. Blockquote, mobile
+------------------------------------------------------------------- */
+.uds-blockquote {
+  font-weight: $font-weight-lighter;
+
+  &:before {
+    grid-column: 1;
+    width: 4.625rem;
+    height: auto;
+    color: $primary;
+    content: "“";
+    font-size: 12.5rem;
+    line-height: 0.8;
+  }
+
+  svg {
+    display: none;
+  }
+
+  blockquote {
+    color: $blue-dark;
+    font-weight: $font-weight-lighter;
+
+    p {
+      font-size: $font-size-xl;
+    }
+  }
+
+  .citation {
+    cite {
+      font-size: $font-size-md;
+
+      &.name {
+        font-weight: $font-weight-lighter;
+      }
+
+      &.name:before {
+        padding: 0;
+        content: '';
+      }
+
+      &.description {
+        font-weight: $font-weight-lighter;
+        padding-left: 0;
+        font-size: $font-size-sm;
+        text-transform: uppercase;
+      }
+    }
+  }
+
+}
+
+/*------------------------------------------------------------------
+3. Blockquote, mobile only
+------------------------------------------------------------------- */
+
+@include media-breakpoint-down(sm) {
+
+}
+
+/*------------------------------------------------------------------
+4. Blockquote, desktop
+------------------------------------------------------------------- */
+@include media-breakpoint-up(sm) {
+  .uds-blockquote {
+
+  }
+}
+
+/*------------------------------------------------------------------
+5. Alt Citation.
+-  Produces a gold bar above the cite elements.
+------------------------------------------------------------------- */
+.alt-citation,
+.uds-testimonial {
+
+}
+
+/*------------------------------------------------------------------
+5. Testimonial
+-  Vertically centered alignment of a standard blockquote.
+------------------------------------------------------------------- */
+.uds-blockquote.uds-testimonial {
+
+}

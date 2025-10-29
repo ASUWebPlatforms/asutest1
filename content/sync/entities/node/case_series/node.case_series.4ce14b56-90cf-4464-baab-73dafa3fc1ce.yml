@@ -1,0 +1,110 @@
+uuid:
+  -
+    value: 4ce14b56-90cf-4464-baab-73dafa3fc1ce
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-02-12T18:22:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Microsoft Participações '
+created:
+  -
+    value: '2019-02-12T18:22:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-12T18:22:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-18-0016-0
+body:
+  -
+    value: '<p>In an effort to help Microsoft Brazil achieve financial return and reap strategic benefits, and to help contribute to the Brazilian startup ecosystem, Franklin Luzes, the chief operating officer, founded Microsoft Participações. Through Microsoft Participações, Luzes established the first ever multicorporate seed capital fund in the world: BR Startup Fund. BR Startup was owned by multinational corporations including Microsoft, government agencies, and financial institutions. It was established to connect innovative startups, especially those in the information technology sector, to financial investors. It examines the benefits and risks of corporate ventures and compares them to those of independent venture capital funds.&nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-18-0016
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: f0f95285-4d36-4d35-93c2-40aa62d3f051
+  -
+    target_type: taxonomy_term
+    target_uuid: 95ca5101-0e03-41b8-b83c-faf4576d6cb3
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: be3de8d4-3227-4bf9-91b1-239608a0caeb
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: Brazil
+field_case_source:
+  -
+    value: 'Field Research'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: e77be6c9-431a-4d4c-b39b-4ead71395cb0
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4f47494d-2fbd-4183-89c1-85908f84981d
+field_teaching:
+  -
+    value: 'This case may be used in a private equity/venture capital course, or in courses such as entrepreneurship, regional business environment, or international business, in undergraduate, graduate, or executive programs, to familiarize students with the information technology and venture capital industries in Brazil, and the corporate venturing structure. Specifically: 1. The case explores Microsoft’s relationship with the Brazilian government and helps students understand the importance of establishing a good government relationship when doing business in a foreign country. 2. The case describes the competitive landscape in Brazil, allowing students to examine the risks and opportunities and develop strategies companies could employ to compete effectively. 3. The case also examines the risks and benefits of corporate venturing as compared to those of independent venture capital, and advances discussions on a new structure—multicorporate venture capital. Discussions could be from the corporate investor/venture capital’s perspective or from the entrepreneur’s perspective. Depending on the course, the emphasis could be on the venture capital, the startup ecosystem, how entrepreneurs compete for funding, or the regional business environment. The case could also be used to discuss the global information technology industry in general, and Brazil’s information technology industry in particular.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.f0f95285-4d36-4d35-93c2-40aa62d3f051
+      - taxonomy_term.case_series_authors.95ca5101-0e03-41b8-b83c-faf4576d6cb3
+      - taxonomy_term.case_series_industry.be3de8d4-3227-4bf9-91b1-239608a0caeb
+      - taxonomy_term.case_series_categories.e77be6c9-431a-4d4c-b39b-4ead71395cb0
+      - taxonomy_term.case_series_fields.4f47494d-2fbd-4183-89c1-85908f84981d

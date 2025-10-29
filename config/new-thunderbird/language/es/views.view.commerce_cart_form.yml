@@ -1,0 +1,16 @@
+display:
+  default:
+    display_title: Máster
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Aplicar
+          reset_button_label: Restablecer
+          exposed_sorts_label: 'Ordenar por'
+      fields:
+        remove_button:
+          label: Eliminar
+      arguments:
+        order_id:
+          exception:
+            title: Todo(s)

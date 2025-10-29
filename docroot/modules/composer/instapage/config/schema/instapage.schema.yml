@@ -1,0 +1,32 @@
+instapage.settings:
+  type: config_object
+  label: 'Instapage settings'
+  mapping:
+    instapage_user_id:
+      type: string
+      label: 'User id'
+    instapage_user_token:
+      type: string
+      label: 'User token'
+    instapage_plugin_hash:
+      type: string
+      label: 'Plugin hash'
+instapage.pages:
+  type: config_object
+  label: 'Instapage pages'
+  mapping:
+    page_labels:
+      type: 'sequence'
+      label: 'Page label'
+      sequence:
+        type: string
+    instapage_pages:
+      type: 'sequence'
+      label: 'Pages'
+      sequence:
+        type: string
+    instapage_subaccounts:
+      type: 'sequence'
+      label: 'Sub Accounts'
+      sequence:
+        type: string

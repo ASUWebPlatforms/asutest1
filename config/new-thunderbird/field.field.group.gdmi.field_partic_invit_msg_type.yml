@@ -1,0 +1,23 @@
+uuid: 8190777b-8fdc-4283-a057-9dce154b44a4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.group.field_partic_invit_msg_type
+    - group.type.gdmi
+  module:
+    - options
+id: group.gdmi.field_partic_invit_msg_type
+field_name: field_partic_invit_msg_type
+entity_type: group
+bundle: gdmi
+label: 'Participants Invitation Message Type'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: default
+default_value_callback: ''
+settings: {  }
+field_type: list_string

@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 28a3e870-e362-47c6-9642-ba7901c0d903
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-05-28T14:09:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'ASU Thunderbird Global Innovation Center launches in Dubai'
+created:
+  -
+    value: '2021-05-28T14:09:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-05-28T14:09:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/global-innovation-center-launches-in-dubai
+body:
+  -
+    value: '<p>ASU''s Thunderbird School of Global Management has opened a new satellite center of excellence in Dubai called the Thunderbird Global Innovation Center in partnership with Dubai International Financial Centre (DIFC), the global finance and leading fintech hub with over 300 fintech and innovation companies in the Middle East, Africa and South Asia region.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-05-28T07:00:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 400
+    height: 200
+    target_type: file
+    target_uuid: 0c30c644-47ca-479e-873c-2f7f5572b848
+field_news_link:
+  -
+    uri: 'https://news.asu.edu/20210526-global-engagement-asu-thunderbird-global-innovation-center-launches-dubai'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.0c30c644-47ca-479e-873c-2f7f5572b848

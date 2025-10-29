@@ -1,0 +1,29 @@
+
+{% set classes = [
+    'container',
+    'block-inline-blockimage-and-text-block'
+  ]
+%}
+
+{% extends '@thunderbird/block/block.html.twig' %}
+
+{% block content %}
+<h1 class="mt-0 mb-5">{{ page_title }}</h1>
+  <div class="uds-image-text-block-container row corners">
+    <div class="uds-image-text-block-image-container col-lg col-md-12 col-sm-12 ">
+    {% if image %}
+      {{ drupal_entity('media', image, 'signpost_full_width') }}
+    {% endif %}
+    </div>
+    <div class="uds-image-text-block-text-container col-lg col-md-12 col-sm-12 ">
+      {% if pre_title is not empty %}
+        <span class="subhead">{{ pre_title }}</span>
+      {% endif %}
+      <h3 class="article">{{ title }}</h3>
+      <div class="formatted-text">
+        <p>{{- description -}}</p>
+      </div>
+      <a href="{{ cta_url }}" aria-label="{{ cta_text }}" class="btn btn-default btn-blue btn" style="max-width: fit-content;" target="" role="link">{{ cta_text }} <i class="fas fa-arrow-right ml-2" aria-hidden="true"></i></a>
+    </div>
+  </div>
+{% endblock %}

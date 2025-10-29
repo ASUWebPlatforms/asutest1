@@ -1,0 +1,51 @@
+uuid: a21b7bf6-0114-4d38-9854-1313f13648c7
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.card
+    - field.field.node.portal_post.body
+    - field.field.node.portal_post.field_banner_cta
+    - field.field.node.portal_post.field_category
+    - field.field.node.portal_post.field_domain_access
+    - field.field.node.portal_post.field_domain_all_affiliates
+    - field.field.node.portal_post.field_image
+    - field.field.node.portal_post.field_resources
+    - field.field.node.portal_post.field_subtitle
+    - field.field.node.portal_post.layout_builder__layout
+    - field.field.node.portal_post.layout_builder__translation
+    - node.type.portal_post
+  module:
+    - layout_builder
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+id: node.portal_post.card
+targetEntityType: node
+bundle: portal_post
+mode: card
+content:
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  body: true
+  field_banner_cta: true
+  field_category: true
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  field_resources: true
+  field_subtitle: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true
+  links: true
+  search_api_excerpt: true

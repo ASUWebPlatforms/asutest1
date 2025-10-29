@@ -1,0 +1,18 @@
+uuid: 014cbcd6-515a-458b-9410-556fdff06b86
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.downloads
+id: block_content.downloads.info
+field_name: info
+entity_type: block_content
+bundle: downloads
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

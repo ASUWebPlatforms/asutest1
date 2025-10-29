@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 838614db-c652-456c-8c63-5e0fbce59f4b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'See what''s new from T-bird authors'
+created:
+  -
+    value: '2016-06-24T22:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/whats-new-thunderbird-authors
+body:
+  -
+    value: "<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/dp/1454905336/\" target=\"_blank\"><img src=\"http://magazine.thunderbird.edu/sites/default/files/images/book-rodewald.jpg\" alt=\" An Exploration of the Craft Distilling Revolution\" width=\"120\" height=\"185\"></a>\r\n<p><strong>American Spirit: An Exploration of the Craft Distilling Revolution</strong></p>\r\n<p>James Rodewald ‘84<br><span>(Sterling Epicure, Sept. 2, 2014)</span></p>\r\n</div>\r\n</td>\r\n<td>\r\n<div>&nbsp;</div>\r\n</td>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Everyones-Advice-Wrong-Including-Mine/dp/1497557925/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1409079204&amp;sr=1-1\" target=\"_blank\"><img src=\"http://magazine.thunderbird.edu/sites/default/files/images/book-bachuwa.jpg\" alt=\"Everyone’s Advice Is Wrong… Including Mine\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Everyone’s Advice Is Wrong… Including Mine</strong></p>\r\n<p>Alexander Bachuwa ‘10<br><span>(CreateSpace, July 26, 2014)</span></p>\r\n</div>\r\n</td>\r\n<td>\r\n<div>&nbsp;</div>\r\n</td>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Open-Doors-Women-Their-Stories/dp/0991355105/ref=la_B00N11WUPI_1_1?s=books&amp;ie=UTF8&amp;qid=1409079354&amp;sr=1-1\" target=\"_blank\"><img src=\"http://magazine.thunderbird.edu/sites/default/files/images/book-minor.jpg\" alt=\" Women of the Holy Land Tell Their Stories\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Open Doors:&nbsp;<br>Women of the Holy Land Tell Their Stories</strong></p>\r\n<p>Nicole Minor ‘99<br><span>(Self-published, May 16, 2014)</span></p>\r\n</div>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Morning-Mists-David-Youmans/dp/0741484714/ref=sr_1_1?ie=UTF8&amp;qid=1411509278&amp;sr=8-1&amp;keywords=david+youmans+morning+mists\" target=\"_blank\"><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2014/oct/images/book-morning-mist.jpg\" alt=\" An Exploration of the Craft Distilling Revolution\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Morning Mists</strong></p>\r\n<p>David Youmans ‘59<br><span>(Infinity Publishing, May 17, 2013)</span></p>\r\n</div>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Ace-Deuce-National-Security-Game/dp/1494929260/ref=sr_1_1?ie=UTF8&amp;qid=1411509442&amp;sr=8-1&amp;keywords=ace+deuce+national+security\" target=\"_blank\"><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2014/oct/images/book-ace.jpg\" alt=\"Everyone’s Advice Is Wrong… Including Mine\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Ace Deuce:&nbsp;<br>National Security&nbsp;<br>is not a Game</strong></p>\r\n<p>Freida Fail ‘92<br><span>(CreateSpace, June 11, 2014)</span></p>\r\n</div>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Blue-Speaks-Eternally-Victoria-Wagner/dp/1628574194/ref=sr_1_1?ie=UTF8&amp;qid=1411509541&amp;sr=8-1&amp;keywords=blue+speaks+eternally\" target=\"_blank\"><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2014/oct/images/book-bluespeaks.jpg\" alt=\" Women of the Holy Land Tell Their Stories\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Blue Speaks Eternally</strong></p>\r\n<p>Victoria Wagner ‘75<br><span>(Strategic Book Publishing, May 21, 2014)</span></p>\r\n</div>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<div><a href=\"https://finishinglinepress.com/product_info.php?products_id=2206&amp;osCsid=kmfij1apcuajht9q10dtci5eu5\" target=\"_blank\"><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2014/nov/images/book1.jpg\" alt=\" An Exploration of the Craft Distilling Revolution\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Kamikaze Dance</strong></p>\r\n<p>Amy Barone ‘90<br><span>(Finishing Line Press, Available January 2015)</span></p>\r\n</div>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Get-Certified-Before-Another-Diploma/dp/0976852209/ref=sr_1_1?ie=UTF8&amp;qid=1413553065&amp;sr=8-1&amp;keywords=get+certified+daniels\" target=\"_blank\"><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2014/nov/images/book2.jpg\" alt=\"Everyone’s Advice Is Wrong… Including Mine\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Get Certified: Before You Get Another Diploma</strong></p>\r\n<p>Vincent S. Daniels ‘74<br><span>(DISC, May 2, 2014)</span></p>\r\n</div>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Death-Distance-Erick-Anderssen-Novel-ebook/dp/B00MV13DTQ/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1414015455&amp;sr=1-1&amp;keywords=death+at+a+distance\" target=\"_blank\"><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2014/nov/images/book3.jpg\" alt=\" Women of the Holy Land Tell Their Stories\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Death at a Distance: An Erick Anderson Novel</strong></p>\r\n<p>Mark A. Nystuen ‘77<br><span>(River Grove Books, July 17, 2014)</span></p>\r\n</div>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Failure-Globally-Launch-Aspiring-Market/dp/0615941737/ref=sr_1_5/188-9796296-7007334?s=books&amp;ie=UTF8&amp;qid=1429545332&amp;sr=1-5\" target=\"_blank\"><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/may/images/book-failure-to-globally-launch.png\" alt=\" An Exploration of the Craft Distilling Revolution\" width=\"120\" height=\"185\"></a>\r\n<p><strong>Failure to Globally Launch:&nbsp;<br>The Case for Aspiring Market Giants</strong><br>Allen J. Morrison &amp; J. Stewart Black<br><span>Global Leadership Press (April 16, 2014)</span></p>\r\n</div>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td>\r\n<div><a href=\"http://www.amazon.com/Global-Leadership-Challenge-Stewart-Black/dp/0415703409/ref=sr_1_2/188-9796296-7007334?s=books&amp;ie=UTF8&amp;qid=1429545332&amp;sr=1-2\" target=\"_blank\"><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/may/images/book-global-challenge.png\" alt=\"Everyone’s Advice Is Wrong… Including Mine\" width=\"120\" height=\"185\"></a>\r\n<p><strong>The Global Leadership Challenge</strong><br>Allen J. Morrison &amp; J. Stewart Black<br><span>Routledge; 2 edition (May 9, 2014)</span></p>\r\n</div>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

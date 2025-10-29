@@ -1,0 +1,10 @@
+uuid: 35f192db-2aa3-4825-b8a0-55e40db1b06b
+langcode: en
+status: true
+dependencies: {  }
+id: teaching_semester
+label: 'Teaching Semester'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

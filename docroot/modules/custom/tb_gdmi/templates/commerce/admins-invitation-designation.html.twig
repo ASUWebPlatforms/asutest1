@@ -1,0 +1,63 @@
+ <div class="manage-groups-communications">
+
+    <h3>Designate Admin</h3>
+    <p>You can designate the Primary Admin below. The invitation will be sent to the individual you would like to launch and manage the group for this assessment.</p>
+    <h6 class="mt-0">Primary Admin</h6>
+    <p>The Primary Admin will receive system correspondence for this group. An example of system correspondence is an email notification of when the entire group has successfully finished taking the GDMI.</p>
+    
+    <div class="communications-container communications-container__admin-invitation">
+
+      <div class="subsection-title"> Admin(s): <span class="thin-text">(Add more Admins later as needed)</span></div>
+
+      <div class="admin-items-container">
+      
+        <div>
+          <div class="new-admins">
+            <div data-index="1" class="admin-item admin-item-1 edit">
+              <div>
+                <div class="d-flex">
+                  <div class="admin-email"><label>1.</label><input type="email" name="email" value="{{ email }}" placeholder="Email address"><div class="text-danger error small"></div></div>
+                  <div class="admin-primary"><label>Primary Admin</label><input checked class="form-control gdmi-check" name="primary_admin" style="padding-left: 0 !important;" type="radio" disabled></div>
+                  <div class="admin-invite-action action-edit" data-index="1"><span>CLOSE</span><i class="fas fa-sort-up ml-2"></i></div>
+                  <div class="admin-invite-action action-remove" data-index="1"><span>Remove</span><i class="fas fa-times ml-2"></i></div>
+                </div>
+                <div class="admin-item-settings">
+                  <div class="message-container">
+                    <div class="message-container__content">
+                      <div class="message-heading"><span>Schedule:</span> {{ message.schedule }}</div>
+                      <div class="message-heading"><span>Message:</span> {{ message.message }}</div>
+                      <div class="message-heading">
+                        <span class="d-block">Title:</span>
+                        <span class="message-title">{{ message.title }}</span>
+                      </div>
+                      <div>
+                        <div class="message-heading">
+                          <span>Body:</span>
+                        </div>
+                        <div class="message-body">
+                          {{ message.body.value|raw }}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      
+    </div>
+     <div class="form-radios admin-participation">
+        <div class="js-form-item form-item js-form-type-radio">
+          <input type="radio" id="admin_participation_true" name="admin_participation" value="1" {% if admin_designation_participation == 1 %} checked {% endif %} class="form-radio form-check-input">
+          <label class="form-check-label option" for="admin_participation_true">The Admin WILL be a participant  in the assessment</label>
+        </div>
+        <div class="js-form-item form-item js-form-type-radio">
+          <input type="radio" id="admin_participation_false" name="admin_participation" value="0" {% if admin_designation_participation == 0 %} checked {% endif %} class="form-radio form-check-input">
+          <label class="form-check-label option" for="admin_participation_false">The Admin <span class="text-danger">WILL NOT</span> be a participant in the assessment</label>
+        </div>
+      </div>
+      <button data-index="1" class="btn btn-primary text-white d-block m-auto save-admin-btn" type="button">SAVE ADMIN</button>
+  </div>

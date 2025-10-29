@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: c05fddca-dfd0-499b-bbf9-b12154bfdece
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: db7594f3-f1f7-44e0-b623-8f8d4234bb35
+filename:
+  -
+    value: artemis_thunderbird_networking_mumbai_092018.jpeg
+uri:
+  -
+    value: 'public://article/artemis_thunderbird_networking_mumbai_092018.jpeg'
+    url: /sites/default/files/article/artemis_thunderbird_networking_mumbai_092018.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 578392
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-10-04T21:19:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-10-04T21:19:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.db7594f3-f1f7-44e0-b623-8f8d4234bb35

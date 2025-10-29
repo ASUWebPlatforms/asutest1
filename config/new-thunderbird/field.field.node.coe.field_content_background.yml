@@ -1,0 +1,23 @@
+uuid: 0643f93a-95d0-41a3-97fd-48e4b437e9de
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_content_background
+    - node.type.coe
+id: node.coe.field_content_background
+field_name: field_content_background
+entity_type: node
+bundle: coe
+label: 'Remove Content Background'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

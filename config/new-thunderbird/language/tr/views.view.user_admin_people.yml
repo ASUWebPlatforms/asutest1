@@ -1,0 +1,50 @@
+display:
+  default:
+    display_title: Varsayılan
+    display_options:
+      fields:
+        user_bulk_form:
+          label: 'Toplu güncelleme'
+        name:
+          label: 'Kullanıcı adı'
+        status:
+          label: Durum
+          settings:
+            format_custom_true: Etkin
+        roles_target_id:
+          label: Roller
+        operations:
+          label: İşlemler
+      pager:
+        options:
+          tags:
+            first: '« İlk'
+            last: 'Son »'
+          expose:
+            items_per_page_label: 'Sayfa başına öğe sayısı'
+            items_per_page_options_all_label: '- Tümü -'
+            offset_label: 'Başlangıç değeri'
+      exposed_form:
+        options:
+          reset_button_label: Sıfırla
+          exposed_sorts_label: 'Sıralama anahtarı'
+          sort_asc_label: Artan
+          sort_desc_label: Azalan
+      filters:
+        status:
+          group_info:
+            label: Durum
+            group_items:
+              1:
+                title: Etkin
+        roles_target_id:
+          expose:
+            label: Rol
+        permission:
+          expose:
+            label: İzinler
+  page_1:
+    display_title: Sayfa
+    display_options:
+      menu:
+        title: Liste

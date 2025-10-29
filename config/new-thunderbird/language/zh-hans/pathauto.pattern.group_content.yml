@@ -1,0 +1,4 @@
+label: 群组内容
+relationships:
+  'group_content:langcode:language':
+    label: 语言

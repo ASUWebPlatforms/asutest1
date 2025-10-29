@@ -1,0 +1,20 @@
+display:
+  default:
+    display_title: Default
+    display_options:
+      fields:
+        title:
+          label: ခေါင်းစဉ်
+        name:
+          label: စာရေးသူ
+        changed:
+          label: နောက်ဆုံးပြုပြင်မွန်းမံချိန်
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- အားလုံး -'
+      exposed_form:
+        options:
+          reset_button_label: မူလပုံစံအတိုင်းပြန်ထားရန်
+  page_1:
+    display_title: စာမျက်နှာ

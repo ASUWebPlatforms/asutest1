@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: e4553c19-8283-4c3d-bbcf-991cda05b655
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'How to Create a Culture of Continuous Feedback'
+created:
+  -
+    value: '2017-06-27T19:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /how-to-create-a-culture-of-continuous-feedback
+body:
+  -
+    value: "<p style=\"text-align: center;\">Today’s focus on feedback within organizations is as trendy as 2013’s obsession with our beloved&nbsp;<a href=\"http://blog.marketo.com/2013/07/kittens-bacon-why-they-continue-to-go-vira.html\">bacon and kittens</a>.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"5753\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>While it might not be as entertaining, there’s an undeniable need for organizations to implement some type of continuous feedback process within their companies.</p>\r\n<p>Why is this such a big deal now? While all generations crave feedback, Millennials want feedback 50% more than other employees. With&nbsp;<a href=\"http://www.pewresearch.org/fact-tank/2015/05/11/millennials-surpass-gen-xers-as-the-largest-generation-in-\">millennials surpassing Gen Xers in 2016</a>&nbsp;as the largest generation in the American workforce, it’s time every organization takes their feedback culture seriously.</p>\r\n<p>But, where to start? I spoke to some of today’s leading human resources minds to see how they are creating a culture of continuous feedback.</p>\r\n<p><strong>Mutual respect must come first</strong></p>\r\n<p>Nicholas Larche is the human resources manager at&nbsp;<a href=\"http://shopathome.com/\">ShopAtHome.com</a>, as well as the founder and head of community at HR UndergroundX. He spoke about his love for Kim Scott’s radical candor :</p>\r\n<p>“Her philosophy is that you have to care enough about the people you work with to take the risk that you just might piss them off by providing them the feedback they need to learn and grow. In that way, it’s not just building a culture based on continuous feedback, but one built on mutual respect,” he said. “I leveraged her philosophy this year during our annual performance development training, and our team members really related to it,”</p>\r\n<p><strong>Make feedback the norm</strong></p>\r\n<p><a href=\"http://www.bizjournals.com/bizjournals/search/results?q=Katelin%20Holloway\">Katelin Holloway</a>, vice president of people and culture at&nbsp;<a href=\"https://www.reddit.com/\">Reddit</a>, sets the standard for feedback within her organization:</p>\r\n<p>“HR does monthly one-on-ones with all of our managers. With those who have larger teams, we do them every two weeks. In that session, we cover things that we want to know about,” she said.</p>\r\n<p>“We ask them about their employees and we partner with them to fill competency gaps. If somebody is struggling, we ask what the manager is doing to help them out of that struggle. If there is a skill lacking, we find mentorship or coaching opportunities to help fill that void. For those that are performing well, we ask how they’re recognizing that individual. You need to reinforce the message of continuous feedback by having regular meetings. The conversations become healthier and much more natural when you’re doing them frequently.”</p>\r\n<p><strong>Make feedback a value within your organization</strong></p>\r\n<p>In,&nbsp;<a href=\"https://www.amazon.com/Feedback-Imperative-Everyday-Speed-Success/dp/1938416651\">“The Feedback Imperative: How to Give Everyday Feedback to Speed Up Your Team’s Success</a>&nbsp;,” author Anna Carroll explains how the top leaders must do two things every day to make feedback happen:</p>\r\n<ol>\r\n<li>Give everyday feedback yourself</li>\r\n<li>Make it a company value</li>\r\n</ol>\r\n<p>“If you don’t think of everyday feedback as a giant innovation, then it’s not worth your effort to implement it,” she said. “Without a passionate commitment to faster feedback, you will experience uneasiness with the new level of of honesty, and team members will roll their eyes as they see feedback abandoned in a few weeks, just as they predicted.”</p>\r\n<p>Make it stick by living by it, breathing by it, and instilling it within your organization’s values.</p>\r\n<p>What are you doing in your organization to promote continuous feedback?&nbsp;</p>\r\n<div class=\"blue-header-block-wrapper\">\r\n<div class=\"blue-header-block-inner-wrapper\">\r\n<p style=\"text-align: center;\"><strong>Join Dana Manciagli’s Job Search Master Class right now and immediately access the most comprehensive job search system currently available!</strong></p>\r\n<p style=\"text-align: center;\"><a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\" class=\"btn btn-primary\">Learn More</a></p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;<a href=\"http://danamanciagli.com\">her website.</a></em></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More from Dana:</strong><br> <a href=\"https://thunderbird.asu.edu/knowledge-network/how-get-over-being-stressed-out-your-job-so-you-can-actually-do-it\">How to Get Over Being Stressed Out by Your Job So You Can Actually Do It</a><br> <a href=\"https://thunderbird.asu.edu/knowledge-network/benefits-meditation-workplace\">Benefits of Meditation in the Workplace<br> </a><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility</a></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 400
+    height: 250
+    target_type: file
+    target_uuid: 8ffb5cd1-5ade-4572-bb9f-d42fcb3f0edb
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.8ffb5cd1-5ade-4572-bb9f-d42fcb3f0edb
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

@@ -1,0 +1,13 @@
+uuid: a8bb8251-cefd-42ae-b77b-98bf473efa3e
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - webspark_blocks
+_core:
+  default_config_hash: z5yjVKBO0t1Qg0G3qpPF_23yBZYtmDRUxw5G1GH6kwA
+id: banner
+label: 'Notification Banner'
+revision: 0
+description: ''

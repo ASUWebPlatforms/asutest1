@@ -1,0 +1,29 @@
+uuid: b83991f5-33ae-41c4-aaca-ad441a4b9d7e
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.insights_grid
+    - field.storage.block_content.field_items
+    - node.type.insight
+id: block_content.insights_grid.field_items
+field_name: field_items
+entity_type: block_content
+bundle: insights_grid
+label: Items
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      insight: insight
+    sort:
+      field: _none
+      direction: DESC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

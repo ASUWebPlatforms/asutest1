@@ -1,0 +1,31 @@
+.purchasing-page {
+    padding-top: 4.375rem;
+
+  &__title {
+    margin-bottom: 3.125rem;
+    margin-top: 0;
+  }
+
+  .past-purchases {
+    background-color: $gray-1;
+    padding: 75px;
+
+    @include media-breakpoint-up(lg) {
+      min-height: 498px;
+    }
+
+    .table-container {
+      max-height: 338px;
+      overflow-y: scroll;
+    }
+
+    h3 {
+      margin-top: 0;
+    }
+
+    p {
+      font-size: 14px;
+      line-height: 1.5;
+    }
+  }
+}

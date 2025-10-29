@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 645dbd6a-8019-40b5-bdf0-5ac3a9ef217e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:47:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Reliance Industries: An Emerging Player in Global Petrochemicals and Energy'
+created:
+  -
+    value: '2016-07-16T00:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:47:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-11-0004
+body:
+  -
+    value: '<p><span>Reliance Industries had evolved into a major player in the Asia Pacific region and had begun to make its presence felt in the global petrochemicals and refining business segments. It had also made forays into exploration and production for oil and gas in multiple regions worldwide. This case study addresses the evolution of the company from a fairly small-scale textile manufacturer to a global powerhouse. It provides insights into how the company was able to trade on its competitive advantages at home in building a global strategy. The case allows for a rich thematic discussion around understanding the modes of competition adopted by companies from newly industrializing contexts.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-11-0004
+field_case_page_length:
+  -
+    value: '15 Pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9313f4c5-a9c9-434c-b170-f45fec9b8d04
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: 'Indiia, Global'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+field_teaching:
+  -
+    value: "1. To illustrate the unique bases of competitive advantage in economic contexts described as marginal or in transition, \r\n2. To provide insights into the evolution of emerging market multinationals, \r\n3. To impart an understanding about the context specific challenges that these firms have to address in order to secure sustainable performance; i.e., issues such as capital market failure, labor market failure, and product market failure."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_industry.9313f4c5-a9c9-434c-b170-f45fec9b8d04
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b

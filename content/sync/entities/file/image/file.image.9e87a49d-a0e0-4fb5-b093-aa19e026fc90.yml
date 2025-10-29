@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 9e87a49d-a0e0-4fb5-b093-aa19e026fc90
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: how_to_succeed_in_the_fourth_industrial_revolution_.jpg
+uri:
+  -
+    value: 'public://article/how_to_succeed_in_the_fourth_industrial_revolution_.jpg'
+    url: /sites/default/files/article/how_to_succeed_in_the_fourth_industrial_revolution_.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 4077901
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-12-05T16:16:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-12-05T16:16:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

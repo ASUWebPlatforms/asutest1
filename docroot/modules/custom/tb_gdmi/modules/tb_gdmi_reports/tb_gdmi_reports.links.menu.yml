@@ -1,0 +1,10 @@
+entity.gdmi_report.settings:
+  title: 'GDMI reports'
+  description: 'Configure a GDMI report entity type.'
+  route_name:  entity.gdmi_report.settings
+  parent: system.admin_structure
+entity.gdmi_report.collection:
+  title: 'GDMI reports'
+  description: 'List of tb GDMI reports.'
+  route_name: entity.gdmi_report.collection
+  parent: system.admin_content

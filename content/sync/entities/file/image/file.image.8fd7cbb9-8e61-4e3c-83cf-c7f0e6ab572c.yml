@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 8fd7cbb9-8e61-4e3c-83cf-c7f0e6ab572c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+filename:
+  -
+    value: amazon.jpeg
+uri:
+  -
+    value: 'public://article/amazon.jpeg'
+    url: /sites/default/files/article/amazon.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 173991
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-08T17:29:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-08T17:29:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8

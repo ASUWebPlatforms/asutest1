@@ -1,0 +1,17 @@
+uuid: 49235f54-ea1d-4f2c-80b9-338c66b6b8b6
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: hero_big
+label: 'Hero big xl (1400x800)'
+effects:
+  72f2977c-1252-495a-9410-76f359010321:
+    uuid: 72f2977c-1252-495a-9410-76f359010321
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 1400
+      height: 800
+      crop_type: focal_point

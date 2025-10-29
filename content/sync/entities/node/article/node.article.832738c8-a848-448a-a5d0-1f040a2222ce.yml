@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 832738c8-a848-448a-a5d0-1f040a2222ce
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Build a Global Sales Team for Local Success'
+created:
+  -
+    value: '2012-12-19T13:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/global-sales-local-success
+body:
+  -
+    value: "<p>Companies entering developing markets need salespeople with technical skills and business savvy. But they also need adventure seekers willing to embrace local customs, withhold judgment about customer behavior, and celebrate failure. Regardless of their education or experience, salespeople without these cultural skills will stumble when they hit the ground in rugged markets such as Brazil, Russia, India or China. So here is a quick guide for assembling your next global sales team and laying the groundwork for long-term success in any unfamiliar market.</p>\r\n<p><strong>Go local</strong></p>\r\n<p>Some high-potential managers endure overseas assignments merely as a way to pad their resumes and boost their careers. They bide their time abroad at Western brand hotels, eating familiar food and venturing out as little as possible. Keep these people off your team.</p>\r\n<p>What you need instead are open-minded cultural explorers with passion for diversity. Whether these people are expatriates or locals, the important thing is their flexibility and willingness to “go local.”</p>\r\n<p>Sales teams earn credibility when they stay in local hotels, eat local food, celebrate local customs and learn the local language. This sends a message to customers that you care about their needs and plan to stay long term.</p>\r\n<p>I learned this lesson early in my career as a salesman in India. Although from Chennai, the gateway to South India, I had to step out of my comfort zone and learn a new culture when I moved north. Many of my prospective clients did not speak English, and my native Tamil created barriers. So I had to learn Hindi. I also learned to sit with distributors for hours and drink tea before talking business.</p>\r\n<p>Some mistakenly view India as a single market. But concepts of time, trust and etiquette vary from places to place. The same is true within Brazil, Russia, China and most other markets.</p>\r\n<p>One size does not fit all. Successful sales teams embed themselves in each community where they operate and learn the local values.</p>\r\n<p>At the most local level, they cater to individuals. They understand that one-on-one relationships drive business, especially in emerging markets. They know if they focus on people, results will follow.</p>\r\n<p><strong>Withhold judgment</strong></p>\r\n<p>Another key is to withhold judgment. Strategies that work in one part of the world do not always translate to other markets. Before your sales team rushes in, take time to listen and observe.</p>\r\n<p>Walk with local guides to the places where people shop. Talk to dealers, ask questions, take notes and — perhaps most importantly — keep an open mind. What you learn might surprise you.</p>\r\n<p>Gillette observed special infrastructure challenges when the company introduced its personal care products to India in the 1980s. Instead of big-box retailers, Gillette found small stores looking for razors they could sell one-by-one in pedestrian malls unreachable by delivery trucks. To penetrate the market, Gillette had to adjust its packaging methods and then figure out new distribution systems to overcome the infrastructure challenges.</p>\r\n<p>Sales teams must go where their customers operate, observe local conditions, and then respond to their needs. This is your real on-the-job training.</p>\r\n<p><strong>Celebrate failure</strong></p>\r\n<p>Your team will make mistakes as you go through this market immersion process. Instead of downplaying these blunders, a better approach is to celebrate failure.</p>\r\n<p>This does not mean making excuses or repeating the same errors. The proper way to celebrate failure is to analyze what went wrong, look for explanations and make corrections.</p>\r\n<p>To do this, sales teams need freedom to experiment and support at the highest levels of management. Leaders must understand that many investments take longer to develop in emerging markets, where conditions are harder to control and less stable.</p>\r\n<p>Companies that empower their sales teams to fail in these environments come out ahead in the long run. Learning becomes an investment that pays off.</p>\r\n<p><em><strong><!--<a href=\"/node/173\">-->Sundaresan Ram<!--</a>--></strong>, Ph.D., is a professor at Thunderbird School of Global Management and world-renowned international marketing strategist. A native of Chennai, India, who speaks English, Tamil and Hindi, Dr. Ram is recognized for his expertise in services marketing, innovation management, global branding and telecommunications marketing strategy.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 66581819-156f-4d37-a97e-e764b7ba1f69
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.66581819-156f-4d37-a97e-e764b7ba1f69

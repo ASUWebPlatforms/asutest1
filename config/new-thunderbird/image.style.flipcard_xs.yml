@@ -1,0 +1,17 @@
+uuid: a186ade4-fb6c-42d8-8f04-6d8003f4500f
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: flipcard_xs
+label: 'Flipcard xs (575x500)'
+effects:
+  f0a10811-2592-49ab-8105-180d82e2a636:
+    uuid: f0a10811-2592-49ab-8105-180d82e2a636
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 575
+      height: 500
+      crop_type: focal_point

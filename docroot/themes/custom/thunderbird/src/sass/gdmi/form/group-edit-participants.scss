@@ -1,0 +1,30 @@
+.group-edit-participants-form {
+  h1 {
+    margin: 50px 0 !important;
+  }
+
+  .form-wrapper.gray-section {
+    background-color: $gray-1;
+    padding-top: 63px;
+    padding-bottom: 59px;
+  }
+
+  .form-label.js-form-required {
+    svg {
+      display: none;
+    }
+    &::before {
+      content: '*';
+      color: #FE003D;
+    }
+  }
+  .person-details-wrapper {
+    .person-item:last-of-type {
+      margin-bottom: 36px;
+    }
+
+    .form-submit {
+      margin-bottom: 71px;
+    }
+  }
+}

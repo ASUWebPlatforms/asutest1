@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 520da1c6-3908-40d7-aa80-f525272401c0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+filename:
+  -
+    value: chile_mohamed_and_ted.jpg
+uri:
+  -
+    value: 'public://chile_mohamed_and_ted.jpg'
+    url: /sites/default/files/chile_mohamed_and_ted.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 216120
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-09-10T16:31:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-10T16:31:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234

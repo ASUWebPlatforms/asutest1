@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: fad23a81-c3df-40ed-90a5-1b175385b408
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-08-22T18:17:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'What Can Take You Farther than an MBA? The MGM.'
+created:
+  -
+    value: '2017-08-30T18:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-08-22T18:17:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/whats-difference-between-mba-and-mgm-degree
+body:
+  -
+    value: "<h4>Looking for a career that will change the world?&nbsp;The Thunderbird Master of Global Management opens a world of opportunities in any industry and in any corner of the globe.</h4>\r\n<p>Along with accounting, marketing, finance and core business competencies taught in a traditional MBA program, Thunderbird's specialized MGM offers training in cross-cultural communication and negotiation, global management strategies, corporate social responsibility, and includes a Thunderbird Applied Learning Practicum delivered outside the student’s country of origin. The MGM mixes traditional business learning with a truly global cultural and geo-political educational experience.</p>\r\n<p>[[{\"fid\":\"6834\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"link_text\":null,\"attributes\":{\"alt\":\"MBA vs MGM\",\"height\":\"390\",\"width\":\"640\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"btn btn-gold btn-block\"><strong><a href=\"https://thunderbird.asu.edu/mba-vs-mgm?sv=website&amp;sd=KNmbamgmvideo%20\">Click here to check out more details!</a></strong></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/global-mindset-what-international-business-leaders-need-succeed\">A Global Mindset in Business Is the Difference Between Success &amp; Failure</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/global-mindset-essential\">Why Global Mindset® is Essential</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/pop-quiz-how-global-savvy-are-you\">Pop Quiz! How Global Savvy Are You?</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1156
+    height: 592
+    target_type: file
+    target_uuid: 1c29df81-4f01-407e-9708-927b27c44b3e
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c98a978-a0e5-4ad3-ae54-71103288ecdd
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.1c29df81-4f01-407e-9708-927b27c44b3e
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.2c98a978-a0e5-4ad3-ae54-71103288ecdd

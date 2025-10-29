@@ -1,0 +1,39 @@
+uuid: de0b6e7d-5a13-47d1-b609-b616829db51f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.anchor_menu_settings.field_icon
+    - field.field.paragraph.anchor_menu_settings.field_title
+    - paragraphs.paragraphs_type.anchor_menu_settings
+  module:
+    - fontawesome_iconpicker_widget
+_core:
+  default_config_hash: NCvF_uxZ5OaFGF9Ym8TkcQrkNCsEI8CzsDpowir93eQ
+id: paragraph.anchor_menu_settings.default
+targetEntityType: paragraph
+bundle: anchor_menu_settings
+mode: default
+content:
+  field_icon:
+    type: fontawesome_iconpicker_widget
+    weight: 1
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_title:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  translation:
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

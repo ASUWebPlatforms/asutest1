@@ -1,0 +1,19 @@
+uuid: debd977c-3c7f-4ede-9f79-437a653e38c8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_asu_rite_id
+    - node.type.person_bio
+id: node.person_bio.field_asu_rite_id
+field_name: field_asu_rite_id
+entity_type: node
+bundle: person_bio
+label: 'ASU Rite ID'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

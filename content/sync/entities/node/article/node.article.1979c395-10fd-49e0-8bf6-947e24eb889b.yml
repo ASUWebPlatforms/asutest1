@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 1979c395-10fd-49e0-8bf6-947e24eb889b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-01-26T16:24:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'From Farming to Factory: Godsway Drives a Way Towards Education and Entrepreneurship'
+created:
+  -
+    value: '2021-01-26T16:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-01-26T16:24:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/farming-factory-godsway-drives-way-towards-education-and-entrepreneurship
+body:
+  -
+    value: '<p><span>This article was originally published by ASU&nbsp;<a href="https://mcfscholars.asu.edu/" id="blog-name-site-title">Mastercard Foundation Scholars Program</a>. &nbsp;The original article can be found <a href="https://mcfscholars.asu.edu/featured-article-godsway-dorlah/">here</a>.</span></p><p><span>Godsway is a Mastercard Foundation Scholar from Ghana who is currently pursuing an MBA in Global Digital Transformation from Thunderbird School of Global Business management. During his time at ASU as an undergraduate student, two-time masters candidate, and as a Mastercard Foundation Scholar, Godsway has not only excelled academically, but has followed his entrepreneurship instincts as well. Godsway is making a difference by giving back to his community by utilizing technology, coupled with his supply chain and financial background, to solve relevant issues in Ghana.<!--break--></span></p><p><span><span>By:</span>&nbsp;<a href="https://education.asu.edu/about/people/yasmeen-chanes-augusto">Yasmeen Chanes&nbsp;</a></span></p><p class="has-small-font-size">Godsway Dorlah grew up in a small farming community in Ghana where he worked to put himself through high school. As he excelled in his studies, he was able to earn a scholarship to support his secondary education through his church. With a passion to pursue higher education, Godsway knew that he wanted to continue his academic endeavors beyond high school. However, he was not familiar with the process of achieving this desire since none of his family members had attended college. While at a church event, he fortunately heard about the Mastercard Foundation Scholarship and applied as an undergraduate student that year. He was selected as a Mastercard Foundation Scholar (MCF) at Arizona State University (ASU) due to his commitment to use entrepreneurship as a catalyst for creating positive change in his community, Ghana and the continent of Africa.</p><p class="has-text-align-left">As an accounting major in his undergraduate education at ASU, Godsway became interested in how he could practically apply his coursework and knowledge to the Ghanaian context. He accelerated his studies in order to complete his undergraduate degree in three years, and use the final year of his scholarship to complete a graduate degree. As a result, he completed a B.S. in Accountancy, and then a Masters in Global Logistics in a total of four years while maintaining high grades. Currently, Godsway is pursuing an MBA in Global Digital Transformation from Thunderbird School of Global Business management, where he is learning how to merge his financial acumen and business strategy to learn how to use 4IR technologies to solve complex supply chain issues in Ghana. During his time at ASU as an undergraduate student, two-time masters candidate, and as a Mastercard Foundation Scholar, Godsway has not only excelled academically, but has followed his entrepreneurship instincts as well.</p><p class="has-text-align-left">Noting that “the world is experiencing the fourth industrial revolution (4IR) as it begins to use technology on a wider scale,” Godsway decided that he needed to utilize technology, coupled with his supply chain and financial background, to solve relevant issues in Ghana. Drawing from his roots growing up the small farming town of Aboabo in the Volta Region, Godsway has focused on the post-harvest loss in Africa and how 4IR technologies, such as block chain technology, can be utilized to help reduce waste, market small farmers, and improve food conditions across the continent.</p><p>According to his research, Godsway found that “for food categories like fruits and vegetables, 50 percent goes to waste and for roots and tubers, around 40 percent goes to waste… all while an estimated 20 percent of Africans suffer from hunger.” This sparked Godsway to analyze the food production and consumption disparity and he found that because “there is no value added to products and there is no infrastructure to transport products…there is no way to connect consumers to farmers to get products and reduce waste.” This idea spurred him to focus on a simple question: “How can you process [something like] cassava, so that it can last longer and be transported,” in order to reach more people thus, reducing waste, aiding hunger relief, and helping cassava farmers?</p><div class="wp-block-media-text alignwide is-stacked-on-mobile"><div class="wp-block-media-text__content"><p>This idea is what has catapulted Godsway’s first entrepreneurial venture: Godsway’s Gari Factory; where farmers are able to send their excess cassava harvest to be processed, finely milled into Gari (cassava flour), and used for up to 5 years as opposed to the 2 weeks it typically lasts. In addition to solving the post-harvest restrictions that cause waste by producing a longer lasting product, Godsway’s Gari Factory also supports farmers by offering them seasonal loans, expert advice on how to increase their production yield, and transportation connections in order to push the products out to wider markets. This venture has started working with 51 local cassava farmers and is selling their Gari product to 125 women in the wholesale market and to 64 restaurants in Ghana. Godsway’s Gari Factory is on its way to growing even more by adding more farmers and employees, as well as processing more cassava each month thus, yielding greater profit. The next phase for this venture is to begin widening their supply chains to sell in Nigeria and Togo as well. The success of this venture has earned the&nbsp;1st place prize of $3,000 in the Thunderbird Pitch Competition, the 1st place prize of $5,000 for the Venture Devils eSeed Social Impact Challenge, and most recently another $1,200 prize from the Changemakers Challenge at ASU.</p><p>To see&nbsp;<span><a href="https://mcfscholars.asu.edu/featured-article-godsway-dorlah/">Godsway’s Gari Factory | ASU Venture Devils Demo Day Fall 2020 winner video click here</a>.</span></p></div></div>'
+    format: basic_html
+    processed: ''
+    summary: 'Godsway is a Mastercard Foundation Scholar from Ghana who is currently pursuing an MBA in Global Digital Transformation from Thunderbird School of Global Business management. During his time at ASU as an undergraduate student, two-time masters candidate, and as a Mastercard Foundation Scholar, Godsway has not only excelled academically, but has followed his entrepreneurship instincts as well. Godsway is making a difference by giving back to his community by utilizing technology, coupled with his supply chain and financial background, to solve relevant issues in Ghana.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 724
+    height: 690
+    target_type: file
+    target_uuid: d2bfb030-2189-42a5-bca8-3c593f972bab
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f958611c-a8ea-4ee0-9285-4095ff22667a
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: cade62ce-46ae-484b-8274-a6a2b2f22907
+  -
+    target_type: taxonomy_term
+    target_uuid: 224695c4-4c68-4e66-9f48-34cab39fd0ca
+  -
+    target_type: taxonomy_term
+    target_uuid: 29291689-295b-4100-8975-b46ce0819caa
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.d2bfb030-2189-42a5-bca8-3c593f972bab
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f958611c-a8ea-4ee0-9285-4095ff22667a
+      - taxonomy_term.knowledge_network_tags.cade62ce-46ae-484b-8274-a6a2b2f22907
+      - taxonomy_term.knowledge_network_tags.224695c4-4c68-4e66-9f48-34cab39fd0ca
+      - taxonomy_term.knowledge_network_tags.29291689-295b-4100-8975-b46ce0819caa
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda

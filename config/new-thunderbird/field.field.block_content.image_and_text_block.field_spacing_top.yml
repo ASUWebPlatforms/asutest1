@@ -1,0 +1,23 @@
+uuid: 53d6afab-c331-4e1d-9ade-bb2862a87988
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image_and_text_block
+    - field.storage.block_content.field_spacing_top
+  module:
+    - options
+_core:
+  default_config_hash: cQCASDDf0j3lWKNPxTXAu_q1x3KL_7_YEel5TlP9HPY
+id: block_content.image_and_text_block.field_spacing_top
+field_name: field_spacing_top
+entity_type: block_content
+bundle: image_and_text_block
+label: 'Spacing top'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

@@ -1,0 +1,21 @@
+uuid: 2ba21361-d749-4f16-ba9c-4af4b709b29e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_event_source
+    - node.type.event
+  module:
+    - options
+id: node.event.field_event_source
+field_name: field_event_source
+entity_type: node
+bundle: event
+label: 'Event source'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

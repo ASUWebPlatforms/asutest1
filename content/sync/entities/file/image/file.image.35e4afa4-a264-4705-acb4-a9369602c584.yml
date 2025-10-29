@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 35e4afa4-a264-4705-acb4-a9369602c584
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: peers_professors_preparation_for_global_business_success.jpg
+uri:
+  -
+    value: 'public://article/peers_professors_preparation_for_global_business_success.jpg'
+    url: /sites/default/files/article/peers_professors_preparation_for_global_business_success.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 579858
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-04-04T21:56:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-04T21:56:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

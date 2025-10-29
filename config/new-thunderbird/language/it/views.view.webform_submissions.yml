@@ -1,0 +1,87 @@
+display:
+  default:
+    display_title: Principale
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Applica
+          reset_button_label: Ripristina
+          exposed_sorts_label: 'Ordina per'
+          sort_desc_label: Disc
+      pager:
+        options:
+          tags:
+            first: '« Prima'
+            last: 'Ultima »'
+          expose:
+            items_per_page_label: 'Voci per pagina'
+            items_per_page_options_all_label: '- Tutto -'
+            offset_label: Scostamento
+      fields:
+        created:
+          label: Creato
+        remote_addr:
+          label: 'Indirizzo IP'
+        view_webform_submission:
+          label: Operazioni
+      arguments:
+        in_draft:
+          exception:
+            title: Tutti
+  embed_administer:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: Azione
+        locked:
+          label: Bloccato
+        created:
+          label: Creato
+        completed:
+          label: Completato
+        remote_addr:
+          label: 'Indirizzo IP'
+        operations:
+          label: Operazioni
+      filters:
+        locked:
+          expose:
+            label: Bloccato
+  embed_manage:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: Azione
+        locked:
+          label: Bloccato
+        created:
+          label: Creato
+        completed:
+          label: Completato
+        remote_addr:
+          label: 'Indirizzo IP'
+        view_webform_submission:
+          label: Operazioni
+        edit_webform_submission:
+          label: Operazioni
+      filters:
+        locked:
+          expose:
+            label: Bloccato
+  embed_review:
+    display_options:
+      fields:
+        locked:
+          label: Bloccato
+        created:
+          label: Creato
+        completed:
+          label: Completato
+        remote_addr:
+          label: 'Indirizzo IP'
+        view_webform_submission:
+          label: Operazioni
+      filters:
+        locked:
+          expose:
+            label: Bloccato

@@ -1,0 +1,98 @@
+uuid:
+  -
+    value: c64ff398-8c6b-434a-b088-ee31fa9bc998
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-01-16T23:48:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'The Failure of Westinghouse'
+created:
+  -
+    value: '2018-01-16T23:48:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-16T23:48:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-17-0010
+body:
+  -
+    value: '<p><span><span style="color: #000000; font-family: Times New Roman;">Westinghouse<span> </span>Electric<span> </span>Company<span> </span>(WEC)<span> </span>filed<span> </span>for<span> </span>Chapter<span> </span>11<span> </span>bankruptcy<span> </span>on<span> </span>March<span> </span>29,<span> </span>2017. The<span> </span>bankruptcy<span> </span>arose<span> </span>from<span> </span>billions<span> </span>of<span> </span>dollars<span> </span>of<span> </span>cost<span> </span>overruns<span> </span>on<span> </span>four<span> </span>nuclear<span> </span>power<span> </span>plants (NPPs)<span> </span>it<span> </span>was<span> </span>designing<span> </span>and<span> </span>building<span> </span>for<span> </span>two<span> </span>utilities<span> </span>in<span> </span>the<span> </span>United<span> </span>States.<span> </span>The<span> </span>cost<span> </span>overruns were a direct result of a completely new NPP design, the AP1000, and its innovative modular<span> </span>construction.<span> </span>Although<span> </span>WEC''s<span> </span>core<span> </span>engineering<span> </span>intellectual<span> </span>content<span> </span>would<span> </span>live<span> </span>on (that<span> </span>was,<span> </span>in<span> </span>part,<span> </span>the<span> </span>objective<span> </span>of<span> </span>the<span> </span>Chapter<span> </span>11<span> </span>process),<span> </span>many<span> </span>questioned<span> </span>whether<span> </span>WEC''s failure didn''t signal the end of nuclear energy for electrical power<span> </span>generation.</span></span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-17-0010
+field_case_page_length:
+  -
+    value: '17 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2017-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields: {  }
+field_teaching:
+  -
+    value: 'This case has been used in both graduate business and management degree and non-degree programs to provide a platform for discussions of the challenges associated with managing complex mega-projects, and the identification and management of risks in those same mega- projects.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678

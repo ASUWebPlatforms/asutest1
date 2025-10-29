@@ -1,0 +1,40 @@
+display:
+  default:
+    display_title: Lalai
+    display_options:
+      fields:
+        filename:
+          label: Nama
+        filesize:
+          label: Saiz
+        status:
+          label: Status
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+      exposed_form:
+        options:
+          reset_button_label: 'Set semula'
+          exposed_sorts_label: 'Susun mengikuti'
+          sort_asc_label: Menaik
+          sort_desc_label: Menurun
+      filters:
+        filename:
+          expose:
+            label: 'Nama fail'
+        status:
+          expose:
+            label: Status
+  page_2:
+    display_options:
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+      arguments:
+        fid:
+          exception:
+            title: Semua

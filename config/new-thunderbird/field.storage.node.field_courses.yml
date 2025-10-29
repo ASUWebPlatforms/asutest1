@@ -1,0 +1,19 @@
+uuid: 1b520f7f-5e45-4551-b987-2fdc5f9b7d2d
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_courses
+field_name: field_courses
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

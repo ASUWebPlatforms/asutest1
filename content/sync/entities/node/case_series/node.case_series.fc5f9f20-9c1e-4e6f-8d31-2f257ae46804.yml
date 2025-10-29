@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: fc5f9f20-9c1e-4e6f-8d31-2f257ae46804
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:18:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Intel''s Site Selection Decision in Latin America'
+created:
+  -
+    value: '2016-07-27T22:18:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:18:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-99-0016
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Intel has decided to locate its next assembly and testing plant in Latin America. Four countries have made the short list: Brazil, Chile, Mexico, and Costa Rica. Ted Telford, International Site Selection Analyst for Intel, needs to recommend a final site. There are two key issues which must be resolved first: 1) what kind of business environment is most suitable to Intel''s needs; and 2) how can Intel leverage its bargaining advantages most effectively. The case demonstrates the importance of bargaining and of operating in a country with stable, predictable rules of the game.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-99-0016
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: bc82ef1c-629c-40a7-ab1e-8fe74f96c294
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'Latin America, 1996'
+field_case_source:
+  -
+    value: 'Field case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4f47494d-2fbd-4183-89c1-85908f84981d
+field_teaching:
+  -
+    value: "This case can be used in a number of different contexts. One use is in a survey course on the business environment of Latin America. Under these circumstances, the case is best used after the class has already discussed democratization and has covered Brazil, Mexico, and Chile. The case can then be used in the context of a discussion of theories on bargaining between transnational corporations and host-country governments.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.bc82ef1c-629c-40a7-ab1e-8fe74f96c294
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3
+      - taxonomy_term.case_series_fields.4f47494d-2fbd-4183-89c1-85908f84981d

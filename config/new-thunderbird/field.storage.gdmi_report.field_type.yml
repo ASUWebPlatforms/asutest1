@@ -1,0 +1,27 @@
+uuid: 9f5a6646-83d4-4fc1-b867-4788f2b72574
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - tb_gdmi_reports
+id: gdmi_report.field_type
+field_name: field_type
+entity_type: gdmi_report
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: individual
+      label: 'Individual GDMI'
+    -
+      value: group
+      label: 'Group GDMI'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

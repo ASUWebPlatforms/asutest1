@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 4775cc25-7949-44d7-a818-52d2e7e8dd64
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:24:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'New Manager? Build and Maintain Your Credibility!'
+created:
+  -
+    value: '2017-11-27T20:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:24:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/new-manager-build-and-maintain-your-credibility
+body:
+  -
+    value: "<p><span>As a manager (and as a human being), your credibility stems from the way you conduct yourself every minute of every day. It’s not a façade you can slap on when the occasion calls for it; you have to live it.</span></p>\r\n<p>If you’ve recently been promoted to a management position, it’s clear that you’ve already accumulated some credibility. But now, as you take on the responsibilities of guiding and supervising others, you’ll need to expand upon it.</p>\r\n<p>I reached out to Denise Dudley, consultant and author of Work It! Get In, Get Noticed, Get Promoted, and founder and former CEO of SkillPath Seminars. Denise recommended the following strategies to build, strengthen, and improve your credibility.</p>\r\n<h3>Be an Honest and Ethical Manager</h3>\r\n<p>Strong personal principles and core values should underlie everything you do; they will help you make decisions that are best for everyone. Always strive to do the right thing, even when it’s hard, and even when no one else is watching (because actually, someone else is always watching—it’s your boss).</p>\r\n<p>Know and follow the rules for proper behavior within your profession, and remember that you set the tone; if you are dishonest or ignore the rules occasionally, others will follow suit.</p>\r\n<h3>Communicate</h3>\r\n<p>Express yourself openly and assertively, and be as clear as possible in all of your communications. Every day, let your employees know what’s on your mind and what you expect; then give them opportunities to ask questions or give feedback. Listen more than you speak, and do your best to keep the lines of communication open at all times.</p>\r\n<p>If you wish to succeed, you can’t just bark out orders and expect others to comply; you must build positive working relationships with everyone around you.</p>\r\n<h3>Be Decisive</h3>\r\n<p>As a manager, you’ll be called upon to make endless decisions—all of which affect the company and the people around you. Think things through carefully, review all sides of the issue, and then decide which way you want to go.</p>\r\n<p>Trust yourself, your judgment, and your gut, and announce your decisions with confidence and clarity. You may want to explain your reasoning (briefly), but then move on. And if others balk, stand your ground and forge ahead. You’re the decision maker here.</p>\r\n<h3>Be Consistent</h3>\r\n<p>When you make promises, keep them. When you set rules, live by them. Don’t say one thing and then do another, or give an order, change your mind, and expect your employees to read your thoughts and do something different.</p>\r\n<p>If you review your company or department goals before you assign tasks or projects, you’ll be less likely to change directions midstream.</p>\r\n<h3>Follow Up</h3>\r\n<p>Check to see if the assignments you’ve given have been completed correctly and on time. If you let this slide, it’s a sure thing that certain boring or unpleasant tasks will never get done—your employees will assume you’ll never notice.</p>\r\n<p>Clearly explain any rules to your employees up front. Then have a system in place for dealing with those who break the rules, and address any violations or undesirable behavior immediately; it only gets harder if you wait.</p>\r\n<p>Follow these five simple rules, and you’ll become a respected, credible manager!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/five-steps-making-best-first-impression\">Five Steps to Making the Best First Impression</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/appreciating-diversity\">Getting to Know You – Appreciating Diversity</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/5-simple-linkedin-hacks-optimize-your-job-search\">5 Simple LinkedIn Hacks to Optimize Your Job Search</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 09f68436-5c0a-4387-806f-614912a3cb9b
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.09f68436-5c0a-4387-806f-614912a3cb9b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

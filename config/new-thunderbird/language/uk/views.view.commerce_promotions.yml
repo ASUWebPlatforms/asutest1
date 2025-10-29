@@ -1,0 +1,60 @@
+label: Просування
+display:
+  default:
+    display_title: Базово
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Застосувати
+          reset_button_label: Скинути
+          exposed_sorts_label: 'Впорядкувати за'
+          sort_asc_label: Зрост
+          sort_desc_label: Спад
+      pager:
+        options:
+          tags:
+            previous: ‹‹
+            next: ››
+            first: '« Перша'
+            last: 'Остання »'
+          expose:
+            items_per_page_label: 'Елементів на сторінку'
+            items_per_page_options_all_label: '- Усе -'
+            offset_label: Зміщення
+      fields:
+        name:
+          label: 'Назва (ім''я)'
+          separator: ', '
+        offer__target_plugin_id:
+          separator: ', '
+        usage_limit:
+          label: Використання
+          separator: ', '
+        usage_limit_customer:
+          separator: ', '
+        start_date:
+          label: 'Початкова дата'
+          separator: ', '
+        end_date:
+          label: 'Кінцева дата'
+          separator: ', '
+        operations:
+          label: Операції
+      filters:
+        name:
+          expose:
+            label: 'Назва (ім''я)'
+        code:
+          expose:
+            label: 'Код купону'
+        status:
+          expose:
+            label: Стан
+      title: Просування
+  admin:
+    display_title: Сторінка
+    display_options:
+      menu:
+        title: Список
+      tab_options:
+        title: Список

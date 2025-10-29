@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: d7ae53c7-1eb2-44b8-8aeb-5cc327fb704d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+filename:
+  -
+    value: executive-education-mindset.jpg
+uri:
+  -
+    value: 'public://article/executive-education-mindset.jpg'
+    url: /sites/default/files/article/executive-education-mindset.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 23856
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-01-18T23:52:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-01-18T23:52:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff

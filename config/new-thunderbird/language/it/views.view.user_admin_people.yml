@@ -1,0 +1,49 @@
+display:
+  default:
+    display_title: Predefinito
+    display_options:
+      fields:
+        user_bulk_form:
+          label: 'Aggiornamento di massa'
+        name:
+          label: 'Nome utente'
+        status:
+          label: Stato
+          settings:
+            format_custom_true: Attivo
+        roles_target_id:
+          label: Ruoli
+        operations:
+          label: Operazioni
+      pager:
+        options:
+          tags:
+            first: '« Prima'
+            last: 'Ultima »'
+          expose:
+            items_per_page_label: 'Voci per pagina'
+            items_per_page_options_all_label: '- Tutto -'
+            offset_label: Scostamento
+      exposed_form:
+        options:
+          reset_button_label: Ripristina
+          exposed_sorts_label: 'Ordina per'
+          sort_desc_label: Disc
+      filters:
+        status:
+          group_info:
+            label: Stato
+            group_items:
+              1:
+                title: Attivo
+        roles_target_id:
+          expose:
+            label: Ruolo
+        permission:
+          expose:
+            label: Permesso
+  page_1:
+    display_title: Pagina
+    display_options:
+      menu:
+        title: Elenco

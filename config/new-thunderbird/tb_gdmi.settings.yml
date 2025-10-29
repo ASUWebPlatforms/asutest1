@@ -1,0 +1,4 @@
+login_form_media: '2080'
+register_form_message:
+  value: "<p>By clicking \"Submit\" I consent to Thunderbird School of Global Management using the information above to contact me regarding my GDMI Acocunt and provide any other information I request. If you are in the European Union or another country or state that has adopted the GDPR (General Data Protection Regulation) or similar privacy protection, please also read the <a href=\"https://gdmi.thunderbird.asu.edu/\">ASU European Supplement to ASU's Privacy Statement.</a></p>\r\n"
+  format: full_html

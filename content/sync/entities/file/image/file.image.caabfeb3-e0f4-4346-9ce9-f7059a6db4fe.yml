@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: caabfeb3-e0f4-4346-9ce9-f7059a6db4fe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: man-290186_1920.jpg
+uri:
+  -
+    value: 'public://article/man-290186_1920.jpg'
+    url: /sites/default/files/article/man-290186_1920.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 634870
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-06-05T22:42:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-06-05T22:42:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

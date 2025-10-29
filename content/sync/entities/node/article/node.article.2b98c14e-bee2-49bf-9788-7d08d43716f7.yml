@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 2b98c14e-bee2-49bf-9788-7d08d43716f7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Divide and Conquer'
+created:
+  -
+    value: '2014-07-27T20:48:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/divide-conquer
+body:
+  -
+    value: "<p>Starting on Monday, we divided into two teams. Barbara and Anastasiya stayed in Piura to deliver and oversee workshops in the city of Piura while Malorie and Ted travelled to Morropon province to do the same in parallel. Participants took tests on key components of the PROCOMPITE business plan structure and presented their own plans on the final day. In general, participants were really enthusiastic and their desire to grow their businesses and learn made the process very fulfilling for us as facilitators.</p>\r\n<p>The attendees in the Piura workshop were a mixture of private sector business managers set on honing and developing their business plans and government representatives intent on mastering key concepts with the understanding that they would be the ones responsible for delivering the content in the future. Key industries represented were mussels, dairy products, coffee, limes, sugar, and mangoes.</p>\r\n<p>The Morropon workshop attendees, in contrast, were primarily associates in local businesses attending with the aim of developing an understanding of key concepts and materials that they would need to formulate plans to be submitted in the future. Key industries represented were cocoa, organic bananas, black eyed peas, cattle and milk, the honey industry, and tourism.</p>\r\n<p>The Morropon team got a chance to get into the field a day prior to the workshop and engage local cultivators of cocoa, table grapes, and bananas in a conversation about their operations, problems they encounter in the form of bottlenecks, as well as opportunities and impediments for future growth. Key issues that emerged were channels to market, access to water, and a desire to utilize machinery to elevate their position in the supply chain. Friday coincided with the beginning of the Peruvian National Day celebrations.</p>\r\n<p>As a show of solidarity, the TEM lab team marched alongside the PROCOMPITE team in the parade. The team has been strengthening the Thunderbird &amp; Piura alliance throughout the week through taking advantage of face time with stakeholders throughout the workshops and in the lengthy commutes to and from Morropon.</p>\r\n<p>We were presented with many challenges in adapting and applying the workshop format as it was the first time they were delivered to the private sector. Adapting plans within the unique ‘association’ based organizational structure in which small growers and producers ally together to increase their power as suppliers is going to require further tweaking and preparation. A power surge in the Morropon venue that fried the projector during the presentation of the financial plan section was an unforeseen risk that made us focus on one-on-one time rather than an all at once approach. It ended up being a blessing in disguise as it made us realize that head nods in the audience did not actually translate into understanding.</p>\r\n<p>The crucible moments, although they caused a fair amount of stress, have allowed us to solidify relationships with stakeholders by engaging them in the process of working through them. They have also made us take a step back and reassess the scope of our project think about how we can make the biggest impact given the time and resources available to us.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

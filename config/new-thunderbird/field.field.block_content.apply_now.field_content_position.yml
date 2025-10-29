@@ -1,0 +1,23 @@
+uuid: e0f67431-862f-46b8-a29e-ffb73ab6041f
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.apply_now
+    - field.storage.block_content.field_content_position
+  module:
+    - options
+id: block_content.apply_now.field_content_position
+field_name: field_content_position
+entity_type: block_content
+bundle: apply_now
+label: 'Content Position'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: left
+default_value_callback: ''
+settings: {  }
+field_type: list_string

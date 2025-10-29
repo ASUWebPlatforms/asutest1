@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: dc9611b5-1efa-4ca6-ab6a-b8cc0c12d474
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Thunderbird School of Global Management Introduces DreamBuilder Program in USA'
+created:
+  -
+    value: '2016-06-22T08:33:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/dreambuilder-usa
+body:
+  -
+    value: "<p>In conjunction with the celebration of International Women’s Day on March 8, the Thunderbird School of Global Management, a unit of the ASU Knowledge Enterprise at Arizona State University, will launch an English-language version of the Freeport-McMoRan DreamBuilder (<a href=\"http://www.dreambuilder.org/\">www.dreambuilder.org</a>) program.&nbsp; Designed for women entrepreneurs who want to start or grow a small business, the online learning program will be available throughout the United States in association with the Small Business Administration beginning immediately.</p>\r\n<p><a href=\"http://media.thunderbird.edu/article/thunderbird-school-global-management-introduces-dreambuilder-program-usa\" target=\"_blank\">Read more here</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

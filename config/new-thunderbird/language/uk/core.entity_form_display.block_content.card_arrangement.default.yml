@@ -1,0 +1,21 @@
+third_party_settings:
+  field_group:
+    group_cards:
+      label: Картки
+content:
+  field_anchor_menu_settings:
+    settings:
+      title: Абзац
+      title_plural: Абзаци
+  field_card_group:
+    settings:
+      title: Абзац
+      title_plural: Абзаци
+  field_cta:
+    settings:
+      title: Абзац
+      title_plural: Абзаци
+  field_tooltip:
+    settings:
+      title: Абзац
+      title_plural: Абзаци

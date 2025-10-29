@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: 2ff118da-eeae-4d55-bcc9-823073eee5d4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-11-09T21:58:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Petroleos De Venezuela (PDVSA) '
+created:
+  -
+    value: '2016-07-26T23:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-11-09T21:58:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-03-0019
+body:
+  -
+    value: "<div class=\"field field-name-body field-type-text-with-summary field-label-above\">\r\n<div class=\"field-items\">\r\n<div class=\"field-item even\">\r\n<p>PDVSA is one of the largest oil and gas firms in the world. Further, it is both the national oil company and the primary economic engine of Venezuela. This case, which provides data on both the firm known as PDVSA and the country of Venezuela, is designed to allow the student to gain a broad, albeit rudimentary, understanding of both the firm and the country.</p>\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-03-0019
+field_case_page_length:
+  -
+    value: '22 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: Venezuela
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: d8615674-093b-4b3c-b2e9-5499ee618f67
+field_teaching:
+  -
+    value: "The general theme lying behind the case has to do with developing a reasonable understanding of the multiple roles played by a national oil firm in a major oil producing country. It allows the instructor and/or the class to gain a rudimentary understanding of the major demographic, economic, geographic, and political aspects of Venezuela.\r\n\r\n \r\n\r\nIn addition, several major issues that have confronted the senior management of PDVSA over the years - including the firm's role in the Venezuelan political and economic context, the implications of the decision by PDVSA and other national oil firms to move into downstream operating outside of their home country and the role of PDVSA in the political turmoil of 2002 and early 2003 - can be explored in some depth. Along the way, side trips can be taken into subjects such as: how much (separate) decision-making ability should reside at the firm (as opposed to the central government) level; how Venezuela found itself in the turmoil of 2002 and 2003; and whether foreign-based firms should avoid business in Venezuela."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_fields.d8615674-093b-4b3c-b2e9-5499ee618f67

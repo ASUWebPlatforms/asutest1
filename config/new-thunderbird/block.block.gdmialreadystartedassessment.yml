@@ -1,0 +1,44 @@
+uuid: 54ce137c-1db3-48f1-8922-31b4f4fa7f14
+langcode: en
+status: true
+dependencies:
+  module:
+    - domain
+    - system
+    - tb_gdmi
+  theme:
+    - thunderbird
+id: gdmialreadystartedassessment
+theme: thunderbird
+region: content
+weight: -6
+provider: null
+plugin: already_started_gdmi
+settings:
+  id: already_started_gdmi
+  label: 'GDMI Already Started Assessment'
+  label_display: '0'
+  provider: tb_gdmi
+  title: 'Already started the GDMI?'
+  continue_title: 'Continue the GDMI'
+  continue_description: 'If you have already started the GDMI you can click “Continue GDMI” below. This will take you to the furthest page that hasn’t been saved yet.'
+  continue_link_text: 'Continue GDMI'
+  restart_title: 'Restart the GDMI'
+  restart_description: 'If you would like to restart the GDMI, erasing all progress to this point, click “Restart GDMI” below. This will take you back to the beginning of the GDMI.'
+  restart_link_text: 'Restart GDMI'
+visibility:
+  domain:
+    id: domain
+    negate: false
+    context_mapping:
+      domain: '@domain.current_domain_context:domain'
+    domains:
+      gdmi: gdmi
+  request_path:
+    id: request_path
+    negate: false
+    pages: /dashboard
+  user_assessment_available:
+    id: user_assessment_available
+    show: 1
+    negate: false

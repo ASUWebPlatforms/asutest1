@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: f618e872-8fea-4615-bc23-6a1541fa3323
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T23:04:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Planet Starbucks (B): Caffeinating The World'
+created:
+  -
+    value: '2016-07-26T23:04:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T23:04:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-03-0013
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case discusses the international expansion efforts of the global coffee retailer, Starbucks. Starbucks had proliferated in several regions of the world, many of which had historical ties to a coffee heritage such as Western Europe. It had also challenged traditionally tea drinking countries such as Japan and China. In implementing its globalization strategy, the company relies on a set of sound principles that call for astute partner selection, real estate management, and managing the brands. While the company had witnessed critical success in most of its major markets overseas, it appeared to be facing significant challenges in every region. For example, in Japan, revenues had declined and so too profitability. New copycat competitors had emerged and many had started questoning the validity of Starbucks'' market saturation strategies. In emerging countries such as Mexico, China and India the company saw very good potential but this rosy picture was somewhat dampened by the ability of the consumer to pay close to $3 for a cup of coffee when local versions retailed at $.50. The case with several questions related to the future of Starbucks in the global arena, whether it should alter its new store growth strategy, whether it should rethink its uniform pricing policy in emerging markets where affordability was of paramount importance, and where the next major thrust ought to be.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-03-0013
+field_case_page_length:
+  -
+    value: '15 pages'
+field_case_series_author:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: fbb454b4-09b8-4097-be5d-3aef8b1a4baa
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: World
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: 79a4b66b-9715-49c4-a102-2f4956124078
+field_teaching:
+  -
+    value: "1. To illustrate the critical features of a successful globalization strategy in commodity type product markets. \r\n2. To identify the best practices involved in globalization of services including market selection, choice of partners, structuring joint ventures, and managing alliances. \r\n3. To explore the challenges of entering developing markets using differentiation strategies."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_industry.fbb454b4-09b8-4097-be5d-3aef8b1a4baa
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.79a4b66b-9715-49c4-a102-2f4956124078

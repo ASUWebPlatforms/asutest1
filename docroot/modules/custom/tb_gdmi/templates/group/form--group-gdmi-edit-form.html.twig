@@ -1,0 +1,36 @@
+{#
+/**
+ * @file
+ * Template for a 'form' element.
+ *
+ * Available variables
+ * - attributes: A list of HTML attributes for the wrapper element.
+ * - children: The child elements of the form.
+ *
+ * @see template_preprocess_form()
+ *
+ * @ingroup themeable
+ */
+#}
+{%
+  set classes = [
+    'form',
+    is_inline ? 'form-inline',
+  ]|merge(utility_classes ? utility_classes : [])
+%}
+<div class="gdmi-edit-group-form container">
+  <h1>Edit Org. and Group Info</h1>
+  <form{{ attributes.addClass(classes).removeClass('container') }}>
+    {{ element.form_build_id }}
+    {{ element.form_token }}
+    {{ element.form_id }}
+    <div class="elements d-flex">
+      <div>{{ element.field_organization }}</div>
+      <div>{{ element.label }}</div>
+    </div>
+    <div class="d-flex justify-content-end">
+        {{ element.actions }}
+    </div>
+  </form>
+  <a href="{{ url('tb_gdmi.dashboard_groups') }}" class="btn btn-gold btn-back"><i class="fas fa-arrow-left mr-2" aria-hidden="true"></i>{{ 'Back'|t }}</a>
+</div>

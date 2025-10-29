@@ -1,0 +1,18 @@
+uuid: 096d3ee4-a12e-4e14-bd00-ffdea5350a05
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.concentrations
+id: taxonomy_term.concentrations.name
+field_name: name
+entity_type: taxonomy_term
+bundle: concentrations
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

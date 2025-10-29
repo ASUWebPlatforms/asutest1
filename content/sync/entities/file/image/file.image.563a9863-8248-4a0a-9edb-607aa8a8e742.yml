@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 563a9863-8248-4a0a-9edb-607aa8a8e742
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+filename:
+  -
+    value: love_language.jpg
+uri:
+  -
+    value: 'public://article/love_language.jpg'
+    url: /sites/default/files/article/love_language.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 52827
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-02-28T18:13:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-28T18:13:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8

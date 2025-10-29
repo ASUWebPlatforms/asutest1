@@ -1,0 +1,26 @@
+uuid: 92776859-b6f0-45f2-84ac-6b2ad9550fa3
+langcode: en
+status: true
+dependencies:
+  module:
+    - dropdown_language
+    - system
+  theme:
+    - thunderbird
+id: dropdownlanguagecontent
+theme: thunderbird
+region: content
+weight: -10
+provider: null
+plugin: 'dropdown_language:language_content'
+settings:
+  id: 'dropdown_language:language_content'
+  label: Language
+  label_display: visible
+  provider: dropdown_language
+  labels: null
+visibility:
+  request_path:
+    id: request_path
+    negate: true
+    pages: '*'

@@ -1,0 +1,110 @@
+uuid:
+  -
+    value: 81064b90-024c-4622-8a51-35a9c61f1e7f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-09-20T17:24:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Delhi World Sustainable Development Summit: Rechristening It and the Path Ahead'
+created:
+  -
+    value: '2018-09-20T14:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-20T17:24:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a04-18-0004
+body:
+  -
+    value: '<p>Founded in 1974, TERI (The Energy and Resources Institute) was an independent, not-for-profit research institute which focused on environment issues that affected Indian society and the world at large. TERI''s mission was to develop innovative and sustainable interventions and cost-effective solutions that may be translated to action. TERI’s competencies spanned the areas of training, outreach, research, and information. In keeping with its mission of being a knowledge-based agent of change, in June 2016, TERI decided to rechristen DSDS as World Sustainable Development Summit (WSDS). This was done to expand the profile of participants, increase its geographic reach and shift the location of the event, if required. It was also decided in 2016 to hold the annual event in October instead of February. The challenge confronting Dr. Verma was to come up with an effective event promotion strategy to enhance the WSDS’ outreach program and generate significant revenues for TERI without compromising on the preferred choice of partners.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A04-18-0004
+field_case_page_length:
+  -
+    value: '14 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4f61f516-d129-4fc6-8c11-232440850621
+  -
+    target_type: taxonomy_term
+    target_uuid: 7e294e43-14e3-43eb-96b1-e83223658b1d
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8da14a1-5779-4a37-b495-52505e622a5d
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: India
+field_case_source:
+  -
+    value: 'Primary research'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1307eb83-fc7a-44e4-8d3a-6c0d56724c93
+field_teaching:
+  -
+    value: "This case analyzes the challenges faced by TERI's director in formulating a new marketing strategy and promotional plan for its flagship event, DSDS, rechristened as WSDS. The case highlights the complexities involved in making the event self-sustaining by diversifying its participant profile and increasing its outreach in order to provide the Summit with a robust financial framework. It also addresses concerns about the impact of a) rechristening the summit DSDS to WSDS and b) shifting its timing to October instead of February. Given this, the instructor’s objective is to encourage student groups to formulate innovative marketing and promotional strategies for WSDS. \r\nThe case has four objectives. These are:\r\na)\tEnable students to understand the challenges faced by an international non-governmental organization in promoting their brand through targeted activities and events in an emerging market such as India.\r\nb)\tCreate an understanding of managing and engaging with diverse stakeholder groups to make the event sustainable and profitable. \r\nc)\tProvide insight into issues related to resource mobilization for not-for-profit organizations\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.4f61f516-d129-4fc6-8c11-232440850621
+      - taxonomy_term.case_series_authors.7e294e43-14e3-43eb-96b1-e83223658b1d
+      - taxonomy_term.case_series_industry.a8da14a1-5779-4a37-b495-52505e622a5d
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.1307eb83-fc7a-44e4-8d3a-6c0d56724c93

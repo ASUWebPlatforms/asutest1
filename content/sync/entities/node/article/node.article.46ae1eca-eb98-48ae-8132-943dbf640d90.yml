@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 46ae1eca-eb98-48ae-8132-943dbf640d90
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-12-05T16:23:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Fourth Industrial Revolution is Here, So Let’s Get Ready'
+created:
+  -
+    value: '2018-12-05T16:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-12-05T16:23:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/fourth-industrial-revolution-here-so-lets-get-ready
+body:
+  -
+    value: "<p>[[{\"fid\":\"68596\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fourth Industrial Revolution is Here, So Let’s Get Ready\",\"field_file_image_title_text[und][0][value]\":\"The Fourth Industrial Revolution is Here, So Let’s Get Ready\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fourth Industrial Revolution is Here, So Let’s Get Ready\",\"field_file_image_title_text[und][0][value]\":\"The Fourth Industrial Revolution is Here, So Let’s Get Ready\"},\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Fourth Industrial Revolution is Here, So Let’s Get Ready\",\"field_file_image_title_text[und][0][value]\":\"The Fourth Industrial Revolution is Here, So Let’s Get Ready\"}},\"attributes\":{\"alt\":\"The Fourth Industrial Revolution is Here, So Let’s Get Ready\",\"title\":\"The Fourth Industrial Revolution is Here, So Let’s Get Ready\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<p>We are at the beginning of an&nbsp;exciting though sometimes unnervingly fast-paced technological revolution.It’s the Fourth Industrial Revolution, and&nbsp;according to Professor&nbsp;Raghu Santanam, it is already impacting nearly every aspect of our world – for the better, but potentially also for the worse. Elevating the positive impacts and mitigating the negative ones will require action by governments, businesses, and individuals.</p>\r\n<p><span style=\"font-size: 1em; background-color: transparent;\">&nbsp;</span><span style=\"font-size: 1em; background-color: transparent;\">Consider three examples of the Fourth Industrial Revolution in action:</span></p>\r\n<ol>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\">About 90 percent of people who experience a sudden cardiac arrest die. A program launched in Toronto dispatches a drone, which carries a defibrillator, is controlled by a paramedic, and is able to travel at 60 mph. The drone's camera and speakers allow the paramedic to give instructions to people near the victim. In the U.S. alone, such quick response could potentially save 400,000 lives a year.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\">MIT researcher Fei Fang developed an algorithm that protects the lives of 60,000 people every day on the Staten Island ferry. Because there are more ferries traveling between Staten Island and Manhattan than US Coast Guard patrol boats could cover, one patrol boat would follow one ferry for the whole journey, leaving the others unprotected. Fang and her team created a system that makes the patrols random and unpredictable, protecting against potential attacks in high-risk zones by increasing randomness, making it harder to plan an attack.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\">Roughly one-third of all food produced is wasted – approximately 1.3 billion tons of food waste every year, amounting to roughly $680 billion in developed countries and $310 billion in developing countries. In less than a year, HelloFresh reduced its landfill bound waste by 65 percent with the help of Boston-based startup Spoiler Alert, a B2B tech platform that helps food businesses, farms, and nonprofits better manage unsold food inventory. Using real-time tracking data, Spoiler Alert helps organizations optimize the value of unsold food before it ends up in the trash – often through enhanced donations. Spoiler Alert was one of 14 food waste startups that raised $125 million in the first 10 months of 2018.</span></li>\r\n</ol>\r\n<p>These are just three examples of the Fourth Industrial Revolution in action.&nbsp;Automation, machine learning, DNA sequencing, mobile computing, and artificial intelligence are no longer futuristic concepts. Not only are they a business reality, they are a business imperative.&nbsp;</p>\r\n<h3>Talking ‘Bout a Revolution</h3>\r\n<p>The First Industrial Revolution used water and steam power to&nbsp;<i>mechanize&nbsp;</i>production. The Second used electric power to enable&nbsp;<i>mass&nbsp;</i>production. The Third used electronics and information technology to&nbsp;<i>automate&nbsp;</i>production.&nbsp;The Fourth Industrial Revolution&nbsp;(4IR) or as some call it, Industry 4.0, is building on the Third.&nbsp;</p>\r\n<p>The Fourth Industrial Revolution ischaracterized by a fusion of technologies. It represents&nbsp;new ways in which technology becomes embedded within societies and&nbsp;<a href=\"https://www.weforum.org/agenda/2016/01/what-is-the-fourth-industrial-revolution/\">even the human body</a>.&nbsp;</p>\r\n<p>“It is indeed a revolution,” said&nbsp;<a href=\"https://wpcarey.asu.edu/people/profile/192381\">Professor Raghu Santanam</a>, chair of the Department of Information Systems at the W.P. Carey School of Business at ASU.&nbsp;“We are seeing an enormous change in the way we live, work and interact with each other. It is unnerving to think that the Fourth Industrial Revolution has only begun.”</p>\r\n<blockquote>\r\n<p>“We are seeing an enormous change in the way we live, work and interact with each other. It is unnerving to think that the Fourth Industrial Revolution has only begun.”<i>–&nbsp;<a href=\"https://ctt.ec/eYe1P\">Click to tweet</a></i></p>\r\n</blockquote>\r\n<p>The Fourth Industrial Revolution blurs the lines between our physical, digital, and biological worlds,&nbsp;collectively referred to as&nbsp;cyber-physical systems. Technology breakthroughs are expected in a number of fields including&nbsp;automation, artificial intelligence, machine learning, robotics, 3D printing, and quantum computing.&nbsp;</p>\r\n<p>“In my opinion, self-driving technology, regenerative medicine, and manufacturing and agriculture automation (to name a few of the Fourth Industrial Revolution technologies) are going to bring about changes to our way of life at a rate that we have never seen before,” explained Dr. Santanam, who teaches a one-day Thunderbird workshop,&nbsp;The Future of Work &amp; Digital Innovation.</p>\r\n<p>“It is exciting and yet unnerving to be in the middle of such a fast-paced revolution,” said Dr. Santanam. “Humanity has experienced and thrived under large-scale changes in the past few centuries. What is different about the Fourth Industrial Revolution is the&nbsp;<i>pace</i>of change.” &nbsp;</p>\r\n<h3>Promise and Potential Peril</h3>\r\n<p>Digital technologies are expected to transform operations in all sectors. The most agile companies are already integrating these technologies into their operations – from the factory floor to the storefront. Companies that can leverage data and business intelligence to drive operational efficiencies will enjoy the most growth in the Fourth Industrial Revolution.&nbsp;</p>\r\n<blockquote>\r\n<p>“Humanity has experienced and thrived under large-scale changes in the past few centuries. What is different about the Fourth Industrial Revolution is the&nbsp;<i>pace&nbsp;</i>of change.”<i>–&nbsp;<a href=\"https://ctt.ec/VE6pd\">Click to tweet</a></i></p>\r\n</blockquote>\r\n<p>“The changes are so profound that, from the perspective of human history, there has never been a time of greater promise or potential peril,” said Klaus Schwab, founder and executive chairman of the World Economic Forum. Schwab popularized the term the Fourth Industrial Revolution in a book of the same name published in January 2017.&nbsp;</p>\r\n<p>In his book, Schwab wrote: “My concern, however, is that decision makers are too often caught in traditional, linear (and non-disruptive) thinking or too absorbed by immediate concerns to think strategically about the forces of disruption and innovation shaping our future.”</p>\r\n<p>But Dr. Santanam is optimistic about the human ability to adapt. Eventually. “However, to the extent that we misjudge the pace of change, we are liable to be unprepared. Organizations must prepare for a complete overhaul of their strategies, organizational structure, and employee development practices.”</p>\r\n<p>Dr. Santanam said “these three aspects are interrelated and need to be synchronized to build resilient practices to adapt to change.” Here’s how:</p>\r\n<ol>\r\n<li><strong>Strategies</strong>: More investments will be required in research and design, because lifecycles for products, services, and markets are going to be much shorter.&nbsp;</li>\r\n<li><strong>Organizational structure</strong>: Just as the Fourth Industrial Revolution blurs lines between physical, digital, and biological worlds, it will also blur the lines – or break down the silos – within organizations. Businesses should adapt an open ecosystem model of sharing resources to achieve common goals.</li>\r\n<li><strong>Employee development</strong>: Organizations that smartly invest in employee upskilling – keeping long-term results in mind – will have higher likelihood of thriving in the future. “Technology innovations will be at the center of all changes,” Santanam said. “Managers need to be comfortable in having complex technology related conversations.”</li>\r\n</ol>\r\n<h3>For more about how business leaders can prepare for the Fourth Industrial Revolution, read:&nbsp;<a href=\"https://thunderbird.asu.edu/knowledge-network/how-succeed-in-fourth-industrial-revolution\">How to Succeed in the Fourth Industrial Revolution&nbsp;</a></h3>\r\n<h3>Oversight and Market Forces</h3>\r\n<p>New principles, protocols, rules, and policies will be needed to accelerate the positive and inclusive impacts of new technologies, while minimizing or eliminating their negative consequences.&nbsp;“There is a need for action from governments, businesses, and individuals,” Dr. Santanam said. “I would say that all three need to react mindfully to the emerging changes.”</p>\r\n<p>The merging of technologies and interaction between industries calls for a new era of governance, one that will leave room for experimentation and evolution. But Dr. Santanam believes that business will be the final arbiter in this new era. “I firmly believe that market mechanisms will take precedence over governance and regulations in managing the rapid pace of change,” he said. “There will be missteps of course, but there will be self-correcting behaviors as well.”&nbsp;</p>\r\n<p>Countries or regions that invest in encouraging entrepreneurial ecosystems and that reach across boundaries will thrive most in coping with rapid changes. “Regulations will be necessary from the perspective of protecting individual safety and privacy,” Dr. Santanam said. “Given the ubiquitous nature of technology, it is better to harmonize regulations across national boundaries rather than creating a spaghetti regulation framework.”</p>\r\n<h3>Privacy and Ethical Concerns</h3>\r\n<p>The Fourth Industrial Revolution brings with it ethical and social implications about what technology is developed and how it is used. In particular, advances in information technologies and artificial intelligence combined with innovations in fields including genetics, reproductive technologies, neuroscience, and synthetic biology require a diligent stewardship by both individuals and industry.</p>\r\n<p>“Privacy is of utmost importance. We cannot rely on self-regulation by corporations to safeguard individual’s data and privacy,” said Dr. Santanam. “Genetic information, financial and health data and location information can all be misused. The risks grow exponentially when entities start putting together multiple bits of information about individuals.”&nbsp;</p>\r\n<blockquote>\r\n<p>“The Fourth Industrial Revolution brings with it ethical and social implications about what technology is developed and how it is used.”<i>–&nbsp;<a href=\"https://ctt.ec/jgP08\">Click to tweet</a></i></p>\r\n</blockquote>\r\n<p>A global viewpoint and the ability to work well across borders will be essential during the Fourth Industrial Revolution. “At some point, we also have to think of the societal benefits one can obtain from sharing data across national and organizational boundaries. In such circumstances, developing sound policy frameworks for an ‘eminent domain’ for data assets is incredibly important.” &nbsp;</p>\r\n<h3>The Possibilities Outweigh the Perils</h3>\r\n<p>There is a lot of work still to do. “Businesses and governments need to create a clear roadmap for how to effectively leverage all these wonderful technologies while simultaneously reducing risks to society such as privacy, data manipulation, and misuse,” Dr. Santanam said.</p>\r\n<p>Whether one is optimistic or pessimistic, or feels prepared or not, the Fourth Industrial Revolution is upon us.&nbsp;</p>\r\n<p>Dr. Santanam is on Team Optimism.&nbsp;“It is cool to think of an augmented world. Many of the things we read about in science fiction can actually happen! So, yes, I am optimistic. I think we will lead interesting lives as long as we are open and receptive to change.”&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'We are at the beginning of an exciting though sometimes unnervingly fast-paced technological revolution.It’s the Fourth Industrial Revolution, and according to Professor Raghu Santanam, it is already impacting nearly every aspect of our world – for the better, but potentially also for the worse. Elevating the positive impacts and mitigating the negative ones will require action by governments, businesses, and individuals.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 4912
+    height: 7360
+    target_type: file
+    target_uuid: 3c66dd29-ed4e-4ead-bb36-56a2588770f5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.3c66dd29-ed4e-4ead-bb36-56a2588770f5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

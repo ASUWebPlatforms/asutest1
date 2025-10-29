@@ -1,0 +1,8 @@
+// TODO: Move this to UDS, like the maroon
+ul.uds-list {
+  &.fa-ul {
+    &.gold li svg {
+      color: $uds-color-base-gold;
+    }
+  }
+}

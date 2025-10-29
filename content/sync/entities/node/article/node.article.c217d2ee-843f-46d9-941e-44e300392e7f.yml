@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: c217d2ee-843f-46d9-941e-44e300392e7f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-28T21:56:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Chapter Connections March 2018'
+created:
+  -
+    value: '2018-03-28T21:56:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-28T21:56:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/chapter-connections-march-2018
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14851\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"25\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"25\"}}]]</p>\r\n<p><strong>Kona</strong> – L-R: Maryann Engers ‘82, Michiyo Echle, Atsuko Chambers.&nbsp; Back L-R: Chapter Leader Jim Echle ‘72, Scott Engers 81, John Chambers ’97.&nbsp; John and Atsuko were visiting from Tokyo.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p><strong>[[{\"fid\":\"14852\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"26\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"26\"}}]]</strong></p>\r\n<p><strong>Broward</strong> – those attending Carol Stauter '91, Casey Sutton '15, Cristian Acuna '10, Erica Savka '99 and Jeff,&nbsp; Gustavo \"Gus\" Gurgulino de Souza '97, John Proctor '85, John Viault '92 Chapter Leader Karl Palsgaard '11 and Anne Paul,&nbsp; Michael '82 and Aileen Haerting, Rosa Isela '15 and Mario Velasco, Scott Edwards '85 and Stephen McCarthy '09.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14853\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"27\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"27\"}}]]</p>\r\n<p><strong>Bangkok</strong> –alumni held their gathering on the first Friday March 2nd.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14854\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"28\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"28\"}}]]</p>\r\n<p><strong>San Francisco</strong> – Suzanne Sanchez, Recruiter for Admissions and Recruitment at Thunderbird was in SF for their Super First Tuesday event.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14856\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"29\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"29\"}}]]</p>\r\n<p><strong>New England</strong> - March First Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14857\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"30\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"30\"}}]]</p>\r\n<p><strong>Hong Kong</strong> - alumni panelists met with Professor Lena Booth and visiting Thunderbird EMGM students on March 3, 2018.&nbsp;Panelists were Bob Hinkel&nbsp; &nbsp;'96, Samir Kumar'93, Chapter Leader Kevin Rohrer '82, Bo Hanson&nbsp;’08 &amp; Chapter Leader Marty Jetton '87.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14858\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"31\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"31\"}}]]</p>\r\n<p><strong>Sao Paulo</strong> – March 6 First Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14859\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"32\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"32\"}}]]</p>\r\n<p><strong>Tucson</strong> – held their Super First Tuesday on March 13.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p><strong>[[{\"fid\":\"14860\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"33\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"33\"}}]]</strong></p>\r\n<p><strong>South Florida</strong> – alumni gathered in Coral Gables to hear Thunderbird Chief Engagement Officer Patrick McDermott and Professor Ted Cross provide an update.&nbsp; Those attending Barbara ’81 &amp; Enrique ’81 Zelaya, Bob '86 and Amparito Jones, Carrie Melanda '00, Daewid “David” Hechler ’71, David Brayer '83, Eduardo Pozo ’92 (visiting from Ecuador), Edward Crews '89 . Gayle Francseca Mellegard Zanini '85, Henry Brulay '88, Rob Hatfield ’68, James “Jim” Hartenstein ’75, Jane Iversen '15, Natalia Iversen and Miguel San Pedro, John Hope ’68, John Proctor '85 and Allen Proctor, John Viault '92, Julie ‘94 and Hector ‘93 Rodriguez, Chaper Leader Karl Palsgaard '11, Matthew Levy '96, Nicolas Eterovic '06,Patricia Moraes '14, Raul Masvidal ’66, Ricardo Cookson ’93, Roberto Teofilo ‘97, Rodolfo Milani ’77, Shalini Jacqueline Bath ’99, Shay Coker '98, Tak Takasu ’05, &amp; <br>Willie Cone ’79.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14861\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"34\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"34\"}}]]</p>\r\n<p><strong>Provo -</strong> Chapter Leader Daniel Tracy and alumni gathered for March First Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14862\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"35\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"35\"}}]]</p>\r\n<p><strong>Orange County</strong>- March Super First Tuesday at Bistango Restaurant in Irvine.&nbsp; Clockwise starting from lower left: Julie Wilde '88, Victor Martin '03, Marc Gallin '86, Patty Spivey spouse. Chapter Leader John DeLap '83, Susan Ottzen '83, Maria Piperova '03, Leaniva Tuala prospective student, Becca Clarke '12&nbsp; who also works for TBird On-Line Education. Ruchika Wijesinghe '03, Arun Aneja '03, Frank Perez '98, Marcus Brown spouse, Heidi Brown '95, Dewey Blac '61, Kellee Duby '89, &amp; Ahmed Elsayed '85.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14863\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"36\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"36\"}}]]</p>\r\n<p><strong>Chicago</strong> – March 19th T-birds at Tank Noodle Vietnamese restaurant.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"14864\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"37\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"37\"}}]]</p>\r\n<p><strong>Kona</strong> - March lunch held at the Lava Lava Beach Club, in Waikoloa Beach. L/R; Michiyo Echle, Chapter Leader Jim Echle ‘72, Steve Valdes, Anita Potter Valdes ‘80, Scott Engers ‘80 &amp; Maryann Engers ’81.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: 'Local chapters of Thunderbird School of Global Management alumni monthly get-togethers for January 2018. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: 58094ee6-3d3e-4559-8951-2c0899c1e0b8
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.58094ee6-3d3e-4559-8951-2c0899c1e0b8
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

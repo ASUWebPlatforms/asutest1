@@ -1,0 +1,29 @@
+uuid: fcfa5a3f-6dda-4bd6-bb26-d6662c2d89a5
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.featured_content
+    - field.storage.block_content.field_featured_content
+    - node.type.insight
+id: block_content.featured_content.field_featured_content
+field_name: field_featured_content
+entity_type: block_content
+bundle: featured_content
+label: Content
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      insight: insight
+    sort:
+      field: title
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

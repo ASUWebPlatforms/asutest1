@@ -1,0 +1,29 @@
+uuid: 6aa90407-004a-4f2c-9921-b581585a05dd
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_degrees
+    - node.type.degree
+    - node.type.insight
+id: node.insight.field_degrees
+field_name: field_degrees
+entity_type: node
+bundle: insight
+label: Degrees
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      degree: degree
+    sort:
+      field: title
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

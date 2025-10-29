@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: d487c1ce-85d0-4c08-b709-0c8bf8ab42e3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+filename:
+  -
+    value: interpersonal_leadership.jpg
+uri:
+  -
+    value: 'public://article/interpersonal_leadership.jpg'
+    url: /sites/default/files/article/interpersonal_leadership.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 1273914
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-04-29T17:49:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-04-29T17:49:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc

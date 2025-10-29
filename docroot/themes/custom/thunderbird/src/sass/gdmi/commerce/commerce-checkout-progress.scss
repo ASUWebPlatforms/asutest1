@@ -1,0 +1,53 @@
+.checkout-progress-container {
+  background-color: $gray-1;
+  padding: 1rem 0;
+
+  li {
+    font-size: 14px;
+    color: $gray-darkest;
+    display: inline-block;
+    list-style: none;
+    
+    .checkout-progress--division {
+      margin-left: 6px;
+      margin-right: 4px;
+    }
+  }
+}
+
+.review-commerce-checkout-form {
+
+  .layout-region-checkout-main,
+  .layout-region-checkout-footer  {
+    width: 100% !important;
+    margin: auto;
+    padding-right: 0;
+    float: none;
+
+    .offset-1 {
+      margin-left: 0;
+    }
+    
+    .col-10 {
+      flex: none;
+      max-width: 100%;
+    }
+  }
+
+  .group-participants-list {
+    margin-bottom: 42px;
+  }
+}
+
+.commerce-checkout-form-group  {
+  h1 {
+    margin-top: 71px !important;
+    margin-bottom: 48px !important;
+  }
+
+  .gray-section {
+    background-color: $gray-1;
+    padding-top: 70px;
+    padding-bottom: 97px;
+  }
+}

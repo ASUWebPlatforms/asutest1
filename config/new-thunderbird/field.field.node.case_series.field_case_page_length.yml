@@ -1,0 +1,19 @@
+uuid: 4bf05c6c-8c67-497e-b728-e5d299bb3da2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_case_page_length
+    - node.type.case_series
+id: node.case_series.field_case_page_length
+field_name: field_case_page_length
+entity_type: node
+bundle: case_series
+label: Length
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

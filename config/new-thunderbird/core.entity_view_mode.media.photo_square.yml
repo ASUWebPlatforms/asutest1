@@ -1,0 +1,10 @@
+uuid: 3e823803-f160-4334-be05-1c4df7b62719
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.photo_square
+label: 'Photo Square'
+targetEntityType: media
+cache: true

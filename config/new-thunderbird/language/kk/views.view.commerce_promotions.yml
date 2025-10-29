@@ -1,0 +1,26 @@
+display:
+  default:
+    display_title: Стандартты
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Ысыру
+      fields:
+        name:
+          label: Аты
+        operations:
+          label: Операциялар
+      filters:
+        name:
+          expose:
+            label: Аты
+        status:
+          expose:
+            label: Жағдайы
+  admin:
+    display_title: Бет
+    display_options:
+      menu:
+        title: Көрсету
+      tab_options:
+        title: Көрсету

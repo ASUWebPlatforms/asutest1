@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: 1a05fb37-aa11-4ddf-972f-f6885d567cea
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:32:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Emergency Management: The Dupont Plaza Hotel'
+created:
+  -
+    value: '2016-07-18T00:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:32:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-06-0014
+body:
+  -
+    value: '<p><span>The Dupont Plaza Hotel suffered a devastating fire in December of 1986. The facts surrounding the fire and management’s response provide very good examples of the failure of management to properly address the emergency management process. Several areas of concern are noted, including employee problems and problems with the resort facilities themselves, all leading to substantial damage and fatalities.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A08-06-0014
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: c7810355-f0d6-4547-ac77-857662ac97d2
+field_case_series_year:
+  -
+    value: '2006-01-01'
+field_case_setting:
+  -
+    value: 'Puerto Rico'
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: fcc6123c-dc3e-4c19-97c3-b1c33944f69d
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: 'The purpose of the case is to allow the student to apply their knowledge of management to the area of emergency planning and the problems associated with the failure to provide appropriate planning. This will allow the student to expand his/her knowledge of managerial responsibility to a common area of concern in today’s world: emergency situations and managerial responsibility.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.c7810355-f0d6-4547-ac77-857662ac97d2
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.fcc6123c-dc3e-4c19-97c3-b1c33944f69d
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

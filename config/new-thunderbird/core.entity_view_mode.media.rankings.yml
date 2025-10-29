@@ -1,0 +1,10 @@
+uuid: 9209fc1a-5d8b-4f22-98b5-fa5fd81e6ec3
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.rankings
+label: Rankings
+targetEntityType: media
+cache: true

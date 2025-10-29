@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 04e4f279-318b-4d63-b85a-0414e91c7846
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:24:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Psychology of Pricing '
+created:
+  -
+    value: '2017-03-08T16:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:24:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/psychology-of-pricing-quiz
+body:
+  -
+    value: "<p>&nbsp;How much do you know about how feelings affect behavior? Test your savvy!</p>\r\n<p>Based on a lecture by Thunderbird School of Global Management Professor of Global Marketing Richard H. Baer. <a href=\"https://thunderbird.asu.edu/knowledge-network/psychology-of-pricing-video\">Watch the lecture</a> or <a href=\"https://thunderbird.asu.edu/knowledge-network/psychology-of-pricing-recap\">read a recap</a> of it on the <a href=\"https://thunderbird.asu.edu/about/knowledge-network\">Thunderbird Knowledge Network</a>.<a href=\"#_msocom_1\"><br></a></p>\r\n<p><a href=\"https://www.qzzr.com/c/quiz/353354/the-psychology-of-pricing\">[[{\"fid\":\"4461\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Psychology of pricing quiz\",\"field_file_image_title_text[und][0][value]\":\"Psychology of pricing quiz\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Psychology of pricing quiz\",\"field_file_image_title_text[und][0][value]\":\"Psychology of pricing quiz\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Psychology of pricing quiz\",\"title\":\"Psychology of pricing quiz\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</a></p>\r\n<div class=\"blue-header-block-wrapper\">\r\n<div class=\"blue-header-block-inner-wrapper\">\r\n<p style=\"text-align: center;\"><strong>Value Creation and Winning in the Global Arena<br>September 18-21, 2017 | Glendale, AZ</strong></p>\r\n<p style=\"text-align: center;\"><a href=\"https://thunderbird.asu.edu/executive-education/programs/value-creation-and-winning?sd=KNpricing\" class=\"btn btn-primary\">Learn More</a></p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1320
+    height: 1024
+    target_type: file
+    target_uuid: c2e509ef-1324-43d1-a699-b72c6fb9aa1d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.c2e509ef-1324-43d1-a699-b72c6fb9aa1d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

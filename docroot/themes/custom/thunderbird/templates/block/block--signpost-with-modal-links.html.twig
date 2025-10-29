@@ -1,0 +1,43 @@
+
+{#
+/**
+ * @file
+ * Template for a block.
+ */
+#}
+{% set classes = classes | default([]) | merge([
+  'block',
+  'container',
+  'signpost-with-modal-links',
+  bundle ? 'block--' ~ bundle|clean_class,
+  id ? 'block--' ~ id|replace({"_": "-"})|clean_class,
+  base_plugin_id ? base_plugin_id|clean_class,
+  derivative_plugin_id ? derivative_plugin_id|replace({"_": "-"})|clean_class,
+])|merge(utility_classes ? utility_classes : [])
+%}
+{% extends 'block.html.twig' %}
+
+{% block content %}
+  {{ attach_library('thunderbird/lightbox') }}
+  {% set background = content.field_media|render|striptags|trim %}
+  <div class="corners">
+    <div class="row">
+      <div class="col-12 col-lg-6">
+        <div class="background">
+          <h2 class="heading">{{ content.field_heading.0["#context"].value  }}</h2>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div class="background" style="background-image: url('{{ background }}');"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-lg-6 signpost-links">
+        {{ content.field_left_column_links }}
+      </div>
+      <div class="col-12 col-lg-6 signpost-links">
+        {{ content.field_right_column_links }}
+      </div>
+    </div>
+  </div>
+{% endblock %}

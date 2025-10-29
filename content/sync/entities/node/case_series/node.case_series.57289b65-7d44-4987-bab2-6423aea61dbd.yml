@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 57289b65-7d44-4987-bab2-6423aea61dbd
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-28T00:37:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Nokia Corporation'
+created:
+  -
+    value: '2016-07-28T00:37:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-28T00:37:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-97-0019
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Nokia restructured itself into a telecommunications company by shedding its non-core businesses. The company s stock price remained well below its previous highs. In 1995, Nokia s operating profit dropped substantially. The company also changed its method of accounting for research and development (R&amp;D) from immediate expensing to capitalization and amortization in accordance with International Accounting Standards (IAS 9). Karla Sibelius, a financial analyst for a mutual fund, must decide whether the fund should buy shares in the company or not.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-97-0019
+field_case_page_length:
+  -
+    value: '20 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1997-01-01'
+field_case_setting:
+  -
+    value: 'Finland, 1996'
+field_case_source:
+  -
+    value: 'Library Case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: cf3bfe07-e7bd-4eea-a9fb-78ba244a24f1
+field_teaching:
+  -
+    value: "This case focuses on the motivation for and implications of Nokia's R&D accounting change. Students are asked to analyze the effect of the change on the company s financial statements. Students are then asked to analyze the company s financial performance and consider whether the accounting change is an ominous signal of poor future operating performance. The case can be used in a corporate financial reporting course or in a financial statement analysis course.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.cf3bfe07-e7bd-4eea-a9fb-78ba244a24f1

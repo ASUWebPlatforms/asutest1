@@ -1,0 +1,67 @@
+uuid: ccc74303-549c-4532-aeea-a1c7eaf331a0
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_full_width_carousel
+    - field.field.block_content.signpost_full_width_carousel.body
+    - field.field.block_content.signpost_full_width_carousel.field_anchor_menu_settings
+    - field.field.block_content.signpost_full_width_carousel.field_slide_item
+  module:
+    - paragraphs
+    - text
+id: block_content.signpost_full_width_carousel.default
+targetEntityType: block_content
+bundle: signpost_full_width_carousel
+mode: default
+content:
+  body:
+    type: text_textarea_with_summary
+    weight: 26
+    region: content
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+  field_anchor_menu_settings:
+    type: entity_reference_paragraphs
+    weight: 28
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+  field_slide_item:
+    type: entity_reference_paragraphs
+    weight: 27
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+  info:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+hidden: {  }

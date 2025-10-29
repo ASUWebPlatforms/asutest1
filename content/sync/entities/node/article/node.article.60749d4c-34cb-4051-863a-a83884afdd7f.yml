@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 60749d4c-34cb-4051-863a-a83884afdd7f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-09T18:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: c740eac5-4575-4b58-a963-a62837cea4e3
+title:
+  -
+    value: 'WeAmericas Accelerator Helps Central America''s Women Entrepreneurs'
+created:
+  -
+    value: '2018-03-07T23:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-09T18:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/weamericas-accelerator-second-cohort-costa-rica
+body:
+  -
+    value: "<p>In celebration of International Women’s Day, Thunderbird for Good honors the women of the <a href=\"/node/2266\">WEAmericas Accelerator</a>. Delivered by <a href=\"https://thunderbird.asu.edu\">Thunderbird School of Global Management</a>, WEAmericas Accelerator is an innovative, three-year U.S. Department of State program designed to drive the advancement of women-owned businesses in Central America.&nbsp; Three cohorts of women business owners will receive training, mentoring, and the opportunity to pitch their growth strategy to potential investors to fund the acceleration of their businesses.</p>\r\n<p>Last month, the second cohort of 26 women from six Central American countries came together in San Jose, Costa Rica. Following the weeklong training by Thunderbird’s renowned faculty, <a href=\"/node/145\">Dr. Mary Teagarden</a> and <a href=\"/node/181\">Dr. Tom Hunsaker</a>, the women met the first cohort of the Accelerator. The 26 business owners from the first cohort hailed from Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"13627\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"style\":\"background-color: transparent; font-size: 1em; display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Learning activity: collaboration, identifying strengths</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"13628\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Dr. Hunsaker and Dr. Teagarden kick of Cohort 2’s week of training</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"13630\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]\r\n<p class=\"caption-text\">Meeting “expert” mentors</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"13631\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"5\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"5\"}}]]\r\n<p class=\"caption-text\">Group photo of both Cohort 1 and 2</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>The first cohort will mentor the second during the next 10 months. Each business owner of the second cohort also had the opportunity to meet with an “expert” mentor with whom they will work during the next 10 months. The women, with the support of both their peer and expert mentors, will develop a growth strategy and pitch for potential investors.</p>\r\n<p>The first cohort had their opportunity to present their funding needs during their capstone event held on February 27. Costa Rica’s Vice Minister of Economy Marcia Montes and the U.S. Deputy Chief of Mission Robin Matthewman launched the event. Each of the 26 business owners presented their growth strategies and the investment required to achieve their vision. Following the pitch sessions, the women were available to provide additional information in individual booths set up with information on their products and services. We look forward to watching how the women leverage their new connections to accelerate the growth of the businesses and spur growth of their communities.</p>\r\n<p>&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"13632\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"6\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"6\"}}]]\r\n<p class=\"caption-text\">(L-R) Robin Mathewman - US Deputy Chief of Mission, Marcia Montes - Vice Minister of Economy, Cindy Yeager – Thunderbird for Good</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"13633\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"7\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"7\"}}]]\r\n<p class=\"caption-text\">Capstone event attended by invited guests and potential investors</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 975
+    height: 731
+    target_type: file
+    target_uuid: e463ec7b-79ae-4aed-aa8a-1e21152a6eda
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.c740eac5-4575-4b58-a963-a62837cea4e3
+    file:
+      - file.image.e463ec7b-79ae-4aed-aa8a-1e21152a6eda
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

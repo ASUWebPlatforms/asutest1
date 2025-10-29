@@ -1,0 +1,18 @@
+uuid: f9f610dd-ca0a-419f-9926-e83eee97f2d8
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.signpost_w_o_image
+id: paragraph.signpost_w_o_image.created
+field_name: created
+entity_type: paragraph
+bundle: signpost_w_o_image
+label: 'Authored on'
+description: 'The time that the Paragraph was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

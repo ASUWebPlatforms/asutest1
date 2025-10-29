@@ -1,0 +1,121 @@
+uuid:
+  -
+    value: 9321551d-0f2d-4c1b-9325-6e7f6107d89a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T16:44:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2e875de4-9ceb-4b8b-b22a-e13a4e11f2d0
+title:
+  -
+    value: 'Argentina and the Vulture Funds'
+created:
+  -
+    value: '2016-04-29T18:54:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T16:44:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-15-0003
+body:
+  -
+    value: '<p><span>Argentina’s default on its foreign currency denominated sovereign debt in 2001 had proved to be a never-ending nightmare. Now, in June 2014, 13 years after the default, the U.S. Supreme Court had confirmed a lower-court ruling which would now force Argentina to consider defaulting on its international debt obligations once again. But the story was a tangled one, which included investors in both the United States and Europe, international financial law, a battle between hedge funds and so-called vulture funds (funds which purchased distressed sovereign debt at extremely low prices and then pursued full repayment through litigation), and State of New York and European Union courts. Time was running out.&nbsp;</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-15-0003
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image:
+  -
+    alt: null
+    title: null
+    width: 262
+    height: 150
+    target_type: file
+    target_uuid: 7aba2664-b197-4930-a0f0-7d66e60d2107
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2015-01-01'
+field_case_setting:
+  -
+    value: Argentina
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 98f3f8e3-4eb3-42e3-92da-1e7d9254b9d2
+field_teaching:
+  -
+    value: 'This case can serve as a foundational primer on the challenges of international business, international finance, and business law in the twenty first century. The case has been used in degree and non-degree programs to illustrate the complexities of sovereign debt, international law, distressed securities investing (vulture funds as one example), and ethical and practical dimensions of a highly indebted nation on the brink.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+      - user.user.2e875de4-9ceb-4b8b-b22a-e13a4e11f2d0
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.98f3f8e3-4eb3-42e3-92da-1e7d9254b9d2
+    file:
+      - file.image.7aba2664-b197-4930-a0f0-7d66e60d2107

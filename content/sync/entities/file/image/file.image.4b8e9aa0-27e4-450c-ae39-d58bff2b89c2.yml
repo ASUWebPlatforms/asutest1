@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 4b8e9aa0-27e4-450c-ae39-d58bff2b89c2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: get-the-raise-you-want-now.png
+uri:
+  -
+    value: 'public://article/get-the-raise-you-want-now.png'
+    url: /sites/default/files/article/get-the-raise-you-want-now.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 203431
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-12-26T16:09:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-26T16:09:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

@@ -1,0 +1,22 @@
+diff --git a/core/lib/Drupal/Core/Entity/ContentEntityBase.php b/core/lib/Drupal/Core/Entity/ContentEntityBase.php
+index 3e82c6f..370e223 100644
+--- a/core/lib/Drupal/Core/Entity/ContentEntityBase.php
++++ b/core/lib/Drupal/Core/Entity/ContentEntityBase.php
+@@ -1133,6 +1133,17 @@ abstract class ContentEntityBase extends EntityBase implements \IteratorAggregat
+       throw new \InvalidArgumentException("The entity object refers to a removed translation ({$this->activeLangcode}) and cannot be manipulated.");
+     }
+ 
++      //Check if the block has nested paragraphs and call duplicate on its entities.
++      foreach ($this->getFields() as $type=>$field) {
++          if ($field->getFieldDefinition()->getType() == 'entity_reference_revisions') {
++              foreach ($field as $delta => $item) {
++                  if ($item->entity) {
++                      $field[$delta] = $item->entity->createDuplicate();
++                  }
++              }
++          }
++      }
++
+     $duplicate = clone $this;
+     $entity_type = $this->getEntityType();
+     if ($entity_type->hasKey('id')) {

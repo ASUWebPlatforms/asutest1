@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: b0e89327-1786-4ce3-9c73-5685c5849d11
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-02-05T22:33:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'IBM: Building with Blockchain'
+created:
+  -
+    value: '2019-02-05T22:33:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-05T22:33:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a04-18-010
+body:
+  -
+    value: '<p>IBM needed a win.&nbsp; Facing flattening sales and increasing analyst concerns the century-old giant that had reinvented itself so often before was in search of market gamechangers.&nbsp; The company believed they found such an opportunity when employee Jerry Cuomo and other IBM technologists dug deeply into the secure, decentralized ledger that powered cryptocurrency Bitcoin.&nbsp; Similar to open-source software, IBM saw widespread potential for blockchain technology outside of the currency it powered.&nbsp; But seeing a technology’s promise is different from monetizing it at scale.&nbsp; How could IBM distinguish blockchain technology from the cryptocurrency for which it was known and attract large clients to adopt IBM’s approach to the emerging technology?&nbsp; &nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A04-18-010
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author: {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: e77be6c9-431a-4d4c-b39b-4ead71395cb0
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6391f3e0-cc24-4aac-b25e-2c102f22e8c3
+  -
+    target_type: taxonomy_term
+    target_uuid: 0bd0e9c6-c092-49b9-9ae1-b15957668000
+field_teaching:
+  -
+    value: 'To understand the challenges enterprises face to build trusted transactions in their supply chains. To examine through specific examples how blockchain can be applied to increase supply chain transparency and efficiency (and to consider its limitations). To debate and better understand the value of an SaaS solution such as that provided by IBM to different stakeholders along the supply chain.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.e77be6c9-431a-4d4c-b39b-4ead71395cb0
+      - taxonomy_term.case_series_fields.6391f3e0-cc24-4aac-b25e-2c102f22e8c3
+      - taxonomy_term.case_series_fields.0bd0e9c6-c092-49b9-9ae1-b15957668000

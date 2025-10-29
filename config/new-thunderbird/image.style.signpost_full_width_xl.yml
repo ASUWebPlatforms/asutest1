@@ -1,0 +1,25 @@
+uuid: c73c62f3-3eda-44ea-989b-190088e27197
+langcode: en
+status: true
+dependencies:
+  module:
+    - image_max_size_crop
+name: signpost_full_width_xl
+label: 'Signpost full-width xl'
+effects:
+  2bea7241-25fa-47e4-9d0d-f9a0ca5f6e04:
+    uuid: 2bea7241-25fa-47e4-9d0d-f9a0ca5f6e04
+    id: image_scale
+    weight: 1
+    data:
+      width: null
+      height: 400
+      upscale: false
+  6116234e-872a-41a9-8ea3-a45ca9ca43be:
+    uuid: 6116234e-872a-41a9-8ea3-a45ca9ca43be
+    id: image_max_size_crop
+    weight: 2
+    data:
+      width: '576'
+      height: ''
+      anchor: center-center

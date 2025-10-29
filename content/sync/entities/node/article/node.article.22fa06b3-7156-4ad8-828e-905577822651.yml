@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 22fa06b3-7156-4ad8-828e-905577822651
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-19T21:11:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'Peter Thiel v. Nick Denton'
+created:
+  -
+    value: '2017-05-19T21:11:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-19T21:11:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/peter-thiel-v-nick-denton
+body:
+  -
+    value: "<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h2 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">Gawker’s demise had nothing to do with First Amendment principles; it is a classic story of founder ego, poor risk management practices, and sloppy leadership.</h2>\r\n</div>\r\n<div class=\"section-inner sectionLayout--fullWidth\">\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*QXrDU18YxF2USa-1xRhkHQ.jpeg\" data-width=\"1024\" data-height=\"576\" data-scroll=\"native\"></div>\r\n</div>\r\n</div>\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<blockquote>Bud Fox: Why do you need to wreck this&nbsp;company?</blockquote>\r\n<blockquote>Gordon Gekko: Because it’s wreckable.</blockquote>\r\n</div>\r\n<div class=\"section-inner sectionLayout--outsetRow\" data-paragraph-count=\"2\">\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*yFemcJxJxuIrcoa22Gb55A.jpeg\" data-width=\"920\" data-height=\"480\" data-action=\"zoom\" data-action-value=\"1*yFemcJxJxuIrcoa22Gb55A.jpeg\" data-scroll=\"native\"></div>\r\n</div>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*inKI7XgmPzlqWJUHskOjKg.jpeg\" data-width=\"606\" data-height=\"404\" data-action=\"zoom\" data-action-value=\"1*inKI7XgmPzlqWJUHskOjKg.jpeg\" data-scroll=\"native\"></div>\r\n</div>\r\nPeter Thiel and Nick&nbsp;Denton</div>\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf-after--figure\"><em>Through his own negligence, Nick Denton’s Gawker became wreckable.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">A civil war rages between First Amendment fanatics like Jeff Bezos defending Nick Denton (as the owner of the Washington Post, he is a bit conflicted), and the original bad boy of the internet, Peter Thiel, the Silicon Valley billionaire, co-founder of PayPal and early investor in Facebook, who helped fund professional wrestler turned libel plaintiff,&nbsp;<em>Hulk Hogan</em>.</p>\r\n<p class=\"graf graf--p graf-after--p\">Just two internet heavyweights locked in a struggle over independent journalism vs. unfettered capitalist power play. At least that’s what the mainstream media is selling.</p>\r\n<p class=\"graf graf--p graf-after--p\">Whereas anyone who understands the media business knows the real issue comes down to managerial competence.</p>\r\n<p class=\"graf graf--p graf-after--p\"><em>In my day, here is how we handled the risk of libel (at Forbes where I was publisher)…</em></p>\r\n<p class=\"graf graf--p graf-after--p\">The CEO would emerge from a black SUV flanked by a smartly dressed retinue wearing “how great to meet you” smiles on their faces. Malcolm Forbes, the late great entrepreneurial publishing magnate, and his four sons, with me tagging along, waited downstairs to take the CEO on a journey through the 19th Century world of the Forbes media empire. A long marble staircase led to a hallway of lavish Napoleonic art before a glittering corporate dining room. There was one catch, you had to walk past a door leading to a large, featureless room with a gaggle of reporters hovering over mounds of paper. We would stop briefly to examine manuscripts covered in red grease pencil.</p>\r\n<p class=\"graf graf--p graf-after--p\">Today we would call them analysts. At the time, desktop actually meant the top of a desk and we had a different name, fact-checkers. Malcolm Forbes (and later his son Steve) would tell the CEO, “When our reporters take you to task, we earn the right to make sure we’re right.”</p>\r\n<p class=\"graf graf--p graf-after--p\">More practically, if Forbes said you screwed up we needed an ironclad reason why, not just an opinion or how the mood struck us. No reporter did his or her own fact checking and each fact had to be confirmed with the independent checker’s initials. If there was an error after it was published, there would be a reckoning. That meant a long walk to Malcolm’s office and usually, an abrupt ending to one’s Forbes’ career. It concentrated the fact checker’s mind wonderfully.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">The business end of the procedure was held in the offices of Ten Shad, our notoriously shrewd libel attorney. He cost Malcolm Forbes hundreds of thousands a year to be sure we didn’t cost ourselves millions. But because of his efforts, readers could bank on what we published. He would work directly with editor-in-chief Jim Michaels (whom Warren Buffett called the best editor in business journalism). They would look at an article like two tailors fitting a wedding dress. Ten would ask for a nip here and a tuck there. Jim would add an inch here and let it out there so that what emerged was powerful, edgy, and libel-proof.</p>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><hr class=\"section-divider\"></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf--leading\">Nick Denton was a journalist before he became a great zillionaire tech sensation. Which is why all the fuss over First Amendment principles doesn’t ring true. If he cared about First Amendment rights he would have safeguarded them through good fact-checking and legal due diligence. Go after Hulk Hogan as hard as you can. But be sure there’s a paper trail a jury can follow and you are on the side of the angels or at least close by. Then back that up with libel insurance. Now you can be as naughty as you wish.</p>\r\n<p class=\"graf graf--p graf-after--p\">There are only two reasons for ignoring this regimen: too sloppy or cheap. Perhaps a third. Too arrogant.</p>\r\n<p class=\"graf graf--p graf-after--p\">Denton knew better. But saying First Amendment rights are threatened is so virtue signaling in an era where popularity rests largely on one’s victimization.</p>\r\n<p class=\"graf graf--p graf-after--p\">Peter Thiel is a Stanford philosophy major, which may be the key to untangling this raison d’etre. He is more well known for being a venture capital investor (co-founder of PayPal along with Elon Musk and Max Levchin) and a brilliant attorney (Stanford Law 1992). The chance to make money by a legal stratagem from a scoundrel sheet like Gawker must have seemed very tempting philosophically and financially. The father of JFK once said, “when there’s cake on the table, eat it.” For Thiel, Gawker’s transgression wasn’t a pornographic video, it was Denton’s hubris to place a bet that he was beyond the rules of legality. There was history between them, to be sure. But there was also cause, thanks to Denton’s arrogance or incompetence, or both.</p>\r\n<p class=\"graf graf--p graf-after--p\">Jeff Bezos defended Gawker. First Amendment issues are at the heart of his claim, “Thiel needs to develop thicker skin.” But his heart isn’t really in it, his wallet is. Bezos loves easy targets, after all, he clobbered independent bookstores across America. I’m not at all sure how that helped preserve our Freedom of Speech, and I sort of doubt that even crossed Bezos’ mind at the time.</p>\r\n<p class=\"graf graf--p graf-after--p\">A more accurate defense for Bezos would focus less on the First Amendment than on “best practices” which his electrical engineering and computer science degrees from Princeton (summa cum laude) have prepared him.</p>\r\n<p class=\"graf graf--p graf-after--p\">Quality control in journalism presumes strong libel and fact-checking procedures so that audience eyeballs see what is legal as well as useful. Freedom of Speech is so important that assuring quality control would seem obvious even when the quality in question is Hulk Hogan’s.</p>\r\n<blockquote>To a publisher the lesson is palpable, drag race all you want, but wear a seatbelt.</blockquote>\r\n<p class=\"graf graf--p graf-after--pullquote graf--trailing\">So weep not for Nick Denton. He knew what he was doing, or more accurately, what he wasn’t.</p>\r\n<p>Author’s Bio<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.iconicvoices.tv/&amp;source=gmail&amp;ust=1495312225303000&amp;usg=AFQjCNHjqA3kKhjHE0f2henNp82kw-l8hw\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.jeffcunningham.com/&amp;source=gmail&amp;ust=1495312225304000&amp;usg=AFQjCNGuCUxfPz8JHhlGIKrEa7xgXOh0UQ\">JeffCunningham.com.</a><span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He has also been a board director of 10 public companies.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i><span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p><span style=\"text-decoration: underline;\"></span>&nbsp;</p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

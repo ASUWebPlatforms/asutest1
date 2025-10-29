@@ -1,0 +1,31 @@
+uuid: 255c8c06-5a41-4323-9c48-1b72136a0436
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - system
+  theme:
+    - thunderbird
+_core:
+  default_config_hash: l3k6DyiEAUkFr8EM3akMrza63i3pAMVFMSQTM1kS5DY
+id: thunderbird_mainpagecontent
+theme: thunderbird
+region: content
+weight: -11
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      article: article
+      page: page

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: aa759d6d-0084-450c-904c-a048939b62ce
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-11T21:11:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 58ab1a88-1032-44c0-b417-4c3a4775b973
+title:
+  -
+    value: 'Blue Is the New Black'
+created:
+  -
+    value: '2017-08-31T11:14:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-11T21:11:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/blue-new-black
+body:
+  -
+    value: "<p><strong>TEM Lab - Fall, 2017<br>Romania, Montana<br>Written by Nate Flake</strong></p>\r\n<p>Team Montana here reporting from our second week in Romania. We were able to meet our client this week, an automotive dies manufacturer called Montana MG, where our project aims to improve their manufacturing process and employee productivity. The town of Campulung where we are located is a small city of 25 thousand people and serves as the gateway to Transylvania County where you will find many of the Romanian tourists destinations like Dracula's castle and the Transfăgărășan mountain highway, one of the most spectacular roads on the planet. We also learned that Campulung was also the original capital of Romania in the 14th century.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6806\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Our first day in Campulung with our liaison Razvan</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6819\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\"><span>Dinner with Razvan at our hotel</span></p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Our liaison, Razvan, who also acts as our translator, driver, and cultural expert is the production manager here and has been extremely accommodating in making sure we get to see every part of this beautiful country. He grew up here in Campulung and has a deep love for his city and especially for Romania. It’s been non-stop since we arrived- everyday after work we drop our stuff off at the hotel and then go see something new: mountain resorts, WW1 memorials, monasteries, and the pubs in the city to try out the local food.&nbsp;We have tried to pack as much as we possibly can into our first week here, both professionally and culturally, and have no intentions of slowing down.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6808\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\"><span>The WW1 Mausoleum Memorial in Campulung</span></p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6820\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Traveling on a student budget (no we didn't tag this ourselves)&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>When the first week in the office was over, we caught a train to Constanta, the “Ibiza of Eastern Europe” on the Black Sea, to catch the last bit of summer on the beach. We were there for less than 48 hours but managed to pack in some beach time, a visit to a shipwreck that has been there since 1968, probably too many trips to the dessert stands lined along the beach, and spent a night “team-building” in Tineretului-one of the largest clubs on the Black Sea. First thing Sunday morning, we were back on the train for Campulung, ready to start working again Monday morning. YOTO (\"You only TEM once\").</span></p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6809\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">The shipwreck in Costinesti</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6810\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Work hard. Play hard.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>During our second week, of all the interviews we held, the head of marketing left the greatest impression for us. When Cristina Savu was hired on to the marketing department 11 years ago, she walked up to the massive Montana MG building, a building that was once the sole production plant for the Romanian Aro vehicles from 1960-2005. Instead of noticing it’s sheer size (close to 65 thousand square feet), she was drawn to something else: the color of the building. It was a forest green color commonly used for factories during the Soviet era. To her, it symbolized how things used to be. She decided that it needed to be changed. </span></p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6811\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Cristina telling us about her start at Montana</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>After just a few months of working, Cristina decided to go to George Bulugea, the CEO, to propose the change. She showed him pictures from factories in Spain that were all painted in bright colors like red, yellow, and blue. She then showed him some samples of a royal blue and told him that they needed to mix things up at the company and it started with the color. She went on to make the case that this new change would improve the morale of the employees that were used to seeing the green their entire life. To her it symbolized progress, innovation, and a new outlook as a company. Shedding the old ways and moving on to better things.</span></p>\r\n<p><span>Needless to say George was sold on the idea and put in the order for the blue paneling to be installed immediately. The bright blue building can easily be spotted from many parts of the city. It now looks like a modern manufacturing plant and we can tell how pleased Cristina is with the change by the way she is smiling as she recalls this story for us. In fact, she is proud of every aspect of her work here at Montana as she handles many roles from the head of marketing to translator (she speaks 4 languages) and website designer. It’s clear that she carries this “blue” attitude with to ever part of the company. These are the types of people that make an impact for their organization.</span></p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6815\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">The \"big blue building\" as it's known to everyone in town</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6816\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">The view of Montana from the bridge across town</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6823\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Seeing how individual component parts of a die are made</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6824\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Seeing the progress of a die in final assembly</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: 'Team Montana here reporting from our second week in Romania. We were able to meet our client this week, an automotive dies manufacturer called Montana MG, where our project aims to improve their manufacturing process and employee productivity. The town of Campulung where we are located is a small city of 25 thousand people and serves as the gateway to Transylvania County where you will find many of the Romanian tourists destinations like Dracula''s castle and the Transfăgărășan mountain highway, one of the most spectacular roads on the planet. We also learned that Campulung was also the original capital of Romania in the 14th century.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: 46d500db-ea43-423e-ac3a-a8f5bdeaa302
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+      - user.user.58ab1a88-1032-44c0-b417-4c3a4775b973
+    file:
+      - file.image.46d500db-ea43-423e-ac3a-a8f5bdeaa302
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

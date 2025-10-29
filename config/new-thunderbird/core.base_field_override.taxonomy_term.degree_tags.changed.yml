@@ -1,0 +1,18 @@
+uuid: 66542b17-d01c-4fd0-9069-75afb9039a65
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.degree_tags
+id: taxonomy_term.degree_tags.changed
+field_name: changed
+entity_type: taxonomy_term
+bundle: degree_tags
+label: Changed
+description: 'The time that the term was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: fb9af3da-c2ae-4df2-9ff8-2b8cba3601a3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-06-28T22:03:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+title:
+  -
+    value: 'US and China programs make it a ‘great time’ to be in space: Expert'
+created:
+  -
+    value: '2021-06-28T22:03:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-06-28T22:03:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /us-china-programs-great-time-to-be-in-space-expert
+body:
+  -
+    value: '<p>Professor Greg Autry from Thunderbird School of Global Management says the development of U.S. space settlement may be ahead of China’s, but Chinese willingness to move aggressively could shorten that lead time.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-06-28T15:00:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 1918
+    height: 1020
+    target_type: file
+    target_uuid: 20d0ef79-86eb-4c88-9f4d-8f90f9ddfd1b
+field_news_link:
+  -
+    uri: 'https://www.cnbc.com/video/2021/06/27/us-and-china-programs-make-it-a-great-time-to-be-in-space-expert.html'
+    title: 'US and China programs make it a ‘great time’ to be in space: Expert'
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: CNBC
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc
+    file:
+      - file.image.20d0ef79-86eb-4c88-9f4d-8f90f9ddfd1b

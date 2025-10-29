@@ -1,0 +1,19 @@
+uuid: 5bb7bcdd-de74-43a0-82cb-78924941a51a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_name
+    - paragraphs.paragraphs_type.participants
+id: paragraph.participants.field_name
+field_name: field_name
+entity_type: paragraph
+bundle: participants
+label: 'First name'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

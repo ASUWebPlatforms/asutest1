@@ -1,0 +1,145 @@
+uuid: 3b29b88f-aba9-4600-b0d7-f83f86956e18
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.video_gallery
+    - field.storage.block_content.field_anchor_menu_settings
+    - paragraphs.paragraphs_type.anchor_menu_settings
+  module:
+    - entity_reference_revisions
+id: block_content.video_gallery.field_anchor_menu_settings
+field_name: field_anchor_menu_settings
+entity_type: block_content
+bundle: video_gallery
+label: 'Anchor Menu Settings'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      anchor_menu_settings: anchor_menu_settings
+    negate: 0
+    target_bundles_drag_drop:
+      accordion_panel:
+        weight: 46
+        enabled: false
+      anchor_menu_settings:
+        weight: 47
+        enabled: true
+      blockquote:
+        weight: 48
+        enabled: false
+      card:
+        weight: 49
+        enabled: false
+      card_degree:
+        weight: 50
+        enabled: false
+      card_event:
+        weight: 51
+        enabled: false
+      card_group_default:
+        weight: 52
+        enabled: false
+      card_group_degree:
+        weight: 53
+        enabled: false
+      card_group_story:
+        weight: 54
+        enabled: false
+      card_group_with_icon:
+        weight: 55
+        enabled: false
+      card_media:
+        weight: 56
+        enabled: false
+      card_story:
+        weight: 57
+        enabled: false
+      card_with_icon:
+        weight: 58
+        enabled: false
+      class_profile_left_column:
+        weight: 59
+        enabled: false
+      class_profile_right_column:
+        weight: 60
+        enabled: false
+      cta:
+        weight: 61
+        enabled: false
+      download:
+        weight: 62
+        enabled: false
+      flip_card:
+        weight: 63
+        enabled: false
+      gallery_image:
+        weight: 64
+        enabled: false
+      image:
+        weight: 65
+        enabled: false
+      link_list:
+        weight: 66
+        enabled: false
+      ranking:
+        weight: 67
+        enabled: false
+      signpost:
+        weight: 68
+        enabled: false
+      signpost_image:
+        weight: 69
+        enabled: false
+      signpost_less_content:
+        weight: 70
+        enabled: false
+      signpost_quote:
+        weight: 40
+        enabled: false
+      signpost_w_2_images:
+        weight: 71
+        enabled: false
+      signpost_w_icon:
+        weight: 72
+        enabled: false
+      signpost_w_links:
+        weight: 41
+        enabled: false
+      signpost_w_o_image:
+        weight: 73
+        enabled: false
+      signpost_with_modal_links:
+        weight: 74
+        enabled: false
+      tab_content:
+        weight: 42
+        enabled: false
+      tab_content_horizontal:
+        weight: 43
+        enabled: false
+      teaching:
+        weight: 75
+        enabled: false
+      teaching_semester:
+        weight: 76
+        enabled: false
+      testimonial:
+        weight: 44
+        enabled: false
+      thunder_product:
+        weight: 77
+        enabled: false
+      tooltip:
+        weight: 45
+        enabled: false
+      video:
+        weight: 78
+        enabled: false
+field_type: entity_reference_revisions

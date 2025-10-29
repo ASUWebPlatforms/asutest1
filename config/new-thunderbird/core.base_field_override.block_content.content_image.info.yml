@@ -1,0 +1,18 @@
+uuid: 29207eba-a340-4591-be08-0091ae48df6b
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.content_image
+id: block_content.content_image.info
+field_name: info
+entity_type: block_content
+bundle: content_image
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

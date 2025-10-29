@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: f8c78898-5b94-4559-841d-22d798be2e9f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T22:55:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Currency Markets & Parity Conditions'
+created:
+  -
+    value: '2016-07-26T22:55:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T22:55:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/b06-03-0010
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This Note develops the foundations of the ideas underlying much of the theory and practice of International Finance, notably the basic ''parity conditions'' linking exchange rates, interest rates, and inflation rates. Specifically, the note develops the ideas of purchasing power parity, speculative efficiency, uncovered interest parity, and the international Fisher effect, and the links among these from a managerial perspective. It includes a brief discussion of the factors driving exchange rate changes in the medium term, and of the three types of exchange rate exposure that cross-border firms face, namely translation exposure, transaction exposure, and economic exposure.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: B06-03-0010
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: World
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 905910e7-2a53-476e-93cd-af86add83674
+field_teaching:
+  -
+    value: "This note completely self-contained and can be used in a standalone session to introduce the basic ideas driving currency markets. The ideas developed in this Note are necessary for students to understand before they can begin to address topics such as currency risk management, hedging, cross-border valuation, or just about any other topic that potentially involves exchange rates. It can be (and has been successfully) used in the following types of courses: Corporate Finance, International Financial Markets, Multinational Financial Management, International Trade and Finance, and Open Economy Macroeconomics.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.905910e7-2a53-476e-93cd-af86add83674

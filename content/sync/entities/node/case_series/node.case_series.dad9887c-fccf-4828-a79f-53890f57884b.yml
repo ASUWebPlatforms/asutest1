@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: dad9887c-fccf-4828-a79f-53890f57884b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T22:20:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Doing the Right Thing: Bank One''s Response to the Mutual Scandal'
+created:
+  -
+    value: '2016-07-26T22:20:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T22:20:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-04-0030
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case investigates how Bank One responded to the mutual fund crisis of 2003-2004. It examines the communication strategy of Jamie Dimon, Chief Executive Officer of Bank One. His strategy, which consisted of ethical behavior, transparency, cooperation, and open communication, helped the company to reach a settlement with the Security &amp; Exchange Commission and the New York Attorney General''s office.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-04-0030
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8bed5133-6131-4fce-986d-7d2f30371afe
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'New York'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: ed3f6023-bab2-4a5e-a56a-1c54b925845d
+  -
+    target_type: taxonomy_term
+    target_uuid: f9024fea-1a9e-4176-bf08-8192020ebcab
+field_teaching:
+  -
+    value: "To understand how ethical behavior affects a company in time of crisis to study the effect of open and transparent communication on a company during a corporate crisis.\r\n\r\nTo gain insight into the communication strategy employed effectively by Bank One."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.8bed5133-6131-4fce-986d-7d2f30371afe
+      - taxonomy_term.case_series_categories.2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+      - taxonomy_term.case_series_fields.ed3f6023-bab2-4a5e-a56a-1c54b925845d
+      - taxonomy_term.case_series_fields.f9024fea-1a9e-4176-bf08-8192020ebcab

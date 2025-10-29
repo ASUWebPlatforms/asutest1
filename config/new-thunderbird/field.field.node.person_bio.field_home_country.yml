@@ -1,0 +1,29 @@
+uuid: 34c0473f-3a6e-434e-a0d7-207eba6edf38
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_home_country
+    - node.type.person_bio
+    - taxonomy.vocabulary.country
+id: node.person_bio.field_home_country
+field_name: field_home_country
+entity_type: node
+bundle: person_bio
+label: 'Home Country'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      country: country
+    sort:
+      field: name
+      direction: asc
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

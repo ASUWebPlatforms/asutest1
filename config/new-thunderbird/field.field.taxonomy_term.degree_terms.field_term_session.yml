@@ -1,0 +1,21 @@
+uuid: 04ce8c81-e5bc-4a26-8a6e-9ee361e6bbea
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_term_session
+    - taxonomy.vocabulary.degree_terms
+  module:
+    - options
+id: taxonomy_term.degree_terms.field_term_session
+field_name: field_term_session
+entity_type: taxonomy_term
+bundle: degree_terms
+label: Session
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

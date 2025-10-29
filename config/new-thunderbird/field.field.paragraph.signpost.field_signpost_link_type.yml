@@ -1,0 +1,23 @@
+uuid: 669ef608-0540-4680-94d4-5646f63ebaa6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_signpost_link_type
+    - paragraphs.paragraphs_type.signpost
+  module:
+    - options
+id: paragraph.signpost.field_signpost_link_type
+field_name: field_signpost_link_type
+entity_type: paragraph
+bundle: signpost
+label: 'Link Type'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: readMore
+default_value_callback: ''
+settings: {  }
+field_type: list_string

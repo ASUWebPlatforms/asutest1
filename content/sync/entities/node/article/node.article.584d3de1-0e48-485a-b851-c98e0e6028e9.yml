@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 584d3de1-0e48-485a-b851-c98e0e6028e9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-08T18:17:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Celebrating International Women''s Day 2018'
+created:
+  -
+    value: '2018-03-08T17:48:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-08T18:17:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/celebrating-international-womens-day-2018
+body:
+  -
+    value: "<p>[[{\"fid\":\"13674\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"attributes\":{\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<h2><span style=\"color: #000000; font-family: Calibri; font-size: medium;\"></span><span style=\"color: #000000; font-family: Calibri; font-size: medium;\">Today we are celebrating International Womens Day!</span></h2>\r\n<p><span style=\"color: #000000; font-family: Calibri; font-size: medium;\">Thunderbird is proud to continue its support and help create future leaders and businesswomen in roles, organizations, and communities across the world.&nbsp;</span><span style=\"color: #000000; font-family: Calibri; font-size: medium;\">International business has been shaped by women throughout history and will continue to grow from hard work of present and future leaders!&nbsp;</span></p>\r\n<p><span style=\"color: #000000; font-family: Calibri; font-size: medium;\"><a href=\"https://thunderbird.asu.edu/global-impact/thunderbird-for-good-programs\">Thunderbid For Good </a>is a program that began with women in emerging markets and has spread, now helping men and women to create jobs, knowledge and improve living conditions.</span></p>\r\n<h6><span style=\"color: #000000; font-family: Calibri; font-size: medium;\">It changes lives and in so doing, changes the world – for good.</span></h6>"
+    format: basic_html
+    processed: ''
+    summary: "Today we are celebrating International Womens Day!\r\nThunderbird is proud to continue its support and help create future leaders and businesswomen in roles, organizations, and communities across the world."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 330
+    height: 180
+    target_type: file
+    target_uuid: 4c1d6997-3aac-4f1b-833d-7dfa0ad1085d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b08d5919-cc6b-4ba9-b8e0-c87cc431314a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.4c1d6997-3aac-4f1b-833d-7dfa0ad1085d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b08d5919-cc6b-4ba9-b8e0-c87cc431314a

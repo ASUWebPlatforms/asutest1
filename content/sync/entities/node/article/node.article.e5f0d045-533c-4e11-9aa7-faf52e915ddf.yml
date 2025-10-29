@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: e5f0d045-533c-4e11-9aa7-faf52e915ddf
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-01T20:50:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'Chapter Connections'
+created:
+  -
+    value: '2016-11-01T16:42:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-01T20:50:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/chapter-connections-2016
+body:
+  -
+    value: "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>GUADALAJARA</strong></span></p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4052\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Chapter connections\",\"field_file_image_title_text[und][0][value]\":\"Alumni Chapter connections\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Alumni Chapter connections\",\"title\":\"Alumni Chapter connections\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p style=\"text-align: center;\">&nbsp;L-R in the photo: Vicky Rios ’99, Carlos Lerma ’14, Chelsea Olson ’13 Executive Director Office of the Director General/CEO at Thunderbird and, seated, Chapter Leader Roger Lenero ’14.</p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Berlin</strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>[[{\"fid\":\"4043\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Chapter connections\",\"field_file_image_title_text[und][0][value]\":\"Alumni Chapter connections\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Alumni Chapter connections\",\"title\":\"Alumni Chapter connections\",\"height\":\"250\",\"width\":\"425\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\">The chapter held its 1st Annual Berlin T-Bird BBQ in July. Attendees included Dominik Hess ’01, Roland Quast ’02, Jarek Budny ’01, Cynthia Gloger ’92, Alexander Gloger ’92, Jay Boynton ’98, Sean Padfield ’14, Tracy Prentiss ’98 and spouses. The chapter would like to extend a big “thank you” to host, Roland. The chapter is going strong and more <span>people are making it out to First Tuesdays</span>.</p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>STAMFORD</strong></span></p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4044\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Chapter connections\",\"field_file_image_title_text[und][0][value]\":\"Alumni Chapter connections\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Alumni Chapter connections\",\"title\":\"Alumni Chapter connections\",\"height\":\"278\",\"width\":\"458\",\"style\":\"background-color: transparent;\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p style=\"text-align: center;\">The chapter held a great T-bird potluck BBQ at the home of Jarl and Kelly Anerud ’82 – complete with a 70th Thunderbird anniversary celebration cake! T-birds from the class of 1973 to 2014 gathered for a great evening</p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>HONG KONG</strong></span></p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4047\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Chapter connections\",\"field_file_image_title_text[und][0][value]\":\"Alumni Chapter connections\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Alumni Chapter connections\",\"title\":\"Alumni Chapter connections\",\"height\":\"223\",\"width\":\"466\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p style=\"text-align: center;\">The chapter held a farewell dinner on July 29 for Rahul Warikoo, who will be joining the incoming EMGM class. L-R: Michael Bendy ’99, Mark Ma , Michael Zhou ’02, Rahul Warikoo, Indra Warikoo, Marshall Gabin ’80, Linda Suen ’00, Chapter Leaders Kevin Rohrer ’82 and Viola Luo ’12, Cindy Zhou and Tyler McElhaney ’12.</p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>MILWAUKEE</strong></span></p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4048\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Chapter connections\",\"field_file_image_title_text[und][0][value]\":\"Alumni Chapter connections\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Alumni Chapter connections\",\"title\":\"Alumni Chapter connections\",\"height\":\"280\",\"width\":\"466\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p style=\"text-align: center;\">Top Left to Right: Catherine DeschampsPotter, friend of T-birds; T-birds Terry Brown ’90, Ken Wasylik ’83, Saumil Mehta ’16 and Michael Oemichen ’85; Skippers Bob and Barry. Bottom Left to Right: Kristy Casey, friend; Greg Olson ’88, T-bird; Alexandra Sielaff ’89, Chapter Leader; Calilxta Munene ’15, T-bird; Dee Wasylik, spouse; Jodi Schneider ’15, T-bird; Jill Oemichen, spouse.</p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>SEOUL</strong></span></p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4049\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Chapter connections\",\"field_file_image_title_text[und][0][value]\":\"Alumni Chapter connections\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Alumni Chapter connections\",\"title\":\"Alumni Chapter connections\",\"height\":\"287\",\"width\":\"471\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p style=\"text-align: center;\">T-birds gathered on the rooftop of High Street Market in the Itaewon district in Seoul. High Street Market is owned by T-bird Kip Richardson ’89 and he and his team provided cold beer, great food and a wonderful venue for alumni to celebrate the birth of the first child of T-bird Eric Thorpe ’92. Carmen Thorpe was born on August 31. Photo courtesy of T-bird Anuj Madan, who came up from Busan for the event.</p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>DALLAS</strong></span></p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4050\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Chapter connections\",\"field_file_image_title_text[und][0][value]\":\"Alumni Chapter connections\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Alumni Chapter connections\",\"title\":\"Alumni Chapter connections\",\"height\":\"206\",\"width\":\"490\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p style=\"text-align: center;\">On September 17, a group of Dallas alumni, who were unable to attend the Mallorca reunion, got together to celebrate virtually.</p>\r\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline; font-size: 24px;\"><strong>PARIS</strong></span></p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4051\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Chapter connections\",\"field_file_image_title_text[und][0][value]\":\"Alumni Chapter connections\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Alumni Chapter connections\",\"title\":\"Alumni Chapter connections\",\"height\":\"175\",\"width\":\"486\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p style=\"text-align: center;\">In July, the chapter had a great gathering in the Péniche by the Seine with guests from Northwestern. It was a truly Parisian experience!</p>\r\n<p style=\"text-align: center;\">&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 379
+    height: 254
+    target_type: file
+    target_uuid: d7b966fc-f2fd-46e6-826c-c6925ef5afab
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.d7b966fc-f2fd-46e6-826c-c6925ef5afab
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

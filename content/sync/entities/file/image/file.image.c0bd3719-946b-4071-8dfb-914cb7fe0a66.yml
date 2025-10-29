@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: c0bd3719-946b-4071-8dfb-914cb7fe0a66
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+filename:
+  -
+    value: dean-720.jpg
+uri:
+  -
+    value: 'public://dean-720.jpg'
+    url: /sites/default/files/dean-720.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 108757
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-10-30T19:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-10-30T19:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6

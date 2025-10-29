@@ -1,0 +1,20 @@
+uuid: 0469ba31-8415-4ffd-84ed-f4e54450d855
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.partnership_area
+  module:
+    - text
+id: taxonomy_term.partnership_area.description
+field_name: description
+entity_type: taxonomy_term
+bundle: partnership_area
+label: Description
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

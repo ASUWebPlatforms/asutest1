@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 984ada3b-4af4-4e5d-b43b-a9bb9954da9d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:19:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Peace Revolution made me a Peace Agent'
+created:
+  -
+    value: '2016-06-21T19:32:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:19:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/peace-revolution-peace-agent
+body:
+  -
+    value: "<p>Peace Revolution is a global program that strives to bring peace to the world by supporting individuals who want to find peace within: “World Peace through Inner Peace.” Peace Revolution believes that sustainable world peace can happen when individuals first experience inner peace. They also believe that today’s young adults have the energy and ability to generate a transformation in the world that will lead to world peace. Peace Revolution has, therefore, created an interactive, internet-based self-development program that will help people understand themselves more fully. I have completed this 42-day self-development program within the last year and I had some peace coaches, who were in touch with me daily and whose experience I used in order to build my knowledge about inner peace and sustainable world peace. In working together harmoniously with people from around the world and helping them find their own inner peace, the Peace Revolution team believes we can achieve success in initiating a sustainable world peace.</p>\r\n<p>[[{\"fid\":\"2919\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Peace Revolution\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Peace Revolution\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><br>The overall objective of Peace Revolution is to facilitate positive transformation in young people’s personal and moral development as well as to implement the universality of inner peace in a culturally diverse world. In combining the inner peace experienced in meditation with outer peace activities, sustainable peace can spread from the individual to communities, countries, and the world.</p>\r\n<p>After completing the online program we were invited to join the fellowship and attend a Meditation Retreat and Peace Conference. I had the honor of joining the 2015 Peace on the Movie XIII Fellowship in the beautiful island of Yao Noi in Thailand. The meditation retreat provided us with an opportunity to experience a deepening of our inner peace, particularly by interacting with very experienced meditators and monks who provided us with individual support and advice about their meditation practice.</p>\r\n<p>We also had the opportunity to engage in fun networking activities such as yoga and bubble blowing to get to know each other better.</p>\r\n<p>At the conference, we also had the opportunity to participate in interactive workshops with other Peace Rebels, to network and to develop ideas for future peace activities. Previous workshop topics have included:&nbsp;</p>\r\n<p>[[{\"fid\":\"2920\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Peace Revolution\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Peace Revolution\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><br>• The Science of the Mind&nbsp;<br>• How to incorporate IPT into your professional life&nbsp;<br>• Inner Peace and Human Security&nbsp;<br>• Meditation and Mediation&nbsp;<br>• Designing the Culture of Peace&nbsp;<br>• Community-based peace projects&nbsp;<br>• Promoting peace campaigns through Media and IT</p>\r\n<p>The Rebel Hub is an online networking platform that allows us to communicate news and share ideas regarding our current and future projects. We can also interact with each other in an online forum or “Peace Wall”, and share our meditation experiences and questions.</p>\r\n<p>The most important goal that I found in this program was inner peace. Meditation is key to achieve this, and I will try my best to make it popular among my people in order to allow them to experience inner peace. While they reach this step they can easily spread it in their surrounding environment.</p>\r\n<p>Here is a short video about my experience:&nbsp;</p>\r\n<p><a href=\"https://youtu.be/kV4G8HSXfTE\" target=\"_blank\"><img src=\"http://t4g.thunderbird.edu/sites/default/files/styles/square_thumbnail/public/media-youtube/kV4G8HSXfTE.jpg\" alt=\"Global Peace on the Move XIII\" width=\"180\" height=\"180\"></a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

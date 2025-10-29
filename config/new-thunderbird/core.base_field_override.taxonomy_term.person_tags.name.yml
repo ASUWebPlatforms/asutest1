@@ -1,0 +1,18 @@
+uuid: 1b8a4b02-00d5-46f9-909b-2c7c574f8b8b
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.person_tags
+id: taxonomy_term.person_tags.name
+field_name: name
+entity_type: taxonomy_term
+bundle: person_tags
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

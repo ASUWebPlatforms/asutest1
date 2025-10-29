@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: adc7c6d3-ade0-462d-a10e-5271b74c3944
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-06T18:28:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'Launching Dubai'
+created:
+  -
+    value: '2016-11-01T18:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-06T18:28:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/launching-dubai
+body:
+  -
+    value: |-
+      <p><strong>Step One in Thunderbird’s Global Hub Strategy</strong></p>
+      <p>The DNA that connects all T-birds the world over includes a passion for diversity, entrepreneurial spirit, intercultural empathy and global business savvy; in other words, a global mindset. These qualities describe perfectly the strategic thinking behind the establishment of Thunderbird’s new business hub in Dubai, UAE. The Middle East is a dynamic region replete with business opportunities, political and social diversity and multi-cultural complexities. Thunderbird understands and appreciates this because of our long history of business and cultural fusion, capacity building, economic and leadership development, globally and in the Middle East. Aware and respectful of the Middle East region’s importance, and of their efforts to stand at the leading edge of global economic and strategic leadership, Thunderbird targeted this region as an important place to establish a physical presence to complement and strengthen our already substantial intellectual presence. The next step was determining where, exactly, to land.</p>
+      <p><strong>WHY DUBAI?</strong></p>
+      <p>Thunderbird’s footprint in the Middle East goes back nearly eight years and along the way has resulted in countless corporate engagements, university collaborations and ties to the business community through our&nbsp;alumni chapters. In addition, infrastructure capabilities and strategic location made Dubai an obvious choice to launch the first of several planned Thunderbird Regional Hubs. Dubai has emerged as a leading regional commercial hub in the last decade. It combines a business-friendly environment with world-class infrastructure, and its increasingly robust trade, travel, business and investments tie it not only to the rest of the Arab world but also to much of Africa, South Asia and other parts of Asia. Moreover, it has excellent logistics, warehousing, transportation facilities, and telecommunication networks and offers a high-quality lifestyle that welcomes nationalities from across the globe. Dubai has become a significant business and human capital development destination that aligns extremely well with Thunderbird’s global profile. Strategically located at a junction between Europe, Africa, and the Far East, our Dubai Hub presents itself as a structured springboard to support Thunderbird clients and programs from a unique centralized time zone that combines east and west business hours and cultural practices.</p>
+      <p style="text-align: center;">[[{"fid":"4026","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Thunderbird: Launching Dubai","field_file_image_title_text[und][0][value]":"Thunderbird: Launching Dubai"},"type":"media","attributes":{"alt":"Thunderbird: Launching Dubai","title":"Thunderbird: Launching Dubai","height":"412","width":"614","class":"panopoly-image-original media-element file-default"}}]]</p>
+      <p style="text-align: center;"><strong>Until the office opened, Ahmed Ali and Rita Coelho ran the business from local coffee shops.</strong></p>
+      <div class="blue-header-block-wrapper">
+      <div class="blue-header-block-inner-wrapper">
+      <p style="text-align: center;"><strong>Aligning Global Marketing &amp; Brand Strategy</strong><br><strong>March 3-8, 2018 | Tempe, AZ</strong></p>
+      <p style="text-align: center;"><a class="btn btn-primary" href="https://thunderbird.asu.edu/executive-education/programs/aligning-global-marketing-brand-strategy?sd=KNdubai">Learn More</a></p>
+      </div>
+      </div>
+      <p class="wysiwyg-break">&nbsp;</p>
+      <p style="text-align: left;"><strong>MAKING LEMON MINT OUT OF LEMONS</strong></p>
+      <p style="text-align: left;">As with most new ventures, this has been a challenging and exciting process and we are especially proud to be Thunderbird’s representatives on the ground. Setting up a company in the UAE, especially one owned by a foreign entity, can be quite time-intensive until all legal requirements are met. Despite finding the perfect location in a section of Dubai called Media City, the complexities of navigating the setup process from half a world away – Dubai and Arizona are separated by more than 8,000 miles – led to an extended setup timeline. This, in turn, convinced us to look for an alternative temporary workspace so that we could work together as efficiently as possible. We ended up touring and auditioning several coffee shops in Dubai; our selection parameters were based on quietness, Wi-Fi availability and, of course, last but not least, quality of coffee, food and Lemon Mint Juice! (Believe us, you haven’t lived until you’ve tried a Lemon Mint beverage).</p>
+      <p style="text-align: center;">[[{"fid":"4027","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Thunderbird: Launching Dubai","field_file_image_title_text[und][0][value]":"Thunderbird: Launching Dubai"},"type":"media","attributes":{"alt":"Thunderbird: Launching Dubai","title":"Thunderbird: Launching Dubai","height":"458","width":"505","class":"panopoly-image-original media-element file-default"}}]]</p>
+      <p style="text-align: left;"><strong>THUNDERBIRD’S COMMITMENT TO THE DUBAI HUB</strong></p>
+      <p style="text-align: justify;">Historically, Thunderbird Executive Education’s business in the Middle East has primarily focused on talent and leadership development in the oil and gas industry. While we will continue to develop capabilities and competencies in this industry, our new physical presence will allow us to better support broader business development efforts including: partnering with governments in the region to support their workforce development and nationalization efforts; designing programs for companies that want to expand their employees’ global management capabilities; and offering global leadership programs tailored to the learning styles and cultural nuances of the Middle East. We were fortunate to be able to share this new concept of a commute team by working with some of our colleagues visiting from Geneva and Glendale. Although the Coffee Office has been quite enjoyable, we are very much looking forward to moving into our Media City office in the near future – permanent office space will make things more efficient for us and will send a message to the marketplace that Thunderbird’s commitment to a presence in Dubai is solid.</p>
+      <p style="text-align: left;">We expect to introduce Thunderbird’s Dubai office to our MENA Alumni before the year’s end, so stay tuned for further developments. We promise that you will all feel comfortable and proud of our school’s new Regional Hub. Shukran (thank you, in Arabic) and see you soon in Dubai</p>
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Launching Dubai'
+    title: 'Launching Dubai'
+    width: 815
+    height: 591
+    target_type: file
+    target_uuid: c8adcad2-2281-4b12-a883-32a6911a8604
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.c8adcad2-2281-4b12-a883-32a6911a8604
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

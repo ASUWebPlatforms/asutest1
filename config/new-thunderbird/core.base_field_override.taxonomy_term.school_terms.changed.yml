@@ -1,0 +1,18 @@
+uuid: 33bc217b-0d8f-43b0-b36e-2e8ac0414c84
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.school_terms
+id: taxonomy_term.school_terms.changed
+field_name: changed
+entity_type: taxonomy_term
+bundle: school_terms
+label: Changed
+description: 'The time that the term was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

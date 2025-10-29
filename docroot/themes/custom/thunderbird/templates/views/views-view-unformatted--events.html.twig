@@ -1,0 +1,14 @@
+{#
+/**
+ * @file
+ * Theme implementation to display a view of unformatted rows for Events view.
+ *
+ * @ingroup themeable
+ */
+#}
+{% if title %}
+  <h3>{{ title }}</h3>
+{% endif %}
+{% for row in rows %}
+  {{- row.content -}}
+{% endfor %}

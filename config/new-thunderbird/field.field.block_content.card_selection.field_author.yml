@@ -1,0 +1,29 @@
+uuid: 51f0221c-347e-4bfb-a908-8398cd3cd19e
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - field.storage.block_content.field_author
+    - node.type.person_bio
+id: block_content.card_selection.field_author
+field_name: field_author
+entity_type: block_content
+bundle: card_selection
+label: Faculty
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      person_bio: person_bio
+    sort:
+      field: title
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

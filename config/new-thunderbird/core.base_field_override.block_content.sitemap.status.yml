@@ -1,0 +1,22 @@
+uuid: dec0a1bc-9f14-4c72-97b3-5b3fdb99f966
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.sitemap
+id: block_content.sitemap.status
+field_name: status
+entity_type: block_content
+bundle: sitemap
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

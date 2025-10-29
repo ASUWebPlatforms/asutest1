@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 812b06c2-8cab-4b96-a30a-86c221f0476d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: key_to_continued_success_for_women_lifelong_learning_builds_the_skills_to_lead.jpg
+uri:
+  -
+    value: 'public://article/key_to_continued_success_for_women_lifelong_learning_builds_the_skills_to_lead.jpg'
+    url: /sites/default/files/article/key_to_continued_success_for_women_lifelong_learning_builds_the_skills_to_lead.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 514088
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-27T22:52:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-27T22:52:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

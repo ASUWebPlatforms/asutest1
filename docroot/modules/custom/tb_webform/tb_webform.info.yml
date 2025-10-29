@@ -1,0 +1,8 @@
+name: Thunderbird Webform
+type: module
+description: Customize webforms.
+package: Thunderbird
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - webform

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 5ad88652-5b27-4c83-a72e-549ff535b6f8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Food: An Interesting Adventure'
+created:
+  -
+    value: '2014-11-19T10:22:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/food-interesting-adventure
+body:
+  -
+    value: "<div><img src=\"/sites/default/files/train_track_dining.jpg\" width=\"300\" height=\"225\" class=\"undefined\" hspace=\"10\" vspace=\"10\">Everyone in the team loves Thai food, but it might be safe to say that we have found it harder to get the kind of Thai food we generally like here than back home. This could be simply a symptom of overdose - that’s to say in the US we would view Thai food less favorably if we ate it 3 meals a day everyday as we do here, and always had to order it through either Hudson or through a very complex transmission of hand gestures.</div>\r\n<div>The food here isn't bad… quite the contrary in fact; we’ve had some of the most amazing Thai food we’ve ever had since arriving here<img src=\"/sites/default/files/prawn_chips.jpg\" width=\"200\" height=\"267\" class=\"undefined\" hspace=\"10\" vspace=\"10\"> (as to be expected), but eating in general is a whole different experience, certainly in the area of rural Thailand in which we are staying. Let’s start by saying that in order to love Thai food in rural Thailand one must love seafood. A lot. Enough to have it for breakfast every morning, and then again in every subsequent meal. Even the potato chips and snacks sold in corner stores are at least 90% prawn flavored. Let’s continue this extrapolation by saying that in order to love Thai food in rural Thailand one must love the street food dining experience enough to participate in it at least once or twice a day. And one must love the marriage of these two ways of eating together (sometimes even on train tracks).</div>\r\n<div><img src=\"/sites/default/files/fish_sauce.jpg\" width=\"200\" height=\"267\" class=\"undefined\" hspace=\"10\" vspace=\"10\"></div>\r\n<div>Our day starts with a meal on our porch - prepared by our innkeepers - that consists of noodles or rice with shrimp, a rice-fish soup, an ambiguous array of condiments, and a game we’ve lovingly called “fish sauce or maple syrup?” (hint: it’s never been maple syrup). We are also given a box of white bread and a toaster; it’s been funny to watch how each day there seems to be more and more bread eaten. Most of our meals afterwards, even those that are ordered with chicken or pork, are served to us from a cart and have at least one kind of seafood in it, more so than they do chicken or pork.</div>\r\n<div>This isn’t all bad. One great thing you can say about the food is that it is cheap. A delicious helping of pad thai or vermicelli noodle soup on the street is usually around 30 baht (~ $0.92), although we’ve eaten at stands on the side of the highway for half that. And although most of the street food we’ve had is good, despite the fact that sometimes you don’t get exactly what you want, there are mealtimes when we are just really in the mood to sit down, order from a menu, and be waited on. Last night was one of those nights. Restaurants of this caliber (or what we we would typically just refer to as “restaurants”) are few and far between out here, but last night we succeeded in finding one - a nice patio overlooking the Mae Klong river belonging to a resort that was nested in a secluded part of the wilderness. Here we enjoyed a great meal comprised of several entrées shared family-style that came to $3-5 per person, depending on what you had to drink.&nbsp;</div>\r\n<div><img src=\"/sites/default/files/triple_tea_bag.jpg\" width=\"200\" height=\"267\" class=\"undefined\" hspace=\"10\" vspace=\"10\"></div>\r\n<div>Beverages are also a funny thing here, particularly when purchased on the street. I say this mostly because when you buy, say, a soda on the street, it typically comes in a glass bottle from the fridge of some vendor. However, bottles are reused here so the vendor typically isn’t going to let you walk off with it, but they also typically don’t have cups. So if you want your soda “to go” they will fill a little plastic handle bag of with ice, pour the soda in it, and stick a straw in it, then hand it to you. Drinking anything from a small grocery bag is a fun experience, except if you ever want to set it down. Yesterday we all bought Thai Ice Tea from a little vendor on the street. After making the concoction from scratch and pouring it over ice, she poured the whole thing into a little plastic bag and tied it off on the top. She then stuck that bag into a paper bag, which she then put into a plastic handle bag, and then used a straw to stab through the initial, tied bag to be drank like a out of a juice pouch. We were very perplexed by this “triple teabag” until we realized that outermost plastic bag made the drink conveniently portable, and the middle paper bag with it’s square shape made it possible to set down, the liquid contained all the while in the tied inner bag.</div>\r\n<div>The team really likes Thai food, and we tend to have content bellies most of the time. However, a day isn’t complete without one of us inadvertently starting a conversation about salads, carne asada tacos, or burgers...</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

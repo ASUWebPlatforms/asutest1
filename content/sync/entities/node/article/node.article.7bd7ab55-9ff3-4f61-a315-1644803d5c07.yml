@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 7bd7ab55-9ff3-4f61-a315-1644803d5c07
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Thunderbird Alums Work Together to Support Afghan Women'
+created:
+  -
+    value: '2018-02-28T16:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-alums-work-together-support-afghan-women
+body:
+  -
+    value: "<p>With International Women’s Day quickly approaching on March 8th, it is an important time to recognize Project Artemis, a program of Thunderbird for Good that has positively impacted one of the most vulnerable groups in the world, Afghan women, since 2005.</p>\r\n<p>With the support of alumni and friends of Thunderbird, 86 Afghan women have graduated from Project Artemis, which has created 3,000 jobs and helped another 15,000 Afghans receive vital business training.&nbsp; Afghan women entrepreneurs have invested more than&nbsp;$66&nbsp;million&nbsp;in the Afghan economy, and created more than 47,000 jobs. In business and virtually every other sector, from architecture to journalism to law —&nbsp;even the military and police —&nbsp;Afghan women are drivers of education, growth&nbsp;and self-reliance. However, as noted in a recent <a href=\"https://www.usatoday.com/story/opinion/2017/11/01/afghan-women-have-persevered-and-progressed-but-threes-more-done-laura-bush-he-rule-ghani/819452001/\">USA Today article</a>, more than 680 women-owned businesses in Afghanistan still need&nbsp;mentoring and the transfer of knowledge. It is the most efficient and effective way to help Afghan women grow their businesses with local ingenuity, resources and talent.</p>\r\n<p>[[{\"fid\":\"13237\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Project Artemis - Afghanistan\",\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Project Artemis - Afghanistan\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Project Artemis - Afghanistan\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Project Artemis relies solely on donations and private support to make it possible for Afghan women entrepreneurs to harness the business and management skills that will transform their lives and their local economies bringing much needed stability to a country ravaged by decades of war.&nbsp; With the help of Susan Aumack ’88 and Sanjyot Dunung ’87 who have volunteered as co-chairs and committee members, Pam Barit Nolan ‘87 and Dana Van Reeth ‘87, the School is launching a fundraising campaign to support another program for 2019. The School looks to replicate its 2015 program that took place in India after they were unsuccessful in obtaining visas for the Afghan women to the U.S. With the help of alums in India, the program was hugely successful; as it happens, the relocation had very practical applications as the Indian market became a natural export for many of our women.</p>\r\n<p>If you are interested in becoming involved with Project Artemis or supporting the cause, please visit this site or email artemis.tbird@asu.edu. Thank you for standing with us and the Afghan women business leaders of tomorrow!</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Thunderbird Alumni support Project Artemis'
+    title: null
+    width: 489
+    height: 367
+    target_type: file
+    target_uuid: e6e538df-abd6-46cd-8b9e-91d72afae4db
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.e6e538df-abd6-46cd-8b9e-91d72afae4db
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

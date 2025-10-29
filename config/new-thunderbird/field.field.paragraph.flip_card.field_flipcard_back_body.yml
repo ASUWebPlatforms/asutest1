@@ -1,0 +1,26 @@
+uuid: fa11b884-86a9-4208-b4a4-089aa7442a47
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_flipcard_back_body
+    - paragraphs.paragraphs_type.flip_card
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - restricted_html
+id: paragraph.flip_card.field_flipcard_back_body
+field_name: field_flipcard_back_body
+entity_type: paragraph
+bundle: flip_card
+label: 'Back Body'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

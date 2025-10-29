@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: ee851319-6b2c-4851-927b-f109effcd05a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-18T18:13:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'Relationships Make the Difference '
+created:
+  -
+    value: '2018-09-13T17:40:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-18T18:13:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/relationships-make-difference
+body:
+  -
+    value: "<p>TEM Lab, Fall 2018<br>Chile, <a href=\"http://www.technoserve.org/our-work/where-we-work/country/chile\" target=\"_blank\">Technoserve</a><br>Written by Emitt Bryant</p>\r\n<p>“Slow down and make building relationships as important as building projects.” --Greg Mortenson</p>\r\n<p>As T-birds, we love to explore and meet new people. Not only do we enjoy forming and building relationships, but it is healthy and helpful in achieving business outcomes. Building relationships has been both an enjoyable and important part of our project in Chile.</p>\r\n<p>We have been working closely with our contact at <a href=\"http://www.technoserve.org/our-work/where-we-work/country/chile\">TechnoServe</a>, Andrea Bettosini. Together we have faced many a stressful moment having spent hours in meetings hammering out details and fine-tuning the project. Combating stress and overcoming cultural differences are why it is just as important to take the time to share a meal together and get to know one another in a different context.</p>\r\n<p>We had the pleasure of doing so last night. Tucked upstairs at a restaurant in Santiago’s Bellavista neighborhood, we had dinner with Andrea. Over plates of grilled octopus, a chorillana, and perhaps a glass of Chile’s signature red wine, Carménère, we discussed the linguistic similarities of Arabic and Spanish, recounted past adventures, and laughed. With five nations represented (Mexico, US, Chile, Egypt and Uruguay) the gathering had all the makings of a T-bird event. Most importantly, it let us bond in a way that the boardroom never could, so that the next time we enter the boardroom together, we will have a stronger foundation to build on.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"64932\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"}},\"attributes\":{\"alt\":\"TEM Lab in Chile\",\"title\":\"TEM Lab in Chile\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">T-TEAM and Andrea share a beautiful meal</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"64933\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"}},\"attributes\":{\"alt\":\"TEM Lab in Chile\",\"title\":\"TEM Lab in Chile\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Nothing says bonding like a chorillana</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Not only have we formed relationships with our client but with alumni and staff. Ignacio Sanchez '16 and his wife Suzanne, for example, have been instrumental in sending us off to Chile well prepared. Ignacio is Chilean with close ties to the country and Suzanne is a recruiter for Thunderbird's <a href=\"/node/226\">executive degree programs</a>. Before leaving Phoenix, we had dinner with this amazing Thundercouple. They loaded us up with advice and insight about the country that they cherish so much. Since then, they have been a line of support. We were able to return the favor by attending an MBA recruiting event in Santiago. Suzanne was there representing Thunderbird. It was a pleasure to join her and share our passion for Thunderbird with the next generation of T-birds.&nbsp; &nbsp; &nbsp;&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"64934\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"}},\"attributes\":{\"alt\":\"TEM Lab in Chile\",\"title\":\"TEM Lab in Chile\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]\r\n<p class=\"caption-text\">Emitt and Ashely join Suzanne at the QS MBA Fair in Santiago</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Heading into the final weeks of our time in Chile, we look forward to strengthening these relationships and creating more. After all, great results come from great relationships.&nbsp;&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1600
+    height: 777
+    target_type: file
+    target_uuid: ee83cf72-3cf2-4970-8d24-d641583a5a28
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    file:
+      - file.image.ee83cf72-3cf2-4970-8d24-d641583a5a28
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

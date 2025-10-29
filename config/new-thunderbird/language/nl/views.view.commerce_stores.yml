@@ -1,0 +1,47 @@
+label: Winkels
+display:
+  default:
+    display_title: Master
+    display_options:
+      title: Winkels
+      fields:
+        commerce_store_bulk_form:
+          action_title: 'Met selectie'
+        is_default:
+          label: Standaard
+          separator: ', '
+        name:
+          label: Naam
+          separator: ', '
+        changed:
+          label: Bijgewerkt
+          separator: ', '
+        type:
+          label: Type
+          separator: ', '
+        operations:
+          label: Bewerkingen
+      pager:
+        options:
+          tags:
+            next: 'volgende ›'
+            previous: '‹ vorige'
+            first: '« eerste'
+            last: 'laatste »'
+          expose:
+            items_per_page_label: 'Items per pagina'
+            items_per_page_options_all_label: '- Alle -'
+            offset_label: Offset
+      exposed_form:
+        options:
+          submit_button: Toepassen
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sorteren op'
+          sort_asc_label: Oplopend
+          sort_desc_label: Aflopend
+      filters:
+        type:
+          expose:
+            label: Type
+  page_1:
+    display_title: Pagina

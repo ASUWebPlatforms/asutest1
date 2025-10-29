@@ -1,0 +1,14 @@
+uuid: fd7a6d12-e5d7-47a2-b435-ca55d3baa558
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.gdmi_purchaser
+  module:
+    - user
+id: user_add_role_action.gdmi_purchaser
+label: 'Add the GDMI purchaser role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: gdmi_purchaser

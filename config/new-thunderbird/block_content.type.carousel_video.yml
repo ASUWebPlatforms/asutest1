@@ -1,0 +1,8 @@
+uuid: a1b462da-c60d-454f-ac9a-42c0ffc1dcb8
+langcode: en
+status: true
+dependencies: {  }
+id: carousel_video
+label: 'Video Carousel'
+revision: 0
+description: ''

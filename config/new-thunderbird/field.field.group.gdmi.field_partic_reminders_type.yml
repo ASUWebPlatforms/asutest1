@@ -1,0 +1,23 @@
+uuid: b53e8828-80f8-42ac-8045-510ef37748ff
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.group.field_partic_reminders_type
+    - group.type.gdmi
+  module:
+    - options
+id: group.gdmi.field_partic_reminders_type
+field_name: field_partic_reminders_type
+entity_type: group
+bundle: gdmi
+label: 'Participants Reminder Type'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: default
+default_value_callback: ''
+settings: {  }
+field_type: list_string

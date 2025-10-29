@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 3538ee4b-f869-4053-89e1-f85b4b1adc02
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:27:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Should You Go Global?'
+created:
+  -
+    value: '2017-12-05T02:18:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:27:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/should-you-go-global
+body:
+  -
+    value: "<p class=\"dek\"><em><strong>By Robert Courtney '88, as originally <a href=\"https://www.business.com/articles/should-you-go-global/\" target=\"_blank\">published on business.com</a><br></strong></em></p>\r\n<p>Expanding internationally in today's globally interconnected world is far easier than it used to be, but it's not a fit for every organization. There are many obvious things to consider (market analysis, regulatory issues) and many obscure considerations (the political climate of the new country) to keep in mind. But planned correctly, your business can find international success.</p>\r\n<p>Here are some of the challenges and questions your company and its leadership should prepare for before going global.</p>\r\n<h4>Pick your markets carefully.&nbsp;</h4>\r\n<p>If you are newer to the global game, look for markets that are similar to yours. Those that differ least from the U.S. will be the easiest to export to and do business with. Prioritize lower trade barriers, proximity, currency and cultural similarities. Canada ticks many of these boxes. Beyond that, the complexities start to increase. A more experienced company can tackle markets that are higher on the degree of difficulty curve as that curve bends upward from \"developed\" to \"developing\" to \"emerging\" to \"frontier\" markets.&nbsp;</p>\r\n<h4>Look before you leap.&nbsp;</h4>\r\n<p>Do careful market and regulatory due diligence to answer these questions:</p>\r\n<ul>\r\n<li>Will your product sell to local customers? Investing in focus groups and a market segment analysis will narrow the risk of getting it wrong.</li>\r\n<li>Is your product price-competitive? Look not only at locally produced competition but at imports from China and elsewhere.</li>\r\n<li>Do you have brand recognition or must you build it? If brand recognition is important to your product's sales, it will take money and time to build it, and that should be factored into your cost budget and sales growth forecasts.</li>\r\n<li>Are the regulatory hurdles manageable? Ensure that you comply with applicable government- and industry-specific regulations, and get the necessary approvals, certifications, and licenses. Some level of localization should be expected, to include labeling and language adaptation for your brand, packaging, and advertising.</li>\r\n<li>Are your tax and banking affairs in order? Planning a tax-efficient structure and local operation includes complying with local tax codes and applicable double-tax treaties with the U.S. and any intermediate overseas entities that are part of a tax-optimized structure. Be aware that many foreign banks are reluctant to deal with many U.S.-owned or -connected companies because of the high cost of complying with U.S.-dictated reporting rules (e.g., FATCA). In any case, the know-your-client rules can mean months to open an account.</li>\r\n</ul>\r\n<h4>Before you go too far, take a look in the mirror.&nbsp;</h4>\r\n<p>Is your organization ready?</p>\r\n<ul>\r\n<li>Is the company ready to adapt to the cultural differences in a new country environment? Legal, commercial, and HR policies and procedures should be adapted for differences in language, business practices, social customs, and regulations.</li>\r\n<li>Does the company have the communication skills required for a company competing in a globally interconnected economy? The world’s move from an industrial to digital era means it is easier now for smaller companies to become multinational. It also means a different way of communicating, a different way of giving signals and a different way of meeting with a remotely dispersed team. While a company gains from the communication advantages of digital connectivity, it sacrifices some of the coordination and interconnectedness that comes from being face to face.</li>\r\n</ul>\r\n<h4>Check the readiness of your overseas team.</h4>\r\n<ul>\r\n<li>Most companies groom their new-country managers at home and move them abroad to lead and manage. This is especially true of younger companies because they trust and are comfortable with their own. But do they have the ability to adapt to and be effective leaders in a different culture? Training is a must. Also, consider attracting external talent to help lead or complement the beachhead team.</li>\r\n<li>Find a strong local partner. Whether your business model is distribution, JV, franchise, or manufacturing, your local partner will make or break your success. Don't rush. Vet thoroughly and pay close attention to IP protection.</li>\r\n</ul>\r\n<h4>Is your leadership team fit for purpose?</h4>\r\n<p>Successful international companies have boards and senior executive teams that match the markets and customers they will serve. They have most or all of these traits in common:</p>\r\n<ul>\r\n<li>They recognize that there are wide cultural differences between American organizations and, say, a Chinese organization, an Indian organization, a Brazilian organization, a German organization, and a Russian organization.</li>\r\n<li>They have or recruit talent that knows how to make the smart decisions on strategy and direction.</li>\r\n<li>They develop global leaders to match; meaning those who can adjust and adapt across cultural boundaries to get the best out of their team's skill sets, the energy they bring to work and in creating an environment that will optimize their people's success.</li>\r\n<li>They develop their bench. Junior folks have to be more seasoned and experienced than before. The CEO charts the path, but mid-level management has to execute the strategy.</li>\r\n</ul>\r\n<h4>Planning for the unexpected.&nbsp;</h4>\r\n<p>Boards and senior management must be able to adjust their country strategies and business models to respond to ever-shifting geopolitical and regulatory environments. Best practices include:</p>\r\n<ul>\r\n<li>Install a monitoring process. The process begins with monitoring local and global legislative, regulatory, and market developments through publicly available media and customized reports. On-ground GR resources must be enlisted – using either in-house hires and consultants, or industry associations and advocacy groups.</li>\r\n<li>Respond proactively. The process continues with responses that intelligently adapt to the changed circumstances in a timely and nimble fashion. For fast-changing markets, scenario planning should be used for formulating a response and contingency plans. Local political and regulatory changes can present opportunities to exploit or dangers to avoid and manage around.</li>\r\n<li>Be clear-eyed about country risk. At its extreme, your company may find itself the object of discrimination or of confiscation of assets. These may be either directed at your company or at a targeted industry (e.g., those considered strategic or vital to national security, such as energy or telecommunications), as retaliation against companies from certain countries (e.g., against U.S. companies in response to American policy), or nationalization (e.g., as in Venezuela with oil, cement, steel, and glass manufacturing companies). Strategies to anticipate and limit the effect of these risks must be incorporated into the monitoring and response processes above.</li>\r\n<li>Pay attention to political events at home. Policy changes at home can present opportunities to well-prepared, nimble movers and blindside those who aren't prepared. The same advice about monitoring and scenario planning applies. Even for companies with fewer GR resources, having a globally attuned mindset will pay dividends or help avoid expensive moves. Consider the finally announced, unsurprising pullout from the Paris Agreement on climate change. Smaller companies in the solar, wind, and other energy-efficient industries have had plenty of time to adjust their growth, investment, and employment expectations. Similarly, the long broadcast NAFTA renegotiations should have triggered contingency planning for all companies dependent on the treaty's favorable tariff and labor advantages.</li>\r\n</ul>\r\n<p>The goal is to narrow the number of truly \"unknown unknowns.\" At one extreme, Russia’s invasion of Crimea clearly caught the world outside the Kremlin by surprise. Few companies had predicted and prepared for the effects of U.S. and European sanctions on Russia and then Russia's responsive food importation embargo. In combination, these were immediately disruptive to the financial services industry and painful for American food exporters.</p>\r\n<p>At the other extreme, few companies doing business in Cuba should have been surprised by the recent reinstatement of trade and travel restrictions. Southwest Airlines would certainly have put contingency plans in place in anticipation of diminished route volumes. After the hack that led to the release of the Panama Papers, it was only a matter of time before it repeated, as with the recently released Paradise Papers. Certainly, a savvy tech company like Apple would have had a communications strategy at the ready to explain its move from Ireland to Jersey when those details ultimately were revealed. &nbsp;</p>\r\n<p>The waters of global business can be tricky indeed. If well navigated, with the right resources, planning, and mindset, the rewards to your company will be many.</p>\r\n<div class=\"description\">\r\n<h4 class=\"name\">About the Author</h4>\r\nRobert W. Courtney is an American lawyer and business executive with over 25 years’ experience as a principal in or advisor to the development and management of new ventures in Russia, the CIS, Eastern Europe, Scandinavia, China, Taiwan, and Japan. His international business and legal experience includes franchising, cross-border joint ventures, retail, real estate, healthcare services, travel, and information technology. In 2008, Robert helped found Retail Profile Russia, the first third-party specialty retailing company in Russia. From 1995-2013 he was the principal owner of US Dental Care, a market-leading operator of dental clinics in Russia. In parallel, he was a founding principal of Century 21 Real Estate, owner and developer of the Century 21 master franchise for Russia, Ukraine and Kazakhstan. As well, he co-founded Newbridge Group, a market entry consulting firm representing global brands in establishing their businesses in Russia. Newbridge clients included Burger King, Yum! Brands, Thomas Pink, Tally Weijl, Carls Jr., Lee Cooper, Le Pain Quotidien, Peek &amp; Cloppenburg, Maredo, and Nuskin. He is a 1988 graduate of Thunderbird School of Global Management.</div>"
+    format: basic_html
+    processed: ''
+    summary: 'Expanding internationally in today''s globally interconnected world is far easier than it used to be, but it''s not a fit for every organization. Alumnus Robert Courtney ''88 explains.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 4800
+    height: 3200
+    target_type: file
+    target_uuid: b6213930-e58e-48c6-aaee-f2fbe9149979
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 66581819-156f-4d37-a97e-e764b7ba1f69
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.b6213930-e58e-48c6-aaee-f2fbe9149979
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.66581819-156f-4d37-a97e-e764b7ba1f69

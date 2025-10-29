@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 99506b4c-f555-4b4d-8d9b-bbd230165dc5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:09:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Tollens N.V. (Holland)'
+created:
+  -
+    value: '2016-07-27T22:09:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:09:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-99-0009
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>In February 1990, Kees van der Maas, Sales Director of Tollens N.V., is faced with a decision on whether Tollens should introduce its Surfstone solid surface material into the United States. An international company by force of geography, Tollens'' products were found in the majority of European countries. Sales totaled $434.6 million in 1989, 51% of which was exported from the European market. Surfstone accounted for 36% of company sales. Due to growing competition and the difficulty of signing new distributors, Tollens''s margin on sales had started to show some decline, from 4.1% in 1984 to 3.3% in 1989. Although Tollens had considerable international experience, most of this experience was with countries which were closer both in geography and psychology than that of the United States. Entry into the U.S. market would require a different set of competencies and resources.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-99-0009
+field_case_page_length:
+  -
+    value: '22 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'United States, 1990'
+field_case_source:
+  -
+    value: 'Field case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 717e66e4-a04d-43c7-ae33-931584e065a6
+field_teaching:
+  -
+    value: "This case was written primarily for use in international marketing management courses where students can appreciate cross cultural issues and practices. It can also be utilized as part of export entry strategies, export channel strategy, or export segmentation modules. It has also been used in and industrial or business-to-business marketing course for acquainting students with segmentation strategies and buying center concepts. The case has been used successfully in executive education programs for junior managers and middle managers, particularly in programs including a significant portion of non-U.S.-based management.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.717e66e4-a04d-43c7-ae33-931584e065a6

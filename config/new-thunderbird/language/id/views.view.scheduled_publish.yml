@@ -1,0 +1,33 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Terapkan
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sortir dengan'
+          sort_asc_label: 'Urutan turun'
+      pager:
+        options:
+          tags:
+            first: '« Pertama'
+            last: 'Terakhir »'
+          expose:
+            items_per_page_label: 'Jumlah item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+            offset_label: Letak
+      fields:
+        nothing:
+          alter:
+            text: Sunting
+        nothing_1:
+          alter:
+            text: Hapus
+        title:
+          label: Judul
+        dropbutton:
+          label: Operasi-operasi
+      filters:
+        title:
+          expose:
+            label: Judul

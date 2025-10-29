@@ -1,0 +1,18 @@
+uuid: 6035c49e-6c61-4861-86e6-34ebd4f6c581
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.case_series_years
+id: taxonomy_term.case_series_years.changed
+field_name: changed
+entity_type: taxonomy_term
+bundle: case_series_years
+label: Changed
+description: 'The time that the term was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

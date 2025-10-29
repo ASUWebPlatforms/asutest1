@@ -1,0 +1,113 @@
+uuid:
+  -
+    value: c24f65b6-1c2f-46d9-a1c8-7cfd802e88ed
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:21:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Volvo and Geely'
+created:
+  -
+    value: '2016-07-17T21:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:21:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-13-0001
+body:
+  -
+    value: '<p><span>In 2010, Zhejiang Geely Holding Group Co. (Geely Holding) acquired Volvo from Ford Motor Company. In early 2011, various questions remained about Volvo''s strategy and the long-term integration plan for the acquisition. With the acquisition of Volvo, Geely Holding gained access to a global dealership network, sophisticated automotive technology, and management know-how. A successful integration of Volvo could help Geely Holding improve its own line of cars for global markets and position Geely as a unique brand in the fiercely competitive Chinese automobile industry. Volvo''s new management announced that its goal was to more than double global sales to by 2020, with half of the volume coming from sales in China. The company was also intent on expanding Volvo manufacturing in China and developing a new luxury car for the China market. To implement the plan for growth, Volvo would have to address various issues, such as the future of the Volvo brand, the integration between the European and Chinese organizations, and the relationship between the China-based Geely automobile business and the global Volvo Company.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-13-0001
+field_case_page_length:
+  -
+    value: '18 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2013-01-01'
+field_case_setting:
+  -
+    value: 'China, Global'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: ed3f6023-bab2-4a5e-a56a-1c54b925845d
+  -
+    target_type: taxonomy_term
+    target_uuid: 56cb1ff7-6529-4d29-bef6-05d31c36c384
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+field_teaching:
+  -
+    value: "This case can be used to examine various managerial and business issues:\r\n\r\nCross-border M&A\r\nIntegration of organizations and cultures\r\nSynergy value and control value from acquisitions—how will value be created by the new owner?\r\nChina automobile industry structure; the role of JVs and the transfer of technology\r\nGlobal strategy in the automobile sector, with an emphasis on Geely’s growth as a competitive car company from China"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.ed3f6023-bab2-4a5e-a56a-1c54b925845d
+      - taxonomy_term.case_series_fields.56cb1ff7-6529-4d29-bef6-05d31c36c384
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a

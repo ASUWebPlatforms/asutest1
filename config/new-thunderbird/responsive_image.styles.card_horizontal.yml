@@ -1,0 +1,42 @@
+uuid: f12fec89-1d81-4ba6-bab5-6d7493345d26
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.card_horizontal_lg
+    - image.style.card_horizontal_md
+    - image.style.card_horizontal_sm
+    - image.style.card_horizontal_xs
+    - image.style.carousel_image_lg
+  theme:
+    - thunderbird
+id: card_horizontal
+label: 'Card horizontal'
+image_style_mappings:
+  -
+    image_mapping_type: image_style
+    image_mapping: card_horizontal_lg
+    breakpoint_id: thunderbird.xl
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: card_horizontal_lg
+    breakpoint_id: thunderbird.lg
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: card_horizontal_md
+    breakpoint_id: thunderbird.md
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: card_horizontal_sm
+    breakpoint_id: thunderbird.sm
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: card_horizontal_xs
+    breakpoint_id: thunderbird.xs
+    multiplier: 1x
+breakpoint_group: thunderbird
+fallback_image_style: carousel_image_lg

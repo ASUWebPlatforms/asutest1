@@ -1,0 +1,102 @@
+.table {
+    margin-bottom: 0rem; // Override Bootstrap default margin
+    padding-bottom: $component-padding;
+    padding-top: $component-padding;
+
+    .heading {
+        color: $blue-dark;
+        font-size: $h3-font-size;
+        line-height: $h3-font-size;
+        margin-bottom: 1.5rem;
+        text-transform: initial;
+
+        &:first-letter {
+            color: inherit;
+        }
+        @include media-breakpoint-down(sm) {
+            font-size: $font-size-xl;
+            line-height: $font-size-xl;
+         }
+    }
+
+    .body {
+        color: $gray-darkest;
+        font-size: $font-size-sm;
+        line-height: $font-size-lg;
+
+        p {
+            .btn {
+                margin: 0rem 1rem 1rem 0rem !important; // Fix button spacing for wrapped buttons
+            }
+        }
+    }
+
+    .wrapper {
+        overflow-y: auto;
+        max-height: 340px; /* Approximately 4 columns */
+        padding: 0rem; /* Reset theme default */
+    
+        table {
+            border: 1px solid #cccccc;
+            float: initial;
+            width: 100% !important;
+    
+            thead {
+                tr {
+                    th {
+                        background-color: $blue-dark;
+                        border: none;
+                        color: #ffffff;
+                        font-size: 1rem;
+                        font-weight: 700;
+                    }
+                }
+            }
+
+            tbody {
+                tr {
+                    background-color: white;
+
+                    &:nth-child(even) {
+                        background-color: #f6f6f6;
+                    }
+    
+                    td {
+                        border: none;
+                        color: $gray-darkest;
+                        font-size: $font-size-sm;
+                        line-height: $font-size-sm;
+                        font-weight: 400;
+    
+                        p {
+                            margin-bottom: 0;
+                            font-size: inherit;
+                        }
+    
+                        strong {
+                            font-weight: 700;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .table-wrapper {
+        background-color: $gray-1;
+
+        @include media-breakpoint-up(sm) {
+            margin: 0;
+        }
+
+        @include media-breakpoint-up(md) {
+            padding: $table-container-padding-md;
+        }
+    }
+
+    .col-md-12 {
+        .wrapper {
+            max-height: unset;
+        }
+    }
+}

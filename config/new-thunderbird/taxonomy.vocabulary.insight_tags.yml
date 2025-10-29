@@ -1,0 +1,8 @@
+uuid: e59bdff8-f938-4c11-9ea3-942a830fc5cf
+langcode: en
+status: true
+dependencies: {  }
+name: 'Insight Tags'
+vid: insight_tags
+description: ''
+weight: 0

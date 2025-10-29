@@ -1,0 +1,117 @@
+uuid:
+  -
+    value: 19787dc0-0b23-423a-b521-f39da3512178
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-11-09T21:52:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Banco Santiago'
+created:
+  -
+    value: '2016-07-26T23:19:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-11-09T21:52:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-03-0022
+body:
+  -
+    value: "<div class=\"field field-name-body field-type-text-with-summary field-label-above\">\r\n<div class=\"field-items\">\r\n<div class=\"field-item even\">\r\n<p>Banco Santiago is one of the leading financial institutions in modern Chile. With the liberalization of trade in Chile, and the globalization of financial institutions, Banco Santiago is under increased pressure to maintain market share, margins, and profitability. To establish a more differentiated market presence, Banco Santiago launched a value segmentation strategy. A few months into the rollout, problems started to surface. Though relatively successful, the implementation process requires fine-tuning. The marketing leaders must face some critical decisions on how to regain momentum.</p>\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-03-0022
+field_case_page_length:
+  -
+    value: '24 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8bed5133-6131-4fce-986d-7d2f30371afe
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: Chile
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a4330106-d13e-4b26-a980-420512d1b3f9
+  -
+    target_type: taxonomy_term
+    target_uuid: 45825ecb-2bc0-4530-9436-ba10e2a31659
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+  -
+    target_type: taxonomy_term
+    target_uuid: f9123988-0b3a-4f09-a115-41b3ab25ad50
+field_teaching:
+  -
+    value: "Appropriate for advanced marketing strategy courses at graduate level, and international marketing and management classes of an MBA program. Its primary focus is on strategy implementation.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.8bed5133-6131-4fce-986d-7d2f30371afe
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.a4330106-d13e-4b26-a980-420512d1b3f9
+      - taxonomy_term.case_series_fields.45825ecb-2bc0-4530-9436-ba10e2a31659
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946
+      - taxonomy_term.case_series_fields.f9123988-0b3a-4f09-a115-41b3ab25ad50

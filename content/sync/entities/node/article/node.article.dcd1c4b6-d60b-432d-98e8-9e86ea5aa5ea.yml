@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: dcd1c4b6-d60b-432d-98e8-9e86ea5aa5ea
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-01-10T21:43:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Chapter Connections June 2019'
+created:
+  -
+    value: '2019-06-25T20:47:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-01-10T21:43:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/chapter-connections-june-2019
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73952\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Columbus Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"113\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Columbus Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Columbus Chapter photo June 2019\",\"class\":\"media-element file-default\",\"data-delta\":\"113\"}}]]</p>\r\n<p><strong>Columbus Chapter -</strong>&nbsp;The Columbus chapter June First Tuesday brought together this great group of Columbus T-birds. Left to right, back row: Joe Guisinger ‘97, Cindy Martini ‘01, Jeff Sweet ‘90. Front row: Jay Heiser ‘85, Bernard Friedman ‘98, Bonnie Andrew ‘98, and Marcy Yeamans ’88.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73953\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"D.C. Chapter June 2019 photo\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"114\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"D.C. Chapter June 2019 photo\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"D.C. Chapter June 2019 photo\",\"class\":\"media-element file-default\",\"data-delta\":\"114\"}}]]</p>\r\n<p><strong>D.C. Chapter -</strong>&nbsp;The DC chapter celebrated their June First Tuesday and welcomed Julia Mitusova as the new Chapter President. Julia has been involved in the DC Chapter Committee for many years serving as the social media coordinator. This will be her first time serving as the chapter leader.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73954\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Kona Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"115\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Kona Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Kona Chapter photo June 2019\",\"class\":\"media-element file-default\",\"data-delta\":\"115\"}}]]</p>\r\n<p><strong>Kona Chapter -</strong>&nbsp;Maryann Engers ‘81, Michiyo Echle, Scott Engers ‘82, and Jim Echle ’71 met for lunch in Kona for the May First Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73955\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"New England Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"116\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"New England Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"New England Chapter photo June 2019\",\"class\":\"media-element file-default\",\"data-delta\":\"116\"}}]]</p>\r\n<p><strong>New England Chapter -&nbsp;</strong>The New England chapter welcomed T-Bird professor Josh Ault to their June First Tuesday gathering in Boston. Professor Ault gave the chapter an update on the new curriculum, current students, and the new Downtown Campus.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73956\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"New Orleans Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"117\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"New Orleans Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"New Orleans Chapter photo June 2019\",\"class\":\"media-element file-default\",\"data-delta\":\"117\"}}]]</p>\r\n<p><strong>New Orleans Chapter -</strong>&nbsp;May meeting at Deutsches Haus brought together Paulo Andrade ‘84, Ron Alonzo ‘68, David Heap ‘06, Joe O’Doud, Steve Price ’75 and Brooke Bailey ‘03.&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"73957\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Twin Cities Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"118\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Twin Cities Chapter photo June 2019\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Twin Cities Chapter photo June 2019\",\"class\":\"media-element file-default\",\"data-delta\":\"118\"}}]]</p>\r\n<p><strong>Twin Cities Chapter -</strong>&nbsp;Twin Cities First Tuesday the group got a great picture on top of the world at old terminal building at St. Paul Downtown Airport Holman’s Field.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"74218\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of July 2019 First Tuesday Milwaukee Tbirds\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"119\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of July 2019 First Tuesday Milwaukee Tbirds\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Photo of July 2019 First Tuesday Milwaukee Tbirds\",\"class\":\"media-element file-default\",\"data-delta\":\"119\"}}]]</p>\r\n<p><strong>Milwaukee Chapter -</strong>&nbsp;The Milwaukee June First Tuesday included T-bird alums JP Driessen ‘99, Alexandra Sielaff ‘89, Jake Pacific, Jodi Schneider ‘15, Christina Davis, Alexander Davis ‘12, and Ephraim Ellsworth ‘06. The group is excited about planning their annual dinner cruise for August.&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"74219\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of Munich Chapter Spargel Dinner June 2019\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"120\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of Munich Chapter Spargel Dinner June 2019\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Photo of Munich Chapter Spargel Dinner June 2019\",\"class\":\"media-element file-default\",\"data-delta\":\"120\"}}]]</p>\r\n<p><strong>Munich Chapter -</strong>&nbsp;The Munich Chapter hosted their 4th annual Spargel Dinner. Chapter leader Athan Kostopoulos ’85 was the chef. Attendance included Daniel Hiltner’10 and his wife Audrey, Jess Lampe’09 and Gabbi Lampe, who were visiting from Seattle, David and Anke Humphrey, and Claudine and Larry Schulz '72, IreneTamdjidi ’90, Uli Schneider ’96, whocamefrom Nördlingen, Claus Tropitzsch ’96, Ralf Renken ’13, Heidi and Wally Schoch’76,Logan Deimler and Tina Huesing ’96.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"74220\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of Japan Chapter Tbirds First Tuesday June 2019 \",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"121\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Photo of Japan Chapter Tbirds First Tuesday June 2019 \",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Photo of Japan Chapter Tbirds First Tuesday June 2019 \",\"class\":\"media-element file-default\",\"data-delta\":\"121\"}}]]</p>\r\n<p><strong>Tokyo Chapter -</strong>&nbsp;The Tokyo Alumni Chapter is excited the Tokyo Reunion registration open and have T-birds from all over the world join them. Patrick McDermott, Chief Engagement Officer, was in Tokyo visiting the Tokyo Hub Office and was able to attend the June chapter event.&nbsp;</p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: '<p>Local chapters of Thunderbird School of Global Management alumni monthly get-togethers for 2019.</p>'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Columbus Chapter June 2019 photo'
+    title: null
+    width: 3456
+    height: 3456
+    target_type: file
+    target_uuid: c1a332ad-903a-4650-9b88-d08962c90249
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    file:
+      - file.image.c1a332ad-903a-4650-9b88-d08962c90249
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

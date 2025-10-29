@@ -1,0 +1,10 @@
+uuid: 86c6abff-a0e9-49ad-bbce-8f4f78b5e9d3
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+id: paragraph.signpost_w_o_links
+label: 'Signpost w/o Links'
+targetEntityType: paragraph
+cache: true

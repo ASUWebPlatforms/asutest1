@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 54cf53d9-6183-43ec-bfef-9a230cb945a3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-14T21:35:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Chapter Connections February 2018'
+created:
+  -
+    value: '2018-02-26T17:46:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-14T21:35:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/chapter-connections-february-2018
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"13127\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"17\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"17\"}}]]</p>\r\n<p><strong>Munich</strong> - Alumni met at the Piatsa restaurant in Schwabing.&nbsp; L-R: Larry Schulz ’72,&nbsp; Pascal Crepin ’86, Tom Lipton, David Humphreys ’02 Chapter Leader Athan Kostopoulos ’85 &amp; Axel Mees ‘76.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p><strong>[[{\"fid\":\"13133\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"23\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"23\"}}]]</strong></p>\r\n<p><strong>South Florida</strong> – February First Tuesday was held at Bulla GastroBar.&nbsp; Those in attendance: Emilio '78 and Cathleen Lamar, Beth Wecker Martins '00, Bob '86 and Amparito Jones, Carrie Melanda '00</p>\r\n<p>Edward Crews '89, Gayle Francseca Mellegaard '85, Ileana Crowley Sayre '85, Jane Iversen '15,&nbsp; Gilberto Corona, Jorge Iglesias, Natalia Iversen, Miguel San Pedro, John Viault '92, Jose Interiano '11, Andrea Peña Avila, Chapter Leader Karl Palsgaard '11, Matthew Levy '96, Nicolas Eterovic '06, Patricia Moraes '14, Robert Hans '81, Sergio Mankita '03, Steven Novak '89, Sandy Guzman &amp; Yesica Schaaf '04.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"13129\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"19\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"19\"}}]]</p>\r\n<p><strong>Tuscon -</strong> February first Tuesday.</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"13130\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"20\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"20\"}}]]</p>\r\n<p><strong>Paris</strong> – Chapter Leader Roberto Abramovich ‘02 and his group organized a First Tuesday with 3 other business schools Cornell, Chicago Booth and IESE.&nbsp; Over 30 people showed up despite urban chaos caused by heavy snow in Paris.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"13131\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"21\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"21\"}}]]</p>\r\n<p><strong>New Orleans</strong> - had an early Chinese New Year dinner on January 19th.&nbsp; A recent grad Alex Marino joined our group.&nbsp; Pictured are: &nbsp;Ron Alonzo ‘68, Chapter Leader Steve Price ‘75, Joe O’Dowd ‘81, Manish Sawlani ‘07, Brooke Bailey ‘03, Alex Marino ‘17 and David Heap ‘06. Other new members are Brett Balling ‘17 and Bryan Estep ‘05.&nbsp; Cantonese:&nbsp; Gung Hay Fat Choi!!</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"13132\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"22\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"22\"}}]]</p>\r\n<p><strong>Central Indiana</strong> – Chapter Leader Nate Fagen ‘16 had the groups first Meeting in October and they had 6 attendees.&nbsp; This was their second meeting, February 6th, and they had 11 attendees, including the one taking the picture.&nbsp;</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"13134\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"24\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"24\"}}]]</p>\r\n<p><strong>Berlin</strong> – Chapter Leader Dominik Hess ’01, &nbsp;Jay Boynton ‘98, Christine Fish ‘14, Greg Linker ‘78 and Sean Padfield ’14 (who did not make the picture). Four different decades toasting and bidding farewell to the Thunderbird campus with a round of snaps.</p>\r\n</div>\r\n<div class=\"col-md-4\"></div>\r\n<div class=\"col-md-4\"></div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: 'Local chapters of Thunderbird School of Global Management alumni monthly get-togethers for January 2018. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: 5ae7ebc4-44a3-4c2e-82f5-a18f21207044
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.5ae7ebc4-44a3-4c2e-82f5-a18f21207044
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

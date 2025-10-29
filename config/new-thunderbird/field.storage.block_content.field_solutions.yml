@@ -1,0 +1,20 @@
+uuid: 8fbb0324-2598-4c5b-b6e2-ab17a2daa8e1
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+    - taxonomy
+id: block_content.field_solutions
+field_name: field_solutions
+entity_type: block_content
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

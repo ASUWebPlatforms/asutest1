@@ -1,0 +1,18 @@
+uuid: 5502adce-39ce-4808-a644-7421cbd89325
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.cropped_image_wide
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: media.cropped_image_wide
+target_entity_type_id: media
+target_bundle: cropped_image_wide
+default_langcode: site_default
+language_alterable: false

@@ -1,0 +1,121 @@
+uuid:
+  -
+    value: 683e50be-28c9-43f1-b601-3b65e25e90de
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T16:41:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2e875de4-9ceb-4b8b-b22a-e13a4e11f2d0
+title:
+  -
+    value: 'Apple in China'
+created:
+  -
+    value: '2016-04-29T18:33:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T16:41:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a04-16-0003
+body:
+  -
+    value: '<p><span><span>China is Apple’s fastest growing market but the road to success has not been smooth.&nbsp; This case documents Apple''s journey on this road to success; the role that Tim Cook played on this journey; the basic dynamics of China''s telecommunications sector, the world''s largest and most dynamic; and obstacles Apple is likely to encounter on the road to its future there.&nbsp; Apple’s products are predominantly contract manufactured in China by Foxconn, a Taiwanese company that was the focus of considerable criticism and negative publicity for poor working conditions and suicides among its young workers. Apple, an aspirational brand in China, was named the top brand in the world in 2015 by Brand Finance--followed in second place by their global nemesis, Samsung. The growing consumer power of the Chinese middle class has accelerated demand for Apple products. Apple’s popularity in China led to considerable counterfeiting or copying of their prototypes, products, know how, trade secrets, service model, and store concepts. It has spawned a cottage industry that supplies fake Apple stores with logos, uniforms, shopping bags, shelves and other accessories to make them appear real. Face-seeking behavior, the propensity of some Chinese to show off high status consumer goods, further spurs the activities of Apple counterfeiters and imitators to meet market demand. After more than a quarter century of continuous high levels of economic growth, China''s economy is cooling.&nbsp; Despite a panoply of obstacles, Apple CEO Tim Cook maintains that China is key to Apple’s bottom line now and in the future.</span></span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A04-16-0003
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b91234b7-5fe6-4964-80d7-0c09e20cd404
+field_case_series_date: {  }
+field_case_series_image:
+  -
+    alt: null
+    title: null
+    width: 262
+    height: 150
+    target_type: file
+    target_uuid: d377858d-e9a1-4de1-9c07-80b800280735
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: China
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 89217db2-bca9-4b8f-ad63-53f79bc51f71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6bd786d2-c9c8-4cd8-aeaa-d6b21d4152d7
+  -
+    target_type: taxonomy_term
+    target_uuid: dae030f6-5ee5-4c65-bcad-7f73b2bac57b
+  -
+    target_type: taxonomy_term
+    target_uuid: 1909abf6-6c12-48f9-9484-3fe80c280fb8
+field_teaching:
+  -
+    value: "Apple in China provides an opportunity to develop understanding of the company's early entry into China and the evolution of their sales and manufacturing activities there. It is a vehicle for understanding the driving forces in the Chinese information and communications technology industry; challenges associated with Apple's market entry; intellectual property challenges encountered by Apple; and the evolving competition with indigenous competitors in this sector. The Apple in China case been taught in MBA and EMBA Competitive Strategy; MBA Regional Industry Analysis: and Strategic Management of Technology and Innovation. The Apple in China case provides a platform for analysis from multiple perspectives:\r\n\r\n• Driving Forces in the Chinese Smartphone Industry viewed through a Five-Forces Analysis\r\n\r\n• Apple's China Market Entry Challenges including CAGE analysis; analysis of addressable market; cross cultural issues; branding and reputation management\r\n\r\n• The Rise of Indigenous Competition in China viewed through its impact on the competitive environment that Apple encounters.\r\n\r\n• Intellectual Property Challenges in China (and Emerging Markets) including counterfeit products, and counterfeit Apple stores; and open sourced component commoditization. IX.  Recommended Supplementary Materials (movies, slides, video, another case or note, software, etc.):\r\n\r\nCombining the Apple in China case with the Xiaomi: The Rise of an Indigenous Competitor case in back-to-back sessions provides immersion into the competitive differences and responses between foreign and local competitors in China, a market fraught with challenges"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+      - user.user.2e875de4-9ceb-4b8b-b22a-e13a4e11f2d0
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b91234b7-5fe6-4964-80d7-0c09e20cd404
+      - taxonomy_term.case_series_categories.89217db2-bca9-4b8f-ad63-53f79bc51f71
+      - taxonomy_term.case_series_fields.6bd786d2-c9c8-4cd8-aeaa-d6b21d4152d7
+      - taxonomy_term.case_series_fields.dae030f6-5ee5-4c65-bcad-7f73b2bac57b
+      - taxonomy_term.case_series_fields.1909abf6-6c12-48f9-9484-3fe80c280fb8
+    file:
+      - file.image.d377858d-e9a1-4de1-9c07-80b800280735

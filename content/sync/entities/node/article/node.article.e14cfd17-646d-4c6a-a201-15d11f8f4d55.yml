@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: e14cfd17-646d-4c6a-a201-15d11f8f4d55
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Three Toyota Lessons for U.S. Hospital Executives'
+created:
+  -
+    value: '2012-12-05T09:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/toyota-lessons-us-hospital-executives
+body:
+  -
+    value: "<p>Assembling automobiles requires a different skillset than healing people, but many U.S. hospital executives are traveling to Japan to learn operational excellence from Toyota. The thought of health care administrators taking notes on an automobile assembly line might sound alarm bells to some. Medicine requires a human touch that does not apply to cars, and no two patients are the same. Yet Toyota has mastered many business behaviors that can be translated to service settings.</p>\r\n<p><strong>Put quality first</strong></p>\r\n<p>For starters, Toyota puts quality first and lets the costs follow. Sometimes this means spending more now to save money later. Service providers who put quality first in healthcare settings work to eliminate activities that don’t add value to health outcomes, irritate patients, and create extra work for employees.</p>\r\n<p>One example is the way many functionally “siloed” hospitals have traditionally required patients to fill out forms with the same information each time they move from one specialist or department to another. In addition to wasting time for patients and caregivers, hospitals risk receiving different, even conflicting, information each time a new form is completed. Electronic medical records accessible to all the right people are helping to fix the problem of duplication in many healthcare settings. Hospitals incur heavy investments and experience numerous challenges when building these systems, but the initiatives are paying off in terms of patient outcomes and information accuracy.</p>\r\n<p><strong>Prevent rework</strong></p>\r\n<p>Some hospital administrators miss the point of lean thinking. In their rush to boost efficiency, they sometimes eliminate process steps important to quality, only to incur more work (and considerable cost) later when patients return because of relapses or errors. Many of these missteps can lead to unnecessary patient deaths or serious debilitation that could have been prevented.</p>\r\n<p>In other cases, hospital administrators and their well-meaning staff members engage in “local optimization,” the practice of attempting to improve process steps in isolation without seeing the big picture of how they all fit together. This phenomenon is not unique to healthcare and occurs in nearly every organization in the early stages of its lean journey. Eliminating post-surgery checkups, for example, might save money in the short term. But nobody wins if the result is a dangerous infection or a second surgery to remove expendable surgical materials left inside a patient. Like Toyota, hospitals must take a more careful approach to cutting fat. Doctors and nurses cannot simply be asked to see more patients or to do more with less. Too often the result is costly mistakes.</p>\r\n<p><strong>Manage handoffs</strong></p>\r\n<p>Building a vehicle requires input from multiple specialists in different parts of the factory. Everybody has a job to perform, and nobody knows everything. Toyota has learned that overall success hinges on effective handoffs from one specialist to the next. Expensive mistakes occur when assembly line workers pass along a product without careful communication about what needs to happen next, or when they fail to provide immediate feedback when they see mistakes made in preceding process steps.</p>\r\n<p>Health care similarly relies on a network of specialists. Nobody knows everything. The person who diagnoses a problem is not always the one who recommends the treatment, writes the prescription or performs the surgery. Hospitals eliminate errors, cut costs and ultimately save lives when they pay special attention to the handoffs from one caregiver to the next.</p>\r\n<p><strong><em>Karen Brown, Ph.D.,</em></strong><em>&nbsp;is Thunderbird's late professor of operations management. She was the co-author of “Managing Projects: A Team-Based Approach,” published by McGraw-Hill.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Assembling automobiles requires a different skillset than healing people, but many U.S. hospital executives are traveling to Japan to learn operational excellence from Toyota. The thought of health care administrators taking notes on an automobile assembly line might sound alarm bells to some. Medicine requires a human touch that does not apply to cars, and no two patients are the same. Yet Toyota has mastered many business behaviors that can be translated to service settings.'
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

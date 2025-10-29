@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 6d9dae80-ce75-4c3b-b713-86d3941b349b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-18T14:52:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Why Coronavirus Will Accelerate the Fourth Industrial Revolution'
+created:
+  -
+    value: '2020-04-29T19:18:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-18T14:52:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/why-coronavirus-will-accelerate-fourth-industrial-revolution
+body:
+  -
+    value: '<div class="field field-name-field-summary field-type-text-long field-label-hidden">[[{"fid":"82069","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Why coronavirus will accelerate the fourth Industrial Revolution","field_file_image_title_text[und][0][value]":"Why coronavirus will accelerate the fourth Industrial Revolution"},"type":"media","field_deltas":{"3":{"format":"default","field_file_image_alt_text[und][0][value]":"Why coronavirus will accelerate the fourth Industrial Revolution","field_file_image_title_text[und][0][value]":"Why coronavirus will accelerate the fourth Industrial Revolution"}},"attributes":{"alt":"Why coronavirus will accelerate the fourth Industrial Revolution","title":"Why coronavirus will accelerate the fourth Industrial Revolution","class":"media-element file-default","data-delta":"3"}}]]By <span class="editor-name"><a href="https://thunderbird.asu.edu/sanjeev-khagram">Sanjeev Khagram</a>&nbsp;and&nbsp;Nicholas Davis</span><span></span></div><div class="field field-name-field-summary field-type-text-long field-label-hidden"></div><div class="field field-name-field-summary field-type-text-long field-label-hidden"></div><div class="field field-name-field-summary field-type-text-long field-label-hidden">The pandemic''s silver lining is the chance to experiment with technologies and co-operative approaches across borders that could lead to safer, more sustainable and more inclusive global futures.&nbsp;</div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>The theory of punctuated equilibrium, proposed in 1972 by biologists Stephen Jay Gould and Niles Eldredge, holds that populations of living organisms tend to experience a significant amount of evolutionary change in short, stressful bursts of time.&nbsp;<a href="https://eiuperspectives.economist.com/financial-services/why-coronavirus-will-accelerate-fourth-industrial-revolution#1"></a>Gould and Eldredge argued that evolution isn’t a constant, gradual process—it occurs during episodes when species are in environments of high tension or especially crisis.</p></div><p><span>Read more of this article at <a href="https://eiuperspectives.economist.com/financial-services/why-coronavirus-will-accelerate-fourth-industrial-revolution">The Economist</a></span></p>'
+    format: basic_html
+    processed: ''
+    summary: "The pandemic's silver lining is the chance to experiment with technologies and co-operative approaches across borders that could lead to safer, more sustainable and more inclusive global futures. \r\nThe theory of punctuated equilibrium, proposed in 1972 by biologists Stephen Jay Gould and Niles Eldredge, holds that populations of living organisms tend to experience a significant amount of evolutionary change in short, stressful bursts of time. Gould and Eldredge argued that evolution isn’t a constant, gradual process—it occurs during episodes when species are in environments of high tension or especially crisis."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Why coronavirus will accelerate the fourth Industrial Revolution'
+    title: 'Why coronavirus will accelerate the fourth Industrial Revolution'
+    width: 1659
+    height: 742
+    target_type: file
+    target_uuid: a2dd9486-72d1-42b7-bee3-cc4f9a8b4fb1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_insight_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 206b9083-31c1-484b-99c5-734e8b1c360c
+field_related_thought_leaders:
+  -
+    target_type: taxonomy_term
+    target_uuid: 901edbc0-31f6-4876-b3a4-e67eb3eeeb39
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.a2dd9486-72d1-42b7-bee3-cc4f9a8b4fb1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.kn_thought_leaders.901edbc0-31f6-4876-b3a4-e67eb3eeeb39

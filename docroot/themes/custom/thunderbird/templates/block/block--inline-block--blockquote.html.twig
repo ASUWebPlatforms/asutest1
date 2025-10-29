@@ -1,0 +1,50 @@
+{#
+/**
+ * @file
+ * Template for a block.
+ */
+#}
+{% set classes = [
+  'blockquote',
+  'block',
+  'block-' ~ configuration.provider|clean_class,
+  'block-' ~ plugin_id|clean_class,
+  'quote-type-' ~ blockquote_type,
+] %}
+{{ content.field_anchor_menu_settings }}
+<div{{ attributes.addClass(classes) }}>
+  {{ title_prefix }}
+  {% if label %}
+    {% block label %}
+      <div class="container">
+        <h2{{ title_attributes }}>{{ label }}</h2>
+      </div>
+    {% endblock %}
+  {% endif %}
+  {{ title_suffix }}
+
+  {% if blockquote_type == 'carousel' %}
+    {{ attach_library('thunderbird/blockquote-carousel-library') }}
+    <div class="container">
+      <div class="blockquote {{ blockquote_type }} corners">
+        <div class="slick">
+          {{ content.field_blockquote }}
+        </div>
+      </div>
+    </div>
+  {% elseif blockquote_type == 'banner' %}
+    {% if content.field_blockquote['#items']|length > 1 %}
+      {{ attach_library('thunderbird/blockquote-carousel-library') }}
+      <div class="block-banner">
+        <div class="slick">
+          {{ content.field_blockquote }}
+        </div>
+      </div>
+    {% else %}
+      {{ content.field_blockquote }}
+    {% endif %}
+  {% else %}
+    {{ content.field_blockquote }}
+  {% endif %}
+  {{ content.field_tooltip }}
+</div>

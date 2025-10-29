@@ -1,0 +1,23 @@
+uuid: ff13d895-4260-499b-b98e-47b5948f3c4d
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.sitemap
+    - field.field.block_content.sitemap.body
+  module:
+    - text
+id: block_content.sitemap.default
+targetEntityType: block_content
+bundle: sitemap
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true

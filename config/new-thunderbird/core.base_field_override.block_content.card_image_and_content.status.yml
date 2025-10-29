@@ -1,0 +1,22 @@
+uuid: a1fc7e20-9491-465d-98a0-be73ea4c50e9
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_image_and_content
+id: block_content.card_image_and_content.status
+field_name: status
+entity_type: block_content
+bundle: card_image_and_content
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

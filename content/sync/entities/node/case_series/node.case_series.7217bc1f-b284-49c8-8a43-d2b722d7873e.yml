@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 7217bc1f-b284-49c8-8a43-d2b722d7873e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T19:46:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Pacific-Western Oil: The Sembilan Plant'
+created:
+  -
+    value: '2016-07-27T19:46:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T19:46:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-00-0005
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Pacific-Western Oil (Pac-West), a U.S. firm, is one of the world''s largest integrated oil and gas companies. Pac- West is a 35% shareholder in P.T Sembilan (Sembilan), a liquefied natural gas (LNG) plant. Pac-West''s natural gas production in Aceh and its share in the Sembilan plant are a major source of revenue for the firm. The Sembilan LNG plant is located in the Indonesian province of Aceh and is jointly owned by Pac-West, Indonesia''s state-owned oil monopoly Pertamina, and Samco, a Tokyo-based consortium. For more than a decade, the Indonesian military had been involved in an effort to suppress dissent in Aceh. In late 1999, violence is escalating in Aceh and evidence has surfaced that for more than a decade, the Indonesian military had been involved in a brutal effort to suppress dissent. In addition, human rights groups have made allegations against Pac-West and Sembilan should be held responsible for human rights abuses that occurred near the LNG plant. With the situation looking increasingly unstable, Pac-West senior management must decide whether LNG production should be reduced at Sembilan.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-00-0005
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: Indonesia
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: ed3f6023-bab2-4a5e-a56a-1c54b925845d
+field_teaching:
+  -
+    value: "The objective in this case is to explore some of the complex ethical issues associated with international business, stakeholder values, and human rights. More specifically, how do firms reconcile doing business in countries with limited respect for human rights? Clearly, for firms in the oil and gas business, it is hard to ignore countries like Nigeria, Angola, Iran, Iraq, Saudi Arabia, and Indonesia, all of which could be characterized as countries with a history of poor human rights records. However, each of the countries is a major petroleum producer and depends heavily on foreign markets and the technology of multinational companies.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.ed3f6023-bab2-4a5e-a56a-1c54b925845d

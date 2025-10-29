@@ -1,0 +1,13 @@
+content:
+  field_anchor_menu_settings:
+    settings:
+      title: Абзац
+      title_plural: Абзаци
+  field_paragraph:
+    settings:
+      title: Абзац
+      title_plural: Абзаци
+  field_tooltip:
+    settings:
+      title: Абзац
+      title_plural: Абзаци

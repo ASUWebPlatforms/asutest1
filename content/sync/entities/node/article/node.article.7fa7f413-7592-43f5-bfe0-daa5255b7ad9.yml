@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 7fa7f413-7592-43f5-bfe0-daa5255b7ad9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:43:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'How to Ace Common (and Curveball) Interview Questions'
+created:
+  -
+    value: '2017-07-20T18:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:43:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /How-to-ace-common-interview-questions
+body:
+  -
+    value: "<p>[[{\"fid\":\"6071\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How to Ace Crazy and Curveball Interview Questions\",\"field_file_image_title_text[und][0][value]\":\"How to Ace Crazy and Curveball Interview Questions\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How to Ace Crazy and Curveball Interview Questions\",\"field_file_image_title_text[und][0][value]\":\"How to Ace Crazy and Curveball Interview Questions\"}},\"attributes\":{\"alt\":\"How to Ace Crazy and Curveball Interview Questions\",\"title\":\"How to Ace Crazy and Curveball Interview Questions\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>You applied for your dream job at a Fortune 500 company, and they want to meet you in person. Now comes the part that trips up many candidates: How to respond to those unpredictable interview questions?</p>\r\n<p>A survey by staffing firm Accountemps found that hiring managers tend to stick to a few tried-and-true queries, with an occasional curveball thrown in to keep you on your toes. Most interviewers start with something along the lines of “<i>Tell me about yourself</i>.”</p>\r\n<p>That’ll take up the first five minutes. But how do you prepare for the rest of the interview?</p>\r\n<p>I spoke with Bill Driscoll, district president for&nbsp;<a href=\"https://www.roberthalf.com/accountemps\">Accountemps</a>. An expert in recruiting and hiring, Driscoll shed light on some common — and not-so-common — interview questions, as well as other interview tips for landing the job you want.</p>\r\n<p><strong>1. Do your homework</strong></p>\r\n<p>To answer interview questions intelligently and with insight, you need to know as much about the company as possible. “Hiring managers want to see that you’ve gone the extra mile and&nbsp;<a href=\"https://ut1.roberthalf.com/accountemps/blog/embracing-your-inner-sherlock-investigating-potential-employers\">researched potential employers</a>,” Driscoll says. “This is an indication of your self-initiative and enthusiasm for the job.”</p>\r\n<p>Start with the company’s website, especially the “about us” and “news” sections. It doesn’t hurt to know about their history and various branch locations, too. If the company has a blog or social media presence, browse posts from the past few months.</p>\r\n<p>With this knowledge you can prepare for common interview questions like&nbsp;<i>Why do you want to work here?</i>&nbsp;or&nbsp;<i>Why are you interested in this position?</i>&nbsp;Driscoll says, “Mention specifics, like how you are interested in the company’s plan to expand to a particular market next year, or that you admire their commitment to the communities where they operate.”</p>\r\n<p><strong>2. Prepare to play up your strong points</strong></p>\r\n<p>“While no one likes a braggart, it’s important to be confident during a job interview,” Driscoll says. “In fact, certain interview questions are designed for you to show off your technical prowess or stellar&nbsp;<a href=\"http://rh-us.mediaroom.com/2016-05-10-Making-A-Hard-Case-For-Soft-Skills\">soft skills</a>.”</p>\r\n<p>To answer questions about your previous experience, think back on your work history and have a few anecdotes in your back pocket. If you’re a&nbsp;<a href=\"http://danamanciagli.com/%E2%80%8B4-tips-for-transitioning-from-college-to-career/\">recent graduate</a>, come up with examples from your college courses, internships, volunteer activities, and student groups.</p>\r\n<p><strong>3. Keep workplace culture in mind</strong></p>\r\n<p>Today’s interviewers are doing much more than finding out whether you can handle the job duties of a position. They also want to see whether you’d be a good fit for their workplace culture.</p>\r\n<p>“Employers look for candidates who mesh well with the workplace environment,” Driscoll says. “If new hires don’t settle well, they are not likely to be&nbsp;<a href=\"https://www.roberthalf.com/its-time-we-all-work-happy\">happy</a>&nbsp;nor stick around for long — a waste of everyone’s time and resources.”</p>\r\n<p>To determine this type of fit, managers ask questions like&nbsp;<i>How do you deal with workplace stress?</i>&nbsp;and&nbsp;<i>Describe your ideal work day.</i>&nbsp;Doing your homework will help you understand a company’s values and make a good impression.</p>\r\n<p><strong>4. Expect the unexpected</strong></p>\r\n<p>Managers sometimes throw curveballs that are designed to take you by surprise and see how you think on your feet. Why? “Interviewers know that job candidates rehearse answers to commonly-asked interview questions,” Driscoll says. “While you should prepare for the common questions, hiring managers also want to see how you respond to questions you couldn’t possibly have known about in advance.”</p>\r\n<p>Driscoll gives these interview tips when you come face to face with a curveball:</p>\r\n<ul>\r\n<li>Take your time.&nbsp;It’s fine to mull things over, especially if you have to decide which sandwich you identify with or what animal you’d want with you on a deserted island. But don’t take too long. Wacky interview questions are not so much about the answers, but to see how well you perform under pressure.</li>\r\n<li>Show your sense of humor.&nbsp;A clever joke or comment can impress interviewers, build rapport, and swing the needle in your favor. What you&nbsp;<i>shouldn’t</i>&nbsp;do when confronted with a curveball is to mumble “I don’t know,” or “What a stupid question.” Be a good sport and play along.</li>\r\n<li>Remember your delivery.&nbsp;Even though the question is wacky, you’re still in a professional environment and under scrutiny. So stay calm. Don’t be rude or crass. Do speak clearly, maintain positive eye contact, and dare to laugh at yourself.</li>\r\n</ul>\r\n<p>With all the uncertainty and so much on the line, job interviews can be tough. The best antidote is to prepare thoughtful responses to common interview questions, brace yourself for the curveballs, and show them what you’ve got. Good luck.</p>\r\n<p style=\"text-align: center;\"><span>Join Dana Manciagli’s&nbsp;</span><a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a><span>&nbsp;</span><em>right now</em><span>&nbsp;and immediately access the most comprehensive job search system currently available!</span></p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 400
+    height: 267
+    target_type: file
+    target_uuid: e96dac7d-e82d-409d-9f8a-707b3f6cde5c
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.e96dac7d-e82d-409d-9f8a-707b3f6cde5c
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

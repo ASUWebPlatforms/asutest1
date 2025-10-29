@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: c9cf8594-2d99-4d83-b1f9-acd71ce16016
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T16:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Educating Female Micro-entrepreneurs: Making the Leap to Improve Their Businesses'
+created:
+  -
+    value: '2016-07-15T21:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T16:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-15-0014
+body:
+  -
+    value: '<p><span>This case comprises four scenarios that exemplify some of the benefits of a very brief, very inexpensive educational program, El Gran Proyecto Salta (The Big Leap Project). Salta was designed to assist female micro-entrepreneurs in developing countries by teaching them basic business knowledge so that they might make the leap to the next level of success. Salta instruction was provided free of cost to more than 100,000 Peruvian women in very brief stand-alone sessions (three hours per session) at exceptionally low cost to sponsors ($38 per participant).&nbsp;</span><br><span>&nbsp;Four women who participated in Salta are featured in this case. Each of these micro-entrepreneurs’ stories includes their personal backgrounds, their adaptations of Salta lessons and experiences, and the benefits derived for their businesses, families, communities, and for themselves.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-15-0014
+field_case_page_length:
+  -
+    value: '5 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: aaabdd44-8814-48e5-9ee7-bc7f16cdfdf5
+field_case_series_year:
+  -
+    value: '2015-01-01'
+field_case_setting:
+  -
+    value: Peru
+field_case_source:
+  -
+    value: 'Personal Research'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5e465552-3b19-4d0d-8456-49bd2a78ff07
+field_fields: {  }
+field_teaching:
+  -
+    value: "Many managers and leaders want to make a difference in improving communities where they do business. Some take part in social enterprises to support micro-entrepreneurs who live or work in a world far different from their own. Other managers and leaders look for opportunities to better understand their low-income suppliers and customers, and their employee’s family/home challenges in developing countries. What are their lives like? What sorts of aspirations do they hold? What accomplishments have they achieved? How are their lives, aspirations and accomplishments different from and similar to managers’ and leaders’ own lives, aspirations and accomplishments?\r\n\r\nThis case has two objectives:\r\n\r\n• To help managers and leaders broaden their understanding and empathy for those living in a world far different from their own, while also deepening their appreciation for privilege and good luck. Central to this case are stories of individual female micro-entrepreneurs living in a developing country, at or near the base of the socio-economic pyramid. Details include challenges these women face in blending work and family responsibilities, maintaining personal motivation, and building self-confidence. The case also provides a glimpse of values, aspirations and achievements that may be similar to and different from those of students.\r\n• To consider potential positive impacts for female micro-entrepreneurs who take part in brief business education programs as related, specifically, to their businesses, their families, their communities and their personal development."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+      - taxonomy_term.case_series_industry.aaabdd44-8814-48e5-9ee7-bc7f16cdfdf5
+      - taxonomy_term.case_series_categories.5e465552-3b19-4d0d-8456-49bd2a78ff07

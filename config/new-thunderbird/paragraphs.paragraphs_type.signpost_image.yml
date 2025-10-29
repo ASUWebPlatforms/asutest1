@@ -1,0 +1,10 @@
+uuid: d6549599-ee51-4889-a107-65812a206040
+langcode: en
+status: true
+dependencies: {  }
+id: signpost_image
+label: 'Signpost Image'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

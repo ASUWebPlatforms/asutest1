@@ -1,0 +1,9 @@
+content:
+  field_links:
+    settings:
+      title: Bekezdés
+      title_plural: Paragraphs
+  field_tooltip:
+    settings:
+      title: Bekezdés
+      title_plural: Paragraphs

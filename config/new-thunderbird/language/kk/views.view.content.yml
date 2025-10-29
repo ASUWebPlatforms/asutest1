@@ -1,0 +1,45 @@
+label: Контент
+display:
+  default:
+    display_title: Стандартты
+    display_options:
+      title: Контент
+      fields:
+        title:
+          label: Атауы
+        name:
+          label: Автор
+        status:
+          label: Жағдайы
+          settings:
+            format_custom_true: Жарияланған
+        operations:
+          label: Операциялар
+      exposed_form:
+        options:
+          submit_button: Фильтрле
+          reset_button_label: Ысыру
+      empty:
+        area_text_custom:
+          content: 'Контент жоқ.'
+      filters:
+        title:
+          expose:
+            label: Атауы
+        status:
+          expose:
+            label: Жағдайы
+          group_info:
+            group_items:
+              1:
+                title: Жарияланған
+        langcode:
+          expose:
+            label: Тіл
+  page_1:
+    display_title: Бет
+    display_options:
+      menu:
+        title: Контент
+      tab_options:
+        title: Контент

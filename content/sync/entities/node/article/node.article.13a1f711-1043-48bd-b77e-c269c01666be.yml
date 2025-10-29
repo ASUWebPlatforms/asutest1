@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 13a1f711-1043-48bd-b77e-c269c01666be
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Hidden Treasures'
+created:
+  -
+    value: '2014-12-02T16:52:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/hidden-treasures
+body:
+  -
+    value: "<p>The north of Peru is teeming with amazing destinations that are still unknown to most people outside of the region.&nbsp;<span>This past weekend, Casey and Griffin were invited by Juval, the regional president's advisor, to his beach house in Colan. Colan is a vacation destination for local Piurans, and is located only 45 minutes by car outside of the regional capital. The town boasts a beautiful coastline that has a view of the second largest port in the country, Paita. The dirt roads that criss-cross the town of 5,000 residents are lined with small&nbsp;restuarants that serve fresh seafood caught by local fisherman.</span></p>\r\n<p><span>[[{\"fid\":\"3075\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Hidden Treasures\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Hidden Treasures\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Hidden Treasures\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>\r\n<p>Griffin and Casey began their journey on Friday evening by meeting Juval and his wife at the bus station in Piura. One short bus transfer later, and the group arrived to Colan where they had freshly caught fish for dinner by 9:00PM. After dinner they walked along the moonlit beach while Juval explained the recent development of the local vacation destination, and how the town had dramatically grown over the past ten years. They returned to Juval's beach house, where Griffin entertained the hosts with guitar and song. The night drew on as conversation continued until 2:00AM until everyone retired to their rooms.</p>\r\n<p>The next day Juval gave Griffin and Casey a short tour of the town. While walking on the beach, they came across a fisherman with a net strewn across his shoulder. He had just dragged in his paddle boat and was taking inventory of the day's catch. They bought fish to cook for lunch, and went back to Juval's home for an afternoon siesta. The rest of the day was characterized by long talks and delicious food made by Juval's wife.</p>\r\n<p>As the day drew to a close and Casey and Griffin had to return to Piura, one last hidden gem awaited them. Colan is home to the oldest church in South America. On their way to the&nbsp;bus station, Juval and his wife gave the team members a tour of the nearly 500 year old sanctuary.</p>\r\n<p>[[{\"fid\":\"3076\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Hidden Treasures\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Hidden Treasures\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Hidden Treasures\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>It boasted a giant stone facade, a worn wooden floor, and a mud and straw roof. The history was absolutely palpable.</p>\r\n<p>This weekend was just another example of how impressive the region has been. Although Piura is known for its natural resources, the region's culture and history is what truly makes it rich.</p>\r\n<p><span>&nbsp;</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

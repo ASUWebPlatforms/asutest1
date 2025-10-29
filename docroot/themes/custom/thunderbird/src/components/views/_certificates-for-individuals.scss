@@ -1,0 +1,71 @@
+.certificates-for-individuals {
+  padding-top: $component-padding;
+  padding-bottom: $component-padding;
+
+  // Top form styling
+  .views-exposed-form {
+    &.uds-form {
+      display: block;
+      color: black;
+      background: none;
+      .form-label{
+        display: none;
+      }
+      .form-wrapper{
+        margin-bottom: 0 !important;
+        .card-header{
+          padding: 10px 0;
+          font-weight: 600;
+          font-size: 18px;
+          list-style: none;
+          &::after{
+            content: "+";
+            width: 30px;
+            height: 30px;
+            line-height: 26px;
+            text-align: center;
+            right: 0;
+            border: 2px solid #0179b7;
+            color: #0179b7;
+            position: absolute;
+            display: block;
+            top: 13px;
+            font-size: 30px;
+          }
+          &[aria-expanded="true"]{
+            &::after{
+              content: "-";
+            }
+          }
+        }
+        .card-body{
+          padding: 8px 5px;
+          .form-checkboxes{
+            .form-check{
+              margin: 2px;
+              .form-check-label{
+                padding: 0px 10px;
+                font-weight: 400;
+                font-size: 16px;
+                &::after, &::before{
+                  height: 1rem;
+                  width: 1rem;
+                  top: 0.48rem;
+                  left: -1.2rem;
+                }
+              }
+            }
+          }
+          .form-select{
+            width: 100%;
+            margin-left: 25px;
+            margin-top: 15px;
+          }
+        }
+        .form-submit{
+          margin-top: 15px
+        }
+      }
+    }
+  }
+}

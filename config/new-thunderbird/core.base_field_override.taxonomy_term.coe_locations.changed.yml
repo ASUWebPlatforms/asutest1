@@ -1,0 +1,18 @@
+uuid: 414e220f-88d8-48c3-bc56-8739bb26d13c
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.coe_locations
+id: taxonomy_term.coe_locations.changed
+field_name: changed
+entity_type: taxonomy_term
+bundle: coe_locations
+label: Changed
+description: 'The time that the term was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

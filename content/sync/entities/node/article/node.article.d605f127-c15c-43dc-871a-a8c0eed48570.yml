@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: d605f127-c15c-43dc-871a-a8c0eed48570
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Differences between Myanmar and China'
+created:
+  -
+    value: '2014-02-25T07:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/differences-myanmar-china
+body:
+  -
+    value: "<p><img src=\"/sites/default/files/blog.jpg\" style=\"display: block; margin: 10px; float: left;\" width=\"517\" height=\"517\" class=\"Image img__fid__1449 img__view_mode__default\">I remember my first look at Yangon through the taxi window. It reminded me of Ho Chi Minh, Vietnam ten years ago or even the outskirts of a city in China like Guangzhou around the same time. The city is still rough along the edges with a mish-mash of traffic, kicked up dust, smoke, and odors. It's busy, narrow, congested, and . . . exciting. There are pockets of western influence from the British colonial architecture of the 1800's to the western-style-Chinese-owned shopping centers (three we've seen so far). Even though the newly opened country seems to be following the same developmental footsteps as its Asian neighbors, the comparisons stop there. It's like China or Vietnam, but not.</p>\r\n<p>The first difference is that the people are friendly. Not just among friends, but also to total strangers. Unlike other densely populated countries where people seem not to care about neighbors, people respect one another. Despite the massive gridlock, there is relatively little honking. Trucks wave cars into their lane. Cab drivers are even known to return cell phones and belongings to passengers! The people of this country seem to be united in optimism. They have seen the worst and there's a collective motivation that they are unwilling to go back.</p>\r\n<p>Second, many people here speak English—and not just the young or professionals, but also those who are over 55 years old. From shop owners to cab drivers, those who are older were likely students of the British education system, and thus they speak proper English (not to mention that in the 1950's Myanmar was the intellectual hub of SE Asia). In other countries, such a level of English might be a sign of a local trying to cheat a poor naive Canadian backpacker (of course, not speaking from experience), but in Myanmar it's just the level of education. In China, for example, this level of English fluency would be reserved mostly for working professionals in Shanghai or English students or teachers – definitely not taxi drivers. Language proficiency is not limited to English, but also includes Japanese and Thai, a sign of the foreign businesses that have maintained long ties with the country.</p>\r\n<p>Nevertheless, the country does come with its challenges. Only 25% of the country has electricity. The parts that do have electricity don't have a consistent supply. Walking down the narrow and treacherous sidewalks (see Brad's blog post) is further complicated by weaving around massive generators for the surrounding buildings, shops, and restaurants. The fluctuation in power has been known to knock out personal electronics or even a hotel elevator…our hotel’s elevator, in fact. Other challenges include the high housing costs that rival Beijing and Tokyo—which is juxtaposed by relatively inexpensive food. A hamburger and fries in a cafe can cost as little as $4 compared to $8 or more in China.</p>\r\n<p>Government and ethnicities are also a point of differentiation in the country and, without getting into too much detail, figuring out why things happen and who-knows-who is trickier than in countries like China. Myanmar has many minorities and there is no overwhelming ethnicity like the Han in China. The relationship between military and politics means that this government operates differently than its neighbors.</p>\r\n<p>The cities are a work in progress and the people are more welcoming than many countries going through rapid development. Still, infrastructure and costs of living are challenges. Those businesses looking to enter what some are calling, \"the last frontier in Asia,\" should do so with eyes wide open knowing that this country is not \"the same but different\" – it is simply unique.</p>\r\n<p><em>Author: Patrick Mah</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b7ce5994-a336-433d-a3fa-93c52fd702a1
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b7ce5994-a336-433d-a3fa-93c52fd702a1

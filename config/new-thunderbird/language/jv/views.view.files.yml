@@ -1,0 +1,37 @@
+display:
+  default:
+    display_title: Gawan
+    display_options:
+      fields:
+        filename:
+          label: Jeneng
+        filesize:
+          label: Ukuran
+        status:
+          label: Status
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- Kabeh -'
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+      filters:
+        filename:
+          expose:
+            label: 'Jeneng File'
+        status:
+          expose:
+            label: Status
+  page_2:
+    display_options:
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- Kabeh -'
+      arguments:
+        fid:
+          exception:
+            title: Kabèh

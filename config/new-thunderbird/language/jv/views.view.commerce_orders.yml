@@ -1,0 +1,25 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- Kabeh -'
+      fields:
+        placed:
+          label: Tanggal
+        type:
+          label: Tipe
+        operations:
+          label: Operasi
+      filters:
+        type:
+          expose:
+            label: Tipe
+  page_1:
+    display_title: Kācā

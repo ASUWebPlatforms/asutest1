@@ -1,0 +1,99 @@
+uuid:
+  -
+    value: 577f9a0d-f915-4af9-a01d-0e553359e538
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:28:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Cardinal Health, Inc. (A)'
+created:
+  -
+    value: '2016-07-16T01:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:28:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-09-0001
+body:
+  -
+    value: '<p>Robert D. Walter built Cardinal Health into the most valuable company in the U.S. health care services industry and the world’s largest distributor of health care products. Cardinal Health, with revenues of $81 billion in 2006, was ranked Number 19 on the Fortune 500 list, and owned a third of the drug distribution business; yet most people had never heard of Cardinal Health. The case begins in 1979 with Walter''s purchase of Monarch Foods, a wholesale food distribution company, which he built into a strong regional food wholesaler, Cardinal Foods, in the subsequent decade. He realized that Cardinal Foods would never be a big player in the food business given the presence of large, powerful incumbents. Through a series of acquisitions, Walter repositioned the company into the pharmaceutical distribution industry. The result was the emergence of Cardinal Health, Inc.</p><p>Walter repeated this repositioning through acquisitions several more times within the dramatically consolidating pharmaceutical distribution industry. He diversified Cardinal Health from a company that moved pharmaceuticals from Point A to Point B to one that provided a complex array of solutions for upstream and downstream value chain partners in health care services. First, Walter built wholesale distribution competencies in the food industry. This was followed by the incremental expansion of this distribution competency into the pharmaceutical industry, and consolidation of critical mass as a wholesale distributor of pharmaceuticals in the U.S. Cardinal then expanded internationally and expanded their value chain position in both directions, partnering with both suppliers and customers to add value for both.</p><p>Cardinal was one of a handful of large U.S. companies that had achieved earnings-per-share growth in excess of 20 percent for 15 years straight. Nevertheless, by 2007, Wall Street was questioning whether Cardinal Health could continue to grow at this remarkable rate through acquisitions. This general doubt, coupled with questionable “stock crushing” accounting practices among wholesalers, including one of their own suppliers, was weighing down Cardinal''s stock price despite their continued earnings growth. Cardinal Health, the merger and acquisition juggernaut, had hit an earnings speed bump. As Walter contemplated retirement, he was faced with the challenge of reinventing the company one last time.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-09-0001
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b91234b7-5fe6-4964-80d7-0c09e20cd404
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields: {  }
+field_teaching:
+  -
+    value: "The case provides a vehicle for analyzing the 30-year evolution of an organization that was a pioneer in shaping the health care services and distribution industry. Historic information tracks how the company used acquisitions to reposition from the low-margin food distribution industry into the higher-margin pharmaceutical distribution industry. It then illustrates how a series of additional acquisitions were used to build significant market share in the pharmaceutical industry. From this position of strength in the pharmaceutical distribution industry, the company incrementally expanded as a knowledge and service provider to upstream and downstream partners, eventually repositioning into the even-higher-margin health care services and distribution industry which it helped create. The case emphasizes contribution of a clear vision, especially at key inflection points, and adaptation in the face of major competitive threats, environmental turbulence, regulation, and industry transformation.\r\n\r\nDetailed information in the case helps the reader understand the power of related diversification strategies and the role of executive vision in creating the future. The case fits well into courses in competitive strategy, management of technology and innovation, or corporate strategy with an emphasis on mergers and acquisitions. Concepts that can be developed from the case include the importance of vision at key inflection points, the role of innovation throughout the company's life cycle, and the contribution of deep change as a repositioning tool."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b91234b7-5fe6-4964-80d7-0c09e20cd404
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71

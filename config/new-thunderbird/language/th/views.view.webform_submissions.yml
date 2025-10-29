@@ -1,0 +1,79 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Reset
+      pager:
+        options:
+          tags:
+            first: '« first'
+            last: 'last »'
+      fields:
+        created:
+          label: สร้างเมื่อ
+        remote_addr:
+          label: 'ที่อยู IP'
+        view_webform_submission:
+          label: Operations
+      arguments:
+        in_draft:
+          exception:
+            title: ทั้งหมด
+  embed_administer:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: แอคชั่น
+        locked:
+          label: ถูกล็อค
+        created:
+          label: สร้างเมื่อ
+        completed:
+          label: เรียบร้อยแล้ว
+        remote_addr:
+          label: 'ที่อยู IP'
+        operations:
+          label: Operations
+      filters:
+        locked:
+          expose:
+            label: ถูกล็อค
+  embed_manage:
+    display_options:
+      fields:
+        webform_submission_bulk_form:
+          action_title: แอคชั่น
+        locked:
+          label: ถูกล็อค
+        created:
+          label: สร้างเมื่อ
+        completed:
+          label: เรียบร้อยแล้ว
+        remote_addr:
+          label: 'ที่อยู IP'
+        view_webform_submission:
+          label: Operations
+        edit_webform_submission:
+          label: Operations
+      filters:
+        locked:
+          expose:
+            label: ถูกล็อค
+  embed_review:
+    display_options:
+      fields:
+        locked:
+          label: ถูกล็อค
+        created:
+          label: สร้างเมื่อ
+        completed:
+          label: เรียบร้อยแล้ว
+        remote_addr:
+          label: 'ที่อยู IP'
+        view_webform_submission:
+          label: Operations
+      filters:
+        locked:
+          expose:
+            label: ถูกล็อค

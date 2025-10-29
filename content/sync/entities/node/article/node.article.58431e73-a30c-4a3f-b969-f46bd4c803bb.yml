@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 58431e73-a30c-4a3f-b969-f46bd4c803bb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-12-28T16:26:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Secrets of Negotiation: 4 Tips to Become More Effective '
+created:
+  -
+    value: '2018-12-28T16:26:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-12-28T16:26:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/secrets-negotiation-4-tips-become-more-effective
+body:
+  -
+    value: "<p>[[{\"fid\":\"69535\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Secrets of Negotiation: 4 Tips to Become More Effective \",\"field_file_image_title_text[und][0][value]\":\"The Secrets of Negotiation: 4 Tips to Become More Effective \"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Secrets of Negotiation: 4 Tips to Become More Effective \",\"field_file_image_title_text[und][0][value]\":\"The Secrets of Negotiation: 4 Tips to Become More Effective \"}},\"attributes\":{\"alt\":\"The Secrets of Negotiation: 4 Tips to Become More Effective \",\"title\":\"The Secrets of Negotiation: 4 Tips to Become More Effective \",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Think of all the times in your career that you’ve had to negotiate – with your employer or employees, with clients, with partners. From salary to sales agreements, negotiating is a critical skill. However, many people are intimidated by negotiation because it is often thought of as a sort of battle in which one person wins and another loses.&nbsp;</p>\r\n<p>In his recent webinar,&nbsp;<a href=\"https://thunderbird.asu.edu/knowledge-network/winning-together-secrets-negotiations\">Winning Together: The Secrets of Negotiation</a>,&nbsp;Dr. Ted Cross says that, “Negotiation is really just convincing someone or another entity to an agreeable position for both of you.”&nbsp;</p>\r\n<h3>Four Angles of Negotiation&nbsp;</h3>\r\n<p>According to Dr. Cross there are four angles of negotiation: prior beliefs, emotion, agency, and incentives. Each one plays an important role and creates a holistic approach to negotiation.&nbsp;</p>\r\n<h3>Prior Beliefs&nbsp;</h3>\r\n<p>When entering a negotiation with someone it’s important to remember that we all bring our own prior beliefs to the conversation. Because we are creatures of habit, we tend to be consistent with our past beliefs and opinions and they influence our current decision making. When we’re thoroughly aware of our counterparts’ prior beliefs we better understand where they’re coming from and can tailor the discussion. &nbsp; &nbsp;</p>\r\n<p>Knowing a person’s prior beliefs can also help us find common ground, which is the foundation for building trust and relationships. This does not mean you should manipulate data to match your or their opinion. We should always be honest in our presentation and if the data goes against your counterpart’s prior beliefs, help them understand why the first set of data is different or incomplete and how the new data lines up with their beliefs.&nbsp;</p>\r\n<h3>Emotions</h3>\r\n<p>Although we love data, humans are not as rational as we think. In fact, people often don’t make decisions based on data, rather use data to justify emotional or irrational decisions. For example, before we buy something we&nbsp;<i>want</i>– a new car, a new TV, the newest iPhone – we research the product online and get recommendations from friends. Then when someone asks us about our purchase, we don’t say, “I really wanted it.” We use the data points to back up our decision. Moral of the story – when you’re negotiating, “Do not try to connect with&nbsp;reasonuntil you have connected with&nbsp;emotion.”&nbsp;</p>\r\n<p>In order to connect with emotions, we can do a few things – tell a good story and paint a vision. Dr. Cross gives an example of his wife, a realtor, who was negotiating a deal on a house for a young family. The house had multiple offers. The client couldn’t raise their offer so instead, the realtor painted a vision for the seller. She said things like, “This is a really cute family. They have three kids and just moved here from Minnesota. I know they’re going to love and care for this home for a long time.” The family got the house.&nbsp;</p>\r\n<h3>Agency/Autonomy&nbsp;</h3>\r\n<p>When you’re trying to get a kid to eat their vegetables, you don’t ask, “Do you want to eat peas or chocolate cake?” You ask, “Do you want to eat peas or carrots?” The same is true in a negotiation. We want to help people feel like they’re in control and like they are making their own choices.&nbsp;</p>\r\n<p>Our innate desire for control makes us susceptible to trying to control the situation. But the more we try to control our counterpart, the more confined they feel. Going back to the vegetable example, by asking them if they want peas or carrots, you’re creating a more collaborative conversation.&nbsp;</p>\r\n<h3>Incentives&nbsp;</h3>\r\n<p>Before you go into a negotiation, ask yourself a few questions . . .&nbsp;</p>\r\n<ul>\r\n<li><i style=\"font-size: 1em;\">What is my ideal outcome?&nbsp;</i><span style=\"font-size: 1em; background-color: transparent;\">For example, your ideal salary is $100,000&nbsp;</span></li>\r\n<li><i style=\"font-size: 1em;\">What is my ZOPA (zone of possible agreement)?&nbsp;</i><span style=\"font-size: 1em; background-color: transparent;\">This is the range in which you’re willing to make a deal. For example, even though your ideal salary is $100,000 you’d be happy making somewhere between $80,000 and $120,000.</span></li>\r\n<li><i style=\"font-size: 1em;\">What is my BATNA (best alternative to negotiated agreement)?&nbsp;</i><span style=\"font-size: 1em; background-color: transparent;\">If you can’t reach a deal, what’s the best alternative? For example, the company can only offer you $70,000. Would you be open to more PTO instead?&nbsp;</span></li>\r\n</ul>\r\n<p>When you apply these four angles to any negotiation you are more likely to reach an agreeable outcome for both you and your counterpart.&nbsp;</p>\r\n<div></div>"
+    format: basic_html
+    processed: ''
+    summary: "Think of all the times in your career that you’ve had to negotiate – with your employer or employees, with clients, with partners. From salary to sales agreements, negotiating is a critical skill. However, many people are intimidated by negotiation because it is often thought of as a sort of battle in which one person wins and another loses. \r\n\r\nIn his recent webinar, Winning Together: The Secrets of Negotiation, Dr. Ted Cross says that, “Negotiation is really just convincing someone or another entity to an agreeable position for both of you.” \r\n"
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1208
+    target_type: file
+    target_uuid: fa5bbbdf-cdf2-406f-b972-fb3a46e6fc92
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.fa5bbbdf-cdf2-406f-b972-fb3a46e6fc92
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

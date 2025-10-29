@@ -1,0 +1,22 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: فلٹر
+          exposed_sorts_label: 'کی طرف سے  کی گئی مرتب سازی'
+      pager:
+        options:
+          tags:
+            previous: ››
+            next: ‹‹
+            first: '» ابتدائی'
+      fields:
+        code:
+          label: کوڈ
+        operations:
+          label: معاملات
+      filters:
+        code:
+          expose:
+            label: کوڈ

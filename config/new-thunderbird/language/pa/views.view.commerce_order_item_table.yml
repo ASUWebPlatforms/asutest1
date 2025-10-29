@@ -1,0 +1,13 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: ਰੀ-ਸੈੱਟ
+      fields:
+        title:
+          label: ਟਾਈਟਲ
+      arguments:
+        order_item_id:
+          exception:
+            title: ਸਭ

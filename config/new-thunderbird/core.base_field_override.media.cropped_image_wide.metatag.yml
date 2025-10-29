@@ -1,0 +1,18 @@
+uuid: 6ca5f470-82c6-4333-b7ca-37a82fbcca7b
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.cropped_image_wide
+id: media.cropped_image_wide.metatag
+field_name: metatag
+entity_type: media
+bundle: cropped_image_wide
+label: 'Metatags (Hidden field for JSON support)'
+description: 'The meta tags for the entity.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: map

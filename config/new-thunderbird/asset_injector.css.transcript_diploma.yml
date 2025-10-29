@@ -1,0 +1,43 @@
+uuid: b69e1441-af7c-4ead-84ac-4352bf2a3e3a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+    - webform
+id: transcript_diploma
+label: Transcript/Diploma
+code: |-
+  form.uds-form .form-control[readonly] {
+      color: #000 !important;
+  }
+  .card-header:first-child {
+      display: none;
+  }
+  .offset-1 {
+      margin-left: 0;
+  }
+  .col-10 {
+      flex: 0 0 100%;
+      max-width: 100%;
+  }
+  .card-body {
+      padding: 0 15px 24px;
+      max-width: 100%;
+  }
+media: all
+preprocess: true
+conditions:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /alumni/resources-order-transcripts
+  webform:
+    id: webform
+    negate: false
+    context_mapping:
+      webform: '@webform.webform_route_context:webform'
+    webforms:
+      transcript_diploma_asurite_id_re: transcript_diploma_asurite_id_re
+contexts: {  }
+conditions_require_all: false

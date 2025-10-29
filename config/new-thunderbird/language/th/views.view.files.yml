@@ -1,0 +1,25 @@
+display:
+  default:
+    display_title: Default
+    display_options:
+      fields:
+        filename:
+          label: Name
+        status:
+          label: สถานะ
+      exposed_form:
+        options:
+          reset_button_label: Reset
+      filters:
+        status:
+          expose:
+            label: สถานะ
+  page_2:
+    display_options:
+      fields:
+        type:
+          label: 'Entity type'
+      arguments:
+        fid:
+          exception:
+            title: ทั้งหมด

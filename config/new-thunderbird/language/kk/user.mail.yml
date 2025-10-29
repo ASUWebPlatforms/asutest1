@@ -1,0 +1,2 @@
+register_admin_created:
+  subject: 'Басқарушы сіз үшін [site:name] сайтында есеп құрды'

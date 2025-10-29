@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: e5a77b32-af68-4e5e-987a-873276c3d7a7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'An Alternative to Inspiring Through Fear'
+created:
+  -
+    value: '2012-12-20T12:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/inspiring-through-fear-alternative
+body:
+  -
+    value: "<p>Leaders get paid to think big, which means they sometimes announce ambitious initiatives and then leave the details for others to figure out. These leaders hand down the marching orders and expect targets to be hit. But they are not around at 3 a.m. to see the fallout on the rank and file.</p>\r\n<p>They do not see the impact on people like the project manager we recently met in a&nbsp;<em>Fortune</em>&nbsp;100 company. She routinely returns home from work around 7 p.m., cooks dinner for her family and puts her daughter to bed. Then she opens her laptop and works several more hours, often until 3 a.m.</p>\r\n<p>We asked her why she does this. Her response serves as a wakeup call for leaders everywhere who distance themselves from strategy implementation. “They keep adding new initiatives,” she told us. “These leaders don’t fully understand what it takes to translate their vision into results.” This project manager is a high-performer who refuses to fail. But she has human limits.</p>\r\n<p>Bosses oblivious to the realities of strategy implementation sometimes see their teams struggling and respond with fiery pep talks. Other times they make threats. In their minds they are inspiring the troops to new heights — something great leaders are supposed to do. But they fail to grasp that when the underlying problem is lack of capacity, no amount of pleading, begging, bribing or threatening will work.</p>\r\n<p>They also ignore well-established research that shows the futility of inspiring through fear. Leaders who pile on tasks and expect results — or else — use fear as their default motivational tool. A better way is to learn the strategic pathways, assess the organization’s capacity, recognize the individual and then convey the potential joy of accomplishment.</p>\r\n<p><strong>1. Know the pathways</strong></p>\r\n<p>To have a clear strategy, leaders also need a clear understanding of what the implementation challenges will be.</p>\r\n<p>When initiatives roll out across the organization, strategic intent translates into a range of projects at the division and team levels. These priorities must compete with corporate initiatives that cut across the various divisions. At the same time people have day jobs that can’t be neglected.</p>\r\n<p>Leaders who want to rally their teams to success must develop an aerial view of the strategic pathways. They must know what’s really happening as their big ideas turn into initiatives that cascade through all levels of the organization.</p>\r\n<p><strong>2. Know the capacity</strong></p>\r\n<p>An aerial view of the strategic pathways allows leaders to develop a more realistic sense of their organization’s capacity. Even highly motivated teams with the right talent and skills need time, tools and other resources to succeed. Not everything can be a priority. Working every night until 3 a.m. cannot be the solution.</p>\r\n<p><strong>3. Know the individual</strong></p>\r\n<p>Part of being an inspiring leader is to focus not on self, but on those doing the actual work. We agree with author Daniel H. Pink, who says people need autonomy, mastery and sense of purpose. Inspiring leaders make people feel good about the contributions they make. People do amazing things when they have a sense of belonging and see themselves as valued contributors to something worthwhile.</p>\r\n<p><strong>4. Convey the joy</strong></p>\r\n<p>Fear draws upon negative emotions and emphasizes the bad things that will happen if targets are missed. Inspiring leaders focus more on the positive. They convey the joy that will come through accomplishment. And they let their project managers sleep at 3 a.m.</p>\r\n<p><em><strong><a href=\"/node/133\">Kannan Ramaswamy, Ph.D.</a>,</strong>&nbsp;is the William D. Hacker Chair Professor of Management at Thunderbird School of Global Management near Phoenix, Arizona.&nbsp;<strong><a href=\"/node/187\">Bill Youngdahl, Ph.D.</a>,</strong>&nbsp;is an Associate Professor of Project and Operations Management at Thunderbird.</em></p>\r\n<p><a href=\"http://www.youtube.com/watch?v=vLCcu2CXntk\" target=\"_blank\"><strong>Video:</strong>&nbsp;Inspiring through fear (2:06)</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

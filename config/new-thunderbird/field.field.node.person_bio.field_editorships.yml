@@ -1,0 +1,27 @@
+uuid: bdf7dcb8-6fa2-4bcb-a49d-24185879d1f9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_editorships
+    - node.type.person_bio
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - basic_html
+      - full_html
+id: node.person_bio.field_editorships
+field_name: field_editorships
+entity_type: node
+bundle: person_bio
+label: Editorships
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

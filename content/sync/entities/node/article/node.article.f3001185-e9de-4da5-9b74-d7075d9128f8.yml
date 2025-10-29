@@ -1,0 +1,91 @@
+uuid:
+  -
+    value: f3001185-e9de-4da5-9b74-d7075d9128f8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-08-26T15:41:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'There Is No New Normal. Organizations Must Build Resilience.'
+created:
+  -
+    value: '2020-08-26T15:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-08-26T15:41:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/there-no-new-normal-organizations-must-build-resilience
+body:
+  -
+    value: '<p>In a world full of uncertainties, leaders are tasked with the challenge of managing and mitigating emerging risks while simultaneously maintaining operations and looking for growth opportunities. Striking this balance can be difficult, especially when compounded by the stresses of a global pandemic.</p><h3>COVID-19 Has Forced an Overdue Reckoning &nbsp;</h3><p>“The pressures of the COVID-19 pandemic have forced an overdue reckoning with how we make decisions and how we consider uncertainty and risk,” Ann Florini, Clinical Professor at Thunderbird School of Global Management, said in a recent&nbsp;<a href="https://www.youtube.com/watch?v=lniBkT9bbyQ">webinar</a>. &nbsp;&nbsp;</p><p>Traditionally, risk can be separated into two categories: exogenous risks, like pandemics or natural disasters, arise from things that are beyond our control. Endogenous risks, like climate change or financial crises, arise from institutional failures. However, because we have created a highly complex, interconnected, and fragile system, risks that we traditionally think of as exogenous are becoming endogenized. COVID-19 is a good example of this because “it’s part of a system of global interactions we’ve been building for decades,” Florini explained.&nbsp;</p><p>Although the specifics of this pandemic couldn’t have been predicted, global public health experts have been forecasting something like COVID-19 for more than 20 years. Yet, societies and global organizations were still vastly unprepared.</p><blockquote><p><i>“The pressures of COVID-19 have forced an overdue reckoning with how we make decisions and how we consider uncertainty and risk.” ~ Thunderbird professor Ann Florini -&nbsp;</i><a href="https://ctt.ec/7dYuw">Click to Tweet</a><a href="applewebdata://81A2C77D-FD73-45E9-801F-E2EB28A31BE8#_msocom_1" id="_anchor_1" name="_msoanchor_1"></a></p></blockquote><h3>There is No “New Normal”</h3><p>Unexpected events like the pandemic are going to keep happening, “driven by the great fragilities in political social systems and economic systems, as well as the creaking natural environmental infrastructure that we’ve now stressed to the point of collapse,” Florini said.&nbsp;</p><p>Instead of focusing on a static “new normal,” we need to accept that&nbsp;unexpected events are the new normal.&nbsp;“All of this requires a different set of mindsets, tools, and techniques than the ones we’ve been using and training people to use,” said Florini. It starts with a focus on resilience.&nbsp;</p><blockquote><p><i>“There is no new normal. We need to accept that unexpected events are the new normal and prepare accordingly.”&nbsp;</i><i>~ Thunderbird professor&nbsp;Ann Florini &nbsp;-&nbsp;</i><a href="https://ctt.ec/a530g">Click to Tweet&nbsp;</a><a href="applewebdata://81A2C77D-FD73-45E9-801F-E2EB28A31BE8#_msocom_2" id="_anchor_2" name="_msoanchor_2"><br></a></p></blockquote><h3>Resiliency is Key to Survival &nbsp;</h3><p>In a hugely complex system where one small thing, like the mutation of a single virus, can take down the entire system – and you can’t predict when or where it’s going to happen – “resilience is the most important characteristic for any organization that’s hoping to survive,” Florini said.&nbsp;</p><p>There are many tools organizations can implement to foster resilience. “Organizations can start by focusing on transparent communication,” Florini said. That requires leaders to actively break-down siloes. “This has become very standard management advice, but few companies know how to do it effectively.”</p><p>Getting beyond the current crisis and preparing for crises that will arise in the future, “companies need to look broadly at a wide range of possible scenarios and outcomes,” said Florini. “We never know what’s going to hit us next, but this method will help organizations make robust decisions under uncertain circumstances. It also enables teams that don’t necessarily agree about what the future may be, to agree on decisions.”&nbsp;</p><blockquote><p><i></i><i>“Contingency on steroids is what businesses need to be looking at.” ~ Thunderbird professor&nbsp;&nbsp;Ann Florini &nbsp;-&nbsp;</i><a href="https://ctt.ec/bo92a">Click to Tweet&nbsp;</a><a href="applewebdata://81A2C77D-FD73-45E9-801F-E2EB28A31BE8#_msocom_3" id="_anchor_3" name="_msoanchor_3"></a></p></blockquote><p>Of course, building organizational resiliency hinges on educating and training leaders who are resilient. That’s one reason why Thunderbird created the new&nbsp;<a href="https://thunderbird.asu.edu/degrees/graduate-degree/executive-master-in-global-affairs-management">Executive Master of Global Affairs and Management</a>&nbsp;degree, based in Washington, D.C. “In this degree program we look at the different tools and techniques that exist, with a foundational understanding that we are in a world full of uncertainty,” explained Florini, who leads the program.&nbsp;</p><p>The COVID-19 pandemic will come to an end, but there will be other crises to come. Organizations and leaders must be prepared to adapt. Florini concluded, “Contingency on steroids is what businesses need to be looking at.”<span style="text-decoration: underline;"><br></span></p>'
+    format: basic_html
+    processed: ''
+    summary: 'In a world full of uncertainties, leaders are tasked with the challenge of managing and mitigating emerging risks while simultaneously maintaining operations and looking for growth opportunities. Striking this balance can be difficult, especially when compounded by the stresses of a global pandemic.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1200
+    height: 800
+    target_type: file
+    target_uuid: fa44117a-cec4-4aa9-8aaa-5d7e20cbc842
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c0c50b2-abbc-4783-85ab-59ca48f1f78a
+  -
+    target_type: taxonomy_term
+    target_uuid: d56db585-56f6-4a48-b753-745e3a7e210c
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.fa44117a-cec4-4aa9-8aaa-5d7e20cbc842
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3
+      - taxonomy_term.knowledge_network_tags.2c0c50b2-abbc-4783-85ab-59ca48f1f78a
+      - taxonomy_term.knowledge_network_tags.d56db585-56f6-4a48-b753-745e3a7e210c

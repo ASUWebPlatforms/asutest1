@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 23412b9f-e808-4a72-af59-432389c1fe3b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Lessons from my student'
+created:
+  -
+    value: '2016-06-21T21:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/lessons-from-my-student
+body:
+  -
+    value: "<p>[[{\"fid\":\"810\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>This week I had the pleasure of meeting a former Thunderbird student of mine on our Glendale campus.&nbsp;<strong>Mark Rieper ’01</strong>&nbsp;was a particularly bright young man who showed much promise when he was student in my strategy class. He joined an IT consulting company, later branched into cross-cultural consulting and has subsequently gone on to found his own practice.&nbsp;I remembered him as a quiet but confident person with unique listening skills, and the virtues of remarkable self-awareness.&nbsp;We have stayed in touch very infrequently over the years, but Mark reached me when he knew he would be in town for some downtime.&nbsp;I was eager to catch up with him and learn about his successful exploits in the world of consulting.&nbsp;</p>\r\n<p>We settled down to coffee at the Commons and quickly caught up with each other. We discussed the trials and tribulations we had experienced, the joys of parenting, (Mark being a young dad with two little ones) and, of course, the requisite discussion around business models, value propositions and customer segments for his consulting practice. I was very impressed&nbsp; when he identified with remarkable clarity the three keys that he thought were really helpful to him along the way.</p>\r\n<p><strong>1. Read extensively because many others don’t.&nbsp;</strong>Mark told me that even in the rarefied world of top management consulting, he often encounters leaders who simply cannot find the time to keep up with the explosion of information around them. He sees it as a distinct source of competitive advantage if he can spend his time staying on top of key developments in the fields of interest to his clients.&nbsp;“I try to stay current on a variety of closely connected topics while at the same time drawing on an eclectic range of sources so that I can connect the dots in ways that offer new insights to my audience,” he said. Many people know the value of reading but let the immediate override the important. It is obvious that Mark has been able to hold these pressures at bay.</p>\r\n<p><strong>2. Be disciplined about how you spend your time.&nbsp;</strong>Mark seemed aghast when he observed, “You would be amazed at how badly people manage their time. They spend endless hours obsessing about things that don’t matter.” I thought this was another way of saying, “Don’t sweat the small stuff.” But Mark corrected me and went on to explain why he believed that spending time on the wrong things can not only detract from your ability to focus on the right things, it also can rob you of a positive attitude you need to have to make progress. Every step you take ought to be deliberate and meaningful lest you waste your time.</p>\r\n<p><strong>3. Act the role you aspire to. It breeds confidence.</strong>&nbsp;You need to have the self-confidence to believe that you have the right to aspire. This is not just daydreaming, but more along acting the way you want to be seen, and backing that up with the right level of competences that are easily visible. Rarely do you see the high achievers playing the role of a wallflower in important deliberations. Mark says that the sheer process of visualizing yourself in the aspirational role you see yourself in can itself work wonders for your self-confidence. He is spot on.</p>\r\n<p><em><strong><a href=\"/node/133\" target=\"_blank\">Kannan Ramaswamy, Ph.D.,</a></strong>&nbsp;is the William D. Hacker Chair and Professor of Management at Thunderbird School of Global Management near Phoenix, Arizona.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b08d5919-cc6b-4ba9-b8e0-c87cc431314a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b08d5919-cc6b-4ba9-b8e0-c87cc431314a

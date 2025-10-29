@@ -1,0 +1,14 @@
+uuid: 17aef689-b8ca-4884-999a-8c67dfc65138
+langcode: en
+status: true
+dependencies:
+  config:
+    - group.type.gdmi
+id: gdmi-outsider
+label: Outsider
+weight: -101
+internal: true
+audience: outsider
+group_type: gdmi
+permissions_ui: true
+permissions: {  }

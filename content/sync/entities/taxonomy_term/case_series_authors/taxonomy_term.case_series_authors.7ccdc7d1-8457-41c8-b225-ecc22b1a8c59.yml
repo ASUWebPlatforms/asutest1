@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: 7ccdc7d1-8457-41c8-b225-ecc22b1a8c59
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: case_series_authors
+    target_type: taxonomy_vocabulary
+    target_uuid: 3dcd6be4-7864-44e6-8d39-b57e5c5634ca
+revision_created:
+  -
+    value: '2021-10-01T10:39:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Neena Sondhi'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 2
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2021-10-01T10:39:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

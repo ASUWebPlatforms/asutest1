@@ -1,0 +1,15 @@
+uuid: 0a0ea656-86b8-4cea-9930-a6ba89735e33
+langcode: en
+status: true
+dependencies: {  }
+name: rankings
+label: Rankings
+effects:
+  2c135eb7-0e0d-4184-910f-8ef4d8d80822:
+    uuid: 2c135eb7-0e0d-4184-910f-8ef4d8d80822
+    id: image_scale
+    weight: 1
+    data:
+      width: 393
+      height: null
+      upscale: false

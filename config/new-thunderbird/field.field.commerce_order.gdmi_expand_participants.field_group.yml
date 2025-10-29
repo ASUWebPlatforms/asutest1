@@ -1,0 +1,21 @@
+uuid: 65be5e73-1a05-43d2-854b-affb28070613
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_order.commerce_order_type.gdmi_expand_participants
+    - field.storage.commerce_order.field_group
+id: commerce_order.gdmi_expand_participants.field_group
+field_name: field_group
+entity_type: commerce_order
+bundle: gdmi_expand_participants
+label: Group
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:group'
+  handler_settings: {  }
+field_type: entity_reference

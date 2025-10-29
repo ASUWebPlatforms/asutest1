@@ -1,0 +1,58 @@
+.gdmi-modal-overlay {
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: background-color 0.35s ease;
+
+  &.show {
+    visibility: visible;
+    height: 100%;
+    width: 100%;
+    z-index: 1100;
+    background-color: rgba(0, 46, 95, 0.5);
+  }
+}
+
+.gdmi-modal {
+  visibility: hidden;
+  background-color: $blue-dark;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  right: -100%;
+  transition-delay: 0.35s;
+  transition: right 0.35s ease;
+  padding: 1rem;
+  z-index: 1101;
+  max-width: 755px;
+
+  a.btn:hover {
+    cursor: pointer;
+    border: 1px solid $blue-mid;
+    color: white;
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding: 114px 109px;
+  }
+
+  &__subtitle {
+    font-weight: 900;
+    font-style: italic;
+    font-size: 24px;
+    display: block;
+    margin-bottom: 16px;
+  }
+
+  &__description {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 28px;
+  }
+
+  &.show {
+    visibility: visible;
+    right: 0;
+  }
+}

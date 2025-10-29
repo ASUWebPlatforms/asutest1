@@ -1,0 +1,47 @@
+label: Media
+display:
+  default:
+    display_title: Gawan
+    display_options:
+      title: Media
+      fields:
+        media_bulk_form:
+          action_title: Aksi
+        bundle:
+          label: Tipe
+        uid:
+          label: Penulis
+        status:
+          label: Status
+          settings:
+            format_custom_true: Dipacak
+        changed:
+          label: 'Wis anyar'
+        operations:
+          label: Operasi
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- Kabeh -'
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+      filters:
+        bundle:
+          expose:
+            label: Tipe
+        status:
+          group_info:
+            group_items:
+              1:
+                title: Dipacak
+        langcode:
+          expose:
+            label: Basa
+  media_page_list:
+    display_title: Media
+    display_options:
+      menu:
+        title: Media

@@ -1,0 +1,18 @@
+uuid: 8ad4be92-44a8-49ce-9a10-dd1ee16800a4
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.kn_thought_leaders
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: taxonomy_term.kn_thought_leaders
+target_entity_type_id: taxonomy_term
+target_bundle: kn_thought_leaders
+default_langcode: site_default
+language_alterable: false

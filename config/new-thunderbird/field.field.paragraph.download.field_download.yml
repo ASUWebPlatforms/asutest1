@@ -1,0 +1,27 @@
+uuid: 5561fc43-129e-49fd-9ba7-15ab798f6b57
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_download
+    - paragraphs.paragraphs_type.download
+  module:
+    - file
+id: paragraph.download.field_download
+field_name: field_download
+entity_type: paragraph
+bundle: download
+label: Download
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:file'
+  handler_settings: {  }
+  file_directory: '[date:custom:Y]-[date:custom:m]'
+  file_extensions: 'txt pdf xls'
+  max_filesize: ''
+  description_field: false
+field_type: file

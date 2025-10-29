@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 6e4bd0fd-96f3-438b-8477-badfab272e7e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-05-08T21:57:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Covid-19 Lockdown: Students in Arizona to get their graduation day by using robots'
+created:
+  -
+    value: '2020-05-08T07:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-08T21:57:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/covid-19-lockdown-students-in-arizona
+body:
+  -
+    value: '<p>Students in Arizona State University will now be able to attend their graduation ceremonies amid the coronavirus lockdown with the help of robots!</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-05-08T14:45:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 2048
+    height: 1365
+    target_type: file
+    target_uuid: 8f13874a-70f8-4cf6-9146-5dc7828fb994
+field_news_link:
+  -
+    uri: 'https://www.indiatoday.in/education-today/news/story/covid-19-lockdown-students-in-arizona-to-get-their-graduation-day-by-using-robots-1675890-2020-05-08'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: 'India Today'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.8f13874a-70f8-4cf6-9146-5dc7828fb994

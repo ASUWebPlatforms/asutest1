@@ -1,0 +1,25 @@
+diff --git a/core/modules/layout_builder/src/Form/MoveBlockForm.php b/core/modules/layout_builder/src/Form/MoveBlockForm.php
+index beb3aa97..2ff86a5e 100644
+--- a/core/modules/layout_builder/src/Form/MoveBlockForm.php
++++ b/core/modules/layout_builder/src/Form/MoveBlockForm.php
+@@ -331,11 +331,15 @@ protected function getSelectedDelta(FormStateInterface $form_state) {
+    *   The title for the move block form.
+    */
+   public function title(SectionStorageInterface $section_storage, $delta, $uuid) {
+-    $block_label = $section_storage
+-      ->getSection($delta)
+-      ->getComponent($uuid)
+-      ->getPlugin()
+-      ->label();
++    $section = $section_storage->getSection($delta);
++    $section_components = $section->getComponents();
++    $block_label = $uuid;
++    
++    if (isset($section_components[$uuid])) {
++       $block_label = $section->getComponent($uuid)
++        ->getPlugin()
++        ->label();
++    }
+ 
+     return $this->t('Move the @block_label block', ['@block_label' => $block_label]);
+   }

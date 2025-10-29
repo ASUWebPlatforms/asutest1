@@ -1,0 +1,19 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: ਰੀ-ਸੈੱਟ
+      fields:
+        nothing:
+          alter:
+            text: ਸੋਧ
+        nothing_1:
+          alter:
+            text: ਹਟਾਓ
+        title:
+          label: ਟਾਈਟਲ
+      filters:
+        title:
+          expose:
+            label: ਟਾਈਟਲ

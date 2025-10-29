@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 5dc1fea4-4505-4a82-b8d3-a9149e0c6efc
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T18:30:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Procter and Gamble versus Bankers Trust: Caveat Emptor'
+created:
+  -
+    value: '2016-07-26T18:30:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T18:30:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-05-0001
+body:
+  -
+    value: '<p><span>It was May 1, 1996, and the Procter &amp; Gamble Company (P&amp;G) was nearly out of time. If it was to settle its $200 million lawsuit against Bankers Trust Company (Bankers Trust) out of court, it had to do so soon. The two companies had already suffered two very hard years of a very public disagreement. P&amp;G needed to decide now if it wanted to go to trial, or settle for some amount short of what it actually owed to Bankers Trust (it had never actually paid Bankers Trust any of the funds in question). On a large scale, the controversy surrounding the P&amp;G swap losses had threatened to undermine the widespread use of financial derivatives by corporate treasuries in general. These swaps had been entered into under the guise of hedging, but were now being characterized as purely speculative. Corporate finance groups-and their bankers-were all asking the same question: How could this happen?</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-05-0001
+field_case_page_length:
+  -
+    value: '18 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: e63a6a76-e3bd-49e7-93a2-9cfd4c527752
+field_teaching:
+  -
+    value: 'The case was written to detail the multitude of issues involved in what is frequently cited as the most prominent derivatives debacle in U.S. financial history. Although finance students are routinely schooled in the construction and valuation of various financial derivatives, including foreign exchange and interest rate swaps, they rarely see how these specific instruments fit within the corporate frameworks of financial policy and procedure. The failure of Bankers Trust to divulge all of the valuation details behind the transaction sold to Procter & Gamble in 1993-94, and the failure of P&G''s treasury staff to pursue their own valuation and mark-to-market due diligence on the transactions entered into, combine to create a situation in which disaster was an eventuality. Topics include the understanding and valuation of leveraged interest rate swap transactions, a bank''s possible fiduciary duties in regards to corporate customers, and corporate philosophy on differentiating hedging from speculation.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.e63a6a76-e3bd-49e7-93a2-9cfd4c527752

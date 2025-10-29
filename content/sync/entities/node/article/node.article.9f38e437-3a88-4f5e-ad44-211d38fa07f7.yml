@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 9f38e437-3a88-4f5e-ad44-211d38fa07f7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:01:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Economic Forces Push Us Outward, But Social Forces Call Us Home'
+created:
+  -
+    value: '2017-03-08T16:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:01:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/economic-forces
+body:
+  -
+    value: "<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"4503\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Josh Ault\",\"field_file_image_title_text[und][0][value]\":\"Josh Ault\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Josh Ault\",\"field_file_image_title_text[und][0][value]\":\"Josh Ault\"}},\"attributes\":{\"alt\":\"Josh Ault\",\"title\":\"Josh Ault\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Professor Joshua Ault</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><i>This article is part of a series by Thunderbird School of Global Management faculty, sharing their insights on the </i><a href=\"https://thunderbird.asu.edu/about/knowledge-network\"><i>future of internationalism</i></a><i>.</i></p>\r\n<p>Much ink has been spilled of late regarding the West’s seeming retreat to nationalism. The election of Donald Trump is compared to the election of Herbert Hoover in 1929. Trump’s trade promises are reminiscent of Smoot Hawley. Indeed, we have been here before – in 1929, and 1890, and 1828, and 1790 – but make no mistake: there are always two forces at play, one pulling us toward globalism and one pulling us toward nationalism.</p>\r\n<p>Pankaj Ghemawat, now a professor at the Stern School of Business at New York University, has shown that there are always economic forces pushing us toward globalism and social forces pulling us toward nationalism. Sometimes, the economic forces prevail – as they have since the Great Depression. Then, the social forces prevail and we experience retrenchment toward nationalism. Like a pendulum swinging back and forth, or a never-ending game of tug-of-war.</p>\r\n<p>Some will say, ‘This time is different.’ They cite Facebook and smartphones and (relatively) cheap air travel to show that the world can’t possibly retrench now as it did in the 1920s and 30s. Yet fundamentally, we are still the same social creatures we were in 1930: when the going gets rough, we circle around our tribe with spears pointed outward.</p>\r\n<h3>Who is ‘us’?</h3>\r\n<p>Indeed, many scholars have shown how we are hardwired to care for our village. And nationality is a powerful force for defining ‘who is us.’ The end result: in America, the lifting of 700 million people out of abject poverty in China doesn’t matter if it has meant losing one or two million jobs at home. There are always winners and losers in globalization, which is just the way the world works from the economic perspective. But from the social perspective, it is profoundly disturbing when you are on the losing end.</p>\r\n<p>Karl Marx talked about how capitalism treats workers as inputs, assuming they can simply be redirected to other parts of the economy when globalization shifts a country’s competitive advantage and an industry disappears. Indeed, the economist Joseph Schumpeter coined the term ‘creative destruction,’ an economic force that is positive <i>on net</i>, though it results in the literal destruction of entire industries.</p>\r\n<p>A famous example of creative destruction is the decline of the horse and buggy industry and the rise of the automobile industry. ‘Who in their right mind would deride the evolution of the automobile?’ the thinking goes. Surely the people whose livelihood relied on the horse and buggy industry would.</p>\r\n<p>That doesn’t mean the destruction of the horse and buggy industry and the rise of the automobile industry was a bad thing or shouldn’t have occurred. Indeed, more than a century later we are <i>all</i> better off for it (descendants of horse and buggy makers, too). But it does call for compassion for the people whose livelihoods are destroyed by economic forces. And it is critical to understanding the forces, now prevailing, that pull us toward nationalism.</p>\r\n<h3>Just <i>knowing</i> isn’t enough</h3>\r\n<p>Understanding when, where, why, and the degree to which individuals lean toward globalism or nationalism is essential to understanding today’s geo-political environment. It is also essential for success in global business. At Thunderbird we talk a lot about <a href=\"https://thunderbird.asu.edu/faculty-and-research/najafi-global-mindset-institute\">Global Mindset</a>. I like to think of it as transnational mindset – that term encompasses the understanding that we as individuals, as companies, as nations, as a world, are both global and local at the same time.</p>\r\n<p>The most effective global leaders are those who see global forces and local forces at play at the same time and understand how to navigate the tension between them. To do that, an individual has to have more than just training in the mechanics of global business management. The key skill for global leaders is critical thinking. Effective global leaders understand the mechanics<i> and </i>use their critical thinking skills to know when and where to apply that knowledge.</p>\r\n<p>I like to tell my students two stories that show how just knowing the mechanics doesn’t make for success in global business. Two American companies attempted to break into global markets in the 1990s, using much the same strategy. One failed spectacularly while the other succeeded. The difference was in the reading of the global and local forces at play (or not) and the strategic application of business tactics accordingly.</p>\r\n<p>In the 1990s, Walmart went to Germany. Having bought completely into the concept of being a ‘global’ brand, the company didn’t adapt its strategies or even tactics to the local market. Over the course of ten years, Walmart lost a billion dollars and eventually had to leave. Its biggest mistake was not seeking to understand the global and local forces at work at the time in Germany. Because local forces were stronger than global forces in the German grocery market at that time, Walmart’s global approach failed.</p>\r\n<p>Around the same time, Toys “R” Us went to Japan. Like Walmart, Toys “R” Us didn’t adapt any of its strategies or tactics to the Japanese market. But the company was incredibly successful. Why? Because global forces were stronger than local forces in that market, so the company could succeed with a global approach.</p>\r\n<p>Succeeding in global business is not about knowing ‘If A, then B.’ That’s the difference between a manager and a leader: a manager knows the mechanics of running a company day-to-day; a leader understands how to think critically to balance the paradoxes of the global and local forces that are always at play. (A key reason I came to Thunderbird School of Global Management is that we’re training global <i>leaders</i>.)</p>\r\n<h3>Never-ending tug-of-war</h3>\r\n<p>In a game of tug-of-war, both sides are pulling on the rope at the same time. Sometimes the left side is pulling harder and gets more rope; sometimes the right side does. But both forces are always present. The same is true in the tug-of-war between globalism and nationalism; there are always economic forces pulling for globalism and social forces pulling for nationalism.</p>\r\n<p>That is why one approach, or even a pre-defined set of approaches, is ineffective in global business. Succeeding in global business requires the ability to see the tug-of-war match as it is playing out in the location at the moment, and to adapt business strategy accordingly.</p>\r\n<p>If only policymakers could do the same.</p>\r\n<p><a href=\"https://thunderbird.asu.edu/node/2217\"><i>Dr. Joshua Ault</i></a><i> is an assistant professor at Thunderbird School of Global Management, a unit of the Arizona State University Knowledge Enterprise. His areas of specialization include international strategy, international entrepreneurship, social entrepreneurship, and emerging and developing countries. Dr. Ault has published articles on these topics in some of the world’s top business journals, including Strategic Management Journal, the Journal of International Business Studies, and the Academy of Management Best Paper Proceedings.</i></p>\r\n<p><i><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></i></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 640
+    height: 427
+    target_type: file
+    target_uuid: 1bf1ea1b-4db4-4d74-b2bd-9b47ede76043
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.1bf1ea1b-4db4-4d74-b2bd-9b47ede76043
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f

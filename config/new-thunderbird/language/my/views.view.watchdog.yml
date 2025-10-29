@@ -1,0 +1,28 @@
+display:
+  default:
+    display_title: Default
+    display_options:
+      fields:
+        type:
+          label: အမျိုးအစား
+        timestamp:
+          label: ရက်စွဲ
+        message:
+          label: သတင်း
+        name:
+          label: အသုံးပြုသူ
+        link:
+          label: လုပ်ဆောင်ချက်များ
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- အားလုံး -'
+      exposed_form:
+        options:
+          reset_button_label: မူလပုံစံအတိုင်းပြန်ထားရန်
+      filters:
+        type:
+          expose:
+            label: အမျိုးအစား
+  page:
+    display_title: စာမျက်နှာ

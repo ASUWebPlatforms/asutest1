@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 2e9352d3-6835-4668-8eff-989ea121e45b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-07-19T17:08:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+title:
+  -
+    value: 'Blue Origin set to launch first crewed mission with Jeff Bezos and three other passengers'
+created:
+  -
+    value: '2021-07-19T17:08:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-07-19T17:08:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /bezos-launch-autry-cbsn
+body:
+  -
+    value: '<p class="now-playing__hed now-playing"><span class="now-playing__dek">Greg Autry, a clinical professor of space leadership, policy and business at Thunderbird School of Global Management at Arizona State University, joined CBSN to discuss Jeff Bezos'' Blue Origin company launching its first crewed mission to the edge of space.<br></span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-07-19T09:15:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 1032
+    height: 588
+    target_type: file
+    target_uuid: c17c2ea2-e020-45ad-b9bb-f6ab45b2cb25
+field_news_link:
+  -
+    uri: 'https://www.cbsnews.com/video/blue-origin-set-to-launch-first-crewed-mission-with-jeff-bezos-and-three-other-passengers/'
+    title: 'Blue Origin set to launch first crewed mission with Jeff Bezos and three other passengers'
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: CBS
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc
+    file:
+      - file.image.c17c2ea2-e020-45ad-b9bb-f6ab45b2cb25

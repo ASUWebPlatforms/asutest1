@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: 74055343-9335-4944-a702-671050876583
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T20:39:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Organizational Alignment: Managing Global and Local Integration'
+created:
+  -
+    value: '2016-07-26T20:39:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T20:39:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-04-0008
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case is set in the finance operation of a $1.4 billion aerospace company with global operations. The protagonist is the leader of this 90-person group, the Director of Finance. He is faced with immediate issues of missed financial targets, $20,000,000 in accounting write-offs, and finance employees violating company policy. He is grappling with how to drive an integrated financial approach in a complex global environment with significant cultural differences. The leader faces several options, including address the symptoms, dig in and understand the underlying issues, or do nothing and hope for isolated corrective actions.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-04-0008
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: c0c2575b-adfc-4c1e-abd1-af97a0a7bf6f
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'U.S., Germany'
+field_case_source:
+  -
+    value: 'General experience'
+field_case_subject:
+  - {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: dfb75b01-ed2a-4294-b672-48c2e46282c4
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "The case is intended for use in an MBA-level course on global management or an Executive Education program for middle managers. The case highlights both the challenges and the opportunities for leading from the middle of a large, global business.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+      - taxonomy_term.case_series_industry.c0c2575b-adfc-4c1e-abd1-af97a0a7bf6f
+      - taxonomy_term.case_series_fields.dfb75b01-ed2a-4294-b672-48c2e46282c4
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

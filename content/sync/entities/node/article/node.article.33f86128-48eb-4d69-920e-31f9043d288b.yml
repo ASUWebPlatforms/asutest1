@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 33f86128-48eb-4d69-920e-31f9043d288b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-05-21T23:16:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'Pots Pans and Post-It-Notes'
+created:
+  -
+    value: '2018-05-18T17:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-21T23:16:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/pots-pans-and-post-it-notes
+body:
+  -
+    value: "<p>By Madeline Stewart</p>\r\n<p><strong>Summer 2018 Global Consulting Lab (GCL)</strong><br><strong>Ecuador, UMCO</strong></p>\r\n<p>We made it! Alex Komerdelj, Nathan Christiansen, Sanne de Schipper, Yun Chen (Jenny) Li, Chantelle Aguilar, and I have travelled over 3,000 miles and the journey has just begun. We’ve been working in Ecuador for just three days and I know more about pots and pans than I could have ever imagined. Our project involves creating a subsidiary brand for a kitchenware company— a high-end line of stainless steel products. To have the ability to substantially change a product with such a far reach is incredible.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"17661\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">The Team (From left to right: Nathan, Jenny, Sanne, Alex, Chantelle, and I)</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>A seventy-year-old business, <a href=\"http://umcoecuador.com/web/\" target=\"_blank\">UMCO</a> has sustained its competitive advantage primarily through its engineering feats and culture that is typical of a family-run business. Its factory is nestled in the southern district of Quito surrounded by historic residences and high-rising churches.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"17663\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p style=\"text-align: center;\" class=\"caption-text\">Assistant Director of Marketing explaining products</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p style=\"text-align: left;\">Thus far, we’ve taken a tour through their factory, discussed social media with contractors, visited stores with UMCO’s products in stock, and met with Directors of Marketing. UMCO primarily consists of engineers; therefore, they deemed a tour of their factory essential to our comprehensive understanding of their company and the success of our final deliverables. The head of quality control led us through screeching machinery as he explained each production line with detail. This small company, unlike many manufacturers, creates their cookware from start to finish. It was amazing to witness metal disks turn into pots and pans of all shapes and sizes (a sentence I never thought I would say).</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"17664\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]\r\n<p class=\"caption-text\">Head of Quality Control giving tour of factory</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>On Wednesday, we spent almost the entire day visiting shopping malls. From looking at packages, questioning customer service representatives, and examining prices, our team was able to gain a greater understanding of the competition and the local distributors.</p>\r\n<p>Week one of the <a href=\"/node/64\">Global Consulting Lab</a>, the week of discovery, consists of early mornings and late nights. It is an endless stream of questions and rapid scribbling of notes— primarily in “Spanglish.” After defining our scope, we have just begun sifting through UMCO catalogs and notes while researching key demographics and interviewing the locals. With skills ranging from accounting to graphic design, this team has been able to find its niche in this consulting project. Through this variety of strengths, we are able to view challenges with multiple different lenses. Currently, I am surrounded by Post-It notes, laptop computers, and a few tired, but still smiling, faces.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"17666\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]\r\n<p class=\"caption-text\">Professor Hunsaker meeting with our team (From left to right: Prof. Hunsaker, Nathan, Chantelle, Sanne, Jenny, and I)</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>It is already becoming clear why every Thunderbird who has been on the GCL speaks so highly of this consulting course. From Madagascar to Romania to Ecuador, Thunderbirds have made some amazing contributions to companies and organizations around the globe. Although just a few days have passed, I already feel as if I have learned so much. I can’t wait to see what our group will accomplish in these few weeks.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1600
+    height: 1200
+    target_type: file
+    target_uuid: df979f41-4c98-4934-8f3b-95aed1e684e3
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    file:
+      - file.image.df979f41-4c98-4934-8f3b-95aed1e684e3
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

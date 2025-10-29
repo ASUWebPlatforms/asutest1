@@ -1,0 +1,4 @@
+services:
+  tb_gdmi_hubspot.transactional_emails:
+    class: '\Drupal\tb_gdmi_hubspot\Services\HubspotTransactionalEmails'
+    arguments: ['@config.factory']

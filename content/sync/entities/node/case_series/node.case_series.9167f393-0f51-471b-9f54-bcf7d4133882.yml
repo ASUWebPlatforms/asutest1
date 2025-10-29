@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 9167f393-0f51-471b-9f54-bcf7d4133882
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:11:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Matra-Ericsson Telecommunications'
+created:
+  -
+    value: '2016-07-27T22:11:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:11:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-99-0011
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Matra-Ericsson Telecommunications (MET) is a joint venture between L.M. Ericsson (Ericsson) of Sweden and Matra S.A. (Matra) of France. The JV was formed in 1987. The JV manufactures Ericsson-licensed telecom switches for sale in France. Not longer after formation, the partners became involved in a series of conflicts. These conflicts escalated to the point that in 1990, Ericsson''s new executive appointee to the JV has been refused access to the JV premises.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-99-0011
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: fb21e646-4d63-4339-986d-3a9246575132
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'France, 1990-1998'
+field_case_source:
+  -
+    value: 'Field case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9d81b652-ba8f-40c5-b39d-77bc1d2dd9b1
+field_teaching:
+  -
+    value: "The case illustrates the organizational and competitive tensions that exist in many alliances. When the JV was formed, both partners underestimated the organizational issues associated with JV management. The negotiation focus was on technology transfer and market access. The initial relationship problems culminated in the 1990 standoff involving Ericsson's new executive appointee. Although students will see this situation as an extreme one, the case is important in pointing out that it is really just the latest salvo in an on-going battle between the partners.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.fb21e646-4d63-4339-986d-3a9246575132
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.9d81b652-ba8f-40c5-b39d-77bc1d2dd9b1

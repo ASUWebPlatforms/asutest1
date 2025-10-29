@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: f149409b-206b-4af5-bc30-dc1359a36d03
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:02:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Philips: Sense and Simplicity'
+created:
+  -
+    value: '2016-07-16T01:33:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:02:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-07-0013
+body:
+  -
+    value: '<p>The case describes the challenge faced by the CEO and newly hired Chief Marketing Officer to reposition the Philips brand and drive the organizational changes to support the new vision. Central to the version was the Sense and Simplicity marketing campaign, which came to embody a whole new way of doing business at Philips.</p><p>The primary target of the Sense and Simplicity campaign was customers aged 35-55. Philips was not thought of as a cool and attractive brand by Generation Y consumers. Philips must rewire the Sense and Simplicity campaign for the Generation Y market.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-07-0013
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5e837675-ba75-4213-aae0-11e488eaf2ef
+field_case_series_year:
+  -
+    value: '2007-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'Library, published materia'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: 'This is an experimental case analysis in which students are expected to study the recent evolution of the Sense and Simplicity campaign through the ads and Philips’ annual shows available online. The case is designed to place the students in the role of an advertising agency’s creative director, as they are expected to produce an advertisement in a storyboard form. Further, the case will help students to understand the dimensions of the repositioning process, and explore the intricate relationship between product design and brand image.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.5e837675-ba75-4213-aae0-11e488eaf2ef
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

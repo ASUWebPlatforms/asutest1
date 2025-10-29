@@ -1,0 +1,180 @@
+.flipcards {
+    .row {
+        margin: 0rem; /* Remove Bootstrap gutter */
+
+        .flipcard {
+            cursor: default;
+            padding: 0rem; /* Remove Bootstrap gutter */
+            border: none;
+            box-shadow: none !important;
+    
+            &.flipped {
+                .inner { transform: rotateY(180deg); }
+            }
+
+            &:hover {
+                .icon {
+                    transform: rotate(180deg);
+                }
+            }
+    
+            .inner { 
+                position: relative;
+                width: 100%;
+                height: 100%;
+                transition: all 0.5s ease-in-out;
+                transform-style: preserve-3d;
+    
+                .front, .back {
+                    background-color: $blue-dark;
+                    background-position: center;
+                    background-size: cover;
+                    display: flex;
+                    flex-wrap: wrap;
+                    min-height: 450px;
+                    height: 100%; /* Match height of other columns */
+                    -moz-backface-visibility: hidden;
+                    -webkit-backface-visibility: hidden;
+                    backface-visibility: hidden;
+                    z-index: 0;
+                }
+
+                .front {
+                    align-items: flex-end;
+                    justify-content: center;
+                    text-align: center;
+                    padding: 5rem 0rem 0rem;
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+
+                    &:before {
+                        content: '';
+                        display: none; // Remove this line if they want an image overlay again
+                        background-color: rgba($blue-dark, 0.2);
+                        position: absolute;
+                        left: 0;
+                        top: 0;
+                        width: 100%;
+                        height: 100%;
+                    }
+
+                    .title { // h2
+                        background-color: rgba($blue-dark, 0.8);
+                        color: $gold;
+                        font-size: 3.125rem; // 50px
+                        font-weight: 900;
+                        line-height: 3.125rem;
+                        margin-bottom: 0rem;
+                        position: relative;
+                        padding: 1rem;
+                        text-align: center;
+                        width: 100%;
+
+                        .field {
+                            padding: 0rem 5rem; // This prevents the text from overlapping rotate icon
+                        }
+
+                        @include media-breakpoint-down(sm) {
+                            font-size: $h3-font-size; // 34px
+                            line-height: $h3-font-size; // 34px
+                            padding: 25px 0px; // Leave spacing for toggle
+
+                            .field {
+                                padding: 0rem 2.5rem;
+                            }
+
+                            .toggle {
+                                background-color: $blue-dark;
+                                border-radius: 999px;
+                                bottom: initial;
+                                top: -25px;
+                            }
+                        }
+                    }
+                }
+    
+                .back {
+                    align-items: center;
+                    padding: 5rem;
+                    text-align: left;
+                    transform: rotateY(180deg);
+                    justify-content: flex-start;
+
+                    .title {
+                        color: #ffffff;
+                        font-weight: 900;
+                        font-size: 2.125rem; // 34px
+                        line-height: 2.125rem; // 34px
+                        margin-bottom: 1rem;
+                        text-transform: capitalize;
+                        width: 100%;
+
+                        em, strong, span {
+                            font-style: normal;
+                            font-weight: inherit;
+                            color: $gold;
+                        }
+                    }
+
+                    .subtitle {
+                        color: #ffffff;
+                        font-size: 1.5rem; /* 24px */
+                        line-height: 1.5rem; /* 24px */
+                        margin-bottom: 1.125rem; /* 18px */
+                        width: 100%;
+                    }
+
+                    .body {
+                        color: #ffffff;
+                        font-size: 1.125rem; /* 18px */
+                        line-height: 1.875rem; /* 30px */
+                        width: 100%;
+                    }
+
+                    .btn, .readmore {
+                        color: #ffffff;
+                        font-size: 1.125rem; /* 18px */
+                        padding: 0rem;
+            
+                        svg {
+                            path {
+                                fill: $gold;
+                            }
+                        }
+
+                        &:hover {
+                            text-decoration: $link-hover-decoration;
+                            color:$btn-hover-color;
+                        }
+                    }
+                }
+
+                .toggle {
+                    box-shadow: none !important;
+                    bottom: 1rem;
+                    right: 1rem;
+                    position: absolute;
+
+                    &:focus {
+                        .icon {
+                            border-color: #ffffff;
+                        }
+                    }
+
+                    .icon {
+                        border: 2px solid transparent;
+                        border-radius: 999px;
+                        box-sizing: content-box;
+                        cursor: pointer;
+                        height: 50px;
+                        width: 50px;
+                        transition: all 0.5s ease-in-out;
+
+                        
+                    }
+                }
+            }
+        }
+    }
+}

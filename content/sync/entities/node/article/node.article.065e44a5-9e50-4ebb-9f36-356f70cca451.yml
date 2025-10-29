@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 065e44a5-9e50-4ebb-9f36-356f70cca451
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:41:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: '10 Hurtful Habits Of Bad Bosses'
+created:
+  -
+    value: '2017-06-23T17:02:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:41:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/10-hurtful-habits-of-bad-bosses
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">Are crude comments in the workplace making women head for the&nbsp;exits?</h3>\r\n<p>[[{\"fid\":\"6173\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"JC bad bosses\",\"field_file_image_title_text[und][0][value]\":\"JC bad bosses\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"JC bad bosses\",\"field_file_image_title_text[und][0][value]\":\"JC bad bosses\"}},\"link_text\":null,\"attributes\":{\"alt\":\"JC bad bosses\",\"title\":\"JC bad bosses\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h3 graf-after--figure\">Uber’s sexist problem is widespread.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Women need a mental health day every time they have a run in with a disrespectful, lazy, or sexist boss,&nbsp;<a href=\"https://www.glassdoor.co.uk/blog/bad-bosses-glassdoor-survey-reveals-worst-manager-habits/\" class=\"markup--anchor markup--p-anchor\" data-href=\"https://www.glassdoor.co.uk/blog/bad-bosses-glassdoor-survey-reveals-worst-manager-habits/\">according to Glassdoor</a>, a British consultant.</p>\r\n<p class=\"graf graf--p graf-after--p\">It’s not a gender thing either. Over 1/3 of men stay home for similar reasons.</p>\r\n<p class=\"graf graf--p graf-after--p\">The hit to productivity isn’t lost on companies spending billions to hire, train, and motivate employees.&nbsp;In the digital age, talent finding is&nbsp;<em>the</em>&nbsp;skill for staying ahead of the competition. When a boss is disrespectful or makes inappropriate comments, that undoes the company’s good works. In the case of Fox network’s Roger Ailes, the hit to the bottom line is measured in the tens of millions in compensatory costs, and much more in loss of credibility among viewers and staff.</p>\r\n<p class=\"graf graf--p graf-after--p\">In my&nbsp;<a href=\"https://medium.com/@cunninghamjeff/uber-board-ea1c84e819b8\" class=\"markup--anchor markup--p-anchor\" data-href=\"https://medium.com/@cunninghamjeff/uber-board-ea1c84e819b8\">interview with Uber employees</a>, I could not find one person willing to recommend the CEO’s actions or the company’s reputation. That is astounding for one of the world’s great innovative companies. If a Silicon Valley wunderkind loses its mojo because of inappropriate language and behavior, what does that mean for run of the mill industrial companies?</p>\r\n<p class=\"graf graf--p graf-after--p\">Let’s hit pause for a moment and ask why do companies allow bad bosses to operate?&nbsp;The reason must come down to a corporate culture that cares more about short term numbers than long term values.</p>\r\n<p class=\"graf graf--p graf-after--p\">Fixing this discrepancy should be first on every company’s to do list. Results show a company can pick up an easy 10–20 points of productivity by developing better bosses.</p>\r\n<p class=\"graf graf--p graf-after--p\">&nbsp;</p>\r\n<p class=\"graf graf--p graf-after--p\">[[{\"fid\":\"5698\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<div class=\"graf graf--mixtapeEmbed graf-after--figure\"><a href=\"https://www.statista.com/chart/9491/the-10-most-common-bad-boss-traits/\" class=\"markup--anchor markup--mixtapeEmbed-anchor\" data-href=\"https://www.statista.com/chart/9491/the-10-most-common-bad-boss-traits/\">Infographic: The 10 Most Common Bad Boss Traits<br>Jobs The majority of employees have had the displeasure of working under someone they dislike. You could say it goes…www.statista.com</a><a href=\"https://www.statista.com/chart/9491/the-10-most-common-bad-boss-traits/\" class=\"js-mixtapeImage mixtapeImage u-ignoreBlock\" data-media-id=\"32e1f4c08a67c59aa0c1fe1b49a12858\" data-thumbnail-img-id=\"0*FwuAaFNywM4gzyM0.\"></a></div>\r\n<h3 class=\"graf graf--h3 graf-after--mixtapeEmbed\">Management training should not be an oxymoron.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Business schools teach technical skills, but only experience helps us understand how to manage people. Some companies make it a habit to cut training budgets every time the CEO has a lousy quarter. It doesn’t get better at the board level. Ask directors about training and you’ll get a blank stare. It just doesn’t rise to the audit committee level. The subject rarely comes up in the upper echelon — except at training powerhouses like General Electric and Google.</p>\r\n<p class=\"graf graf--p graf-after--p\">Lack of management skill is compounded by how companies promote.&nbsp;Someone is good at sales so naturally they are told to run the department. Now, you’ve lost a good salesperson and promoted a potentially lousy manager. The offending manager at Uber was an example of someone who, if properly trained, could have saved the company and himself a lot of anguish.</p>\r\n<p class=\"graf graf--p graf-after--p\">Few of us are natural born leaders.&nbsp;Once we get the job, our supervisory instincts are left to discretion or worse, we channel the only formal management training we ever had, our parents. This is a recipe for making sure your company is a petri dish for bad habits. It’s why we have so many lousy bosses.</p>\r\n<p class=\"graf graf--p graf-after--p\">When it comes to gender, it can be particularly troublesome.&nbsp;Bad boss behavior seems to has a pronounced effect on women. Companies are expending vast resources to create a warm welcome for women at the front door, yet once they are on the team, crude behavior sends them to the exits.</p>\r\n</div>\r\n<div class=\"section-inner sectionLayout--outsetColumn\">\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\">[[{\"fid\":\"5699\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*4RLc-7nRtmqnxBlF2nLobw.png\" data-width=\"926\" data-height=\"624\" data-scroll=\"native\"></div>\r\n</div>\r\n</div>\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h3 graf-after--figure\">Millennials need a new kind of&nbsp;boss.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">The problem gets worse if you factor in changing values of young millennials. Companies spend hugely to build highly collaborative, inclusive, diverse and skilled workforces. Then they risk their most valuable asset by leaving them in the hands of poor supervisors.</p>\r\n<p class=\"graf graf--p graf-after--p\">This shouldn’t be so difficult. We know what motivates people to do great work. There are excellent tests and feedback mechanisms that give insight into the kind of changes needed in the corporate culture.</p>\r\n<p class=\"graf graf--p graf-after--p\">Companies should rethink how they find and train&nbsp;supervisors, first of all. Then follow up with consistent testing, and train again and again, until the managerial machine is working. When employees like management as much as they like the company, the problem is solved.</p>\r\n</div>\r\n<div class=\"section-inner sectionLayout--outsetColumn\">\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*gBkCURLdcnSjacm2stRsvg.png\" data-width=\"952\" data-height=\"627\" data-focus-x=\"49\" data-focus-y=\"31\" data-is-featured=\"true\" data-scroll=\"native\">[[{\"fid\":\"5700\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</div>\r\n</div>\r\n</div>\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h3 graf-after--figure\">A few surprising highlights:</h3>\r\n<p class=\"graf graf--p graf-after--h3\">The most common employee pet peeve is being treated in a ‘disrespectful’&nbsp;manner. Disappointingly, for our more inclusive age, “sexist comments” occur with alarming regularity. As many as four percent encounter workplace racist comments and 10 percent felt they were subjected to “inappropriate humor.”</p>\r\n<p class=\"graf graf--p graf-after--p\">The job ahead is going to be tough unless we tackle these issues at the source, lack of readiness to manage people.</p>\r\n<p class=\"graf graf--p graf-after--p\">Here are some other survey findings:</p>\r\n<ul>\r\n<li>40% ignore bad boss behavior.</li>\r\n<li>12% confronted the boss.</li>\r\n<li>5% tried to get them fired.</li>\r\n<li>Men (17%) go over the bosses head more often than women (13%).</li>\r\n<li>46% of women and 34% of men miss work due to bad boss behavior.</li>\r\n<li>21% resigned and 20% took a leave of absence.</li>\r\n<li>2% just left the company and didn’t bother resigning.</li>\r\n<li>5% called a helpline.</li>\r\n<li>15% of women asked for a transfer within the company as did 13% of men.</li>\r\n</ul>\r\n<p class=\"graf graf--p graf-after--li\">Companies need to rethink how they groom future leaders — and be careful not to promote people who may have been talented at the job they used to do, but really haven’t honed their people skills.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">In the good news category, body odor was mentioned as a factor in 4% of the cases. So we know there is at least one bad habit with a quick solution and we can start working on the nine others.</p>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><hr class=\"section-divider\"></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf--leading\"><em>Here are some Vox interviews of UK employees talking about their experiences.</em></p>\r\n</div>\r\n</div>\r\n<div><a href=\"https://youtu.be/hBdGWierNnM\">https://youtu.be/hBdGWierNnM</a></div>\r\n<div></div>\r\n<div>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>&nbsp;</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.iconicvoices.tv/&amp;source=gmail&amp;ust=1498321468913000&amp;usg=AFQjCNE8GdzlfH_pC4m8CBhyemT2kp2cuA\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.jeffcunningham.com/&amp;source=gmail&amp;ust=1498321468913000&amp;usg=AFQjCNGqe0FgTOw3p907k8FlLzQ2cHD5PA\">JeffCunningham.com.</a></p>\r\n<p>&nbsp;</p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>&nbsp;</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>&nbsp;</em></p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n</div>\r\n<div class=\"aspectRatioPlaceholder is-locked\"></div>\r\n</div>\r\n</div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<div class=\"aspectRatioPlaceholder is-locked\"></div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 899
+    height: 621
+    target_type: file
+    target_uuid: 86175016-4a67-4ae5-b01a-922d9e6efddf
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    file:
+      - file.image.86175016-4a67-4ae5-b01a-922d9e6efddf
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

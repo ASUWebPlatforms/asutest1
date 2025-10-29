@@ -1,0 +1,15 @@
+{# TODO: Replace background url with {{ media }} variable #}
+<div class="blockquote {{ blockquote_type }}" style="background-image: url('/themes/custom/thunderbird/src/components/blockquote/placeholder-banner.jpg')">
+  <div class="row justify-content-between {{ image_position }} align-items-center">
+    <div class="col-md-4">
+      <h2>{{ heading }}</h2>
+    </div>
+    <div class="col-md-4">
+      <span class="double-quote">“</span>
+      <p class="quote">{{ body_text }}</p>
+      <div class="author">{{ citation_author }}</div>
+      <div class="description">{{ citation_description }}</div>
+      {% include '@renovation/buttons/button-action.twig' with { url : cta.link, title: cta.title } %}
+    </div>
+  </div>
+</div>

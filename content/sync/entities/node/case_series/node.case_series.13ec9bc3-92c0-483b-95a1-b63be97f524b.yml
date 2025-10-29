@@ -1,0 +1,98 @@
+uuid:
+  -
+    value: 13ec9bc3-92c0-483b-95a1-b63be97f524b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-09-10T23:34:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Slighting Urgency:  A Cross-cultural Reexamination of Avianca Flight 052'
+created:
+  -
+    value: '2019-09-10T23:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-09-10T23:34:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a05-19-0005
+body:
+  -
+    value: "<p>This case provides an inside glimpse of an inter-organizational crisis as it unfolds. On January 25, 1990 at approximately 9:35 p.m. eastern standard time, Avianca flight 052 crashed into a hillside in a wooded residential area of Cove Neck, New York. Seventy-three of the 158 people on board died, including all of the flight crew, as well as five flight attendants. The National Transportation Safety Board concluded that the primary cause of the accident was fuel exhaustion.&nbsp;</p>\r\n<p>No one will ever understand the full range of causes that led to this accident. Like many crises, the fate of Avianca Airlines flight 052 was stirred by a deadly layering of intricate problems. Perhaps the most tragic among them relate directly to cross-cultural differences, as cues of the crisis were missed, mishandled and lost in translation. Urgencies that were slighted caused known and practiced signal detection and crisis responses to go awry.&nbsp;</p>\r\n<p>The evidence on which this case rests puts the reader on the scene as the crisis unfolds.Verbatim cockpit dialogue, transcribed from “black box” recordings during the last hour before the accident, exposes the lethal impact of unreconciled diversities among languages, jargon, beliefs, values and habits. Relatively common flight problems flare to crisis proportion when individuals who could have averted or fixed them miss signals of impending doom. Accomplished leaders and operators are blindsided by their parochial interpretations of vocabulary and intent, which add fatal obstacles to crisis management efforts.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A05-19-0005
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2019-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'Published sources'
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: c9fc4315-e616-4dfa-bc71-f070c8816d1a
+field_teaching:
+  -
+    value: "•\tTo explore causes and consequences of slighting urgency when crises loom.\r\n\r\n•\tTo evaluate critical factors that contributed to an inter-organizational crisis based on verbatim transcription of key stakeholders’ conversations while the crisis was evolving.\r\n\r\n•\tTo raise awareness about potential dangers of unrecognized cross-cultural differences on crises and crisis management, including effects driven by national, organizational, and team cultures.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b8a3c3c5-33d6-4605-9d5b-e48d10cbcfba
+      - taxonomy_term.case_series_fields.c9fc4315-e616-4dfa-bc71-f070c8816d1a

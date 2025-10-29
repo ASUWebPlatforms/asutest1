@@ -1,0 +1,28 @@
+display:
+  default:
+    display_title: 기본값
+    display_options:
+      fields:
+        amount__number:
+          label: 지불
+        state:
+          label: 상태
+        completed:
+          label: 완료됨
+        remote_id:
+          label: '원격 ID'
+        operations:
+          label: 작업
+      exposed_form:
+        options:
+          submit_button: 적용
+          reset_button_label: 재설정
+          exposed_sorts_label: 정렬기준
+          sort_asc_label: Asc
+          sort_desc_label: 설명
+      arguments:
+        order_id:
+          exception:
+            title: 전체
+  page_1:
+    display_title: 쪽

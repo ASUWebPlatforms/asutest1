@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: 65a4d1ea-8342-4714-873d-d6002eb917fa
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-10-24T16:06:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'T-bird’s Gamso Investigates Impact of China’s Elephant Ivory Ban '
+created:
+  -
+    value: '2019-10-18T17:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-10-24T16:06:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/t-birds-gamso-investigates-impact-chinas-elephant-ivory-ban
+body:
+  -
+    value: "<h3><i>[[{\"fid\":\"76260\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"T-bird’s Gamso Investigates Impact of China’s Elephant Ivory Ban \",\"field_file_image_title_text[und][0][value]\":\"T-bird’s Gamso Investigates Impact of China’s Elephant Ivory Ban \"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"T-bird’s Gamso Investigates Impact of China’s Elephant Ivory Ban \",\"field_file_image_title_text[und][0][value]\":\"T-bird’s Gamso Investigates Impact of China’s Elephant Ivory Ban \"}},\"attributes\":{\"alt\":\"T-bird’s Gamso Investigates Impact of China’s Elephant Ivory Ban \",\"title\":\"T-bird’s Gamso Investigates Impact of China’s Elephant Ivory Ban \",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</i></h3>\r\n<h3><i>Professor explores shaming narrative and soft power related to ban in research published by&nbsp;Oxford University Press</i></h3>\r\n<p>Thunderbird is proud of new research by Dr. Jonas Gamso that looks at factors that led to China’s ban on imports and exports of elephant ivory and the impact – politically and economically – of those prohibitions.&nbsp;</p>\r\n<p style=\"padding-left: 30px;\"><strong>Jonas Gamso,&nbsp;<i>China's ivory bans: enhancing soft power through wildlife conservation</i>,&nbsp;International Affairs 2019, pp. 1-14,</strong>&nbsp;<a href=\"https://doi.org/10.1093/ia/iiz192\">https://doi.org/10.1093/ia/iiz192<br></a>Published by Oxford University Press on behalf of The Royal Institute of International Affairs.</p>\r\n<p>Dr. Gamso is Assistant Professor of International Trade and Global Studies in the Thunderbird School of Global Management at Arizona State University.</p>\r\n<p>His primary research focus is on trade between developing countries, and the impacts of this sort of trade for sustainable development. He has also published peer-reviewed work on the relationship between foreign aid and migration.</p>\r\n<p>Dr. Gamso’s work has appeared or is forthcoming at International Studies Quarterly, World Development, Latin American Perspectives, Journal of International Relations and Development, Journal of Environment &amp; Development, Policy Sciences, and Environmental Policy and Governance.&nbsp;</p>\r\n<p>And now&nbsp;<a href=\"https://academic.oup.com/journals\">Oxford University Press</a>.</p>\r\n<p>Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide. The OUP slogan is: Academic insights for the thinking world combine authority, innovation, and excellence.</p>\r\n<p>With origins dating back to 1478, Oxford University Press (OUP) is the world's largest university press with the widest global presence. OUP’s academic publishing includes a wide array of scholarly and general interest books, journals, and online products that span the entire academic and higher education spectrum.&nbsp;</p>\r\n<p>Read Dr. Gamso’s astract and link to the OUP research:&nbsp;<i><a href=\"https://doi.org/10.1093/ia/iiz192\">China's ivory bans: enhancing soft power through wildlife conservation</a></i></p>"
+    format: basic_html
+    processed: ''
+    summary: "Thunderbird is proud of new research by Dr. Jonas Gamso that looks at factors that led to China’s ban on imports and exports of elephant ivory and the impact – politically and economically – of those prohibitions. \r\n\r\nJonas Gamso, China's ivory bans: enhancing soft power through wildlife conservation, International Affairs 2019, pp. 1-14, https://doi.org/10.1093/ia/iiz192\r\nPublished by Oxford University Press on behalf of The Royal Institute of International Affairs."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2121
+    height: 1414
+    target_type: file
+    target_uuid: cb1d9b99-fef8-4de0-b24f-2fe1d17d11a9
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: be23d3df-c315-4f8a-86c5-c9be4f65d17d
+  -
+    target_type: taxonomy_term
+    target_uuid: e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+  -
+    target_type: taxonomy_term
+    target_uuid: f714459d-6552-4f21-95a0-e7076f1706a6
+  -
+    target_type: taxonomy_term
+    target_uuid: 0a95be68-66bd-40d4-8d99-e73ae5f0001c
+field_insight_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 206b9083-31c1-484b-99c5-734e8b1c360c
+field_related_thought_leaders:
+  -
+    target_type: taxonomy_term
+    target_uuid: 807ec233-e731-42da-bbb2-19fb31451039
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.cb1d9b99-fef8-4de0-b24f-2fe1d17d11a9
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.knowledge_network_tags.be23d3df-c315-4f8a-86c5-c9be4f65d17d
+      - taxonomy_term.knowledge_network_tags.e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+      - taxonomy_term.knowledge_network_tags.f714459d-6552-4f21-95a0-e7076f1706a6
+      - taxonomy_term.knowledge_network_tags.0a95be68-66bd-40d4-8d99-e73ae5f0001c
+      - taxonomy_term.kn_thought_leaders.807ec233-e731-42da-bbb2-19fb31451039

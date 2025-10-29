@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 3015c963-d90e-467a-96ff-366f7c0928e9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-22T18:20:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'Team Tanzania Prepares for Departure'
+created:
+  -
+    value: '2016-08-23T08:29:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T18:20:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/team-tanzania-departure
+body:
+  -
+    value: "<p>The&nbsp;<em>journey begins soon</em>&nbsp;as Team Tanzania prepares to depart for Arusha. &nbsp;As the team researches not only our host country but the consulting issues at hand, we wanted to take the opportunity to introduce our Thunderbird Emerging Market Lab project and team.</p>\r\n<p>We are excited to work with&nbsp;<a href=\"https://www.solarsister.org/\" target=\"_blank\">Solar Sister</a>&nbsp;and the&nbsp;<a href=\"http://corporate.exxonmobil.com/en/community/womens-economic-opportunity/weoi-partners/overview\" target=\"_blank\">Exxon Mobil Foundation Women’s Economic Opportunities Initiative</a>&nbsp;(WEOI). &nbsp;Solar Sister eradicates energy poverty by empowering women with economic opportunity. &nbsp;They combine the breakthrough potential of clean energy technology with a deliberately woman-centered direct sales network to bring light, hope and opportunity to even the most remote communities in rural Africa.</p>\r\n<p>Team Tanzania looks forward to offering our expertise as Solar Sister looks to not only increase their presence in Tanzania but also develop internal human resources capacity and training for Solar Sister.&nbsp;</p>\r\n<p>Our new home in Arusha, Tanzania promises to be an adventure. &nbsp;Gateway to the Serengeti National Park, home to many of Africa’s amazing animals and a short drive from Mount Kilimanjaro, Africa’s highest mountain, Arusha will no doubt offer some amazing opportunities for adventures. &nbsp;Work hard play hard!</p>\r\n<p>As true T-Birds, our backgrounds are diverse, our skills are broad and we absolutely have the global mindset to succeed&nbsp;</p>\r\n<p><em>Meet the Team:</em></p>\r\n<p>[[{\"fid\":\"3971\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Tanzania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Tanzania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Tanzania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Tanzania\"}},\"attributes\":{\"alt\":\"TEM Lab-Tanzania\",\"title\":\"TEM Lab-Tanzania\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p style=\"text-align: center;\"><span>(Left to Right: Blake, Tash, Neha, Dawson, Caleb)&nbsp;</span></p>\r\n<p><strong>Blake</strong>, the sales specialist of the group, also looks forward to returning to Africa. He is eager to utilize his experience in sales and sales management to help Solar Sister accomplish its goals over the next several weeks.</p>\r\n<p><strong>Tash</strong>, optimistic and solution oriented individual, has a wide variety of work experience including sales, training, and marketing. His travel experience, open-minded attitude, and passion for empowering people make him adaptable and useful.</p>\r\n<p><strong>Neha</strong>, the co-lead of the team, looks forward to continuing her contribution towards woman empowerment through this project with her marketing and sales experience. She promises to use her ‘mahout’ skills to drive the elephant and save the day, should the occasion arise.</p>\r\n<p><strong>Dawson</strong>, the diplomat of the group, looks forward to returning to Africa. His previous experience living and working in Africa will prove valuable as the team gets on the ground.</p>\r\n<p><strong>Caleb</strong>&nbsp;is a true global citizen with experience in over four continents and three languages. Skills gained from this diverse background to include the military will be highly applicable to the local context of Tanzania and Solar Sister.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 480
+    height: 360
+    target_type: file
+    target_uuid: c7a4717c-0037-465c-9447-100f33642b81
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.c7a4717c-0037-465c-9447-100f33642b81
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

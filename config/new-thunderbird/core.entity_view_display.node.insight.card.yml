@@ -1,0 +1,153 @@
+uuid: a6c03ad3-b385-4359-a421-b2776fc7f195
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.card
+    - field.field.node.insight.body
+    - field.field.node.insight.field_article_image
+    - field.field.node.insight.field_article_network
+    - field.field.node.insight.field_author
+    - field.field.node.insight.field_centers
+    - field.field.node.insight.field_certificates
+    - field.field.node.insight.field_content_background
+    - field.field.node.insight.field_degrees
+    - field.field.node.insight.field_domain_access
+    - field.field.node.insight.field_domain_all_affiliates
+    - field.field.node.insight.field_featured
+    - field.field.node.insight.field_image
+    - field.field.node.insight.field_insight_date
+    - field.field.node.insight.field_insight_type
+    - field.field.node.insight.field_kn_tags
+    - field.field.node.insight.field_link
+    - field.field.node.insight.field_meta_tags
+    - field.field.node.insight.field_migrated
+    - field.field.node.insight.field_other_authors
+    - field.field.node.insight.field_person_id
+    - field.field.node.insight.field_publication
+    - field.field.node.insight.field_regions
+    - field.field.node.insight.field_related_thought_leaders
+    - field.field.node.insight.field_schedule_publishing
+    - field.field.node.insight.field_solutions
+    - field.field.node.insight.field_tags
+    - field.field.node.insight.field_topics
+    - field.field.node.insight.field_vertical_stripes
+    - field.field.node.insight.layout_builder__layout
+    - field.field.node.insight.layout_builder__translation
+    - image.style.signpost_2_columns
+    - node.type.insight
+  module:
+    - field_load_more
+    - image
+    - layout_builder
+    - smart_trim
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+id: node.insight.card
+targetEntityType: node
+bundle: insight
+mode: card
+content:
+  body:
+    type: smart_trim
+    label: hidden
+    settings:
+      trim_length: 150
+      trim_type: chars
+      trim_suffix: ...
+      wrap_output: false
+      wrap_class: trimmed
+      more:
+        display_link: false
+        target_blank: false
+        link_trim_only: false
+        class: more-link
+        text: More
+        aria_label: 'Read more about [node:title]'
+      summary_handler: trim
+      trim_options:
+        text: true
+        trim_zero: false
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  content_moderation_control:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_article_image:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: signpost_2_columns
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: signpost_2_columns
+      link: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_insight_type:
+    type: entity_reference_label
+    label: hidden
+    settings:
+      link: false
+    third_party_settings: {  }
+    weight: 6
+    region: content
+  field_kn_tags:
+    type: entity_reference_label
+    label: hidden
+    settings:
+      link: false
+    third_party_settings:
+      field_load_more:
+        items_show: ''
+        link_text: ''
+        field_load_more_enabled: 0
+    weight: 4
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 5
+    region: content
+hidden:
+  field_article_network: true
+  field_author: true
+  field_centers: true
+  field_certificates: true
+  field_content_background: true
+  field_degrees: true
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  field_featured: true
+  field_insight_date: true
+  field_link: true
+  field_meta_tags: true
+  field_migrated: true
+  field_other_authors: true
+  field_person_id: true
+  field_publication: true
+  field_regions: true
+  field_related_thought_leaders: true
+  field_schedule_publishing: true
+  field_solutions: true
+  field_tags: true
+  field_topics: true
+  field_vertical_stripes: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true

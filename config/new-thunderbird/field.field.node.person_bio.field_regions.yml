@@ -1,0 +1,29 @@
+uuid: 31c3ed61-8e59-4bb3-9b30-c25f06f9652d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_regions
+    - node.type.coe
+    - node.type.person_bio
+id: node.person_bio.field_regions
+field_name: field_regions
+entity_type: node
+bundle: person_bio
+label: Regions
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      coe: coe
+    sort:
+      field: title
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

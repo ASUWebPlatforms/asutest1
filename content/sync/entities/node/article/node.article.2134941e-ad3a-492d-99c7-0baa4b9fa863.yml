@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 2134941e-ad3a-492d-99c7-0baa4b9fa863
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'December 2015 Connections'
+created:
+  -
+    value: '2016-06-21T18:24:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /alumni-connections-2015
+body:
+  -
+    value: "<table>\r\n<tbody>\r\n<tr>\r\n<td><strong><span>Munich</span></strong>\r\n<p>[[{\"fid\":\"742\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>September First Tuesday Matt Duys joined the group. He lives in the US but came back to Munich for a visit! Athanasios Kostopoulos ‘85, Logan Deimler, Larry Schulz ‘72, Matt Duys ‘82, Tom Lipton, and Wally Schoch ‘76 met at Nockherberg.</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td><span><strong>Zurich</strong></span>\r\n<p>[[{\"fid\":\"744\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>The “Truly Global Garden BBQ Party” was held at John and Tania Cook’s home on Sept 26 outside of Zurich, in the Swiss Alps. Attending were the following alumni plus their wives and kids, 25 in total: TELC member John Cook ‘79. Chapter leader Eduardo Figueiredo ‘09, Shashi Alur ‘99, Candice Aebi ‘11, Paulo Ungar ‘95, Felix Steinebrunner ‘98, Wernhard Kublun ‘99, Laurent Meyer ‘07, Jason Yap ‘13, Don Maher ‘92, Stepan Filshin ‘14 &amp; Adel Labib ‘83.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td><span><strong>Brussels</strong></span>\r\n<p>[[{\"fid\":\"745\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"height\":\"177\",\"width\":\"354\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>October First Tuesday</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td><span><strong>Silicon Valley</strong></span>\r\n<p>[[{\"fid\":\"750\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Chapter Leader Khatchig Jingirian ‘97 and the Silicon Valley T-birds had their November First Tuesday at the Bay Club of Santa Clara. The host was Alain Labat ‘80 – who serves on the chapter leadership for Silicon Valley.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td><span><strong>Chennai, India</strong></span>\r\n<p><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/dec/images/chap-chenna.png\" width=\"300\" height=\"150\"></p>\r\n<p>Held their inaugural First Tuesday November 3.</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td><span><strong>Lima</strong></span>\r\n<p><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/dec/images/chap-lima.png\" width=\"300\" height=\"150\"></p>\r\n<p>November gathering at Manifiesto Gastro Bar. T–birds in attendance Maria Alfaro Snively ‘92, Maria Cecilia Gamero ‘14, Rosnel Rodriguez ‘10, Chapter Leader Sachie Aso ‘14, Willy Sono ‘99, Jorge Ballesteros ‘05, Jimmy Tong ‘12, Glenn Cameron ‘90, Juan Pablo Venegas ‘14 &amp; Cesar de los Ríos ‘00.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td><strong><span>Washington State</span></strong>\r\n<p><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/dec/images/chap-washington.png\" width=\"300\" height=\"150\"></p>\r\n<p>T–birds gathered for the November First Tuesday at the Tap House Grill for a mixer between Alum and Students who were visiting for the Net Impact conference. For Seattle related T–bird alumni events check out:<a href=\"http://www.facebook.com/thunderbird.alumni.seattle\" target=\"_blank\">www.facebook.com/thunderbird.alumni.seattle</a></p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td><span><strong>NYC</strong></span>\r\n<p><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/dec/images/chap-newyork.png\" width=\"300\" height=\"150\"></p>\r\n<p>November First Tuesday.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td><strong><span>Las Vegas</span></strong>\r\n<p><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/dec/images/chap-vegas.png\" width=\"300\" height=\"150\"></p>\r\n<p>Mini reunion. JP Driessen ‘99 planned a mini–alumni weekend in Las Vegas. Chapter Leader Dave Thorson ‘87 brought approximately 10 people to dinner, several also came to the suite party. LA Chapter Leader Alexandra Avetian ‘13 came with 3 others from LA. There were also 6 students that joined the group. One alum from Japan came because he had so much fun on Thundercruise.</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td><span><strong>Hong Kong</strong></span>\r\n<p><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/dec/images/chap-hongkong.png\" width=\"300\" height=\"150\"></p>\r\n<p>Hong Kong – Senior Director of Enrollment Management Amber Stenbeck meets with alumni following the Hong Kong stop of the Graduate School fair on Nov. 8.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td><strong><span>Austin &amp; San Antonio</span></strong>\r\n<p><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/dec/images/chap-texas.png\" width=\"300\" height=\"150\"></p>\r\n<p>Both chapters met up at the Wurstfest, an Oktoberfest style event, located halfway between Austin and San Antonio.&nbsp; Beer, bratwurst, and good times were had by all!</p>\r\n</td>\r\n<td>&nbsp;</td>\r\n<td><span><strong>Amsterdam</strong></span>\r\n<p><img src=\"http://www.thunderbird.edu/wwwfiles/pubs/thunder_news/2015/dec/images/chap-amsterdam.png\" width=\"300\" height=\"150\"></p>\r\n<p>The group welcomed ThunderCouple: Carolina ‘84 and Tjeer de Ruiter ‘83. After building their careers in the US, they just returned to Amsterdam.&nbsp;</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

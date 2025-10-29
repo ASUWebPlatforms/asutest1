@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b1408887-5cc1-4cdf-abfe-ae34464a247b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'How to Make Technology Work for Employee Productivity'
+created:
+  -
+    value: '2017-09-07T16:16:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-make-technology-work-employee-productivity
+body:
+  -
+    value: "<p>Business owners today are not left wanting when it comes to applications and technologies that can be quickly and affordably deployed to the workforce. But too much of a good thing can be a problem; today’s worker is inundated with emails, messages and messaging threads; files stored all over the place; and disparate business applications that don’t integrate with one another. It’s no wonder that&nbsp;<a href=\"http://www.ejitime.com/materials/IDC%20on%20The%20High%20Cost%20Of%20Not%20Finding%20Information.pdf\">analyst firm IDC</a>&nbsp;says the typical knowledge worker spends 2.5 hours a day just searching for information.</p>\r\n<p>I recently spoke with Taher Behbehani, chief digital and marketing officer at cloud communications provider&nbsp;<a href=\"https://www.broadsoft.com/\">BroadSoft</a>, about some of the ways business executives can ensure their workforces remain productive despite communications and collaboration challenges.</p>\r\n<h3><span>What workforce dynamics are impacting productivity?&nbsp;</span></h3>\r\n<p>The modern workforce is a distracted workforce – distracted by the challenge to manage more information, applications, and meetings. It is also a workforce that is increasingly mobile, Millennial, and dispersed. The upshot for executives is that today’s workforce “works” differently. Millennials yes, but really most workers spend their day collaborating with different groups of individuals – be they colleagues, customers, or partners – and often spend much of their day away from the desk and on mobile devices. Maximizing workforce productivity requires that executives remain nimble and adept by providing technologies and tools built around how they work.</p>\r\n<h3><span>What are some specific ways work is changing?&nbsp;</span></h3>\r\n<p>While voice calls and email aren’t going anywhere, other channels are emerging in order to address current inefficiencies. Office workers already<a href=\"https://blogs.adobe.com/conversations/2015/08/email.html\">&nbsp;spend</a>&nbsp;more than 30 hours a week checking email, which breaks down to roughly 36 times per hour. Some businesses have tried to reduce this heavy email usage by shifting the workforce to standalone messaging applications, but this just swaps one pain point for another.</p>\r\n<p>In&nbsp;<a href=\"https://www.broadsoft.com/future-of-work-survey\">BroadSoft’s own 2016 survey</a>&nbsp;of 245 knowledge workers, 43.8 percent of respondents reported using five or more applications for work, with some listing as many as 26, and 44.7 percent of respondents agree or strongly agree that the multitude of applications they use is overwhelming. All of this sends a clear message to business executives that today’s modern workforce seeks an integrated experience for users that simplifies work, rather&nbsp;than making it more difficult.</p>\r\n<h3><span>What else is a top productivity pain point?</span></h3>\r\n<p><span>&nbsp;</span>For all of the technology advances in the workplace that have made us more productive, meetings have been a tough nut to crack. Middle managers&nbsp;<a href=\"https://www.themuse.com/advice/how-much-time-do-we-spend-in-meetings-hint-its-scary\">spend</a>&nbsp;35 percent of their time in meetings, and for upper management it’s even more at 50 percent – literally half the day.</p>\r\n<p>But it’s not just the volume of meetings, it’s how unproductive they tend to be. Executives&nbsp;<a href=\"https://www.themuse.com/advice/how-much-time-do-we-spend-in-meetings-hint-its-scary\">consider</a>&nbsp;two-thirds of meetings to be failures, due to a range of factors, including workers who aren’t prepared and often spend meeting time multitasking on completely unrelated tasks. Finally, workers participating remotely in meetings find it difficult to engage and track everything that is happening.</p>\r\n<p>Today’s workforce isn’t always gathering at a set meeting time at a set physical location such as a conference room. Work teams quickly gather and disperse virtually and physically around specific projects, and then a completely different team might be formed for a new project the next day.</p>\r\n<p>As a result, we are seeing increased market demand for virtual “workspaces” where employees can not only gather and collaborate with team members for live meetings, but also easily find the tasks, files, notes, information, and applications they need – making meetings and any interaction more productive.</p>\r\n<h3><span>How can management account for mobile workers? &nbsp;</span></h3>\r\n<p>To ensure a workforce remains as productive away from the office as they do from within it, executives should seek out products and technologies for remote workers to not just connect, but engage. For example, workers participating in meetings remotely must have the capabilities to engage and interact from any location, at any time, and using any device.</p>\r\n<p>One promising area of technology innovation we are starting to see is the incorporation of Artificial Intelligence (AI) capabilities into the business and mobile apps employees rely on. For the mobile worker who is often scrambling to find the right files, messages, emails, and notes, AI can be a game changer by searching through all the information and presenting the mobile worker with only what they need at that particular moment.</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1275
+    target_type: file
+    target_uuid: 9f602e42-d47e-4e26-97ea-1f1c81e5a951
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.9f602e42-d47e-4e26-97ea-1f1c81e5a951
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

@@ -1,0 +1,20 @@
+uuid: b5d0da3f-7278-4268-af1a-e2e1c69b33ea
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.degree_experience
+  module:
+    - path
+id: taxonomy_term.degree_experience.path
+field_name: path
+entity_type: taxonomy_term
+bundle: degree_experience
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

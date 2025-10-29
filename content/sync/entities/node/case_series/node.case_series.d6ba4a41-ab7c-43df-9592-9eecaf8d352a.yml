@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: d6ba4a41-ab7c-43df-9592-9eecaf8d352a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:29:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Cardinal Health, Inc. B'
+created:
+  -
+    value: '2016-07-16T01:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:29:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-09-0002
+body:
+  -
+    value: '<p>Robert D. Walter built Cardinal Health into the most valuable company in the U.S. health care services industry and the world’s largest distributor of healthcare products. Cardinal Health, with revenues of $81 billion in 2006, was ranked Number 19 on the Fortune 500 list, and owned a third of the drug distribution business. Walter began this evolution with Cardinal Foods, but realized that this company would never be a big player in the food business given the presence of large, powerful incumbents. Through a series of acquisitions, Walter repositioned the company into the pharmaceutical distribution industry. Cardinal Health was one of a handful of large U.S. companies that had achieved earnings-per-share growth in excess of 20 percent for 15 years straight. Nevertheless, Wall Street was questioning whether Cardinal Health could continue to grow at this remarkable rate through acquisitions. This general doubt, coupled with questionable “stock crushing” accounting practices among wholesalers, including one of their own suppliers, was weighing down Cardinal''s stock price despite their continued earnings growth. Cardinal Health, the merger and acquisition juggernaut, had hit an earnings speed bump.</p><p>In October 2003, Cardinal Health disclosed that the SEC had launched an inquiry into questionable accounting practices in 2000 and 2001 in which Cardinal Health allegedly recognized $22 million in gains from litigation settlements before they were finalized. In May 2004, the SEC inquiry was converted into a formal investigation. It was July 2004 before Cardinal announced that their 2004 earnings, which had been predicted by the company to reach the “mid-teens or better,” would only be 11 percent higher than the previous year. In July 2007, Cardinal announced that it had reached a final settlement with the SEC of $35 million, concluding an investigation into the company''s historical financial reporting and disclosures from 2000 to 2004.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-09-0002
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b91234b7-5fe6-4964-80d7-0c09e20cd404
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  - {  }
+field_teaching:
+  -
+    value: 'This case can be used to illustrate potential strategic risk associated with a focus on short-term profit versus long-term value creation and to make students aware of the importance of implementing internal controls, good governance systems, and setting strong ethical standards. It also illustrates the potential consequences of unethical behavior. The case can be used to highlight the limitations of inorganic growth in a highly consolidated (concentrated) industry. It raises succession planning issues and is a good counterpart to the Cardinal Health, Inc. (A) case that documents the evolution of the company''s inorganic growth successes.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b91234b7-5fe6-4964-80d7-0c09e20cd404
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b

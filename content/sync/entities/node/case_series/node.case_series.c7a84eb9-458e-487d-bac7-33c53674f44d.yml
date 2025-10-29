@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: c7a84eb9-458e-487d-bac7-33c53674f44d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:33:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'When Customer Demands Hurt Channel Relationships'
+created:
+  -
+    value: '2016-07-18T01:01:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:33:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a11-06-0017
+body:
+  -
+    value: '<p><span>Wal-Mart wants PowerAde delivered direct to its warehouses. A seemingly innocuous request, given that PowerAde is a relatively minor brand for Coca-Cola. But in complying, Coca-Cola is taking the first step in changing the direct-store-delivery model used by its distributors for over a hundred years. And Coca-Cola’s smaller distributors aren’t buying it; 55 bottlers have joined ranks to sue Coca-Cola and Coca-Cola Enterprises (CCE), Coke’s largest distributor, to stop warehouse delivery.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A11-06-0017
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3b125feb-c26c-44bd-9320-26c689610856
+field_case_series_year:
+  -
+    value: '2006-01-01'
+field_case_setting:
+  -
+    value: U.S.
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6ae3f694-d10d-4a05-82a4-684ea4c05a01
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: c148e8af-a6d3-4da8-8ddf-8e8c923378a5
+  -
+    target_type: taxonomy_term
+    target_uuid: 4d619f54-c626-41f9-b09a-785cf573d376
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: 'The case can be used as an example of power in action: Wal-Mart wants efficiencies in product delivery. Coke wants better control over its bottlers. Distributors want Cake to adhere to their long-standing contractual relationship. All three will not be satisfied. So understanding the implications of warehouse delivery of PowerAde becomes critical for all relationship.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.3b125feb-c26c-44bd-9320-26c689610856
+      - taxonomy_term.case_series_categories.6ae3f694-d10d-4a05-82a4-684ea4c05a01
+      - taxonomy_term.case_series_fields.c148e8af-a6d3-4da8-8ddf-8e8c923378a5
+      - taxonomy_term.case_series_fields.4d619f54-c626-41f9-b09a-785cf573d376
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

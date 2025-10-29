@@ -1,0 +1,21 @@
+uuid: b888be1e-a6d7-4bc5-934e-c30f74bf1f2d
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image_and_text_block
+    - field.storage.block_content.field_theme
+  module:
+    - options
+id: block_content.image_and_text_block.field_theme
+field_name: field_theme
+entity_type: block_content
+bundle: image_and_text_block
+label: Theme
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

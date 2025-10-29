@@ -1,0 +1,20 @@
+uuid: bdea3f44-becf-4be0-8812-400e4871c924
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.degree_category
+  module:
+    - path
+id: taxonomy_term.degree_category.path
+field_name: path
+entity_type: taxonomy_term
+bundle: degree_category
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

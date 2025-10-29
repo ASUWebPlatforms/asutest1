@@ -1,0 +1,19 @@
+uuid: c3dce538-f593-43d4-97c6-b8b4cbd15e92
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.thundershop
+    - field.storage.block_content.field_sub_heading
+id: block_content.thundershop.field_sub_heading
+field_name: field_sub_heading
+entity_type: block_content
+bundle: thundershop
+label: 'Sub Heading'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

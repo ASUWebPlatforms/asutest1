@@ -1,0 +1,122 @@
+uuid:
+  -
+    value: c4bb0e95-26ac-4d1d-b868-d1a8b92a6277
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:30:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Hidden Protectionism or Legitimate Concern? The U.S.-EU Beef Hormone Dispute'
+created:
+  -
+    value: '2016-07-16T00:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:30:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-13-0016
+body:
+  -
+    value: '<p><span>The U.S. made a deal with the EU to drop its trade dispute in the WTO over the EU’s ban on hormone-treated beef. In return for the U.S. ending the WTO case and dropping its retaliatory tariffs on selected EU products, the EU would increase its imports of non-hormone-treated beef from the U.S. While the 14 beef producers who participated in the U.S. Department of Agriculture’s non-hormone-treated cattle (NHTC) program were pleased, the bulk of the U.S. beef industry, almost all of which uses growth hormones in its production processes, would not benefit from this deal.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-13-0016
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95ca5101-0e03-41b8-b83c-faf4576d6cb3
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2013-01-01'
+field_case_setting:
+  -
+    value: EU/US
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 71ae49d3-767b-4ef8-91e3-80442b78990e
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: 'This case can be used in a course on Global Political Economy, Global Business Environment, or Foreign Trade to demonstrate how the World Trade Organization (WTO) solves trade disputes—both in theory and in practice. It can also be used to demonstrate how U.S. trade policy works, or to illustrate cultural differences between the U.S. and the EU on trade issues related to human health concerns.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.95ca5101-0e03-41b8-b83c-faf4576d6cb3
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.71ae49d3-767b-4ef8-91e3-80442b78990e
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

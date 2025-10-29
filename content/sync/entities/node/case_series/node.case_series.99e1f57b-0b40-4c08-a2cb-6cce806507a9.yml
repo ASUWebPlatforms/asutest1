@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 99e1f57b-0b40-4c08-a2cb-6cce806507a9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T23:30:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Wine Industry'
+created:
+  -
+    value: '2016-07-26T23:30:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T23:30:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-03-0026-0
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This Wine Industry Note examines the wine industry as the basis for discussing how competitive advantage is created and how advantage can be lost when innovative strategies challenge the incumbent players. The wine industry in 2003 was in a state of transition. Historically, a plethora of products and fragmented international markets made it nearly impossible for a company to establish a dominant international position. In addition, because wine was an agricultural product and subject to the vagaries of the weather, reliability of supply was unpredictable. However, well-capitalized international winemakers were emphasizing global presence and brand recognition. The tremendous success New World producers had experienced in markets traditionally dominated by European winemakers was leading to increased emphasis on creating recognized brands, stable distribution arrangements, and focused advertising campaigns. Only time would tell if the wine industry remained one where terror and the mystery of the wine prevailed, or global brands displaced the local and regional winemakers.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-03-0026
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9d572947-2603-4f81-9682-1a31bd38638e
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: N/A
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+field_teaching:
+  -
+    value: "The wine industry is an ancient industry, it is global, it involves a product that most people are familiar with and many are fanatical about, and it is undergoing significant structural change. The focus of the industry note is on the producers/winemakers and their position within the industry. The case can also be used in the industry analysis part of a competitive strategy class and can serve as a vehicle to explore the value chain concept.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.9d572947-2603-4f81-9682-1a31bd38638e
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b

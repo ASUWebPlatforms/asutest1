@@ -1,0 +1,18 @@
+uuid: 69d2070e-f219-4d4a-82aa-ec27c2cc9169
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.life_long_learning
+id: node.life_long_learning.created
+field_name: created
+entity_type: node
+bundle: life_long_learning
+label: 'Authored on'
+description: 'The time that the node was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

@@ -1,0 +1,18 @@
+uuid: 7a416861-60e0-4dbc-bd1a-22f421f87c80
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.thunder_product
+id: paragraph.thunder_product.created
+field_name: created
+entity_type: paragraph
+bundle: thunder_product
+label: 'Authored on'
+description: 'The time that the Paragraph was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

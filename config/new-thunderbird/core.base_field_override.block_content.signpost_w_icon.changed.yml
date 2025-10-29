@@ -1,0 +1,18 @@
+uuid: e602f023-14f9-4e56-8d9b-4b48dfd2a44b
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_w_icon
+id: block_content.signpost_w_icon.changed
+field_name: changed
+entity_type: block_content
+bundle: signpost_w_icon
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

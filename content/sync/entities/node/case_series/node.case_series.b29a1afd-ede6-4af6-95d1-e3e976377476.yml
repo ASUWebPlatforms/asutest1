@@ -1,0 +1,108 @@
+uuid:
+  -
+    value: b29a1afd-ede6-4af6-95d1-e3e976377476
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T21:35:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'What Happened at Enron?'
+created:
+  -
+    value: '2016-07-26T21:35:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T21:35:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-04-0016-0
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>On December 2, 2001, Enron Corporation filed for bankruptcy protection under Chapter 11. One of the most highly publicized business debacles in history-its settlements, criminal charges, civil charges, and workouts will continue for years. But outside of the courts and sensational press, what really happened? What caused the collapse of what at one time was the sixth largest company in the United States? The case explores the Enron story-in an attempt to not only answer the question of what happened, but what may be learned from this failure.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-04-0016
+field_case_page_length:
+  -
+    value: '22 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9313f4c5-a9c9-434c-b170-f45fec9b8d04
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: U.S.
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  - {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: acacc07c-a00f-44c6-a055-e47a9a9bb1fb
+  -
+    target_type: taxonomy_term
+    target_uuid: ed3f6023-bab2-4a5e-a56a-1c54b925845d
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: "The case is intended to serve a variety of purposes: \r\n\r\nto allow a reader, any reader, a more approachable information base to understand some of what happened at Enron-the rise and fall. \r\nto focus on how a company either chooses or experiences the evolution of a corporate culture which has certain pillars (such as recruiting, compensation, performance evaluation, etc.) and leads, possibly, to inevitable outcomes. \r\nto demonstrate the basics of business and financial growth, including the rate of growth which a firm can sustain through internal and external financing. The off-balance sheet SPVs (special purpose vehicles) were used as devices to perpetuate an EPS growth-based managerial objective which is very controversial. \r\nto explore the personality characteristics of Enron leadership."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.9313f4c5-a9c9-434c-b170-f45fec9b8d04
+      - taxonomy_term.case_series_fields.acacc07c-a00f-44c6-a055-e47a9a9bb1fb
+      - taxonomy_term.case_series_fields.ed3f6023-bab2-4a5e-a56a-1c54b925845d
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

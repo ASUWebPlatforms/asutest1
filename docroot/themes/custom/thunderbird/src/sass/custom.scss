@@ -1,0 +1,197 @@
+.career-path--card{
+  height: 100%;
+}
+
+.ajax-go-to {
+  input {
+    height: 40px;
+    max-width: 60px;
+    padding: 0;
+    text-align: center;
+  }
+}
+
+ul.pagination.pager__items {
+  @include media-breakpoint-down(sm) {
+    flex-wrap: wrap;
+
+    .ajax-go-to {
+      width: 100%;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+  }
+}
+
+body > img[src*="https://insight.adsrvr.org/track/pxl/"] {
+  display: none;
+}
+
+.datelist-single-time {
+  display: flex;
+  flex-wrap: wrap;
+
+  label {
+    margin-bottom: 0;
+  }
+  
+  select {
+    min-width: fit-content;
+    margin-right: 13px;
+  }
+}
+
+.pe-none {
+  pointer-events: none;
+  cursor: default;
+}
+
+.gdmi-local-tasks {
+  .nav {
+    border-bottom: none;
+    
+    .nav-item {
+      a {
+        padding: 0;
+        font-size: 20px;
+      }
+
+      &:not(:first-of-type) {
+        a {
+          margin-left: 40px;
+          position: relative;
+          
+          &::before {
+            content: '';
+            width: 1px;
+            height: 20px;
+            display: inline-block;
+            background-color: #E8E8E8;
+            position: absolute;
+            left: -20px;
+            top: 5px;
+          }
+        }
+      }
+    }
+  }
+}
+
+.ui-dialog.ui-widget.ui-widget-content.ui-dialog-position-side {
+  z-index: 999 !important;
+}
+
+a:focus, button:focus, input:focus, select:focus, textarea:focus {
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #191919 !important;
+  outline: none !important;
+}
+
+.image-and-text-block {
+  .video-element__field-media-video-file-1 {
+    video {
+      width: 100%;
+
+      @media screen and (min-width: 992px) {
+        height: 400px !important;
+        width: auto !important;
+      }
+
+      @media screen and (min-width: 1290px) {
+        height: 480px !important;
+      }
+    }
+  }
+}
+
+.image-data__crop-wrapper {
+  .vertical-tabs {
+    width: fit-content !important;
+  }
+  .vertical-tabs__panes {
+    .card-body {
+      padding-top: 32px !important;
+    }
+  }
+}
+.crop-preview-wrapper__preview-image {
+  width: auto !important;
+}
+
+.bg-light-blue {
+  background-color: $blue-mid !important;
+
+  .signpost-1-column-w-link {
+    *  {
+      color: white;
+    }
+    .btn {
+      background-color: $gold;
+      color: $blue-dark;
+    }
+  }
+}
+
+// New Homepage
+.node-type--home-page.path--home {
+
+  .layout__full-width {
+    overflow: hidden;
+  }
+  
+  .hero-wrapper,
+  .block-inline-blockcard-and-image {
+    background-position: bottom !important;
+  }
+
+  .hero .hero__field-two-cta a {
+    margin-left: 0 !important;
+  }
+  .card-selection__header h2 {
+    color: $blue-dark;
+  }
+  .signpost-50-50 .col-lg:not(.blue)  {
+    .uds-list li a {
+     color: #333333;
+    }
+  }
+  
+  @include media-breakpoint-down(sm) { 
+    .block-inline-blockcard-and-image {
+      background-position: 0 0 !important;
+      background-size: 250% !important;
+    }
+  }
+
+  @include media-breakpoint-up(lg) { 
+    .signpost-50-50  {
+      .col-sm-12:first-of-type {
+        padding-left: 0 !important;
+      }
+
+      .uds-list li a {
+        text-decoration: underline;
+        text-underline-offset: 6px;
+      }
+    }
+
+    .signpost-1-column-w-link {
+      padding-top: 5rem;
+      padding-bottom: 5rem;
+    }
+
+    .signpost-less-content__field-signpost-title {
+      font-size: 64px !important;
+      line-height: 1.1;
+    }
+  }
+}
+
+.node {
+  &.node-najafi-100-million-learners-global-initiative {
+    #uds-anchor-menu nav {
+      .nav-link[href="#webspark-anchor-link--2378"]{
+        display: none;
+      }
+    }
+  }
+}

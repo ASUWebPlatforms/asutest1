@@ -1,0 +1,22 @@
+uuid: 78d91406-ae64-42be-82e6-5ef07f407ec1
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.class_profile
+id: block_content.class_profile.status
+field_name: status
+entity_type: block_content
+bundle: class_profile
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

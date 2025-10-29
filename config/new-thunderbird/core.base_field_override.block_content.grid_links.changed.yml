@@ -1,0 +1,18 @@
+uuid: 0e2818cb-7d5b-4236-b106-c246351f30af
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.grid_links
+id: block_content.grid_links.changed
+field_name: changed
+entity_type: block_content
+bundle: grid_links
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

@@ -1,0 +1,20 @@
+uuid: 83202b2a-99c3-4da5-aa48-3f55663b2139
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.cropped_image_wide
+id: media.cropped_image_wide.uid
+field_name: uid
+entity_type: media
+bundle: cropped_image_wide
+label: 'Authored by'
+description: 'The user ID of the author.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: 'Drupal\media\Entity\Media::getDefaultEntityOwner'
+settings:
+  handler: default
+  handler_settings: {  }
+field_type: entity_reference

@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 0f9ce2ac-882a-49b9-a60b-f38144b6ffc0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-02-08T20:19:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Phoenix is Not Silicon Valley – and That’s a Good Thing'
+created:
+  -
+    value: '2018-02-06T16:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-08T20:19:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/phoenix-not-silicon-valley-and-thats-good-thing
+body:
+  -
+    value: "<div class=\"WordSection1\">\r\n<p>[[{\"fid\":\"12290\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Phoenix is Not Silicon Valley – And That’s a Good Thing\",\"field_file_image_title_text[und][0][value]\":\"Phoenix is Not Silicon Valley – And That’s a Good Thing\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Phoenix is Not Silicon Valley – And That’s a Good Thing\",\"field_file_image_title_text[und][0][value]\":\"Phoenix is Not Silicon Valley – And That’s a Good Thing\"}},\"attributes\":{\"alt\":\"Phoenix is Not Silicon Valley – And That’s a Good Thing\",\"title\":\"Phoenix is Not Silicon Valley – And That’s a Good Thing\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Silicon Valley has long been a breeding ground for entrepreneurs and home to some of the world’s best-known high-tech companies. Now Phoenix, however, is inching in on Silicon Valley's territory - creating an ideal environment for tech companies and their employees.</p>\r\n<p>The use of the phrase 'Silicon Valley' dates back to 1971. ‘Silicon’ is in reference to the high concentration in the 70s and 80s of companies involved in making&nbsp;semiconductors, the brains of our electronic gadgets&nbsp;(silicon is used to create most semiconductors). ‘Valley’ is in reference to the southern portion of the San Francisco Bay area in Santa Clara County, which includes San Jose and the Santa Clara Valley.</p>\r\n<blockquote>\r\n<p>“Arizona State University and Thunderbird School of Global Management think about the business community as their strongest allies, forging partnerships locally and globally.” – <a href=\"https://ctt.ec/db4Ln\">Click to Tweet</a><a href=\"#_msocom_1\" id=\"_anchor_1\" name=\"_msoanchor_1\"></a></p>\r\n</blockquote>\r\n<p>The Phoenix metropolitan area, which is located in the Salt River Valley, is often called the Valley of the Sun. That was a marketing slogan created in the 1930s to boost tourism.</p>\r\n<p>There are lots of anecdotal reports on how competitive Silicon Valley is and how the high cost of living is driving tech workers to seek opportunity elsewhere. It’s not hard to find stories about workers earning six-figure salaries being priced out of Silicon Valley.</p>\r\n<h3>You don’t hear those stories about the Valley of the Sun.</h3>\r\n<p>In fact, there are countless tales about entrepreneurs thriving in this Valley: <a href=\"https://thunderbird.asu.edu/knowledge-network/8-reasons-why-phoenix-hub-innovative-entrepreneurs\">8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs</a>.</p>\r\n<blockquote>\r\n<p>“Billed as a place where you can roll up your sleeves and start producing on day one, metro Phoenix is a community built on connections.” – <a href=\"https://ctt.ec/415R3\">Click to Tweet</a><a href=\"#_msocom_2\" id=\"_anchor_2\" name=\"_msoanchor_2\"></a></p>\r\n</blockquote>\r\n<p>Here, we try to move beyond the anecdotes, using numbers provided by the U.S. Bureau of Labor Statistics, the U.S. Census Bureau, and local government statistics. Here’s a close look at how the two Valleys stack up:</p>\r\n<h3>By the numbers</h3>\r\n<p><strong>Population</strong> <br>Silicon Valley – 3.09 million<br>Phoenix metro area – 4.57 million</p>\r\n<p><i>Phoenix is tops in the U.S. for population growth, according to data from the U.S. Census Bureau. Phoenix added 32,113 people to its population between July 2015 and July 2016. That’s more than any other city in the U.S.</i></p>\r\n<p><strong>Cost of living</strong><br>Silicon Valley – 49% higher than the national average <br>Phoenix metro area – 8% below national average</p>\r\n<p><i>The most frequently cited culprit for the slowdown in job growth in Silicon Valley is the high cost of living. Stories feature highly paid tech workers living in closets, garages – even a truck in the Google lot. According to a study from real estate brokerage firm Redfin,&nbsp;</i><a href=\"https://www.redfin.com/blog/2015/05/the-digital-diaspora.html\"><i>25 percent of Silicon Valley area residents</i></a><i>&nbsp;are now searching for homes elsewhere.</i><i></i></p>\r\n<p><strong>Employees</strong><br>Silicon Valley – 1.11 million<br>Phoenix metro area – 2.07 million</p>\r\n<p><i>The Phoenix area’s large labor pool is owed in part to the amount of talent being produced by higher education institutions in Arizona. And where Phoenix’s job market is growing, job postings in Silicon Valley are down. In fact, between September of 2015 and September of 2017, there was an 18.14% decrease in the share of tech job postings on Indeed.</i></p>\r\n</div>\r\n<div class=\"WordSection2\">\r\n<blockquote>\r\n<p>“The most frequently cited culprit for the slowdown in job growth in Silicon Valley is the high cost of living.” – <a href=\"https://ctt.ec/8gb4a\">Click to Tweet</a><a href=\"#_msocom_3\" id=\"_anchor_3\" name=\"_msoanchor_3\"></a></p>\r\n</blockquote>\r\n</div>\r\n<p><strong>Unemployment (November 2017)<br></strong>Silicon Valley – 2.7%<br>Phoenix metro area – 3.7%</p>\r\n<div class=\"WordSection3\">\r\n<p><strong>Income<br></strong>Silicon Valley – $112,060 average annual salary<br>Phoenix metro area – $58,075 average household income</p>\r\n<p><strong>Average hourly wages</strong><br>Silicon Valley —<br>computer hardware engineers - $68.82<br>Phoenix metro area –<br>computer hardware engineers - $50.72</p>\r\n<p><strong>Median home price</strong><br>Santa Clara county – $1.175 million<br>Phoenix metro area – $223,700</p>\r\n<p><strong>Monthly rent (for a 900-square-foot apartment)<br></strong>Silicon Valley – $3,018&nbsp;<br>Phoenix metro area – $1,242</p>\r\n<p><strong>Monthly gym membership<br></strong>Silicon Valley – $43 (or free at tech employer)<br>Phoenix metro area – $29</p>\r\n<p><strong>Food (annual costs)<br></strong>Silicon Valley – $8,173 (12.6% of expenses)<br>Phoenix metro area – $7,269 (12.1% of expenses)</p>\r\n<p><strong>Transportation (annual costs)</strong><br>Silicon Valley – $9,855 (15.2% of expenses)<br>Phoenix metro area – $9,017 (15.1% of expenses)</p>\r\n<p><strong>Educational attainment</strong><br>Silicon Valley – 22.4% graduate or professional degree; 28.4% bachelors<br>Valley of the Sun – 11.1% graduate degree; 18% bachelors</p>\r\n</div>\r\n<p>The numbers tell the story: the tech and entrepreneur market in the Valley of the Sun is more affordable, appealing and accessible for employers and employees. And, if that isn't enough, it's more sunny too.</p>\r\n<p>After all, just consider some of these anecdotes about life in Silicon Valley that seem unbelieveable for us in the Phoenix metro area:</p>\r\n<div class=\"WordSection5\">\r\n<ul>\r\n<li>A $3 million corporate jet is part of one intellectual property firm’s strategy to expand from Houston to Silicon Valley. Rather than open offices and set up employees in northern California, the firm bought a nine-seat corporate jet and each month flies a planeload of lawyers from Houston to Silicon Valley to meet clients.</li>\r\n<li>A former Facebook employee who was making a six-figure salary at his dream job&nbsp;<a href=\"http://www.vox.com/2016/9/14/12892994/facebook-silicon-valley-expensive\"><span style=\"text-decoration: underline;\">said in a blog post on Vox</span></a>&nbsp;that he quit and moved to Arizona because he and his four-member family could no longer afford to live in Silicon Valley.</li>\r\n</ul>\r\n<h3>Finding a healthy startup ecosystem</h3>\r\n<p>Of course, Silicon Valley will remain a stronghold for innovation in technology. But quality of life and economic conditions are opening the doors to many other locations, like Phoenix.</p>\r\n<p>With a population of 4.5 million in the Phoenix metropolitan area, the city is well established. In the 1980s and 1990s, tech jobs in Phoenix focused on back office and customer care centers for companies headquartered elsewhere. Now the region is buzzing with entrepreneurs and new companies in the tech space. Groups like Greater Phoenix Economic Council&nbsp;and Arizona Technology Council actively recruit companies into the area and help support homegrown startups as well.</p>\r\n<blockquote>\r\n<p>“Many of the prominent companies that have relocated from Silicon Valley to Phoenix cite the availability of an entrepreneurial workforce and thriving startup scene.” – <a href=\"https://ctt.ec/necWf\">Click to Tweet</a><a href=\"#_msocom_4\" id=\"_anchor_4\" name=\"_msoanchor_4\"></a></p>\r\n</blockquote>\r\n<p>In recent years there have been many prominent Silicon Valley tech companies moving and expanding to Phoenix, including DoubleDutch, Gainsight, Uber, Prosper Marketplace, Yelp, Weebly, BoomTown and Shutterfly. Many of these and other companies that have recently relocated to the area cite the availability of an entrepreneurial workforce and thriving startup scene. One defining feature of many investors, institutions, and startups in Phoenix is their focus: it’s not on the next hot social media app but rather in sectors such as healthcare, finance, and education. These are businesses that help solve real problems.</p>\r\n<p>In 2017, forty-one Inc. 5000 companies made their home in the Valley of the Sun, with a diverse array of industries ranging from retail to health. The No. 1 of those companies, according to Inc. magazine, is Carvana, which sells cars online for a “test buy” time frame of seven days. The company zoomed onto Inc.’s radar with revenue of $365 million in 2016, a 7,924% increase from 2013.</p>\r\n<h3>Support from higher education</h3>\r\n<p>Phoenix is home to Arizona State University and <a href=\"https://thunderbird.asu.edu/about\">Thunderbird School of Global Management</a>, among a number of other public and private schools. As educational institutions, we think about the business community as our strongest ally, and we forge partnerships locally and globally. &nbsp;&nbsp;</p>\r\n</div>\r\n<p>ASU President Michael Crow is looking for entrepreneurs who will create an impact on the <a href=\"https://entrepreneurship.asu.edu/about/news\">next generation of the American economy</a>.&nbsp;Entrepreneurship opportunities abound at ASU and Thunderbird – in and out of the classroom, and in a wide variety of programs.</p>\r\n<h3>Bottom line</h3>\r\n<p>In 2012, Forbes magazine first asked <a href=\"https://www.forbes.com/sites/kellyclay/2012/07/30/is-phoenix-the-next-silicon-valley/\">“Is Phoenix the Next Silicon Valley?”</a> The answer then, as now, is ‘We hope not.’ Sure, the Phoenix metro area is attracting successful tech companies and workers from Silicon Valley, but it’s also home to a new generation of homegrown, Arizona-based tech companies. It’s a great place to start a business. And a great place to <a href=\"https://thunderbird.asu.edu/knowledge-network/8-reasons-why-phoenix-hub-innovative-entrepreneurs\">go to school to make that business boom</a>.</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Silicon Valley has long been a breeding ground for entrepreneurs and home to some of the world’s best-known high-tech companies. Now Phoenix, however, is inching in on Silicon Valley''s territory - creating an ideal environment for tech companies and their employees.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1024
+    height: 576
+    target_type: file
+    target_uuid: e7dee86a-a825-4ff1-84dc-0fe29130b792
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b08d5919-cc6b-4ba9-b8e0-c87cc431314a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.e7dee86a-a825-4ff1-84dc-0fe29130b792
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b08d5919-cc6b-4ba9-b8e0-c87cc431314a

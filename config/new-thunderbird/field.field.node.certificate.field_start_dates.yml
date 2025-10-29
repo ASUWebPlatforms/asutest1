@@ -1,0 +1,19 @@
+uuid: 261e376c-3913-4011-ba9a-069bb604c0a9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_start_dates
+    - node.type.certificate
+id: node.certificate.field_start_dates
+field_name: field_start_dates
+entity_type: node
+bundle: certificate
+label: 'Start dates'
+description: 'The specific start date(s) to display on Certificate card and detail. If left blank, the start date (month) tags above will be displayed.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

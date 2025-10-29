@@ -1,0 +1,6 @@
+name: Thunderbird GDMI Hubspot Integration
+description: GDMI Hubspot Integration for Thunderbird.
+package: Thunderbird
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9

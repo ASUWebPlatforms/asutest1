@@ -1,0 +1,117 @@
+uuid:
+  -
+    value: 5c4cfb49-d8ab-4309-ac8c-8519eca8591b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:43:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Caspian Oil (A) Tengis'
+created:
+  -
+    value: '2016-07-16T00:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:43:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-12-0011
+body:
+  -
+    value: '<p><span>The Tengiz Field in Kazakhstan was discovered by Soviet geologists in 1979 but largely ignored for years as the Soviets focused their oil development efforts elsewhere. When Chevron formed a joint venture with the Kazakh government in 1992, development of Tengiz started. By the spring of 2011, although producing 700,000 barrels of oil per day (bbls/d), Tengiz was yielding only half the oil expected. Chevron was under increasing pressure from its partners, including the Kazakh government, to bring the joint venture to its productive promise.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-12-0011
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: Kazahstan
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 71ae49d3-767b-4ef8-91e3-80442b78990e
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+field_teaching:
+  -
+    value: 'This case discusses the history of the Tengiz Field and the various challenges that must be overcome to bring a new oil field into production. The primary teaching objectives are (1) to introduce the challenges facing oil and gas firms in new field development; (2) to discuss the complex mix of political, financial, and technological issues surrounding Tengiz; and (3) to consider what Chevron could have done differently in managing its role in Tengiz.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.71ae49d3-767b-4ef8-91e3-80442b78990e
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a

@@ -1,0 +1,23 @@
+label: 'Bloc de tip coș de cumpărături'
+display:
+  default:
+    display_title: Expert
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Aplică
+          reset_button_label: Resetează
+          exposed_sorts_label: 'Sortare după'
+          sort_asc_label: Ascendent
+          sort_desc_label: Descendent
+      fields:
+        quantity:
+          separator: ', '
+        title:
+          separator: ', '
+        total_price__number:
+          separator: ', '
+      arguments:
+        order_id:
+          exception:
+            title: Toate

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 36722325-3d2b-4f8a-922e-79be5d140a1e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Passion Made by Hand'
+created:
+  -
+    value: '2015-07-18T17:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/passion-made-by-hand
+body:
+  -
+    value: "<p>Lacteos CampoReal is a Colombian cheese company that makes 450 tons of cheese per year, all by hand. The company is dedicated to making a social and economic impact in the country through supporting a number of philanthropic programs. Luz Marina Mora, founder and general manager of CampoReal, has been working in food retail for over 30 years. When she started the company in 2002, she had the goal of providing not only delicious and healthy cheeses, but also helping the community. Lili Santrich, head of value management and marketing, has been working for the company since it began and leads the team in providing innovative solutions for their customers.</p>\r\n<p><span>CampoReal has been exponentially growing the past 13 years along with the Colombian economy, providing cheese to different cities throughout the country. CampoReal produces all of the fresh cheese (Queso Fresco) in house at the plant in Bogota, and sources the rest of the cheeses from 10 plants from various regions. The company is working on developing products that are functional and experiential, including products with high calcium, low sodium, low fat and more.</span></p>\r\n<p>&nbsp;<span>The TEM Lab team spent the week learning the in’s and out’s of the company in order to develop a strategic work plan for the upcoming four weeks. This included a tour of the local plant, innovation meetings, visits to supermarkets, attending an agricultural fair where the company has a booth, a wine and cheese tasting at a local high-end store and many hours of research on the company, the Colombian cheese industry and the Colombian business culture.&nbsp;</span></p>\r\n<p><em>CampoReal employees gave a warm welcome to&nbsp;TEM Lab team.</em></p>\r\n<p><em>&nbsp;[[{\"fid\":\"2988\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Passion Made by Hand\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Passion Made by Hand\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Passion Made by Hand\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</em></p>\r\n<p><span><em>CampoReal booth at the AgroExpo on July 16th.&nbsp;</em></span></p>\r\n<p>[[{\"fid\":\"2989\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Passion Made by Hand\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Passion Made by Hand\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Passion Made by Hand\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><span><em><span>T</span><span>EM Lab team is embracing the Colombian coffee culture, drinking on average 5 cups a day.&nbsp;Black Colombian coffee is called \"Tinto\" and it is purely delicious! It is also great with a side of fresh cheese, made by hand steps away from our office.</span></em></span></p>\r\n<p>[[{\"fid\":\"2990\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Passion Made by Hand\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Passion Made by Hand\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Passion Made by Hand\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

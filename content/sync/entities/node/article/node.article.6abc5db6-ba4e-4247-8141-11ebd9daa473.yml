@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 6abc5db6-ba4e-4247-8141-11ebd9daa473
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'For Meg Whitman, 61 Is The New 21'
+created:
+  -
+    value: '2018-01-25T20:24:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/meg-whitman-61-new-21
+body:
+  -
+    value: "<p class=\"graf graf--p graf-after--figure\">[[{\"fid\":\"11798\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"For Meg Whitman, 61 Is The New 21\",\"field_file_image_title_text[und][0][value]\":\"For Meg Whitman, 61 Is The New 21\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"For Meg Whitman, 61 Is The New 21\",\"field_file_image_title_text[und][0][value]\":\"For Meg Whitman, 61 Is The New 21\"}},\"attributes\":{\"alt\":\"For Meg Whitman, 61 Is The New 21\",\"title\":\"For Meg Whitman, 61 Is The New 21\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--figure\">Why did the most experienced woman in Silicon Valley, Meg Whitman (61), leave venerable Hewlett Packard to join a mobile content startup venture aptly named NewTV?</p>\r\n<p class=\"graf graf--p graf-after--p\">Because Jeffrey Katzenberg, former co-founder of Dreamworks SKG, asked her to.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">For both Whitman and Katzenberg, this is a sign you can go home again.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">Katzenberg became aware of Whitman’s interest in leaving HPE when he heard about her interest in the Uber CEO role. In bringing together his pedigree and Whitman’s operational skills, Katzenberg said, “Meg is one of the most accomplished and sought-after executives of our time. She has built and scaled some of the most important global companies today. To say I am thrilled that Meg will be at the helm would be an understatement.”</p>\r\n<p class=\"graf graf--p graf-after--p\">NewTV’s plan is still under wraps, and may very well be a work in progress, not unusual for Hollywood or hi-tech startups. For now, the plan is to change how audiences interact with short-form content optimized for mobile devices. Think of it as premium YouTube channel for folks who spend five hours a day on their iPhones and soon will be willing to pay subscriber fees. The venture will be as much about Hollywood production as it will be about relationships with Apple, Verizon, Netflix, and Amazon.</p>\r\n<p class=\"graf graf--p graf-after--p\">According to Hollywood insider&nbsp;<a href=\"http://variety.com/2018/digital/news/meg-whitman-tapped-as-ceo-of-jeffrey-katzenbergs-mobile-content-venture-1202674576/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://variety.com/2018/digital/news/meg-whitman-tapped-as-ceo-of-jeffrey-katzenbergs-mobile-content-venture-1202674576/\">Variety</a>, the new company will bring a drama like “<em>Grey’s Anatomy</em>&nbsp;shrunk to 10-minute episodes made for mobile consumption. Or a five-minute talk show, or a two-minute newscast — all with high-profile talent attached.”</p>\r\n<p class=\"graf graf--p graf-after--p\">For Whitman, after a career where she ran some of the biggest and most successful technology companies in history, this was a chance to get back to earlier stage innovation: “In some ways, this is a return to my start-up roots. I took eBay from $4 million and 30 employees to $8 billion in revenues and 18,000 employees.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Her relationship with Katzenberg goes back a long way, too. When he was the number two at Disney to Michael Ovitz, Whitman was a star strategic planner, and their friendship blossomed afterward. She remarked about her new role, “I think Jeffrey and I have very complementary strengths.”</p>\r\n<p class=\"graf graf--p graf-after--p\">The name, NewTV, is not the only tentative thing about the venture. Whitman dismissed requests for detail about the startup, “We’re deep in the process of fundraising right now so I can’t talk about it,” she said. “But we’re going to be recruiting the very best talent, and in a few more months we’ll have to more to say on this.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Whitman is looking around for a chief creative officer, and this signals her focus will be the same as in her previous role as president and CEO of eBay. Her skill is in marketing, strategy, and operations, and getting out of the way of creative talent.</p>\r\n<p class=\"graf graf--p graf-after--p\">Katzenberg was itching to bring Hollywood and digital together when he announced the formation of his holding company,&nbsp;<a href=\"http://variety.com/2017/digital/news/jeffrey-katzenberg-wndrco-mobile-tv-1202001089/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://variety.com/2017/digital/news/jeffrey-katzenberg-wndrco-mobile-tv-1202001089/\">WndrCo</a>, in January 2017 with funding from dozen investors of over a half billion seed money. His other digital entertainment investments include&nbsp;<a href=\"http://variety.com/2017/digital/news/young-turks-jeffrey-katzenberg-wndrco-funding-1202518938/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://variety.com/2017/digital/news/young-turks-jeffrey-katzenberg-wndrco-funding-1202518938/\">TYT Network</a>, a leading video political news channel, plus a minority ownership in digital startup&nbsp;<a href=\"http://variety.com/t/whistle-sports/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://variety.com/t/whistle-sports/\">Whistle Sports</a>&nbsp;and news startup&nbsp;<a href=\"http://variety.com/t/axios/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://variety.com/t/axios/\">Axios</a>.</p>\r\n<p class=\"graf graf--p graf-after--p\">When he learned Whitman was interested in the Uber CEO role, which she opted not to pursue, Katzenberg didn’t waste a moment and jumped at the opportunity to work with her again.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">Whitman also dabbled in politics, with an unsuccessful run for California’s governorship, running against Jerry Brown, as well as hitting the campaign trail for Mitt Romney and Senator John McCain. She distanced herself from President Donald Trump during the 2017 campaign.</p>\r\n<h4>Author’s Bio</h4>\r\n<p><em>Jeff&nbsp;Cunningham&nbsp;is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.&nbsp;</em></p>\r\n<p><em>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</em></p>\r\n<p><em>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;</em><a href=\"http://www.iconicvoices.tv/\"><em>Iconic Voices</em></a><em>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to&nbsp;JeffImmelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;</em><a href=\"http://www.jeffcunningham.com/\"><em>JeffCunningham.com.</em></a><em>&nbsp;</em></p>\r\n<p><em>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.&nbsp;</em></p>\r\n<p><em>He has also been a board director of 10 public companies.</em></p>\r\n<p><em><strong>Read more Jeff Cunningham<br></strong></em></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/did-jeff-immelt-fumble-ge-handoff\">Did Jeff Immelt Fumble the GE Handoff?<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/how-disagree-president-general-david-petraeus\">How To Disagree With The President by General David Petraeus<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/who-gets-blamed-when-ceo-dies\">Who Gets Blamed When The CEO Dies?<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/mikhail-khodorkovsky-man-who-frightened-putin\">At Caterpillar, Strategy Starts With The Board<br>Mikhail Khodorkovsky: The Man Who Stood Up to Putin</a></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: "Why did the most experienced woman in Silicon Valley, Meg Whitman (61), leave venerable Hewlett Packard to join a mobile content startup venture aptly named NewTV?\r\n\r\nBecause Jeffrey Katzenberg, former co-founder of Dreamworks SKG, asked her to."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1246
+    height: 702
+    target_type: file
+    target_uuid: ddff99c8-669c-4dbe-a9c2-d0b063229338
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.ddff99c8-669c-4dbe-a9c2-d0b063229338
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

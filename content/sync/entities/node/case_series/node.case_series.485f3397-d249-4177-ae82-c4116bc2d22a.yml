@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: 485f3397-d249-4177-ae82-c4116bc2d22a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:03:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Rosneft’s Initial Public Offering (A)'
+created:
+  -
+    value: '2016-07-16T01:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:03:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-07-0014
+body:
+  -
+    value: '<p><span>The initial public offering (IPO) of Rosneft, Russia’s state-owned oil giant, was scheduled for mid-July 2006, in both London and Moscow. It was expected to be one of the largest IPOs in history. However, as of July 1, the Russian government, Rosneft’s management, and its financial advisors had yet to decide on the IPO price. Expert valuations varied substantially, ranging between $64 billion and $120 billion. Peter O’Brien, the new CFO of Rosneft (he had been appointed only in April), and his investment advisors had little more than a week to decide the structure and pricing of the Rosneft IPO.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-07-0014
+field_case_page_length:
+  -
+    value: '17 pages'
+field_case_series_author:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: f0f95285-4d36-4d35-93c2-40aa62d3f051
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2007-01-01'
+field_case_setting:
+  -
+    value: Russia
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: 'This case can be used in the core finance course, undergraduate or graduate, as a platform case for initial public offerings and valuation. It can also be used in non-degree corporate learning programs, trying to capture the myriad of risks and factors relevant to the consideration of investor risk cross-border.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.f0f95285-4d36-4d35-93c2-40aa62d3f051
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

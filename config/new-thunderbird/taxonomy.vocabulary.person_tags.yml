@@ -1,0 +1,8 @@
+uuid: 48b22086-1048-46c6-ad4a-62e692140c53
+langcode: en
+status: true
+dependencies: {  }
+name: 'Person Tags'
+vid: person_tags
+description: ''
+weight: 0

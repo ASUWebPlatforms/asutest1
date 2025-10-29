@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: bf819404-ac33-4856-9d5b-b898da1f982a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T18:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'International Pizza House Brazil'
+created:
+  -
+    value: '2016-07-27T18:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T18:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-01-0005
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case centers on the decisions a key executive must make to restore the image and profitability of his multinational pizza franchise in Porto Alegre, Brazil. The case contains information on franchising in Brazil and background information on both the franchiser and franchisee (disguised). In addition, the student is given information about Brazil; Brazilian dining habits and preferences with specific regard to pizza; information on competitors; and key aspects of IPH''s marketing strategy and operations.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-01-0005
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 39d836d3-4628-4673-913b-86312403b763
+field_case_series_year:
+  -
+    value: '2001-01-01'
+field_case_setting:
+  -
+    value: Brazil
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "The IPH in Brazil case is appropriate for use in both upper level undergraduate and graduate marketing classes. In a marketing management course it is most appropriate for the portion of the course covering globalization. It can also be used to discuss standardization versus adaptation issues and/or as marketing strategy/implementation case in an international marketing course. The student is required to perform a SWOT analysis and make suggestions for improving the image and profitability of the franchise.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.39d836d3-4628-4673-913b-86312403b763
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

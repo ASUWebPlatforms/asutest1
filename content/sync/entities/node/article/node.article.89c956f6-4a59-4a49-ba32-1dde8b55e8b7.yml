@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 89c956f6-4a59-4a49-ba32-1dde8b55e8b7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Importance of Formalizing a Startup'
+created:
+  -
+    value: '2014-02-27T14:16:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/importance-of-formalizing-startup
+body:
+  -
+    value: "<p>[[{\"fid\":\"2908\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Importance of Formalizing a Startup\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Importance of Formalizing a Startup\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"The Importance of Formalizing a Startup\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>A startup, especially a nonprofit, typically follows a flat structure when it is begins operations for easier management and to stimulate creativity. Hence, to survive, it does not follow a hierarchical structure. WEConnect International is now four years old, and has expanded exponentially in this time. So, is this is the perfect time for WECI to formalize its structure?</p>\r\n<p>Starting with one person at the helm in the first year, to two core employees in the second, WEConnect International has &nbsp;since then grown to employ and contract 8-10 individuals based in its office space in DC. The many grants that the organization wins have &nbsp;resulted in substantial expansion into new countries, which is not an easy task. WECI needs an effective and efficient strategy to manage its overseas markets. WEConnect International first must comprehensively understand the local markets that it plans to venture into, and develop ways in which it can adapt to the local culture. Communication is key, because expanding into an unexplored culture, communicating in new languages and adapting to different ways of doing business is not a piece of cake. The sooner the organization formalizes its organization and processes, the easier managing its expansion will be.</p>\r\n<p>WEConnect International’s most significant competitive advantage is that it has been the first mover in this particular niche industry. Although the supplier diversity certification industry is not new, WEConnect is perceived as a new player because of the niche in which it operates. Its brand image has been created because of the efforts of its CEO and not because of a consistent, strong branding plan. Therefore, formalization offers WEConnect a great opportunity to create and retain a consistently strong brand image. Formalizing WEConnect’s structure, its working environment and the flow of thinking will radically stimulate employee morale that would percolate to the market leaders and aid in expanding easily into difficult markets. This would lead to several success stories that would attract even more corporate members and women business enterprises that want to do business with WEConnect International.</p>\r\n<p>Formalization is a concrete foundation that will enable this organization with a strong workflow, logical processes for doing business and strong internal control while allowing for customization at the market level. WEConnect International is still a fledgling bird that is learning how to fly, but formalization would help it soar into new skies in the future.</p>\r\n<p><em>Author: Pat Nopakun</em></p>\r\n<p><em>Picture Courtesy: The Neighborhood Entrepreneur</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

@@ -1,0 +1,25 @@
+uuid: fcd2ad6f-8674-4f5b-aa8e-e9774c577356
+langcode: en
+status: true
+dependencies:
+  module:
+    - image_max_size_crop
+name: signpost_full_width_lg
+label: 'Signpost full-width lg'
+effects:
+  d39df4dc-152d-4e60-940c-5c50a75b4378:
+    uuid: d39df4dc-152d-4e60-940c-5c50a75b4378
+    id: image_scale
+    weight: 1
+    data:
+      width: null
+      height: 400
+      upscale: false
+  457e3adf-71b7-49b4-ba64-fc87c761b618:
+    uuid: 457e3adf-71b7-49b4-ba64-fc87c761b618
+    id: image_max_size_crop
+    weight: 3
+    data:
+      width: '441'
+      height: ''
+      anchor: center-center

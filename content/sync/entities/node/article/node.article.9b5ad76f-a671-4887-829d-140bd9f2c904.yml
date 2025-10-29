@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 9b5ad76f-a671-4887-829d-140bd9f2c904
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-05T20:19:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'T-birds Land in Chile, Cachai?  '
+created:
+  -
+    value: '2018-09-04T22:22:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-05T20:19:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/t-birds-land-in-chile-cachai
+body:
+  -
+    value: "<p>TEM Lab, Fall 2018<br>Chile, Technoserve<br>Written by Emitt Bryant</p>\r\n<p>Our team is excited to be the first <a href=\"/node/2462\">Thunderbird Emerging Market Lab</a> in Chile, where we are working with an organization that works to empower entrepreneurs globally. Having spent a week at their local Santiago office (one of our client's many offices around the world), we are looking forward to completing our project. Our goal is to create a best practices sharing tool - \"a how-to guide\" -&nbsp; to help our teams around the world to set up new Entrepreneurship Development Projects based on current organizational best practices. We are excited to keep exploring all that Chile has to offer!</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"64619\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"}},\"attributes\":{\"alt\":\"TEM Lab in Chile\",\"title\":\"TEM Lab in Chile\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]\r\n<p class=\"caption-text\">Team lunch with our client</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Chile is unique in Latin America. It has the strongest economy of its neighbors and has sustained massive growth for the past 20 years. As a result, Chile’s capital, Santiago, is a thriving metropolis teeming with people. Our team left Phoenix during the summer heat and arrived in Chile at that end of their winter. Not only was it a seasonal change but we landed on a Sunday to a seeming ghost town, with most shops closed for the day. On Monday, we saw full force how lively the streets of Santiago are as the hustle and bustle of the work week swelled through the city. Exploring the city by foot has been easy since there is an excellent subway system. The sites are beautiful since the downtown and “Sanhattan” areas are connected by a string of high-rises that make the city skyline stand out against the Andes in the distance.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1600px;\" class=\"caption-inner\">[[{\"fid\":\"64617\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"}},\"attributes\":{\"alt\":\"TEM Lab in Chile\",\"title\":\"TEM Lab in Chile\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Tbirds on the move in Santiago</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Nestled between the Andes and the Pacific Ocean, Chile has developed a distinctive communication style. The geographical isolation has created a unique style of Spanish that has been challenging for our group's non-native Spanish speakers. An example would be commonly ending sentences with “cachai” (you know) or “po”.&nbsp; Testing and improving our language skills has been a great opportunity as we work with the client and interact with Chileans. Fluent team members are playing a major role in ensuring our cross-cultural communications are successful.&nbsp;</p>\r\n<p>Our team is enjoying exploring the people and culture of this world-class city and all the new experiences and even frustrations that come along with it.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"64618\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Chile\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Chile\"}},\"attributes\":{\"alt\":\"TEM Lab in Chile\",\"title\":\"TEM Lab in Chile\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">The view from our apartment</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Our team is excited to be the first Thunderbird Emerging Market Lab in Chile, where we are working with an organization that works to empower entrepreneurs globally.  Having spent a week at their local Santiago office (one of our client''s many offices around the world), we are looking forward to completing our project. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1600
+    height: 1200
+    target_type: file
+    target_uuid: a2e1c6f8-f265-4ced-89a6-02e3233ba0b7
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    file:
+      - file.image.a2e1c6f8-f265-4ced-89a6-02e3233ba0b7
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

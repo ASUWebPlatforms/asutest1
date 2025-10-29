@@ -1,0 +1,34 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: ફિલ્ટર
+      fields:
+        order_number:
+          separator: ', '
+        placed:
+          label: તારીખ
+          separator: ', '
+        type:
+          label: પ્રકાર
+          separator: ', '
+        store_id:
+          separator: ', '
+        uid:
+          separator: ', '
+        mail:
+          label: ઈ-મેઈલ
+          separator: ', '
+        state:
+          separator: ', '
+        total_price__number:
+          separator: ', '
+        operations:
+          label: ક્રિયાઓ
+      filters:
+        type:
+          expose:
+            label: પ્રકાર
+  page_1:
+    display_title: પ્રુષ્ઠ

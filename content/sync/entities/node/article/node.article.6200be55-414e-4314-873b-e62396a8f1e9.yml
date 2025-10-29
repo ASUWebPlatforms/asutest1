@@ -1,0 +1,94 @@
+uuid:
+  -
+    value: 6200be55-414e-4314-873b-e62396a8f1e9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:30:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: ' Test Your NAFTA Knowledge (Quiz)'
+created:
+  -
+    value: '2017-06-19T21:45:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:30:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/test-your-nafta-knowledge
+body:
+  -
+    value: "<p><strong><i>This quiz is based on a working paper about NAFTA by Thunderbird School of Global Management professors Jonas Gamso &amp; Robert Grosse. Read highlights of their observations on the <a href=\"https://thunderbird.asu.edu/knowledge-network/thunderbird-professors-dear-nafta-letter-time-join-21st-century\" target=\"_blank\">Thunderbird Knowledge Network. </a></i></strong></p>\r\n<p>In a <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2967014\">working </a>paper by Thunderbird School of Global Management professors <a href=\"https://thunderbird.asu.edu/node/2270\">Jonas Gamso</a> and <a href=\"https://thunderbird.asu.edu/robert-grosse\">Robert Grosse</a>, the scholars assert that widening the scope of the debate – with attention not only to trade but foreign direct investment (FDI), employment, immigration, technology, labor interests, and the environment – can pinpoint areas where NAFTA should change and improve.&nbsp;How much do you know about the North American Free Trade Agreement? Test your trade-deal brainpower in this fun 10-question quiz:</p>\r\n<p><iframe id=\"quizWidget-420669\" width=\"100%\" height=\"700px\" frameborder=\"0\" border=\"none\" src=\"https://www.qzzr.com/widget/quiz/fi9xdWl6emVzLzQyMDY2OQ\"></iframe></p>\r\n<p><strong>Related content:</strong></p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/thunderbird-professors-dear-nafta-letter-time-join-21st-century\" target=\"_blank\"><span style=\"font-size: 1em; background-color: transparent;\">KN article </span><i>Thunderbird Professors’ ‘Dear NAFTA’ Letter: Time to Join the 21st Century&nbsp;</i></a></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\">And don’t forget to subscribe to the Knowledge Network newsletter!</span></li>\r\n</ul>\r\n<p>&nbsp;</p>"
+    format: full_html
+    processed: |
+      <p><strong><i>This quiz is based on a working paper about NAFTA by Thunderbird School of Global Management professors Jonas Gamso &amp; Robert Grosse. Read highlights of their observations on the <a href="https://thunderbird.asu.edu/knowledge-network/thunderbird-professors-dear-nafta-letter-time-join-21st-century" target="_blank">Thunderbird Knowledge Network. </a></i></strong></p>
+      <p>In a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2967014">working </a>paper by Thunderbird School of Global Management professors <a href="https://thunderbird.asu.edu/node/2270">Jonas Gamso</a> and <a href="https://thunderbird.asu.edu/robert-grosse">Robert Grosse</a>, the scholars assert that widening the scope of the debate – with attention not only to trade but foreign direct investment (FDI), employment, immigration, technology, labor interests, and the environment – can pinpoint areas where NAFTA should change and improve.&nbsp;How much do you know about the North American Free Trade Agreement? Test your trade-deal brainpower in this fun 10-question quiz:</p>
+      <p><iframe id="quizWidget-420669" width="100%" height="700px" frameborder="0" border="none" src="https://www.qzzr.com/widget/quiz/fi9xdWl6emVzLzQyMDY2OQ"></iframe></p>
+      <p><strong>Related content:</strong></p>
+      <ul>
+      <li><a href="https://thunderbird.asu.edu/knowledge-network/thunderbird-professors-dear-nafta-letter-time-join-21st-century" target="_blank"><span style="font-size: 1em; background-color: transparent;">KN article </span><i>Thunderbird Professors’ ‘Dear NAFTA’ Letter: Time to Join the 21st Century&nbsp;</i></a></li>
+      <li><span style="font-size: 1em; background-color: transparent;">And don’t forget to subscribe to the Knowledge Network newsletter!</span></li>
+      </ul>
+      <p>&nbsp;</p>
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1430
+    height: 1090
+    target_type: file
+    target_uuid: 00ec8fcd-ea97-4a53-ae1d-3818db5fda04
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.00ec8fcd-ea97-4a53-ae1d-3818db5fda04
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f

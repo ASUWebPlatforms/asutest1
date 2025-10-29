@@ -1,0 +1,19 @@
+uuid: ef84a3e3-45bd-4952-8cd1-19a840058569
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_teaching
+    - node.type.case_series
+id: node.case_series.field_teaching
+field_name: field_teaching
+entity_type: node
+bundle: case_series
+label: Teaching
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

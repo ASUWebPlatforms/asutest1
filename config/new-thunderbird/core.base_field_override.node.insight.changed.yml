@@ -1,0 +1,18 @@
+uuid: 72ea257c-52e1-4ea1-a70d-60c13b29ca4e
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.insight
+id: node.insight.changed
+field_name: changed
+entity_type: node
+bundle: insight
+label: Changed
+description: 'The time that the node was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

@@ -1,0 +1,25 @@
+uuid: cb5442fd-9b58-4e06-97f0-b65a99a89f58
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+    - taxonomy
+  enforced:
+    module:
+      - webspark_blocks
+_core:
+  default_config_hash: y4Mq7pd_7YB1iF3LamxgquX73Y4wtVWuK2uB7I0bjR8
+id: paragraph.field_tags
+field_name: field_tags
+entity_type: paragraph
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

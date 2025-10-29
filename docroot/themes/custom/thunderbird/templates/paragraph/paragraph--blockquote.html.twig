@@ -1,0 +1,62 @@
+{% set image_uri = content.field_media|render|striptags|trim %}
+{% set linkType = content.field_cta_link|render|striptags|trim|lower %}
+{% set heading = content.field_heading|render|striptags|trim %}
+{% set text_placement = content.field_text_alignment[0]['#markup'] %}
+{% set text_align = content.field_text_align['#items'].0.value %}
+{% if text_placement == 'float-left' %}
+  {% set flex_direction = 'flex-row-reverse' %}
+{% endif %}
+
+{% set quote_content %}
+  <span class="double-quote">“</span>
+  <p class="quote">{{ content.field_formatted_text|render|striptags|trim }}</p>
+  <p class="author">{{ content.field_citation_author|render|striptags|trim|raw }}</p>
+  <p class="description">{{ content.field_citation_title|render|striptags|trim }}</p>
+  {% if content.field_cta_link['0']['#url'] is not empty %}
+    {% include '@renovation/buttons/button-action.twig' with {
+      url : content.field_cta_link['0']['#url'],
+      title: content.field_cta_link['0']['#title']}
+    %}
+  {% endif %}
+{% endset %}
+
+{% if blockquote_type == 'carousel' %}
+  <div class="slide" style="background-image: url('{{ image_uri }}');">
+    <div class="text {{ text_placement }} {{ text_align }}">
+      {{ quote_content }}
+    </div>
+  </div>
+{% elseif blockquote_type == 'fifty-fifty' %}
+  <div class="{{ blockquote_type }} {{ text_align }}">
+    {% if heading is not empty %}
+      <h2>{{ content.field_heading }}</h2>
+    {% else %}
+     <div class="empty-heading"></div>
+    {% endif %}
+    <div class="row">
+      <div class="col-md-6 text d-flex flex-wrap align-content-center">
+        {{ quote_content }}
+      </div>
+      <div {{ attributes.addClass('col-md-6','image', image_position) }}></div>
+    </div>
+  </div>
+{% elseif blockquote_type == 'banner' %}
+  <div{{ attributes.addClass(blockquote_type, 'slide') }}>
+    <div class="container">
+      <div class="row justify-content-between {{ content.field_image_position[0]['#markup'] }} align-items-center {{ text_align }} {{ flex_direction }}">
+          <div class="col-lg-4">
+            {% if heading is not empty %}
+            <h2>{{ content.field_heading }}</h2>
+            {% endif %}
+          </div>
+        <div class="col-lg-4">
+          {{ quote_content }}
+        </div>
+      </div>
+    </div>
+  </div>
+{% elseif blockquote_type == 'text' %}
+  <div class="{{ blockquote_type }} container {{ text_align }}">
+    {{ quote_content }}
+  </div>
+{% endif %}

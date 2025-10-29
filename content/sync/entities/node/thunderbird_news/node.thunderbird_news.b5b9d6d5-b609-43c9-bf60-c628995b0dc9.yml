@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: b5b9d6d5-b609-43c9-bf60-c628995b0dc9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-10-02T21:03:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'My American dream…'
+created:
+  -
+    value: '2020-10-02T21:03:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-10-02T21:03:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/my-american-dream
+body:
+  -
+    value: '<p><span class="ampo_createform-bodyprompt">My American dream </span><span>began in&nbsp;</span><span>Jinja, Uganda in 1968.</span><span><span>&nbsp;</span></span><span>I am of Asian Indian descent, and my paternal family ran enterprises across a range of industries from electronics and real estate to insurance and agribusiness.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-10-02T14:00:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 400
+    height: 200
+    target_type: file
+    target_uuid: 24405840-38ef-4c30-a40f-477756eb2969
+field_news_link:
+  -
+    uri: 'https://www.pbs.org/american-portrait/story/20624/sanjeev-k-phoenix-az-my-american-dream'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: PBS
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.24405840-38ef-4c30-a40f-477756eb2969

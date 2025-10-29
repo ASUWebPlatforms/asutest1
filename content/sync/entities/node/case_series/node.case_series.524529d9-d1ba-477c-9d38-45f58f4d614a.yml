@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 524529d9-d1ba-477c-9d38-45f58f4d614a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2017-01-17T23:08:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Meta Abo Brewery: Creating a Sustainable Value Chain in Ethiopia'
+created:
+  -
+    value: '2017-01-17T22:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-01-17T23:08:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a16-16-0016
+body:
+  -
+    value: "<p>&nbsp;</p>\r\n<p>When the Meta Abo Brewery Company, Ethiopia’s second largest brewery based in Sebeta, Ethiopia, was purchased from the government by UK-based Diageo PLC in 2012, sustainability of raw material supply, especially barley, was a key concern. At the time of the acquisition, the Meta Abo Brewery was importing all its malt barley. Diageo wanted to push local raw material sourcing to 70 percent.In May 2012, Paul Walsh, Diageo’s CEO, attended the Symposium on Global Agriculture and Food Security hosted by the Chicago Council on Global Affairs, in collaboration with the World Economic Forum. During the symposium, Walsh signed a pledge to support the launch of the G8’s New Alliance for Food Security and Nutrition (see case Exhibit 2). In the same year, Walsh signed the letter of intent committing Diageo to invest US$1.5 million scalable value chain project to source barley for the Meta Abo Brewery from about 6,000 smallholder farmers with the potential to scale up to 20,000 metric tons per year by 2016. This would still not meet all demands for the malt barley required to produce the malt needed by the Meta Abo Brewery, but it was a step in the right direction in terms of increasing local content in a market computing for inputs.The goal was clear, but the implementation details had to be worked out. How would Diageo and Meta Abo Brewery implement this bold initiative to partner with 6,000 smallholder farmers to increase both quality and quantity of local sourced malt barley? They had experience working on development projects in Africa, but would those projects provide sufficient lessons learned for this challenge?</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A16-16-0016
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: cabed664-62a9-40eb-9b40-a8920e8b5f95
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: Ethiopia
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: ce4f60b0-af79-48d9-840f-77bdba51f236
+  -
+    target_type: taxonomy_term
+    target_uuid: d01be29b-8902-45b9-a4f1-79433fcc7273
+field_teaching:
+  -
+    value: "Teaching Objectives\r\n\r\n1.\tTo understand the risks and opportunities in leading public-private development projects.\r\n\r\n2.\tTo examine approaches for enhancing and increasing local sourcing to improve a company’s agricultural value chain in a developing country. \r\n\r\n3.\tTo understand the how to achieve sustainable results for these types of development projects.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678
+      - taxonomy_term.case_series_industry.cabed664-62a9-40eb-9b40-a8920e8b5f95
+      - taxonomy_term.case_series_fields.ce4f60b0-af79-48d9-840f-77bdba51f236
+      - taxonomy_term.case_series_fields.d01be29b-8902-45b9-a4f1-79433fcc7273

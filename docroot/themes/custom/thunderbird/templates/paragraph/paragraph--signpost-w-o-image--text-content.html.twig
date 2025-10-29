@@ -1,0 +1,26 @@
+{#
+/**
+ * @file
+ * Template for the Text Content view mode of a Signpost w/o Image paragraph.
+ */
+#}
+{% extends 'paragraph.html.twig' %}
+
+{% set title = content.field_signpost_title|render|striptags|trim %}
+{% set link_url = content.field_signpost_link.0['#url'] %}
+{% set link_title = content.field_signpost_link.0['#title'] %}
+{% set link_type = content.field_signpost_link_type|render|striptags|trim %}
+
+{% block content %}
+  {% if title is not empty %}<h3>{{ title }}</h3>{% endif %}
+  {{ content.field_signpost_body }}
+  {% if link_title is not empty %}
+  {% if  link_type == 'readMore'%}
+   {% include '@renovation/buttons/button-arrow.twig' with { url : link_url, title: link_title } %}
+ {% endif %}
+   {% if  link_type == 'cta' %}
+    {% include 'themes/custom/thunderbird/src/components/buttons/button-cta.twig' with { url : link_url, title: link_title } %}
+    {% endif %}
+   
+  {% endif %}
+{% endblock content %}

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: fc9de942-57d7-47ee-818e-77363e3cb936
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: a7aac563-891e-4f4c-b422-e50d2195759c
+filename:
+  -
+    value: oil-gas2_86730043.jpg
+uri:
+  -
+    value: 'public://oil-gas2_86730043_0.jpg'
+    url: /sites/default/files/oil-gas2_86730043_0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 57902
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-03-07T21:00:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-07T21:00:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a7aac563-891e-4f4c-b422-e50d2195759c

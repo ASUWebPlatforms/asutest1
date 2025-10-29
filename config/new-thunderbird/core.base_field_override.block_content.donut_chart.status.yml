@@ -1,0 +1,22 @@
+uuid: ce29a4bf-a002-424f-8ee8-f00fb3ebf649
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.donut_chart
+id: block_content.donut_chart.status
+field_name: status
+entity_type: block_content
+bundle: donut_chart
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

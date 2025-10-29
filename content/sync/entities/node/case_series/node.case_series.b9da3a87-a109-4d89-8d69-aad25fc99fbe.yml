@@ -1,0 +1,119 @@
+uuid:
+  -
+    value: b9da3a87-a109-4d89-8d69-aad25fc99fbe
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T23:16:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Dell''s Dilemma in Brazil: Negotiating at the State Level'
+created:
+  -
+    value: '2016-07-26T23:16:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T23:16:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-03-0021
+body:
+  -
+    value: '<p>Dell has recently concluded a site selection process in Brazil to determine where is will locate its manufacturing plant in that country, which will be its first manufacturing plant in Latin America. After a lengthy site selection process in the first half of 1998 involving five states in Brazil - São Paulo, Rio de Janeiro, Parana´, Minas Gerais, and Rio Grande do Sul - Dell has decided to locate the plant in the state of Rio Grande do Sul, Brazil.</p><p>Although a number of factors influence Dell''s decision, one of them is the generous incentives that Governor Antonio Britto of the relatively centrist Partido do Movimento Democratico Brasileiro (PMDB) has offered Dell. However, after Dell makes this decision, a new governor, Olivio Dutra of the Partido dos Trabalhadores (PT, or Workers'' Party) is elected in October 1998 and takes office in January 1999. The PT is a socialist party. Having made an issue of what he considered to be overly generous incentives offered to transnational corporations during his campaign, Governor Dutra seems likely to rescind the incentives that the Britto government had offered.</p><p>Given this situation, Keith Maxwell, Dell''s Senior Vice President for Worldwide Operations, must make a recommendation to Michael Dell. The case presents three possible options for Dell: (1) leave Brazil entirely; (2) move the plant to another state within Brazil; (3) try to renegotiate with Governor Dutra.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-03-0021
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95ca5101-0e03-41b8-b83c-faf4576d6cb3
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: Brazil
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 71ae49d3-767b-4ef8-91e3-80442b78990e
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+field_teaching:
+  -
+    value: 'The case can be used in a number of contexts. It is appropriate to use in any course or module dealing with issues related to foreign investment or to negotiations between multinational corporations and host country governments. It can also be used in a course on comparative business environments or the business environment of Latin America. In a course on international development, it could be used to demonstrate effective ways of attracting foreign direct investment.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.95ca5101-0e03-41b8-b83c-faf4576d6cb3
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.71ae49d3-767b-4ef8-91e3-80442b78990e
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a

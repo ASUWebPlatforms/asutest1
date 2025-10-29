@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: c45e98ea-ed51-4ede-9ed8-577dcb53b9e8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:40:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'When Tension Transforms into Collaboration'
+created:
+  -
+    value: '2017-09-13T22:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:40:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/when-tension-transforms-collaboration
+body:
+  -
+    value: "<p>Admit it, the word “tension” just sounds negative. But what if we’re looking at it all wrong? After all, tension is a form of energy.</p>\r\n<p>“As we talk about tension, let’s imagine a rubber band,” says <a href=\"https://isearch.asu.edu/profile/702399\" target=\"_blank\">Tamara Christensen</a>, faculty associate at <a href=\"https://herbergerinstitute.asu.edu/\" target=\"_blank\">ASU’s Herberger Institute for Design and the Arts</a>. “When you pull it and you stretch it, you have two forces pulling in opposite directions – this creates potential energy. And when you release it, it becomes kinetic energy, energy in motion. And that’s why it can travel so far.</p>\r\n<p>“Now, think about it in the context of an organization or a team – how do we create and then harness that energy?” she says. “When we meet in the middle, when we put that energy in motion, that’s collaboration. When we allow people to stretch out, to go way out and lean deeply into their expertise and their preferred way of working, and then come back together – that energy can bring out the best of everybody.”</p>\r\n<p>Christensen is teaching a course, <a href=\"https://thunderbird.asu.edu/transform-tension-collaboration-lp?sv=website&amp;sd=KNarticlelink\" target=\"_blank\">Transform Tension into Collaboration</a><a href=\"#_msocom_2\" id=\"_anchor_2\" name=\"_msoanchor_2\"></a>. Drawing on her experience as a researcher and coach for Fortune 500 companies, Christensen aims to help participants rethink the concept of tension and embrace it as the creative energy necessary to innovate and move an organization forward.</p>\r\n<h3>Facts and feelings</h3>\r\n<p>A shift in perspective comes as participants learn the six dimensions of tension and how to handle them. For example, one of the six dimensions is <i>knowledge</i>, “the tension between facts and feelings,” says Christensen. “Plenty of organizations, teams and individuals are more heavily influenced by one force more than the other. Even teams can be more facts- or feelings-based. So knowing that about yourself helps you understand how you interact with others and where you may struggle.”</p>\r\n<blockquote>\r\n<p>“The biggest opportunity most teams and organizations have is to transform their tensions through collaboration.” <i>– <a href=\"https://ctt.ec/d6d72\">Click to tweet</a></i><i><a href=\"#_msocom_3\" id=\"_anchor_3\" name=\"_msoanchor_3\"></a></i></p>\r\n</blockquote>\r\n<p>Christensen determined the six dimensions while preparing a presentation on creative leadership for Executive MBA students. “I was reflecting on what you need when being innovative. I analyzed it in terms of, ‘What are the dimensions where these tensions show up?’</p>\r\n<p>“These fundamentally came out of a grounded theory – what I’ve observed in my own practice, working with teams, leaders and organizations that are trying to be more innovative in many different industries. Whether it’s aerospace engineering, digital, automotive, soft goods, and so on, I find that when we get people into a room, these six tensions of transformation are the biggest challenge and biggest opportunity.”</p>\r\n<p>As a facilitator, Christensen provides a process without delving into industry particulars. “The facilitator’s job is to make it easy for people to do the work they need to do together. Facilitators bring process to the people, and the people already have the content and expertise” she says. “I like to think of myself as industry agnostic. I’m not an expert in aerospace engineering, for example, but I can bring a process to that setting and help people navigate the tensions that threaten their ability to collaborate effectively.\"</p>\r\n<h3>Diagnosis and opportunity</h3>\r\n<p>For her course participants, the experience will reach beyond “just being in a meeting,” she says. “You’ll start to think differently about what happens when you put people on a project together. It’s about the fundamental skills required to be better at facilitating collaboration and easing the tensions that hinder great work. A lot of what people will learn is about how to diagnose a situation so they can understand the obstacles.”</p>\r\n<blockquote>\r\n<p>“To be an effective collaborator or leader or colleague you must first understand yourself and your impact on others.” <i>– <a href=\"https://ctt.ec/Ve5lc\">Click to tweet</a></i><i><a href=\"#_msocom_4\" id=\"_anchor_4\" name=\"_msoanchor_4\"></a></i></p>\r\n</blockquote>\r\n<p>Along with diagnostic skills, Christensen says the takeaways for course participants include improving their ability to listen as an empathetic leader or colleague and the ability to reframe obstacles or problems as opportunities.</p>\r\n<p>“Some of these are basic leadership or management skills. You’re trying to observe, document, assess, diagnose and then raise questions. My approach is less focused on providing ‘5 things everyone absolutely must do’ and more about exploring ‘If you see this kind of thing, how do you respond to it?’ Chances are, in a group of professionals we can learn a lot from each other.”</p>\r\n<p>Ultimately, studying the dimensions of tension should boost participants’ self-awareness of their own biases about collaborating with others, she says. “To be an effective collaborator or leader or colleague you must first understand yourself and your impact on others.”</p>\r\n<p><strong>Learn more:<br></strong></p>\r\n<ul>\r\n<li><a href=\"/node/2864\">How Tension Leads to Innovation</a></li>\r\n<li><a href=\"/node/2866\">Experiential Learning Leads to More 'Aha!' Moments</a></li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: 'Admit it, the word “tension” just sounds negative. But what if we’re looking at it all wrong? After all, tension is a form of energy.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 7054
+    height: 4708
+    target_type: file
+    target_uuid: 0d5dfb55-4674-463a-b2cf-07f19b5915d8
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.0d5dfb55-4674-463a-b2cf-07f19b5915d8
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

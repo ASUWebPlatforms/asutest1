@@ -1,0 +1,53 @@
+<div class="reports-section reports-list row">
+  <div class="col-md-4">
+    <h3>Report</h3>
+    <p>The PDF Reports that you have previously generated are listed here. You can re-send the PDF to yourself or to the other original recipients. If you need to email it to new recipients, generate a new PDF above.</p>
+  </div>
+  <div class="col-md-8">
+    <div id="reports-table" class="position-relative">
+      <div class="table-container">
+        <table class="gdmi-table">
+          <thead>
+            <th>Date</th>
+            <th class="text-center">Type</th>
+            <th class="text-center">Comparison</th>
+            <th class="text-center">Report PDF</th>
+            <th>Actions</th>
+          </thead>
+          <tbody>
+            {% for report in reports %}
+              <tr>
+                <td>{{ report.created.value|date('F j, Y') }}</td>
+                <td class="text-center">{{ report.field_type.value == 'group' ? 'Group GDMI' : 'Individual GDMI' }}</td>
+                <td class="text-center">No</td>
+                <td class="text-center text-primary"><a download href="{{ report.field_file.entity.uri.value|file_url }}"><i class="fas fa-file-pdf ml-2"></i></a></td>
+                <td>
+                  <div class="options-dropdown" data-id="{{ group.group.id.value }}">
+                    <div class="options-btn"> 
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                    </div>
+                    <div class="dropdown-content">
+                      <ul>
+                        <li><a href="#">Resend report to recipients</a></li>
+                        <li><a href="#">Send report to only me</a></li>
+                        <li><a href="#">Report details</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+            {% else %}
+              <tr>
+                <td colspan="5" class="text-center">
+                  No previously generated reports to list
+                </td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

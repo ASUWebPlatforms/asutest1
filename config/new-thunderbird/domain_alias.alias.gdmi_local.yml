@@ -1,0 +1,9 @@
+uuid: 0b11d83c-1398-46dd-95d5-a3c715e3dde0
+langcode: en
+status: true
+dependencies: {  }
+id: gdmi_local
+domain_id: gdmi
+pattern: gdmi.newthunderbird.docksal
+redirect: 0
+environment: local

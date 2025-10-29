@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 03f9892e-4578-45ab-829d-2e2f3ff8f8ee
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-11-05T19:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Convincing Top Candidates to Accept a Final Job Offer'
+created:
+  -
+    value: '2018-11-05T19:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-11-05T19:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/convincing-top-candidates-accept-final-job-offer
+body:
+  -
+    value: "<p><em>[[{\"fid\":\"67227\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Convincing Top Candidates to Accept a Final Job Offer\",\"field_file_image_title_text[und][0][value]\":\"Convincing Top Candidates to Accept a Final Job Offer\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Convincing Top Candidates to Accept a Final Job Offer\",\"field_file_image_title_text[und][0][value]\":\"Convincing Top Candidates to Accept a Final Job Offer\"}},\"attributes\":{\"alt\":\"Convincing Top Candidates to Accept a Final Job Offer\",\"title\":\"Convincing Top Candidates to Accept a Final Job Offer\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</em></p>\r\n<p><em>By: Ryan Nouis</em></p>\r\n<p>You’ve put everything out on the table and made a job offer to the right candidate. Is there anything you can do now to convince the candidate to accept the offer?&nbsp;</p>\r\n<p>The percentage of people who change jobs after two years or less, known as&nbsp;<a href=\"https://www.nbcnews.com/better/business/job-hopping-rise-should-you-consider-switching-roles-make-more-ncna868641\">job-hopping</a>, has increased by 22% in the past 4 years, largely due its favorability among Millennials who perceive it to benefit their careers. Yet, recruiters are still having a difficult time convincing a candidate to accept a job offer and join their organization.</p>\r\n<p>In our current high-performing economy, especially, recruiters and employers are finding it harder to not only find qualified talent, but to then get them to stick around through the interview process and accept a job offer. The job seeker economy has given way to more confidence in candidates, resulting in behaviors such as ‘<a href=\"https://nypost.com/2018/07/29/in-a-job-seekers-market-more-candidates-are-now-ghosting/\">ghosting</a>’ where candidates fail to show up to interviews or the first day of work without a word.</p>\r\n<p>A&nbsp;<a href=\"https://www.cnbc.com/2018/07/05/the-us-labor-shortage-is-reaching-a-critical-point.html\">stark labor shortage</a>&nbsp;across industries has also forced employers to come up with more enticing methods such as raised salaries to lure precious workers that 10 years ago would have been fiercely competing for the same position. With all these economical and generational factors in play, hiring managers face growing frustration as to how to be the most attractive option.</p>\r\n<p>What are the best ways to convince someone that they should choose one particular organization over all the others lined up with job offers in hand? How are other hiring managers successfully convincing their candidates that their organization is the best fit?</p>\r\n<p>It really boils down to these tips:</p>\r\n<ul>\r\n<li>Reach out</li>\r\n<li>Listen</li>\r\n<li>Be Honest</li>\r\n<li>Make Connections</li>\r\n<li>Follow up</li>\r\n</ul>\r\n<h3>Reach out</h3>\r\n<p>Candidates respond when a recruiter reaches out in a personalized way. A recruiter’s message should be personalized to show that you can relate to the experiences a candidate is going through. No candidate wants a templatized email. Make your communications count and tap into the genuine interest a candidate has in the position. Show you care.&nbsp;</p>\r\n<h3>Listen</h3>\r\n<p>Candidates want to feel like they are completely understood. Do you know what their career goals are? If so, match these goals with the right opportunities when discussing the job offer.</p>\r\n<p>Prepare yourself with good questions and ask them. Questions about career goals are especially pertinent—so are the company and team they’ll be working with. Then, test your understanding by seeing how the open role stacks up to their goals and motivations. If it doesn’t, seek to understand why not and see if there’s a different opportunity at your organization. Finally, listen and understand whether the role is a career move for them, or a stepping stone. It doesn’t make sense to invest in someone if they are going to leave the next time a recruiter comes calling.</p>\r\n<h3>Be Honest</h3>\r\n<p>No one likes to be sold to. People relate to honesty. Give a candidate an accurate picture of the organization and the role. Remember: nobody is perfect, no company is perfect. Speak about the strengths and weaknesses of the organization to move a candidate to one side of the fence. By sharing the good and the bad, candidates will know exactly what they’re signing up for and won’t second guess themselves. This will also help safeguard against a high turnover if candidates know what to expect in their position.</p>\r\n<h3>Make Connections</h3>\r\n<p>It’s one thing for a candidate to hear something from a recruiter, and it’s entirely different to hear it from someone on the team they’ll potentially be working with. Make it a point to connect a candidate with a current employee – ideally on the team they’d be working on – so candidates can ask more specific questions about the company, team and role.</p>\r\n<p>And on the flip side, by connecting the candidate with a current employee, you’ll be able to get additional feedback about the candidate from the employee. This additional insight can be very valuable in getting a candidate to accept your offer. In order to expedite this connection process, work on building up a network of employees willing to talk to candidates.</p>\r\n<h3>Follow up</h3>\r\n<p>The best recruiters follow up and stay in touch candidates. If the time isn’t right now, staying in touch will show that you care about them as a person and not as just another job req. If you have a good relationship, you might be able to rely on the candidate for referrals or place them again in the future.</p>\r\n<p>Expressing your interest in having an individual make up a valued part of a team, rather than a replaceable piece, shows candidates that an interest is mutual. Competition is high among recruiters and employers, but it doesn’t mean you can’t differentiate yourself in more personable ways.</p>\r\n<p>&nbsp;</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><strong><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i></strong></p>\r\n<h3><strong><i>&nbsp;</i></strong>Author bio</h3>\r\n<p>[[{\"fid\":\"67226\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Ryan Nouis\",\"field_file_image_title_text[und][0][value]\":\"Ryan Nouis\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Ryan Nouis\",\"field_file_image_title_text[und][0][value]\":\"Ryan Nouis\"}},\"attributes\":{\"alt\":\"Ryan Nouis\",\"title\":\"Ryan Nouis\",\"height\":\"183\",\"width\":\"145\",\"style\":\"float: left; margin: 10px;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]Ryan Nouis is the founder and CEO of TruPath, an&nbsp;<a href=\"http://trupathsearch.com/\">executive search firm</a>&nbsp;that finds mid- to senior-level executives in mission critical roles at your organization.</p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: "You’ve put everything out on the table and made a job offer to the right candidate. Is there anything you can do now to convince the candidate to accept the offer? \r\nThe percentage of people who change jobs after two years or less, known as job-hopping, has increased by 22% in the past 4 years, largely due its favorability among Millennials who perceive it to benefit their careers. Yet, recruiters are still having a difficult time convincing a candidate to accept a job offer and join their organization.\r\n"
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1280
+    target_type: file
+    target_uuid: e6fcc2ed-be16-4995-8558-8266bc28f742
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.e6fcc2ed-be16-4995-8558-8266bc28f742
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

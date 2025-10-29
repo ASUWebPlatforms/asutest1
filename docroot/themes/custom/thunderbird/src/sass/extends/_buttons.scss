@@ -1,0 +1,73 @@
+// Extra styles that don't have bootstrap variables to override
+.btn {
+  text-decoration: $uds-component-button-text-decoration;
+  text-transform: uppercase;
+
+  & + & {
+    margin-left: $uds-size-spacing-2;
+  }
+  &.btn-md {
+    font-size: $uds-component-button-medium-font-size;
+    padding: $uds-component-button-padding-y-medium
+      $uds-component-button-padding-x-medium;
+  }
+  &.btn-sm {
+    font-size: $uds-component-button-small-font-size;
+    padding: $uds-component-button-padding-y-small
+      $uds-component-button-padding-x-small;
+  }
+  &.btn-tag {
+    font-size: $uds-component-button-small-font-size;
+    padding: $uds-component-button-padding-y-small
+      $uds-component-button-padding-x-small;
+    margin-top: 8px;
+    background: $gray-2;
+    &.btn-tag-alt-white {
+      background: $gray-2;
+      color: $body-color;
+    }
+    &.btn-tag-alt-gray {
+      background: $gray-3;
+      color: $body-color;
+    }
+    &.btn-tag-alt-black {
+      background: $gray-4;
+      color: $body-color;
+    }
+  }
+
+  &:hover {
+    transform: none;
+    background-color:$btn-hover-background-color;
+    color:$btn-hover-color;
+  }
+  &.transparent:hover {
+    background-color:unset;
+    color:$btn-hover-color;
+  }
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &.btn-launch {
+    border-radius: 1rem;
+  }
+}
+
+.bg-light-gray {
+  background-color: $gray-1;
+}
+
+// Re-add background changing hover effects to all buttons.
+@each $color, $value in $theme-colors {
+  .btn-#{$color} {
+    @include button-variant(
+      $value,
+      $value,
+      $hover-background: $blue-dark,
+      $hover-border: $blue-dark,
+      $active-background: $blue-dark,
+      $active-border: $blue-dark
+    );
+  }
+}

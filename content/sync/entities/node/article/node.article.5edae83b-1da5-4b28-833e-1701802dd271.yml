@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 5edae83b-1da5-4b28-833e-1701802dd271
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Who & the What'
+created:
+  -
+    value: '2015-07-20T08:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/who-and-what
+body:
+  -
+    value: "<p><img src=\"/sites/default/files/img_1674.jpg\" width=\"250\" height=\"188\" class=\"No Style|nostyle\" hspace=\"10\" vspace=\"10\">With our first full week in Myanmar behind us, the team is able to view the project in a new light. Since the last update, the team has had the opportunity to meet with our main client, the Myanmar Livestock Federation, as well as some of the associations under their umbrella with whom we will be working. &nbsp;The Myanmar Livestock Federation (MLF) was formed after the Companies Act in 1999. Since Myanmar’s delicate switch from military control to civil democracy in 2010, the MLF has been working to establish itself as a business association focused on supporting those in the livestock and associated industries. Under the vast umbrella of MLF organizations are myriad geographic associations as well as 12 industry specific associations, each in a different stage of organizational development. During our project, we will be working with four of those: Mandalay Livestock Association, The Broiler Association, The Dairy Association and Myanmar Livestock Research Association. (<em>Pictured: Marissa and Robert at the Winrock office in front of the Farmer-to-Farmer banner.)</em></p>\r\n<p>Once the team had a better understanding of the structure of the Federation, we focused on determining the needs of the individual organizations with whom we will work. On Thursday, the team broke out into groups and facilitated an Organizational Development Index to determine needs and then help an interactive workshop covering mission statement, goal setting and discovering organizational strengths and weaknesses through a SWOT analysis. Based on the takeaways from these exercises, we will be able to create individualized trainings and action plans for each organization, and deliver those when we meet again in the near future.</p>\r\n<p><img src=\"/sites/default/files/img_6883.jpg\" width=\"250\" height=\"188\" class=\"No Style|nostyle\" hspace=\"10\" vspace=\"10\">This week hasn’t been all work however. This week offered us new insights into the country and allowed us to experience the great kindness of the Myanmar people. The team has already formed relationships with the hotel manager, Mr. Gold, and nearby shopkeepers who have helped navigate both confusing situations and daily needs, from securing a fresh water supply to dealing with exploding electricity converters. &nbsp;Little children and young girls wave and offer big smiles as we pass; others are anxious to speak the little English they know. &nbsp;And the heavy monsoon rain, at first a burden, now allows for welcomed time of quiet contemplation and reflection. During the regular short bursts of heavy downfall, the city slows down and waits, the perfect respite from a humming life. (<em>Pictured: Darren assisting members of the Myanmar Livestock Association with their mission statement.)</em></p>\r\n<p>The main highlight of our trip thus far has been the Circular Train. As its name implies, the train weaves through and around the bustling city and into the countryside allowing for tourists to see the vibrant communities that live outside of normal view. We accidentally got on the air-conditioned train, which boasts cool air and foggy windows. Good for commuting but bad for sight seeing. One of the train workers was kind enough to allow us to move into the engineers quarters at the caboose so we got to experience the train ride from the open back and see the land in all its glory. And our GoPro, stuck to the side of the train for hours, has the proof. Keep an eye out for the video in the coming days. &nbsp;&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

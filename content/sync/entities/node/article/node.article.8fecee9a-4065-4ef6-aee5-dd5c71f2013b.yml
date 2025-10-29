@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 8fecee9a-4065-4ef6-aee5-dd5c71f2013b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-08-23T20:38:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Webinar: More in Less Time - Executive Learning Skills'
+created:
+  -
+    value: '2018-06-27T00:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-08-23T20:38:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/webinar-more-in-less-time-executive-learning-skills
+body:
+  -
+    value: "<p><span>The skills and knowledge of today are often obsolete in a matter of days. To keep pace, today’s leaders must become adaptive master learners— those who can acquire and implement new knowledge and skills rapidly. In this webinar, learn key concepts and practices for learning more in less time.</span></p>\r\n<p><span>[[{\"fid\":\"61497\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 790
+    height: 504
+    target_type: file
+    target_uuid: 641550fe-21a8-40cf-97a9-28844f4eecca
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c2317536-07fb-40ce-b252-f7a91e612339
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.641550fe-21a8-40cf-97a9-28844f4eecca
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c2317536-07fb-40ce-b252-f7a91e612339

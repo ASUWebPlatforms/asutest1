@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 173aa1ad-d3b9-4451-92f0-8994de5c5059
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: thunderbird_and_asu_join_uns_global_compact_network_usa_as_official_academic_partner.jpg
+uri:
+  -
+    value: 'public://article/thunderbird_and_asu_join_uns_global_compact_network_usa_as_official_academic_partner.jpg'
+    url: /sites/default/files/article/thunderbird_and_asu_join_uns_global_compact_network_usa_as_official_academic_partner.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 406042
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-02-26T01:04:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-26T01:04:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

@@ -1,0 +1,19 @@
+uuid: f74af295-ca25-4b26-8be3-a9e33a134729
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_news_org
+    - node.type.thunderbird_news
+id: node.thunderbird_news.field_news_org
+field_name: field_news_org
+entity_type: node
+bundle: thunderbird_news
+label: 'News org'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

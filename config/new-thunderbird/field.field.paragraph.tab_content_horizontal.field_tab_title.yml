@@ -1,0 +1,19 @@
+uuid: 2c05ad6f-66ec-48bd-a0b4-9f29168b82ea
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_tab_title
+    - paragraphs.paragraphs_type.tab_content_horizontal
+id: paragraph.tab_content_horizontal.field_tab_title
+field_name: field_tab_title
+entity_type: paragraph
+bundle: tab_content_horizontal
+label: 'Tab Title'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

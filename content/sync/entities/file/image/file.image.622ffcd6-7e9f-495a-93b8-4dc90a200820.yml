@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 622ffcd6-7e9f-495a-93b8-4dc90a200820
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: micronesian_seaweed_farm_is_fertile_ground_for_solomon_franks_humanitarian_goals_.jpeg
+uri:
+  -
+    value: 'public://article/micronesian_seaweed_farm_is_fertile_ground_for_solomon_franks_humanitarian_goals_.jpeg'
+    url: /sites/default/files/article/micronesian_seaweed_farm_is_fertile_ground_for_solomon_franks_humanitarian_goals_.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 93742
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-07-16T15:17:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-07-16T15:17:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

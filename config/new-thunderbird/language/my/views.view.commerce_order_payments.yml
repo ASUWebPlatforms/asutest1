@@ -1,0 +1,14 @@
+display:
+  default:
+    display_title: Default
+    display_options:
+      fields:
+        completed:
+          label: ပြီးဆုံးပါပြီ
+        operations:
+          label: လုပ်ဆောင်ချက်များ
+      exposed_form:
+        options:
+          reset_button_label: မူလပုံစံအတိုင်းပြန်ထားရန်
+  page_1:
+    display_title: စာမျက်နှာ

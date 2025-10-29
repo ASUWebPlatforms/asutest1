@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 3104944f-993e-4ab8-ae05-eabbd3c4c403
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Piura: A Mini-Peru'
+created:
+  -
+    value: '2014-11-06T00:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/piura-mini-peru
+body:
+  -
+    value: "<p>[[{\"fid\":\"2922\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Piura\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Piura\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Piura\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>We are on Day 4 of our TEM Lab in Peru, and our team has already discovered three things that truly stand out about the town&nbsp;<span>of&nbsp;</span><span>Piura:</span></p>\r\n<p>Firstly, northern Peruvians are renowned for their openness and warmth – and so far we must admit, this absolutely holds true. Gloria, who is the owner of the hotel in which we are residing, is a perfect example. Gloria is a mother of nine who converted her home into a hotel for traveling professors, development workers, and of course Thunderbirds. When our team arrived at the hotel, she greeted us with a hug and immediately gave us her emergency number in case we needed any assistance. She also offers us breakfast every morning for a nominal charge.</p>\r\n<p><span>Secondly, Piurans are extremely proud of their region. There has been a boom here over the past two years, and it looks like it will continue over the coming years. From taxi drivers to restaurant owners, everyone we have talked to constantly mentions the bright future of Piura. They are quick to point out that the land is resource rich, geographically diverse, and enjoys a temperate climate. We have constantly heard the region referred to as a “mini-Peru” or “the new California”.</span></p>\r\n<p>Lastly, there is the food. Peru is known across the globe for its culinary prowess, but as a team we figured that would be confined to the capital city of Lima. We were wrong. Food is built in to the culture. On Sunday, our first day here, we met with an alumni Miguel who took us to lunch. Three hours later we waddled out of the restaurant stuffed with squid, fish and other specialties. We all agreed it was one of the best meals of our lives.</p>\r\n<p>The friendly culture, booming economy and stellar food have given our team a very positive initial impression of Piura. The region still faces many challenges, such as extreme poverty, high rates of illiteracy, and a serious lack of infrastructure, but our team looks forward to making a positive contribution to an emerging region through our TEM Lab project.&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

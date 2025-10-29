@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 36d54da3-b33f-4e40-81d3-bb4307fdd9b1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-04T19:19:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: f6c2187b-4cbe-4450-a0ef-519b51f07bfe
+title:
+  -
+    value: 'The Pressure on General Petraeus from the battlefield to the Oval Office'
+created:
+  -
+    value: '2017-04-10T21:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-04T19:19:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/petraeus-pressure-battlefield-ovaloffice
+body:
+  -
+    value: "<div class=\"site-main surface-container\">\r\n<div class=\"surface\">\r\n<div class=\"screenContent surface-content is-supplementalPostContentLoaded\" data-action-scope=\"_actionscope_17\">\r\n<div class=\"postArticle-content js-postField js-notesSource js-trackedPost\" data-post-id=\"c6ebfc86116\" data-source=\"post_page\" data-tracking-context=\"postPage\" data-scroll=\"native\">\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1640px;\" class=\"caption-inner\">[[{\"fid\":\"4867\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Interviewing General Petraeus at KKR headquarters in NYC\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"title\":\"Interviewing General Petraeus at KKR headquarters in NYC\",\"class\":\"panopoly-image-original media-element file-default\"}}]]\r\n<p class=\"caption-text\">Interviewing General Petraeus at KKR headquarters in NYC (Central Park in the background)</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"graf graf--h3 graf-after--figure\"><strong><span class=\"markup--strong markup--h3-strong\"><span class=\"markup--strong markup--p-strong\"><em>In my interview with General David Petraeus</em></span><span class=\"markup--strong markup--p-strong\"><em>, America’s most decorated war hero, we discussed the unfathomable pressures he faced in Iraq, Afghanistan, and the Oval Office, especially on those occasions his opinion differed from the Commander in&nbsp;Chief, President Obama. How he handled the tension serves as an excellent guide to those aspiring to great (and occasionally, stressful) careers.&nbsp;</em></span></span></strong></p>\r\n<p><strong><span class=\"markup--strong markup--h3-strong\"><span class=\"markup--strong markup--p-strong\"><span class=\"markup--strong markup--h3-strong\">1. How do you disagree with your boss when he's the President?&nbsp;</span></span></span></strong></p>\r\n<p class=\"graf graf--p graf-after--h3\">In the Oval Office with President Obama discussing my assignment in Afghanistan, I felt it was very important for him to know who he was getting:</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“Mr. President, you should understand that I will provide my best professional military advice based on the facts on the ground and the mission you’ve given us and informed by the issues with which you have to deal uniquely. I’ll be aware of those, but my advice will be determined by facts on the ground. If those facts are unchanged, so my advice, too, will be unchanged. That was an interesting, tense moment.”</em></p>\r\n<p class=\"graf graf--p graf-after--p\">If carefully thought out principles guide your thinking at all times and you make that clear up front, your ideas will get serious consideration even when they differ from your colleagues or your boss.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*ey-5J-UIY21mEwKTBoK1ZA.jpeg\" data-width=\"1894\" data-height=\"1576\" data-action=\"zoom\" data-action-value=\"1*ey-5J-UIY21mEwKTBoK1ZA.jpeg\" data-scroll=\"native\"><img src=\"https://cdn-images-1.medium.com/max/800/1*ey-5J-UIY21mEwKTBoK1ZA.jpeg\" class=\"progressiveMedia-image js-progressiveMedia-image\" data-src=\"https://cdn-images-1.medium.com/max/800/1*ey-5J-UIY21mEwKTBoK1ZA.jpeg\"></div>\r\n</div>\r\n<p class=\"graf graf--h3 graf-after--figure\">&nbsp;</p>\r\n<p class=\"graf graf--h3 graf-after--figure\"><strong><span class=\"markup--strong markup--h3-strong\">2. How do you prepare for the future when you'll be surrounded by danger and training is done?&nbsp;</span></strong></p>\r\n<p class=\"graf graf--h3 graf-after--figure\">To be truly effective under these circumstances, everyone should take the time to develop a philosophy of strategic leadership, in particular of how to get the big ideas, then how to communicate them effectively to the breadth and depth of the organization, and closely oversee their implementation.</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“The first thing I would say about the success in a region, I’d like to think that I had devoted a great deal of study to understanding the human terrain in Iraq.</em></p>\r\n<p class=\"graf graf--p graf-after--p\"><em>Then, spend a great deal of time getting the big ideas right. So be aware that your first thoughts may need to be refined, revised, shot and left by the side of the road, and you may have to do it all over again and again and again.</em></p>\r\n<p class=\"graf graf--p graf-after--p\"><em>It also takes a great, great team, and everybody embracing the idea.</em></p>\r\n<p class=\"graf graf--p graf-after--p\"><em>Finally, there’s a little bit of the stubborn Dutchman in me, taking after my old Dutch sea captain father. It takes a high degree of determination.”</em></p>\r\n<p class=\"graf graf--h3 graf-after--p\">&nbsp;</p>\r\n<p class=\"graf graf--h3 graf-after--p\"><strong><span class=\"markup--strong markup--h3-strong\">3. Everyone has a&nbsp;limit</span></strong></p>\r\n<p class=\"graf graf--p graf-after--h3\">Part of the&nbsp;problem&nbsp;and this was true in Iraq but it’s also in the&nbsp;C suite— you deal with intractable problems day in, day out, and you have few peers that really understand your pressures.</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“I can recall, after a tough, tough stretch things were finally starting to turn, but there were political battles, the prime minister had issues, the members of the Parliament were causing all sorts of distractions. There was a moment when I just called up the Chairman of the Joint Chiefs, and said: “Hey, Admiral. I just want you to know this is not the easiest thing in the world. I just felt that somebody needs to know.” That’s the final challenge, as they say, that’s the loneliness of command.”</em></p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">You must learn to reach out across, up and down the organization, help colleagues to understand the challenges, and by doing so, find a sense of purpose, balance, and a way forward together.</p>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><em>For the complete interview, click on the image below</em></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf--leading\"><em>&nbsp;[[{\"fid\":\"4869\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Inside The Mind of General David Petraeus\",\"height\":\"390\",\"width\":\"640\",\"class\":\"panopoly-image-video media-element file-default\"}}]]</em></p>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><hr class=\"section-divider\"></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf--leading\"><a href=\"http://www.youtube.com/c/Iconicvoicesorg\" target=\"_blank\" class=\"markup--anchor markup--p-anchor\" data-href=\"http://www.youtube.com/c/Iconicvoicesorg\"><em>IconicVoices.TV</em></a><em>&nbsp;is a YouTube leadership interview series produced in association with Thunderbird School of Global Management, hosted and created by&nbsp;professor&nbsp;of global leadership, Jeff Cunningham.</em></p>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><hr class=\"section-divider\"></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h3 graf--leading\">Author bio</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Jeff Cunningham is a global leadership advocate, which he calls the most valuable natural resource in the world</p>\r\n<p class=\"graf graf--p graf-after--p\">He is a Professor at&nbsp;<a href=\"http://www.thunderbird.edu/\" target=\"_blank\" class=\"markup--anchor markup--p-anchor\" data-href=\"http://www.thunderbird.edu/\">ASU’s Thunderbird School of Global Management</a>.</p>\r\n<p class=\"graf graf--p graf-after--p\">Previously, he was&nbsp;publisher&nbsp;of Forbes Magazine; founder of (NACD) Directorship Magazine; CEO of Zip2 (founded by Elon Musk), CMGI’s Myway.com, and Michael Milken’s CareerTrack; venture capital partner with Schroders, and advisor, Highland Capital.</p>\r\n<p class=\"graf graf--p graf-after--p\">He writes TheArtofLeadership.co for Medium and interviews mega moguls for his YouTube series, IconicVoices.TV.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">He has also served as a board director of 10 public companies and was chairman of Bankrate, EXLservice, Sapient, and Premiere Global.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 735
+    height: 479
+    target_type: file
+    target_uuid: 9349bcab-068a-4290-a1d9-c3b2205499a3
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.f6c2187b-4cbe-4450-a0ef-519b51f07bfe
+    file:
+      - file.image.9349bcab-068a-4290-a1d9-c3b2205499a3
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

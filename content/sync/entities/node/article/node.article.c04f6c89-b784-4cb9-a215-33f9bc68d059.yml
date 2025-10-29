@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: c04f6c89-b784-4cb9-a215-33f9bc68d059
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:55:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Why Did Harley-Davidson Get Cute with Trump?'
+created:
+  -
+    value: '2018-08-20T17:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:55:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/why-did-harley-davidson-get-cute-trump
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">If you run a global business in the age of Trump, your company either learns to play a new game or finds itself in the crosshairs during an election&nbsp;year.</h3>\r\n<p class=\"graf graf--p graf-after--h4\">Until August 12th, President Donald Trump’s Twitter feed showed a predictable obsession with the big issues swirling around his presidency. Tweets ranged from disgraced FBI agent Peter Strzok (“and his lover, the lovely Lisa Page”), Mexico trade (“the new president has been an absolute gentleman. Canada must wait”), and Omarosa (“got fired three times on&nbsp;<em>the&nbsp;</em><em>Apprentice</em>”).</p>\r\n<p class=\"graf graf--p graf-after--p\">Then on Sunday, only four tweets made the cut. One of them caught Trump watchers by surprise, even for those who have come to expect the unexpected. It was tweeted at 5:57 in the morning, and aimed at Harley-Davidson CEO Matthew Levatich’s plan to open a manufacturing facility in Thailand.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*cdiLxcFWSznrZ0PAGNotRQ.png\" data-width=\"1250\" data-height=\"860\" data-action=\"zoom\" data-action-value=\"1*cdiLxcFWSznrZ0PAGNotRQ.png\" data-scroll=\"native\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*cdiLxcFWSznrZ0PAGNotRQ.png\" class=\"progressiveMedia-image js-progressiveMedia-image\" data-src=\"https://cdn-images-1.medium.com/max/1600/1*cdiLxcFWSznrZ0PAGNotRQ.png\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">The tweet wasn’t random. Trump has been on the warpath over moving jobs overseas since he took office. But when the news came out of a company that is both an American icon and one that he had feted at the White House, and from the state that gave him the election, it rose to Twitter DEFCON level one.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Don’t Get Cute</span></h3>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*xvq6qDIAR-PghvkiCKU98w.png\" data-width=\"996\" data-height=\"974\" data-focus-x=\"46\" data-focus-y=\"10\" data-is-featured=\"true\" data-action=\"zoom\" data-action-value=\"1*xvq6qDIAR-PghvkiCKU98w.png\" data-scroll=\"native\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*xvq6qDIAR-PghvkiCKU98w.png\" class=\"progressiveMedia-image js-progressiveMedia-image\" data-src=\"https://cdn-images-1.medium.com/max/1600/1*xvq6qDIAR-PghvkiCKU98w.png\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">Trump’s reaction did not come as a total surprise, as the president has launched a trade barrage on the entire world. In fact, Trump sent Harley-Davidson an early warning in June when he was visiting Wisconsin to promote the jobs Foxconn was bringing to the U.S. While making his congratulatory comments, he found time to throw a barb and a creampuff at Harley-Davidson:</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“By the way, Harley-Davidson, please build those beautiful motorcycles in the USA, please, OK? Don’t get cute with us. Don’t get cute.”</em></p>\r\n<p class=\"graf graf--p graf-after--p\">And then…</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“They don’t realize the taxes are coming way down. Spent a lot of time with them. Build them in the USA. Your customers won’t be happy if you don’t.”</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Another audience was listening to Trump, and an unusual one at that. According to&nbsp;<a href=\"https://www.usatoday.com/story/money/cars/2018/05/11/union-harley-davidson-ship-work-thailand-closing-u-s-plant/601033002/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.usatoday.com/story/money/cars/2018/05/11/union-harley-davidson-ship-work-thailand-closing-u-s-plant/601033002/\">USA Today</a>, labor union rank and file was joined by their leadership in supporting the president: “The union is critical of Harley for investing in Thailand...These companies are taking tax breaks with one hand and handing out pink slips with the other. ‘I’m going to call it like I see it&nbsp;… this is a corporate ambush on working people,’” said International Association of Machinists and Aerospace Workers President Bob Martinez Jr.</p>\r\n<p class=\"graf graf--p graf-after--p\">When Trump sings the same tune as labor, it’s time for a company to get out of the way or do a careful reappraisal of their position. But Harley wasn’t listening.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">90’s Era Neocons</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">The response out of Harley-Davidson sounded like like a globalist chant by 90’s era neocons, “Increasing production capacity in Asia is consistent with the company’s long-term strategy to focus on growth internationally.” Strategically correct, but in election terms, a non starter.</p>\r\n<p class=\"graf graf--p graf-after--p\">The majority of Americans do not own a passport, speak a foreign language or travel abroad, so geopolitical arguments tend to get fuzzy quickly. What many Americans do understand, and certainly the president’s countrymen take to heart, is that closing down 800 jobs in Kansas City, the one location that says ‘heartland’ while moving to a new facility in Thailand, isn’t going to play in Peoria.</p>\r\n<p class=\"graf graf--p graf-after--p\">The obvious calculation driving this argument is that the president faces a tough election in November and a good deal of the friction will be on trade. He is a man who desperately loves to win, has done so all his life, and will go to great lengths to make this happen. In order to prevail in November, he needs a streak of wins to get the political capital that he can spend on Congressional races across the country during a historically tough mid-term election. Then he will have the luxury of time to tackle the trade issue without the toxic populism, or at least some of us hope.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Tete a Tete</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">Trump also has more than trade on his mind, as anyone following Robert Mueller’s investigation can confirm. Holding onto a Congressional majority may be a matter of job security for a president who is looking at an avalanche of investigations and even impeachment proceedings should his party lose. If a company walks into the middle of this minefield, they need the clout of Apple Computer, or a profile so low no one will care. Harley Davidson fits neither description. And the logic of their economic argument is out of place in this environment.</p>\r\n<p class=\"graf graf--p graf-after--p\">When a company counters the president’s bargaining power, they are no longer playing small ball. Harley Davidson sports a $7 billion market cap, which is not far from the market value of the four startup electric e-scooter makers (all of whom are made in China). This suggests Harley has a real problem with changing demographics in this country, and that is driving their overseas ambitions. We get that.</p>\r\n<p class=\"graf graf--p graf-after--p\">But staying quiet, maintaining a low profile, and having a tete a tete with the president would be the more sensible move, rather than relying on a globalism rebuttal during a tough election year. While the duty to shareholders very much includes building a manufacturing facility in Thailand, the how, when, and why should be more carefully constructed.</p>\r\n<p class=\"graf graf--p graf-after--p\">This is a president who enjoys negotiating over private dinners or golf at one of his resorts. Why not take that approach? If Harley wants to figure out how to make Thailand work, they should remember that the president owns the Trump International Casino in Bangkok. He will probably offer some good advice and even could put Matthew Levatich up for a stay at his hotel.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">After November.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><strong><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i></strong></p>\r\n<p><strong>Author’s Bio</strong></p>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p>Read more from Jeff:</p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/amazons-war-drugs\">Amazon’s War on Drugs</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/stop-apologizing-8-social-media-rules\">“I’m Sorry I Tweeted About Politics” — 8 Rules to Stop Saying This</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/starbucks-responds-charges-racism-apology\">Starbucks Responds To Charges of Racism With An Apology</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/quote-trump-misquote-him\"><span>To Quote Trump is to Misquote Him</span></a></li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: 'If you run a global business in the age of Trump, your company either learns to play a new game or finds itself in the crosshairs during an election year.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1280
+    height: 853
+    target_type: file
+    target_uuid: 19437f61-fa0e-42e6-9fe1-60603e69f493
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.19437f61-fa0e-42e6-9fe1-60603e69f493
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f

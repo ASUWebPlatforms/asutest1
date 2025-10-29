@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 089bcaf2-3f14-4b23-9994-05a0313505eb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:19:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'DreamBuilder Video Featured at CGI America Event'
+created:
+  -
+    value: '2016-06-21T19:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:19:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/dreambuilder-video-cgi-america
+body:
+  -
+    value: "<p>A video progress report of the Freeport-McMoran DreamBuilder program co-created with and implemented by Thuderbird for Good was shown at the Clinton Global Initiative America meeting this week in Denver, Colorado.</p>\r\n<p>The video features Freeport-McMoRan Foundation President, Tracy Bame, and graduates and students of the DreamBuilder program from Mi Casa Resource Center, a Women’s Business Center partner organization of Thunderbird for Good.&nbsp; T-bird alumna, and Thunderbird for Good Executive Director and Assistant Vice President, Kellie Kreiser’ 04, attended the annual meeting of government, non-profit, and private sector leaders convened by the Clinton Global Initiative.</p>\r\n<p>DreamBuilder, a free, online business plan course, is co-created with and funded by the Freeport-McMoran Foundation and implemented by Thunderbird for Good. Learn more by visiting&nbsp;<a href=\"http://www.dreambuilder.org/\" target=\"_blank\">www.dreambuilder.org</a>.</p>\r\n<p>&nbsp;</p>\r\n<p>[[{\"fid\":\"791\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Dream Builder: The Women's Business Creator - CGI America 2015 Progress Report\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Dream Builder: The Women's Business Creator - CGI America 2015 Progress Report\",\"height\":\"390\",\"width\":\"640\",\"class\":\"panopoly-image-video media-element file-default\"}}]]</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

@@ -1,0 +1,32 @@
+{% set type = type|default('summary') %}
+{% set card_color = type == 'summary' ? 'card-light' : 'card-dark'  %}
+{% set date_color = type == 'summary' ? 'text-primary' : 'text-white' %}
+{% set text_color = type != 'summary' ? 'text-gold' : '' %}
+
+<div class="group-selected-dates {{ type }}">
+  <h3>{{ title }}</h3>
+  <p>{{ subtitle }}</p>
+  <div class="d-flex justify-content-center flex-wrap cards-container">
+    <div class="date-card {{ card_color }}">
+      <h4 class="date-card__title m-0 {{ text_color }}">Start Date</h4>
+      <div class="date-card__body">
+        <span class="date-card__date {{ date_color }}">{{ gdmi_date(group.field_start_date, group.field_time_zone.value, 'F j, Y') }}</span>
+        <span class="date-card__hour {{ text_color }}">{{ gdmi_date(group.field_start_date, group.field_time_zone.value, 'h:i a') }} {{'(' ~ gdmi_date(group.field_start_date, group.field_time_zone.value, 'H:i') ~ ')' }}</span>
+        <span class="date-card__timezone {{ text_color }}">{{ timezone_formatted }}</span>
+      </div>
+    </div>
+    <div class="date-card {{ card_color }}">
+      <h4 class="date-card__title m-0 {{ text_color }}">Due Date</h4>
+      <div class="date-card__body">
+        <span class="date-card__date {{ date_color }}">{{ gdmi_date(group.field_due_date, group.field_time_zone.value, 'F j, Y') }}</span>
+        <span class="date-card__hour {{ text_color }}">{{ gdmi_date(group.field_due_date, group.field_time_zone.value, 'h:i a') }} {{'(' ~ gdmi_date(group.field_due_date, group.field_time_zone.value, 'H:i') ~ ')' }}</span>
+        <span class="date-card__timezone {{ text_color }}">{{ timezone_formatted }}</span>
+      </div>
+    </div>
+  </div>
+  {% if type == 'summary' %}
+    <a class="btn btn-primary text-white w-fit-content m-auto" href="{{ url('tb_gdmi.dashboard_groups_schedule', {'group': group.id.value, 'destination': path('tb_gdmi.dashboard_groups_summary', { 'group': group.id.value }) }) }}">EDIT DATES</a>
+  {% else %}
+    <a class="btn btn-primary text-white w-fit-content ml-auto" href="{{ url('tb_gdmi.dashboard_groups_schedule', {'group': group.id.value, 'local_task': '1'}) }}">EDIT DATES</a>
+  {% endif %}
+</div>

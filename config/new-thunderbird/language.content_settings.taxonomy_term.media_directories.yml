@@ -1,0 +1,18 @@
+uuid: bc2cdfa0-87bd-4fc8-b0f8-c8ff4b79e362
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.media_directories
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: taxonomy_term.media_directories
+target_entity_type_id: taxonomy_term
+target_bundle: media_directories
+default_langcode: site_default
+language_alterable: false

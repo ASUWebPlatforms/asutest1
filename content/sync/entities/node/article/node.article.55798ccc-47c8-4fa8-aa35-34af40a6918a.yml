@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 55798ccc-47c8-4fa8-aa35-34af40a6918a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:07:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Thunderbird Alumni Host Panel Discussion on Global Offset Industry'
+created:
+  -
+    value: '2018-02-14T17:12:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:07:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-alumni-host-panel-discussion-global-offset-industry
+body:
+  -
+    value: "<p>Are you interested in an international trade career that works with public and private sectors to implement innovative industrial, tech, and education projects in currently 60 countries? Watch this recording of a recent panel discussion, hosted by Julie Goodman '12, for current Thundebird students. Learn about the field of Global Offset and Industrial Participation. The panel discussion includes specialists from BAE Systems, Bell Helicopter, Goodman Global Consulting, and Roth Global Consultants.</p>\r\n<p>Global Offset and Industrial Participation is a career in which Thunderbird has a long and well-known history and is well-suited for the globally-minded professional with a passion for travel, languages, entrepreneurialism, and cross-cultural negotiations.</p>\r\n<p>[[{\"fid\":\"12593\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<h3>Panelist Bios</h3>\r\n<p><strong>Julie Goodman</strong>, CEO of Goodman Global Consultants, has worked in the offset and countertrade industry for four years and primarily focuses on the indirect offset niche sourcing projects for needs in education, environment, and healthcare for major defense contractors. She has worked in 6 countries across 3 continents. Julie earned a BA in Economics and International Affairs from the University of Colorado at Boulder and an MBA from the Thunderbird School of Global Management. Julie is a leader in her community and actively involved in several organizations. She currently serves on the board of directors at World Affairs Council, Global Chamber Dallas and Thunderbird and serves as the President of the Thunderbird DFW Alumni Chapter. She initiated the Get on Board pilot program with the Dallas Regional Chamber to match highly motivated young professionals with local nonprofits that have open board seats. Julie was nominated for the 2017 Good Works Under 40 Award for her volunteer work giving manicures to ladies with intellectual disabilities. <a href=\"http://dastornews.com/2016/10/offset-countertrade-how-a-recent-alum-revived-a-classic-thunderbird-industry/\" target=\"_blank\">Read more about Julie and Offset &amp; Countertrade</a>.</p>\r\n<p><strong>Andrew Rizley</strong> is BAE Systems’ Industrial Participation/Offset Director in the Weapon Systems Business Unit in Arlington, VA. Prior to joining BAE Systems, Rizley was the offset manager for the Naval and Area Mission Defense product line at Raytheon Missile Systems from 2013-2017. Rizley has been responsible for the successful planning, negotiating, implementation, and reporting of all offset agreements in over 10 countries for multiple programs totaling nearly $1B. Before joining Raytheon, Rizley was a senior marketing consultant with Cox Communications/Cox Media in the Fairfax, VA and Phoenix, AZ markets from 2004-2011. Rizley earned a bachelor’s degree in marketing communications from Brigham Young University and a holds a Master of Business Administration from the Thunderbird School of Global Management in Glendale, AZ. He is also a certified Six Sigma Expert and has led various cost reduction or process improvement efforts, resulting in significant margin enhancement.</p>\r\n<p><strong>Michael Rothermel</strong> is Managing Director of Roth Global Consultants, LLC for Global Offset and Countertrade Worldwide Strategy and Operations. Michael brings more than 30 years of management and offset experience along with proven business expertise globally. Prior to forming his own consulting company, he spent 10 years at Cisco Systems, where he was head of Global Offset and Countertrade in the Worldwide Sales Strategy and Operations group. Prior to this, he served as Director and Executive member of the Senior Leadership team for Smiths Aerospace, LLC – a UK based Aerospace group. Other management and offset roles include senior positions at AlliedSignal/Honeywell, Gateway Computers, and Northrop Aircraft. A native of California, Michael’s business background includes extensive international experience in Asia, Europe, Latin America, Russia, Africa and the Middle East. He also served on the Executive Board of the Global Offset and Countertrade Association for several years. Michael holds University degrees from Pepperdine, Marymount, as well as a specialized degree in Supply Chain Management from UCLA. Michael is a FAA certificated commercial pilot with Single, Multiengine, and Instrument ratings and enjoys golf and ocean sailing.</p>\r\n<p><strong>Jessie Torres</strong> is the Manager of Industrial Participation and Offsets for Bell Helicopter. In this role, he is responsible for developing and implementing Industrial Cooperation and Offset programs in South America and Africa for both military and commercial programs. Jessie has 11+ years of offset experience and has successfully managed and executed offset in more than 10 countries. Jessie joined Bell in 2015 from Lockheed Martin Missiles and Fire Control, where he was an Offset Manager and Global Sourcing Manager. Before joining the offset group he was also part of Lockheed Martin’s Operations Leadership Development Program where he rotated through various functions in operations and engineering. Jessie earned a Bachelor’s degree in International Economics and Business from the University of North Texas with a minor in Spanish. He also completed a semester abroad at the National University of Costa Rica, where he took business and international trade courses in Spanish. He holds a Master of Science in Systems Engineering at Southern Methodist University. Jessie is an alumnus for both the INROADS business organization and the Hispanic Business Student Association and is a member of the Global Offset Countertrade Association.</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Thunderbird alumna Julie Goodman ''12 recently hosted a panel discussion focused on career opportunities in Global Offset and Industrial Participation. Watch the livestream recording.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 400
+    height: 400
+    target_type: file
+    target_uuid: 0921dbfc-ecd1-4f9c-8167-25139234cea5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f958611c-a8ea-4ee0-9285-4095ff22667a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.0921dbfc-ecd1-4f9c-8167-25139234cea5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f958611c-a8ea-4ee0-9285-4095ff22667a

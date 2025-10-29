@@ -1,0 +1,77 @@
+uuid:
+  -
+    value: 74812fde-490c-4ae2-b835-7746c86f154a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-07-27T16:49:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'What “Peer Learning” Means & Why it’s Valuable '
+created:
+  -
+    value: '2017-07-25T19:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-27T16:49:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: '/knowledge-network/what-peer-learning-means-and-why-it''s-valuable'
+body:
+  -
+    value: "<p>By Bethany Chijindu '17, Master of Global Management</p>\r\n<p>&nbsp;</p>\r\n<p>At a business school level, peer learning is vital for retaining the curriculum and growing&nbsp;in cultural competency. At a school like Thunderbird, it is inbuilt into the curriculum meaning a large&nbsp;percentage of a student’s grades comes from group activities. Especially in a fast-paced program, peer learning allows students to absorb more of the content compared to if they only learned from the lecturers.</p>\r\n<p>Peer learning simply means learning from your peers, and at a Graduate school, this is a very valuable asset, because at Thunderbird where there are students with diverse skills and backgrounds, there is an increase in the diverse ways students can learn. By working with their peers, students gain access to the knowledge of their peers who might have interesting and diverse ways of looking at concepts that make learning a richer experience while also enabling students to gain more insight and understanding&nbsp; while learning new skills that set them apart from the world, and giving them more of a global perspective.</p>\r\n<p>&nbsp;Peer learning also gives students the opportunity to grow in their capability as leaders; the group setting enables them to learn how to teach their peers what they know. Working in groups requires a lot of patience and fortitude and being able to deal with people who have different temperaments and come from different cultures. Often times there are issues that come up, but they can be learning curves teaching students not only about their peers but also about themselves.</p>\r\n<p>&nbsp;Some key insights that students gain, is learning first-hand how they react and respond to conflicts in a group setting, and how to deal with people who think and act differently.&nbsp; Students also learn to get everyone to cooperate and contribute to the project by learning not only the concepts but building relationships across cultures and thus enhancing their learning experience by gaining not only knowledge but practical ways of doing things.</p>\r\n<p>Oftentimes some students struggle in the beginning when working in a group, especially when it comes to mastering the art of teaching others. As they quickly realize that is not always easy to explain in an easy to understand manner the complex concepts that they understand to their peers. However, over time with practice and feedback, students are able to do just that, thereby building and gaining a critical skill that will have a great impact in their future roles as managers and people in leadership positions.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 47bd7ced-b00e-4197-b2a6-a843daf5f4b5
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.47bd7ced-b00e-4197-b2a6-a843daf5f4b5

@@ -1,0 +1,49 @@
+uuid:
+  -
+    value: 0bcbdf57-5838-4186-b9d3-0dee7c826eea
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+filename:
+  -
+    value: world-gold-1-1552589.jpg
+uri:
+  -
+    value: 'public://images_asunews/world-gold-1-1552589_1.jpg'
+    url: /sites/default/files/images_asunews/world-gold-1-1552589_1.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 588810
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-09-07T05:34:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-07T05:34:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546

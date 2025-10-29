@@ -1,0 +1,95 @@
+uuid: ae833b0b-26ee-4c0f-9ca2-577be3fa33ad
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.video_gallery
+    - field.field.block_content.video_gallery.body
+    - field.field.block_content.video_gallery.field_anchor_menu_settings
+    - field.field.block_content.video_gallery.field_columns
+    - field.field.block_content.video_gallery.field_heading_level
+    - field.field.block_content.video_gallery.field_heading_style
+    - field.field.block_content.video_gallery.field_video
+  module:
+    - field_states_ui
+    - media_library
+    - paragraphs
+    - text
+id: block_content.video_gallery.default
+targetEntityType: block_content
+bundle: video_gallery
+mode: default
+content:
+  body:
+    type: text_textarea_with_summary
+    weight: 3
+    region: content
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+  field_anchor_menu_settings:
+    type: entity_reference_paragraphs
+    weight: 6
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+  field_columns:
+    type: options_select
+    weight: 4
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_heading_level:
+    type: options_select
+    weight: 1
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_heading_style:
+    type: options_select
+    weight: 2
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_video:
+    type: media_library_widget
+    weight: 5
+    region: content
+    settings:
+      media_types: {  }
+    third_party_settings: {  }
+  info:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: false
+    third_party_settings:
+      field_states_ui:
+        form:
+          type: ''
+          list: ''
+          add: Add
+  translation:
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }

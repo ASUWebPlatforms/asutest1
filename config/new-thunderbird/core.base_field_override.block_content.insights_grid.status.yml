@@ -1,0 +1,22 @@
+uuid: 1b4109d2-dfdc-4dbb-b814-ffbb8b9d536e
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.insights_grid
+id: block_content.insights_grid.status
+field_name: status
+entity_type: block_content
+bundle: insights_grid
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

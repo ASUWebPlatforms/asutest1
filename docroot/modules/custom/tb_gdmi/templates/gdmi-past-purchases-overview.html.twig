@@ -1,0 +1,41 @@
+<div class="past-purchases-overview">
+  {% if content.orders is not empty %}
+    <div class="container">
+      <div class="row past-purchases">
+        <div class="col-lg-4 p-0">
+          <h3>Past Purchases</h3>
+          <p>A list of the GDMI purchases made by your account. Both individual and group purchases will be reflected here. You can resend the “email receipt” in the table to the right.</p>
+        </div>
+        <div class="col-lg-8 p-0">
+          <div class="table-container">
+          <table class="gdmi-table">
+            <thead>
+              <th>Date</th>
+              <th>Type</th>
+              <th>GDMI Status</th>
+              <th>Email Receipt</th>
+            </thead>
+            <tbody>
+              {% for order_item in content.orders %}
+                <tr>
+                  <td>{{ order_item.order.created.value|date('F j, Y') }}</td>
+                  <td>{{ order_item.type ~ ' GDMI Purchase' }}</td>
+                  {% set link_url = order_item.type == 'Group' ? path('tb_gdmi.dashboard_groups') : path('tb_gdmi.dashboard')  %}
+                  <td class="text-center"><a href={{ link_url }} class="text-primary">{{ order_item.status == 'ongoing' ? 'In Progress' : order_item.status|replace({'_': ' '})|capitalize }}</a></td>
+                  <td class="text-center">
+                    <form action="{{ url('tb_gdmi.send_order_receipt', { 'commerce_order': order_item.order.id })}}" method="POST">
+                     <input class="btn p-0 text-capitalize text-primary" type="submit" value="Resend">
+                    </form>
+                  </td>
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        </div>
+      </div>
+    </div>
+  {% else %}
+    <div class="overview_text">{{ content.overview_text }}</div>
+  {% endif %}
+</div>

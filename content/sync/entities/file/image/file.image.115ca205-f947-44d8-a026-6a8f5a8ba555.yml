@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 115ca205-f947-44d8-a026-6a8f5a8ba555
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+filename:
+  -
+    value: rocket_business_man_space_suit_small_stock-675708634.jpg
+uri:
+  -
+    value: 'public://rocket_business_man_space_suit_small_wide_stock-675708634_0.jpg'
+    url: /sites/default/files/rocket_business_man_space_suit_small_wide_stock-675708634_0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 368280
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-07-22T18:06:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-07-22T18:06:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc

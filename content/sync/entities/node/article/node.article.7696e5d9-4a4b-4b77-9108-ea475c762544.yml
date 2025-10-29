@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 7696e5d9-4a4b-4b77-9108-ea475c762544
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Worst Gamble of Steve Wynn’s Life'
+created:
+  -
+    value: '2018-02-05T16:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/worst-gamble-steve-wynns-life
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\"><span class=\"markup--quote markup--h4-quote is-other\" data-creator-ids=\"bd56b52ecbe\">The media can now add Wynn’s name to the cast of Weinstein, Spacey, and Lauer, a Mount Rushmore of sexual harassers. But he has the unfortunate distinction of being the only public company&nbsp;CEO.<br></span></h3>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1760px;\" class=\"caption-inner\">[[{\"fid\":\"12255\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Worst Gamble of Steve Wynn's Life\",\"field_file_image_title_text[und][0][value]\":\"The Worst Gamble of Steve Wynn's Life\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Worst Gamble of Steve Wynn's Life\",\"field_file_image_title_text[und][0][value]\":\"The Worst Gamble of Steve Wynn's Life\"}},\"attributes\":{\"alt\":\"The Worst Gamble of Steve Wynn's Life\",\"title\":\"The Worst Gamble of Steve Wynn's Life\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">La Reve, Pablo Picasso 1932</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">Fifty year old Pablo Picasso painted&nbsp;<em>La Rêve</em>, a portrait of his 22 year old mistress, Marie-Thérèse Walter, on a single winter afternoon in Paris in 1932. On another afternoon, Steve Wynn, the Las Vegas mogul who bought the painting for $48 million in 1997, nearly destroyed it.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Blind Spot</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">Barbara Walters and David Boies were staying at the casino and Wynn invited them to join him on the executive floor at 5pm for a private viewing of La Rêve. Because he suffers from Macular Degeneration, an incurable eye disease in which all central vision is lost, Wynn bashed his elbow into the canvas when he made a sudden gesture with his right hand, creating a 6-inch hole. For Wynn, who had arranged to sell the painting&nbsp;<a href=\"https://www.newyorker.com/magazine/2006/10/23/the-40-million-elbow\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.newyorker.com/magazine/2006/10/23/the-40-million-elbow\">the day before</a>&nbsp;to hedge fund magnate Stephen A. Cohen for $139 million, it was a total disaster.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Gambler’s Instinct</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">Steve Wynn has a formidable talent for betting on long shots. He dropped out of Yale Law School to run his father’s bingo parlor and then moved to a backwater called Las Vegas where he is thought of as the Ralph Lauren of the casino world. He took a slot machine town and refurbished the skyline with modern luxury emporiums like the Mirage and the Bellagio. He brought in five star chefs and brand name health spas that transformed the desert city into an oasis of fantasy, a Disneyland for adults. Wynn’s secret was seeing possibilities beyond the reality.</p>\r\n<p class=\"graf graf--p graf-after--p\">When he damaged his painting, you didn’t hear wails of recrimination or excuses. He brought in a well known art restorer, a project that took years. The payoff finally arrived when Cohen bought it from Wynn for $155 million, the highest price paid for a painting at the time. For the casino boss, it was just another gamble against long odds.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Self-Portrait</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">Repairing&nbsp;<em>La Rêve</em>, which in French means “the dream,” is going to seem like a pleasant reverie compared to the nightmare that his public image has become.</p>\r\n<p class=\"graf graf--p graf-after--p\">It took place on yet another afternoon.</p>\r\n<p class=\"graf graf--p graf-after--p\">A recent&nbsp;<a href=\"https://www.wsj.com/articles/dozens-of-people-recount-pattern-of-sexual-misconduct-by-las-vegas-mogul-steve-wynn-1516985953\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.wsj.com/articles/dozens-of-people-recount-pattern-of-sexual-misconduct-by-las-vegas-mogul-steve-wynn-1516985953\">Wall Street Journal</a>&nbsp;article revealed allegations of sexual misconduct, more specifically, that he assaulted a female manicurist in 2005. She later received a $7.5 million settlement, a sum which became public gossip as a result of his very messy and very public divorce. The fallout has led to speculation about Wynn’s future as well as the company’s and has already cost shareholders several billion dollars, a sum that may be as unrecoverable as his reputation. His undergrad alma mater, University of Pennsylvania&nbsp;<a href=\"https://www.cnbc.com/2018/02/01/upenn-to-remove-steve-wynns-name-from-outdoor-plaza-revoke-his-honorary-degree.html\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.cnbc.com/2018/02/01/upenn-to-remove-steve-wynns-name-from-outdoor-plaza-revoke-his-honorary-degree.html\">announced</a>&nbsp;they will scrub his name from Steve Wynn Plaza as a result of the charges.</p>\r\n<p class=\"graf graf--p graf-after--p\">Was it entitlement bias? Insanity? Disregard for women? Ethical lapse?&nbsp;<span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">Was he as blind to his behavior as he was to his artwork? We may never know the answer to these questions.</span>&nbsp;What we do know is that Wynn’s formidable instinct, the one that helped him make impeccable decisions about everything from art to building design, deserted him when he needed it most.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Shareholder’s Money</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">The revelations come at a very inopportune time. The media can now add Wynn’s name to the cast of Weinstein, Spacey, and Lauer, a Mount Rushmore of sexual harassers. But he has the unfortunate distinction of being the only public company CEO. The board of Wynn Resorts didn’t take long to convene a special committee to review the matter. Although he refutes the charges, Wynn will face two undeniable obstacles in mounting a successful defense, at least in the public eye. The most obvious question is what did the board do when it learned about the settlement agreement? Second, what does the company do with a damaged chief executive and founder?</p>\r\n<p class=\"graf graf--p graf-after--p\">When dealing with a salacious crisis, it is imperative to recognize that for Wynn — and others — the worst is yet to come. Luck doesn’t change as in roulette, by watching and waiting and playing the odds. Infractions like these go viral on Facebook and Twitter and they will soon form a quorum where the storyline is as nuanced as Little Red Riding Hood meets the Big, Bad Wolf.</p>\r\n<p class=\"graf graf--p graf-after--p\">Wynn’s losing streak is only going to get worse.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Swarm Warning</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">Wynn Resorts is a public company, which means the board of directors answers to public shareholders, including pension funds that support widows and orphans. So it is imperative the company survives.</p>\r\n<p class=\"graf graf--p graf-after--p\">Standing between the company and a turnaround is a battalion of avengers taking aim at Wynn Resorts as a way of punishing Steve Wynn. There will be throngs of activists floating #MeToo signs outside the casino front door. Politicians are only too happy to remark on a Republican finance chairman’s shameful act during an election year. Regulators will launch investigations that will take years, and will find something the way an inspector&nbsp;<em>always</em>&nbsp;finds something in a restaurant’s kitchen<em>.</em>&nbsp;Employees by the dozen will complain about inequitable pay for women or allegations of sexual misconduct.</p>\r\n<p class=\"graf graf--p graf-after--p\">The onslaught is about to begin. Drastic changes are in order.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Dealer’s Choice</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">The company, if not the CEO, can surmount the challenges if your definition of winning is pension fund shareholders lose only a few hundred million instead of billions. In poker, it’s called being able to come back and play another day.</p>\r\n<p class=\"graf graf--p graf-after--p\">The moves are straightforward: Steve Wynn departs now and by his own locomotion rather than hang around until forced to abdicate. Then bid goodbye to the Wynn cronies on the board. Mount an aggressive PR campaign. Let those credentials become a firewall. Build a second firewall by naming a woman with impeccable feminist credentials to the board, like Hillary Clinton. Donate to women’s causes. Ignore accusations of huckstering. A big donation is always forgiven.</p>\r\n<h3 class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Winning Hand</span></h3>\r\n<p class=\"graf graf--p graf-after--p\">The worst thing that can happen to the shareholders and employees is the company will be under attack for a long while and if the powers that be deal with it incrementally, it will only add fuel to the fire.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">The best thing is when new leadership emerges that plays the long game and isn’t afraid to take its lumps. That will inspire the team to move forward by moving fast.</p>\r\n<h4><!--break-->Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: 'The media can now add Wynn’s name to the cast of Weinstein, Spacey, and Lauer, a Mount Rushmore of sexual harassers. But he has the unfortunate distinction of being the only public company CEO.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2000
+    height: 987
+    target_type: file
+    target_uuid: 3a25f7ad-8660-476c-86b2-4af3700acf26
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.3a25f7ad-8660-476c-86b2-4af3700acf26
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

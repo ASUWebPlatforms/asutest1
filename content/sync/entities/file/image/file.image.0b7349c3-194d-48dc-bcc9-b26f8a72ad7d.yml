@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 0b7349c3-194d-48dc-bcc9-b26f8a72ad7d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+filename:
+  -
+    value: space-tbirdnews.jpg
+uri:
+  -
+    value: 'public://space-tbirdnews.jpg'
+    url: /sites/default/files/space-tbirdnews.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 18402
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-05-26T14:21:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-05-26T14:21:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6

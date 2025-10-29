@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 95059c6b-d2b0-4e97-8462-8248c66f21fb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:34:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Key Tips to Propel Your Career'
+created:
+  -
+    value: '2018-01-22T16:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:34:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/key-tips-propel-your-career
+body:
+  -
+    value: "<h3>A Dozen Lessons from Top Consultants on How to Be Great<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></h3>\r\n<p>Management consultants hold some of the most demanding and rewarding jobs in the world. A climb to the top of the consulting industry is a huge challenge that&nbsp;<a href=\"http://www.christielindor.com/\">Christie&nbsp;Lindor</a>, consultant, author, and mentor,&nbsp;is all too familiar with.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<p>Christie recently shared her experience and advice with me. She&nbsp;learned in her research for her&nbsp;upcoming book&nbsp;<a href=\"http://www.christielindor.com/\"><span>The MECE Muse: 100+ selected practices, unwritten rules and habits of great consultants</span></a><span>,&nbsp;</span>that the traits that make a great consultant and lead to success in her industry can be translated to nearly anyone.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<p>“When I asked each person the question, ‘<span>What is your definition of a great consultant</span>?’ I noticed that most of what takes someone from good to great had more to do with their characteristics and emotional intelligence than their technical acumen,” says&nbsp;Lindor.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<h3>Here are&nbsp;Christie’s&nbsp;top&nbsp;12&nbsp;tips for propelling your career:<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></h3>\r\n<ul>\r\n<li><strong><span style=\"font-size: 1em;\">Make a</span><span style=\"font-size: 1em;\">&nbsp;</span><span style=\"font-size: 1em;\">conscious choice to be great.</span></strong><span style=\"font-size: 1em; background-color: transparent;\">&nbsp;Greatness isn’t&nbsp;a gene. It’s&nbsp;a mindset, a&nbsp;conscious decision,&nbsp;and a way of being.&nbsp;</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">It’s always personal in business</span></strong><span style=\"font-size: 1em; background-color: transparent;\"><strong>.</strong>&nbsp;Common courtesy and etiquette alone will take you far –&nbsp;use them to your competitive advantage.&nbsp;</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Pay it forward.</span></strong><span style=\"font-size: 1em; background-color: transparent;\">&nbsp;Focus on helping others shine and succeed. Your own success will follow.</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Get out of your own way.</span></strong><span style=\"font-size: 1em; background-color: transparent;\">&nbsp;Do not allow the stories you tell yourself shape your career decisions&nbsp;or&nbsp;ability to deliver and create impact for your client&nbsp;or organization.&nbsp;</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Create a fulfilli</span><span style=\"font-size: 1em;\">ng, rewarding, and sustainable&nbsp;</span><span style=\"font-size: 1em;\">career</span></strong><span style=\"font-size: 1em; background-color: transparent;\"><strong>.</strong> Develop solid habits that creates a sense of physical, mental, and emotional well-being.&nbsp;Your journey&nbsp;is a marathon, not a sprint.&nbsp;Embrace the journey and trust the chaos.</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">It’s not about being right but about being effective.</span></strong><span style=\"font-size: 1em; background-color: transparent;\">&nbsp;Give up the need to always be right and instead become obsessed with value creation.&nbsp; When you focus on the right thing, everything will always fall into place.</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Take ownership and accountability of your career.</span></strong><span style=\"font-size: 1em; background-color: transparent;\">&nbsp;Stop letting life just happen to you; take control of the things that are within your control.&nbsp;Do not let a fear of missing out guide your career decisions.&nbsp;&nbsp;Proactively seek out numerous coaches, mentors, advisors and sponsors. Create a personal board of directors.&nbsp;</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Step up to a higher standard.</span></strong><span style=\"font-size: 1em; background-color: transparent;\"><strong>&nbsp;</strong>Maintain standards of excellence without striving for perfection. The day you let your standards down is the day you’ve decided to become mediocre.</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Surround yourself with like-minded individuals</span><span style=\"font-size: 1em;\">.</span></strong><span style=\"font-size: 1em; background-color: transparent;\">&nbsp;If you are the hardest working, most capable, or motivated&nbsp;person&nbsp;in the room, on your team, or in your practice, find another room, team, or practice.&nbsp;Create an environment of excellence for yourself and those around you.</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Develop and execute basic habits remarkably well.</span></strong><span style=\"font-size: 1em; background-color: transparent;\"><strong>&nbsp;</strong>&nbsp;The ability to do simple things extremely well is a competitive advantage. Do not underestimate your ability to bake an amazing cupcake instead of a cake.&nbsp;Fiercely protect your reputation, integrity, and credibility.</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Be empathically inclusive and compassionate to others</span></strong><span style=\"font-size: 1em; background-color: transparent;\"><strong>.&nbsp;&nbsp;</strong>Accept people for who they are, not what you want them to be.&nbsp; Be willing to learn from someone with a different mindset and worldview other than your own.&nbsp;</span><span style=\"font-size: 1em;\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></li>\r\n<li><strong><span style=\"font-size: 1em;\">Embrace authenticity as a competitive advantage.</span><span style=\"font-size: 1em;\">&nbsp;</span></strong><span style=\"font-size: 1em; background-color: transparent;\">Be intentionally aware of how you think, learn, and work in order to maximize your strengths.</span></li>\r\n</ul>\r\n<p><span style=\"font-size: 1em; background-color: transparent;\"><span>Join Dana Manciagli’s&nbsp;</span><a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a><span>&nbsp;</span><em>right now</em><span>&nbsp;and immediately access the most comprehensive job search system currently available!</span></span></p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><i><a href=\"http://danamanciagli.com/\">her website.</a></i></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/interview-team-player\">Interview as a Team Player<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/how-avoid-getting-fired\">How to Avoid Getting Fired<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/one-thing-you-must-do-after-submitting-your-resume\">The ONE THING You Must Do After Submitting Your Résumé<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/one-thing-you-must-do-after-submitting-your-resume\">6 Tips to Be a Better Manager/Coach<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility!</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: f4fcbbed-13d4-456d-8e98-1f28bc3520d3
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.f4fcbbed-13d4-456d-8e98-1f28bc3520d3
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

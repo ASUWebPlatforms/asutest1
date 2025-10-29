@@ -1,0 +1,130 @@
+uuid:
+  -
+    value: ca4da62d-48de-416b-86a0-2ad012018e97
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2021-06-28T21:19:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Waykana: Strategic Prioritization for Entrepreneurs'
+created:
+  -
+    value: '2021-06-28T21:19:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-06-28T21:19:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-21-0008
+body:
+  -
+    value: '<p>At the end of November 2020, Demetrio Santander and Juan David Gómez were finalizing the details for a pitch scheduled to take place in a few days. After three years of effort and dedication, the entrepreneurs had positioned Waykana as a fast-growing Ecuadorian company with a national and international presence. The company was selling bulk guayusa leaves (a tree located in the Ecuador rainforest) and branded products in more than 10 countries. To accelerate the firm’s growth and social and environmental impact mission, the entrepreneurs believed that the time had come to secure additional growth capital and formalize the firm’s expansion strategy.</p><p><br>Waykana''s business model had three sources of income. First, brand product sales in Ecuador -tea boxes and energy drinks - through the country’s largest retailer. Second, brand product sales in the United States - tea boxes and loose-leaf - through Amazon and Shopify. And third, bulk guayusa sold to big international traders and extractors. Facing increased competition while deeply committed to Waykana’s social mission, the entrepreneurs knew they had to prioritize their growth efforts. But which income stream should be given more attention – without overly weakening the others? Given Waykana’s mission-driven interests, which one would generate a better social and environmental impact? Did they need to choose just one or could they secure enough funding to reinforce the three businesses simultaneously? Answering these questions would not only help the entrepreneurs to fine-tune their funding pitch but also provide insight into the company´s next strategic moves.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-21-0008
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+  -
+    target_type: taxonomy_term
+    target_uuid: af2bace1-7780-4f6c-8e22-0c3722ac5cd6
+  -
+    target_type: taxonomy_term
+    target_uuid: 8424dff5-8090-4923-8e99-dfad14cf27ec
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 251a6374-fb3e-473c-8d34-ec9a70a99e88
+field_case_series_year:
+  -
+    value: '2021-01-01'
+field_case_setting:
+  -
+    value: Peru
+field_case_source:
+  -
+    value: 'Field Research'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5e465552-3b19-4d0d-8456-49bd2a78ff07
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 56cb1ff7-6529-4d29-bef6-05d31c36c384
+  -
+    target_type: taxonomy_term
+    target_uuid: 4be05f8f-e9b0-4ec3-86f4-d4b65ed763ff
+  -
+    target_type: taxonomy_term
+    target_uuid: 457ba5f4-7a0a-48eb-a89e-b7b6db5ba676
+  -
+    target_type: taxonomy_term
+    target_uuid: fcc6123c-dc3e-4c19-97c3-b1c33944f69d
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+field_teaching:
+  -
+    value: "Teaching Objectives\r\n1.\tTo consider the strategy challenges and opportunities entrepreneurs face as emerging organizations grow.\r\n2.\tTo examine ways to overcome the confusion entrepreneurs encounter when they must choose among strategic priorities.   \r\n3.\tTo debate and better understand the strategy decisions leaders must consider when formalizing the organization. \r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678
+      - taxonomy_term.case_series_authors.af2bace1-7780-4f6c-8e22-0c3722ac5cd6
+      - taxonomy_term.case_series_authors.8424dff5-8090-4923-8e99-dfad14cf27ec
+      - taxonomy_term.case_series_industry.251a6374-fb3e-473c-8d34-ec9a70a99e88
+      - taxonomy_term.case_series_categories.5e465552-3b19-4d0d-8456-49bd2a78ff07
+      - taxonomy_term.case_series_fields.56cb1ff7-6529-4d29-bef6-05d31c36c384
+      - taxonomy_term.case_series_fields.4be05f8f-e9b0-4ec3-86f4-d4b65ed763ff
+      - taxonomy_term.case_series_fields.457ba5f4-7a0a-48eb-a89e-b7b6db5ba676
+      - taxonomy_term.case_series_fields.fcc6123c-dc3e-4c19-97c3-b1c33944f69d
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52

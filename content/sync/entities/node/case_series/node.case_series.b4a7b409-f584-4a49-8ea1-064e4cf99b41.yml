@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: b4a7b409-f584-4a49-8ea1-064e4cf99b41
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:39:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'P.T. Semen Gresik'
+created:
+  -
+    value: '2016-07-27T22:39:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:39:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-99-0025
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>On July 6, 1998, the Indonesian government announced that Cementos de Mexico (Cemex) was the preferred bidder for the largest government -owned cement company in Indonesia PT Semen Gresik. The first round of bidding had pitted Cemex against Holderbank of Switzerland and Heidelberger of Germany, two of the largest cement manufacturing firms in the world, And a mere seven weeks had passed since the resignation of President Suharto, a turning point for Indonesia''s political and economic future. Cemex was informed on August 20 that their first round bid would have to be restructured, the primary change being a maximum of 14% of ownership passing from the government to Cemex. Then, as preferred bidders, Cemex would wait for the other round bidders to submit second bids. If their second bids were superior to Cemex''s first bid, Cemex would have the right to match theirs if it wished. The vice president for finance of Cemex, Hector Midina, and his acquisition staff and consultants, now had only a few weeks to finalize their position.&nbsp;</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-99-0025
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'Indonesia 1998'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 742db191-f071-4704-8d03-58535b8bb821
+field_teaching:
+  -
+    value: "This case has been used in both degree programs and executive education programs. The case is a natural fit in courses, which combine strategy, international finance, valuation, and political risk. The case highlights the strategic opportunities, which the Asian crisis provided some global competitors and how their international expansion strategies might align with the privatization and revenue needs of emerging Asian markets like Indonesia. The financial details are helpful in explaining some of the fundamentals of valuation, but also highlight that many acquisition bids come more from the heart than the head.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.742db191-f071-4704-8d03-58535b8bb821

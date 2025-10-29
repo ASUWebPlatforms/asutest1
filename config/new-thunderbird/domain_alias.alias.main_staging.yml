@@ -1,0 +1,9 @@
+uuid: 86fb88f0-8736-4dc5-985f-977fc68eb1e1
+langcode: en
+status: true
+dependencies: {  }
+id: main_staging
+domain_id: main
+pattern: test-new-thunderbird.ws.asu.edu
+redirect: 0
+environment: staging

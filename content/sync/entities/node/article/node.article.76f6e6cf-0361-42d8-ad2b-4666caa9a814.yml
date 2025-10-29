@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 76f6e6cf-0361-42d8-ad2b-4666caa9a814
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'T-bird inducted into Arizona State Sports Hall of Fame'
+created:
+  -
+    value: '2016-06-22T17:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/az-state-hall-of-fame
+body:
+  -
+    value: "<p>[[{\"fid\":\"865\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Arizona State University has inducted former Hungarian junior national champion&nbsp;<strong>Reka Cseresnyes ’01&nbsp;</strong>into its Sports Hall of Fame for her achievements on the Sun Devils tennis team before coming to Thunderbird. Cseresnyes was the first ASU freshman to earn All-American honors in women’s tennis, and the program’s first four-time All-American. She was honored with six other Sun Devil greats during a halftime ceremony on Oct. 12, 2013, at the ASU football game against the University of Colorado (see&nbsp;<a href=\"http://www.thesundevils.com/ViewArticle.dbml?DB_OEM_ID=30300&amp;ATCLID=209227767\">ASU news release</a>). “It was a great honor,” said Cseresnyes, who attended the ceremony with her husband and three children. Her mother also traveled from Hungary to witness the event.</p>\r\n<p>Cseresnyes had many great moments during her NCAA career from 1995-98. She said the most satisfying was a victory over a longtime University of Arizona rival at the end of her senior season. “I had to prove myself when I came to America,” she said. “I did it through hard work and dedication.”</p>\r\n<p>Today as a certified project management professional, Cseresnyes finds ways to combine her passion for athletics with her passion for the environment. She recently&nbsp;worked on various&nbsp;sustainability projects for the Hungarian Olympic Committee, and she&nbsp;managed the Green Triathlon&nbsp;program at the 2010 triathlon world championships in Budapest. She was also a partner in a company that uses sports as a vehicle to promote corporate social responsibility. More recently, she moved with her family to Mountain View, California, where she does finance and project management for a Silicon Valley startup. She also stays active on the tennis court, coaching her own children and a 14-year-old junior player.</p>\r\n<p>Cseresnyes first visited Thunderbird during her freshman year at ASU. “I loved it right off the bat,” she said. “Once you set your foot on campus and feel the Thunderbird spirit, you realize what an awesome school it is.”</p>\r\n<p>As a Thunderbird student, Cseresnyes made a connection at the annual job fair that led to a six-month internship, which led to full-time employment after graduation. “Having the Thunderbird backing behind me made it easier to launch my career,” she said.</p>\r\n<p><strong>Caption:&nbsp;</strong>Reka Cseresnyes ’01 and her family celebrate her induction into Arizona State University’s Sports Hall of Fame on Oct. 12, 2013.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

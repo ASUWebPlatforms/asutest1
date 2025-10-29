@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 577db6d2-579f-4fc6-adac-edcba650339d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-08-05T17:47:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Governments and Gov-Tech: reality or far fetched aspiration?'
+created:
+  -
+    value: '2019-08-05T14:38:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-08-05T17:47:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/Governments-and-Gov-Tech-Reality-or-Far-Fetched-Aspiration
+body:
+  -
+    value: "<div class=\"page-synopsis\">\r\n<p>[[{\"fid\":\"74597\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Are Entrepreneurial Governments an Oxymoron?\",\"field_file_image_title_text[und][0][value]\":\"Are Entrepreneurial Governments an Oxymoron?\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Are Entrepreneurial Governments an Oxymoron?\",\"field_file_image_title_text[und][0][value]\":\"Are Entrepreneurial Governments an Oxymoron?\"}},\"attributes\":{\"alt\":\"Are Entrepreneurial Governments an Oxymoron?\",\"title\":\"Are Entrepreneurial Governments an Oxymoron?\",\"height\":\"580\",\"width\":\"1193\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]&nbsp;</p>\r\n<p><span>Originally published on <a href=\"https://insights.techreview.com/are-entrepreneurial-governments-an-oxymoron/\">MIT Technology Review</a>. &nbsp;Reprinted with permission.</span></p>\r\n<p>By&nbsp;<a href=\"https://thunderbird.asu.edu/node/3923\">Mark Esposito</a>,&nbsp;<span>Clinical Professor of Global Shifts and the Fourth Industrial Revolution</span></p>\r\n<p>Technology advances faster than knowledge of how best to use it. With a new generation of emerging technologies comes a new responsibility on governments to close this knowledge gap. Fortunately, they have the means to do it at their disposal–the very entrepreneurs driving a revolution in technology for government, civic society, and public innovation, which we can sum up as “gov-tech”.</p>\r\n<p>However, administrations and policymakers need to better understand how to effectively drive a new generation of gov-tech entrepreneurs and ecosystems. In other words, how to get more entrepreneurs oriented away from moving fast and breaking things to&nbsp;<a href=\"https://www.thersa.org/discover/publications-and-articles/reports/move-fast-and-fix-things\">moving fast and fixing things</a>. To do so, we ask that they understand a few points driving why some ecosystems have thrived where others have slowed or remain underdeveloped.</p>\r\n<p>First, there needs to be a clearer line of communication between the civil servants with the knowledge of the problems, and the entrepreneurs with knowledge of potential solutions and why some solutions might inherently fail. The answer is not conferences and trips; rather, governments should be maximizing the chances of more continuous and repeated conversations among these groups. In the end, conversations are the fundamental unit of innovation, and should be given time and interest accordingly. Now it’s about maximizing the chances of the right conversation at the right time, of making government a serendipity engine. For instance, governments should consider retrofitting any available public administrative space into incubators, innovation hubs, and co-working spaces.</p>\r\n<p>Second, civil servants and public administrators need to teach entrepreneurs how to actually talk to governments. Solving public problems is not like solving private problems; likewise, talking with government is not like talking with venture capital, with corporates, even if governments are reaching out. In turn, the nature of conversations, expectations, demands, and the nuances of how to navigate the internal politics is not something most entrepreneurs have experience with or are exposed to, and unfortunately does not seem to be in line to change anytime soon.</p>\r\n<p>Third, governments need to better understand how to find and scout for gov-tech entrepreneurship. The unfortunate reality is that&nbsp;not all the best solutions are created with a gov-tech opportunity in mind; furthermore, not all solutions can be scalable–the nature of scale is in the ability to identify the specifics of what’s needed in terms of legal requirements, capability requirements, and other such indicators.</p>\r\n<p>What may be needed are dedicated scouting offices for governments as part of larger&nbsp;<a href=\"https://www.esglobal.org/el-papel-del-estado-en-la-innovacion-social/\">public open innovation initiatives</a>&nbsp;to help identify unique solutions and improve the capabilities for procuring or leveraging those solutions. For while some governments will take it upon themselves to try and push more innovation internally, we might follow the advice of Concepcion Galdon and pose that what governments do best is scale across diverse contexts, whereas what entrepreneurs do best is to innovate under uncertainty–let each have their comparative advantage and collaborate accordingly. As indeed, one of the last things we want from government is surprise, but to ignore the government’s role in taking on risk to drive capital to push innovation is to miss an essential element of the&nbsp;<a href=\"https://www.project-syndicate.org/commentary/economy-value-private-public-investment-by-mariana-mazzucato-2018-09\">public value</a>&nbsp;provided by administrations.</p>\r\n<p>Fourth, entrepreneurs need to understand that when it comes to delivering public value, originality is not necessarily a virtue. What is needed is less new solutions than the scaling of existing solutions, as demonstrated by&nbsp;<a href=\"https://impacton.org/\">ImpactOn</a>, a social impact startup turning proven solutions into blueprints to be replicated. What matters is putting what works where it’s needed, and knowing with precision what works where, and more importantly, what’s wanted where.</p>\r\n<p>This also means a responsibility on government to be honest about what’s wrong, what’s missing, and make that information selectively public, to let entrepreneurs know what the low hanging fruit are for public problems. It’s not simply about trying to build a smart city by retrofitting all streets with sensors to help launch autonomous cars, but the last mile delivery of goods and services far outside cities with high marginal cost of delivery.</p>\r\n<p>Fifth, governments, and cities authorities in particular, need to redefine how they&nbsp;<a href=\"https://the100questions.org/\">make data accessible and how to do so safely</a>. The primary asset in the digital revolution is insight, but data has to be part of a more coherent ecosystem driven by talent, physical sensors for data collection, data storage, security, analytics, and on. Each of these demands a parallel improvement not only in the overall IT capabilities, but the ability for civil servants to understand what counts as a good, bad, irrelevant, and unethical usage of such data. Otherwise, the future of public services will be subject to how tech giants make services freely available, rather than governments taking responsibility for a new generation of digital public goods.</p>\r\n<p>Sixth, governments need to define how public sector experimentation happens to build the spaces for gov-tech to be effectively tested, and new solutions to emerge. A new generation of regulatory sandboxes has demonstrated the willingness, and demand, for governments to embrace new ways of dealing with uncertainty in how technology and tech driven markets develop. This has enabled a drive for regulatory innovation to be considered an essential element of government responsibility.</p>\r\n<p>In a fast-paced world, governments’ ability to effectively adjust to the demands of digital citizens and global problems means a need to be a better filter of existing solutions to balance expediency and legitimacy. Indeed, in many cases what is not needed is new solutions, its being the better directory of problems, the specifics of problems, of understanding what would actually count as a solution. If you want to build an innovative government, begin with knowing the best problems. All governments are unfinished experiments, unfinishable experiments, in how to secure rights and welfare.</p>\r\n<p><i>This article has been co-authored with <a href=\"https://www.project-syndicate.org/columnist/terence-tse-2\">Terence Tse </a>and <a href=\"https://www.project-syndicate.org/columnist/joshua-entsminger\">Josh Entsminger</a></i></p>\r\n<p>&nbsp;</p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: "Technology advances faster than knowledge of how best to use it. With a new generation of emerging technologies comes a new responsibility on governments to close this knowledge gap. Fortunately, they have the means to do it at their disposal–the very entrepreneurs driving a revolution in technology for government, civic society, and public innovation, which we can sum up as “gov-tech”.\r\n\r\nHowever, administrations and policymakers need to better understand how to effectively drive a new generation of gov-tech entrepreneurs and ecosystems. In other words, how to get more entrepreneurs oriented away from moving fast and breaking things to moving fast and fixing things. To do so, we ask that they understand a few points driving why some ecosystems have thrived where others have slowed or remain underdeveloped."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 4525
+    height: 2201
+    target_type: file
+    target_uuid: 9e8f7982-ba55-435b-96c6-6438954ea4d1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.9e8f7982-ba55-435b-96c6-6438954ea4d1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+      - taxonomy_term.knowledge_network_tags.e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda

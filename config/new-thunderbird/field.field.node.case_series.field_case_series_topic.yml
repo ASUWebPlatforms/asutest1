@@ -1,0 +1,29 @@
+uuid: 00a18d1a-a365-46f8-b3be-4229381baef4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_case_series_topic
+    - node.type.case_series
+    - taxonomy.vocabulary.case_series_topics
+id: node.case_series.field_case_series_topic
+field_name: field_case_series_topic
+entity_type: node
+bundle: case_series
+label: Topic
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      case_series_topics: case_series_topics
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

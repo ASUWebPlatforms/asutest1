@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: a8481caa-1796-47fa-97e1-1caca65b4313
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'U.S. Army teams support women in Afghanistan'
+created:
+  -
+    value: '2011-05-03T23:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/US-army-supports-women-afghanistan
+body:
+  -
+    value: '<p>A few weeks ago, my colleague, Dr. Lisa Brooks from Bagram Human Terrain and Analysis Team, and I hosted our third class of female engagement team training to 33 Soldiers, Sailors, Airmen and Civilians.&nbsp; Conducting female engagements has been recognized as an important endeavor in building trust and enduring relationships with the Afghan population.&nbsp; Afghan women make up 51% of the population and yet they continually are denied the most basic freedoms that are afforded to them by the Afghan constitution and the Quran.</p><p>Our goal in developing the class is to provide consistent and thorough training for members of the Army’s Female Engagement Teams (FET).&nbsp; &nbsp;Army Civil Affairs and Psychological Operations Soldiers have been conducting FET operations for over nine years.&nbsp; This training provides students, who have not been formally trained, with the skills to conduct engagements with Afghan females in a culturally respectful manner while assessing their needs through projects, medical outreaches, and Shuras (meetings) etc.&nbsp;&nbsp; We are the first Regional Command to develop in-country organized training specifically for gender/female engagements.</p><p>Our FET class was held on Bagram Air Field, Parwan Province.&nbsp; For this class we expanded our guest speakers and invited Shakila Haidari, the Assistant Program Manager for the Goldman Sachs&nbsp;<em>10,000 Women</em>&nbsp;program in Afghanistan, Nasin Nurstani, Project Artemis graduate and co-owner of a construction company, the Deputy Director of Women Affairs, and Suhaila Kohistani, who is a new Goldman Sachs&nbsp;<em>10,000 Women</em>&nbsp;project student and the Economics’ coordinator for the DAIL (Director of Agriculture and Livestock) in the Kapisa Province.&nbsp; The students had the opportunity to ask questions and gain more insight into the lives of Afghan women, which was especially helpful to those who were new arrivals to Afghanistan.</p><p>Nasrin Nuristani was the most vocal and gave the US Embassy representatives a hard time about the distribution of USAID and Department of State money.&nbsp; &nbsp;She also spoke about how the Personal Rapid Transport team helped her to find and apply to the Project Artemis program, as well as her experiences with the program itself.&nbsp; Shakila Haidari, Assistant Program Manager for the&nbsp;<em>10,000 Women</em>&nbsp;program in Afghanistan operated in collaboration with Thunderbird, was up next and gave a 30 minute briefing on the&nbsp;<em>10,000 Women</em>&nbsp;program, almost bringing the students to tears when she played the&nbsp;<em>10,000 Women</em>&nbsp;video.&nbsp; Both programs generated a lot of discussion on the ways of recruiting and cultivating business owners as well as how to follow up with them afterwards.</p><p>Project Artemis and the&nbsp;<em>10,000 Women</em>&nbsp;program play a big role in FET.&nbsp; The graduates are spread throughout Afghanistan and in many of the same locations where we have FETs operating.&nbsp; &nbsp;Our teams are able to get out and engage with women on a one on one level.&nbsp; We also train Afghan women in a variety of skills like honey bee keeping, raising poultry, sewing and tailoring, computer, literacy, etc.&nbsp; Americans may not think these concepts are profitable, but to an Afghan it is the difference between life and death.&nbsp; One bee hive is worth $400-$500 and one jar of pure honey sells between $12 and $14 a jar.&nbsp; This allows Afghan women to assist in supporting their families, and more importantly, it raises her economic status within the family.</p><p>I recently had the opportunity to attend a bee keeping training class sponsored by MAJ Bobbie Mayes of the Kentucky Agri-Business Development Team.&nbsp; Over 75 women showed up to learn.&nbsp; At the end of session, I had the opportunity to speak with the women about Project Artemis.&nbsp; Some commented they were not educated enough, to which I responded once you get your business up and running, Project Artemis and the&nbsp;<em>10,000 Women</em>&nbsp;program can assist in expanding your business and making it more profitable.</p><p>These women have never been to Kabul and all had grown up under the Taliban regime. &nbsp;&nbsp;Having the opportunity to learn new skills and possibly participating in a program like Artemis, while overwhelming, was greatly welcomed as a prospect of new opportunities and the possibilities for a future.</p><p>These are great examples of how the military is working with non-profits, corporations, and other government resources to join forces in building sustainable economic growth all over Afghanistan.</p><div>[[{"fid":"2853","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Supporting Women in Afghanistan","field_file_image_title_text[und][0][value]":false},"type":"media","link_text":null,"field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":"Supporting Women in Afghanistan","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"Supporting Women in Afghanistan","class":"panopoly-image-original media-element file-default","data-delta":"1"}}]]</div><p><em>Shakila briefs the class on the Goldman Sachs 10,000 Women project.&nbsp; Afterwards, Shakila provided via email, the applications in Dari and English.&nbsp; These applications were given to all the students in an effort to find more women businesses and to promote the program.</em></p><div>[[{"fid":"2854","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Supporting Women in Afghanistan","field_file_image_title_text[und][0][value]":false},"type":"media","link_text":null,"field_deltas":{"2":{"format":"default","field_file_image_alt_text[und][0][value]":"Supporting Women in Afghanistan","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"Supporting Women in Afghanistan","class":"panopoly-image-original media-element file-default","data-delta":"2"}}]]</div><p><em>Teresa and Nasrin during FET training.&nbsp; During her presentation to the class, Nasrin highlighted the difficulties of women doing business in Afghanistan.&nbsp; Nasrin has been asked by a Provincial Reconstruction Team to come and speak at their International Women’s Day celebration, 8 March 2011.</em></p><div></div><p><em>Fatemah Akbary stopped by Bagram to drop off a business proposal for a card board recycling company.&nbsp; She is seen here meeting with the Korean PRT Gender Advisor, Dr. Song.</em></p><div></div><p><em>Bee keeping training in Kapisa Province for women, mostly widows.&nbsp; As you can see, the ladies were very interested in what MAJ Mayes was teaching.&nbsp;&nbsp; By training women in viable skills, we can then take it a step further with Artemis and the 10,000 Women program.</em></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

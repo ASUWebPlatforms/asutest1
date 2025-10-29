@@ -1,0 +1,5 @@
+content:
+  field_body:
+    third_party_settings:
+      maxlength:
+        maxlength_js_label: 'Pozostało znaków: <strong>@remaining</strong>/@limit.'

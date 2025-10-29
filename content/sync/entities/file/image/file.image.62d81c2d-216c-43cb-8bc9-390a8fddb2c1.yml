@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 62d81c2d-216c-43cb-8bc9-390a8fddb2c1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: mdoying_180118_2249_facebook_0445stills_3.0.jpg
+uri:
+  -
+    value: 'public://article/mdoying_180118_2249_facebook_0445stills_3.0.jpg'
+    url: /sites/default/files/article/mdoying_180118_2249_facebook_0445stills_3.0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 296131
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-10-08T17:24:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-10-08T17:24:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

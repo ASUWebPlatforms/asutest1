@@ -1,0 +1,108 @@
+uuid:
+  -
+    value: d6139884-2c03-43a4-a26b-c0ec792c3de0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T21:47:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'CHP-Chaud Froid Plomberie'
+created:
+  -
+    value: '2016-07-26T21:47:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T21:47:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a10-04-0021
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>CHP-Chaud Froid Plomberie is a French distributor of construction supplies. The company occupies a dominant position in Southern France and has won several large supply contracts. Margins and profitability have come under pressure because of new European entrants. CHP is ready to place a large order for flexible couplings. A meeting has been arranged with representatives from Mission Rubber Technologies to discuss a possible deal. The negotiation meeting is to take place in France.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A10-04-0021
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: France
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 59c4d91a-86be-46c9-b3ed-1c2a8eb27652
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 31fa2b18-a11a-47b5-bf6e-6e0352ec5dba
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+  -
+    target_type: taxonomy_term
+    target_uuid: 2e703dc8-233c-421b-9e71-3386bbfde2ab
+field_teaching:
+  -
+    value: "The case can be used in Sales and Marketing programs to prepare the students for an intricate negotiation with a major customer. It may also be used in a Negotiations course to illustrate the use of a variety of negotiation tactics. The case should be used in conjunction with the case Mission Rubber Technologies. The teaching note contains additional confidential information for team preparation.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.59c4d91a-86be-46c9-b3ed-1c2a8eb27652
+      - taxonomy_term.case_series_fields.31fa2b18-a11a-47b5-bf6e-6e0352ec5dba
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946
+      - taxonomy_term.case_series_fields.2e703dc8-233c-421b-9e71-3386bbfde2ab

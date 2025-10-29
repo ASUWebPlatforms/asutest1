@@ -1,0 +1,20 @@
+uuid: 4bf9292a-db00-4f36-b025-430878501285
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.insight_types
+  module:
+    - path
+id: taxonomy_term.insight_types.path
+field_name: path
+entity_type: taxonomy_term
+bundle: insight_types
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

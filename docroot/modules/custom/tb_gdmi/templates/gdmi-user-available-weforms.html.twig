@@ -1,0 +1,33 @@
+<div class="container">
+{% if items is not empty %}
+   <h3>{{ 'Available assessments'|t }}</h3>
+   <table class="table table-bordered gdmi-table">
+     <thead>
+       <tr>
+         <th>Assessment Type</th>
+         <th>Information</th>
+         <th>Action</th>
+       </tr>
+     </thead>
+     <tbody>
+       {% for item in items %}
+         <tr>
+           <td><a{{ create_attribute({'href': item.url}) }}><strong>{{ item.title }}</strong></a></td>
+           <td>
+             {% if item.info %}
+               {{ item.info|raw }}
+             {% else %}
+               No info available
+             {% endif %}
+           </td>
+           <td>
+             <a{{ create_attribute({'href': item.url}) }} class="btn btn-gold btn-xs">Take GDMI</a>
+           </td>
+         </tr>
+       {% endfor %}
+     </tbody>
+   </table>
+{% else %}
+   <h3 class="mt-4">{{ 'You don\'t have any assessment available.'|t }}</h3>
+{% endif %}
+</div>

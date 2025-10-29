@@ -1,0 +1,63 @@
+uuid:
+  -
+    value: c2317536-07fb-40ce-b252-f7a91e612339
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: knowledge_network
+    target_type: taxonomy_vocabulary
+    target_uuid: 48a0dfb6-e559-49ed-8a64-afcb773a80b2
+revision_created:
+  -
+    value: '2021-10-01T10:39:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: Webinars
+description:
+  -
+    value: "<style>\r\n.easy-breadcrumb {\r\n    margin: 1em 0 0;\r\n}\r\n.pane-fpp-2356 {\r\n    display: none;\r\n}\r\n.panel-pane-4742 h4 {\r\nfont-size:1.1em!important;\r\nmargin:0 0 .5em;\r\n}\r\n</style>"
+    format: full_html
+    processed: |-
+      <style>
+      .easy-breadcrumb {
+          margin: 1em 0 0;
+      }
+      .pane-fpp-2356 {
+          display: none;
+      }
+      .panel-pane-4742 h4 {
+      font-size:1.1em!important;
+      margin:0 0 .5em;
+      }
+      </style>
+weight:
+  -
+    value: 9
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2021-10-01T10:39:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/webinars
+field_network_image: {  }
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

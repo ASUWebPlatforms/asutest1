@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: bd9ed9cf-c160-4c76-83d5-1332f5f3e59f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:53:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+title:
+  -
+    value: 'Amazon’s War on Drugs'
+created:
+  -
+    value: '2018-07-06T20:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:53:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/amazons-war-drugs
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">Amazon is going to do more than dispense medications. His new acquisition of TJ Parker’s&nbsp;<a href=\"http://twitter.com/PillPack\" class=\"markup--anchor markup--h4-anchor\" target=\"_blank\" title=\"Twitter profile for @PillPack\" data-href=\"http://twitter.com/PillPack\">PillPack</a>&nbsp;is going to help end the opioid&nbsp;crisis.</h3>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-imageLoaded is-canvasLoaded\" data-image-id=\"1*-Q9WLgCdIUCN2IiGmk6ZEw.jpeg\" data-width=\"750\" data-height=\"562\" data-is-featured=\"true\" data-action=\"zoom\" data-action-value=\"1*-Q9WLgCdIUCN2IiGmk6ZEw.jpeg\" data-scroll=\"native\"><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/bezos.jpeg?itok=vszz5DLu\" title=\"Jeff Bezos, founder and CEO of Amazon\" alt=\"Jeff Bezos, founder and CEO of Amazon\" class=\"media-element file-default\" data-delta=\"1\" data-fid=\"61936\" data-media-element=\"1\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">June 28th tends to reshape things.</p>\r\n<p class=\"graf graf--p graf-after--p\">On June 28, 1914, the Archduke Ferdinand of Austria was assassinated, sparking the First World War. In 1919, on the same date, the Treaty of Versailles was signed, the alleged cause of the Second World War.</p>\r\n<p class=\"graf graf--p graf-after--p\">On June 28, 2018, Amazon fired the first shot in the drug retail war. For the bargain price of $1 billion, Seattle based Amazon acquired online retailer PillPack with barely one tenth that in revenues at three times its previous valuation. Why?</p>\r\n<p class=\"graf graf--p graf-after--p\">Underscoring the deal’s importance is less the price Amazon paid than the value destruction to the other big drug retailers. Wall Street mercilessly cleaved $14 billion off the stock prices of Walgreens, CVS, McKesson, and Amerisource Bergen — the same day.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*MWNhR4MxpaOy8fhFZSpZ2g.png\" data-width=\"1155\" data-height=\"713\" data-action=\"zoom\" data-action-value=\"1*MWNhR4MxpaOy8fhFZSpZ2g.png\" data-scroll=\"native\"><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/stocks.png?itok=ECTBUn3L\" title=\"Stock price drops for Pharma retailers (table: CB Insights)\" alt=\"Stock price drops for Pharma retailers (table: CB Insights)\" class=\"media-element file-default\" data-delta=\"1\" data-fid=\"61938\" data-media-element=\"1\"></div>\r\n</div>\r\n<p>Stock price drops for Pharma retailers (table:&nbsp;<a href=\"https://us1.campaign-archive.com/?u=0c60818e26ecdbe423a10ad2f&amp;id=f5fbbb4e87&amp;e=92dc2d9ec9\" class=\"markup--anchor markup--figure-anchor\" target=\"_blank\" data-href=\"https://us1.campaign-archive.com/?u=0c60818e26ecdbe423a10ad2f&amp;id=f5fbbb4e87&amp;e=92dc2d9ec9\">CB Insights</a>)</p>\r\n<p class=\"graf graf--p graf-after--figure\">Some of the big players are pretending to ignore the realities (just as the great European powers ignored them). The tweet by CNBC’s Carl Quintanilla below is telling.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*KU5diw2bTFYbayQITLdFmw.png\" data-width=\"942\" data-height=\"568\" data-action=\"zoom\" data-action-value=\"1*KU5diw2bTFYbayQITLdFmw.png\" data-scroll=\"native\"><img src=\"//Thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/styles/panopoly_image_original/public/tweet.png?itok=i-8aYkq4\" title=\"tweet by CNBC’s Carl Quintanilla\" alt=\"tweet by CNBC’s Carl Quintanilla\" class=\"media-element file-default\" data-delta=\"2\" data-fid=\"61939\" data-media-element=\"1\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">But given Bezos tendency to be very, very long-term right, it seems prudent to assume he has some moves we don’t see or at least Walgreen CEO Stefano Pessina isn’t saying. What could they be?</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Five strategic pieces in the Bezos-sphere.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">Let’s remind ourselves, the sheer size of this transaction suggests Amazon has a doozy of a plan. Also, Bezos is no stranger to healthcare. Warren Buffett chose&nbsp;<em>him</em>&nbsp;as a partner in his&nbsp;<a href=\"http://money.cnn.com/2018/06/20/news/companies/atul-gawande-jeff-bezos-warren-buffett-jamie-dimon/index.html\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://money.cnn.com/2018/06/20/news/companies/atul-gawande-jeff-bezos-warren-buffett-jamie-dimon/index.html\">new joint venture</a>, along with JP Morgan’s Jamie Dimon. So to say he&nbsp;<em>understands</em>&nbsp;the space would be an Amazon size understatement.</p>\r\n<p class=\"graf graf--p graf-after--p\">Coming on the heels of his acquisition of Whole Foods, we know he sees retail as a critical component of customer value. With prescriptions, there is a bonus: they are vital not just useful. People have an incentive to shop with him for a very long time (or so they hope).</p>\r\n<p class=\"graf graf--p graf-after--p\">He also knew the company was already in discussions with Walmart. It’s nice to know that Bezos has the best intel network in the business world.</p>\r\n<p class=\"graf graf--p graf-after--p\">Thirdly, if you think of a market as a living organism, Bezos transplanted powerful arms and legs onto Amazon’s drug business. The reason? PillPack’s secret weapon, and what made the deal so cost-effective, is the online startup has licenses to do business in all in 50 states.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><span class=\"markup--strong markup--p-strong\">Now Bezos gets to do the thing he does best: be impatient.</span></span></p>\r\n<p class=\"graf graf--p graf-after--p\">Freedom to transact across the country gives Amazon’s brand name clout a kind of automatic crushing power against rivals. He gets to go to market instead of having to go through a kludgy drug bureaucracy, his least favorite thing in the world.</p>\r\n<p class=\"graf graf--p graf-after--p\">And while the company has no international licenses, you can be sure the engineers in Seattle are tweaking the software now.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">He knows a good deal is the best deal for the customer.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">Fourth, transparency of pricing means that Bezos will mercilessly exploit the pricing discrepancy between current retail drug prices and online discount distributors. It is a classic Amazon move, he takes a physical business and runs it on algorithms, then prices it like software.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\">[[{\"fid\":\"61940\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Drug prices cost comparison (chart: CB Insights)\",\"field_file_image_title_text[und][0][value]\":\"Drug prices cost comparison (chart: CB Insights)\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Drug prices cost comparison (chart: CB Insights)\",\"field_file_image_title_text[und][0][value]\":\"Drug prices cost comparison (chart: CB Insights)\"}},\"attributes\":{\"alt\":\"Drug prices cost comparison (chart: CB Insights)\",\"title\":\"Drug prices cost comparison (chart: CB Insights)\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*HbHh_o-UX7TkGT_ZA8njIQ.png\" data-width=\"732\" data-height=\"859\" data-action=\"zoom\" data-action-value=\"1*HbHh_o-UX7TkGT_ZA8njIQ.png\" data-scroll=\"native\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\"><span class=\"markup--strong markup--p-strong\">There is another wrinkle that will play well across the political landscape.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">PillPack has an online system — PharmacyOS — which helps manage “patient data and figure out how to balance meds in safe doses for customers.</p>\r\n<p class=\"graf graf--p graf-after--p\">Don’t think grandmother’s Lipitor. Think uncle’s opioids.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*01SJIuRWGoCNEP00NJ5mdQ.jpeg\" data-width=\"800\" data-height=\"483\" data-action=\"zoom\" data-action-value=\"1*01SJIuRWGoCNEP00NJ5mdQ.jpeg\" data-scroll=\"native\">[[{\"fid\":\"61941\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Overdose deaths in the US (CDC)\",\"field_file_image_title_text[und][0][value]\":\"Overdose deaths in the US (CDC)\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Overdose deaths in the US (CDC)\",\"field_file_image_title_text[und][0][value]\":\"Overdose deaths in the US (CDC)\"}},\"attributes\":{\"alt\":\"Overdose deaths in the US (CDC)\",\"title\":\"Overdose deaths in the US (CDC)\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">Citizens of this country consume unthinkable quantities of medication and will continue to do so as we live longer. For many of us, it means tipping the scale on dosages, leading to addiction, leading to overdose and deaths. According to the CDC, the sharpest increased in the 70,000 overdose deaths per year came from deaths related to fentanyl and fentanyl analogs (synthetic opioids).</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">PillPack has an answer that Bezos likes.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">PillPack has proprietary technology that may meaningfully counteract this trend. The company’s CEO, TJ Parker said of this service, “PillPack makes it simple for any customer to take the right medication at the right time, and feel healthier. Together with Amazon, we are eager to…help people throughout the U.S. who can benefit...”</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">Once again,&nbsp;<span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">the man from Seattle seems ahead of his time, the market, and the competition. Let the war begin.</span></p>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n<p><strong>Read more from Jeff:</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/amazon-and-scandalmongers\">Amazon and The Scandalmongers</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/att-time-warner-deal-reshaping-media-one-more-time\">AT&amp;T-Time Warner Deal: Reshaping Media, One More Time</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/ge-evolves-age-disruption\">GE Evolves in the Age of Disruption</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 750
+    height: 562
+    target_type: file
+    target_uuid: 2f95d5b1-fb57-4a62-8522-3d8f744b8e3a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8
+    file:
+      - file.image.2f95d5b1-fb57-4a62-8522-3d8f744b8e3a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

@@ -1,0 +1,22 @@
+uuid: 045a9f84-1c29-4f00-873d-b100e1677377
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.person_bio
+id: node.person_bio.status
+field_name: status
+entity_type: node
+bundle: person_bio
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

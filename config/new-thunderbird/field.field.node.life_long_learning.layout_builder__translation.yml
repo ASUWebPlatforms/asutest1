@@ -1,0 +1,21 @@
+uuid: 5e24a340-9656-4ac1-a15f-c9b94e3f0e34
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.layout_builder__translation
+    - node.type.life_long_learning
+  module:
+    - layout_builder_st
+id: node.life_long_learning.layout_builder__translation
+field_name: layout_builder__translation
+entity_type: node
+bundle: life_long_learning
+label: 'Layout Labels'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: layout_translation

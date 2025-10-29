@@ -1,0 +1,82 @@
+uuid: 10b76233-273e-4e0e-bee5-c3f3331ebfc5
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.apply_now
+    - field.field.block_content.apply_now.body
+    - field.field.block_content.apply_now.field_anchor_menu_settings
+    - field.field.block_content.apply_now.field_content_position
+    - field.field.block_content.apply_now.field_degree
+    - field.field.block_content.apply_now.field_heading
+    - field.field.block_content.apply_now.field_media
+  module:
+    - media_library
+    - paragraphs
+id: block_content.apply_now.default
+targetEntityType: block_content
+bundle: apply_now
+mode: default
+content:
+  field_anchor_menu_settings:
+    type: paragraphs
+    weight: 5
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      closed_mode: summary
+      autocollapse: none
+      closed_mode_threshold: 0
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+      features:
+        collapse_edit_all: collapse_edit_all
+        duplicate: duplicate
+    third_party_settings: {  }
+  field_content_position:
+    type: options_select
+    weight: 4
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_degree:
+    type: options_select
+    weight: 3
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_heading:
+    type: string_textfield
+    weight: 2
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_media:
+    type: media_library_widget
+    weight: 1
+    region: content
+    settings:
+      media_types: {  }
+    third_party_settings: {  }
+  info:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+hidden:
+  body: true

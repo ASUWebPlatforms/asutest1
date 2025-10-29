@@ -1,0 +1,29 @@
+uuid: d9b90a93-2719-4cdf-8999-47c1d4e060a5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_titles
+    - node.type.person_bio
+    - taxonomy.vocabulary.title
+id: node.person_bio.field_titles
+field_name: field_titles
+entity_type: node
+bundle: person_bio
+label: Titles
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      title: title
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -1,0 +1,185 @@
+.block-inline-blockimage-and-text-block {
+  margin: 0 auto;
+  padding-bottom: $component-padding;
+  padding-top: $component-padding;
+  width: 100%;
+
+  h2 {
+    margin-bottom: 2rem;
+  }
+
+  .uds-image-text-block-container {
+    border: none;
+    margin: 0;
+    max-height: initial;
+    background-color: transparent;
+        
+    &.corners {
+      @include media-breakpoint-up(lg) {
+        padding: 5rem;
+      }
+
+      @include media-breakpoint-up(xl) {
+        padding: 5.3125rem 7.5rem;
+      }
+    }
+
+    .col-lg:first-child {
+      @include media-breakpoint-up(sm) {
+        margin-bottom: 1rem;
+      }
+
+      @include media-breakpoint-up(lg) {
+        margin-bottom: 0;
+      }
+    }
+
+    @include media-breakpoint-down(md) {
+      flex-direction: column;
+    }
+
+    .uds-image-text-block-image-container {
+      align-items: center;
+      display: flex;
+      padding: 0;
+
+      @include media-breakpoint-down(md) {
+        margin-bottom: 1rem;
+        order: 1;
+      }
+
+      img {
+        // TODO: Find a better solution for tall portrait images
+        max-height: 400px;
+      }
+
+      @include media-breakpoint-up(lg) {
+        overflow: hidden;
+
+        img {
+          height: 400px;
+          object-fit: cover;
+        }
+      }
+    }
+
+    .uds-image-text-block-text-container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 0;
+
+      @include media-breakpoint-down(md) {
+        order: 2;
+      }
+
+      @include media-breakpoint-up(lg) {
+        padding: 0 0 0 3rem;
+
+        &:first-child {
+          padding: 0 3rem 0 0;
+        }
+      }
+
+      p, .formatted-text {
+        color: $gray-darkest;
+        font-size: $font-size-md; // 18px
+        font-weight: 400;
+        letter-spacing: -0.17px;
+        line-height: $font-size-xl; // 30px
+      }
+        
+      h3 {
+        letter-spacing: -0.94px;
+        line-height: $h3-font-size; // 34px
+        margin-top: 0;
+
+        @include media-breakpoint-up(md) {
+          margin-top: 0;
+        }
+      }
+        
+      .subhead {
+        font-size: $h5-font-size; // 22px
+        color: $blue-dark;
+        letter-spacing: -0.61px;
+        line-height: $h5-font-size; // 22px
+        margin-bottom: 1rem;
+      }
+
+      .btn-maroon {
+        background-color: $blue-dark;
+        border-color: $blue-dark;
+      }
+    }
+  }
+}
+
+[dir=rtl] {
+  .block-inline-blockimage-and-text-block {
+    .uds-image-text-block-container {
+      .uds-image-text-block-text-container {
+        @include media-breakpoint-up(lg) {
+          padding: 0 3rem 0 0;
+
+          &:first-child {
+            padding: 0 0 0 3rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+.block-inline-blockimage-and-text-gdmi-block {
+
+  .title {
+    margin-bottom: 18px;
+    margin-top: 0;
+  }
+
+  .btn {
+    padding-left: 0;
+    padding-right: 0;
+    color: $blue-mid;
+    font-weight: 900;
+
+    svg {
+      color: $blue-dark;
+    }
+
+    &:hover {
+      background-color: transparent;
+    }
+  }
+
+  .image-container {
+    display: flex;
+    justify-content: center;
+    
+    .field-media-image {
+      margin-bottom: 20px;
+
+      img {
+        object-fit: contain;
+      }
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  
+    .row {
+      align-items: flex-start;
+    }
+
+    .field-media-image {
+      margin-bottom: 0;
+
+      img {
+        min-height: 636px;
+      }
+    }
+  }
+}

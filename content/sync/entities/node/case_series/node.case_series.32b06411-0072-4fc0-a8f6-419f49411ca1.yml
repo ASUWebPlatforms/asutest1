@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: 32b06411-0072-4fc0-a8f6-419f49411ca1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T22:49:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Planet Starbucks (A)'
+created:
+  -
+    value: '2016-07-26T22:49:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T22:49:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-03-0007
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case focuses on Starbucks Coffee (NSE: SBUX) in the early spring of 2003. The company has demonstrated rapid growth for over a decade, and is continuing to grow profitably through the current recessionary environment. The case details the history and development of the company, highlighting the evolution of the corporate concept of a "third place," and the key individuals in the organization in this development. The second part of the case details the international expansion activities of the firm, highlighting the potential cultural and economic challenges which it may increasingly face as it expands to more traditional coffee-drinking markets, and low-income emerging markets. The third and final section of the case details the increasing pressure placed on Starbucks by the anti-globalization movement. Although Starbucks has actively pursued a number of socially responsible operating policies such as the purchase of Fair-Trade coffee, the subsidization of health care facilities in Central America, and the introduction of a number of socially responsible coffee products in its stores, it continues to be the target of anti-globalization activities. The case concludes with the question as to whether the company will be able to continue to grow as rapidly and profitably as the recent past as it reaches saturation points in the domestic market.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-03-0007
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: c40525e8-e401-4c34-871c-85a1b18e293c
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: U.S.
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1859f567-6035-46bd-a7ea-243e41c3ad3c
+  -
+    target_type: taxonomy_term
+    target_uuid: 21b290d7-3a37-4b4b-a335-0f690b654d7b
+  -
+    target_type: taxonomy_term
+    target_uuid: 07438a09-912c-4021-aaf0-315f2f8dd0ec
+field_teaching:
+  -
+    value: "The case was written as a vehicle for the discussion of globalization and corporate social responsibility. It has also proven useful in the discussion of a retail marketing strategy premised on \"swarming\", the Starbucks on every corner debate. Ultimately, the case is useful for debating whether a firm can be successful internationally employing a different strategy and structure than it employed in the construction of its already successful domestic business.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.c40525e8-e401-4c34-871c-85a1b18e293c
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.1859f567-6035-46bd-a7ea-243e41c3ad3c
+      - taxonomy_term.case_series_fields.21b290d7-3a37-4b4b-a335-0f690b654d7b
+      - taxonomy_term.case_series_fields.07438a09-912c-4021-aaf0-315f2f8dd0ec

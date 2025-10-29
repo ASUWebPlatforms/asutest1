@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: c2dba527-bb56-4271-af23-eb39fcc11341
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-09-10T23:29:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'The Battle for Anadarko'
+created:
+  -
+    value: '2019-09-10T23:29:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-09-10T23:29:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-19-0004
+body:
+  -
+    value: '<p>The Chevron Corporation and Occidental Petroleum entered into a bidding competition in April 2019 for ownership and control of Anadarko Petroleum. Both companies wished to expand their acreage and reserves in the Permian Basin, the core assets of Anadarko, and the largest oil producing region in the world. Although Anadarko first announced that it was accepting Chevron’s offer, Occidental quickly publicized its own offer which it argued was superior. After revising its offer to increase the cash component, Anadarko accepted Occidental’s offer. Anadarko stockholders had to vote on August 8 to accept or reject the sale of their company to Occidental Petroleum.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-19-0004
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2019-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: 'Published sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: bc024f7d-0995-4c2c-902a-64a12d03ca70
+field_teaching:
+  -
+    value: 'This case can be used in both business and management degree and non-degree programs to provide a platform for discussions of corporate governance fundamentals in the context of mergers and acquisitions, and financial analysis of both acquisition deals and corporate performance.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.bc024f7d-0995-4c2c-902a-64a12d03ca70

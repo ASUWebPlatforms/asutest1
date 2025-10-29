@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: f297ee03-bcfb-432c-89a7-8afdd5d7f015
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:34:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Foreign Investment In Russia: Challenging the Bear'
+created:
+  -
+    value: '2016-07-16T01:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:34:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-09-0009
+body:
+  -
+    value: '<p><span>In May 2008, the executive team of MLC Corporation (MLC) became deeply involved in the examination of whether it should expand its production and distribution operations into Russia. The Russian economy had grown dramatically, mainly thanks to rising natural gas exports to Europe. A sharp rise in energy prices had further accelerated the growth of the energy sector, as well as supported the expansion of the economy. Thus, in early January 2009, Mark Olexi, the CEO of MLC, was faced with three potential alternatives. The first one was to expand plant capacity at home and continue to export, as the company had done so successfully for years. The second alternative was to risk building a manufacturing plant and distribution center in Russia, and strengthen the company’s competitive position abroad. The third alternative was to await and delay both decisions because of the uncertainties caused by the global financial and economic crises. Whether Russia could manage its economy to avoid the worldwide recession and an internal financial and economic crisis was an open debate. In addition, Russia had just experienced a leadership change, energy prices had collapsed, and the Russian-U.S. relationship had deteriorated.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-09-0009
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: 'U.S., Russia'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2832161c-eb0f-4ae6-9171-10e6b90589a1
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: be529d94-28fd-4a24-b924-5cecddb53b94
+field_teaching:
+  -
+    value: 'This case teaches program participants the skills to analyze relevant economic country data and use country risk assessment tools in order to make an informed investment decision. The case is designed to enhance global financial leadership, with the content applicable to most executives and senior leaders.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.2832161c-eb0f-4ae6-9171-10e6b90589a1
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.be529d94-28fd-4a24-b924-5cecddb53b94

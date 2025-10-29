@@ -1,0 +1,18 @@
+uuid: 1bc80125-72f6-4d24-8a11-51074cc9cceb
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_full_width_carousel
+id: block_content.signpost_full_width_carousel.metatag
+field_name: metatag
+entity_type: block_content
+bundle: signpost_full_width_carousel
+label: 'Metatags (Hidden field for JSON support)'
+description: 'The meta tags for the entity.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: map

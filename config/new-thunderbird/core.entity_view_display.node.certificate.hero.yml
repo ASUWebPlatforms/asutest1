@@ -1,0 +1,144 @@
+uuid: cbc564a2-6dd8-4fa4-a41a-003b47dbe945
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.hero
+    - field.field.node.certificate.body
+    - field.field.node.certificate.field_area
+    - field.field.node.certificate.field_certificate_duration
+    - field.field.node.certificate.field_certificate_fees
+    - field.field.node.certificate.field_certificate_of_completion
+    - field.field.node.certificate.field_certificate_tags
+    - field.field.node.certificate.field_certificate_topic
+    - field.field.node.certificate.field_certificate_type
+    - field.field.node.certificate.field_class_location
+    - field.field.node.certificate.field_coe_location
+    - field.field.node.certificate.field_content_background
+    - field.field.node.certificate.field_cta_button_text
+    - field.field.node.certificate.field_domain_access
+    - field.field.node.certificate.field_domain_all_affiliates
+    - field.field.node.certificate.field_header_alignment
+    - field.field.node.certificate.field_image
+    - field.field.node.certificate.field_in_person_start_date
+    - field.field.node.certificate.field_meta_tags
+    - field.field.node.certificate.field_regions
+    - field.field.node.certificate.field_school_term
+    - field.field.node.certificate.field_solutions
+    - field.field.node.certificate.field_start_dates
+    - field.field.node.certificate.field_topics
+    - field.field.node.certificate.field_vertical_stripes
+    - field.field.node.certificate.field_virtual_start_date
+    - field.field.node.certificate.field_weight
+    - field.field.node.certificate.layout_builder__layout
+    - field.field.node.certificate.layout_builder__translation
+    - node.type.certificate
+  module:
+    - layout_builder
+    - options
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+id: node.certificate.hero
+targetEntityType: node
+bundle: certificate
+mode: hero
+content:
+  field_certificate_fees:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  field_class_location:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_content_background:
+    type: boolean
+    label: hidden
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 8
+    region: content
+  field_header_alignment:
+    type: list_key
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 6
+    region: content
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: hero
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_school_term:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_start_dates:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_vertical_stripes:
+    type: boolean
+    label: hidden
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 7
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 5
+    region: content
+hidden:
+  body: true
+  field_area: true
+  field_certificate_duration: true
+  field_certificate_of_completion: true
+  field_certificate_tags: true
+  field_certificate_topic: true
+  field_certificate_type: true
+  field_coe_location: true
+  field_cta_button_text: true
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  field_in_person_start_date: true
+  field_meta_tags: true
+  field_regions: true
+  field_solutions: true
+  field_topics: true
+  field_virtual_start_date: true
+  field_weight: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true
+  search_api_excerpt: true

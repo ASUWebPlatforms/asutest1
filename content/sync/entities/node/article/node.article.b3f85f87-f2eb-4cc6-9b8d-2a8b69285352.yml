@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b3f85f87-f2eb-4cc6-9b8d-2a8b69285352
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T14:33:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+title:
+  -
+    value: 'Helping Military Veterans Transition to Civilian Jobs'
+created:
+  -
+    value: '2018-04-23T16:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T14:33:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/helping-military-veterans-transition-civilian-jobs
+body:
+  -
+    value: "<h1 style=\"text-align: center;\"><span>[[{\"fid\":\"16148\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Veteran handshake\",\"field_file_image_title_text[und][0][value]\":\"Veteran handshake\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Veteran handshake\",\"field_file_image_title_text[und][0][value]\":\"Veteran handshake\"}},\"attributes\":{\"alt\":\"Veteran handshake\",\"title\":\"Veteran handshake\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</span></h1>\r\n<h1><span>Building a Corporate Program to Support Veterans in the Workplace</span></h1>\r\n<p>U.S. military veterans and transitioning service members represent a highly-valued, yet under-supported&nbsp;demographic in today’s workforce.&nbsp;With nearly 200,000 men and women transitioning out of the military each year,&nbsp;they face&nbsp;unique challenges when re-entering the workforce. Organizations are&nbsp;increasingly&nbsp;empowering&nbsp;veterans by supporting their transition and growth in corporate environments; however,&nbsp;there needs to be more emphasis on&nbsp;developing&nbsp;training and reskilling&nbsp;programs,&nbsp;so&nbsp;veterans&nbsp;have the tools&nbsp;necessary&nbsp;to excel, both professionally and personally.</p>\r\n<p>Heide&nbsp;Abelli, Senior&nbsp;Vice&nbsp;President at&nbsp;Skillsoft,&nbsp;and&nbsp;Sarah Ley, Digital Learning and Technology leader for General&nbsp;Electric,&nbsp;believe in&nbsp;the importance of&nbsp;veteran placement in the civilian&nbsp;workplace&nbsp;and the development of corporate training programs for veterans.</p>\r\n<p>There are several blueprints&nbsp;in place&nbsp;that demonstrate corporate commitment to veteran success.&nbsp;One&nbsp;exemplary&nbsp;program is the&nbsp;<a href=\"https://ivmf.syracuse.edu/\">Institute for Veterans and Military Families (IVMF) at Syracuse University</a>. IVMF&nbsp;provides vocational training and education for veterans and their spouses. While many veterans have foundational experience in HR,&nbsp;project&nbsp;management,&nbsp;or IT as part of their military role,&nbsp;the program&nbsp;helps&nbsp;veterans become&nbsp;re-certified&nbsp;to remain competitive as a&nbsp;civilian employee.<img src=\"https://www.danamanciagli.com/DiviWP/wp-content/uploads/2018/04/Approved-Abelli-and-Ley-Corporate-Veteran-Programs-300x227.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"459\" height=\"347\" class=\" wp-image-8799 alignright\">&nbsp;</p>\r\n<p>To help students prepare for their certification exams,&nbsp;<a href=\"https://www.skillsoft.com/assets/case-studies/Skillsoft_casestudy_Syracuse_University_IVMF.pdf\">Syracuse&nbsp;partnered</a>&nbsp;with&nbsp;<a href=\"https://www.skillsoft.com/\">Skillsoft</a>, the global leader in corporate learning,&nbsp;to curate&nbsp;an extensive eLearning library complete with online courses, practice tests and targeted mentorship tools.</p>\r\n<p>Similarly,&nbsp;<a href=\"https://hireourheroes.org/\">Hire Our Heroes</a>&nbsp;is a nonprofit organization operated and founded by veterans&nbsp;with a goal&nbsp;to lower unemployment and help deliver an all-around talent acquisition and retention strategy for employers to attract veterans.&nbsp;The program provides veterans with training and resources to develop the&nbsp;most in-demand skill sets and prepare them for certification and other professional qualifications&nbsp;in the civilian workforce.&nbsp;Using an online learning platform&nbsp;such as&nbsp;<a href=\"http://percipio.com/business-solutions/intelligent-learning-platform.asp\">Percipio</a>&nbsp;veterans can choose to watch, read and/or listen to a large selection of&nbsp;content about&nbsp;business,&nbsp;leadership,&nbsp;digital and IT&nbsp;skills training,&nbsp;as well as prepare for&nbsp;important&nbsp;certification&nbsp;exams.</p>\r\n<p>The success of these initiatives&nbsp;demonstrates&nbsp;the increased importance of corporate training programs that enable the continued growth of veterans, both professionally and personally. A successful&nbsp;program&nbsp;should&nbsp;incorporate three key components:</p>\r\n<h2><span>Mentorship:</span></h2>\r\n<p>Working within the corporate environment comes with new rules on how to interact with coworkers and leaders. Part of the transition from the military to civilian workforce involves helping veterans navigate this new environment. Creating a community of veterans and non-veteran advocates helps ease the transition and provides valuable insights into how veterans can establish successful careers.</p>\r\n<h2><span>Training to Reskill and Upskill:</span></h2>\r\n<p>Businesses should work closely with a learning solutions provider to develop a targeted, robust portfolio of resources that&nbsp;are&nbsp;specifically geared toward the veteran community’s needs as they transition into corporate environments. Content should focus on the competencies required to upskill and reskill veterans, and ultimately make them more effective in their new roles.&nbsp;Building on the lessons learned while in service, training&nbsp;programs should also offer courses&nbsp;that prepare veterans for certifications to up-level their technical skills.</p>\r\n<h2><span>Management and Leadership Training:</span></h2>\r\n<p>Once veterans leave the military and enter corporate environments, many need&nbsp;help&nbsp;rediscovering how to manage&nbsp;expectations and&nbsp;relationships with leaders&nbsp;and coworkers. Beyond technical skills,&nbsp;practical&nbsp;training&nbsp;programs should provide&nbsp;veterans with resources that focus on&nbsp;leadership styles,&nbsp;management expectations&nbsp;and different working environments.&nbsp;Following their pilot program and based on&nbsp;direct&nbsp;feedback from veteran participants,&nbsp;<a href=\"https://www.ge.com/careers/culture/veterans\">General Electric’s&nbsp;Veterans Leadership Journey</a>&nbsp;added leadership development resources&nbsp;that focus on&nbsp;difficult conversations and conflict management, influence and persuasion, resilience and perseverance, prioritization and delegation, problem-solving and decision making,&nbsp;and&nbsp;motivating and inspiring others.<span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\r\n<p>Military service&nbsp;often&nbsp;provides&nbsp;leadership experience, discipline, strategic thinking and a level of loyalty that is&nbsp;difficult to find in civilians.&nbsp;However, veterans need career&nbsp;guidance&nbsp;and additional training&nbsp;as they transition into corporate life and pursue&nbsp;new and elevated roles.&nbsp;Providing the resources for navigating a new working structure is invaluable to creating a support network within the company.&nbsp;These men and women have made enormous sacrifices for our country. As&nbsp;good&nbsp;corporate citizens,&nbsp;we must&nbsp;provide them with the tools they need to adapt to civilian life and hone the skills that are important to their professional careers.</p>\r\n<p>Join Dana Manciagli’s&nbsp;<a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a>&nbsp;right now and immediately access the most comprehensive job search system currently available!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><i><a href=\"http://danamanciagli.com/\">her website.</a></i></p>\r\n<p><strong>Read More from Dana:</strong><br> <a href=\"https://thunderbird.asu.edu/knowledge-network/how-get-over-being-stressed-out-your-job-so-you-can-actually-do-it\">How to Get Over Being Stressed Out by Your Job So You Can Actually Do It</a><br> <a href=\"https://thunderbird.asu.edu/knowledge-network/benefits-meditation-workplace\">Benefits of Meditation in the Workplace<br> </a><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'U.S. military veterans and transitioning service members represent a highly-valued, yet under-supported demographic in today’s workforce. With nearly 200,000 men and women transitioning out of the military each year, they face unique challenges when re-entering the workforce. Organizations are increasingly empowering veterans by supporting their transition and growth in corporate environments; however, there needs to be more emphasis on developing training and reskilling programs, so veterans have the tools necessary to excel, both professionally and personally.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: c1da4227-8f2b-481f-b46d-e18a9f7c7a57
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+    file:
+      - file.image.c1da4227-8f2b-481f-b46d-e18a9f7c7a57
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

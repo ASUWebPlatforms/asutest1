@@ -1,0 +1,26 @@
+uuid: 8e03aaab-afe5-4587-a868-a34ec94d52da
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_formatted_text
+    - paragraphs.paragraphs_type.class_profile_left_column
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - restricted_html
+id: paragraph.class_profile_left_column.field_formatted_text
+field_name: field_formatted_text
+entity_type: paragraph
+bundle: class_profile_left_column
+label: Text
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

@@ -1,0 +1,10 @@
+uuid: 7a93d525-6b2a-481d-beaa-17acffea1348
+langcode: en
+status: true
+dependencies: {  }
+id: card_ranking
+label: 'Card Ranking'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

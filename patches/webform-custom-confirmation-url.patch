@@ -1,0 +1,26 @@
+diff --git a/src/WebformSubmissionForm.php b/src/WebformSubmissionForm.php
+index 5e8f036..c0b1604 100644
+--- a/src/WebformSubmissionForm.php
++++ b/src/WebformSubmissionForm.php
+@@ -2380,6 +2380,21 @@ class WebformSubmissionForm extends ContentEntityForm {
+   protected function getConfirmationUrl() {
+     $confirmation_url = trim($this->getWebformSetting('confirmation_url', ''));
+ 
++    $parsed_confirmation_url = parse_url($confirmation_url);
++    parse_str($parsed_confirmation_url['query'], $query);
++
++    foreach($query as $key=>$value) {
++      if(is_null($value) || $value == '') {
++        unset($query[$key]);
++      }
++
++      if (strpos($value, 'webform_submission') !== false) {
++        unset($query[$key]);
++      }
++    }
++
++    $confirmation_url = $parsed_confirmation_url['path'] . '?' . http_build_query($query);
++
+     if (strpos($confirmation_url, '/') === 0) {
+       // Get redirect URL using an absolute URL for the absolute  path.
+       $redirect_url = Url::fromUri($this->getRequest()->getSchemeAndHttpHost() . $confirmation_url);

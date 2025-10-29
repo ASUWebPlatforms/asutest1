@@ -1,0 +1,18 @@
+uuid: 6be32fda-65b1-4c03-ab02-5e3c4f8828b0
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.insight_tags
+id: taxonomy_term.insight_tags.name
+field_name: name
+entity_type: taxonomy_term
+bundle: insight_tags
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

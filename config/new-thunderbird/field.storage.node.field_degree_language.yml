@@ -1,0 +1,27 @@
+uuid: 439a1047-6b23-4f92-b2dc-d3ecbd6cb4f4
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_degree_language
+field_name: field_degree_language
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: english
+      label: English
+    -
+      value: mandarin
+      label: Mandarin
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

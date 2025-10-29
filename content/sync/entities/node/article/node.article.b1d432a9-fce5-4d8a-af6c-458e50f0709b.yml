@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b1d432a9-fce5-4d8a-af6c-458e50f0709b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-22T18:20:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'Jambo! Team Tanzania''s First Week in the Field'
+created:
+  -
+    value: '2016-09-01T08:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T18:20:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/team-tanzania-first-week
+body:
+  -
+    value: "<p><span><em>Jambo!</em></span><span>&nbsp;(Hello!) Team Tanzania is off to a great start in Arusha, Tanzania.&nbsp; After 24 hours of travel, getting settled in our new home and many meets and greets, the team is feeling at home in Tanzania.&nbsp; Our hosts at Solar Sister have been incredibly welcoming.&nbsp;&nbsp;</span><em><span>Asante Sana!</span></em><span>&nbsp;(Thank you very much!)</span></p>\r\n<p style=\"text-align: center;\"><span>[[{\"fid\":\"3973\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Tanzania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Tanzania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Tanzania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Tanzania\"}},\"attributes\":{\"alt\":\"TEM Lab-Tanzania\",\"title\":\"TEM Lab-Tanzania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\">(Left to right: Blake, Dawson, Fatma Muzo- Solar Sister Tanzania Country Director, Neha, Tash, Solar Sister Entrepreneur, Caleb)</p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p>Regular power outages, infrequent hot water and irregular internet connectivity have been challenging at times but we are navigating our way through. &nbsp;The team has been eating very well.</p>\r\n<p>We had a busy week defining the scope of our project as we learned how best we could build capacity at Solar Sister.&nbsp; We are excited to get out into rural Tanzania to meet many female entrepreneurs and business development associates working to provide solar lighting to homes in Tanzania in the coming weeks.&nbsp;&nbsp; Our upcoming field visits will give us a full view of Solar Sister’s work in Tanzania from many points of view.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 480
+    height: 480
+    target_type: file
+    target_uuid: 628b8b3c-db85-4508-877e-66a97f051332
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.628b8b3c-db85-4508-877e-66a97f051332
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

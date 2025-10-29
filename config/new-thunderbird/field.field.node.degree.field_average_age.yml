@@ -1,0 +1,23 @@
+uuid: 0ebd34d8-b477-4b25-94ee-6d222e806eb5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_average_age
+    - node.type.degree
+id: node.degree.field_average_age
+field_name: field_average_age
+entity_type: node
+bundle: degree
+label: 'Average Age'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

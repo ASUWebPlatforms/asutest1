@@ -1,0 +1,17 @@
+uuid: 396d6725-166a-48a0-a47b-3fa0ceac79e4
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: gallery_lg
+label: 'Gallery lg (1200x570)'
+effects:
+  c5d2d54e-c52b-4c6d-9a45-3a284dd20ef4:
+    uuid: c5d2d54e-c52b-4c6d-9a45-3a284dd20ef4
+    id: focal_point_scale_and_crop
+    weight: 2
+    data:
+      width: 1200
+      height: 570
+      crop_type: focal_point

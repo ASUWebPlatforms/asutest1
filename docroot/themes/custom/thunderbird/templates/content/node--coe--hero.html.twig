@@ -1,0 +1,55 @@
+{#
+/**
+ * @file
+ * Template for a Hero display of a Node.
+ */
+#}
+{% set vertical_stripes = content.field_vertical_stripes[0]['#markup']  %}
+{% if vertical_stripes != 'On'%}  
+  {% set vertical_stripes_switch = 'hero-wrapper-stripes' %}
+{% endif %}
+{% set content_background = content.field_content_background[0]['#markup']  %}
+{% if content_background != 'On' %}  
+  {% set content_background_switch = 'content-background' %}
+{% endif %}
+{% set hero_header = content.field_hero_header|render|striptags|trim %}
+{% set classes = [
+  'node',
+  node.isPromoted() ? 'node--promoted',
+  node.isSticky() ? 'node--sticky',
+  not node.isPublished() ? 'node--unpublished',
+  node.bundle|clean_class,
+  node.bundle|clean_class ~ '--' ~ view_mode|clean_class,
+  'block',
+  'block-' ~ configuration.provider|clean_class,
+  'block-' ~ plugin_id|clean_class,
+  'hero-wrapper',
+  vertical_stripes_switch,
+  content_background_switch,
+] %}
+{% set hero_attribute = create_attribute() %}
+{% set hero_classes = [
+  'hero',
+  'size-md',
+  'justify-content-start',
+  'align-items-start',
+  'hero-default',
+  'has-logo',
+  'container',
+] %}
+
+<div{{ attributes.addClass(classes) }}>
+  <div{{ hero_attribute.addClass(hero_classes) }}>
+    <img class="logo" alt="global + digital logo" src="/themes/custom/thunderbird/assets/img/logo-global-digital.svg">
+    
+    <div class="content">
+      <h1{{ title_attributes.addClass('heading') }}>
+        {% if hero_header is not empty %}<strong class="subheading">{{ hero_header }}</strong>{% endif %}
+        {{ node.label|render|striptags|trim }}
+      </h1>
+    </div>
+  </div>
+  <div class="coe-locations">
+    {{ content.field_coe_location }}
+  </div>
+</div>

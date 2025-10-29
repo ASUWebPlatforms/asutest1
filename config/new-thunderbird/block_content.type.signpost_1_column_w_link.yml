@@ -1,0 +1,8 @@
+uuid: bf5390d6-b4c9-4599-8868-baac3654a4d0
+langcode: en
+status: true
+dependencies: {  }
+id: signpost_1_column_w_link
+label: 'Signpost 1 Column w/ link'
+revision: 0
+description: ''

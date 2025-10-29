@@ -1,0 +1,29 @@
+uuid: 1d6d4286-7f97-4b93-9b09-5c7af1e25398
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_certificates
+    - node.type.certificate
+    - node.type.person_bio
+id: node.person_bio.field_certificates
+field_name: field_certificates
+entity_type: node
+bundle: person_bio
+label: Certificates
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      certificate: certificate
+    sort:
+      field: title
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

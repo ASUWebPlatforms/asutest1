@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 7e6fc4f1-319e-403f-8429-dce288ecd593
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-10-18T15:51:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'California Opens The Boardroom Doors to Women'
+created:
+  -
+    value: '2018-10-08T16:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-10-18T15:51:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/california-opens-boardroom-doors-women
+body:
+  -
+    value: "<p class=\"graf graf--p graf-after--h3\">[[{\"type\":\"media\",\"fid\":\"66048\",\"view_mode\":\"default\",\"link_text\":null,\"fields\":{},\"field_deltas\":{\"1\":{}},\"attributes\":{\"alt\":\"California Opens The Boardroom Doors to Women\",\"title\":\"California Opens The Boardroom Doors to Women\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--h3\">In 1972, Katherine Graham was named the first female CEO and a board director of the Washington Post, then a Fortune 500 company. Boardrooms have been promising to vastly increase the number of women board directors ever since.</p>\r\n<p class=\"graf graf--p graf-after--p\">46 years later, the time for reckoning has come in California — and the clock has started ticking in boardrooms across the country. It should be viewed less as an edict than a ‘favor’ to the boardroom and the C suite. The right approach is to see Brown’s two and three woman edict as the bare minimum, and a sign of a great board is the ability to beat his deadline.</p>\r\n<h3 class=\"graf graf--h4 graf-after--p\">Now It’s The&nbsp;Law</h3>\r\n<p class=\"graf graf--p graf-after--h4\">Governor Jerry Brown signed a bill into law that “mandates at least two female directors by the end of 2021 if the company has five directors and three if the company has six or more directors. Violators face fines of at least $100,000 and up to $300,000 for multiple violations of the statute.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Some see the California law as a voter appeal to women in general. It is no Johnny-come-lately political meme. It has been in the works for years. The bill passed the legislature over a month ago. But the warning has been a long time coming: board directors — relying on customary privileges like ‘choosing our own’ is going to be a relic of the past. Should boards refuse to put gender equality on the agenda until achieved, they can expect to be attacked, insulted, and boycotted.</p>\r\n<h3 class=\"graf graf--h4 graf-after--p\">The Headstart</h3>\r\n<p class=\"graf graf--p graf-after--h4\">According to the 2017 Spencer Stuart Board Index,&nbsp;…women make up 22% of all directors, a one percent increase from the prior year. Minority directors represent 17% of directors at the top 200 S&amp;P 500 companies. Notably, 52% of S&amp;P 500 companies added one new independent director and women or minorities make up more than half of those first-time directors. Most boards have two women directors, and about 27% of boards have three, while four boards have none.</p>\r\n<p class=\"graf graf--p graf-after--p\">With board size limited in most cases to an average of 11 members with one per year on average retiring, it does not take a polymath to figure that fewer than 350 or so new director positions open up each year. If just half of them go to women, Elon Musk will be holding a board meeting on Mars before we have achieved gender equality in on Earth.</p>\r\n<p class=\"graf graf--p graf-after--p\">Boards should be thanking Governor Brown for the headstart he has given them to get their boardrooms ready for inspection.</p>\r\n<blockquote>“Insanity is doing the same thing over and over again and expecting different results.” — Albert&nbsp;Einstein</blockquote>\r\n<p class=\"graf graf--p graf-after--pullquote\">We should not trivialize the problem. It is more than a local gender issue. Boards are mostly compliant (only four of 500 do not have women directors) if the bare minimum is the threshold, but society isn’t buying the math anymore. Change is demanded now and ironically, it will begin with the most metric driven companies in the world that also happen to be in California, Silicon Valley hi-tech.</p>\r\n<h3 class=\"graf graf--h4 graf-after--p\">Google Google’s&nbsp;Board</h3>\r\n<p class=\"graf graf--p graf-after--h4\">The search engine giant isn’t reticent about diversity, especially on the engineering floor. Higher up, on billionaires row, the male status quo is safe. That is why, 19 years after the company was founded, Google’s board is 82% male according to Bloomberg. To put the company’s leadership into perspective, the executive committee is a male trio, and the four senior officers make a male quartet.</p>\r\n<p class=\"graf graf--p graf-after--p\">In the Google orchestra, women play second fiddle.</p>\r\n<h3 class=\"graf graf--h4 graf-after--p\">Facebook Prefers Men’s Faces in the Boardroom</h3>\r\n<p class=\"graf graf--p graf-after--h4\">When the company went public in 2012, angry protesters decried the company’s lack of women on the board. Mark Zuckerberg soon announced Sheryl Sandberg, a stunningly qualified woman, would be its first and only female. But why did it take four years and why did he choose a subordinate whose salary he pays, when he could have also added an independent female director? (Regulation classifies employees as non-independent directors who may not vote on major issues)</p>\r\n<h3 class=\"graf graf--h4 graf-after--p\">Tsunami, Not a&nbsp;Wave</h3>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--h4\">“Given all the special privileges that corporations have enjoyed for so long, it’s high time corporate boards include the people who constitute more than half the ‘persons’ in America,” California Governor Jerry Brown said in a statement announcing the bill’s signing.</p>\r\n<p class=\"graf graf--p graf-after--p\">Every board is different in its way. Each will find a solution to diversity that works for its market, the company culture, and the times. Companies that understand the world are making inroads at this moment to change board composition. They know that making decisions in ones and twos only invites more scrutiny and constant monitoring by activists and the media. So why not achieve board equality within one year? Thereby standing out among the peer group and letting a proactive approach resonate around the country?</p>\r\n<h3 class=\"graf graf--h4 graf-after--p\">The One Year&nbsp;Approach</h3>\r\n<p class=\"graf graf--p graf-after--h4\">The problem is multi-factor, there is no one-step solution to the problem, and the prescription needs to be bold and straightforward.</p>\r\n<p class=\"graf graf--p graf-after--p\">Start with an extensive database called the world.</p>\r\n<p class=\"graf graf--p graf-after--p\">— First, prepare to enlarge the board roster so that as many as five or six new directors will be recruited.</p>\r\n<p class=\"graf graf--p graf-after--p\">— Every director has the assignment to canvass the globe for real diversity.</p>\r\n<p class=\"graf graf--p graf-after--p\">— Set up a board training program that is one part Navy Seal and one part academic rigor. Make it last over the course of a year.</p>\r\n<p class=\"graf graf--p graf-after--p\">— Reach into regions far away from home like Africa, Russia, China, and South America for true global diversity. (You could do no better than start with Thunderbird’s alums, representing all ethnic minorities and genders, with over 50,000 spread across the globe).</p>\r\n<p class=\"graf graf--p graf-after--p\">— Directors who think differently react differently and can be the dividing line between success and failure.</p>\r\n<p class=\"graf graf--p graf-after--p\">Alfred Sloane, the founder of General Motors, once dismissed his board because everyone agreed. He asked them to return once they were able to debate. The imperial CEO is a relic of the past, and groupthink has been behind every disaster that plagued the modern business world. Boardrooms will find more diversity outweighs any burdens by providing a set of views that will be better at dealing with risks. We should embrace it.</p>\r\n<blockquote>“I believe in the notion that great companies will stand among humankind’s noblest inventions.” — Peter&nbsp;Drucker</blockquote>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><strong><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i></strong></p>\r\n<p><strong>Author’s Bio</strong></p>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p>Read more from Jeff:</p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/stop-apologizing-8-social-media-rules\">“I’m Sorry I Tweeted About Politics” — 8 Rules to Stop Saying This</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/starbucks-responds-charges-racism-apology\">Starbucks Responds To Charges of Racism With An Apology</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/quote-trump-misquote-him\">To Quote Trump is to Misquote Him</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/amazon-inspires-comeback-in-heartland\">Amazon Inspires a Comeback in The Heartland</a></li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: "In 1972, Katherine Graham was named the first female CEO and a board director of the Washington Post, then a Fortune 500 company. Boardrooms have been promising to vastly increase the number of women board directors ever since.\r\n\r\n46 years later, the time for reckoning has come in California — and the clock has started ticking in boardrooms across the country. It should be viewed less as an edict than a ‘favor’ to the boardroom and the C suite. The right approach is to see Brown’s two and three woman edict as the bare minimum, and a sign of a great board is the ability to beat his deadline."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1279
+    target_type: file
+    target_uuid: cf961c05-cc95-4f1a-9a39-5c8fd8b97e90
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.cf961c05-cc95-4f1a-9a39-5c8fd8b97e90
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

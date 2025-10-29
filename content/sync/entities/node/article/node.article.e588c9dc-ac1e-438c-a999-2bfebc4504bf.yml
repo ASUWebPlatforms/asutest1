@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: e588c9dc-ac1e-438c-a999-2bfebc4504bf
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-16T20:57:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+title:
+  -
+    value: 'The Best Questions to Ask During a Job Interview'
+created:
+  -
+    value: '2017-02-28T01:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-16T20:57:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/the-best-questions-to-ask-during-a-job-interview
+body:
+  -
+    value: "<p><span style=\"color: #000000;\">[[{\"fid\":\"4545\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Best interview questions\",\"field_file_image_title_text[und][0][value]\":\"Best interview questions\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Best interview questions\",\"title\":\"Best interview questions\",\"height\":\"258\",\"width\":\"258\",\"style\":\"margin: 7px; float: right;\",\"class\":\"panopoly-image-original media-element file-default\"}}]]I once wrote about questions that YOU ask during an interview that sabotage your chances of winning the job.</span></p>\r\n<p><span style=\"color: #000000;\">The big mistakes include asking about pay, asking about training programs, asking questions that you can easily find on the Internet, and not coming prepared to ask questions.</span></p>\r\n<p><span style=\"color: #000000;\">Now I want to give you some of my favorite questions for a prospect to ask during an interview. Here they are:</span></p>\r\n<ul>\r\n<li><span style=\"color: #000000; background-color: transparent;\">I’m very self-motivated. How will you measure my success in this position after one full year?</span></li>\r\n<li><span style=\"color: #000000; background-color: transparent;\">The first 30 days are very important for me to meet as many team members as possible. How will you recommend I do that?</span></li>\r\n<li><span style=\"color: #000000; background-color: transparent;\">What are the Top 3 skills or experiences you are looking for that may not be mentioned in the job description?</span></li>\r\n<li><span style=\"color: #000000; background-color: transparent;\">Of all of the people who have worked for you, what are the characteristics of those who have stood out as great performers?</span></li>\r\n<li><span style=\"color: #000000; background-color: transparent;\">I have to admit I’m a perfectionist in some areas. What are the aspects of this position that absolutely require precision and attention to detail?</span></li>\r\n<li><span style=\"color: #000000; background-color: transparent;\">Of all of the criteria you have outlined for this position, what are the Top 3 in stack rank order?</span></li>\r\n<li><span style=\"color: #000000; background-color: transparent;\">The position we are discussing is something I am very excited about. Can you give me feedback on how I am meeting your qualifications and if I will proceed to the next level of the hiring process? (This is called “going for the close”</span><span style=\"font-family: Helvetica;\"> </span><span style=\"color: #000000; background-color: transparent;\">or “asking for the order”</span><span style=\"font-family: Helvetica;\"> </span><span style=\"color: #000000; background-color: transparent;\">in sales.)</span></li>\r\n<li><span style=\"color: #000000; background-color: transparent;\">As an experienced hiring manager and interviewer, I am impressed when a candidate brings out a piece of paper with their questions written out. Obviously, they are prepared, thoughtful and thorough. It’s even better when they write down the answers under each question!</span></li>\r\n</ul>\r\n<p><span style=\"color: #000000;\">Now that’s the type of employee I need on my team. What a great example showing how that person will prepare for an important meeting.</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1732
+    height: 1732
+    target_type: file
+    target_uuid: a62fb9e6-c62a-434e-b53c-da591c843820
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1
+    file:
+      - file.image.a62fb9e6-c62a-434e-b53c-da591c843820
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

@@ -1,0 +1,372 @@
+uuid: e964ff1b-fc99-42cd-ad0d-59d0f524efb5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.life_long_learning.body
+    - field.field.node.life_long_learning.field_area
+    - field.field.node.life_long_learning.field_certificate_duration
+    - field.field.node.life_long_learning.field_certificate_fees
+    - field.field.node.life_long_learning.field_certificate_of_completion
+    - field.field.node.life_long_learning.field_certificate_tags
+    - field.field.node.life_long_learning.field_certificate_type
+    - field.field.node.life_long_learning.field_class_location
+    - field.field.node.life_long_learning.field_coe_location
+    - field.field.node.life_long_learning.field_content_background
+    - field.field.node.life_long_learning.field_cta_button_color
+    - field.field.node.life_long_learning.field_cta_button_label
+    - field.field.node.life_long_learning.field_cta_button_text
+    - field.field.node.life_long_learning.field_domain_access
+    - field.field.node.life_long_learning.field_domain_all_affiliates
+    - field.field.node.life_long_learning.field_header_alignment
+    - field.field.node.life_long_learning.field_image
+    - field.field.node.life_long_learning.field_ll_categories
+    - field.field.node.life_long_learning.field_meta_tags
+    - field.field.node.life_long_learning.field_regions
+    - field.field.node.life_long_learning.field_remove_link
+    - field.field.node.life_long_learning.field_school_term
+    - field.field.node.life_long_learning.field_solutions
+    - field.field.node.life_long_learning.field_topics
+    - field.field.node.life_long_learning.field_vertical_stripes
+    - field.field.node.life_long_learning.layout_builder__layout
+    - field.field.node.life_long_learning.layout_builder__translation
+    - node.type.life_long_learning
+  module:
+    - ctools
+    - layout_builder
+    - layout_builder_restrictions
+    - layout_discovery
+    - metatag
+    - options
+    - text
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: true
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: Hero
+          context_mapping: {  }
+          layout_builder_styles_style: ''
+        components:
+          -
+            uuid: 7b3ff2df-9726-490e-8857-1816e213a06b
+            region: content
+            configuration:
+              id: 'entity_view:node'
+              label: 'Entity view (Content)'
+              label_display: '0'
+              provider: ctools
+              view_mode: hero
+              context_mapping:
+                entity: layout_builder.entity
+            weight: 0
+            additional: {  }
+          -
+            uuid: 7617e75d-2de3-49e1-a992-b54b4d1fb4e2
+            region: content
+            configuration:
+              id: 'field_block:node:life_long_learning:field_cta_button_text'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: string
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+            weight: 1
+            additional: {  }
+        third_party_settings: {  }
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+        components:
+          -
+            uuid: 3ddf6ed5-d5e1-4e0e-a540-67920c3b7bf9
+            region: content
+            configuration:
+              id: 'extra_field_block:node:life_long_learning:links'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+            weight: 0
+            additional: {  }
+          -
+            uuid: 85548bf3-7017-40ab-b0b3-d487f117a8ac
+            region: content
+            configuration:
+              id: 'field_block:node:life_long_learning:body'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: text_default
+                label: hidden
+                settings: {  }
+                third_party_settings: {  }
+            weight: 1
+            additional: {  }
+          -
+            uuid: 67e865e3-303c-45e8-8da2-259df29d88b2
+            region: content
+            configuration:
+              id: 'field_block:node:life_long_learning:field_meta_tags'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: metatag_empty_formatter
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 10
+            additional: {  }
+        third_party_settings: {  }
+  layout_builder_restrictions:
+    allowed_block_categories: {  }
+    entity_view_mode_restriction:
+      allowed_layouts: {  }
+      denylisted_blocks: {  }
+      allowlisted_blocks:
+        ASU:
+          - webspark_blocks_anchor_menu
+        'Chaos Tools':
+          - 'entity_view:node'
+        'Custom Blocks':
+          - 'dropdown_language:language_interface'
+        'Inline blocks':
+          - 'inline_block:accordion'
+          - 'inline_block:card_selection'
+          - 'inline_block:column_text'
+          - 'inline_block:image_and_text_block'
+          - 'inline_block:signposts'
+          - 'inline_block:signpost_with_modal_links'
+          - 'inline_block:stats_carousel'
+          - 'inline_block:table'
+          - 'inline_block:text_content'
+          - 'inline_block:carousel_video'
+          - 'inline_block:video_gallery'
+        System:
+          - system_breadcrumb_block
+      restricted_categories:
+        - 'ASU Breadcrumb'
+        - 'ASU brand'
+        - 'ASU footer'
+        - 'Content fields'
+        - Devel
+        - Forms
+        - Help
+        - 'Lists (Views)'
+        - Menus
+        - User
+        - 'Webspark blocks'
+        - core
+id: node.life_long_learning.default
+targetEntityType: node
+bundle: life_long_learning
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  field_area:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 124
+    region: content
+  field_certificate_duration:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  field_certificate_fees:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 105
+    region: content
+  field_certificate_of_completion:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  field_certificate_tags:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 116
+    region: content
+  field_certificate_type:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_class_location:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 109
+    region: content
+  field_coe_location:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 108
+    region: content
+  field_content_background:
+    type: boolean
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 112
+    region: content
+  field_cta_button_color:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 120
+    region: content
+  field_cta_button_label:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 121
+    region: content
+  field_cta_button_text:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 125
+    region: content
+  field_header_alignment:
+    type: list_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 106
+    region: content
+  field_image:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 107
+    region: content
+  field_ll_categories:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 118
+    region: content
+  field_meta_tags:
+    type: metatag_empty_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 110
+    region: content
+  field_regions:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 111
+    region: content
+  field_remove_link:
+    type: boolean
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 123
+    region: content
+  field_school_term:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 115
+    region: content
+  field_solutions:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 114
+    region: content
+  field_topics:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 117
+    region: content
+  field_vertical_stripes:
+    type: boolean
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 122
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true
+  search_api_excerpt: true

@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 07f076b6-fc1a-4faa-873b-637784ef0c67
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T22:24:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Destination Marketing: Branding Las Vegas'
+created:
+  -
+    value: '2016-07-26T22:24:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T22:24:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-04-0032
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case presents the marketing and branding efforts of the Las Vegas Convention and Visitors Authority (LVCVA) from 1998 to 2004. During this period, significant changes have taken place with respect to several factors influencing travelers. These include an increase in family vacation, the growth of Las Vegas, and the new types of properties and entertainment options available in the city. The LVCVA developed advertising campaigns taking these changes into consideration. Rationale for the "brand essence" is given and incorporated into the ad campaigns.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-04-0032
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4b6634b6-de9d-463d-9f22-62061d1fd859
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: U.S.
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "This case is appropriate for use in either an undergraduate or graduate marketing management course or in an advertising/promotions course. If used in a marketing management course, it should be used in covering either the branding or advertising portion of the course. If used in an advertising course, it is most appropriate for the strategy development portion of the course. It's appropriate to assign the reading, The Strip Is Back, by Joel Stein and Laura Locke.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.4b6634b6-de9d-463d-9f22-62061d1fd859
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

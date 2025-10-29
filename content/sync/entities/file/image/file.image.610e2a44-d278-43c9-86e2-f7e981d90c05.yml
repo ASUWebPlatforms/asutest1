@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 610e2a44-d278-43c9-86e2-f7e981d90c05
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: a7aac563-891e-4f4c-b422-e50d2195759c
+filename:
+  -
+    value: romania_3_client_city_doctors_online_students.jpg
+uri:
+  -
+    value: 'public://romania_3_client_city_doctors_online_students.jpg'
+    url: /sites/default/files/romania_3_client_city_doctors_online_students.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 112428
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-03-22T21:41:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-22T21:41:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a7aac563-891e-4f4c-b422-e50d2195759c

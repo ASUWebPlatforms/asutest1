@@ -1,0 +1,29 @@
+label: Comenzi
+display:
+  default:
+    display_title: Expert
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Aplică
+          reset_button_label: Resetează
+          exposed_sorts_label: 'Sortare după'
+          sort_asc_label: Ascendent
+          sort_desc_label: Descendent
+      fields:
+        title:
+          label: Titlu
+          separator: ', '
+        unit_price__number:
+          label: 'Preț unitar'
+          separator: ', '
+        quantity:
+          label: Cantitate
+          separator: ', '
+        total_price__number:
+          label: 'Preț total'
+          separator: ', '
+      arguments:
+        order_item_id:
+          exception:
+            title: Toate

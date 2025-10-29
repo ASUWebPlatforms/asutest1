@@ -1,0 +1,18 @@
+uuid: ec760999-31e4-4ce5-9cfa-6471780fd358
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.employee_types
+id: taxonomy_term.employee_types.name
+field_name: name
+entity_type: taxonomy_term
+bundle: employee_types
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,18 @@
+uuid: a4988fff-88a3-4f99-87b7-26014c069aad
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'Thunderportal Post'
+type: portal_post
+description: 'Thunderportal tiles pages'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

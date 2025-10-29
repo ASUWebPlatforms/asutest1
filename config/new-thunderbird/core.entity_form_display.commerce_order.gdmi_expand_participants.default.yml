@@ -1,0 +1,69 @@
+uuid: 682b7603-c5ac-44b7-9154-20db6f53b050
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_order.commerce_order_type.gdmi_expand_participants
+    - field.field.commerce_order.gdmi_expand_participants.field_group
+  module:
+    - commerce_order
+    - inline_entity_form
+id: commerce_order.gdmi_expand_participants.default
+targetEntityType: commerce_order
+bundle: gdmi_expand_participants
+mode: default
+content:
+  adjustments:
+    type: commerce_adjustment_default
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  billing_profile:
+    type: commerce_billing_profile
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  cart:
+    type: boolean_checkbox
+    weight: 20
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_group:
+    type: entity_reference_autocomplete
+    weight: 21
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  order_items:
+    type: inline_entity_form_complex
+    weight: 0
+    region: content
+    settings:
+      form_mode: default
+      override_labels: true
+      label_singular: 'order item'
+      label_plural: 'order items'
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: delete
+    third_party_settings: {  }
+hidden:
+  ip_address: true
+  mail: true
+  order_number: true
+  state: true
+  store_id: true
+  uid: true

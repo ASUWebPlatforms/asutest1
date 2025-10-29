@@ -1,0 +1,18 @@
+uuid: 3c2807a4-e00f-4371-a76d-12ba318f16c5
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.knowledge_network_tags
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: taxonomy_term.knowledge_network_tags
+target_entity_type_id: taxonomy_term
+target_bundle: knowledge_network_tags
+default_langcode: site_default
+language_alterable: false

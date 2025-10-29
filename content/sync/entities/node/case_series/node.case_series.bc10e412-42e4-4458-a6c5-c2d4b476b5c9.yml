@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: bc10e412-42e4-4458-a6c5-c2d4b476b5c9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T17:52:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Tektronix C'
+created:
+  -
+    value: '2016-07-27T17:52:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T17:52:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-02-0002
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>In mid-1999 Tektronix, Inc. (Tek) implemented a divestment strategy designed to focus the remaining Tek activities on its Measuring Business Division (MBD). This was its original line of Business but Tek had expanded into a successful Color Printer and Imaging division (CPID) and a Video and Networking Division. The case is set in October 1999. Tek has already sold off its Video and Networking Division to a private investment group. On September 22, 1999 Tek announced that it had agreed to sell its CPID activities to Xerox Corporation for $950 million in cash. The deal was expected to close in sixty days but would need regulatory approvals. Jerry Davies, Tek''s Treasurer, and Randahl Finnessy, Worldwide Cash manager, needed to make some urgent decisions about Tek''s foreign exchange risk management strategy.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-02-0002
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: dc19f815-f83d-4068-8b28-5e0287cc786e
+field_case_series_year:
+  -
+    value: '2002-01-01'
+field_case_setting:
+  -
+    value: US/Global
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 324eb625-bcdb-4b65-9d24-8d0fb84d2493
+field_teaching:
+  -
+    value: "The overall problem at Tek's Treasury level was that the divestment strategy would result in a new foreign exchange risk profile for Tek that differed from the pre-divestment combined profile. What strategies and instruments should be used in managing the new operating, transaction, and accounting exposures? What instruments would still be appropriate? Tek had previously used matching cash follows, forward contracts, foreign currency options, a risk sharing agreement, a multilateral netting program, and a re-invoicing center. Since Tek would shrink in size and change the location and intensity of foreign exchange risks, some of these instruments might be ineffective due to loss of economies of scale and other synergies. The pattern of cash flows would change. Since the sale of CPID to Xerox was not yet finalized while awaiting regulatory approvals, it would also be necessary to design a transition strategy that could be modified depending on approval results.\r\n\r\nThe most important foreign risk for Tek was its operating exposure. Manufacturing mainly in Oregon but selling abroad in local currencies created structural and transactional exposures as illustrated in Case Exhibit 5. This resulted in regular annual foreign exchange losses despite efficient risk management programs. The location of manufacturing and sales was beyond the control of Tek's Treasury, but the Treasury still needed to design strategies to minimize the resulting negative foreign exchange effects.\r\n\r\nAt Tek's corporate lever other problems stemming from divestment existed. Although such problems were not really Treasury's responsibility, Treasury would be asked for input. As far as this case is concerned the other problems lead to dead ends. Relevant case material was not yet available. The non-foreign exchange problems included the questions of what to do with the $950 million cash to be received from Xerox and the effects of divestment on other links in Tek's value chain."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.dc19f815-f83d-4068-8b28-5e0287cc786e
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.324eb625-bcdb-4b65-9d24-8d0fb84d2493

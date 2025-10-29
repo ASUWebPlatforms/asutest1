@@ -1,0 +1,34 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Фильтрле
+          reset_button_label: Ысыру
+      pager:
+        options:
+          tags:
+            previous: '‹ алдыңғы'
+            next: 'келесі ›'
+            first: "«\_бірінші"
+            last: "соңғы\_»"
+      fields:
+        title:
+          label: Атауы
+        type:
+          label: Тип
+        status:
+          label: Жағдайы
+          settings:
+            format_custom_true: Жарияланған
+        operations:
+          label: Операциялар
+      filters:
+        type:
+          expose:
+            label: Тип
+        title:
+          expose:
+            label: Атауы
+  page_1:
+    display_title: Бет

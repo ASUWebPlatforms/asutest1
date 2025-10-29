@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 04e777d5-2518-44b5-b1d1-c67ccae12a0a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T19:47:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Valuation of an Increased Capacity Project Using Real Option Analysis: The Case of Savola Sime Egypt'
+created:
+  -
+    value: '2016-07-26T19:47:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T19:47:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-05-0018
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case presents the decision-making process involved when Savola Sime, a company producing edible oils and its derivatives, analyzes a project to increase their plant’s production capacity to meet increasing demand. In the case, students are presented with a project that had it been only analyzed traditionally using basic capital budgeting methods, would have been totally rejected by the company. However, a presentation of the possible real options embedded in the project and how they can alter the project’s value allows students to explore the realm of real options analysis by using option valuation techniques to incorporate these real options and obtain possible favorable values for the project.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-05-0018
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: cabed664-62a9-40eb-9b40-a8920e8b5f95
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: 'Cairo, Egypt'
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: "The objective of the Savola Sime Egypt case is for students to identify with the real options technique for analysis and evaluation of capital budgeting projects. The case can be used for an option and derivatives class or an advanced corporate finance course. Information is presented in the case to identify embedded options in Savola’s new capacity increase project that could significantly increase the value of the project.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.cabed664-62a9-40eb-9b40-a8920e8b5f95
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

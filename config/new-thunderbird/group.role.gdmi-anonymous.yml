@@ -1,0 +1,14 @@
+uuid: fa56e9f8-0ea4-4886-a100-5fb36321eb04
+langcode: en
+status: true
+dependencies:
+  config:
+    - group.type.gdmi
+id: gdmi-anonymous
+label: Anonymous
+weight: -102
+internal: true
+audience: anonymous
+group_type: gdmi
+permissions_ui: true
+permissions: {  }

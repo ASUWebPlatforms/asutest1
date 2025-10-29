@@ -1,0 +1,18 @@
+uuid: 645c70f2-b696-4ddf-8928-c5e3b510e258
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.insight_types
+id: taxonomy_term.insight_types.metatag
+field_name: metatag
+entity_type: taxonomy_term
+bundle: insight_types
+label: 'Metatags (Hidden field for JSON support)'
+description: 'The meta tags for the entity.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: map

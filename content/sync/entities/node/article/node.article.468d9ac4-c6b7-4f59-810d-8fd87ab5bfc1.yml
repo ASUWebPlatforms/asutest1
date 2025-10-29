@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 468d9ac4-c6b7-4f59-810d-8fd87ab5bfc1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Why your project needs a clear why statement'
+created:
+  -
+    value: '2013-10-17T18:18:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/clear-why-statement
+body:
+  -
+    value: "<div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\r\n<div class=\"field-items\">\r\n<div class=\"field-item even\">\r\n<p>Many teams dive into projects at work without pausing to ask the most basic question: What’s the point? In their rush to do<em>something,</em>&nbsp;they fail to consider if they are doing the right thing for the right reasons. Not being able to articulate the underlying reasons driving a project puts it at risk of losing support before it begins — or&nbsp;later when organizational priorities shift. Decision makers who control resources need justification to fund a project, and a compelling&nbsp;<em>why</em>&nbsp;statement&nbsp;can catch their attention and persuade them to keep listening. We describe the importance of project branding in a previous article,&nbsp;<a href=\"http://sloanreview.mit.edu/article/why-every-project-needs-a-brand-and-how-to-create-one/\" target=\"_blank\">Why Every Project Needs a Brand</a>&nbsp;(<em>MIT Sloan Management Review,</em>&nbsp;Summer 2011). The branding process starts with an effective pitch, which lives or dies with the&nbsp;<em>why</em>&nbsp;statement.</p>\r\n<p>Even if a project stumbles to life without a strong brand, teams that can’t articulate their underlying goals risk moving in the wrong direction or solving the wrong problems. Unfortunately, in our research with several hundred teams in more than 50 organizations around the world, we have discovered a near epidemic of projects lacking compelling&nbsp;<em>why</em>statements.</p>\r\n<p>Developing a clear and succinct description of the reasons driving an initiative might sound simple, but it’s not. Most of the time, a good&nbsp;<em>why</em>&nbsp;statement requires tenacity and even heated debate. Eagerness to leap into action — or to fall back on familiar solutions by default — also can impede the necessary critical thinking. A structured discussion focused on&nbsp;<em>what, where, when</em>&nbsp;and&nbsp;<em>how</em>&nbsp;can speed you along the path to&nbsp;<em>why.</em></p>\r\n<p><strong>What is the problem?</strong>&nbsp;The first step is to drill down to the core business problem driving the project. Initial discussions should be fact based, meaning participants should not suggest solutions, speculate about causes or cast blame on individuals. The focus also should remain on the customers and what they really care about.</p>\r\n<p><strong>Where do we see it?&nbsp;</strong>This question can refer to a physical location, market segment, product category, a machine, or a process step. Specifying the elements of location places practical boundaries on the problem to be addressed.</p>\r\n<p><strong>When does it occur or when did it start?&nbsp;</strong>Answering questions of timing can provide guidance regarding where to look for a cause. Project managers also should consider whether the problem is likely to persist if no action is taken.</p>\r\n<p><strong>How big is this problem?</strong>&nbsp;Magnitude is the fourth dimension of an effective why statement and speaks to the significance, scale and urgency of the issue.</p>\r\n<p>Exploring the four dimensions of a compelling&nbsp;<em>why</em>&nbsp;statement can lead to surprising discoveries about a problem’s true causes and the necessary paths to fix it. Teams that skip the most basic question might complete their projects on time and within budget, but what does it matter if they fail to solve the problem that drove the project into existence in the first place? In the words of the late college basketball coach John Wooden: “Never mistake activity for achievement.”</p>\r\n<p><em>The full&nbsp;version of this research first appeared in the fall 2013 issue of MIT Sloan Management Review in an article by the same authors titled&nbsp;<a href=\"http://sloanreview.mit.edu/article/the-question-every-project-team-should-answer/\" target=\"_blank\">The Question Every Project Team Should Answer.</a></em></p>\r\n<p><em><strong>Karen A. Brown, Ph.D.,</strong>&nbsp;is late professor of operations management at Thunderbird School of Global Management.<strong>Nancy Lea Hyer, Ph.D.,</strong>&nbsp;is an associate professor of operations management and Associate Dean of Academic Programs at the Owen Graduate School of Management at Vanderbilt University.&nbsp;<strong><a href=\"/node/160\">Richard Ettenson, Ph.D.,</a></strong>&nbsp; is a Thunderbird professor and the Thelma H. Kieckhefer Research Fellow in Global Brand Marketing. Brown and Hyer are the co-authors of&nbsp;<a href=\"http://www.amazon.com/Managing-Projects-Team-Based-Mcgraw-Hill-Operations/dp/0077356454/ref=sr_1_1?ie=UTF8&amp;qid=1382032904&amp;sr=8-1&amp;keywords=managing+projects\" target=\"_blank\">Managing Projects: A Team-Based Approach</a>&nbsp;(McGraw Hill, 2010).</em></p>\r\n<p><em>&nbsp;</em></p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

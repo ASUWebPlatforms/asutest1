@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: c3357c91-8f28-48ad-a534-9a6bbd210cf1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-06-30T22:30:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Uber Has a Long Road ahead Thanks to the Board of Directors'
+created:
+  -
+    value: '2017-06-30T22:30:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-06-30T22:30:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/uber-has-long-road-ahead-thanks-board-directors
+body:
+  -
+    value: "<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1273px;\" class=\"caption-inner\">[[{\"fid\":\"5821\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Former CEO Travis Kalanick, co-founder of Uber Technologies\",\"field_file_image_title_text[und][0][value]\":\"Former CEO Travis Kalanick, co-founder of Uber Technologies\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Former CEO Travis Kalanick, co-founder of Uber Technologies\",\"title\":\"Former CEO Travis Kalanick, co-founder of Uber Technologies\",\"class\":\"panopoly-image-original media-element file-default\"}}]]\r\n<p style=\"text-align: center;\" class=\"caption-text\">Former CEO Travis Kalanick, co-founder of Uber Technologies</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>\r\n<h3 style=\"text-align: center;\" class=\"graf graf--h4 graf-after--h3 graf--subtitle\"><span class=\"markup--quote markup--h4-quote is-other\" data-creator-ids=\"bd56b52ecbe\">The venture capitalists at Benchmark turned a public relations mess into a succession nightmare. Did they do the right&nbsp;thing?</span></h3>\r\n<p>Welcome to 2017. Thanks to social media, the modern chief executive has to perform a tight rope walk, miming Tony Soprano while impersonating Andy of Mayberry. A boss has to shift operating styles in an instant depending on the spotlight and the circumstances, and more likely, whatever he or she is apologizing for.</p>\r\n<p class=\"graf graf--p graf--hasDropCapModel graf--hasDropCap graf-after--p\"><span class=\"graf-dropCap\">U</span>ber’s founder and former CEO, Travis Kalanick, lived in a governance time warp. When the company ran into a slew of nasty scandals his base of support withered. Employees, drivers, customers, and board of directors suddenly grew short memories. Now they judged his value by the most recent headline. Eventually, he became the face of the company’s problem, the worst outcome of all.</p>\r\n<p class=\"graf graf--p graf--hasDropCapModel graf--hasDropCap graf-after--p\"><span class=\"graf-dropCap\">T</span>he board of directors didn’t have a good handle on things. That is one reason why the company is leaderless and, given the state of things at Uber, may be for months to come. In ancient days, this was called an <em>interregnum</em>, the holding period between kings. These scenarios often ended in disruption of empires such as the Roman or Ottoman or World Wars or both.</p>\r\n<p class=\"graf graf--p graf--hasDropCapModel graf--hasDropCap graf-after--p\"><span class=\"graf-dropCap\">T</span>his is why business leaders must ask the right questions, so like Uber, they can begin to prepare for a long road ahead.</p>\r\n<blockquote>“Our Core Competency Is Knowing We Don’t Know The Future.” — Charlie Munger, partner of Warren&nbsp;Buffett</blockquote>\r\n<h3 class=\"graf graf--h3 graf-after--pullquote\">Uber’s Corporate Governance FAQs</h3>\r\n<p class=\"graf graf--p graf-after--h3\"><strong>Will Sheryl Sandberg become CEO of Uber Technologies? No.</strong> Why would she? What can they give her other than the title? The stars are in line in her current role as Mark Zuckerberg’s #2 and Facebook COO. In five years she could run for President. People love the simplistic narrative of a savior CEO, but just ask Ron Johnson at JC Penney and Marissa Mayer at Yahoo how well that worked out. Uber’s future is uncertain and it is an unhappy culture. Why take that on?</p>\r\n<p class=\"graf graf--p graf-after--figure\"><strong>Was social media the primary factor? Yes. </strong>The new sheriff in town has an iPhone in her holster. Uber’s mistakes were real. But without social media, each problem would be resolved as in the old days, one at a time. Instead, it turned into a swarm. Social media is like a slot machine that addicts ordinary people into making inflammatory statements (the bet) they would never think to voice in public (the blackjack table). Groupthink impels others to follow suit (side bets), media picks up on it (bells ringing), and it turns into public disaster.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Does the leader have to pay for middle management mistakes? Yes. </strong>Mistakes at Volkswagen, British Petroleum, Wells Fargo all demanded the CEO’s head. Perhaps it is society’s way of getting around a lack of criminal convictions for negligence. There is also an anti-authority mania going around. We used to hold CEOs in the same esteem as Generals, now we think of them as we do politicians.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Can a CEO get smarter about these things? Yes. </strong>Jeff Bezos brought in a personal coach to help him with interpersonal skills. Mark Zuckerberg talked up Universal Basic Income at Harvard. Keep smiling.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><strong>Was firing Kalanick a sign of board dysfunction? Yes. </strong>This was a corporate governance failure.</span> The devious way the board removed Kalanick reflected a lack of good relations at the board level, and they resorted to ‘behind his back’ scheming to pull it off. That will leave scars.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Was it a Steve Jobs and John Sculley thing? Yes. </strong>Stubborn, aggressive founders like Jobs and Kalanick require some deference especially when the message is change or leave. What was lacking at the board level was a non-executive chairman with a strong relationship, clout and influence with the CEO.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Was bringing in Eric Holder a good idea? No</strong>. The Holder report (see <a href=\"https://medium.com/iconicvoices/uber-f906d684f6fd\">full report</a>) shames the company when a few bad apples were the problem. It is injustice misapplied. The report itself is a boilerplate rehash of corporate governance recommendations that a legal intern could have written. A total waste of time and money (estimated at $10 million+).</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Did the board make this too public? Yes. </strong>Board directors should refrain from any commentary during a crisis, including the one by <a class=\"markup--anchor markup--p-anchor\" href=\"https://www.nytimes.com/2017/03/21/technology/uber-board-stands-by-travis-kalanick.html\" data-href=\"https://www.nytimes.com/2017/03/21/technology/uber-board-stands-by-travis-kalanick.html\">Arianna Huffington</a>, in a call with reporters, “put very simply, change starts at the top.” When boards go public with dirty laundry it only inflames those with an agenda to change the company for their own purposes.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Did the board have the right directors? No. </strong>Not for what the company became, an sumo sized startup with public company metrics. Given Uber’s size, this was a private company but in the <a class=\"markup--anchor markup--p-anchor\" href=\"http://www.bechtel.com/bechtel/media/html/ARSR2015/annual-report/leadership/\" data-href=\"http://www.bechtel.com/bechtel/media/html/ARSR2015/annual-report/leadership/\">mold of Bechtel</a>. The famed architectural and design firms boasts no fewer than six former global chiefs, all hands on operators, familiar with the problems of large, complex enterprises. The Uber board ran it like a startup. In reality, it was already a very public company.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Was the company too decentralized? No.</strong> According to Jeff Bezos: “A hierarchy isn’t responsive enough to change,” he said. “I’m still trying to get people to do occasionally what I ask. And if I was successful, maybe we wouldn’t have the right kind of company.”</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Were the venture capitalists guilty of hubris? Yes. </strong>In an interview, the Benchmark VCs who fired Kalanick were quoted by Kara Swisher in Recode: <em>“Not to toot our own horn, but being super relevant in your mid-30s and having five-plus years of venture investing is the dream scenario.” </em>Unfortunately, their five-plus years weren’t super relevant to overseeing a company with Uber’s<em> </em>problems.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Were Uber’s problems unique? No.</strong> Call it the law of big numbers. If you run a company like Uber that is growing as fast, you are likely to have a matrix of problem sets. Warren Buffett says Berkshire is as big as the City of Omaha, and there are crimes in Omaha every night. It follows, he points out, that just as surely someone among Berkshire’s 330,000 employees is also doing something wrong.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Should the company have IPO’d sooner? Yes.</strong> If it were a $60 billion public company, the board would be composed of people who were more astute to complexity, social activists, and the issues that dog great companies. They would have changed CEOs earlier or had Kalanick’s back and forced him to change. Being private can delude managers into thinking their behavior is private too.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Was the board guilty of incremental thinking? Yes. </strong>This was a case of repeal and replace (the CEO) gone wrong. Eventually they had to replace but continued attempts at repeal only infected the C suite, lowered morale, and caused a rupture.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Will Kalanick’s exit help? Yes.</strong> But one could also claim that had he stayed around, the news feed would have moved past this and the result would be the same, minus a lot of distraction and volatility.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong>Is Kalanick the comeback kid? Yes. </strong>I’m reaching a bit here with the suggestion he might return as CEO after wandering around the wilderness like Moses. But there are several scenarios that make it realistic: the IPO could force him back or if the organism rejects a weak successor. After all, Kalanick is staying on the board and has voting control.</p>\r\n<p class=\"graf graf--p graf-after--p\">One of the smartest angel investors I know, Zach Coelius, says, “Why not? Anything’s possible in the case of Uber.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Very Jobsian.</p>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1273
+    height: 716
+    target_type: file
+    target_uuid: 8b8ff9ca-cf88-48b3-af58-5f2da8a8f30b
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.8b8ff9ca-cf88-48b3-af58-5f2da8a8f30b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

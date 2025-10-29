@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: a77543ec-ab8c-46e3-935f-eac0e75da57a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-13T11:05:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 58ab1a88-1032-44c0-b417-4c3a4775b973
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 58ab1a88-1032-44c0-b417-4c3a4775b973
+title:
+  -
+    value: 'Passion Always Conquers Reason'
+created:
+  -
+    value: '2017-09-08T18:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-13T11:05:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/dont-settle-normal
+body:
+  -
+    value: "<p><strong>TEM Lab - Fall, 2017<br>Romania, Montana<br>Written by Nate Flake</strong></p>\r\n<p>It is week three here in Campulung, Romania and we are just hitting our halfway point with Montana MG. We have made great headway with the client, including wrapping up all of our department interviews to close out the discovery phase of the project. We have met with a lot of different employees and department heads, each of whom have been extremely kind and accommodating to us.</p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1839px;\" class=\"caption-inner\">[[{\"fid\":\"6955\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Going over die drafts with Ioan Koszourus, the head of design</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>We are appreciative of how they took time out of their busy days to answer all of our questions. Today we were also able to hold our midpoint presentation for the owner of Montana and the department heads to make sure we are all on the same page. The next few weeks will be focused on analyzing the data we have collected and creating recommendations that make sense for Montana.</span></p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1394px;\" class=\"caption-inner\">[[{\"fid\":\"6956\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\"><span>Getting ready to start our midpoint project presentation</span></p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>Outside of the office we have been staying busy with trips to Pitesti, the nearest major city, to get our movie theater fix, see the historic city center, and fail miserably in an escape room (to be fair, the theme was “Mission Impossible”). This week Razvan, our liaison, had a birthday so we celebrated at the local pub. </span></p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1849px;\" class=\"caption-inner\">[[{\"fid\":\"6957\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Birthday lunch for Razvan</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>We also visited the remaining churches and monasteries in town, and then balanced it out with a visit to Pub Rock, the only Rock n’ Roll themed bar in Campulung. The owner proudly gave us a tour and showed us the hand painted art on the walls and ceiling, telling us the artist was his long-time friend who normally painted saints and angels on the ceilings of chapels in town. He even had the idea to have him use the same gold leaf paint on the massive Jimi Hendrix mural above the bar that is used on deity in the churches. Sacrilegious? Probably. But none of the customers seemed to mind.</span></p>\r\n[caption align=\"center\"][[{\"fid\":\"6958\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]Saint Jimi[/caption]<p><span>Trying to take advantage of the great weather before it turns into fall, we spent a lot of time outdoors this week. Chris and Saranya woke up at 4 AM to head to the base of Moldoveanu Peak, the highest peak in Romania. Four hours after they started the climb they reached the summit to enjoy 360 degree views of some of the most gorgeous mountains in Europe. It is been said that on clear days you can see the shimmer of the Black Sea from the peak, which is over 300 kilometers away.</span></p>\r\n[caption align=\"center\"][[{\"fid\":\"6959\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]Perfectly candid photo at the top of Moldoveanu Peak. Oh and look at that, the Thunderbird backpack conveniently placed.[/caption]<p><span>Not to miss out on all the fun, I came across a company in Campulung called Marconi-X that offers ATV tours in the mountains above town. I called the number, arranged an evening during the week for our group to come ride, and a few nights later we showed up to their office. That is where we met Razvan and Ioana Marcu, the ambitious, young couple who owned Marconi-X. They were both friendly and spoke English really well, which was refreshing for our group as we are unable to communicate with hardly anybody in town aside from using gestures and speaking English louder as if that would help.</span></p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1200px;\" class=\"caption-inner\">[[{\"fid\":\"6960\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p style=\"text-align: center;\" class=\"caption-text\">Oska (left) and Razvan (right) in front of the new Marconi-X office</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>After loading into the four person ATVs with our GoPros in hand, we cruised through the small streets of the town that eventually turned into dirt roads as we headed up the mountains. Razvan and Ioana led the way in their ATV with our liaison Razvan and a photographer, Oska, riding with them. The roads and scenery were stunning as we took turns driving up the mountain until we reached the peak. We even had to stop to avoid hitting a herd of sheep being watched by shepherds, as in legitimate shepherds with staffs that sleep in the hills with their 6-7 dogs to keep the bears away. Only in Romania.</span></p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1200px;\" class=\"caption-inner\">[[{\"fid\":\"6961\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p style=\"text-align: center;\" class=\"caption-text\">Passing a shepherd with his sheep on the path</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>When we reached the summit and got out to see the view, I grabbed my camera expecting Julie Andrews to walk up the ridge singing a Romanian rendition of “The Hills are Alive”- the view was that good. We stood and chatted to Razvan and Ioana about how they came up with the idea to start Marconi-X over some jelly croissants that they so graciously brought for the group. Razvan told us that both he and Ionna were born and raised in Campulung and even went to school together as kids, although they wouldn’t actually spend time together until much later. Once they graduated high school, they moved to Bucharest to attend college and would stay in Bucharest to start their careers.</span></p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1849px;\" class=\"caption-inner\">[[{\"fid\":\"6962\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">At the first lookout point. Ioana and Razvan are in the turquoise and red jackets</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>After working for different companies and finding himself unhappy no matter how much money he was making, Razvan knew something had to change.That is when he and Ioana started dating and then got married in 2016. With the birth of their daughter they decided to sell their apartment and start a new phase in life by moving home to Campulung to create Marconi-X. This would be good for them and also for their daughter as Ioana explained to us that the city was just “too dirty” and that they wanted their daughter “to be able to breathe clean air”.</span></p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1849px;\" class=\"caption-inner\">[[{\"fid\":\"6963\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Team building at its finest</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>Marconi-X was the perfect business for Razvan and Ioana. Of course it had its risks but for Razvan passion conquered reason in his decision. He had been interested in off-roading from a young age and spent a lot of time exploring the thousands of kilometers of trails in the mountains behind Campulung in the years before opening the business. They purchased the ATVs and full-sized trucks that they offer for tours, along with the office large enough to fit them all. When I asked what Marconi meant, Razvan laughed and said it was a nickname from his buddies in college. Razvan then spent the next two years mastering the trails so he would know which routes would be best to offer his client before opening up shop.</span></p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1849px;\" class=\"caption-inner\">[[{\"fid\":\"6964\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">The stunning view from the summit&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span>We were all impressed with how creative Razvan and Ioana were with this new business venture--from the way they made sure everything ran smoothly, to the professional drone marketing videos done by Oska, the marketing manager. It’s no wonder that they have already been swamped with tour requests when they haven’t even officially opened their new office yet. These guys are the young, innovative types that push the start-up scene in the bigger cities around Europe. Yet they have managed to do it in a small town of 25,000 people where they grew up, which makes it even more impressive. Helmets off to you Mr. and Mrs. Marcu.</span></p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1849px;\" class=\"caption-inner\">[[{\"fid\":\"6967\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Oska took some professional pictures along the way. We like to call this one, \"About to drop the hottest album of 2017\"</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: e054ac28-9c0d-42f1-a17f-9530c2f87ad4
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.58ab1a88-1032-44c0-b417-4c3a4775b973
+    file:
+      - file.image.e054ac28-9c0d-42f1-a17f-9530c2f87ad4
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

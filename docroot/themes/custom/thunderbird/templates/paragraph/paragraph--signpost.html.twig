@@ -1,0 +1,39 @@
+{% if signposts_variation == 'columns-two' %}
+  {% set col_size = 'col-lg-6' %}
+{% elseif signposts_variation == 'columns-three' %}
+  {% set col_size = 'col-lg-4' %}
+{% elseif signposts_variation == 'columns-four' %}
+  {% set col_size = 'col-lg-3' %}
+{% endif %}
+{% set linkType = content.field_signpost_link_type|render|striptags|trim|lower  %}
+<div class="signposts signposts-components signpost-story {{ col_size }}">  
+  <div class="signpost-wrapper">  
+    <div class="signpost-img">
+      {{ content.field_signpost_image }}
+    </div> 
+    <div class="signpost-content">
+      {% if content.field_signpost_title|render|striptags|trim is not empty %}
+        <div class="signpost-header">
+          <h3 class="signpost-title">{{ content.field_signpost_title }}</h3>
+        </div>
+      {% endif %}
+      <div class="signpost-body">
+        <p class="signpost-text">{{ content.field_signpost_body }}</p>
+      </div>
+      <div class="signpost-button {{ linkType }}">
+        {% if linkType == 'cta' %}
+          {% include 'themes/custom/thunderbird/src/components/buttons/button-cta.twig' with {
+            url : content.field_signpost_link['0']['#url'],
+            title: content.field_signpost_link['0']['#title'],
+            use_arrow: content.field_use_arrow_icon['0']['#markup']
+          } %}
+        {% elseif linkType == 'readmore' %}
+            {% include 'themes/custom/thunderbird/src/components/buttons/button-readmore.twig' with {
+              url : content.field_signpost_link['0']['#url'],
+              title: content.field_signpost_link['0']['#title']
+            } %}
+        {% endif %}
+      </div>
+    </div>
+  </div> 
+</div>  

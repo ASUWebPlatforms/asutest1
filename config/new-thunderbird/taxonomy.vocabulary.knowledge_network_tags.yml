@@ -1,0 +1,8 @@
+uuid: 59c5fc63-5efe-4225-8bb4-6640abf73217
+langcode: en
+status: true
+dependencies: {  }
+name: 'Global Insights topics'
+vid: knowledge_network_tags
+description: 'Migrated from old site and used for Insights. Old name: KN tags'
+weight: 0

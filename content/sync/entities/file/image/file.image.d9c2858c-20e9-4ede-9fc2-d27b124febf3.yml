@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: d9c2858c-20e9-4ede-9fc2-d27b124febf3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: pyramid-1626352_640.jpg
+uri:
+  -
+    value: 'public://article/pyramid-1626352_640.jpg'
+    url: /sites/default/files/article/pyramid-1626352_640.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 104335
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-05-15T16:46:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-15T16:46:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

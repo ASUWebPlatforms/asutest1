@@ -1,0 +1,7 @@
+uuid: 76491159-74ac-4136-a78b-7fbdc0ff9c43
+langcode: en
+status: false
+dependencies: {  }
+formId: node_asu_news_form
+captchaType: default
+label: node_asu_news_form

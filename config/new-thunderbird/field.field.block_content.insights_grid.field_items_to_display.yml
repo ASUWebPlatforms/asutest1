@@ -1,0 +1,25 @@
+uuid: 2931525a-3ac4-4a1c-89e5-eb968a5f7826
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.insights_grid
+    - field.storage.block_content.field_items_to_display
+id: block_content.insights_grid.field_items_to_display
+field_name: field_items_to_display
+entity_type: block_content
+bundle: insights_grid
+label: 'Items to display'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 3
+default_value_callback: ''
+settings:
+  min: 1
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

@@ -1,0 +1,41 @@
+uuid: 21a8d113-1988-4e2e-9b21-c8c24cafdc32
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.virtual_tour
+    - field.field.media.image.field_caption
+    - field.field.media.image.field_image_caption
+    - field.field.media.image.field_media_image
+    - image.style.virtual_tour
+    - media.type.image
+  module:
+    - image
+    - layout_builder
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+_core:
+  default_config_hash: 7iQPtqwifpyyE8v9VmSHhB8Gcz6rtFG4kyqJXYElIvs
+id: media.image.virtual_tour
+targetEntityType: media
+bundle: image
+mode: virtual_tour
+content:
+  field_media_image:
+    type: image_url
+    label: hidden
+    settings:
+      image_style: virtual_tour
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  field_caption: true
+  field_image_caption: true
+  langcode: true
+  name: true
+  thumbnail: true
+  uid: true

@@ -1,0 +1,110 @@
+uuid:
+  -
+    value: a865ea38-9039-4b27-a84e-e5aae5e776d7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2020-09-10T22:04:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'A Day In The Life Of A Walmart Manager'
+created:
+  -
+    value: '2020-09-10T21:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-09-10T22:04:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a05-20-0018
+body:
+  -
+    value: '<p>This case provides insights into the job of a manager of a large retail store. John Hernandez is the store manager of a 200,000 square foot Walmart store with 300 associates. As the day progresses John must deal with various issues, including an open door meeting with an employee, shrink and theft protection, change management, and the store’s financial performance.&nbsp; The&nbsp;case is intended for a course on leadership or general management. It can also be a supplemental reading in courses that deal with retail and service management and also in a strategy course that is using a retail case on Walmart or another large retailer.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A05-20-0018
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8c2f2975-188a-4710-b6c2-1839f5f559ae
+  -
+    target_type: taxonomy_term
+    target_uuid: fb21e646-4d63-4339-986d-3a9246575132
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3b125feb-c26c-44bd-9320-26c689610856
+field_case_series_year:
+  -
+    value: '2020-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: 'Field research'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: abd0340a-f228-4f57-89d2-afca7c1a18ef
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: e73e3976-e6dd-4aca-ac80-54c8853bc396
+field_teaching:
+  -
+    value: "The teaching objective of the case is to provide context for discussions of the job of a retail store manager in the highly competitive discount retail sector.\r\nLearning objectives are:\r\n1.\tTo explore the job of a retail store manager by looking at a series of activities in a typical day.\r\n2.\tTo motivate students to take the position of a retail store manager facing a variety of challenges and consider how he or she would handle the challenges. \r\n3.\tAllow students to role play as they consider the daily challenges and decisions that a store manager makes for a large and demanding company like Walmart.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.8c2f2975-188a-4710-b6c2-1839f5f559ae
+      - taxonomy_term.case_series_authors.fb21e646-4d63-4339-986d-3a9246575132
+      - taxonomy_term.case_series_industry.3b125feb-c26c-44bd-9320-26c689610856
+      - taxonomy_term.case_series_categories.abd0340a-f228-4f57-89d2-afca7c1a18ef
+      - taxonomy_term.case_series_fields.e73e3976-e6dd-4aca-ac80-54c8853bc396

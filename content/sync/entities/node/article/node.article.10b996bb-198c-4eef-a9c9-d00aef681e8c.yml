@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 10b996bb-198c-4eef-a9c9-d00aef681e8c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T23:28:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Value Creation: How to Communicate Value'
+created:
+  -
+    value: '2017-03-21T16:18:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T23:28:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/communicate-value
+body:
+  -
+    value: "<p><i>This article is part of a series on Value Creation.&nbsp;</i><i></i></p>\r\n<p>You could build the best mousetrap in the history of the world – one that would deliver unprecedented value to customers – but if you don’t <i>communicate</i> that value, it’s all for naught.</p>\r\n<p>As is the case with actually <i>creating</i> value, <i>communicating</i> it <a href=\"https://thunderbird.asu.edu/knowledge-network/value-creation-all-about-customer\">is all about the customer</a>. “In communication, people often fail to really think it through from the customer’s perspective,” explains <a href=\"/node/2053\">Thunderbird Professor Douglas Olsen</a>. “Thinking about value from the customer’s perspective is essential to communicating in a way that resonates with customers. It’s also essential to mitigating fear and uncertainty.” Both are key in getting people to change from the status quo to the new alternative.</p>\r\n<blockquote>\r\n<p><i>“Thinking about value from the customer’s perspective is essential to effectively communicating value.” – <a href=\"http://ctt.ec/uLise\">Click to tweet</a></i><a href=\"#_msocom_2\"></a></p>\r\n</blockquote>\r\n<p><span style=\"background-color: transparent;\">From the global leader’s perspective, communicating value is often made more difficult by inefficiencies in how information travels through the organization. “One of the issues a lot of high-level managers and executives face is they get out of touch with what the customer wants” says Olsen. “The problem with the vast majority of organizations is that only good news travels up. Critical information that leaders need to know – say, for example, that a product line </span><a href=\"https://thunderbird.asu.edu/knowledge-network/value-creation-all-about-customer\">isn’t resonating</a><span style=\"background-color: transparent;\"> with customers – often doesn’t get to them, which can lead to decision-making that is out of touch.</span></p>\r\n<h3>&nbsp;3 levels of value translation</h3>\r\n<p>Perhaps the most common mistake organizations make when trying to communicate value is conflating features, benefits, and needs. “All three are important to communicate,” Olsen explains. “But features have to be communicated in terms of benefits, which have to be communicated in terms of needs.”</p>\r\n<p>For example: A cellphone might have an 800:1 contrast ratio (feature) which means you can see it more easily in daylight (benefit) which means greater freedom to pursue an active lifestyle (need). Olsen refers to it as the three levels of value translation. “Sometimes, people are able to translate features to benefits to needs on their own,” he says. “But many times, they need your help.”</p>\r\n<div>[[{\"fid\":\"4574\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Value creation\",\"field_file_image_title_text[und][0][value]\":\"Value Creation \"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Value creation\",\"field_file_image_title_text[und][0][value]\":\"Value Creation \"}},\"link_text\":null,\"attributes\":{\"alt\":\"Value creation\",\"title\":\"Value Creation \",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</div>\r\n<div></div>\r\n<div>\r\n<h4><i>Level 1: Features (what it is)</i></h4>\r\n<p>Features are a physical description of the product or service. While not sufficient by themselves, the features of a product or service do serve a purpose – they provide benefits.</p>\r\n<p>[[{\"fid\":\"4575\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Value creation\",\"field_file_image_title_text[und][0][value]\":\"Value creation \"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Value creation\",\"field_file_image_title_text[und][0][value]\":\"Value creation \"}},\"link_text\":null,\"attributes\":{\"alt\":\"Value creation\",\"title\":\"Value creation \",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<h4><i>Level 2: Benefits (what it does)</i></h4>\r\n<p>There are two types of benefits: process benefits and outcome benefits. Process benefits are associated with the use of the product or service. For example, the machine is easy and safe to operate. Outcome benefits are those that a customer realizes from using the product or service. For example, decreased operating costs due to increased productivity.</p>\r\n<p>&nbsp;“Don’t get bogged down in classifying them,” Olsen advises, “but always think about both process and outcome.”</p>\r\n<h4><i>Level 3: Needs (why it’s important)</i></h4>\r\n<p>Marketers sometimes refer to needs as WIIFM – what’s in it for me (the customer). At the end of the day, customers don’t buy one product or service over another (or over nothing) because of features or benefits. They buy because of the needs that product or service will meet in their lives.</p>\r\n<p>While every person’s needs are unique, there are 21 need types that marketers can communicate to:</p>\r\n<span style=\"background-color: transparent;\">1)&nbsp;&nbsp;&nbsp; Physical needs</span><br><span style=\"background-color: transparent;\">2)&nbsp;&nbsp;&nbsp; Self-sufficiency</span><br><span style=\"background-color: transparent;\">3)&nbsp;&nbsp;&nbsp; Optimum health and longevity</span><br><span style=\"background-color: transparent;\">4)&nbsp;&nbsp;&nbsp; Provision of time</span><br><span style=\"background-color: transparent;\">5)&nbsp;&nbsp;&nbsp; Acceptance and inclusion</span><br><span style=\"background-color: transparent;\">6)&nbsp;&nbsp;&nbsp; Emotional relation</span><br><span style=\"background-color: transparent;\">7)&nbsp;&nbsp;&nbsp; Sexual attraction and expression</span><br><span style=\"background-color: transparent;\">8)&nbsp;&nbsp;&nbsp; Strength of family</span><br><span style=\"background-color: transparent;\">9)&nbsp;&nbsp;&nbsp; Structure and order \L</span><br><span style=\"background-color: transparent;\">10) Preparedness and versatility \L</span><br><span style=\"background-color: transparent;\">11) Predictability \L</span><br><span style=\"background-color: transparent;\">12) Availability of choice</span><br><span style=\"background-color: transparent;\">13) Reputation and status</span><br><span style=\"background-color: transparent;\">14) Skill and knowledge acquisition</span><br><span style=\"background-color: transparent;\">15) Power and efficacy</span><br><span style=\"background-color: transparent;\">16) Achievement</span><br><span style=\"background-color: transparent;\">17) Aesthetic/sensual enjoyment</span><br><span style=\"background-color: transparent;\">18) Novelty and adventure</span><br><span style=\"background-color: transparent;\">19) Contribution and compassion</span><br><span style=\"background-color: transparent;\">20) Creativity/expression</span><br><span style=\"background-color: transparent;\">21) Spiritual connection</span><br>\r\n<blockquote>\r\n<p><i>“Customers don’t buy because of features or benefits. They buy because of the needs the product or service will meet in their lives.” – <a href=\"http://ctt.ec/67xhX\">Click to tweet</a><a href=\"http://ctt.ec/bO0IT\"></a></i><a href=\"#_msocom_1\"></a></p>\r\n</blockquote>\r\n<h4>5 steps to communicate value</h4>\r\n<p>Communicating value means walking your audience from exposure, to awareness and attention, to understanding, to evaluation and yielding, to retention, and finally to action. This response hierarchy model is the path that takes a person from just learning about your product or service to taking action on it.</p>\r\n<p>The first step, <i>get their attention.</i> Why is what you have to say important to your audience? Are they motivated to process the information? Communicate in terms of the 21 core needs, which you can think of as “buttons” to push.</p>\r\n<p>Second,<i> make them understand.</i> Does your target audience readily understand your message? One of the most common mistakes leaders make is assuming people understand more than they do. Olsen explains, “We all at some point say ‘I feel like anybody could do my job. It’s just everyday stuff.’ Surgeons say that. But the reason it starts to feel like ‘everyday stuff’ is because you do it every day.” Remember that your customers don’t do it every day, so they don’t have the same level of understanding as you do.</p>\r\n<p>Third,<i> be believable.</i> Is your message concrete and credible? Does your audience believe it? Believability is key to getting the person past the point of evaluation and yielding. Fourth,<i> make it memorable </i>(that’s key to retention). Will people remember what you are trying to tell them? Pictures work wonders, as do links to other information.</p>\r\n<p>Finally, <i>call them to action.</i> Is it clear what you want them to do and how/why you want them to do it? Don’t simply present a web page...tell them what the benefit of going there would be (e.g., to save 25% off the next order).</p>\r\n<p><strong>Share your story!</strong></p>\r\n<p>Have you been particularly drawn to a product or service because of the brand’s communication of value? &nbsp;Share your story on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n<p><strong>Learn more</strong></p>\r\n<ul>\r\n<li>Read related posts: <a href=\"https://thunderbird.asu.edu/knowledge-network/value-creation-all-about-customer\"><i>It Is ALL About Your Customer</i></a>, <i><a href=\"https://thunderbird.asu.edu/knowledge-network/5-laws-change\">The 5 Laws of Change</a>&nbsp;</i>and<a href=\"https://thunderbird.asu.edu/knowledge-network/communicate-value\"><i> How to Communicate Value</i></a></li>\r\n</ul>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: 'You could build the best mousetrap in the history of the world – one that would deliver unprecedented value to customers – but if you don’t communicate that value, it’s all for naught.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 810
+    height: 570
+    target_type: file
+    target_uuid: 23c725a8-15cd-47c6-a31c-c85b1c930fc1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.23c725a8-15cd-47c6-a31c-c85b1c930fc1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

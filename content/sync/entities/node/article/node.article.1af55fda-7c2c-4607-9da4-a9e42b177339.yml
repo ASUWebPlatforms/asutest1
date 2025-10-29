@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 1af55fda-7c2c-4607-9da4-a9e42b177339
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:29:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'The Importance of “Currency Awareness” in Corporations'
+created:
+  -
+    value: '2017-08-31T02:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:29:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/importance-currency-awareness-corporations
+body:
+  -
+    value: "<p>[[{\"fid\":\"6065\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\",\"field_file_image_title_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\"},\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\",\"field_file_image_title_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Take Your Business from Idea to Liquidity\",\"title\":\"Take Your Business from Idea to Liquidity\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<p>By Wolfgang Koester '91</p>\r\n<p>Earlier this summer, I had the honor of presenting as part of the <a href=\"https://thunderbird.asu.edu/knowledge-network/entrepreneurial-success-five-stage-process\">Thunderbird/Phoenix Business Journal Summer Global Speaker Series</a>. The audience included graduate students, educators and business leaders. Although it was a varied group, they all shared a common interest: They wanted to understand how global currency volatility impacts multinationals.</p>\r\n<p>Because I am the CEO of a <a href=\"https://www.fireapps.com/\">business</a> dedicated to helping corporate clients better understand and manage foreign currency risk, I am always eager to discuss currency risk and the importance of currency awareness.</p>\r\n<h3>Currency Awareness in Today’s Global Marketplace</h3>\r\n<p><strong>What is currency awareness?</strong></p>\r\n<p>Former CFO of Microsoft and board member on various public and private corporations, <a href=\"https://www.fireapps.com/about/john-connors/\">John Connors</a> once wrote:</p>\r\n<p>“In currency-aware organizations, every business leader understands the impact of currency risk to their functions and uses that information to make better decisions. The board, in conjunction with the CFO, sets the policy by which currency is managed, determining what level of risk is acceptable, and at what level of risk must currency be managed. Treasury, then, is equipped with the tools to manage risk according to that policy, and, as a result, currency-aware organizations aren’t surprised by currency impacts on earnings. They manage the risk such that currency impact is less than $0.01 earnings per share (EPS), no matter which currencies move, in which direction.”</p>\r\n<p>I would take John’s definition one step further and say that in today’s global marketplace, currency awareness is mandatory. Because currency volatility can have such a major impact on a corporation’s earnings before interest, taxes, and amortization (EBITA) or earnings per share (EPS), organizations cannot afford to neglect it.</p>\r\n<p>Yet, for many executives (who often are smart people), it is often a secondary concern.</p>\r\n<h3>How Organizations Become ‘Currency Aware’</h3>\r\n<p>Being currency aware isn't just for an organization's executive team, although that is usually the best place to begin. At <a href=\"https://www.fireapps.com/about/leadership/\">FiREapps</a>, we typically introduce the concept to corporate leaders who then help that awareness permeate through the entire organization. It looks a little like this:</p>\r\n<ol>\r\n<li>Corporate leaders are given actionable steps they can take to reduce the impact foreign exchange (FX) volatility has on their bottom line. This helps them gain full visibility into their exposures.</li>\r\n<li>Next, we work together to identify their largest risks (which may not necessarily be their most significant exposures).</li>\r\n<li>Then, we help them improve the accuracy of their corporate cash flow exposures, which validates the relatively small cost of managing currency risk vs. the more significant risks that come from failing to manage it.</li>\r\n</ol>\r\n<p>By following these steps, key stakeholder become sensitive to the very real impacts FX can have on corporate returns. And, in keeping with John Connor’s definition, this process allows them to manage exposures to the point that the impact to their balance sheets is less than a penny EPS – and impacts to cash flow immaterial (relative to EBIDTA).</p>\r\n<p><strong>How do companies apply this reinforced currency awareness to their day-to-day operation?&nbsp;</strong>By conducting regular meetings with stakeholders across the enterprise, commonly referred to as a “currency roundtable.” Two years ago our Vice President of Strategic Markets, Andy Gage, explained it to <a href=\"http://www.treasuryandrisk.com/2015/06/02/at-the-head-of-the-currency-roundtable?slreturn=1502229421\">Treasury &amp; Risk</a> magazine this way:</p>\r\n<blockquote>\r\n<p>“Any treasurer of a multinational organization who’s looking to make a substantive contribution to the company’s strategic decision-making should invite leaders from across the organization to participate in an ongoing collaborative dialogue about how currency is impacting the company and how best to manage that risk. The currency roundtable needs to include one or more representatives of each of these groups: Board, Supply Chain &amp; Operations, Controller, FP&amp;A, Treasury, C-Suite, Tax and Local Finance.”</p>\r\n</blockquote>\r\n<h3>Avoiding Currency Vulnerability</h3>\r\n<p>This is not to suggest that all companies lack currency awareness. Multinationals such as Pfizer, Google, Accenture and Ericsson have made currency awareness a priority. However, there are still many that would benefit from weaving this awareness into the financial fabric of their company. Often, they rely on manual processes and spreadsheets to manage their FX exposures and treat currency risk as a function of the treasury team. Some of these legacy solutions may have made sense a generation ago, but in today’s environment, failure to leverage accurate, complete and timely data, leaves these organizations vulnerable to global volatility. &nbsp;</p>\r\n<p>Modern SaaS technology and sophisticated analytics continue to evolve, transforming every business – including the business of currency risk management. But utilizing the latest technology is only part of the answer. To have a fully successful FX program, it needs to start with a currency-aware culture.</p>\r\n<h4>About the Author</h4>\r\n<p><em>Wolfgang Koester '91, is the CEO and co-founder of FiREapps. He has more than 30 years of extensive experience in foreign exchange markets and working with numerous global Fortune 1000 companies and government entities. Prior to co-founding FiREapps, he served as President of GFTA Trendanalysen Inc., a quantitative currency management company. Koester has been named as one of the “100 Most Influential People in Finance” by Treasury &amp; Risk magazine and is regularly included in Global Finance’s annual “Who’s Who in Foreign Exchange.” He is a frequent speaker at industry and academic events and his work has appeared in The Economist, The Wall Street Journal, Financial Times, Treasury &amp; Risk and AFP Exchange among other industry publications. He is a regular commentator on CNN, CNBC, Fox Business and Bloomberg.</em></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/you-need-strong-boss-4-tips-get-them-there\">You Need a Strong Boss; 4 Tips to Get Them There.</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/youre-going-get-fired-congratulations\">Fire a misfit, discover a genius</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/women-board-media-problem\">Women In The Boardroom: A Guide for Journalists</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'By Wolgang Koester ''91 | Earlier this summer, I had the honor of presenting as part of the Thunderbird Summer Speaker Series. The audience included graduate students, educators and business leaders. Although it was a varied group, they all shared a common interest: They wanted to understand how global currency volatility impacts multinationals.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 432
+    height: 240
+    target_type: file
+    target_uuid: ccc20895-0124-449c-954c-d920e47871a4
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.ccc20895-0124-449c-954c-d920e47871a4
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f

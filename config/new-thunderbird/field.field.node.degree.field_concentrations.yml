@@ -1,0 +1,29 @@
+uuid: 04a9da3c-1eb9-4359-9a10-1954b0a08199
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_concentrations
+    - node.type.degree
+    - taxonomy.vocabulary.concentrations
+id: node.degree.field_concentrations
+field_name: field_concentrations
+entity_type: node
+bundle: degree
+label: Concentrations
+description: 'Options for Concentration in the Apply Now component.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      concentrations: concentrations
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

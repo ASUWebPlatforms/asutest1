@@ -1,0 +1,110 @@
+uuid:
+  -
+    value: 6f2011a5-fc92-479a-ba2b-0c95a639ca65
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:25:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Pacific LNG Project'
+created:
+  -
+    value: '2016-07-16T01:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:25:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-10-0013
+body:
+  -
+    value: '<p>In December 2003, the Pacific LNG Consortium feared it was nearing an end to its long-term effort to develop Bolivian natural gas for export. Three companies—Repsol YPF (Spain, 37.5%), BG Group (United Kingdom, 37.5%), and Pan-American Energy, a unit of BP (United Kingdom, 25.0%)—comprised the Pacific LNG Consortium. The Consortium’s objective, in short, was to develop Bolivian gas, build a pipeline to the Pacific coast, construct a liquefied natural gas (LNG) liquefaction facility, and export the LNG to California via pipeline from a port in Mexico.</p><p>The project’s economic viability was based on two critical factors: ready access to Bolivian natural gas for at least thirty years, and a long-term sales agreement for the gas. Although Pacific LNG had a memorandum of understanding (MOU) for the contractual sale of the gas, the MOU was about to run out, and the Bolivian government was still debating the political and economic issues related to the export of its most precious natural resource—natural gas. The Consortium needed to make a last-ditch effort to save the project.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-10-0013
+field_case_page_length:
+  -
+    value: '13 Pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2010-01-01'
+field_case_setting:
+  -
+    value: Bolivia
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1859f567-6035-46bd-a7ea-243e41c3ad3c
+  -
+    target_type: taxonomy_term
+    target_uuid: dcccb565-ad4f-4ea8-929f-3dc994f10336
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: b1dfa10e-c273-43b1-b7bb-1cb2deeea74b
+field_teaching:
+  -
+    value: 'This case has been used in both MBA and Corporate Learning programs to examine the complexity of major hydrocarbon development projects in emerging markets. The case allows a wide-ranging discussion and debate over whether one of the world’s poorest countries, Bolivia, should allow the development of its hydrocarbon reserves by foreign investors for export and sale to foreign markets. The case first provides an overview of what a liquefied natural gas (LNG) development project entails, followed by a detailed analysis of the recent and current history of Bolivian politics and the oil and gas sector.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.1859f567-6035-46bd-a7ea-243e41c3ad3c
+      - taxonomy_term.case_series_fields.dcccb565-ad4f-4ea8-929f-3dc994f10336
+      - taxonomy_term.case_series_fields.b1dfa10e-c273-43b1-b7bb-1cb2deeea74b

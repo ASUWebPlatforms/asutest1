@@ -1,0 +1,37 @@
+uuid: eb9a13b4-fdc7-42a0-aaa0-a74965aa6867
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_with_links
+    - field.field.block_content.signpost_with_links.body
+    - field.field.block_content.signpost_with_links.field_anchor_menu_settings
+    - field.field.block_content.signpost_with_links.field_signpost_content
+  module:
+    - entity_reference_revisions
+id: block_content.signpost_with_links.default
+targetEntityType: block_content
+bundle: signpost_with_links
+mode: default
+content:
+  field_anchor_menu_settings:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_signpost_content:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  body: true
+  langcode: true

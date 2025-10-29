@@ -1,0 +1,73 @@
+uuid:
+  -
+    value: 33ea7a1e-b1a8-481a-b263-07865f30c6db
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Project Artemis: Empowering Afghan Businesswomen'
+created:
+  -
+    value: '2016-05-25T19:54:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/project-artemis-empowering-afghan-businesswomen
+body:
+  -
+    value: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci elit. Nunc nec ipsum nec urna mollis molestie a vel odio. In ut venenatis ex. Cras auctor purus vel dolor fermentum sollicitudin. Donec a orci vel enim consequat hendrerit. Nam sit amet quam id eros dictum pharetra ut sed libero.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci elit. Nunc nec ipsum nec urna mollis molestie a vel odio. In ut venenatis ex. Cras auctor purus vel dolor fermentum sollicitudin. Donec a orci vel enim consequat hendrerit. Nam sit amet quam id eros dictum pharetra ut sed libero.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci elit. Nunc nec ipsum nec urna mollis molestie a vel odio. In ut venenatis ex. Cras auctor purus vel dolor fermentum sollicitudin. Donec a orci vel enim consequat hendrerit. Nam sit amet quam id eros dictum pharetra ut sed libero.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci elit. Nunc nec ipsum nec urna mollis molestie a vel odio. In ut venenatis ex. Cras auctor purus vel dolor fermentum sollicitudin. Donec a orci vel enim consequat hendrerit. Nam sit amet quam id eros dictum pharetra ut sed libero.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci elit. Nunc nec ipsum nec urna mollis molestie a vel odio. In ut venenatis ex. Cras auctor purus vel dolor fermentum sollicitudin. Donec a orci vel enim consequat hendrerit. Nam sit amet quam id eros dictum pharetra ut sed libero.</p>'
+    format: basic_html
+    processed: ''
+    summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci elit. Nunc nec ipsum nec urna mollis molestie a vel odio. In ut venenatis ex. Cras auctor purus vel dolor fermentum sollicitudin. Donec a orci vel enim consequat hendrerit. Nam sit amet quam id eros dictum pharetra ut sed libero.'
+    summary_processed: ''
+field_article_image: {  }
+field_article_network: {  }
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 5a34d63c-0aa3-4043-9c13-b2e11dcaed15
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Scope Creep'
+created:
+  -
+    value: '2014-11-18T03:29:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/scope-creep
+body:
+  -
+    value: "<p>A lot of the progress that our team has made on our project thus far is owed to a strong relationship with our client and stakeholders. However, what our team soon realized is that these relationships make the client comfortable with asking the team to take on extra responsibility that does not work toward the objective of the project. This is scope creep. Below are three things that our team has done to effectively manage scope creep, and remain on track for the completion of our project.&nbsp;</p>\r\n<p><em><strong><span>1. Speak with the client as soon as possible</span></strong></em></p>\r\n<p>In the week prior to our arrival in Peru, our team had three conference calls with our clients in Piura. The first call consisted of introductions and was fairly informal. The next two calls drilled more into detail about the objective of the project, and addressed the agenda of our first meeting on-site. This allowed our team to discuss project scope and timelines on the first day that we walked in to the office.</p>\r\n<p><em><strong><span>2. Create a project plan</span></strong></em></p>\r\n<ol></ol>\r\n<p>Our team is lucky to have a certified Project Management Professional (PMP), Giacomo Paccione, who walked us through the creation of a Work Breakdown Structure and a Gantt chart. This allowed us to create a fairly detailed plan as a reference point for our client. When scope creep became an issue, we had these tools to steer us back on course.<span>&nbsp;</span></p>\r\n<p><span>&nbsp;</span><strong><em><span>3. Explain tradeoffs</span></em></strong></p>\r\n<p>&nbsp;It can be very difficult to say no to a client when they make a request, but often times it is necessary. To combat the tendency to appease the client at the risk of sacrificing<img src=\"/sites/default/files/img_1082.jpg\" alt=\"\" width=\"480\" height=\"270\" class=\"Image img__fid__1781 img__view_mode__default\" hspace=\"10\" vspace=\"10\">&nbsp;project objectives, our team has had to constantly communicate with the client. We explain the trade-offs between the objectives, time and cost. We then explain how what we are currently working on is beneficial and necessary.</p>\r\n<p><span>As we enter the third week of our project, staying on track with timelines has become extremely important – each day counts! We are making great progress with the Science, Technology and Innovation plan here in Piura, but we are also constantly in a battle to manage client expectations. It is an interesting balance and one we must strike on a daily basis.</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

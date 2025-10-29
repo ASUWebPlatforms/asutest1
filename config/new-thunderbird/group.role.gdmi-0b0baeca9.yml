@@ -1,0 +1,17 @@
+uuid: ad4a9477-29a7-4981-8df5-28e9c0b38d15
+langcode: en
+status: true
+dependencies:
+  config:
+    - group.type.gdmi
+  enforced:
+    config:
+      - user.role.editor
+id: gdmi-0b0baeca9
+label: Editor
+weight: 4
+internal: true
+audience: outsider
+group_type: gdmi
+permissions_ui: false
+permissions: {  }

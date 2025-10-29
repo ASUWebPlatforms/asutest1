@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 8f468795-c7dc-44f8-a5eb-13ca8adfa664
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: '10 Steps to Halt the Contagion of Workplace Incivility'
+created:
+  -
+    value: '2013-11-22T14:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/workplace-incivility
+body:
+  -
+    value: "<p>Seemingly inconsequential acts of bad behavior can spread through your organization like the flu, taking a financial and emotional toll if left unchecked. My research, based on 14 years of work, shows that 96 percent of employees already have been exposed to the contagion. Nearly half experience workplace incivility at least once per week, and many pass along the effects to others.</p>\r\n<p>Offenses range from ignoring someone in the hallway to texting during meetings. None of these acts appears egregious in isolation, but the cumulative effect can be devastating on individuals, teams and organizations. About 47 percent of targets reduce their time at work, 66 percent intentionally cut back their effort, and 78 percent lose commitment to the organization. Additionally, about one-half of targets consider leaving their jobs, and one in eight actually do. The good news is that companies can reduce their exposure to workplace incivility. Here are 10 steps for proactive leaders:</p>\r\n<p><strong>1. Set clear expectations.</strong>&nbsp;Define incivility, give examples, and then set consequences for people who cross the line.</p>\r\n<p><strong>2. Model civil behavior.</strong>&nbsp;Remember that what you do carries more weight than what you say.</p>\r\n<p><strong>3. Weed out trouble before it comes.</strong>&nbsp;Do not hire people without doing due diligence. Ask for references, and check them.</p>\r\n<p><strong>4. Provide training.</strong>&nbsp;Some people cause offense without intending harm. Do not assume that everyone knows how to be civil.</p>\r\n<p><strong>5. Listen fully.</strong>&nbsp;Incivility complaints may sound trivial or silly when spoken aloud, which is one reason why only 9 percent of targets ever report the problem to human resources or employee assistance programs. If someone comes to you with a complaint, do not brush it aside.</p>\r\n<p><strong>6. Hammer chronic offenders.&nbsp;</strong>Everyone has a bad day now and then. Soft reminders usually work well for occasional offenders. Put your real focus on the troublemakers who show patterns of rudeness.</p>\r\n<p><strong>7. Read the signs.</strong>&nbsp;If nobody wants to work with a certain person, there might be a reason.</p>\r\n<p><strong>8. Don’t excuse powerful offenders.</strong>&nbsp;Apply the same standards to everyone — even superstar salespeople and technological geniuses.</p>\r\n<p><strong>9. Gather data.</strong>&nbsp;Use 360-degree reviews, exit interviews and other techniques to assess your workplace culture. But do not stop there. Many people will not speak up until months or years after they leave an organization.</p>\r\n<p><strong>10. Calculate potential costs.</strong>&nbsp;Money talks in business. People who dismiss incivility as a nonbusiness issue are more likely to listen when you quantify the potential toll (which often exceeds millions of dollars). For a guide on how to do this, read the book I co-authored with Christine Porath, Ph.D.,&nbsp;<a href=\"http://www.amazon.com/The-Cost-Bad-Behavior-Incivility/dp/1591842611/ref=sr_1_1?ie=UTF8&amp;qid=1369253816&amp;sr=8-1&amp;keywords=cost+of+bad+behavior\" target=\"_blank\">The Cost of Bad Behavior: How Incivility Is Damaging Your Business and What to Do About It</a>&nbsp;(Portfolio Hardcover, July 2009), or the article we published in the January/Februrary 2013 issue of&nbsp;<em>Harvard Business Review,</em>&nbsp;<a href=\"http://hbr.org/2013/01/the-price-of-incivility/ar/1\" target=\"_blank\">The Price of Incivility</a>.</p>\r\n<p><em><strong><a href=\"/node/90\">Christine Pearson</a>,&nbsp;</strong>Ph.D., is a professor of global leadership at Thunderbird School of Global Management</em><em>.&nbsp;</em><em>Her research has been cited in more than 500 newspapers and magazines, and has been featured on international radio and television broadcasts.&nbsp;</em><em></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

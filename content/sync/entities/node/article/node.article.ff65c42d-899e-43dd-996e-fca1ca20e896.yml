@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: ff65c42d-899e-43dd-996e-fca1ca20e896
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Business Presentations that Stick'
+created:
+  -
+    value: '2013-08-20T14:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/business-presentations-that-stick
+body:
+  -
+    value: "<p>Don’t take offense, but your audience does not hang on your every word when you deliver a business presentation. Research shows that people’s minds wander about every 22 seconds — no matter how powerful the message. One reason is because people think much faster than you talk, so your message must compete with the mental narratives your listeners create to fill the gaps. This means you cannot expect your audience simply to follow and retain everything you say. You need to actively focus your audience’s listening. Here are three effective ways to make this happen:</p>\r\n<p><strong>Signposting</strong></p>\r\n<p>One way to focus your audience’s listening is through signposting. This means using verbal cues like traffic signs to help your listeners focus on what you are saying and anticipate what is coming next.</p>\r\n<p>Signposting is most effective when combined with schema building, the technique of letting your listeners know up front how many key points your message will include. (Think about it like creating the boxes that your message will fill.) This allows your listeners to keep a mental checklist, noticing and anticipating your transitions from one point to the next. Your signposts — which can be as simple as “one,” “two,” “three” — give people who have mentally wandered a chance to reengage with your message without feeling lost.</p>\r\n<p>Signposting also allows you to create multiple beginnings and endings within your presentation, which is important because audiences tend to remember what they hear or see at the beginning or end of a presentation more than anything that happens in the middle.</p>\r\n<p><strong>Storytelling</strong></p>\r\n<p>Another technique to hold your audience’s attention is motivational storytelling, which works best when it is based on personal experiences. Nearly everyone — from preschool children to adults — will stop to hear a tale of personal triumph in the face of overwhelming obstacles.</p>\r\n<p>Motivational storytellers focus their audience’s attention by defining the story’s underlying values in the beginning. If the point is to illustrate the power perseverance, for example, the storyteller says so. Borrowing a technique from Sophocles and other Classical dramatists, motivational storytellers also start in the middle of the narrative at a pivotal junction, and then provide background information after the audience is hooked. At the same time, they are careful not to give away the ending too soon.</p>\r\n<p>Once the story is finished, effective speakers return to the value that they started with, and draw out the moral or lesson for the audience.</p>\r\n<p><strong>Switching discourse levels</strong></p>\r\n<p>Anyone who has learned a foreign language knows through painful experience that fluency comes in stages. The American Council of Foreign Languages’ Oral Proficiency Interview measures 10 distinct levels of discourse, ranging from “novice low” to “superior.” Language learners reach the superior level when they can explain abstract concepts in prolonged conversations using technical or finely nuanced terminology. If you are a well-educated speaker using your native language, you probably can deliver entire presentations at this level. But that doesn’t mean you should.</p>\r\n<p>Even listeners with full command of a language grow weary if you hit them with relentless doses of superior-level discourse. Effective public speakers give their audiences occasional breaks by switching among the various levels. This gives people time to rest their minds and refocus on what you are saying.</p>\r\n<p>Your audience will never remember everything you say. But you can improve retention if you start with these three techniques.</p>\r\n<p><em><a href=\"/node/109\"><strong>Elizabeth Macdonald</strong></a>&nbsp;is a Director of Business Communication at Thunderbird School of Global Management. She has more than 15 years of experience teaching business communication to U.S. and international managers, including participants in the&nbsp;<a href=\"/node/270\">American Express Leadership Academy at Thunderbird</a>. She is the author of the workbook,&nbsp;<a href=\"http://www.amazon.com/Mastery-Business-Presentations-Immediate-Success/dp/0988801108/ref=sr_1_1?ie=UTF8&amp;qid=1366735387&amp;sr=8-1&amp;keywords=Mastery+of+Business+Presentations+macdonald\" target=\"_blank\">Mastery of Business Presentations</a>&nbsp;(Applied Wisdom Publishing, 2013).</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

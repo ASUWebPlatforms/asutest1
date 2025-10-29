@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 53f1a3fb-735f-42fd-9677-9fd384fe8345
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:01:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'Reputation is Powerful: 3 Insider Tips Your Professional Job Hunt Needs'
+created:
+  -
+    value: '2017-08-14T16:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:01:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/reputation-powerful-3-insider-tips-your-professional-job-hunt-needs
+body:
+  -
+    value: "<p>[[{\"fid\":\"6598\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Prior to the dawn of the communication age, the recruitment industry was a very different place. Recruitment agencies met most candidates face-to-face, and candidates had to deal with a lengthy written registration process. Agents had access to huge databases of potential candidates compiled over several years, and that valuable information made recruitment agencies a powerful tool in the hiring process.</p>\r\n<p>Today, the landscape is quite different. Recruiters have instant access to online databases of open positions and qualified candidates, and sending an application no longer requires a trip to the post office. It’s widely-cited that&nbsp;<a href=\"https://www.fastcompany.com/3052371/a-former-google-recruiter-reveals-the-biggest-resume-mistakes\">hiring managers only look at your resume for 6 seconds</a>before deciding to proceed or discard your application. With the advent of online search engines, employers can now vet candidates in ways other than just their application. With so much information available online, it’s important to know what hiring managers will find when they research you. I spoke to Christian Hamilton, Reputation Specialist at ReputationManagement.com and want to share their insights:</p>\r\n<h3><span>Assess Your Search Results</span></h3>\r\n<p>One of the first things that hiring managers will do while considering you for their company is search for your name in Google. When you start your job search, take a page out of a hiring manager’s book and Google your name and see what comes up in the results. You’ll want to see if the search results for your name display information that will reflect positively on your reputation. Your volunteer work, online portfolio, and your professional network are the sort of things you want recruiters to find.</p>\r\n<p>[[{\"fid\":\"6467\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<h3><span>Diagnose Your Online Reputation</span></h3>\r\n<p>Unfortunately, there may also be information in your search results that gives neither an accurate or fair impression of who you are. Even if the results aren’t outright damaging to your reputation, they might not be exactly what you want people seeing when they search for you. If your results are less-than-favorable, you can begin to take an active role in&nbsp;<a href=\"https://www.reputationmanagement.com/services/individuals/\">managing and protecting your online reputation</a>. If your results are positive, don’t stop there! Continue to build a strong online profile to simplify future job searches.</p>\r\n<h3><span>Develop and Maintain Positive Results</span></h3>\r\n<p>In order to a get the full picture of your online reputation, you’ll need to keep an ongoing look at what’s available about you on Google even after your job search is complete. It’s a good idea to&nbsp;<a href=\"https://www.google.com/alerts\">set up Google Alerts</a>&nbsp;for your name and any terms related to your personal brand so that you can learn about and analyze new results immediately. You should also take a look at Google’s other results – check Images, Videos, News, and Blogs in Google to see what’s returned there. It’s smart to keep an eye out for social media accounts, especially if they’re not already apparent in search results.</p>\r\n<p>Understanding what’s being published about you on a regular basis is the first step to starting a successful job hunt. Once you secure an interview or two, read more expert tips from me on how to&nbsp;<a href=\"http://danamanciagli.com/timing-job-interviews-key-success/\">set your interviews for the best time of day</a>&nbsp;and&nbsp;<a href=\"http://danamanciagli.com/ace-common-curveball-interview-questions/\">ace curveball questions</a>.</p>\r\n<p style=\"text-align: center;\"><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\" style=\"font-size: 1em;\"><i>her website.</i></a></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: e43faa67-aa04-4f6b-982a-68265ca83b61
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.e43faa67-aa04-4f6b-982a-68265ca83b61
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

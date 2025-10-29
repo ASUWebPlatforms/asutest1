@@ -1,0 +1,18 @@
+uuid: 03f6c666-a2d9-4342-ad57-5b70c87a9014
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.blockquote
+id: block_content.blockquote.changed
+field_name: changed
+entity_type: block_content
+bundle: blockquote
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

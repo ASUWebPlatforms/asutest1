@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: c6202974-2fc0-41f1-b9fb-c58a53be189a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T19:41:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Avicular Controls & Pakistan International Airlines'
+created:
+  -
+    value: '2016-07-27T19:41:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T19:41:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-00-0001
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Avicular Controls, a U.S. -based multinational, is trying to finalize a contract with Pakistan International Airlines (PIA). Although the company has a policy of not agreeing to receive payment for services in any currency other than the U.S. dollar, PIA is pressing for payment to be made in Pakistani rupees. The business unit within Avicular, which is negotiating this contract, needs the deal to meet a number of business unit sales and strategic goals. Gabriel Benguela of Avicular is attempting to determine whether this contract is worth the cost and complexity of dealing with the currency exposure, credit exposure, and the individual contract''s impact on the general financial and business goals set for his business unit for the year.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: ' A06-00-0001'
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: Pakistan
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 91ce659e-8464-48f1-8f13-1c03a1f3fdec
+field_teaching:
+  -
+    value: "The objective of this case study is to expose the reader to the complexities of negotiating contracts with enterprises from emerging market countries, which constitute significant currency, credit, and country risks. The complexity of the problem is compounded by the need of the seller to consummate the deal in order to meet business unit sales and strategic targets for the current business year.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.91ce659e-8464-48f1-8f13-1c03a1f3fdec

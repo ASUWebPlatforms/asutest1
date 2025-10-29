@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 5754acb8-f279-498d-8066-f25a871686d4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Study Shows Impact of Negotiation Education'
+created:
+  -
+    value: '2012-12-20T12:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/impact-negotiation-education
+body:
+  -
+    value: "<p>Billions of dollars have been spent on negotiation education since the publication of&nbsp;<a href=\"http://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0140157352\" target=\"_blank\">Getting to Yes</a>&nbsp;in 1981. Schools and other organizations have developed courses, self-assessments and Web-based software to help negotiators get to yes. But few programs have attempted to measure the impact of these efforts. Aside from anecdotal evidence, it has been difficult to determine if negotiation preparation results in any financial gain or operational improvement.</p>\r\n<p>Now Thunderbird School of Global Management has statistical evidence that planning for negotiation improves performance. The results are even more dramatic when one participant uses negotiation planning and management software called ExpertNegotiator. When both sides use the software, the result is a classic win-win scenario. The proverbial pie gets bigger and mutual gains increase by as much as 17 percent.</p>\r\n<p><strong>Quest for good data</strong></p>\r\n<p>For the last two decades, I have been teaching negotiation in an intercultural MBA program at Thunderbird. As an educator, I have explored many different ways to measure whether students could implement what they learned about negotiation best practices.</p>\r\n<p>As the field of negotiation studies has advanced, I have worked with an array of learning tools and techniques to help students increase their understanding of this complex subject. I also have sought out and evaluated a variety of new technologies to determine if they could provide practical ways to help measure and improve the impact of my teaching on negotiation performance.</p>\r\n<p>Because of the difficulty of gathering good data demonstrating the benefits of negotiation education, many researchers have explored other ways to discern how education influences negotiation outcomes. For example, studies have consistently documented how students who believe that negotiation skills can be learned and practiced outperform those who believe these skills are just a “natural” personality trait.</p>\r\n<p>In addition, studies have concluded that superior negotiators are different from average negotiators because of the quality of their planning, social conduct and post-negotiation learning processes. While all of these are valuable findings, they primarily address psychological and procedural issues and do not provide quantifiable data that educators can use to measure and modify their courses in pursuit of the most effective ways to teach negotiation.</p>\r\n<p><strong>Measuring impact</strong></p>\r\n<p>I set out to quantify the benefits of negotiation education by applying a new technology to the old challenges of measuring learning outcomes. My hypothesis was that negotiation planning and management software could improve students’ performance by providing them with a useful strategic planning tool. I designed a study so the performance of students with and without access to ExpertNegotiator could be compared over time.</p>\r\n<p>In the field of negotiation preparation and management software, ExpertNegotiator has been an early technology leader. The software was developed based on the research and experience of&nbsp;<a href=\"http://www.expertnegotiator.com/the-experts/martin-e-latz\" target=\"_blank\">Marty Latz</a>, a Harvard-educated lawyer and expert in the field of negotiation education who has trained more than 60,000 lawyers and business professionals.</p>\r\n<p>His book,&nbsp;<a href=\"http://www.amazon.com/Gain-Edge-Negotiating-What-Want/dp/0312322828?ie=UTF8&amp;s=books&amp;qid=1222365998&amp;sr=8-1\" target=\"_blank\">Gain the Edge! Negotiating to Get What You Want</a>, describes the software’s framework. Put simply, the system provides an efficient way to ensure that negotiators apply the best practices they learn in the classroom. The&nbsp;ExpertNegotiator developers invited Thunderbird faculty members to beta test a 2007 software release. We agreed to use the system in a negotiation simulation exercise to track and test student mastery of the subject matter.</p>\r\n<p>Overall, we used the system in eight MBA negotiation courses. Results were compiled from 250 negotiators participating in a simulation used in the courses at Thunderbird and Nanyang Technological University in Singapore. The study analyzed the results and compared the scores from negotiators using the&nbsp;<a href=\"http://www.expertnegotiator.com/\" target=\"_blank\"></a>ExpertNegotiator to the results from those who did not.</p>\r\n<p><strong>Mutual gains</strong></p>\r\n<p>Starting with my spring 2007 courses, I offered students the option of using ExpertNegotiator in the negotiation simulation. When I compared the baseline negotiation outcomes to the results from students who used ExpertNegotiator, I found that average scores climbed 11.3 percent. I also discovered that, in addition to improved individual results, the combined benefit when both sides used the system resulted in a mutual gain of 10.9 percent on average.</p>\r\n<p>Latz achieved similar results when he ran the experiment in summer 2010 with students in an executive education negotiation course at Nanyang Technological University in Singapore. Using negotiation planning and management software helped students comprehend and apply the theoretical negotiation concepts more effectively in ways that are immediately practical and relevant.</p>\r\n<p><em><strong>Karen Walch, Ph.D.,</strong>&nbsp;is an associate professor and consultant at Thunderbird School of Global Management in Glendale, Arizona. She has an academic background in international negotiation, cultural competencies and global mindset. She has more than 30 years of experience in various business and academic contexts, including insurance, law, tourism, aquaculture, security studies and MBA graduate education. She earned a Ph.D. in International Political Economy and Negotiation at the University of Wisconsin while working in business, political, and legal settings.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

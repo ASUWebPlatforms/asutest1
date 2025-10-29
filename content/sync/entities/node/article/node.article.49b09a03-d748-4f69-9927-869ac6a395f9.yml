@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 49b09a03-d748-4f69-9927-869ac6a395f9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-01-15T16:47:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Innovation: Shaping Executive Education in the 4IR - Part Three'
+created:
+  -
+    value: '2021-01-15T16:37:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-01-15T16:47:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/innovation-shaping-executive-education-in-4ir-part-three
+body:
+  -
+    value: '<p><i>The following is an IEDP article about the virtual&nbsp;UNICON’s Team Development Conference&nbsp;2020 hosted by Thunderbird School of Global Management.&nbsp;<a href="https://www.uniconexed.org/">UNICON</a>&nbsp;is the Consortium for University-based Executive Education. This article is reprinted with permission. &nbsp;The original article can be found&nbsp;<a href="https://www.iedp.com/articles/UNICON-2020-Part-Three">here</a><a href="https://www.iedp.com/articles/UNICON-2020-Part-One">.</a></i></p><p><i>This is Part Three in a four-article series documenting UNICON’s Team Development Conference 2020, with Parts&nbsp;<a href="https://thunderbird.asu.edu/knowledge-network/inclusion-shaping-executive-education-in-4ir-part-one">One</a>,&nbsp;<a href="https://thunderbird.asu.edu/knowledge-network/intelligence-shaping-executive-education-in-4ir-part-two">Two</a>, and&nbsp;<a href="https://thunderbird.asu.edu/knowledge-network/impact-shaping-executive-education-in-4ir-part-four" target="_blank">Four</a>&nbsp;found here.</i></p><hr><p>&nbsp;</p><p>By&nbsp;<span class="program-listing-heading">Daniel Chadwick</span></p><p><span class="program-listing-heading"><span>2020 has been a period of rapid innovation in executive education—characterized by a massive, industry-wide pivot from in-person to virtual learning in the face of Covid-19—and 2021 promises an even greater rate of change.</span><br><br><span>The pandemic has undoubtedly forced the pace, accelerating to ‘warp speed’ many concepts, products, and trends already in play across the learning and development ecosystem, or coming down the pipeline.</span><br><br><span>If the pandemic has been the accelerant of 2020’s rapid innovation, then it is the 4</span><span>th</span><span>&nbsp;Industrial Revolution and the twelve interacting technologies it brings, that provides the fuel for what comes next.</span><br><br><span>Day three of UNICON’s team development conference offers a welcome pause, to reflect and take stock in this moment of great disruption and innovation for the sector. Not only to look at the coming and latest technological innovations, but also at opportunities for pedagogical and business model innovation. At the same time to consider the important social factors associated with what can sometimes feel like dizzying and continuous change for the workforce, and for all of us.</span><br><br><span>A story shared by Lucía Crespo de la Cruz, Programme Director and Faculty at Universitas Telefónica—a corporate university for the telecoms multinational—will be a familiar one for many in the industry, and sets the scene for the day. “We had a fantastically successful product—with a great brand both internally and externally. It was entirely based on an experience, on an emotion,” she begins. “We delivered out of a magnificent campus in Barcelona, in a beautiful setting, surrounded by woods. We brought participants there for a one-week immersive experience, allowing them to disconnect from the rest of their lives. We innovated the model in various ways, but everything was always based on the face-to-face experience. At the start of 2020 there were some new ideas for potential innovation around, but of course we couldn’t foresee what came next—Covid struck. We had to reinvent ourselves, fast.”</span><br><br><span>This narrative is one that will be familiar to all those involved with executive education. Crespo’s next observation though hints intriguingly at an area of potential innovation that has sprung, for Universitas Telefónica, directly out of that challenging time. In making the mass switch to virtual, they made a discovery; “It was a kind of enlightenment that came out of our emergency remote training,” Crespo explains. “We realized that we could reach the whole company, something that just was not on the agenda before.” (Telefónica is a company of over 100,000 employees.) “We realized: we are now going to work for the whole company. We are no longer something just for executives.” It is a discovery—or realization, or ‘enlightenment’—with significant implications for the impact and reach of executive education interventions, particularly as applied to culture change or transformation initiatives.</span><br><br><span>“Having decided we are going to go virtual, and to the whole company, our main challenge now becomes achieving a fully integrated virtual experience,” notes Crespo. Again, it is a shared concern for all in attendance—having navigated the pivot to virtual, how do providers address the flaws of virtual learning, and how do they take their offering from good to great?</span><br><br><span>The work being carried out by Heather Haseley, Co-Executive Director at the Learning Futures Collaboratory at Arizona State University, is made-to-measure for such questions. “We imagine the future of learning three to five years from now, and we design Minimum Viable Products and Proofs of Concept, at scale, to help get us to that future state. For the future of education, it is sometimes less about the exact technologies we are going to use, but rather the values we want to embody, and designing toward those values. Things like&nbsp;</span><em>learner agency</em><span>. We want learners to have more control over their learning pathways. To do this we need things like blockchain based learner records, where learners own their records and can aggregate them and present them in the ways they want to. We are looking at ‘stackable’ learner pathways that recognize prior learning. We want to have&nbsp;</span><em>learners as creators</em><span>. We want our learners to have future-ready skills that can’t be automated—being creative, being innovative.&nbsp;</span><em>Learning as a social act</em><span>. With the pandemic we’ve seen it’s much harder to be social in the new formats that we have. With new technologies coming out like virtual or augmented reality, we can learn in more immersive ways and enhance peer-to-peer learning. We can use environments that are more authentic. In embodying these values, we are working towards learner-centeredness—the need to attend to the whole learner, not just their intellectual brain. A lot of our work is focused on thinking through how we can engage that whole human.”</span><br><br><span>Peter Lawrence, Director of the Custom Design Team at Plenar, focused in a more specific area of tech: the latest technology in LED display screens. “For years we’ve been building electronic visualization labs at universities around the globe. These are 3D environments where people can walk in and navigate their way through a molecular structure, or through a 3D model of the human brain, or tour planet Mars. We don’t need to put on a headset for this, we can do things in 3D surrounded by displays. This is more and more attainable as the bandwidth is more available and the price of displays goes down. We’re able to create an environment where it feels like we’re there with our learners and colleagues.”</span><br><br><span>Lawrence shared an impressive example of what is possible at the forefront of this technology, with&nbsp;</span><a href="https://www.youtube.com/watch?v=AhsOBNlHC24&amp;app=desktop">AT&amp;T and what they brought to the NBA draft coverage this year</a><span>&nbsp;using holograms for interviews with draft prospects, in response to social distancing restrictions. “Here a real human can sit with a holographic image of a human somewhere else and it feels very much like you are in the same room together. That’s the kind of thing that’s going to really be a game changer as we go forward. We call this mixed reality, and we’re doing that today in the broadcast world. Watch the news or sports and look behind the commentators and you will see video walls. They’re merging reality, with augmented reality, and virtual reality. There’s no reason why we can’t do that in education. We’re starting to.”</span><br><br><span>Another voice from industry, Neal Tilley, Strategic Advisor at Cisco, begins to envision these innovations entering the classroom. “Even after this really astounding period of technology adoption, we are still only at the cusp of how students and teachers are using technology. We have to accept that AI—augmentation of what we do, our work life, how we learn, how we teach—it’s coming. Once we embrace this, we can apply it in the classroom too. How can we use augmented experiences to help students go through their learning? Just one example is the ability to read and consume a foreign language without having to&nbsp;</span><em>know</em><span>&nbsp;that foreign language. Previously, that might be seen as cutting corners. Now it means an executive can have a much more global presence, able to engage in new areas, without the need to learn a new language.”</span><br><br><span>Michelle Senecal De Fonseca, Area Vice President of Citrix in London, raised her concern over an anticipated digital divide, and challenged executive education to address it. “Whether it is wearable technology, chips implanted, neural pathology, you are going to be enhanced to be more productive. You will be just as human as you are now, but with new tools to do greater things. What I worry about—and what I think executive education needs to think about—is the increasing digital divide that follows. Those who have access to the technology and enhancement, and those who are low-skilled and will be further away from it, and that resulting inequality. There is not one, pre-destined definition of where we go with it. This is where society is going to have to step in and say, just because you have the technology, is that how you want it used? Executive education has a big role in crafting those conversations.”</span><br><br><span>Heather Haseley builds on that idea, adding “In the next 10 years you’re going to see innovations, particular in mixed reality, that actually replace our phones. If you think about the Internet of Things and data layers that already exist over the world—like Uber—which uses GIS and positional data to provide services to individuals, all of those layers of data are going to start to be in things like augmented glasses or, in the next 20 years, in bio-wearables. They will replace some of our older technologies. We will move into a post-screen era where information will be displayed around us. Does this cause issues around equity and inclusion? Of course it will. We have big challenges coming around who gets the technology? When? How? I think that needs to be a key focus for all of us.”</span><br><br><span>One attendee urges caution, “We shouldn’t be tempted to think we need lots of fancy new tech tools to create human connection. Just letting people share their video, getting them to talk in small groups and feel welcome—holding up their dogs to the camera—we can create great connections.” A light-hearted point, but one that speaks to the opportunity for instructional designers and executive educators to innovate within their existing toolkits, using analogue or low-tech to develop impactful new ways and formats in delivery.</span><br><br><span>Asked how we can help faculty and clients avoid new technology exhaustion, Lucia Crespo de la Cruz shares her experience from Universitas Telefónica, “We’ve seen that we need to reboot ourselves. We almost need to learn to work again. We have all seen how crazy it can be, with back to back connections, one after the other—formal and informal meetings, conversations, courses—so many things. What is clear is that it’s not sustainable to be sitting in front of the computer the whole day connected to a meeting, in a state of high attentiveness. We need to learn how to manage Zoom fatigue, how to manage our online agenda. For executive education, we need to design our programs very carefully with this in mind. The danger is not to fall into the idea of replicating what we were doing before, only via Zoom or Teams. We need to be more creative and disruptive, thinking of new flows, and new interactivity for the interventions that we are designing.”</span><br><br><span>Heather Haseley’s closes by drawing some of these separate strands together, urging us to ask ourselves, “How can we make our learning more engaging, more authentic, and more playful? And if technology helps us get there, that’s great—but if it doesn’t, we shouldn’t feel we have to use it. We should think more about the types of experiences we’re providing, and use technology to enable those experiences, rather than try to let technology lead us.”</span></span></p>'
+    format: basic_html
+    processed: ''
+    summary: 'Impressions, insights and takeaways from Day Three of UNICON’s Team Development Conference 2020 hosted by Thunderbird School of Global Management'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2121
+    height: 1414
+    target_type: file
+    target_uuid: ea4a9819-cbb2-423e-a6a4-8d8c8a0303ee
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0e650df3-bfe8-43d3-8b3c-3ff5b5db27e2
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.ea4a9819-cbb2-423e-a6a4-8d8c8a0303ee
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+      - taxonomy_term.knowledge_network_tags.0e650df3-bfe8-43d3-8b3c-3ff5b5db27e2
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 657dfba6-a4fe-4d24-9282-204b983ea0ee
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+filename:
+  -
+    value: bethany_at_thunderbird.jpg
+uri:
+  -
+    value: 'public://article/bethany_at_thunderbird.jpg'
+    url: /sites/default/files/article/bethany_at_thunderbird.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 2018255
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-07-05T19:17:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-05T19:17:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d

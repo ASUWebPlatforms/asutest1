@@ -1,0 +1,23 @@
+uuid: ab146b65-18a3-4027-bfea-a1bc7b99506c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_y_coordinate
+    - taxonomy.vocabulary.coe_locations
+id: taxonomy_term.coe_locations.field_y_coordinate
+field_name: field_y_coordinate
+entity_type: taxonomy_term
+bundle: coe_locations
+label: 'Y coordinate'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: decimal

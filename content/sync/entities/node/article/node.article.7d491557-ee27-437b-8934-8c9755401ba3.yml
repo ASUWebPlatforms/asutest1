@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 7d491557-ee27-437b-8934-8c9755401ba3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:32:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Engaging Your Customers'
+created:
+  -
+    value: '2017-04-10T18:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:32:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/value-engaging-customers
+body:
+  -
+    value: "<p><i>This article is part of a series on Value Creation.&nbsp;</i><i></i></p>\r\n<p>The most effective way to communicate with customers is to communicate <i>with</i> them, not <i>to</i> them. “Customer engagement is a boon for value creation,” explains Thunderbird Professor Douglas Olsen. There are different ways to encourage engagement; one of the most effective is to involve customers in storytelling. (Caveat emptor: Social media is not a silver bullet to customer engagement; it is just another channel for it.)</p>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<p>“A brand story tells customers, ‘We understand what you face and we’re on your side,’” explains Olsen. Here again, the customer is the center. “The story is not about the company. It’s about the customer, the hero who derives value from your product or service.” And, here again, communicating WIIFM – the benefits of engagement – is essential. Olsen says, “Without real benefits, engaging in a relationship with you is just a burden.”</p>\r\n<blockquote>\r\n<p>&nbsp;<i>“A brand story is not about the company. It’s about the customer, the hero who derives value from your product or service.” – <a href=\"Test%20LinkCopy Linkhttps://ctt.ec/6eMnC\">Click to tweet</a></i><a href=\"#_msocom_1\"></a></p>\r\n</blockquote>\r\n<p>Even ‘boring’ brands can drive tremendous customer engagement. A great example is Dove’s “real woman” campaign. The campaign was a dramatic departure from Unilever’s traditional marketing of the Dove brand, which focused on the product. Leaders learned from the research that many women suffer from poor self-esteem in regard to their appearance, so they launched an engagement campaign to bring customers into a conversation about beauty.</p>\r\n<p>&nbsp;[[{\"fid\":\"4864\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Dove Real Beauty Sketches | You’re more beautiful than you think (3mins)\",\"height\":\"390\",\"width\":\"640\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>The impact was incredible. One video alone has more than 66 million views on YouTube. 66 million people literally went to YouTube and watched a soap ad. Now that’s engagement! The campaign worked for three key reasons: 1) it was a great story, with highly emotional content; 2) it was shareable; 3) it launched with heavy PR promotion including on the Today Show and Huffington Post, among many other outlets.</p>\r\n<blockquote>\r\n<p><i>“66 million people watched the soap ad on YouTube. Now that’s customer engagement!” – <a href=\"https://ctt.ec/k74h9\">Click to tweet</a></i><a href=\"#_msocom_2\"></a></p>\r\n</blockquote>\r\n<p><i>Douglas Olsen and fellow Thunderbird professor Richard Ettenson teach these concepts in depth in the Value Creation and Winning in the Global Arena program. Beat out your competitors by understanding the new realities of the global marketplace. </i><a href=\"https://thunderbird.asu.edu/executive-education/programs/value-creation-and-winning\"><i>Learn more about the Value Creation and Winning in the Global Arena program.</i></a></p>\r\n<p><strong>Share your story!</strong></p>\r\n<p>When you engage with a brand, why? &nbsp;Share your story on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n<p><strong>Learn more</strong></p>\r\n<ul>\r\n<li>Read related posts: <a href=\"https://thunderbird.asu.edu/knowledge-network/value-creation-all-about-customer\"><i>It Is ALL About Your Customer</i></a>, <a href=\"https://thunderbird.asu.edu/knowledge-network/5-laws-change\"><i>The 5 Laws of Change</i></a>, &nbsp;and&nbsp;<a href=\"/node/2468\"><i>How to Communicate Value</i></a><i><br></i></li>\r\n<li>Flip through the <a href=\"https://www.slideshare.net/Thunderbird1946/value-creation-what-marketers-need-to-know-about-communicating-value\"><i>What Marketers Need to Know About Communicating Value</i> SlideShare<i>&nbsp;</i></a></li>\r\n<li>And don’t forget to subscribe to the Knowledge Network newsletter!</li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: 'Customer engagement is a boon for value creation. Engage customers through stories.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1498
+    height: 836
+    target_type: file
+    target_uuid: 907e0fe0-5352-4540-9d11-5d94d7bd4fc9
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.907e0fe0-5352-4540-9d11-5d94d7bd4fc9
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

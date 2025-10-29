@@ -1,0 +1,6 @@
+settings:
+  allowed_values:
+    -
+      label: Dreapta
+    -
+      label: Stânga

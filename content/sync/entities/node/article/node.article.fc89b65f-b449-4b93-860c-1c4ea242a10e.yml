@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: fc89b65f-b449-4b93-860c-1c4ea242a10e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Why Your Project Needs a Brand'
+created:
+  -
+    value: '2017-01-10T19:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/project-needs-brand
+body:
+  -
+    value: "<p>Why do some projects attract support and energy inside an organization while others flounder? Many times the difference is branding. The ways in which managers represent their projects to internal audiences can determine success or failure when competition heats up for limited resources.</p>\r\n<p>Our experience, based on more than 10 years of observation and research, shows that the internal face of every project needs a strong brand. We have identified five key stages in the project branding life cycle that can make or break momentum from first pitch to final payoff.</p>\r\n<p><strong>Pitch:&nbsp;</strong>Project branding starts with a memorable and persuasive pitch. This is the project champion’s best opportunity to catch the attention of key decision makers who control resources. The pitch can occur as a single-shot event with senior leaders, or it can start at the grassroots level with the people who ultimately will deliver the payoff. Softer or slower pitches often work best when ideas need time to germinate and gain momentum.</p>\r\n<p><strong>Plan:&nbsp;</strong>Once a project receives the initial go-ahead, its champions must clarify goals, assess risks, assign responsibilities and set timelines. If the planning process is transparent and produces a clear roadmap to success, stakeholders throughout the organization will become champions of the brand. On the other hand, if the plan is created behind closed doors with little or no input, the project is likely to come out of the gate with a less than attractive brand.</p>\r\n<p><strong>Platform:&nbsp;</strong>Every project needs a visible starting point. The official launch may occur after only a limited amount of high-level planning, or it may be the culmination of an intensive effort. Branding success at the platform stage depends on the way the project is legitimized to the entire organization, not just to direct participants and high-level decision makers.</p>\r\n<p><strong>Performance:&nbsp;</strong>In the context of branding, performance represents the way project leaders communicate information about delivery of the project’s promise following the official launch. This includes honest reporting about setbacks and demonstrations of resiliency in the face of challenges. Undercommunicating during the performance phase is dangerous because any information vacuum can be filled by those with competing interests or doubts.</p>\r\n<p><strong>Payoff:&nbsp;</strong>Everyone grows frustrated when a project has no clear end point. Closure celebrations provide an opportunity to solidify and enhance the perceptions of the project brand created in earlier stages. Some organizations even host failure parties that celebrate worthwhile risk-taking and lessons learned.</p>\r\n<p>Products, services, organizations and even people benefit from strong brand management. Successful projects require the same care.</p>\r\n<p><em>A version of this research first appeared in the summer 2011 issue of MIT Sloan Management Review in an article by the same authors titled&nbsp;<a href=\"http://sloanreview.mit.edu/article/why-every-project-needs-a-brand-and-how-to-create-one/\" target=\"_blank\">Why Every Project Needs a Brand (and How to Create One)</a>.</em></p>\r\n<p><em><strong>Karen A. Brown, Ph.D.,&nbsp;</strong>is late professor of operations management at Thunderbird School of Global Management. <strong><a href=\"/node/160\">Richard Ettenson, Ph.D</a>., </strong>is a Thunderbird professor and the Thelma H. Kieckhefer Research Fellow in Global Brand Marketing.&nbsp;Nancy Lea Hyer, Ph.D.,&nbsp;is&nbsp;an associate professor of operations management and Associate Dean of Academic Programs at the Owen Graduate School of Management at Vanderbilt University. Brown and Hyer are the co-authors of&nbsp;<a href=\"http://www.amazon.com/Managing-Projects-Team-Based-Mcgraw-Hill-Operations/dp/0077356454\" target=\"_blank\">Managing Projects: A Team-Based Approach</a>&nbsp;(McGraw Hill, 2010).</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Ettenson Thunderbird Brand'
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: 5a06d48f-1ad8-4839-a72d-6a611cec9cfa
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    file:
+      - file.image.5a06d48f-1ad8-4839-a72d-6a611cec9cfa
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

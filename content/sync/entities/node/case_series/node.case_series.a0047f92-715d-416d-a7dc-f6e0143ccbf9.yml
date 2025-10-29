@@ -1,0 +1,132 @@
+uuid:
+  -
+    value: a0047f92-715d-416d-a7dc-f6e0143ccbf9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:05:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Brazils Waste: A Big Emerging Market'
+created:
+  -
+    value: '2016-07-16T00:54:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:05:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-10-0005
+body:
+  -
+    value: '<p>The Kyoto Protocol established targets for reductions in greenhouse gas concentrations by creating a mechanism of restrictions for developed countries, and incentives for developing countries, to cut their greenhouse gas emission levels. By the end of 2005, Brazil is beginning to consolidate its recent economic progress. However, among the challenges brought by economic progress is the creation and management of a basic services infrastructure.</p><p>Solid waste management has been raised to the top tier of Brazilian President Lula de Silva’s administration priorities. Population growth, economic affluence, expanding consumption, and urbanization have continued to push up the rate of solid waste generation. The problem is compounded by the fact that current waste processing capacity is under severe strain in the big Brazilian metropolis, and is virtually crumbling in large parts of the country. In addition, current practices, especially the discarding of residues in open dumps, have caused the release of large quantities of methane, a greenhouse gas (GHG), into the atmosphere.</p><p>Innovative thinking, openness to risk-sharing, and political will are necessary to put in place solutions that can accelerate the delivery of waste management services in the scale and quality that the Brazilian society is starting to demand. Private Public Partnerships have become a sound option, provided that an appropriate legal framework is approved in Congress. Private Public Partnerships will allow private sector capital and technology to help the government extend infrastructure services to the population.&nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-10-0005
+field_case_page_length:
+  -
+    value: '15 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3285a6d7-669e-4c8f-8429-c3f8a6ca5c06
+field_case_series_year:
+  -
+    value: '2010-01-01'
+field_case_setting:
+  -
+    value: 'Brazil 2005'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+  -
+    target_type: taxonomy_term
+    target_uuid: 0916fe63-addb-4124-9ec0-5e09e8c3100b
+  -
+    target_type: taxonomy_term
+    target_uuid: 62842b00-92e7-4e68-8287-e378f06afca3
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 14478afd-711c-43a3-b21d-748b677c0853
+  -
+    target_type: taxonomy_term
+    target_uuid: 457ba5f4-7a0a-48eb-a89e-b7b6db5ba676
+  -
+    target_type: taxonomy_term
+    target_uuid: d01be29b-8902-45b9-a4f1-79433fcc7273
+  -
+    target_type: taxonomy_term
+    target_uuid: 6d4f0895-da5a-4b1a-bb79-5bb6ad97dd92
+  -
+    target_type: taxonomy_term
+    target_uuid: eb47fb7e-1445-4a30-a1e3-a3c5f96f41bc
+field_teaching:
+  -
+    value: 'The case is intended for use in MBA-level courses, or undergraduate capstone courses, on environmental management, sustainable management, or corporate social responsibility. In addition, it may be used in urban planning courses to introduce students to the provision of human services in the mega cities of emerging countries.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.3285a6d7-669e-4c8f-8429-c3f8a6ca5c06
+      - taxonomy_term.case_series_categories.07d7612c-2805-48a1-a6a9-b66ec0ffdfa9
+      - taxonomy_term.case_series_categories.0916fe63-addb-4124-9ec0-5e09e8c3100b
+      - taxonomy_term.case_series_categories.62842b00-92e7-4e68-8287-e378f06afca3
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.14478afd-711c-43a3-b21d-748b677c0853
+      - taxonomy_term.case_series_fields.457ba5f4-7a0a-48eb-a89e-b7b6db5ba676
+      - taxonomy_term.case_series_fields.d01be29b-8902-45b9-a4f1-79433fcc7273
+      - taxonomy_term.case_series_fields.6d4f0895-da5a-4b1a-bb79-5bb6ad97dd92
+      - taxonomy_term.case_series_fields.eb47fb7e-1445-4a30-a1e3-a3c5f96f41bc

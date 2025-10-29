@@ -1,0 +1,8 @@
+uuid: 699fef17-aaa6-41af-ad28-5f54c2e72a4f
+langcode: en
+status: true
+dependencies: {  }
+id: signpost_full_width_carousel
+label: 'Signpost Full Width Carousel'
+revision: 0
+description: ''

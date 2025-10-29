@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 88d88d3e-28e7-4659-898d-05c05065c72c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-06-01T22:18:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a378dcd0-fe4d-42ea-85bc-286698545ba0
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: a378dcd0-fe4d-42ea-85bc-286698545ba0
+title:
+  -
+    value: 'Exponential Leadership'
+created:
+  -
+    value: '2018-06-01T22:18:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-06-01T22:18:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/exponential-leadership
+body:
+  -
+    value: "<p>By Tim Weaver<br>Thunderbird Executive Education</p>\r\n<p>When it comes to leadership, there is no dearth of advice on how to be a good leader. In fact, GE’s famed Change Acceleration Process (CAP) summed up the key to leadership in a simple formula: E=Q*A, where E equals solution effectiveness, Q is the quality of a solution and A is the solution’s acceptance.</p>\r\n<p>And although it appears straightforward, leadership really isn’t as simple as that, says leadership development expert Lee Ann Del Carpio.</p>\r\n<p>“Leadership can’t be reduced to a formula measured by discrete factors,” said Del Carpio, an Executive Education faculty member at Thunderbird School of Global Management in Arizona. “There is much more to it.”</p>\r\n<p>The results a leader obtains is directly tied to the solution’s quality, but great ideas will go nowhere if they’re not accepted.</p>\r\n<p>“But often more important than if the idea is accepted, it’s who accepts it,” she said. “As a solution increases in complexity and uncertainty, acceptance becomes more important.”</p>\r\n<p>What can you do to become a better leader, to foster greater solution acceptance and increase effectiveness? Del Carpio offers these suggestions:</p>\r\n<p>• Get your people on the ground who closest to your customers involved early in the process. <br>• Listen to others and solicit feedback. This can help increase buy-in, but has to be authentic.<br>• Prioritize listening. While it’s time-consuming, you have to balance whether getting buy-in early is better than driving a solution through and hoping to get buy-in later.<br>• Understand you can be blinded by the light of what you already know. Confirmation bias increases as the speed of change increases.<br>• Realize you’re likely to be uncomfortable. Some people are more interested in complaining than problem-solving.<br>• Challenge any long-standing business assumptions. What if they’re less relevant than they used to be?</p>\r\n<p>One final thing to remember, says Del Carpio, is that solution acceptance isn’t limited to within your organization.</p>\r\n<p>“While it’s important that you get buy-in from your internal stakeholders, you need to remember that the marketplace, meaning your customers, ultimately have to like it, too.”</p>\r\n<p><a href=\"https://thunderbird.asu.edu/node/2010\">Lee Ann Del Carpio</a> is a faculty member for Thunderbird’s Executive Education program and an expert in global leadership development, an executive coach and a sought-after facilitator of strategic cultural change.&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 596
+    height: 596
+    target_type: file
+    target_uuid: 415b9143-8dc6-46c6-9cea-d4bdfa59e03c
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a378dcd0-fe4d-42ea-85bc-286698545ba0
+    file:
+      - file.image.415b9143-8dc6-46c6-9cea-d4bdfa59e03c
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

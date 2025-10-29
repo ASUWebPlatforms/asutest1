@@ -1,0 +1,34 @@
+uuid: 6721d65f-7f50-4572-bd5e-a298aa6951ea
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.class_profile_left_column.field_formatted_text
+    - field.field.paragraph.class_profile_left_column.field_heading
+    - paragraphs.paragraphs_type.class_profile_left_column
+  module:
+    - text
+id: paragraph.class_profile_left_column.default
+targetEntityType: paragraph
+bundle: class_profile_left_column
+mode: default
+content:
+  field_formatted_text:
+    type: text_textarea
+    weight: 1
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  field_heading:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

@@ -1,0 +1,10 @@
+uuid: c9ba9eec-ac18-43bc-a592-d081e8cdf758
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1CFTftkWHj0UWIuFrwOPUX5F9anBt1-Nn48lKiv6zJE
+id: card_image_and_content
+label: 'x Card image and content'
+revision: 0
+description: ''

@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: bdbf71eb-96bb-4c05-8699-5ba1ea120036
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: case_series_fields
+    target_type: taxonomy_vocabulary
+    target_uuid: cd2cef00-3cea-4ec3-9469-fae04966e493
+revision_created:
+  -
+    value: '2021-10-01T10:39:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Technical note on rogue trader Nicholas Leeson'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2021-10-01T10:39:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

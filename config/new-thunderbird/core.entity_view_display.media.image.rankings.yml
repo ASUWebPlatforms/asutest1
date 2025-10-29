@@ -1,0 +1,44 @@
+uuid: adce14b8-bc9b-4b59-b854-b319566e19ea
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.rankings
+    - field.field.media.image.field_caption
+    - field.field.media.image.field_image_caption
+    - field.field.media.image.field_media_image
+    - image.style.rankings
+    - media.type.image
+  module:
+    - image
+    - layout_builder
+third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
+_core:
+  default_config_hash: 7iQPtqwifpyyE8v9VmSHhB8Gcz6rtFG4kyqJXYElIvs
+id: media.image.rankings
+targetEntityType: media
+bundle: image
+mode: rankings
+content:
+  field_media_image:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: rankings
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  field_caption: true
+  field_image_caption: true
+  langcode: true
+  name: true
+  thumbnail: true
+  uid: true

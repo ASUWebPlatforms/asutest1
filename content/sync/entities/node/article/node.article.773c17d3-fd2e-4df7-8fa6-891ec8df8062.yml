@@ -1,0 +1,95 @@
+uuid:
+  -
+    value: 773c17d3-fd2e-4df7-8fa6-891ec8df8062
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-08-26T19:36:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Sushi, Sake, and the Art of Being An International Entrepreneur'
+created:
+  -
+    value: '2019-05-31T20:33:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-08-26T19:36:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/sushi-sake-and-art-being-international-entrepreneur
+body:
+  -
+    value: "<p>Around the time Ken Valvur arrived at Thunderbird in 1987, Japan’s economy was the envy of the world. Japan was sitting on the largest cache of wealth ever assembled. The Tokyo Stock Exchange surpassed New York to become the world’s largest on the basis of market capitalization. And by the late 1980s, Japan ranked first in GNP per capita worldwide.&nbsp;</p>\r\n<p>Japan’s economic boom began to fizzle in 1991, but it had a significant and lasting impact on Ken Valvur.&nbsp;</p>\r\n<h3><strong>Language is the Key to the World</strong></h3>\r\n<p>[[{\"fid\":\"71953\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird alum Ken Valvur \",\"field_file_image_title_text[und][0][value]\":\"Thunderbird alum Ken Valvur \"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird alum Ken Valvur \",\"field_file_image_title_text[und][0][value]\":\"Thunderbird alum Ken Valvur \"}},\"attributes\":{\"alt\":\"Thunderbird alum Ken Valvur \",\"title\":\"Thunderbird alum Ken Valvur \",\"height\":\"175\",\"width\":\"175\",\"style\":\"margin: 7px 10px; float: left;\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]With a commerce degree from the University of Toronto and training as a CPA, Ken came to Thunderbird because he knew studying at the school would help him move into a job that offered international travel.&nbsp;</p>\r\n<p>Ken had discovered a book by then-Thunderbird Prof. James Mills about international activities of Canadian banks. “That put Thunderbird on my map, then I checked it out and loved what I saw,” Ken said.</p>\r\n<blockquote>\r\n<p><i>“</i>I came to Thunderbird as an English speaking Canadian accountant, and left a year later transformed into a Japanese-speaking investment banker, with dreams of being an entrepreneur<i>.</i><i>” ~ Ken Valvur, Bento Sushi founder, Thunderbird alum&nbsp;</i><i>–&nbsp;<a href=\"https://ctt.ec/SuaRq\">Click to tweet</a></i><i><br></i></p>\r\n</blockquote>\r\n<p>He was attracted to many aspects of Thunderbird including the fact that students were required to be proficient at a language other than English prior to graduating. The English-speaking Canadian was thinking that French would be his language. But during one evening at Thunderbird’s Pub, soon after he arrived, Ken was impressed by several non-Asian students who were speaking fluent Japanese or Mandarin. &nbsp;</p>\r\n<p>“Literally between sips of beer,” Ken remembers, “I realized that I was sitting on a great opportunity to learn the most useful language of that financial era, Japanese, and therefore virtually guarantee myself a great international job upon graduation.”</p>\r\n<h3>Global Experience Seeds an Entrepreneurial Venture</h3>\r\n<p>And he definitely was sitting on a great opportunity.&nbsp;</p>\r\n<p>Ken knew he needed a graduate business education to be considered for a job that would include international travel. He was drawn to Thunderbird when he found out that international banks recruited its graduates. And a bonus was that he had the opportunity to learn Japanese.</p>\r\n<blockquote>\r\n<p><i></i><i>“I was sitting on a great opportunity to learn the most useful language of that financial era, Japanese, and therefore virtually guarantee myself a great international job upon graduation.</i><i>” ~ Ken Valvur, Bento Sushi</i><i>–&nbsp;<a href=\"https://ctt.ec/RbC9c\">Click to tweet</a></i><i><br></i></p>\r\n</blockquote>\r\n<p>Upon graduation, Ken joined Scotiabank, training in Toronto and London prior to starting a two-year investment banking assignment in Tokyo.&nbsp;Ken’s next jobs with Scotiabank took him to the U.S., Asia, and Europe, including a second transfer to Tokyo and then to London.&nbsp;</p>\r\n<p>“My two ambitions were always to see the world through my work, and ultimately to have my own business,” Ken said. When he and his wife began thinking about returning to Toronto, Ken’s entrepreneurial bug kicked in.&nbsp;</p>\r\n<p>“I saw a business opportunity that I really felt I could make happen in Canada and I knew it was time to go home and go out on my own,” he said.</p>\r\n<h3>Introducing Canadians to Sushi&nbsp;</h3>\r\n<p>[[{\"fid\":\"71951\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Sushi, Sake, and a the Art of Being An International Entrepreneur\",\"field_file_image_title_text[und][0][value]\":\"Sushi, Sake, and a the Art of Being An International Entrepreneur\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Sushi, Sake, and a the Art of Being An International Entrepreneur\",\"field_file_image_title_text[und][0][value]\":\"Sushi, Sake, and a the Art of Being An International Entrepreneur\"}},\"attributes\":{\"alt\":\"Sushi, Sake, and a the Art of Being An International Entrepreneur\",\"title\":\"Sushi, Sake, and a the Art of Being An International Entrepreneur\",\"height\":\"175\",\"width\":\"175\",\"style\":\"float: left; margin: 10px 7px;\",\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]That business opportunity sprung from Ken’s love of Japanese culture, in particular bento boxes. “I became enamored with the Japanese businessman’s way of eating lunch – beautifully pre-packaged bento boxes made up of assorted delicious and nutritious foods, including sushi sets.”&nbsp;</p>\r\n<p>Ken noticed that Japanese takeout was beginning to become popular in London and thought Toronto would be a great market for something similar. Ken, his wife Monika, and their 2-year-old son Stefan returned to Canada and Bento Sushi was founded in Toronto in 1996.</p>\r\n<blockquote>\r\n<p><i></i><i>“I used lessons learned at Thunderbird to expand Bento Sushi,&nbsp;</i><i>Canada’s largest sushi company with over 700 locations there, and&nbsp;</i><i>150 locations in the U.S.</i><i>” ~ Ken Valvur, Bento Sushi founder, Thunderbird alum</i><i>–&nbsp;<a href=\"https://ctt.ec/Z3vPb\">Click to tweet</a></i><i><br></i></p>\r\n</blockquote>\r\n<p>The business grew quickly organically and through acquisitions. Ken was able to introduce his love of Japanese culture to Canadians in a way that only a native Canadian could. He created a sushi and bento box trolley, which provided food to most of Toronto’s trading floors.&nbsp;</p>\r\n<p>Ken used skills learned in Thunderbird classes to pitch large grocery stores. His investment banking experience helped him negotiate acquisitions, which turned Bento Sushi into a coast-to-coast business.&nbsp;</p>\r\n<p>Bento Sushi is Canada’s largest sushi company with over 700 locations, and&nbsp;is&nbsp;now growing through the U.S. where there are 150 locations, including a new one on the ASU Tempe campus. Dan Zlaket, a T-bird grad from 2016 is the regional manager overseeing the ASU location.</p>\r\n<h3>Rice + Water + Ancient Japanese Traditions&nbsp;</h3>\r\n<p>In 2010, Ken started brewing sake, Japan’s national drink. “Sake is best when it is super-fresh,” Ken said, “so I decided to start a sake brewery in Toronto, called Ontario Spring Water Sake Company, using the brand name ‘Izumi’- which means ‘spring water’ in Japanese.”</p>\r\n<p>Through his connections in Japan, Ken acquired traditional Japanese equipment and learned the techniques required to begin brewing North America’s first award-winning craft sake.</p>\r\n<p>“While much smaller than Bento Sushi, Ontario Spring Water Sake Company has been a fun and delicious project for me, and even turns a small profit,” Ken said.&nbsp;</p>\r\n<h3>The Power of Thunderbird</h3>\r\n<p>Ken talks fondly of friendships he has with fellow T-birds, people he met while he earned his Master of International Management in 1988 and connections he’s made as a member of the Thunderbird Leadership Council (TELC) since 2010.</p>\r\n<p>“In addition to my personal successes,” Ken said, “I’ve been able to create bonds with people who are both international and entrepreneurial and chose Thunderbird to help realize their dreams.”</p>\r\n<p>“I came to Thunderbird as an English speaking Canadian accountant, and left a year later transformed into a Japanese-speaking investment banker, with dreams of being an entrepreneur. I had absolutely no idea when I arrived in Arizona that I would ever go to Japan, let alone start two Japan-focused businesses later in life. That is the power of Thunderbird.”</p>"
+    format: basic_html
+    processed: ''
+    summary: "Around the time Ken Valvur arrived at Thunderbird in 1987, Japan’s economy was the envy of the world. Japan was sitting on the largest cache of wealth ever assembled. The Tokyo Stock Exchange surpassed New York to become the world’s largest on the basis of market capitalization. And by the late 1980s, Japan ranked first in GNP per capita worldwide. \r\n\r\nJapan’s economic boom began to fizzle in 1991, but it had a significant and lasting impact on Ken Valvur. "
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1080
+    height: 1080
+    target_type: file
+    target_uuid: 7532ceea-382b-43f5-9cde-05d74745f0cc
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f958611c-a8ea-4ee0-9285-4095ff22667a
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: be23d3df-c315-4f8a-86c5-c9be4f65d17d
+  -
+    target_type: taxonomy_term
+    target_uuid: 224695c4-4c68-4e66-9f48-34cab39fd0ca
+  -
+    target_type: taxonomy_term
+    target_uuid: 29291689-295b-4100-8975-b46ce0819caa
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.7532ceea-382b-43f5-9cde-05d74745f0cc
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f958611c-a8ea-4ee0-9285-4095ff22667a
+      - taxonomy_term.knowledge_network_tags.be23d3df-c315-4f8a-86c5-c9be4f65d17d
+      - taxonomy_term.knowledge_network_tags.224695c4-4c68-4e66-9f48-34cab39fd0ca
+      - taxonomy_term.knowledge_network_tags.29291689-295b-4100-8975-b46ce0819caa

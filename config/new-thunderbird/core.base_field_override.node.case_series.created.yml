@@ -1,0 +1,18 @@
+uuid: 3c526855-159b-417d-8e16-c36e77726b0f
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.case_series
+id: node.case_series.created
+field_name: created
+entity_type: node
+bundle: case_series
+label: 'Authored on'
+description: 'The time that the node was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

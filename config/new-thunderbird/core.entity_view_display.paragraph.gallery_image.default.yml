@@ -1,0 +1,30 @@
+uuid: 78217f7c-e59e-4ad4-853b-013b18d2918e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.gallery_image.field_formatted_text
+    - field.field.paragraph.gallery_image.field_image_link
+    - field.field.paragraph.gallery_image.field_media
+    - field.field.paragraph.gallery_image.field_title
+    - paragraphs.paragraphs_type.gallery_image
+_core:
+  default_config_hash: Nv5ubG6JAkjQWOk84ZsERm9CRjuk9VKhNOVsoWKACBU
+id: paragraph.gallery_image.default
+targetEntityType: paragraph
+bundle: gallery_image
+mode: default
+content:
+  field_media:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  field_formatted_text: true
+  field_image_link: true
+  field_title: true

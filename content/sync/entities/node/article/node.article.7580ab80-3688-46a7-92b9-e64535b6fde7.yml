@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: 7580ab80-3688-46a7-92b9-e64535b6fde7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-05-24T17:09:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Project DreamCatcher Empowers Native American Business Women'
+created:
+  -
+    value: '2019-05-24T17:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-05-24T17:09:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/project-dreamcatcher-empowers-native-american-business-women
+body:
+  -
+    value: "<p>[[{\"fid\":\"73416\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Project DreamCatcher Empowers   Native American Business Women\",\"field_file_image_title_text[und][0][value]\":\"Project DreamCatcher Empowers   Native American Business Women\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Project DreamCatcher Empowers   Native American Business Women\",\"field_file_image_title_text[und][0][value]\":\"Project DreamCatcher Empowers   Native American Business Women\"}},\"attributes\":{\"alt\":\"Project DreamCatcher Empowers   Native American Business Women\",\"title\":\"Project DreamCatcher Empowers   Native American Business Women\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]</p>\r\n<p>Lydelle Davies is a member of the Navajo nation and a recent graduate of Project DreamCatcher, a one-week business training program for Native American women funded by Freeport-McMoRan and implemented by Thunderbird School of Global Management. Lydelle believes that Project DreamCatcher allows participants to grow from the knowledge that a renowned institution like Thunderbird can provide.<i></i></p>\r\n<p>“It’s a huge deal,” said Davies, who is a graduate of Arizona State University Sandra Day O’Connor College of Law. “People who are part of the Thunderbird School of Global Management are global leaders. It is pretty impressive.”</p>\r\n<p>Davies is ready to pay it forward. She plans to expand her legal consulting services activities into a full-time business that will benefit individuals and agencies of her tribe.</p>\r\n<p>“I’m really fortunate to have participated in Project DreamCatcher,” Davies said. “Now I feel like I can be an ambassador and an advocate for the initiative because I’ve gone through it. I learned a lot, and I’ve been running my own business for quite a while now.” Davies is part of a special sisterhood of Native American women who have completed Project DreamCatcher.</p>\r\n<p>Project DreamCatcher was inspired, in part, by DreamBuilder, another Freeport-McMoRan and Thunderbird School of Global Management program. DreamBuilder is an online business plan creator that was launched in 2012. To date, more than 44,000 students have enrolled and 4,300 have graduated from DreamBuilder with a completed business plan.&nbsp;</p>\r\n<p>In 2015, Project DreamCatcher was created to provide in-person business-training to Native American women from select communities.&nbsp;&nbsp;Completing Project DreamCatcher requires strength, focus, and commitment from participants and their families. It is not easy for the women, many of whom are heads of households and leaders in their communities, to be away from home for a week.&nbsp;&nbsp;A diverse group of 19 women representing the Hualapai, San Carlos Apache, White Mountain Apache, Tohono O’odham, and Navajo nations became the third cohort of Project DreamCatcher. To date, 51 women have graduated from the initiative.</p>\r\n<p>The 2019 Project DreamCatcher cohort includes artists, scientists, and specialists in professional services. Some participants are bootstrap business owners looking to strengthen or expand their enterprises; others are in the beginning phases of organizing an idea into a formal business – a food truck serving Native American food, IT consulting, transportation, a coffee shop, baked goods, customer service training, and Native crafts.&nbsp;</p>\r\n<blockquote>\r\n<p><i>“</i><i>The 2019 cohort of Project DreamCatcher includes artists, scientists, and specialists in professional services</i><i>.</i><i>”–&nbsp;<a href=\"https://ctt.ec/587ka\">Click to tweet</a></i></p>\r\n</blockquote>\r\n<p>Project DreamCatcher participants attended classes taught and facilitated by Thunderbird faculty and guest speakers that included instruction on presenting a business idea, accounting, marketing and pricing, and managing a family-run business. Site visits to Native American-owned businesses and sessions of “speed mentoring” with two dozen volunteer business leaders, including Project DreamCatcher graduates, were also part of the learning experience.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"73415\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Mia Diaz, Tohono O’odham Nation, and Rochelle Talkalai, San Carlos Apache tribal member\",\"field_file_image_title_text[und][0][value]\":\"Mia Diaz, Tohono O’odham Nation, and Rochelle Talkalai, San Carlos Apache tribal member\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Mia Diaz, Tohono O’odham Nation, and Rochelle Talkalai, San Carlos Apache tribal member\",\"field_file_image_title_text[und][0][value]\":\"Mia Diaz, Tohono O’odham Nation, and Rochelle Talkalai, San Carlos Apache tribal member\"}},\"attributes\":{\"alt\":\"Mia Diaz, Tohono O’odham Nation, and Rochelle Talkalai, San Carlos Apache tribal member\",\"title\":\"Mia Diaz, Tohono O’odham Nation, and Rochelle Talkalai, San Carlos Apache tribal member\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Mia Diaz, Tohono O’odham Nation, and Rochelle Talkalai, San Carlos Apache tribal member.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><br>Rochelle Talkalai, a San Carlos Apache tribal member and the mother of three-year-old Hailey, said her idea of owning her own beauty salon as a component of her longevity plan is more realistic and vivid after Project DreamCatcher. An elevator pitch practice session helped solidify the values she will set for her business; learning about tribal regulations has her thinking deeply and more carefully about her business location options.&nbsp;</p>\r\n<p>“Slowly, each day there’s a little more that I’m adding to my business plan,” Talkalai said.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"73414\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Valerie Tsosie, Navajo Nation\",\"field_file_image_title_text[und][0][value]\":\"Valerie Tsosie, Navajo Nation\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Valerie Tsosie, Navajo Nation\",\"field_file_image_title_text[und][0][value]\":\"Valerie Tsosie, Navajo Nation\"}},\"attributes\":{\"alt\":\"Valerie Tsosie, Navajo Nation\",\"title\":\"Valerie Tsosie, Navajo Nation\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Valerie Tsosie, Navajo Nation</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><br>Valerie Tsosie, an Army veteran from the Navajo Nation who owns a consulting business specializing in project management and training, was selected by classmates to give remarks during the May 17 graduation ceremony. She called Project DreamCatcher a boot camp for its jam-packed programming and also for the bond it created among the women. &nbsp;</p>\r\n<p>“You are&nbsp;<i>all&nbsp;</i>so awesome,” Tsosie told fellow graduates. “You’ve just inspired me. Hearing your stories, being with you. … Oh, my gosh. I love that camaraderie that we have and our warrior spirit.”&nbsp;</p>\r\n<p>Dr. Sanjeev Khagram, Dean and Director General of Thunderbird, told the graduates that their sacrifice and hard work earned them a place in the school’s global family.&nbsp;</p>\r\n<p>“We are so proud and honored to be with each and every one of you who carry on the tradition of bringing all of our communities together, of finding your true strength and inner courage, of being able to transform not only your own lives but all the lives around you,” Khagram said.&nbsp;</p>\r\n<p>Peter Denetclaw, Manager of Environmental Programs and Navajo Relations at Freeport-McMoRan, said Project DreamCatcher is part of the natural resource company’s commitment to work in partnership with communities where Freeport has a presence to help them build their own sustainable futures. Ensuring that Native American women “have suitable, relevant and functional opportunities to be full participants in economic development and attain greater levels of prosperity” is part of that sustainable development, he said.</p>\r\n<p>“When women gain skills, they gain confidence and increase their productivity, raise their income level to be able to invest in their children’s education, their families’ health, and economic activities in the community,” Denetclaw said at the graduation ceremony. “We look forward to hearing about your contributions to your communities. May you catch and fulfill your entrepreneurial dreams.”<span style=\"font-size: 1em; background-color: transparent;\">&nbsp;</span></p>"
+    format: basic_html
+    processed: ''
+    summary: "Lydelle Davies is a member of the Navajo nation and a recent graduate of Project DreamCatcher, a one-week business training program for Native American women funded by Freeport-McMoRan and implemented by Thunderbird School of Global Management. Lydelle believes that Project DreamCatcher allows participants to grow from the knowledge that a renowned institution like Thunderbird can provide.\r\n\r\n“It’s a huge deal,” said Davies, who is a graduate of Arizona State University Sandra Day O’Connor College of Law. “People who are part of the Thunderbird School of Global Management are global leaders. It is pretty impressive.”\r\n"
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 706
+    height: 460
+    target_type: file
+    target_uuid: 7d92ac28-00e0-4522-b272-1ce2b7ee9bf8
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1be914ea-c7a1-4ded-8b7c-083ad681c603
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8d0179d2-1b1b-4bb8-bcbd-1fd729055a52
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+  -
+    target_type: taxonomy_term
+    target_uuid: b5053c96-3b34-4341-ade3-ee73be9a88db
+field_insight_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 206b9083-31c1-484b-99c5-734e8b1c360c
+field_related_thought_leaders:
+  -
+    target_type: taxonomy_term
+    target_uuid: 901edbc0-31f6-4876-b3a4-e67eb3eeeb39
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.7d92ac28-00e0-4522-b272-1ce2b7ee9bf8
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1be914ea-c7a1-4ded-8b7c-083ad681c603
+      - taxonomy_term.knowledge_network_tags.8d0179d2-1b1b-4bb8-bcbd-1fd729055a52
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+      - taxonomy_term.knowledge_network_tags.b5053c96-3b34-4341-ade3-ee73be9a88db
+      - taxonomy_term.kn_thought_leaders.901edbc0-31f6-4876-b3a4-e67eb3eeeb39

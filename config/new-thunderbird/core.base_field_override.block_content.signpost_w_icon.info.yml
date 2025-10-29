@@ -1,0 +1,18 @@
+uuid: 6e0715d5-20ea-452f-acab-1c8bf84bd28a
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_w_icon
+id: block_content.signpost_w_icon.info
+field_name: info
+entity_type: block_content
+bundle: signpost_w_icon
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

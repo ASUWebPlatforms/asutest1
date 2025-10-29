@@ -1,0 +1,8 @@
+uuid: de1d8887-5630-477e-b50c-93785ae7e2a5
+langcode: en
+status: true
+dependencies: {  }
+id: tabs_vertical
+label: 'Tabs Vertical'
+revision: 0
+description: ''

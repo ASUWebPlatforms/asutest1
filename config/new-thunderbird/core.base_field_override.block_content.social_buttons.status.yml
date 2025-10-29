@@ -1,0 +1,22 @@
+uuid: df0730b7-2ad8-4060-8a54-f2de8657d024
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.social_buttons
+id: block_content.social_buttons.status
+field_name: status
+entity_type: block_content
+bundle: social_buttons
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

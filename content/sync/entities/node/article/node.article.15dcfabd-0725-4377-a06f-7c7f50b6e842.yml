@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 15dcfabd-0725-4377-a06f-7c7f50b6e842
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-12-06T21:10:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Chapter Connections December 2018'
+created:
+  -
+    value: '2018-12-06T21:10:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-12-06T21:10:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/chapter-connections-december-2018
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68665\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"69\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"69\"}}]]</p>\r\n<p>Munich- After taking the summer off the Munch chapter held their September First Tuesday at the Paulaner Nockherberg. Left to Right: Thomas Steck '96, Wally Schoch '78, Tom Lipton , Irene Tamjidi '96, Brad Perkins ASU, Amy Schelling '96, Athan Kostopoulos'85,Daniel Hiltner '10, David Humphrey USC, Brigite Lesoigne,Claudine Schulz , Larry Schulz '76, Inka Steck.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68666\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"70\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"70\"}}]]</p>\r\n<p>Los Angeles- September First Tuesday in LA. The group met at Westside Tavern as a joint event with AIESEC Los Angeles Alumni. In attendance Charles Berzon '86, Jason Call '93, Burcu Onaranel (AIESEC alum and future T-bird), Helen (Burcu's mom visitng from Turkey), David Hayman '82, Bob Wheeler '88, MeiWah Wong '99, and Jesse Moore '13.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68667\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"71\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"71\"}}]]</p>\r\n<p>South Florida- For September instead of the traditional First Tuesday, the Miami chapter had Sunday Funday at Veza Sur Brewing Company which included a puppy party!</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68664\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"72\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"72\"}}]]</p>\r\n<p>Colorado- T-bird in Colorado gathered at Tavern Tech Center for their August First Tuesday.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68668\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"73\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"73\"}}]]</p>\r\n<p>Twin Cities- The Twin Cities chapter joined Global Minnesota for First Tuesday hosting a global trivia contest. Thunderbird Alum Brittany Hanes emceed the event. This is the third time the chapter has held this joint event with Global Minnesota.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p><strong>[[{\"fid\":\"68669\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"74\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"74\"}}]]</strong></p>\r\n<p>Los Angeles- Alums Joe Weber '78, MeiWah Wong '99, Kyoko Kent '79, Namoch Sokhom '89 volunteered at the QS MBA Recruiting Fair in Los Angeles September 23rd to share the Thunderbird Mystique with prospective students.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68670\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"75\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"75\"}}]]</p>\r\n<p>Vancouver- Great turnout in Vancouver for the October First Tuesday! Attendance included Mario Ariza Stehling '09, Steward Anderson '85, Hector Robinson '06, David Li '04, Rodolfo Yoshii '05, Roy Zhang '05, Abdul '16, Erin Martin-Serrano '19, Eduardo Knaudt '02, Siva Palli '15, Katherine Johnson '95, Tor Album '96, Jack Arthur '90, Marta Becker '95, Ross Mrazek '93.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68671\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"76\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"76\"}}]]</p>\r\n<p>Munich- Thunderbird and ASU alums gathered together with a great turnout to celebrate Oktoberfest. The group is already making plans for Oktoberfest next year.</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68672\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"77\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"77\"}}]]</p>\r\n<p>Tokyo- Tokyo alums hosted Dean Khagram during his Asia Tour to meet with T-birds and hear his vision for the school.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68673\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"78\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"78\"}}]]</p>\r\n<p>South Florida- Fun event in Miami for October First Tuesday!&nbsp; Exec Ed alumnus Luis \"Pops\" Brignoni ‘11 gave a tour of his Wynwood Brewing Company, the first and most successful microbrewery in the county.</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p>[[{\"fid\":\"68675\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"80\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"80\"}}]]</p>\r\n<p>Los Angeles October First Tuesday. Shelly Bay 1982; Melissa Isom 1988; Ongisa Damane prospecitve student; Rosane Grimberg 1999; Michelle Runge 1991; MeiWah Wong 1999, MeiWah's friend Don Chapman.</p>\r\n<p>.&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-6\"></div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Local chapters of Thunderbird School of Global Management alumni monthly get-togethers for 2018. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: a1af9d7d-5255-4f22-9b3f-f2f3af00c6ce
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.a1af9d7d-5255-4f22-9b3f-f2f3af00c6ce
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

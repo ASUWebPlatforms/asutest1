@@ -1,0 +1,21 @@
+uuid: f5f88a6d-3701-438e-afb1-13b1734ba653
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_background_color
+    - paragraphs.paragraphs_type.signpost_w_o_image
+  module:
+    - options
+id: paragraph.signpost_w_o_image.field_background_color
+field_name: field_background_color
+entity_type: paragraph
+bundle: signpost_w_o_image
+label: 'Background Color'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

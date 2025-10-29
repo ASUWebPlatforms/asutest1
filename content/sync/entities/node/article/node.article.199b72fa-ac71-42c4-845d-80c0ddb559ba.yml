@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 199b72fa-ac71-42c4-845d-80c0ddb559ba
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:20:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+title:
+  -
+    value: 'Startup Wisdom From a Teenager'
+created:
+  -
+    value: '2017-06-27T17:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:20:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/startup-wisdom-teenager
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">If we can bottle the drive of this young man, most of the world’s problems would disappear.&nbsp;</h3>\r\n<h3 class=\"graf graf--h3 graf-after--figure\">The Moziah has&nbsp;arrived.</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Ever wonder what generation comes after millennials?</p>\r\n<p class=\"graf graf--p graf-after--p\">We hope it is Mozennials.</p>\r\n<p class=\"graf graf--p graf-after--p\">By age 4, little Moses Bridges had a five-year plan and a goal. It surpassed anything you could get at Harvard Business School: he wanted a degree in looking good.</p>\r\n<p class=\"graf graf--p graf-after--p\">He was a start-up guru by age 9, and at 12, his eponymous bow tie emporium,&nbsp;<a href=\"http://mosbowsmemphis.com/\" class=\"markup--anchor markup--p-anchor\" data-href=\"http://mosbowsmemphis.com/\">Mo’s Bows</a>, is now an online purveyor of cool, hipster bow ties grossing upwards of $150,000 a year. It’s too bad he has to be in bed by 8:30 or who knows how far this young man might go?</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">Real 4-year-olds tie their bow ties</span></p>\r\n<p class=\"graf graf--p graf-after--p\">Moziah had a weakness for flashy bow ties before he turned five. Evidently, you can’t dress for success too early. Only Mo was frustrated by a lack of diversity in color and fabric available to the single digit entrepreneur generation, so young it doesn’t even have a name — maybe the Mozennials?</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*BlTU8bqiqCclnF1isXZ9aQ.jpeg\" data-width=\"480\" data-height=\"307\" data-scroll=\"native\"><img src=\"https://cdn-images-1.medium.com/max/800/1*BlTU8bqiqCclnF1isXZ9aQ.jpeg\" class=\"progressiveMedia-image js-progressiveMedia-image\" data-src=\"https://cdn-images-1.medium.com/max/800/1*BlTU8bqiqCclnF1isXZ9aQ.jpeg\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">But nothing, and certainly not age,&nbsp;gets in the way of this fellow and his bow ties. He has been dressing himself for as long as he can remember and would even tie the bow by hand (no clip for Mo, not even if he was late for nursery school).</p>\r\n<p class=\"graf graf--p graf-after--p\">Like many successful entrepreneurs, he had the benefit of a business mentor, in this case, her title was ‘grandmother’. She taught Mo the vital skills of business success — technology — how to use a sewing machine, and cost management — how to salvage the small patches and cloth fragments in her basket to make bolder, 4-year-old friendly bow ties. And that’s how a business is born.</p>\r\n<p class=\"graf graf--p graf-after--p\">Today, the bow ties on his website,&nbsp;<a href=\"http://mosbowsmemphis.com/\" class=\"markup--anchor markup--p-anchor\" data-href=\"http://mosbowsmemphis.com/\">Mo’s Bows</a>, are offered in a unique palette of colors and fashions, which brought some useful attention from Facebook users and his own&nbsp;<a href=\"https://www.etsy.com/people/MosBowsMemphis\" class=\"markup--anchor markup--p-anchor\" data-href=\"https://www.etsy.com/people/MosBowsMemphis\">Etsy</a>&nbsp;storefront. His style palette trends to a traditional southern gentleman with a cool hipster slant.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">The bow tie business has been good to Mo.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">The ties are created the old fashioned way and the only real impact that success has had on his creative ethic is a richer array of material to meet the demands of his 5 to 95-year-old customer universe. Mo’s Bow’s sells $150,000 of ties per year, in forty different colors. The budding entrepreneur has been featured in national publications and appeared on&nbsp;<a href=\"http://mosbowsmemphis.com/blogs/news/13985669-my-abc-shark-tank-episode\" class=\"markup--anchor markup--p-anchor\" data-href=\"http://mosbowsmemphis.com/blogs/news/13985669-my-abc-shark-tank-episode\">Shark Tank a</a>nd more recently, on Good Morning America.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\">The 12-year-old philanthropist. Why not?</span></p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*jcJLsNWMw5q43RSDhjhK9g.jpeg\" data-width=\"683\" data-height=\"1024\" data-scroll=\"native\"><img src=\"https://cdn-images-1.medium.com/max/800/1*jcJLsNWMw5q43RSDhjhK9g.jpeg\" class=\"progressiveMedia-image js-progressiveMedia-image\" data-src=\"https://cdn-images-1.medium.com/max/800/1*jcJLsNWMw5q43RSDhjhK9g.jpeg\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">After achieving meteoric business success, Mo turned his attention to those who evidently haven’t yet launched their own bow tie company, and is now donating a portion of his income to charity.</p>\r\n<p class=\"graf graf--p graf-after--p\">He comes from Memphis, where there are a number of families with children at the lower level of the economic spectrum. But Mo isn’t fighting the problem with words but with deeds. He recently donated $1600 to a program that will allow Memphis children to attend a local summer camp. Take that Thomas Piketty!</p>\r\n<p class=\"graf graf--p graf-after--p\">The plan was articulated in a recent post on&nbsp;<a href=\"http://mosbowsmemphis.com/blogs/news/14882893-go-mo-bow-tie-sends-10-kids-to-summer-camp\" class=\"markup--anchor markup--p-anchor\" data-href=\"http://mosbowsmemphis.com/blogs/news/14882893-go-mo-bow-tie-sends-10-kids-to-summer-camp\">Mo’s Bow’s blog</a>: “Memphis is ranked the highest of child hunger; most kids only get a meal when school is in session. At the community center, the kids get a meal and play time. Giving back to my community really helped me feel humble. It also makes me smile because I see other kids smiling and enjoying the camp.”</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">The Mozennial generation is coming. Thankfully.</p>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>&nbsp;</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>&nbsp;</p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>&nbsp;</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>&nbsp;</em></p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 539
+    height: 414
+    target_type: file
+    target_uuid: e76bb763-768f-42b1-ac6b-18f1e44a2b84
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f958611c-a8ea-4ee0-9285-4095ff22667a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115
+    file:
+      - file.image.e76bb763-768f-42b1-ac6b-18f1e44a2b84
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f958611c-a8ea-4ee0-9285-4095ff22667a

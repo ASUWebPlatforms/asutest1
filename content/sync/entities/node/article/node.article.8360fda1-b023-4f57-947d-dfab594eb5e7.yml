@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 8360fda1-b023-4f57-947d-dfab594eb5e7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-02-24T21:53:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'The Thunderbird Alumni Team is Growing.'
+created:
+  -
+    value: '2017-02-22T15:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-02-24T21:53:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/alumni-team-growing
+body:
+  -
+    value: "<p>Dear Thunderbird Alumni,</p>\r\n<p>[[{\"fid\":\"4310\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Paetra Yates Executive Director for Alumni Engagement\",\"field_file_image_title_text[und][0][value]\":\"Paetra Yates Executive Director for Alumni Engagement\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Paetra Yates Executive Director for Alumni Engagement\",\"title\":\"Paetra Yates Executive Director for Alumni Engagement\",\"height\":\"183\",\"width\":\"275\",\"style\":\"margin-left: 10px; margin-bottom: 15px; float: right;\",\"class\":\"panopoly-image-original media-element file-default\"}}]]I am very pleased to welcome Paetra Yates to the Thunderbird Community.&nbsp; Paetra is our new Executive Director for Alumni Engagement and formally arrived in Founders Hall last month.&nbsp; Paetra joins Robyn McLaughlin who took over responsibility for the Alumni Mentoring Program and our communications efforts at the end of last year, and Terri Nissen, our Senior Director for Alumni, who will continue coordinating the work of Alumni Central and other special projects, including our Global Reunion in Goa, India this November.&nbsp; In addition, Megan Kase has joined our larger Engagement team as Development Manager.&nbsp; Together with Maria Houle, Program Director for the SHARE Fellowship and Jeannie Barbes who will be working directly with me, our Engagement team are here to serve you, our Alumni community.</p>\r\n<p>Paetra’s appointment marks a milestone as we continue to grow the Thunderbird Alumni progam.&nbsp; Paetra has spent her career connecting people from around the world through international education and cultural exchange opportunities.&nbsp; For the past 15 years Paetra worked for the Institute of International Education (IIE) where she held various positions dedicated to working with alumni and professionals from more than 120 countries.&nbsp; Through her work Paetra has built lasting relationships with alumni of IIE’s programs such as the Fulbright Program, the Gilman International Scholarships, and the Iraq Scholars and Leaders Program.&nbsp; Paetra has a love of exploring new cultures and has lived and worked in a number of countries including Angola, China, Egypt, Indonesia, Korea, Libya, Mexico, Romania, and the UAE.&nbsp; Paetra holds an MPA in International Development from The George Washington University and a BA in Political Science from the University of Southern Mississippi.</p>\r\n<p>[[{\"fid\":\"4311\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Alumni Team - L-R: Megan Kase, Paetra Yates, Patrick McDermott, Terri Nissen, Robyn McLaughlin, Jeannie Barbes, Maria Houle\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Alumni Team - L-R: Megan Kase, Paetra Yates, Patrick McDermott, Terri Nissen, Robyn McLaughlin, Jeannie Barbes, Maria Houle\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Alumni Team - L-R: Megan Kase, Paetra Yates, Patrick McDermott, Terri Nissen, Robyn McLaughlin, Jeannie Barbes, Maria Houle\",\"title\":\"Thunderbird Alumni Team - L-R: Megan Kase, Paetra Yates, Patrick McDermott, Terri Nissen, Robyn McLaughlin, Jeannie Barbes, Maria Houle\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><em>Thunderbird Alumni Team - L-R: Megan Kase, Paetra Yates, Patrick McDermott, Terri Nissen, Robyn McLaughlin, Jeannie Barbes, Maria Houle</em></p>\r\n<p>I hope you will join me in welcoming Paetra to Thunderbird, to the Alumni Office, and to our broader Engagement efforts.&nbsp; As many of you know, over the past two years, Dr. Morrison has personally visited with over 40 of our global Alumni Chapters and participated in each of our 70th&nbsp;Anniversary gatherings as well as last year’s European Reunion.&nbsp; We have made a concerted effort over the past two years to increase the level of communication and the opportunities for engagement with Thunderbird’s 43,000 Alumni around the world.&nbsp; From the continued expansion of the mentoring program, the monthly alumni/student webcasts and in-person talks, monthly chapter briefing calls and chapter leader training initiatives, to the publication of the Thunderbird Magazine for the first time in three years, we have begun to build a new framework for this critical relationship.</p>\r\n<p>Best,</p>\r\n<p>Patrick McDermott<br><em>Chief Engagement Officer</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: b1bd9c4f-1500-40a5-9075-1fcda492ebe1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.b1bd9c4f-1500-40a5-9075-1fcda492ebe1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

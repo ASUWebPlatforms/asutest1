@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: d08c61d0-337c-4480-8ce5-c533b011bdb9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-08-13T21:27:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'By the Numbers: U.S. & China Trade'
+created:
+  -
+    value: '2019-08-09T01:54:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-08-13T21:27:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/us-china-trade-statistics
+body:
+  -
+    value: "<p><span>Effective negotiation starts with the facts. Amid escalating trade tensions between the U.S. and China that threaten to derail global growth, let's consider some key trade metrics. - <a href=\"https://ctt.ec/9YNsc\"><em>Click to tweet</em></a></span></p>\r\n<p><span><em><span>Click on the graph to pull up the full data visualization</span></em></span></p>\r\n<div class=\"tableauPlaceholder\"></div>\r\n<p><a href=\"https://public.tableau.com/views/USChinaTradebytheNumbers/BYTHENUMBERSU_S_CHINATRADE?%3Aembed=y&amp;%3Adisplay_count=yes&amp;%3Aorigin=viz_share_link&amp;%3AshowVizHome=no\">[[{\"fid\":\"74698\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"US CHINA trade by the numbers\",\"field_file_image_title_text[und][0][value]\":\"US CHINA trade by the numbers\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"US CHINA trade by the numbers\",\"field_file_image_title_text[und][0][value]\":\"US CHINA trade by the numbers\"}},\"attributes\":{\"alt\":\"US CHINA trade by the numbers\",\"title\":\"US CHINA trade by the numbers\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</a>&nbsp;</p>\r\n<div>If you're interested in learning more, check out the following resources from Thunderbird:</div>\r\n<div>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/will-us-china-trade-war-change-anything\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://thunderbird.asu.edu/knowledge-network/will-us-china-trade-war-change-anything&amp;source=gmail&amp;ust=1565391956949000&amp;usg=AFQjCNEYcRKvHHUhjYY_xYK9BHxOVUaEAw\">ThunderTalk Panel of Experts on China Trade and Development Agree that China is Playing a Long Game</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/china-us-trade-about-get-back-track\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://thunderbird.asu.edu/knowledge-network/china-us-trade-about-get-back-track&amp;source=gmail&amp;ust=1565391956949000&amp;usg=AFQjCNHXTBWEIFXTFDiBxnNLRbiJxgKNwg\">Is China-U.S. Trade About to Get Back on Track?</a></li>\r\n<li><a href=\"https://asunow.asu.edu/20180703-tariffs-blunt-tools-trade-disputes\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://asunow.asu.edu/20180703-tariffs-blunt-tools-trade-disputes&amp;source=gmail&amp;ust=1565391956949000&amp;usg=AFQjCNH1eGXzggM0VUd9pJ6KzoFadgPtqw\">Tariffs: The blunt tools of trade disputes</a></li>\r\n<li><a href=\"https://asunow.asu.edu/20170125-global-engagement-qa-rural-poor-vs-big-city-elite-could-lead-international-game-chicken\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://asunow.asu.edu/20170125-global-engagement-qa-rural-poor-vs-big-city-elite-could-lead-international-game-chicken&amp;source=gmail&amp;ust=1565391956949000&amp;usg=AFQjCNEN98Bxh02G0MRhTb8g62aANgtDpg\">Q&amp;A: 'Rural poor' vs. 'big city elite' could lead to international game of chicken</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/china-free-pass-trade\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://thunderbird.asu.edu/knowledge-network/china-free-pass-trade&amp;source=gmail&amp;ust=1565391956949000&amp;usg=AFQjCNH9cJm_u6hnQgEdqKfpYYRpGZvEYw\">It’s Time for the U.S. to Revoke China’s Free Pass on Trade</a></li>\r\n</ul>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: 'Effective negotiation starts with the facts. Amid escalating trade tensions between the U.S. and China that threaten to derail global growth, let''s consider some key trade metrics.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 3864
+    height: 2576
+    target_type: file
+    target_uuid: d8965724-044b-44ac-b1db-78cc0fccae35
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 502e0d76-285c-4932-b0ce-5dec5cd4f431
+  -
+    target_type: taxonomy_term
+    target_uuid: e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+  -
+    target_type: taxonomy_term
+    target_uuid: 60b6056a-f443-495e-beb5-9fedd39c2b7f
+  -
+    target_type: taxonomy_term
+    target_uuid: 0a95be68-66bd-40d4-8d99-e73ae5f0001c
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.d8965724-044b-44ac-b1db-78cc0fccae35
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.knowledge_network_tags.502e0d76-285c-4932-b0ce-5dec5cd4f431
+      - taxonomy_term.knowledge_network_tags.e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+      - taxonomy_term.knowledge_network_tags.60b6056a-f443-495e-beb5-9fedd39c2b7f
+      - taxonomy_term.knowledge_network_tags.0a95be68-66bd-40d4-8d99-e73ae5f0001c

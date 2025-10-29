@@ -1,0 +1,17 @@
+uuid: 481c0481-7d65-41e8-9747-f629ea1febed
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: flipcard_xl
+label: 'Flipcard xl (1000x450)'
+effects:
+  c0269e22-079d-4c4b-b393-651b17c48b51:
+    uuid: c0269e22-079d-4c4b-b393-651b17c48b51
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 1000
+      height: 450
+      crop_type: focal_point

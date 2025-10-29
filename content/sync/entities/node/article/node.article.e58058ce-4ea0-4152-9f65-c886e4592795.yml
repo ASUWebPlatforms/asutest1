@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: e58058ce-4ea0-4152-9f65-c886e4592795
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-22T23:24:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: '42nd Thunderbird European Alumni Reunion'
+created:
+  -
+    value: '2017-01-24T21:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T23:24:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/42nd-european-alumni-reunion
+body:
+  -
+    value: "<p>September 15-18, 2016</p>\r\n<p>[[{\"fid\":\"4121\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Reunion Mallorca 2016\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Alumni Reunion Mallorca 2016\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Alumni Reunion Mallorca 2016\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]</p>\r\n<p>On Sept 15-18, 222 alumni from 22 countries gathered in Mallorca, Spain for the <a href=\"https://flic.kr/s/aHskKHLysr\">42nd Thunderbird European Alumni Reunion</a>, offering a great chance for new and old friends to meet up and catch up. The event took two years of planning and included a Thursday night outdoor welcome reception with ­­live music at the Boat House, Friday Business Forum on global leadership and +impact, a traditional tapas dinner at Celler Sa Premsa with CEO &amp; Director General Allen Morrison as keynote speaker, a day on the water on board a huge catamaran and a classical Mediterranean diving / dancing boat, and a marvelous wine tasting and paella dinner at Bodega Santa Catarina Winery. Many alumni came early or stayed an extra few days to make it a full holiday, complete with tours around this historic, renowned resort island.</p>\r\n<p>Notable highlights included Michael Zhou ’02 coming from Shanghai (who again sponsored the event with 250 reunion caps); most recent graduate Ion Vintilescu ’16 (a Boeing rocket scientist who manages the company’s work on the International Space Station); earliest graduate John Vette ’64 (CEO of SNC Manufacturing in Milwaukee). The most alumni attending were from the U.S. (73), followed by Switzerland (26), Spain (25) and Germany (20); and the <i>Thunderbird Executive Leadership Council</i> had its largest ever turnout outside the U.S. There was great connectivity between alumni and the school’s leadership: Allen Morrison, Patrick McDermott, Chelsea Olson, Terri Nissen and professor Rich Ettenson. We also celebrated twin birthdays for Charlie LaFond and John Cook on Sept 15. The largest class turnouts were 1994 (16) and 1993 (14). Memorable moments included 200+ alumni swimming together in the Mediterranean, dancing to our hearts’ delight on the boats and the winery, late night carousing till the wee hours and swapping stories from 41 past reunions over 35 years (see the photo library <span style=\"text-decoration: underline;\">here</span> and <span style=\"text-decoration: underline;\">here</span>).</p>\r\n<p>We were proud to have outstanding speakers at the Business Forum who were warmly welcomed by all: Prabhu Guptara (Relational Analytics, Cambridge), Ghosson Ghassan Al-Khaled (EMBA; ACICO, Kuwait), Anna_Maria Birules Bertrand (ex- Minister Science &amp; Technology Spain, Barcelona), Uli Grabenwarter (EIF, Luxembourg), Mike Rosenberg (IESE, Barcelona), Richard Ettenson (Thunderbird, Phoenix) and Mukund Mohan (ex-Microsoft, Seattle). Their amazing presentations on global leadership and positive impact were delivered in TED-X style presentations with supporting slides that you can access if you were a participant (or contact Terri Nissen in alumni relations).</p>\r\n<p>Special thanks to our alumni sponsors: Karl Pisec, Yucel Yelken, Dennis Diokono, Michael Zhou, Charlie LaFond, Yael Coifman, Kristin Dennewill, Caspar Appeldoorn, Sara Engber and John Cook. And finally, we wish to thank the organizing committee who slugged away for about 20 months putting this event together: Kristin Dennewill, Lisa Rumsfeld, Yael Coifmann, Maria Gonzalez, Charlie LaFond and John Cook. The next two reunions will be held in Goa, India (November 2017) and in the land of the midnight sun, Stockholm, Sweden (Q3 - 2018); and there are rumors that some mini-reunions may crop up in 2017 around Europe: Scotland, Corsica, Switzerland, Poland, Malta, Greece!? Stay tuned for upcoming announcements and keep the flame alive—the Thunderbird Mystique is alive and well!</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 720
+    height: 540
+    target_type: file
+    target_uuid: 33daaa2d-e206-4bc6-a53c-77f2e1b5696f
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.33daaa2d-e206-4bc6-a53c-77f2e1b5696f
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

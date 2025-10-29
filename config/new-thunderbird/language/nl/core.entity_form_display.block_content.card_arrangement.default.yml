@@ -1,0 +1,21 @@
+third_party_settings:
+  field_group:
+    group_cards:
+      label: Kaarten
+content:
+  field_anchor_menu_settings:
+    settings:
+      title: Paragraaf
+      title_plural: Paragrafen
+  field_card_group:
+    settings:
+      title: Paragraaf
+      title_plural: Paragrafen
+  field_cta:
+    settings:
+      title: Paragraaf
+      title_plural: Paragrafen
+  field_tooltip:
+    settings:
+      title: Paragraaf
+      title_plural: Paragrafen

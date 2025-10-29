@@ -1,0 +1,10 @@
+uuid: c717c792-7e81-4228-82e9-ffd29a93bc4e
+langcode: en
+status: true
+dependencies: {  }
+id: signpost_quote
+label: 'Signpost Quote'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

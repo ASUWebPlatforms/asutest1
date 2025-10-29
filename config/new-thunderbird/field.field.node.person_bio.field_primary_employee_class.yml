@@ -1,0 +1,19 @@
+uuid: c973cbd0-2be1-4caf-b04b-9018dc638172
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_primary_employee_class
+    - node.type.person_bio
+id: node.person_bio.field_primary_employee_class
+field_name: field_primary_employee_class
+entity_type: node
+bundle: person_bio
+label: 'Primary Employee Class'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,18 @@
+uuid: 11f64a0e-f8cc-46a0-9e60-e48a1a9c1a11
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.signpost_with_modal_links
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: true
+    bundle_settings:
+      untranslatable_fields_hide: '1'
+id: paragraph.signpost_with_modal_links
+target_entity_type_id: paragraph
+target_bundle: signpost_with_modal_links
+default_langcode: site_default
+language_alterable: true

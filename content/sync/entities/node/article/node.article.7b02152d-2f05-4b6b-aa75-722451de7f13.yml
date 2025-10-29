@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 7b02152d-2f05-4b6b-aa75-722451de7f13
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Succeeding with Four Audience Types '
+created:
+  -
+    value: '2013-11-22T16:02:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network-succeeding-four-audience-types
+body:
+  -
+    value: "<p>Not all audiences are created equal. The same public speaker can start the same speech with the same joke and get laughter from people on one day and awkward silence on the next. Effective communicators anticipate audience differences and make adjustments before stepping to the pulpit. They also monitor and respond to nonverbal signals that come during their presentations. And they remain aware of cultural preferences that vary by region and demographics.</p>\r\n<p>The message being delivered does not need to change for each audience — only the organizational pattern, delivery style and supporting material. Business communication author Mary Ellen Guffey suggests specific strategies for succeeding with four common audience types.</p>\r\n<p><strong>#1: The friendly audience</strong>&nbsp;likes the speaker and the topic. Presenters can take risks, experiment with new delivery styles, and involve the audience in their presentation. They should smile and make eye contact, while including humor and personal experiences.</p>\r\n<p><strong>#2: The neutral audience</strong>&nbsp;appears calm, rational and engaged on the surface. But be mindful that many people who consider themselves objective already have their minds made up. True neutrality is rare. Speakers in this setting should present both sides of any issue they discuss, not trying to persuade, but instead relying on pro/con or problem/solution organizational patterns. They also should identify those parts of their message where everyone agrees, and build on the common ground. They should control their delivery with confident, small gestures — nothing too showy. Supporting material should provide facts, statistics and expert opinions. Humor, personal stories and flashy visuals should be kept to a minimum, and time should be saved for audience questions.</p>\r\n<div class=\"blue-header-block-wrapper\">\r\n<div class=\"blue-header-block-inner-wrapper\">\r\n<p style=\"text-align: center;\"><strong>Strategic Global Influence and Negotiation<br>October 2-5, 2017 | Tempe, AZ</strong></p>\r\n<p style=\"text-align: center;\"><a href=\"https://thunderbird.asu.edu/executive-education/programs/strategic-influence-negotiation?sd=KN4audiences\" class=\"btn btn-primary\">Learn More</a></p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<p><strong>#3: The disinterested audience</strong>&nbsp;often comes against their will — like schoolchildren to an algebra class. They have short attention spans, avoid eye contact, and lean back or sit in closed positions. Avoid darkening the room, standing in one place for too long, or using text-heavy or cluttered visuals. Speakers in this setting should be brief, making no more than three points. Humor, personal stories and audience participation can help, along with an intense and energetic delivery style.</p>\r\n<p><strong>#4: The hostile audience</strong>&nbsp;seeks opportunities to steal the spotlight or ridicule the speaker. These people are often defensive and emotional. A speaker in this environment should take a non-confrontational approach, organizing the message in a topical, chronological or geographical pattern. As with the neutral audience, humor should be avoided, and supporting material should be based on facts and expert opinions. Avoid a question-and-answer period, if possible; otherwise, use a moderator or accept only written questions.</p>\r\n<p>Speakers or those pubic speaking can take additional steps to connect with diverse audiences where cross-cultural differences might inhibit understanding. Speakers can ask someone in the audience to summarize key points they are making. They can restate information using different examples. And they can use presentation aids such as PowerPoint slides or flip charts to focus their listeners’ attention.</p>\r\n<p><strong>Conclusion</strong></p>\r\n<p>The key in all situations is to know and understand the audience. The late Austrian author Peter F. Drucker could have been talking about business communication as well as marketing when he said: “The aim of marketing is to know and understand the customer so well the product or service fits him and sells itself.”</p>\r\n<p><em><strong>Beth Stoops</strong>&nbsp;is former Managing Director in Thunderbird Executive Education and Thunderbird professor of Leadership Communication and Advanced Business Communication. She has more than 25 years of global experience as a teacher and administrator. <br></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

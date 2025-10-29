@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: d42c96c2-5980-45e0-a6a4-2aa8749cde3e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-02T22:19:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'Thunderbird mentor program'
+created:
+  -
+    value: '2016-11-01T17:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-02T22:19:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/mentor-program
+body:
+  -
+    value: "<p>[[{\"fid\":\"4015\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Mentor Program\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Mentor Program\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Mentor Program\",\"title\":\"Thunderbird Mentor Program\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p style=\"text-align: left;\"><span style=\"text-decoration: underline;\"><strong>Expanding Our Global Footprint</strong></span></p>\r\n<p style=\"text-align: left;\">Thunderbird’s mentor program was launched in fall 2015 to provide students with real-world exposure and professional guidance during their Thunderbird academic tenure, and to offer an active and personal way for alumni to give back to their alma mater. This fall, over 200 students from two full-time programs, the Master of Global Management and the Master of Arts in Global Affairs &amp; Management, will have been paired with Tbird alumni mentors who are industry leaders from around the globe. Jim Thomas ’81 and Dixita Dinesh are a unique mentor-mentee pair that has been very successful. As an incoming student from India in the spring 2016 semester, Dixita was focused on strengthening her entrepreneurial background to build a career in strategic planning and management. She was also looking forward to leveraging the Thunderbird alumni network which she had heard so much about. Jim’s expertise in entrepreneurial ventures, specifically in product management, sales, marketing and supply chain, served as the ideal match to Dixita’s previous experience in building her family business in her hometown of Pune, India. With close to a year of mentorship, both Dixita and Jim now express a great deal of enthusiasm for the organic process of coaching. Dixita puts it this way: Jim has “helped me gain clarity regarding my career plans but he has also given me a fresh perspective toward my everyday life which plays an important role in shaping my career and living a well-balanced life.” As a member of the Thunderbird Executive Leadership Council, Jim’s engagement with the School has acquired a holistic aspect. He believes that mentoring a current student benefits both partners in the mentoring relationship. Mentoring keeps him aligned with the core values of Thunderbird as it continues to offer students – and mentees – the tools they need to thrive in a complex business world. Jim is a true Thunderbird ambassador who encourages other T-bird alumni to become mentors themselves. In addition to participating in the educational growth of a future T-bird alum, the mentorship program opens a window for Jim into a very fast-paced post-graduate global business education. Mentoring gives both mentor and mentee an edge in what is increasingly a more competitive, interactive and culturally nuanced environment. Dixita and Jim’s story resonates deeply with dozens of our students, alumni and thought leaders who embody Thunderbird’s vision and mission of creating sustainable prosperity worldwide. The program strengthens the Thunderbird mystique and brings Thunderbird’s dynamic student body a step closer to our diverse, global alumni family. It’s definitely a win-win for everyone.</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p><strong>JIM THOMAS ’81 - </strong>Dixita Dinesh and I were matched for the Thunderbird Mentor Program in early 2016. We speak monthly about her personal career development plans. The topics range from class selection to internships to post-Thunderbird opportunities. T-bird’s Mentor Program Coordinator provided us initial training and monthly tips and possible subject matter topics to help us move our relationship forward. Dixita embraces Thunderbird’s core values of a diligent work ethic, global citizenship and a knack for managing ambiguity. I am happy to build and mentor a relationship with Dixita.&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p><strong>DIXITA DINESH '17</strong>&nbsp;- The first few weeks at Thunderbird are overwhelming, and obviously so; it is a new beginning with a new routine, multiple classes and various clubs. The mentor program was one of the many programs I joined as a new student. I was paired with Mr. Jim Thomas, based on my past experience and my future interests. Jim has over 35 years of experience in multiple industries and presently lives in Minnesota with his wife, who is also an alumna of Thunderbird, and their dog, Dobby. We schedule monthly calls to discuss progress with regard to my career, internship and how I can optimize my time at Thunderbird. I highly recommend that other students sign up for the mentor program. Mentor insights into their long work experience and the guidance that they provide adds to what we learn in our classes. It completes the circle and I could not be more thankful for having Jim as my mentor. Thunderbird stresses the importance of networking, and the mentor program is the first step you can take towards building relationships that last forever.</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 367
+    height: 513
+    target_type: file
+    target_uuid: 5cbaa1f0-b412-48e6-b759-a7cdc7479577
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.5cbaa1f0-b412-48e6-b759-a7cdc7479577
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

@@ -1,0 +1,27 @@
+display:
+  default:
+    display_title: Master
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Použiť
+          reset_button_label: Reset
+          exposed_sorts_label: 'Zoradiť podľa'
+          sort_asc_label: Vzostupne
+          sort_desc_label: Zostupne
+      fields:
+        purchased_entity:
+          label: Položka
+          separator: ', '
+        unit_price__number:
+          label: Cena
+          separator: ', '
+        remove_button:
+          label: Odstrániť
+        total_price__number:
+          label: Celkom
+          separator: ', '
+      arguments:
+        order_id:
+          exception:
+            title: Všetky

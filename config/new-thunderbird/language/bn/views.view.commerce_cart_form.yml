@@ -1,0 +1,10 @@
+display:
+  default:
+    display_options:
+      fields:
+        remove_button:
+          label: অপসারণ
+      arguments:
+        order_id:
+          exception:
+            title: সমস্ত

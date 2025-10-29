@@ -1,0 +1,28 @@
+uuid: 8803bf5b-4fa0-456d-b76f-8fdb86ebe52b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - thunderbird
+_core:
+  default_config_hash: hWjadvFLm0Q2QrN2TDlH7bOu8k5ZHJ5IJ88OaxrPtr8
+id: thunderbird_tabs
+theme: thunderbird
+region: pre_content
+weight: -11
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility:
+  request_path:
+    id: request_path
+    negate: true
+    pages: /user/login

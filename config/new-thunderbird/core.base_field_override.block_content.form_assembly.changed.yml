@@ -1,0 +1,18 @@
+uuid: 43fcc747-7d08-4e6c-b8e0-d52a5146e836
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.form_assembly
+id: block_content.form_assembly.changed
+field_name: changed
+entity_type: block_content
+bundle: form_assembly
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

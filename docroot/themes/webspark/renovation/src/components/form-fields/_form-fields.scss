@@ -1,0 +1,14 @@
+// TODO: Determine if this is actually being applied
+#drupal-off-canvas {
+  form.uds-form {
+    .form-check-label {
+      &::before {
+        top: -0.3rem;
+      }
+
+      &::after {
+        top: -0.1rem;
+      }
+    }
+  }
+}

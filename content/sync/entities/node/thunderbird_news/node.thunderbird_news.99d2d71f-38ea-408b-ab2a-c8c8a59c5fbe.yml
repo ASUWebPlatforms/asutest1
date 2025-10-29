@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 99d2d71f-38ea-408b-ab2a-c8c8a59c5fbe
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-07-12T21:01:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+title:
+  -
+    value: 'Richard Branson Rockets Into Space'
+created:
+  -
+    value: '2021-07-12T21:01:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-07-12T21:01:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /richard-branson-rockets-into-space
+body:
+  -
+    value: '<p>Thunderbird Professor of Space Policy and Business, Greg Autry, offers expert analysis and commentary on CNN Newsroom with Michael Holmes.&nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-07-12T13:45:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 1196
+    height: 626
+    target_type: file
+    target_uuid: eee78951-14fa-4846-bf2d-5dfd865d286e
+field_news_link:
+  -
+    uri: 'https://youtu.be/uhMClV_xi4E'
+    title: 'Prof. Greg Autry joins CNN Newsroom with Michael Holmes to talk billionaires in space'
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: CNN
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc
+    file:
+      - file.image.eee78951-14fa-4846-bf2d-5dfd865d286e

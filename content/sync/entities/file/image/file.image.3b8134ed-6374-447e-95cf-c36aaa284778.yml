@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 3b8134ed-6374-447e-95cf-c36aaa284778
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+filename:
+  -
+    value: marissa_-_ca.jpg
+uri:
+  -
+    value: 'public://marissa_-_ca.jpg'
+    url: /sites/default/files/marissa_-_ca.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 110780
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-02-14T23:55:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-14T23:55:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115

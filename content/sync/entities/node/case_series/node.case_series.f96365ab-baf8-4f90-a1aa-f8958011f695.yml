@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: f96365ab-baf8-4f90-a1aa-f8958011f695
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:38:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'John Ellis in the Pima-Maricopa Indian Community'
+created:
+  -
+    value: '2016-07-27T22:38:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:38:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-99-0024
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case focuses on John Ellis, the Executive Director of Health and Human Services (HHS) in the Salt River Pima-Maricopa Indian Community. As an outsider to the reservation, Ellis was brought in to turn the department around and plan for the future. Four years after Ellis energized and improved HHS, a whole new set of economical and social changes were introduced with the opening of casinos, a golf resort, and a new freeway. The case analyzes Ellis'' personal leadership style and the key components needed to inspire the staff of a non-profit organization in a tight-knit community with a unique culture. Special attention is given to the importance of planning and how to lead in a time of unlimited opportunity.&nbsp;</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-99-0024
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 7b97d78e-fa55-4d4f-befb-c99324973f4a
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'USA 1999'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  - {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: e73e3976-e6dd-4aca-ac80-54c8853bc396
+field_teaching:
+  -
+    value: "The case is designed for classroom discussion of leadership, and the importance of incorporating cultural components. Communicating vision and creating buy-in tied together with strategy to maintain focus and results. Many lessons can be learned from John Ellis, who used simple metaphors to express the essence of a great leader. With the influx of revenues, two scenarios could be played out:\r\n\r\nHuman inclination is to be glutinous and consume as much as possible.\r\nThe other option is to accept nourishment along the way and grow incrementally.\r\nJohn Ellis paid attention to achieving the latter of the two options, and to encouraging the entire tribe to focus on a long-term plan. As life on the reservation became more complicated, adjustments in leadership style, interaction with the entire community and preparation for the future became the focal points."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+      - taxonomy_term.case_series_industry.7b97d78e-fa55-4d4f-befb-c99324973f4a
+      - taxonomy_term.case_series_fields.e73e3976-e6dd-4aca-ac80-54c8853bc396

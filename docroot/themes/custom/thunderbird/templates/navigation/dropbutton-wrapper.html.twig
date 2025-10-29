@@ -1,0 +1,21 @@
+{#
+/**
+ * @file
+ * Theme implementation for a dropbutton wrapper.
+ *
+ * @ingroup themeable
+ */
+#}
+{% if children %}
+  {% apply spaceless %}
+    <div class="dropbutton-container">
+      <div class="dropbutton-wrapper-outer">
+        <div class="dropbutton-wrapper">
+          <div class="dropbutton-widget">
+            {{ children }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endapply %}
+{% endif %}

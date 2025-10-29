@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 910b4b2b-974b-41c2-a463-58ccdc7e4ad3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Marketing, Operations, Finance and Pollo a la Brasa '
+created:
+  -
+    value: '2014-04-10T15:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network-marketing-operations-finance-pollo-a-la-brasa
+body:
+  -
+    value: "<p>The first week of the Apilab TEM Lab in Lima, Peru was incredible. We established a close relationship with our client and several other key stakeholders, finalized the client contract, and started the discovery phase. Over the next four weeks, we will be focusing our attention on Apilab’s marketing and branding, cost structure and operations. We will also conduct a general analysis of Apilab’s product development process and HR practices. Overall, Apilab has been extremely welcoming and open with the TEM Lab team. They have provided us with access to their financial data, distributors, accountants, factory floor, suppliers and employees. Establishing such a trusting relationship with Lia and the Apilab team has been essential to making our first week of work a complete success. We also met up with Thunderbird alumni and celebrated the end of the week with a “Pollo a la Brasa” lunch at Apilab. <strong>&nbsp;</strong></p>\r\n<p><span>Early in the week, we began to conquer and divide our Discovery Phase tasks. Below is a snapshot of each team members’ activities:</span></p>\r\n<p><span>&nbsp;</span><strong>KELLY</strong><span> started the in depth analysis of the competitive landscape in which Apilab’s products compete. She spent an entire day shadowing a distributor to several Wongs and Metros (some of the major supermarket chains in Peru) in the greater Lima area. Taking photos, video, talking to shelf stockers and “mercaderistas” (in-store product promoters) and observing shoppers, she gathered key data and insights on the “autoservicios” (supermarket) channels that account for nearly all of Apilab’s business. Although she was nearly arrested for taking photos without first asking for permission, the competitive analysis is off to a great start. Kelly noticed that shopping behavior and supermarket culture is quite different in Peru than in the US and these observations will play a crucial role in our team's recommendations. This week Kelly has continued to shadow the main Apilab distributor to analyze the other autoservicios and has started visiting all the kiosks and other small stores where Apilab products are sold.</span></p>\r\n<p><span>Here’s a video of a street performer she saw while riding with Jose, the distributor. You can see the Wong supermarket in the background.&nbsp;</span></p>\r\n<p><span>&nbsp;</span><span>Youtube Link: https://www.youtube.com/watch?v=D14IvV5J11Y</span></p>\r\n<p><em><strong><span>Kelly Doing Competitive Analysis&nbsp;<strong>at Wong Before Almost Getting Arrested</strong></span></strong></em></p>\r\n<p>&nbsp;</p>\r\n<p><strong>PATRICIA </strong>spent the first week gathering Apilab’s financial reports and other relevant financial data in order to analyze Apilab’s cost structure and calculate each product line’s breakeven point and marginal costs. Obtaining the information is not an issue as our client has repeatedly said she wants us to have access to any and all information that will help us help Apilab the most. The bigger challenge, however, has been deciphering the accounting methods and jargon of Peru in Spanish. On the HR front, Patricia has spent time talking to Lia about what she perceives are her main HR challenges and what she would like to get out of this exercise. Lia is a very empathetic and compassionate manager who cares deeply about her employees. Also, Patricia has been interviewing employees and researching culturally relevant HR related material so that issues and recommendations are understood within the cultural context of Peru.</p>\r\n<p><em><strong>Patricia and Uriel Meeting with the Client</strong></em></p>\r\n<p>[[{\"fid\":\"2968\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><br> <strong>URIEL</strong> spent time studying the competition's online presence as well as other well-known health snack food websites. &nbsp;He is in the process of creating image boards with his findings which will allow the team to detect trends and pick best practices/ideas for Apilab’s website as well as to highlight things to avoid.&nbsp; This analysis also allows the team to see the competition's packaging and use of product logo/label.&nbsp; This is extremely important as Apilab prepares to re-brand all of their product lines and design their new company logo.&nbsp; Although Apilab is already in the process of brainstorming ideas for a new logo with a freelancer designer, our team is also creating ideas for the logo based on in-store observations, the competition's packaging and our increasing understanding of Apilab’s values, mission and vision. &nbsp;</p>\r\n<p><em><strong>Uriel Hard at Work at our \"Office\" at Apilab</strong></em></p>\r\n<p>[[{\"fid\":\"2969\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>BRYAN </strong>has spent the past week and a half observing Apilab's operations on the factory floor. According to Bryan, \"organized chaos\" is the best way to describe the current state of operations at Apilab. The workers are all capable and perform multiple tasks simultaneously. They also work extremely hard and communicate well with each other. Without much standardization in the process, however, there are areas for major improvements. Bryan has observed that space is a major issue, especially when the factory floor is at full swing. Apilab has really opened up its operations and taken the time to explain all of their processes&nbsp;to the entire team .</p>\r\n<p><em><strong>Bryan Timing Activities on the Factory Floor</strong></em></p>\r\n<p>[[{\"fid\":\"2970\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><span>During our first week we also spent time talking with Thunderbird alumni. On Tuesday, April 1st we had a quasi “First Tuesday” at Huaringas where we met Bernard Matron 13,’ who now works for Domino’s and travels through all of Latin America and Alejandro Torres who first became a friend of Thunderbird through the Lima Module Abroad class of 2012 and has since visited our campus and been a friend and local guide for TBirds working or studying in Lima. We also had coffee with Fernando Ferrero ’04, who has worked for Cargill in Peru since graduating from Thunderbird. Fernando talked about his experience at Thunderbird, Cargill’s operations in Peru and he also echoed our research findings that the frozen/packaged food industry has been expanding rapidly over the past 10 years in Peru with the growth of the middle class.&nbsp;</span></p>\r\n<p><em><strong><span>First Tuesday at Huaringas with&nbsp;Bernard Matron 13’ (first from right) and Alejandro Torres (third from the right)</span></strong></em></p>\r\n<p>[[{\"fid\":\"2971\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>We celebrated the end of a successful week on Friday April 4th with a TEMLab sponsored “Pollo a la Brasa” lunch with all of Apilab’s employees. We had originally suggested pizza, but the workers requested “Pollo a la Brasa” (one of Peru’s most popular dishes) instead. They also preferred Inka Cola (the national soda) instead of Coca Cola. During lunch, all 21 of us squeezed into Apilab’s tiny front office, making for quite a cozy environment. Most of Apilab’s workers are women; many are relatively young in their late 20’s and early 30’s. The ladies were especially fond of Bryan, requesting photos with him for their Facebook pages.&nbsp;</p>\r\n<p>[[{\"fid\":\"2972\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Marketing, Operations, Finance and Pollo a la Brasa\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Overall, our first week as a team in Peru was incredibly productive, informative, and fun. We look forward to the coming weeks as we continue our discovery and relationship-building phase of the project.</p>\r\n<p>&nbsp;<span>Stay tuned!!</span></p>\r\n<p>&nbsp;<span>Saludos,</span></p>\r\n<p>&nbsp;<span>Patricia, Bryan, Kelly and Uriel<br></span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

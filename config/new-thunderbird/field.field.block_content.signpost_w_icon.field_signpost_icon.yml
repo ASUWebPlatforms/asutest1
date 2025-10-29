@@ -1,0 +1,88 @@
+uuid: 9062cdae-05d7-456d-9039-a3c640055e4e
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_w_icon
+    - field.storage.block_content.field_signpost_icon
+    - paragraphs.paragraphs_type.signpost_w_icon
+  module:
+    - entity_reference_revisions
+id: block_content.signpost_w_icon.field_signpost_icon
+field_name: field_signpost_icon
+entity_type: block_content
+bundle: signpost_w_icon
+label: 'Signpost w/ Icon'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      signpost_w_icon: signpost_w_icon
+    negate: 0
+    target_bundles_drag_drop:
+      accordion_panel:
+        weight: 21
+        enabled: false
+      anchor_menu_settings:
+        weight: 22
+        enabled: false
+      blockquote:
+        weight: 23
+        enabled: false
+      card:
+        weight: 24
+        enabled: false
+      card_degree:
+        weight: 25
+        enabled: false
+      card_event:
+        weight: 26
+        enabled: false
+      card_group_default:
+        weight: 27
+        enabled: false
+      card_group_degree:
+        weight: 28
+        enabled: false
+      card_group_story:
+        weight: 29
+        enabled: false
+      card_group_with_icon:
+        weight: 30
+        enabled: false
+      card_media:
+        weight: 31
+        enabled: false
+      card_story:
+        weight: 32
+        enabled: false
+      card_with_icon:
+        weight: 33
+        enabled: false
+      cta:
+        weight: 34
+        enabled: false
+      gallery_image:
+        weight: 35
+        enabled: false
+      signpost:
+        weight: 36
+        enabled: false
+      signpost_w_icon:
+        weight: 37
+        enabled: true
+      tab_content:
+        weight: 38
+        enabled: false
+      testimonial:
+        weight: 39
+        enabled: false
+      tooltip:
+        weight: 40
+        enabled: false
+field_type: entity_reference_revisions

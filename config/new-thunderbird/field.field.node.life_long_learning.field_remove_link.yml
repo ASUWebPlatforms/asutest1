@@ -1,0 +1,23 @@
+uuid: 253f53a9-2d86-4c47-9864-fec11474c60b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_remove_link
+    - node.type.life_long_learning
+id: node.life_long_learning.field_remove_link
+field_name: field_remove_link
+entity_type: node
+bundle: life_long_learning
+label: 'Remove Link'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

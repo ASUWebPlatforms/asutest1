@@ -1,0 +1,19 @@
+uuid: 52219705-718d-43bb-bc89-1f2acffc08c6
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image_and_text_gdmi_block
+    - field.storage.block_content.field_title
+id: block_content.image_and_text_gdmi_block.field_title
+field_name: field_title
+entity_type: block_content
+bundle: image_and_text_gdmi_block
+label: Title
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

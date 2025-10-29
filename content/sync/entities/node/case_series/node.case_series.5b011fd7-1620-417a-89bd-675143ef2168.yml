@@ -1,0 +1,108 @@
+uuid:
+  -
+    value: 5b011fd7-1620-417a-89bd-675143ef2168
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:28:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Long-Term Capital Management'
+created:
+  -
+    value: '2016-07-27T22:28:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:28:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-99-0020
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Tuesday, September 22, 8:30pm, the Federal Reserve Bank of New York (Fed). It was a meeting at which all of Wall Street''s biggest power players were present. In attendance were Sandy Warner, chairman of JP Morgan; David Komansky chairman, and Herb Allison, president of Merrill Lynch; Frank Newman, chairman of Bankers Trust; Jon Corzine, co-chairman of Goldman Sachs, and Robert Katz, the managing director; Deryck Maughan, co-CEO of Salomon Smith Barney; Allen Wheat, chairman of Credit Suisse First Boston; Philip Purcell, chairman of Morgan Stanley; Jimmy Cayne, president of Bear Stearns &amp; Co., and Warren Spector, deputy president. Unlike previous gatherings at the Fed for which festive occasions were celebrated, this meeting was a grim one. They were there to help rescue Long-Term Capital Management, and unregulated hedge fund, which was threatening to spin out of control, taking the global capital markets with it.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-99-0020
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'US/Global 1998'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8d772ea0-1ef9-48e6-b193-56fc207e9960
+  -
+    target_type: taxonomy_term
+    target_uuid: e63a6a76-e3bd-49e7-93a2-9cfd4c527752
+  -
+    target_type: taxonomy_term
+    target_uuid: e50aab78-e303-4860-a93e-4060303a1b0b
+field_teaching:
+  -
+    value: N/A
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.8d772ea0-1ef9-48e6-b193-56fc207e9960
+      - taxonomy_term.case_series_fields.e63a6a76-e3bd-49e7-93a2-9cfd4c527752
+      - taxonomy_term.case_series_fields.e50aab78-e303-4860-a93e-4060303a1b0b

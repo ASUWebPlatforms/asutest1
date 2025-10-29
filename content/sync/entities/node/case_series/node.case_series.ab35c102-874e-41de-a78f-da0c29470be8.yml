@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: ab35c102-874e-41de-a78f-da0c29470be8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T18:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'NIKE-Globalizing the Sportswear Industry'
+created:
+  -
+    value: '2016-07-26T18:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T18:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-05-0009
+body:
+  -
+    value: '<p><span>Andrew Amphlett''s first assignment as a recently hired MBA at Sequim Investments was to evaluate NIKE Inc. for possible addition to the company''s high-growth equity portfolio. NIKE''s revenues had grown substantially during 2003 and 2004, in large part because of growth in global sales. Although the company''s share price had climbed to over $70 per share, JPMorgan reported $88 per share as their newly established target price. A Value Line report on NIKE, however, noted that there was little upside stock price potential to NIKE''s shares because much of the anticipated growth was already impounded in the current price. Amphlett must prepare a financial and valuation analysis of NIKE and make a portfolio recommendation to his boss.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-05-0009
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8a4c1bd8-b2fc-4b48-a0ad-8f51c5c11e99
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  - {  }
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: 'The purpose of the case is to analyze NIKE''s recent financial performance and estimate the company''s share value. The case provides historical financial data for NIKE as well as Reebok and adida-Saloman, two leading competitors in the athletic footwear and apparel business. The case also provides capital market data on NIKE''s beta, debt rating, etc. Students can use the data to estimate future NIKE''s free cash flow and the company''s weight-average cost of capital (WACC), and then use these values to estimate the firm''s intrinsic value. The case has been used in the full-time MBA program as well as several Executive MBA programs focused on financial analysis and corporate valuation.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.8a4c1bd8-b2fc-4b48-a0ad-8f51c5c11e99

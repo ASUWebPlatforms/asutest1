@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 8986a415-de3d-45ff-9031-25d5f513a01f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: the_promise_of_the_digital_age_and_the_need_for_a_new_digital_deal.jpg
+uri:
+  -
+    value: 'public://article/the_promise_of_the_digital_age_and_the_need_for_a_new_digital_deal.jpg'
+    url: /sites/default/files/article/the_promise_of_the_digital_age_and_the_need_for_a_new_digital_deal.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 2528645
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-08-18T18:22:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-08-18T18:22:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

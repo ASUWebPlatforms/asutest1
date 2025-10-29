@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: 1da9e5b1-e9c7-4a2c-a411-b70dfc56e616
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:00:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'TAEQ: Premium Lifestyle Private Brand'
+created:
+  -
+    value: '2016-07-16T00:49:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:00:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-11-0020
+body:
+  -
+    value: '<p><span>TAEQ was a new branding concept in the Brazilian retail market. The name represented a combination of two concepts associated with modern wellness: tao, representing balance and naturalness, and eki, representing vital energy. TAEQ was developed to become one of the leading private brands in the Grupo Pao de Acucar (GPA) portfolio. As the largest Brazilian retailing conglomerate, GPA wanted to extend its marketing reach into the evolving wellness market with the new brand concept.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-11-0020
+field_case_page_length:
+  -
+    value: '20 Pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: 'Geographic 2008'
+field_case_source:
+  -
+    value: 'Private field'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  - {  }
+field_teaching:
+  -
+    value: "To understand private brands and their role in modern retailing\r\nTo examine the competitive practices of major retailers with focus on Fast Moving Consumer Goods (FMCG)\r\nTo explore the role that private brands play in a retailer’s strategy\r\nTo evaluate the organizational complexities of managing a private brand—from concept design to store shelf"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

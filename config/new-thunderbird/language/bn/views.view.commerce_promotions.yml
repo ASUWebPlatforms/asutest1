@@ -1,0 +1,22 @@
+display:
+  default:
+    display_title: ডিফল্ট
+    display_options:
+      fields:
+        name:
+          label: নাম
+        operations:
+          label: কার্যাবলী
+      filters:
+        name:
+          expose:
+            label: নাম
+        status:
+          expose:
+            label: স্ট্যাটাস
+  admin:
+    display_options:
+      menu:
+        title: তালিকা
+      tab_options:
+        title: তালিকা

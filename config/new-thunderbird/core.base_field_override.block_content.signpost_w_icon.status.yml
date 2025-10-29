@@ -1,0 +1,22 @@
+uuid: 72c9a363-91c6-499b-8bb2-6bc428422e40
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_w_icon
+id: block_content.signpost_w_icon.status
+field_name: status
+entity_type: block_content
+bundle: signpost_w_icon
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

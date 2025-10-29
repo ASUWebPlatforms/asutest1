@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 18b2641a-6a7c-4bf8-a1c9-1ec461984892
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+filename:
+  -
+    value: career-management-center-employment.jpg
+uri:
+  -
+    value: 'public://article/career-management-center-employment.jpg'
+    url: /sites/default/files/article/career-management-center-employment.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 27981
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-01-18T23:55:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-01-18T23:55:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff

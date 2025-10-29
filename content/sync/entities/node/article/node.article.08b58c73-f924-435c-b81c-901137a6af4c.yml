@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 08b58c73-f924-435c-b81c-901137a6af4c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-13T00:43:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Thunderbird on the Move: Part 2'
+created:
+  -
+    value: '2018-02-28T17:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-13T00:43:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-move-part-2
+body:
+  -
+    value: "<p><em>[[{\"fid\":\"13238\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Aerial View - Campus\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Aerial View - Campus\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Aerial View - Campus\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Aerial View - Campus\"}},\"attributes\":{\"alt\":\"Thunderbird Aerial View - Campus\",\"title\":\"Thunderbird Aerial View - Campus\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</em></p>\r\n<p><em>Thunderbird Archivist, Shannon Walker, has written an interesting collection of narratives describing the history of the campus.&nbsp; In this three part series, she takes us from the original intent of the developers during World War II all the way through a number of plans by previous Presidents to sell, rebuild and relocate the campus. Read the second part in the series below.&nbsp; If you missed the first piece, you can read it now in the <a href=\"https://thunderbird.asu.edu/knowledge-network/thunderbird-move-part-1\">Knowledge Network</a>.</em></p>\r\n<p>This is not the first time Thunderbird has contemplated moving the campus.&nbsp; In 1959 the U.S. Government was exploring options for the disposal of Ellis Island.&nbsp; There were strong feelings that the island should keep some of its “international” flavor since it was the main gateway for immigrants for this country for so many years.&nbsp; Ultimately it was hoped that the site would evolve into an educational institute that focused on educating Americans in the language and cultures of other countries. Someone proposed the relocation of the American Institute for Foreign Trade, and we were contacted in regards to acquiring the property. For two years the School’s administration contemplated the move. Board members flew to the East Coast for discussion and planning, eventually deciding against it. Through the process, AIFT solidified its original mission and remained true to its founding. The ultimate decision not to move brought relief to the city of Glendale, the greater-Phoenix area and the state of Arizona as a whole. In a letter from Senator Barry Goldwater to President Carl Sauer regarding the idea of moving the school, dated April 18, 1960, he wrote <i>“…proceed with great caution. If they feel there is a need for this type of school, we have the best one in the world right here. Let them come to Glendale.”</i></p>\r\n<p>However, the aging campus and continual need for improvements and investments, and the quest to build a campus that was more functional as an educational center, kept Thunderbird open to the idea of moving through much of its history.</p>\r\n<p>In 1975, School administrators were approached by the Carefree Development Company who proposed the idea of moving the school to a newly developed site 20 miles north of Scottsdale. The offer was attractive, Dr. Voris and the Board of Directors took time to weigh the pros and cons of such a move, eventually deciding against it.</p>\r\n<p>Though plans to move the campus were not realized, administrators continued to look for opportunities to make improvements and develop the vacant land.</p>\r\n<p>In a 1981 letter authored by Berger Erickson, long-time employee also known as “Mr. Thunderbird,” to G.R. Herberger (of the Herberger’s department store chain), Mr. Erickson discussed plans for various building projects, specifically a new faculty building. In the memo it casually states “...the estimated cost of which included the demolition of the tower…”. The Tower! One of the most sacred of buildings on the campus was almost arranged for demolition with the stroke of a key. This plan never came to fruition, there is no indication of why, but it reveals the mindset of the School’s administration that the original buildings may be sacrificed at any point for the growth and development of Thunderbird.</p>\r\n<p>In the archival history, we can find other instances of Thunderbird being courted to move to San Francisco and to Washington, DC, none of which seemed like suitable moves at the time. Over the years it seems like the School has maintained an openness to moving to different sites. While there has always been an appreciation for the history of the airfield, everyone seemed to acknowledge the temporary nature of the original structures and the need to seize the moment, if the right opportunity came along.</p>"
+    format: basic_html
+    processed: ''
+    summary: 'This is not the first time Thunderbird has contemplated moving the campus.  In 1959 the U.S. Government was exploring options for the disposal of Ellis Island.  There were strong feelings that the island should keep some of its “international” flavor since it was the main gateway for immigrants for this country for so many years.  Ultimately it was hoped that the site would evolve into an educational institute that focused on educating Americans in the language and cultures of other countries. Someone proposed the relocation of the American Institute for Foreign Trade, and we were contacted in regards to acquiring the property. For two years the School’s administration contemplated the move. Board members flew to the East Coast for discussion and planning, eventually deciding against it. Through the process, AIFT solidified its original mission and remained true to its founding. The ultimate decision not to move brought relief to the city of Glendale, the greater-Phoenix area and the state of Arizona as a whole. In a letter from Senator Barry Goldwater to President Carl Sauer regarding the idea of moving the school, dated April 18, 1960, he wrote “…proceed with great caution. If they feel there is a need for this type of school, we have the best one in the world right here. Let them come to Glendale.”'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 600
+    height: 300
+    target_type: file
+    target_uuid: 0bd050af-75d3-4273-a9b7-8f6c49b50ba5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.0bd050af-75d3-4273-a9b7-8f6c49b50ba5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

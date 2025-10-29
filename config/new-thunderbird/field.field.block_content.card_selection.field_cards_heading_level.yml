@@ -1,0 +1,23 @@
+uuid: 85de03c8-e437-436d-b682-a7368e5d8e9a
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - field.storage.block_content.field_cards_heading_level
+  module:
+    - options
+id: block_content.card_selection.field_cards_heading_level
+field_name: field_cards_heading_level
+entity_type: block_content
+bundle: card_selection
+label: 'Cards heading level'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: h3
+default_value_callback: ''
+settings: {  }
+field_type: list_string

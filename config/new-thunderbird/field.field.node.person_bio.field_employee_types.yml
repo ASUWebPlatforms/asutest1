@@ -1,0 +1,29 @@
+uuid: dfc78a2f-b969-4c52-b9df-ba8d98b2eab9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_employee_types
+    - node.type.person_bio
+    - taxonomy.vocabulary.employee_types
+id: node.person_bio.field_employee_types
+field_name: field_employee_types
+entity_type: node
+bundle: person_bio
+label: 'Employee Types'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      employee_types: employee_types
+    sort:
+      field: name
+      direction: asc
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

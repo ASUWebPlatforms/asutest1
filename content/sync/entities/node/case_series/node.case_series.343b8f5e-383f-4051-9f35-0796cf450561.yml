@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: 343b8f5e-383f-4051-9f35-0796cf450561
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:35:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Coca Cola Femsa, S.A. De C.V.'
+created:
+  -
+    value: '2016-07-27T23:35:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:35:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-98-0007
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Coca Cola Femsa, a bottler and distributor of Coke products in Mexico, experienced a drop in its stock price and operating income after the devaluation of the Mexican peso in December 1994. A Morningstar analysis has questioned Mexican companies quality of earnings under the country''s mandatory inflation accounting procedures. Juanita Carlos, an analyst with a Houston-based bank, must decide whether a $100 million loan should be made to Coca Cola Femsa.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-98-0007
+field_case_page_length:
+  -
+    value: '38 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: 'Mexico, 1996'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: d659121c-c7cb-4e4b-88b7-fe32296e91ab
+  -
+    target_type: taxonomy_term
+    target_uuid: 8d61963d-3cb7-4f95-8b65-74fcbc01b6cc
+  -
+    target_type: taxonomy_term
+    target_uuid: 39d3b49d-72c9-4e5f-8aae-741fe552834e
+field_teaching:
+  -
+    value: "This case focuses on Mexican accounting procedures, particularly its inflation accounting requirements, which are illustrated with a simple example. Students are asked to evaluate the Coca Cola Femsa's' financial performance with the aid of summary financial statement data for Panamco and Gemex, two other Mexican beverage companies, and the 20-F reconciliation between Mexican and U.S. GAAP provided by Coca Cola Femsa.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.d659121c-c7cb-4e4b-88b7-fe32296e91ab
+      - taxonomy_term.case_series_fields.8d61963d-3cb7-4f95-8b65-74fcbc01b6cc
+      - taxonomy_term.case_series_fields.39d3b49d-72c9-4e5f-8aae-741fe552834e

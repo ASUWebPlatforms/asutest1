@@ -1,0 +1,10 @@
+uuid: f06f537a-dce7-47a5-a843-40a804d890d8
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.blockquote_w_brackets
+label: 'Blockquote w/ brackets'
+targetEntityType: media
+cache: true

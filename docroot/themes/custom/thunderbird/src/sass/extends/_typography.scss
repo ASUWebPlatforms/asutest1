@@ -1,0 +1,34 @@
+.bg-white,
+.bg-gray-1,
+.bg-gray-2 {
+  a {
+    color: $link-color;
+  }
+  a:visited {
+    color: $link-color;
+  }
+}
+
+.bg-gray-7 {
+  a {
+    color: $secondary;
+  }
+  a:visited {
+    color: $secondary;
+  }
+}
+
+b,
+strong {
+  font-weight: $uds-font-weight-bold;
+}
+
+.bg-blue-dark {
+  background-color: $blue-dark;
+}
+.bg-blue-mid {
+  background-color: $blue-mid;
+}
+.bg-blue-light {
+  background-color: $blue-light;
+}

@@ -1,0 +1,376 @@
+uuid: 5b842edd-e947-43ef-a5c0-706639e16d54
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.certificate.body
+    - field.field.node.certificate.field_area
+    - field.field.node.certificate.field_certificate_duration
+    - field.field.node.certificate.field_certificate_fees
+    - field.field.node.certificate.field_certificate_of_completion
+    - field.field.node.certificate.field_certificate_tags
+    - field.field.node.certificate.field_certificate_topic
+    - field.field.node.certificate.field_certificate_type
+    - field.field.node.certificate.field_class_location
+    - field.field.node.certificate.field_coe_location
+    - field.field.node.certificate.field_content_background
+    - field.field.node.certificate.field_cta_button_text
+    - field.field.node.certificate.field_domain_access
+    - field.field.node.certificate.field_domain_all_affiliates
+    - field.field.node.certificate.field_header_alignment
+    - field.field.node.certificate.field_image
+    - field.field.node.certificate.field_in_person_start_date
+    - field.field.node.certificate.field_meta_tags
+    - field.field.node.certificate.field_regions
+    - field.field.node.certificate.field_school_term
+    - field.field.node.certificate.field_solutions
+    - field.field.node.certificate.field_start_dates
+    - field.field.node.certificate.field_topics
+    - field.field.node.certificate.field_vertical_stripes
+    - field.field.node.certificate.field_virtual_start_date
+    - field.field.node.certificate.field_weight
+    - field.field.node.certificate.layout_builder__layout
+    - field.field.node.certificate.layout_builder__translation
+    - node.type.certificate
+  module:
+    - content_moderation
+    - datetime
+    - field_group
+    - media_library
+    - metatag
+    - path
+    - select2
+third_party_settings:
+  field_group:
+    group_categorization:
+      children:
+        - field_certificate_topic
+        - field_area
+        - field_certificate_type
+        - field_class_location
+        - field_school_term
+      label: Categorization
+      region: content
+      parent_name: ''
+      weight: 9
+      format_type: fieldset
+      format_settings:
+        classes: ''
+        id: ''
+        description: ''
+        required_fields: true
+    group_tagging:
+      children:
+        - field_regions
+        - field_coe_location
+        - field_solutions
+        - field_topics
+      label: Tagging
+      region: content
+      parent_name: ''
+      weight: 14
+      format_type: details
+      format_settings:
+        classes: ''
+        id: ''
+        open: false
+        description: ''
+        required_fields: false
+    group_hero:
+      children:
+        - field_image
+        - field_header_alignment
+        - field_vertical_stripes
+        - field_content_background
+      label: Hero
+      region: content
+      parent_name: ''
+      weight: 1
+      format_type: details
+      format_settings:
+        classes: ''
+        id: ''
+        open: true
+        description: ''
+        required_fields: true
+id: node.certificate.default
+targetEntityType: node
+bundle: certificate
+mode: default
+content:
+  created:
+    type: datetime_timestamp
+    weight: 4
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_area:
+    type: select2_entity_reference
+    weight: 104
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_certificate_duration:
+    type: string_textfield
+    weight: 12
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_certificate_fees:
+    type: string_textfield
+    weight: 11
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_certificate_of_completion:
+    type: string_textfield
+    weight: 13
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_certificate_topic:
+    type: select2_entity_reference
+    weight: 103
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_certificate_type:
+    type: select2_entity_reference
+    weight: 105
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_class_location:
+    type: select2_entity_reference
+    weight: 106
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_coe_location:
+    type: select2_entity_reference
+    weight: 13
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_content_background:
+    type: boolean_checkbox
+    weight: 14
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_cta_button_text:
+    type: string_textfield
+    weight: 108
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_domain_access:
+    type: options_buttons
+    weight: 40
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_domain_all_affiliates:
+    type: boolean_checkbox
+    weight: 41
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_header_alignment:
+    type: options_select
+    weight: 12
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_image:
+    type: media_library_widget
+    weight: 11
+    region: content
+    settings:
+      media_types: {  }
+    third_party_settings: {  }
+  field_in_person_start_date:
+    type: datetime_default
+    weight: 101
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_meta_tags:
+    type: metatag_firehose
+    weight: 15
+    region: content
+    settings:
+      sidebar: true
+      use_details: true
+    third_party_settings: {  }
+  field_regions:
+    type: select2_entity_reference
+    weight: 12
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_school_term:
+    type: select2_entity_reference
+    weight: 107
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_solutions:
+    type: select2_entity_reference
+    weight: 14
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_start_dates:
+    type: string_textfield
+    weight: 10
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_topics:
+    type: select2_entity_reference
+    weight: 15
+    region: content
+    settings:
+      width: 100%
+      autocomplete: false
+      match_operator: CONTAINS
+      match_limit: 10
+    third_party_settings: {  }
+  field_vertical_stripes:
+    type: boolean_checkbox
+    weight: 13
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  field_virtual_start_date:
+    type: datetime_default
+    weight: 102
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_weight:
+    type: number
+    weight: 109
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+  moderation_state:
+    type: moderation_state_default
+    weight: 100
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  path:
+    type: path
+    weight: 7
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  promote:
+    type: boolean_checkbox
+    weight: 5
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  simple_sitemap:
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  status:
+    type: boolean_checkbox
+    weight: 8
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  sticky:
+    type: boolean_checkbox
+    weight: 6
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 3
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  url_redirects:
+    weight: 16
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  body: true
+  field_certificate_tags: true
+  layout_builder__layout: true
+  layout_builder__translation: true

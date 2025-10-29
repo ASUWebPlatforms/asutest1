@@ -1,0 +1,26 @@
+{#
+/**
+ * @file
+ * Template for a Table component.
+ *
+ * Available config:
+ * - utility_classes: An array of utility classes.
+ */
+#}
+
+{% if rows %}
+  {% for row in rows %}
+      {% for cell in row.cells %}
+          {% if cell.content['#type'] and  cell.attributes.storage is empty %}
+            {% set new_content = cell.content %}
+            {% if loop.index > 2 %}
+              {% set new_content = new_content|merge({'#title_display': 'before'}) %}
+            {% else %}
+              {% set new_content = new_content|merge({'#title': ''}) %}
+            {% endif %}
+            {{- new_content -}}
+          {% endif %}
+      {% endfor %}
+  {% endfor %}
+{% endif %}
+

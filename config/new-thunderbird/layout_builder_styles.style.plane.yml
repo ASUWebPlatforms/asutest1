@@ -1,0 +1,12 @@
+uuid: 9b31fd41-749c-4f07-87cf-b8720d5f320e
+langcode: en
+status: true
+dependencies: {  }
+id: plane
+label: 'Plane Background'
+classes: "section-background\r\nplane"
+type: section
+group: default
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

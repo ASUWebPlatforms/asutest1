@@ -1,0 +1,8 @@
+uuid: 8db8be49-889a-4a28-acb1-cfafd8a60533
+langcode: en
+status: true
+dependencies: {  }
+id: tabs_horizontal
+label: 'Tabs Horizontal'
+revision: 0
+description: ''

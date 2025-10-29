@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: b16d586a-8167-419f-865a-f324fef676d9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-05-06T16:00:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Robots To Stand In For ASU Thunderbird Grads At Virtual Commencement'
+created:
+  -
+    value: '2020-05-06T16:00:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-06T16:00:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/kjzz-robots
+body:
+  -
+    value: '<p><span>Arizona State University will hold virtual commencement ceremonies next week due to the coronavirus pandemic, but some graduate students from the Thunderbird School of of Global Management will still get the experience of walking across the stage by using robots.&nbsp;</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-05-06T09:00:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 1500
+    height: 1125
+    target_type: file
+    target_uuid: 6d2f042c-a956-45ba-87b7-6042e9d0e13a
+field_news_link:
+  -
+    uri: 'https://kjzz.org/content/1556861/robots-stand-asu-thunderbird-grads-virtual-commencement'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.6d2f042c-a956-45ba-87b7-6042e9d0e13a

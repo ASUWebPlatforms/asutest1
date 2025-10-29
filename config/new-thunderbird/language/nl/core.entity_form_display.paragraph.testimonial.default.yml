@@ -1,0 +1,5 @@
+content:
+  field_citation_title:
+    third_party_settings:
+      maxlength:
+        maxlength_js_label: 'Inhoud beperkt tot @limit tekens, resterend: <strong>@remaining</strong>'

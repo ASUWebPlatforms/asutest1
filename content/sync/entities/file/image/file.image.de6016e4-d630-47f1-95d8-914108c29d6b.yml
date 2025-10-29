@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: de6016e4-d630-47f1-95d8-914108c29d6b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: how_jobs_will_change_in_oil_gas_and_what_should_my_kids_do.png
+uri:
+  -
+    value: 'public://article/how_jobs_will_change_in_oil_gas_and_what_should_my_kids_do.png'
+    url: /sites/default/files/article/how_jobs_will_change_in_oil_gas_and_what_should_my_kids_do.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 992507
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-09-12T15:58:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-12T15:58:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

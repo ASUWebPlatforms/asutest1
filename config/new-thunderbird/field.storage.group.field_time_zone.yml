@@ -1,0 +1,19 @@
+uuid: 56a9f25b-c9ea-40ad-a981-4094c1ceec02
+langcode: en
+status: true
+dependencies:
+  module:
+    - group
+    - tzfield
+id: group.field_time_zone
+field_name: field_time_zone
+entity_type: group
+type: tzfield
+settings: {  }
+module: tzfield
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,17 @@
+<div class="started-assessment-block container {{ content.has_draft ? '' : 'text-muted' }}">
+  <h1>{{ content.config.title }}</h1>
+  <div class="container">
+    <div class="row">
+      <div class="started-assessment-block__col col-md-6 p-0">
+        <span>{{ content.config.continue_title }}</span>
+        <p>{{ content.config.continue_description }}</p>
+        <a class="{{ content.has_draft ? '' : 'pe-none' }}" href="{{ content.has_draft ? content.assessment_url : '' }}">{{ content.config.continue_link_text }}<i class="fas fa-arrow-right ml-2" aria-hidden="true"></i></a>
+      </div>
+      <div class="col-md-6 p-0">
+        <span>{{ content.config.restart_title }}</span>
+        <p>{{ content.config.restart_description }}</p>
+        <a class="{{ content.has_draft ? '' : 'pe-none' }}" href="{{ content.has_draft ? path('tb_gdmi.restart_webform_draft', { 'submission': content.submission.id }) : '' }}">{{ content.config.restart_link_text }}<i class="fas fa-arrow-right ml-2" aria-hidden="true"></i></a>
+      </div>
+    </div>
+  </div>
+</div>

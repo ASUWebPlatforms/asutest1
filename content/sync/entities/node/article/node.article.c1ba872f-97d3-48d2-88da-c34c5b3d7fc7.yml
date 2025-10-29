@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: c1ba872f-97d3-48d2-88da-c34c5b3d7fc7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-27T17:43:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a6c4cbb6-06cc-40c4-a0f8-f607ab61bc78
+title:
+  -
+    value: 'How To Start a Business Without the Internet: Stories from Peruvian Women'
+created:
+  -
+    value: '2018-03-26T18:01:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-27T17:43:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-start-business-without-internet-stories-peruvian-women
+body:
+  -
+    value: "<p class=\"m_-7756755483145579021gmail-msonormal\">[[{\"fid\":\"14721\",\"view_mode\":\"responsive_image\",\"fields\":{\"alt\":\"Empresarias en Acción Ella Exporta Foro Peruvian Female Business Owners Thunderbird for Good State Department\",\"title\":\"Empresarias en Acción Forum in Peru\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"3\",\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Empresarias en Acción Ella Exporta Foro Peruvian Female Business Owners Thunderbird for Good State Department\",\"field_file_image_title_text[und][0][value]\":\"Empresarias en Acción Forum in Peru (Thunderbird for Good)\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"alt\":\"Empresarias en Acción Ella Exporta Foro Peruvian Female Business Owners Thunderbird for Good State Department\",\"title\":\"Empresarias en Acción Forum in Peru\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"3\",\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Empresarias en Acción Ella Exporta Foro Peruvian Female Business Owners Thunderbird for Good State Department\",\"field_file_image_title_text[und][0][value]\":\"Empresarias en Acción Forum in Peru (Thunderbird for Good)\"}},\"attributes\":{\"alt\":\"Empresarias en Acción Ella Exporta Foro Peruvian Female Business Owners Thunderbird for Good State Department\",\"title\":\"Empresarias en Acción Forum in Peru (Thunderbird for Good)\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"3\"}}]]</p>\r\n<p class=\"m_-7756755483145579021gmail-msonormal\">If there is one word I would use to describe the women entrepreneurs I met in Peru, it would be&nbsp;<strong>resilience</strong>. On November 20th, 2017 I arrived in Lima, Peru to speak at Ella Exporta for <a href=\"https://pe.usembassy.gov/es/tag/empresarias-en-accion/\" target=\"_blank\">Empresarias en Acción</a>, the premier women’s entrepreneurship event sponsored by Thunderbird for Good and the State Department. After hearing so much about <a href=\"https://thunderbird.asu.edu/global-impact/thunderbird-for-good-programs\">Thunderbird for Good</a> as a student at Thunderbird, I was excited to experience it firsthand. The conference attendees included approximately 100 women business owners from 12 regions of Peru. The enthusiasm and energy of the women were enough to ease my jet-lag, but what impressed me most was learning about how they turned so many obstacles into success stories.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p class=\"m_-7756755483145579021gmail-msonormal\">&nbsp;[[{\"fid\":\"14720\",\"view_mode\":\"responsive_image\",\"fields\":{\"alt\":\"Ella Exporta Peruvian Female Business Owners Thunderbird for Good State Department\",\"title\":\"Peruvian Female Business Owners at Ella Exporta, Peru\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"2\",\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Ella Exporta Peruvian Female Business Owners Thunderbird for Good State Department\",\"field_file_image_title_text[und][0][value]\":\"Peruvian Female Business Owners at Ella Exporta, Peru (Thunderbird for Good)\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"alt\":\"Ella Exporta Peruvian Female Business Owners Thunderbird for Good State Department\",\"title\":\"Peruvian Female Business Owners at Ella Exporta, Peru\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"2\",\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Ella Exporta Peruvian Female Business Owners Thunderbird for Good State Department\",\"field_file_image_title_text[und][0][value]\":\"Peruvian Female Business Owners at Ella Exporta, Peru (Thunderbird for Good)\"}},\"attributes\":{\"alt\":\"Ella Exporta Peruvian Female Business Owners Thunderbird for Good State Department\",\"title\":\"Peruvian Female Business Owners at Ella Exporta, Peru (Thunderbird for Good)\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"2\"}}]]</p>\r\n<p class=\"m_-7756755483145579021gmail-msonormal\">Some of the challenges were similar to those faced by women entrepreneurs in the US, while others were unique. All of the women wanted to take the <a href=\"https://dreambuilder.org/\">DreamBuilder</a>&nbsp;course on making a business plan; however many did not have access to the Internet in the remote parts of Peru. Using an innovative approach, DreamBuilder found a way to offer delivery through a USB offline, making the course accessible to a wider audience. During the course, these women learned the basics of starting a business and took that plan into action. Several of the businesses were on display at the conference including artistic jewelry, purses, clothing, chocolates and juices. The details that went into both the products and displays were incredible. Special guests including the Ambassador of the US to Peru and the Minister of Women attended to congratulate and acknowledge the success of the program and the women entrepreneurs.</p>\r\n<p class=\"m_-7756755483145579021gmail-msonormal\">From&nbsp;facing challenges of starting a business without internet, access to capital and balancing families, the Peruvian women have found a way to manage it all with smiles on their faces. We could all learn from these amazing women about resilience. Thank you Thunderbird for Good for giving these women an opportunity to thrive!&nbsp;</p>\r\n<p class=\"m_-7756755483145579021gmail-msonormal\">[[{\"fid\":\"14719\",\"view_mode\":\"responsive_image\",\"fields\":{\"alt\":\"Julie Goodman at Ella Exporta Thunderbird for Good State Department\",\"title\":\"Julie Goodman speaking at Ella Exporta, Peru\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"1\",\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Julie Goodman at Ella Exporta Thunderbird for Good State Department\",\"field_file_image_title_text[und][0][value]\":\"Julie Goodman speaking at Ella Exporta, Peru (Thunderbird for Good)\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"alt\":\"Julie Goodman at Ella Exporta Thunderbird for Good State Department\",\"title\":\"Julie Goodman speaking at Ella Exporta, Peru\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"1\",\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Julie Goodman at Ella Exporta Thunderbird for Good State Department\",\"field_file_image_title_text[und][0][value]\":\"Julie Goodman speaking at Ella Exporta, Peru (Thunderbird for Good)\"}},\"attributes\":{\"alt\":\"Julie Goodman at Ella Exporta Thunderbird for Good State Department\",\"title\":\"Julie Goodman speaking at Ella Exporta, Peru (Thunderbird for Good)\",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"m_-7756755483145579021gmail-msonormal\">Written by Julie Goodman, Thunderbird Alumna '12, CEO of <a href=\"http://www.goodmanglobalconsulting.com/\">Goodman Global Consulting</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'If there is one word I would use to describe the women entrepreneurs I met in Peru, it would be resilience. On November 20th, 2017 I arrived in Lima, Peru to speak at Ella Exporta for Empresarias en Acción, the premier women’s entrepreneurship event sponsored by Thunderbird for Good and the State Department.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2000
+    height: 1285
+    target_type: file
+    target_uuid: cc09b065-2c5b-4868-a570-ce4e67e1fabe
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8
+      - user.user.a6c4cbb6-06cc-40c4-a0f8-f607ab61bc78
+    file:
+      - file.image.cc09b065-2c5b-4868-a570-ce4e67e1fabe
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

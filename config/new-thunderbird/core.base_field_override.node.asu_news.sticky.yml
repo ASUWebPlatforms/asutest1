@@ -1,0 +1,22 @@
+uuid: 4ccc3f78-fe29-4737-931d-41fae0323733
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.asu_news
+id: node.asu_news.sticky
+field_name: sticky
+entity_type: node
+bundle: asu_news
+label: 'Sticky at top of lists'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

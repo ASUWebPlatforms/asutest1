@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: 1491147e-de2e-4b56-bc6f-78754c4a7362
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:24:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'It’s As Easy As… ABC Learning Centres Limited'
+created:
+  -
+    value: '2016-07-16T00:19:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:24:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-13-0007
+body:
+  -
+    value: '<p><span>Anna Chu, an MBA from Singapore Management University, and new-hire to Temasek Holdings Pte. Ltd., was excited by ANB-AMRO’s assessment of ABC Learning Centres Limited (ABC), an Australian company operating childcare centres. Chu had been hired to analyze companies in which Temasek acquired shares and to report regularly to the fund’s service sector portfolio manager. In May 2007, Temasek, Singapore’s sovereign-wealth fund, acquired 12% of ABC Learning Centre’s equity for $A7.30 per share, or a total purchase price of A$400 million. If ANB-AMRO’s assessment of the intrinsic value of ABC’s shares proved correct, Temasek’s investment would be very profitable. But some observers questioned aspects of ABC’s business model, particularly its contracting process for raising capital and outsourcing services for the learning centres. By January 2008, ABC Learning Centres Limited had become the largest operator of private childcare centres in the world, with more than 2,200 centres in Australia, the U.S., U.K., and New Zealand. ABC’s growth strategy of cobbling together a global empire of daycare centres had been financed with short-term debt. In January 2008, the company announced semi-annual earnings that were lower than analysts’ forecasts, sending the company’s stock price into a tailspin.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-13-0007
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 277b6b34-2156-4ef1-a61f-465fd4f307c7
+field_case_series_year:
+  -
+    value: '2013-01-01'
+field_case_setting:
+  -
+    value: Australia
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a6684deb-541e-4d46-9983-01e213d10328
+field_teaching:
+  -
+    value: "To understand how a company creates value for its customers, its strategy for achieving this, and the implications for the company’s financial performance,\r\nTo understand a company’s cost structure, i.e., how much of its costs are fixed versus variable, and the implications for the riskiness of its business,\r\nTo analyze a company’s growth, its ability to generate cash flows, and its financial performance,\r\nTo evaluate the company’s debt financing policy and options for generating cash to meet its debt repayment obligations,\r\nTo develop a restructuring plan for sustainable profitability and growth,\r\nTo evaluate the company’s equity share price."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.277b6b34-2156-4ef1-a61f-465fd4f307c7
+      - taxonomy_term.case_series_fields.a6684deb-541e-4d46-9983-01e213d10328

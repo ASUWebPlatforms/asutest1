@@ -1,0 +1,35 @@
+uuid: 878b2e10-7742-41ed-ba35-063e27a74760
+langcode: en
+status: true
+dependencies:
+  module:
+    - quikpay
+id: asu_nelnet
+label: 'ASU Nelnet'
+weight: null
+plugin: quikpay_redirect_checkout
+configuration:
+  display_label: 'ASU Nelnet'
+  mode: prod
+  payment_method_types:
+    - credit_card
+  collect_billing_information: true
+  order_type: GDMI_Assessment_Fees
+  quikpay_title: 'ASU Nelnet'
+  quikpay_cc_images:
+    visa: 0
+    mastercard: 0
+    amex: 0
+    discover: 0
+  quikpay_redirect: url
+  quikpay_test_pt_key: key
+  quikpay_test_rtpn_key: key
+  quikpay_prod_rtpn_key: key
+  quikpay_test_url: 'https://uatquikpayasp.com/asu/commerce_manager/payer.do'
+  quikpay_prod_url: 'https://quikpayasp.com/asu/commerce_manager/payer.do'
+  quikpay_success_text: 'Thank you for your payment. You may now view your orders by clicking on the link below.'
+  quikpay_checkout_text: 'IMPORTANT! In order to make an online payment a new window will open to receive and process your payment details. You may return to this site once your payment is complete by closing that window. You will receive an email receipt as well as an additional email containing course registration details.'
+  quikpay_checkout_red: 'You will be directed to a payment page that will process your payment details. Once the payment is complete, you will automatically return to this site and will be able to view your completed order. You will receive an email receipt as well as an additional email containing course registration details.'
+  quikpay_prod_pt_key: kRJQ28JsfwP6b2WiiVY57ylSZyheur5CWudqEBLenjrH75Fyyg
+conditions: {  }
+conditionOperator: AND

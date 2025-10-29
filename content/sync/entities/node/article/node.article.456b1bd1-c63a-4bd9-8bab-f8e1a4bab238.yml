@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 456b1bd1-c63a-4bd9-8bab-f8e1a4bab238
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-08-03T16:35:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Resilience in the Face of COVID-19 : How These New Thunderbird Grads are Adapting to the Challenges of a Global Pandemic'
+created:
+  -
+    value: '2020-07-30T22:22:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-08-03T16:35:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/resilience-in-face-covid-19-how-these-new-thunderbird-grads-are-adapting
+body:
+  -
+    value: '<p>Having finished their degree programs in the middle of a global pandemic, these six 2020 grads&nbsp;are navigating uncharted territory. But because of their education and experiences at&nbsp;Thunderbird, they feel prepared to take on their professional or educational futures and tackle&nbsp;any challenges that come their way.</p><h4><strong>Click on image below to expand and read more.</strong></h4><p><a href="https://www.thinglink.com/scene/1329472815807594499">[[{"fid":"83993","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false},"link_text":null,"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":false,"field_file_image_title_text[und][0][value]":false}},"attributes":{"class":"media-element file-default","data-delta":"1"}}]]</a></p>'
+    format: basic_html
+    processed: ''
+    summary: 'Having finished their degree programs in the middle of a global pandemic, these six 2020 grads are navigating uncharted territory. But because of their education and experiences at Thunderbird, they feel prepared to take on their professional or educational futures and tackle any challenges that come their way.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1170
+    height: 380
+    target_type: file
+    target_uuid: ecbbdfa2-18d5-46f3-8d50-9eeb388ad7af
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: e37af5a6-716f-4083-a9cd-935c057b9aff
+  -
+    target_type: taxonomy_term
+    target_uuid: 0e650df3-bfe8-43d3-8b3c-3ff5b5db27e2
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.ecbbdfa2-18d5-46f3-8d50-9eeb388ad7af
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+      - taxonomy_term.knowledge_network_tags.e37af5a6-716f-4083-a9cd-935c057b9aff
+      - taxonomy_term.knowledge_network_tags.0e650df3-bfe8-43d3-8b3c-3ff5b5db27e2
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda

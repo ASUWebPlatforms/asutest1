@@ -1,0 +1,39 @@
+uuid: 2d104804-b720-447b-a26a-f1d5cd31ee39
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.rankings
+    - field.field.block_content.rankings.field_rank_cta
+    - field.field.block_content.rankings.field_ranking
+  module:
+    - entity_reference_revisions
+    - link
+id: block_content.rankings.default
+targetEntityType: block_content
+bundle: rankings
+mode: default
+content:
+  field_rank_cta:
+    type: link
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_ranking:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true

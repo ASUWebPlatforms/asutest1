@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: 568e2513-df25-45a1-aebe-67fc53b72a1a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-18T00:48:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Steve Parker and the GFS China Technologies Venture'
+created:
+  -
+    value: '2016-07-18T00:48:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-18T00:48:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-06-0011
+body:
+  -
+    value: '<p><span>GFS–China is a joint venture between Standard Industries (Standard) of the United States and Good Fortune Enterprises (Good Fortune) of China. The joint venture was created to manufacture various automotive heating, ventilation, and air conditioning parts. Two weeks after GFS–China began operating; Good Fortune’s president stopped the joint venture and would not allow the joint venture general manager into the plant. Good Fortune’s president wrote a letter to Standard and demanded that the joint venture general manager be replaced. After various meetings and communications between the partners, it was decided that a new general manager would be appointed and that the general manager would come from Standard. Steve Parker, a Standard manager who was in China working as Asia Pacific purchasing manager for Standard HVAC, was asked if he would be interim general manager in GFS–China. It was now up to Parker to decide if he should accept the position and, if so, what he should do to get the joint venture back on track.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-06-0011
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2006-01-01'
+field_case_setting:
+  -
+    value: China
+field_case_source:
+  -
+    value: 'General experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  - {  }
+  - {  }
+field_teaching:
+  -
+    value: 'This four-case series is intended to put students in the position of a joint venture general manager trying to build a viable business. The collaborative issues facing the manager involve strategy, finance, and human resources—in short, joint venture general management issues. Ethical dimensions in the (B) case complicate the decision-making. The (A) case ends with Steve Parker being asked to become GFS–China general manager. If he accepts the job, he will be largely on his own, because the only Standard manager with much knowledge about GFS–China has gone back to the United States and no Standard managers were assigned to the venture. Assuming Parker does take the job, the objective with the (A) case is to explore the challenge of a new managerial assignment. What should Parker do first? How should he allocate his time? What skills should he have in order to do an effective job? How will he be evaluated? The (B) case has Parker wrestling with how to deal with a situation involving questionable purchasing practices. Parker must decide how to deal with issues. Should he confront the purchasing manager? Should he be trained in competitive sourcing practices? Is this a case of American norms of ethical practice being imposed on a Chinese situation? In the (C) case, Parker is physically confronted by his purchasing manager. The purchasing manager was reluctant to change his behavior and reacted by confronting Parker. Parker has to decide how to deal with this escalated situation. The (D) case shows that the purchasing manager was not fired, Parker left the joint venture a few months later, and Standard sold its share of the equity to the Chinese partner.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

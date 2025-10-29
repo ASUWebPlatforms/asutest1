@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 697db178-661d-4fee-becd-bd5587874bcf
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T21:14:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Fossil, Inc. — Global Watches and Accessories'
+created:
+  -
+    value: '2016-07-19T21:14:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T21:14:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-06-0007-0
+body:
+  -
+    value: '<p><span>Anna Amphlett, financial analyst for Fidelity Investments, must evaluate Fossil Inc. for possible addition to the company''s high growth equity portfolio. Fossil, a company that designs, develops, markets, and distributes contemporary, high-quality fashion watches and accessories, had grown rapidly during the last five years and the company''s stock price had substantially outperformed the S&amp;P 500. In July 2005, Piper Jaffrey initially issued a "market outperform" rating and a target price of $23 per share. But in October 2005, the investment firm revised its target price to $20, noting that watches were less important to teens than other fashion accessories. During fiscal 2004, Fossil opened 17 new outlets and planned to invest in 27 to 33 new outlets in fiscal 2005. Amphlett must prepare a financial analysis of Fossil, evaluate the company''s growth and financing plans, and make a portfolio recommendation to her firm.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-06-0007
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 64ca11b2-5fc0-46b1-a348-c76191afe67f
+field_case_series_year:
+  -
+    value: '2006-01-01'
+field_case_setting:
+  -
+    value: 'October 2005'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: 'The Fossil case provides an opportunity for students to analyze a growth strategy using financial statement data. The case requires students to undertake a careful business strategy and financial analysis, including a proforma cash flow analysis to determine whether Fossil can fund its expansion program with internally generated cash flows. The case provides historical financial data for Fossil as well as Swatch, a leading competitor in the fashion watch business. The case also provides an opportunity for students to examine "quality of earnings" issues by investigating accruals and accounting method choices by management that might impact earnings. The case provides capital market data on Fossil''s beta, debt rating, etc. to compute the company''s weighted average cost of capital for comparison to Fossil''s return on asset and return on equity, as well as value Fossil''s shares. The case has been used in the full-time MBA program as well as several Executive MBA programs focused on strategy, financial analysis, and corporate valuation.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.64ca11b2-5fc0-46b1-a348-c76191afe67f
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe

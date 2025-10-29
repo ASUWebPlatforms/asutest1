@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: db65d65a-5019-4b8d-a892-a05f3bec669f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: 3_new_realities_for_doing_business_in_china.jpg
+uri:
+  -
+    value: 'public://article/3_new_realities_for_doing_business_in_china.jpg'
+    url: /sites/default/files/article/3_new_realities_for_doing_business_in_china.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 3469253
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-07-09T18:19:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-07-09T18:19:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

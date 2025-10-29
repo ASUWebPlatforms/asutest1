@@ -1,0 +1,24 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: မူလပုံစံအတိုင်းပြန်ထားရန်
+      pager:
+        options:
+          tags:
+            previous: '‹ ယခင်'
+            next: 'နောက် ›'
+            first: '« ပထမ'
+            last: 'နောက်ဆုံး ›'
+          expose:
+            items_per_page_options_all_label: '- အားလုံး -'
+      fields:
+        redirect_source__path:
+          label: မှ
+      filters:
+        redirect_source__path:
+          expose:
+            label: မှ
+  page_1:
+    display_title: စာမျက်နှာ

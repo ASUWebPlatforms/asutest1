@@ -1,0 +1,55 @@
+uuid: afb92029-94b5-4b3b-8ab9-16dc9b18f53a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.thunder_product.field_image
+    - field.field.paragraph.thunder_product.field_product_link
+    - field.field.paragraph.thunder_product.field_product_price
+    - field.field.paragraph.thunder_product.field_title
+    - paragraphs.paragraphs_type.thunder_product
+  module:
+    - link
+id: paragraph.thunder_product.default
+targetEntityType: paragraph
+bundle: thunder_product
+mode: default
+content:
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: photo_square
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_product_link:
+    type: link
+    label: hidden
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_product_price:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_title:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden: {  }

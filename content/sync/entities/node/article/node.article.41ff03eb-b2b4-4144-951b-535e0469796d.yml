@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 41ff03eb-b2b4-4144-951b-535e0469796d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-06-10T15:53:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'T-birds Taking Action'
+created:
+  -
+    value: '2020-06-10T15:49:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-10T15:53:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/t-birds-taking-action
+body:
+  -
+    value: '<p><span>T-birds taking action during COVID-19! Watch how&nbsp;</span><a href="https://www.linkedin.com/in/ACoAAAGA8gABhq9p3N9yNRS9EwRF5xdtQm3EAss" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.linkedin.com/in/ACoAAAGA8gABhq9p3N9yNRS9EwRF5xdtQm3EAss&amp;source=gmail&amp;ust=1591881931152000&amp;usg=AFQjCNHOuNyEStu_-GXc4uQSJSbkswqgHg"><span>Antonio Solis</span></a><span>&nbsp;‘11, he and his business partner converted their cardboard plant that mainly manufactures cardboard displays for CPG brands in Mexico and USA to create low-cost cardboard hospital beds and supply around Mexico.</span></p><p><span>[[{"fid":"82990","view_mode":"default","fields":{"format":"default"},"link_text":null,"type":"media","field_deltas":{"1":{"format":"default"}},"attributes":{"style":"display: block; margin-left: auto; margin-right: auto;","class":"media-element file-default","data-delta":"1"}}]]</span></p>'
+    format: basic_html
+    processed: ''
+    summary: 'T-birds taking action during COVID-19! A big shout out to Antonio Solis ‘11, he and his business partner converted their cardboard plant that mainly manufactures cardboard displays for CPG brands in Mexico and USA to create low-cost cardboard hospital beds and supply around Mexico.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2119
+    height: 1414
+    target_type: file
+    target_uuid: ec6d1531-6b93-4e65-8fcc-7ff578d63ef8
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8d0179d2-1b1b-4bb8-bcbd-1fd729055a52
+  -
+    target_type: taxonomy_term
+    target_uuid: 224695c4-4c68-4e66-9f48-34cab39fd0ca
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.ec6d1531-6b93-4e65-8fcc-7ff578d63ef8
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+      - taxonomy_term.knowledge_network_tags.8d0179d2-1b1b-4bb8-bcbd-1fd729055a52
+      - taxonomy_term.knowledge_network_tags.224695c4-4c68-4e66-9f48-34cab39fd0ca
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda

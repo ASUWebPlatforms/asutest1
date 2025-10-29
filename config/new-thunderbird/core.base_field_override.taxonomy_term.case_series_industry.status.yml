@@ -1,0 +1,22 @@
+uuid: e65f389a-1ef4-4f8f-8a2d-969673195e1a
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.case_series_industry
+id: taxonomy_term.case_series_industry.status
+field_name: status
+entity_type: taxonomy_term
+bundle: case_series_industry
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

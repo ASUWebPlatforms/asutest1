@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * @file
+ * Time zone field module.
+ */
+
+/**
+ * Implements hook_field_formatter_info_alter().
+ *
+ * @phpstan-ignore missingType.iterableValue
+ */
+function tzfield_field_formatter_info_alter(array &$info): void {
+  // Let the tzfield field type re-use the core basic string formatter.
+  $info['basic_string']['field_types'][] = 'tzfield';
+}

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 48f934e7-5e4f-45c1-b2c9-a76cd535ce43
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+filename:
+  -
+    value: time-management.png
+uri:
+  -
+    value: 'public://article/time-management.png'
+    url: /sites/default/files/article/time-management.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 158385
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-09-19T16:35:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-19T16:35:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1

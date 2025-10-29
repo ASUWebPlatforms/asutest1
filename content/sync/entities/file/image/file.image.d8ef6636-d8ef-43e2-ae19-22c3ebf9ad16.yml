@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: d8ef6636-d8ef-43e2-ae19-22c3ebf9ad16
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+filename:
+  -
+    value: img-20170201-wa0012.png
+uri:
+  -
+    value: 'public://img-20170201-wa0012.png'
+    url: /sites/default/files/img-20170201-wa0012.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 4089177
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-02-24T01:42:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-02-24T01:42:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1

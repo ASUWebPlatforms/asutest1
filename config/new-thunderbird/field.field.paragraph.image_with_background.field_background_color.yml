@@ -1,0 +1,21 @@
+uuid: 015e821e-ed85-4c6f-afe1-e35d3a7c91e3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_background_color
+    - paragraphs.paragraphs_type.image_with_background
+  module:
+    - options
+id: paragraph.image_with_background.field_background_color
+field_name: field_background_color
+entity_type: paragraph
+bundle: image_with_background
+label: 'Background Color'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

@@ -1,0 +1,12 @@
+uuid: dcc05351-59f6-431c-8308-f21e1336ed1a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HuDwqnjX6gh6fMhpT_GeRC67ywAPocf6HAXDD91bstA
+id: blockquote
+label: Blockquote
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

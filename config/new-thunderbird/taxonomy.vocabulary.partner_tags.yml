@@ -1,0 +1,8 @@
+uuid: e9e27612-f4ee-479c-8f56-3a00b6adf8dd
+langcode: en
+status: true
+dependencies: {  }
+name: 'Partner Tags'
+vid: partner_tags
+description: ''
+weight: 0

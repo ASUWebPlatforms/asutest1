@@ -1,0 +1,23 @@
+uuid: 1cf760ef-2c35-4d6b-be95-6771d63314dc
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.banner
+    - field.storage.block_content.field_spacing_top
+  module:
+    - options
+_core:
+  default_config_hash: dUeceF1cr3EarvzXUECkUD-E6SFC8tK_BnyL-f0xn9Y
+id: block_content.banner.field_spacing_top
+field_name: field_spacing_top
+entity_type: block_content
+bundle: banner
+label: 'Spacing top'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

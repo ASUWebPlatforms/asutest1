@@ -1,0 +1,107 @@
+uuid:
+  -
+    value: da93a17a-aa0e-43e4-8fc5-075611123108
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T18:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Anheuser-Busch and Harbin Brewery Group of China'
+created:
+  -
+    value: '2016-07-26T18:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T18:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-05-0003
+body:
+  -
+    value: '<p><span>The case discusses the acquisition of Harbin Brewery, a Chinese-owned company with extensive operations in the northeast of China, by Anheuser-Busch, the U.S. multinational brewer. The Chinese beer industry had witnessed multiple waves of foreign investment in the late 1980s and early 1990s. Many of the foreign entrants had their grandiose plans scuttled by a mix of archaic industrial licensing policy, infrastructural challenges, and economic realities. Most sold to local companies and moved out of China. By 2003 the market was heating up again, and the majors such as SAB Miller and Anheuser-Busch (AB) were aiming for China once again. Harbin Brewery was partly owned by SABMiller through a joint venture when AB launched a takeover bid. The case discusses the nature of the Chinese business system, economic potential, consumer behavior, and the nexus between politics and business. It offers a rich context within which the strategic actions of AB and SABMiller can be interpreted. The case closes with the successful acquisition by AB.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-05-0003
+field_case_page_length:
+  -
+    value: '17 pages'
+field_case_series_author:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2969ddb1-7fc0-4599-b26e-4a33282a04ab
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: China
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "This case is intended for use in a course/program dealing with corporate strategy and/or global strategy issues or in an advanced stage of a preliminary class in competitive strategy. Given the rich China focus, it fits in with courses on international business environments as well. It has been successfully used in several executive programs to emphasize global strategy or China-specific themes.\r\n\r\nThe purpose of the case is to illustrate:\r\n(a) the contextual challenges facing firms that aspire to profit from a China presence\r\n(b) the relationship between country v. global strategy\r\n(c) valuation of firms in emerging markets"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_industry.2969ddb1-7fc0-4599-b26e-4a33282a04ab
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

@@ -1,0 +1,9 @@
+label: 'လတ်တလော မှတ်ချက်များ'
+display:
+  default:
+    display_title: Default
+    display_options:
+      title: 'လတ်တလော မှတ်ချက်များ'
+  block_1:
+    display_options:
+      block_description: 'လတ်တလော မှတ်ချက်များ'

@@ -1,0 +1,127 @@
+.insight:not(.card) { // <article>
+    .insight--hero {
+        a {
+            color: $gold;
+            text-decoration: underline;
+
+            &:hover, &:focus {
+                color: $blue-mid;
+            }
+        }
+    }
+
+    .social-icons {
+        padding: 4rem 0rem 1rem;
+
+        .addthis_inline_share_toolbox {
+            min-height: 2rem;
+        }
+    }
+
+    .field-author {
+        color: $blue-dark;
+        font-size: 1rem;
+        letter-spacing: -0.028rem;
+        font-weight: 400;
+        line-height: 1.125rem;
+        
+        .field__label {
+            font-weight: 400 !important;
+        }
+    }
+    
+    .nodeinsightfield-kn-tags {
+        padding: 1rem 0 2rem;
+    }
+
+    .field-kn-tags {
+        display: flex;
+        flex-wrap: wrap;
+
+        .field__item {
+            margin: 0 0.5rem 0.5rem 0;
+        }
+
+        a {
+            background-color: $blue-mid;
+            color: #ffffff;
+            font-size: $font-size-xs;
+            padding: 0.25rem 0.75rem; // 4px 8px
+        }
+    }
+
+    .authors-author { // This goes above 'Related insights'
+        .views-row { // This class is conditionally added, so no padding will appear if it does not exist
+            padding-top: 4rem;
+        }
+    }
+
+    .authors-author-insights {
+        padding-top: 4rem;
+
+        [class*="js-view-dom-id"] {
+          .view-content > div {
+            padding-bottom: 1.5rem;
+          }
+        }
+    }
+    .nodeinsightfield-other-authors{
+        padding: 1.5rem 0 1rem;
+    }
+}
+
+/* Homepage Insights block. */
+
+.insights-cards {
+  .card-selection__header {
+    background: $blue-dark;
+    padding: 1rem 0;
+
+    h2 {
+      color: $gold;
+    }
+
+    .cta-wrapper {
+      a {
+        color: white;
+
+        &:hover {
+          color: $gold;
+
+          svg {
+            color: $gold;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* Reduce heading sizes in insight body. */
+
+.insight--full .insight__body {
+  h2, .h2 {
+    color: $blue-dark;
+    font-size: $heading-three-font-size;
+    letter-spacing: $heading-three-letter-spacing;
+
+    @include media-breakpoint-down(xs) {
+      font-size: $heading-three-font-size;
+    }
+  }
+
+  h3, .h3 {
+    font-size: $heading-four-font-size;
+    letter-spacing: $heading-four-letter-spacing;
+  }
+
+  h4, .h4 {
+    font-size: $heading-five-font-size;
+    letter-spacing: $heading-five-letter-spacing;
+  }
+
+  h5, .h5 {
+    font-size: $heading-six-font-size;
+    letter-spacing: $heading-six-letter-spacing;
+  }
+}

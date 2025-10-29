@@ -1,0 +1,120 @@
+uuid:
+  -
+    value: ba115b57-1117-41ba-a018-ebb88da73590
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:30:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'MCGM: Managing Mumbai'
+created:
+  -
+    value: '2016-07-16T01:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:30:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-09-0005
+body:
+  -
+    value: '<p>This case describes some organizational elements of a local urban self-government entity. The Municipal Corporation of Greater Mumbai (MCGM) is an organization which is very different from the typical company. The case allows an appreciation of the way an organization like the MCGM functions.</p><p>The case, set in 2005, describes the role of the MCGM, and focuses on profiling the position of an Assistant Commissioner, the administrator responsible for day-to-day service delivery to citizens in a particular ward. The scope of the case spans an understanding of the organization at the ward level, including the structure, processes, and systems, and an assessment of factors that influence the performance of the administration at the ward.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-09-0005
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 30b534a9-c3ca-4a56-8fc0-97045f8e02c7
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: 'Mumbai, India'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 71ae49d3-767b-4ef8-91e3-80442b78990e
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: dfb75b01-ed2a-4294-b672-48c2e46282c4
+field_teaching:
+  -
+    value: "The different aspects of the organization need to be aligned with the mission of the purpose of the corporation.\r\nEach of these aspects, individually and collectively, influences decision-making and human behavior in organizations. Interactions between individuals get driven by the administrative context, and hence a conscious design of the context can help align efforts with desired outcomes. Trade-offs (all elements need not have equal depth or emphasis), while designing each of the elements of context, and the synergistic “whole” are crucial and unique to each organization.\r\nConsistency between each of these elements is what determines performance of the organization.\r\nThis case can be taught in a course on Strategic Management (module on implementation). While the focus in this case is not on a specific strategy, it can be useful as a contrast to the preceding cases that may be based on commercial organizations. For a class that does not have much work experience, the emphasis could be on obtaining a sense of the “kind of organization” that the MCGM is."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.30b534a9-c3ca-4a56-8fc0-97045f8e02c7
+      - taxonomy_term.case_series_categories.0b0b5645-327f-47c4-9afb-df9bca7fc1cd
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.71ae49d3-767b-4ef8-91e3-80442b78990e
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.dfb75b01-ed2a-4294-b672-48c2e46282c4

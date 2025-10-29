@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: afaed628-e367-47fc-82ca-d26a3edb4c56
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-10-16T20:35:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5ea0e9c4-e373-49d5-a651-bae8e5842940
+title:
+  -
+    value: 'Learning to Fly Online: A Letter to My Fellow Online MGM Students'
+created:
+  -
+    value: '2017-10-16T20:19:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-10-16T20:35:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/learning-fly-online-letter-online-mgm-students
+body:
+  -
+    value: "<p><em>[[{\"fid\":\"8180\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Learning to Fly Online: A Letter to The Online MGM Students\",\"field_file_image_title_text[und][0][value]\":\"Learning to Fly Online: A Letter to The Online MGM Students\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Learning to Fly Online: A Letter to The Online MGM Students\",\"field_file_image_title_text[und][0][value]\":\"Learning to Fly Online: A Letter to The Online MGM Students\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Learning to Fly Online: A Letter to The Online MGM Students\",\"title\":\"Learning to Fly Online: A Letter to The Online MGM Students\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</em></p>\r\n<p><em>By Aaron White, Online Master in Global Management<br>Das Tor Guest Writer</em></p>\r\n<p>Here you are, on the precipice of a great journey—you are midway through your first set of courses as a <a href=\"/node/228\" target=\"_blank\">Thunderbird Online Master of Global Management </a>(OMGM) candidate. Most of you are teetering somewhere between exhilaration and trepidation. I know this because I was there.</p>\r\n<p>I imagine many of you, like me, have full-time jobs that continuously stretch beyond typical 40-hour weeks. Ever-growing work obligations and family responsibilities constrict our already short weeks, and now you are about to pile an equally time-consuming commitment onto your metaphorical plate.</p>\r\n<p>For myself, an average day starts out around 5:15 am, as the incessant screams of my alarm wake me up. I quickly get ready, scurry out the door, and head to the metro. I use the precious 30 or so minutes on the metro to catch up on some of the readings my professor has assigned. Once at work, the day flies by in a flurry of emails, calls, and meetings. When I get home sometime between 6:00 and 7:00 pm, I immediately start a Chinese lesson via Skype (which never seems to go as well as I would like). Finally, it’s time for homework, jumping back and forth among readings, video lectures, and projects. In between, I try to chat with my wife, hang out with my puppy, eat, exercise, and unwind. Sometime between 11:00 and midnight, when I just can’t keep my eyes open any longer, I crawl into bed and am whisked away to the land of slumber. And then before I know it, the cycle begins again.</p>\r\n<p>When I reached out to my cohort and asked them to write about their experience as an online student at Thunderbird — what their day-to-day life looks like and how they cope with the multiple roles that they inhabit — I was not surprised to learn that they had very similar experiences.</p>\r\n<h3><a href=\"http://dastornews.com/2017/09/learning-to-fly-online-a-letter-to-the-online-mgm-students/\" target=\"_blank\">Read the rest of the story...</a></h3>\r\n<p>[[{\"fid\":\"7957\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Das Tor, Thunderbird Student Newspaper\",\"field_file_image_title_text[und][0][value]\":\"Das Tor, Thunderbird Student Newspaper\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Das Tor, Thunderbird Student Newspaper\",\"field_file_image_title_text[und][0][value]\":\"Das Tor, Thunderbird Student Newspaper\"}},\"attributes\":{\"alt\":\"Das Tor, Thunderbird Student Newspaper\",\"title\":\"Das Tor, Thunderbird Student Newspaper\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Here you are, on the precipice of a great journey—you are midway through your first set of courses as a Thunderbird Online Master of Global Management (OMGM) candidate. Most of you are teetering somewhere between exhilaration and trepidation. I know this because I was there.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1024
+    height: 642
+    target_type: file
+    target_uuid: 07845abc-1b86-4a9a-915a-9d220ccc493d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.5ea0e9c4-e373-49d5-a651-bae8e5842940
+    file:
+      - file.image.07845abc-1b86-4a9a-915a-9d220ccc493d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

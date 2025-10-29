@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 8057ef45-34ba-4550-8ba8-4f99f4b3e249
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T20:23:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Beige Holdings Limited'
+created:
+  -
+    value: '2016-07-27T20:23:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T20:23:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-00-0026
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case examines the downfall of Beige Holdings: Ltd, a South African pharmaceutical company in 1999. Students prepare a financial analysis of the company in an effort to see if traditional indicators of financial performance (e.g. ratios, cash flows) can predict the company''s problems. Non-traditional predictors of distress (e.g. Altman''s Z-score) are also considered.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-00-0026
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: afa401e2-02cb-40c3-bae1-72ba5f009b86
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: 'South Africa'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: "This case examines the reporting practices of a high-flying South African pharmaceutical company, Beige holdings Ltd. Beige first went public in late 1997, and as early as the beginning of 1999, found itself in a financial reporting crisis. Extraordinary income had been misclassified as revenue in 1998, and certain expenses (development costs) and losses (foreign currency exchange losses) had failed to be properly recognized in 1999.\r\n\r\nThese accounting irregularities caused a confidence crisis in the company's share market, and Beige's share price fell from a historic high of 1030 cents per share in May of 1998 to just 49 cents per share in September of 1999.\r\n\r\nStudents are asked to review Beige's financial data using Return on Equity (ROE) analysis, Altman's bankruptcy prediction Z-score analysis, to try to identify Beige's financial reporting problems."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.afa401e2-02cb-40c3-bae1-72ba5f009b86
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129

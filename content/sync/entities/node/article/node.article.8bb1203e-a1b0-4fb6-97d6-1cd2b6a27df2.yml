@@ -1,0 +1,77 @@
+uuid:
+  -
+    value: 8bb1203e-a1b0-4fb6-97d6-1cd2b6a27df2
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:52:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+title:
+  -
+    value: 'Investing in Women in Business – Gender Lens Investing'
+created:
+  -
+    value: '2018-03-30T21:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:52:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/investing-women-business-gender-lens-investing
+body:
+  -
+    value: "<h3>Look at Your Investments Through a “Gender Lens” to Address Gender Inequality<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></h3>\r\n<p style=\"text-align: center;\"><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">[[{\"fid\":\"14855\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How-can-I-support-women-in-business_\",\"field_file_image_title_text[und][0][value]\":\"How-can-I-support-women-in-business_\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How-can-I-support-women-in-business_\",\"field_file_image_title_text[und][0][value]\":\"How-can-I-support-women-in-business_\"}},\"attributes\":{\"alt\":\"How-can-I-support-women-in-business_\",\"title\":\"How-can-I-support-women-in-business_\",\"height\":\"543\",\"width\":\"1012\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>\r\n<p>Investors are increasingly looking to make a positive impact with their dollars.&nbsp;US SIF: The Forum for Sustainable and Responsible Investment&nbsp;issued a&nbsp;<a href=\"http://www.ussif.org/trends\">recent report</a>&nbsp;that shows&nbsp;sustainable, responsible,&nbsp;and impact&nbsp;investing&nbsp;is on the rise,&nbsp;now accounting&nbsp;for $8.72 trillion&nbsp;in assets, or one in five dollars invested under professional management&nbsp;in the United States.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>The report reveals&nbsp;that&nbsp;“gender lens investing”&nbsp;is of increasing interest.&nbsp;To learn more about gender lens investing and what it seeks to achieve,&nbsp;I spoke with Lisa&nbsp;Woll, CEO of US SIF.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>What Is Gender Lens Investing?</span></h3>\r\n<p>In gender lens investing,&nbsp;investors&nbsp;evaluate&nbsp;investment opportunities based on how they&nbsp;support women’s access to capital,&nbsp;women in the workplace,&nbsp;products&nbsp;that help women&nbsp;and girls&nbsp;and&nbsp;organizations that assist women living in poverty or under-served communities, among other areas.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>What Do Investors Hope&nbsp;to Achieve&nbsp;with Gender Lens Investing?</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></h3>\r\n<p>Gender lens investors seek to address&nbsp;gender inequality while at the same time&nbsp;benefiting&nbsp;from&nbsp;investment returns.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Numerous studies have shown that diverse companies and diverse boards—those with&nbsp;a high&nbsp;representation of women board directors—achieve&nbsp;higher financial performance, on average, than those with low representation of women board directors.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>As Sallie&nbsp;Krawcheck, CEO of the&nbsp;Ellevate&nbsp;Network,&nbsp;often says, “Investing in women is simply smart business.”&nbsp;Moreover,&nbsp;<a href=\"http://www.mckinsey.com/global-themes/employment-and-growth/how-advancing-womens-equality-can-add-12-trillion-to-global-growth\">a report by McKinsey Global Institute</a>&nbsp;found that advancing women’s equality could add $12 trillion to global GDP by 2025.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>How Can Individuals Invest&nbsp;with&nbsp;a&nbsp;“Gender Lens?”</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></h3>\r\n<p>Individuals who invest in specific stocks can look at the makeup of a company’s board to see if it&nbsp;is&nbsp;inclusive of women.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>There are also a number of gender lens mutual funds and other investment products available to individual investors through financial institutions. In addition, there are many mutual funds and&nbsp;investment&nbsp;products not specifically labeled as “gender lens,”&nbsp;that&nbsp;still take into account board diversity, fair employment, labor rights, human rights,&nbsp;and other issues that benefit women. US SIF&nbsp;provides a list of&nbsp;<a href=\"http://charts.ussif.org/mfpc/\">publicly-available mutual funds on&nbsp;its&nbsp;website</a>, as well as an “<a href=\"http://www.ussif.org/Files/Publications/SRI_Women_F.pdf\">Investing to Advance Women</a>” guide.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Finally,&nbsp;companies&nbsp;such as Morningstar and MSCI&nbsp;now offer ratings that evaluate investment vehicles based&nbsp;on&nbsp;environmental, social and governance factors, including gender diversity on boards.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>Can You Share Examples of Gender Lens Investing in Action</span><span>?</span>&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></h3>\r\n<p>Calvert Foundation’s Women Investing in Women Initiative (WIN – WIN) enables individuals to invest as little as $20 to support organizations and social enterprises that help empower women. Since it launched in 2012, the initiative has raised more than $20 million for women’s advancement globally&nbsp;in a range of areas, including&nbsp;affordable housing, microfinance and healthcare.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>In addition,&nbsp;institutional investors&nbsp;and fund managers representing&nbsp;$3&nbsp;trillion in assets, along with representatives of some of the nation’s leading women’s organizations,&nbsp;have banded together in the “<a href=\"https://www.30percentcoalition.org/\">Thirty Percent Coalition</a>” to urge publicly traded companies&nbsp;&nbsp;&nbsp;to explicitly set gender diversity as a key criterion of their nominating committee charters and director searches.&nbsp;As its name suggests, the group wants to see women fill at least 30 percent of&nbsp;corporate&nbsp;board seats.&nbsp;&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>Since its founding in 2012, the Coalition&nbsp;has&nbsp;seen some progress, though it falls far short of the goal.&nbsp;&nbsp;According to&nbsp;<a href=\"https://www.spencerstuart.com/research-and-insight/spencer-stuart-board-index-2016\">annual indexes</a>&nbsp;published by executive search firm Spencer Stuart, in 2016 women filled 21 percent of the board seats of the S&amp;P 500, up from 17 percent in 2012.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<p>As a result, a number of sustainable investors—including public and labor funds, investment firms,&nbsp;and religious institutions—continue to file&nbsp;shareholder&nbsp;proposals&nbsp;at companies whose shares they own,&nbsp;requesting that the&nbsp;companies make a formal commitment to increase board diversity.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:259}\">&nbsp;</span></p>\r\n<h3><span>An Opportunity&nbsp;to Make&nbsp;an Impact</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">&nbsp;</span></h3>\r\n<p>As these examples show, if you’re&nbsp;looking&nbsp;to address gender inequality&nbsp;in the workplace and society, you have an opportunity to make a difference – by investing your hard-earned dollars with&nbsp;funds that make equal employment opportunity, board diversity,&nbsp;and women’s advancement a priority.</p>\r\n<p>Join Dana Manciagli’s&nbsp;<a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a>&nbsp;right now and immediately access the most comprehensive job search system currently available!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a></p>\r\n<p><strong>Read More from Dana:</strong><br><a href=\"https://thunderbird.asu.edu/knowledge-network/how-get-over-being-stressed-out-your-job-so-you-can-actually-do-it\">How to Get Over Being Stressed Out by Your Job So You Can Actually Do It</a><br><a href=\"https://thunderbird.asu.edu/knowledge-network/benefits-meditation-workplace\">Benefits of Meditation in the Workplace<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Investors are increasingly looking to make a positive impact with their dollars. US SIF: The Forum for Sustainable and Responsible Investment issued a recent report that shows sustainable, responsible, and impact investing is on the rise, now accounting for $8.72 trillion in assets, or one in five dollars invested under professional management in the United States. '
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

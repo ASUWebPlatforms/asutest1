@@ -1,0 +1,89 @@
+uuid:
+  -
+    value: 25760ead-10fe-45fa-86c4-a19e85d16b58
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-04T20:59:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'What’s Your Leadership Style?'
+created:
+  -
+    value: '2018-09-04T19:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-04T20:59:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/whats-your-leadership-style
+body:
+  -
+    value: "<p>As a leader, you are faced with managing people with a variety of personality types working through many different business scenarios. While the best leadership style should be fluid depending on many different variables, most leaders tend to have natural tendencies toward a single leadership style. Learn what your dominant leadership style is with this 7-question quiz! </p>\r\n<iframe id=\"quizWidget-464536\" width=\"100%\" height=\"700px\" frameborder=\"0\" border=\"none\" src=\"https://www.qzzr.com/widget/quiz/fi9xdWl6emVzLzQ2NDUzNg\"></iframe>"
+    format: full_html
+    processed: |-
+      <p>As a leader, you are faced with managing people with a variety of personality types working through many different business scenarios. While the best leadership style should be fluid depending on many different variables, most leaders tend to have natural tendencies toward a single leadership style. Learn what your dominant leadership style is with this 7-question quiz! </p>
+      <iframe id="quizWidget-464536" width="100%" height="700px" frameborder="0" border="none" src="https://www.qzzr.com/widget/quiz/fi9xdWl6emVzLzQ2NDUzNg"></iframe>
+    summary: 'As a leader, you are faced with managing people with a variety of personality types working through many different business scenarios. While the best leadership style should be fluid depending on many different variables, most leaders tend to have natural tendencies toward a single leadership style. Learn what your dominant leadership style is with this 7-question quiz! '
+    summary_processed: |
+      <p>As a leader, you are faced with managing people with a variety of personality types working through many different business scenarios. While the best leadership style should be fluid depending on many different variables, most leaders tend to have natural tendencies toward a single leadership style. Learn what your dominant leadership style is with this 7-question quiz! </p>
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1200
+    height: 816
+    target_type: file
+    target_uuid: f50b6445-9927-4c9c-8ef8-6df9a5fa5f55
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.f50b6445-9927-4c9c-8ef8-6df9a5fa5f55
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

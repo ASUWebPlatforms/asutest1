@@ -1,0 +1,19 @@
+{#
+/**
+ * @file
+ * Two column template for the checkout form.
+ *
+ * Available variables:
+ * - form: The form.
+ *
+ * @ingroup themeable
+ */
+#}
+<div class="commerce-checkout-form-group layout-checkout-form clearfix">
+  <div class="container">{{ form.group_details_pane.title}}</div>
+  <div class="gray-section">
+    <div class="container p-0">
+      {{ form }}
+    </div>
+  </div>
+</div>

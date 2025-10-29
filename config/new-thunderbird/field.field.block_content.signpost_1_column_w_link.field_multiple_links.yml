@@ -1,0 +1,103 @@
+uuid: ce84df09-0816-46e1-bba8-b3e8d3761494
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_1_column_w_link
+    - field.storage.block_content.field_multiple_links
+    - paragraphs.paragraphs_type.link_list
+  module:
+    - entity_reference_revisions
+id: block_content.signpost_1_column_w_link.field_multiple_links
+field_name: field_multiple_links
+entity_type: block_content
+bundle: signpost_1_column_w_link
+label: Links
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      link_list: link_list
+    negate: 0
+    target_bundles_drag_drop:
+      accordion_panel:
+        weight: 26
+        enabled: false
+      anchor_menu_settings:
+        weight: 27
+        enabled: false
+      blockquote:
+        weight: 28
+        enabled: false
+      card:
+        weight: 29
+        enabled: false
+      card_degree:
+        weight: 30
+        enabled: false
+      card_event:
+        weight: 31
+        enabled: false
+      card_group_default:
+        weight: 32
+        enabled: false
+      card_group_degree:
+        weight: 33
+        enabled: false
+      card_group_story:
+        weight: 34
+        enabled: false
+      card_group_with_icon:
+        weight: 35
+        enabled: false
+      card_media:
+        weight: 36
+        enabled: false
+      card_story:
+        weight: 37
+        enabled: false
+      card_with_icon:
+        weight: 38
+        enabled: false
+      cta:
+        weight: 39
+        enabled: false
+      gallery_image:
+        weight: 40
+        enabled: false
+      image:
+        weight: 41
+        enabled: false
+      link_list:
+        weight: 42
+        enabled: true
+      signpost:
+        weight: 43
+        enabled: false
+      signpost_less_content:
+        weight: 44
+        enabled: false
+      signpost_quote:
+        weight: 45
+        enabled: false
+      signpost_w_icon:
+        weight: 46
+        enabled: false
+      signpost_w_o_image:
+        weight: 47
+        enabled: false
+      tab_content:
+        weight: 48
+        enabled: false
+      testimonial:
+        weight: 49
+        enabled: false
+      tooltip:
+        weight: 50
+        enabled: false
+field_type: entity_reference_revisions

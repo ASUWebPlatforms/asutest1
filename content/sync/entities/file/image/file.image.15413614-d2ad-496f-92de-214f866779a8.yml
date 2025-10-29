@@ -1,0 +1,44 @@
+uuid:
+  -
+    value: 15413614-d2ad-496f-92de-214f866779a8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  - {  }
+filename:
+  -
+    value: screen_shot_2019-06-25_at_10.43.52_am.png
+uri:
+  -
+    value: 'public://article/screen_shot_2019-06-25_at_10.43.52_am.png'
+    url: /sites/default/files/article/screen_shot_2019-06-25_at_10.43.52_am.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1036501
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-06-25T17:44:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-06-25T17:44:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies: {  }

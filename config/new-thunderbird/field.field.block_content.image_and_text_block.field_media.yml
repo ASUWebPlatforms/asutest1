@@ -1,0 +1,39 @@
+uuid: 52932e6b-f236-4278-ad97-d3dc3c7aa818
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image_and_text_block
+    - field.storage.block_content.field_media
+    - media.type.cropped_image_sqare
+    - media.type.cropped_image_wide
+    - media.type.image
+    - media.type.image_block_images
+    - media.type.video_element
+_core:
+  default_config_hash: e82Ayt-va-RdSBnUDLMe9xtD7uRgkYtwguXPGO57P1c
+id: block_content.image_and_text_block.field_media
+field_name: field_media
+entity_type: block_content
+bundle: image_and_text_block
+label: Media
+description: 'Recommended image size (W x H): 600 x 558 px'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      image_block_images: image_block_images
+      cropped_image_sqare: cropped_image_sqare
+      cropped_image_wide: cropped_image_wide
+      image: image
+      video_element: video_element
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: image_block_images
+field_type: entity_reference

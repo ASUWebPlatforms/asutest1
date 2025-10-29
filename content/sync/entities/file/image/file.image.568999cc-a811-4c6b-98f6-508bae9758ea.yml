@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 568999cc-a811-4c6b-98f6-508bae9758ea
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: how_hong_kongs_protests_are_affecting_its_economy.jpg
+uri:
+  -
+    value: 'public://article/how_hong_kongs_protests_are_affecting_its_economy.jpg'
+    url: /sites/default/files/article/how_hong_kongs_protests_are_affecting_its_economy.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 10227743
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-08-22T17:16:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-08-22T17:16:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

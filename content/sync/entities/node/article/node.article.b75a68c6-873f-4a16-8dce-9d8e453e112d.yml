@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b75a68c6-873f-4a16-8dce-9d8e453e112d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:46:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a38f8d47-d553-4b4a-8aba-d58850e929a1
+title:
+  -
+    value: '8 Ways to Achieve Work-life Balance'
+created:
+  -
+    value: '2017-05-18T01:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:46:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/8-ways-to-achieve-work-life-balance
+body:
+  -
+    value: "<p><span style=\"color: #000000;\">The idea of a balanced work-life relationship seems totally unachievable to many of us. Either we’re “in balance”<span style=\"font-family: Helvetica;\"> </span>or we’re not. However, it would be much more useful to think of work-life balance as a spectrum, rather than an absolute.</span></p>\r\n<p><span style=\"color: #000000;\">Chances are, none of us are ever going to feel like we’ve nailed the perfect balance. But if we approach it in a “something-is-better-than-nothing”<span style=\"font-family: Helvetica;\"> </span>fashion, we can put small actions into practice and enjoy individual, encouraging successes.</span></p>\r\n<p><span style=\"color: #000000;\">At the end of the day, work-life balance simply boils down to time and what we do with it.</span></p>\r\n<p><span style=\"color: #000000;\">Helen Taylor, head of HR at global office broker, Instant Offices, offers a few tips that will hopefully help you to achieve a better, and balanced, life.</span></p>\r\n<h3><span style=\"color: #000000;\">[[{\"fid\":\"5136\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Achieving work life balance\",\"field_file_image_title_text[und][0][value]\":\"Achieving work life balance\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Achieving work life balance\",\"field_file_image_title_text[und][0][value]\":\"Achieving work life balance\"}},\"attributes\":{\"alt\":\"Achieving work life balance\",\"title\":\"Achieving work life balance\",\"height\":\"250\",\"width\":\"250\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]Prioritize balance</span></h3>\r\n<p><span style=\"color: #000000;\">If work-life balance is what you want, you need to make it a priority. If something is a priority, you will be able to make the tough calls and sacrifices that come with the territory. Understand that achieving the elusive work-life balance will be difficult so when you are faced with challenges, you’ll be less likely to throw in the towel.</span></p>\r\n<h3><span style=\"color: #000000;\">Understand your personal utility curve</span></h3>\r\n<p><span style=\"color: #000000;\">The utility curve describes an economic theory whereby the amount of money we spend on a product or service is not always directly proportional to the satisfaction the product or service provides. Now apply that to your work-life balance strategy. Think carefully about how much you spend and on what. Is working the extra hours worth it to achieve a more luxurious lifestyle? Sometimes shorter workdays and an economical car are part of a more effective recipe for overall success and happiness than a Porsche and 14-hour workdays.</span></p>\r\n<h3><span style=\"color: #000000;\">Work smarter</span></h3>\r\n<p><span style=\"color: #000000;\">In a world where multitasking reigns supreme, it can be difficult to focus on one thing at a time. However, multitasking may actually be detrimental to your overall time management. According to Harvard Business Review, when you divert your attention away from one task in favor of another, it will take you roughly 25 percent longer to complete the initial task as a result of switching focus. Do your best to tackle one task at a time, and be fully present when doing so. This will help things run smoother and faster.</span></p>\r\n<h3><span style=\"color: #000000;\">Plan, plan, plan</span></h3>\r\n<p><span style=\"color: #000000;\">At the beginning of the week, take note of everything that’s happening or needs to happen that week: events, errands you need to run, etc. Looking at the bigger picture will give you a better idea of where you can save time. You’ll be able to group tasks together and shorten the time you spend on things other than your personal life. Put both personal and professional activities on your calendar, including travel time, workout time and blocks of time to get your “think work”<span style=\"font-family: Helvetica;\"> </span>done.</span></p>\r\n<h3><span style=\"color: #000000;\">Save time where you can</span></h3>\r\n<p><span style=\"color: #000000;\">Take a moment to assess your daily life. Is there anywhere you could save time? For example, if you spend a long time on your daily commute, investigate alternative routes or modes of transport. Employees in the United Kingdom are now entitled to ask for their working hours to be adjusted according to their personal requirements. This creates room for staggering working hours in order to avoid rush hours and save time spent commuting.</span></p>\r\n<h3><span style=\"color: #000000;\">Schedule downtime</span></h3>\r\n<p><span style=\"color: #000000;\">It may sound crazy, but if you leave relaxing to when you are “done with everything else,”<span style=\"font-family: Helvetica;\"> </span>you will never relax. If you consider downtime a priority (and a fundamental aspect of a well-balanced life), it belongs where all your other priorities do —<span style=\"font-family: Helvetica;\"> </span>on the calendar. Many extremely successful people swear by this practice.</span></p>\r\n<h3><span style=\"color: #000000;\">Outsource the small things</span></h3>\r\n<p><span style=\"color: #000000;\">Some things just aren’t worth doing yourself. Certain errands like mowing the lawn and cleaning the car can easily be outsourced —<span style=\"font-family: Helvetica;\"> </span>costing you less money than the time and effort is worth to you. All these things take up time you could be spending relaxing and ensuring you are as effective as possible at your work. Plus, you’ll give work experience to the local youth in your neighborhood!</span></p>\r\n<h3><span style=\"color: #000000;\">Eat well, sleep well and exercise</span></h3>\r\n<p><span style=\"color: #000000;\">It’s a cliché<span style=\"font-family: Helvetica;\"> </span>but it’s true. Looking after yourself is key to having a balanced life. Your body is your biggest tool. And if you don’t take care of your tools, getting anything done takes longer, and you’ll put your work-life balance in jeopardy.</span></p>\r\n<p><span style=\"color: #000000;\">Pick one or more of these strategies and change your behavior. Remember, if you keep doing the same thing, you’ll get the same result. Try something new to find your work-life balance!</span></p>\r\n<h3><span style=\"color: #000000;\">Interested in more career advice? Check out our <a href=\"https://thunderbird.asu.edu/knowledge-network/career-corner\" target=\"_blank\">career corner</a>!</span></h3>\r\n<p><em><span style=\"color: #000000;\"><!--break-->Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;<a href=\"http://danamanciagli.com/\">her website</a>.</span></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1200
+    height: 630
+    target_type: file
+    target_uuid: 58199140-a100-4a53-ba98-37c31bd93142
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a38f8d47-d553-4b4a-8aba-d58850e929a1
+    file:
+      - file.image.58199140-a100-4a53-ba98-37c31bd93142
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

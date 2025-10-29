@@ -1,0 +1,29 @@
+uuid: 3711a030-07e8-4fd3-8a26-52a7b7391839
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+    - options
+_core:
+  default_config_hash: HHvk-oIc042Oafp61Iad__r_upjEwNOO7wRx_XlLPkA
+id: block_content.field_heading_highlight
+field_name: field_heading_highlight
+entity_type: block_content
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: highlight-gold
+      label: Gold
+    -
+      value: highlight-black
+      label: 'Gray 7'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

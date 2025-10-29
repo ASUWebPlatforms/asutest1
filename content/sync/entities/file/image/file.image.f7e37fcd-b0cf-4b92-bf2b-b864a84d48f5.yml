@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: f7e37fcd-b0cf-4b92-bf2b-b864a84d48f5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+filename:
+  -
+    value: didi_china_tech_stock.jpg
+uri:
+  -
+    value: 'public://didi_china_tech_stock.jpg'
+    url: /sites/default/files/didi_china_tech_stock.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 114386
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-07-22T16:13:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-07-22T16:13:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc

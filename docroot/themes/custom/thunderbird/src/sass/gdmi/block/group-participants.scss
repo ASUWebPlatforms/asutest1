@@ -1,0 +1,273 @@
+.uds-form {
+    margin-bottom: 74px;
+
+    h1 {
+        margin: 71px 0 118px 0;
+    }
+}
+
+.participants-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+    .sub-heading {
+        color: $blue-dark;
+        font-family: $font-family-sans-serif;
+        font-size: 34px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 34px;
+        letter-spacing: -0.944px;
+        flex-basis: 100%;
+    }
+
+    .js-form-item {
+        display: flex;
+        flex-direction: column;
+        flex: 0 0 33%;
+        padding: 10px;
+        box-sizing: border-box;
+
+        label {
+            order: 1;
+            color: $blue-dark;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 900;
+            line-height: 24px;
+            letter-spacing: -0.667px;
+            margin-bottom: 0;
+
+            &::before {
+                left: -10px !important;
+            }
+        }
+
+        small {
+            order: 2;
+            margin-bottom: 11px;
+            color: $gray-darkest !important;
+            font-size: 14px;
+        }
+
+        input {
+            order: 3;
+        }
+    }
+}
+
+.person-details-wrapper {
+    .form-group {
+        width: 100%;
+    }
+
+    .person-item {
+        gap: 25px;
+        align-items: center;
+    }
+
+    .person-item-title {
+        min-width: 82px;
+        align-self: flex-start;
+    }
+}
+
+.commerce-checkout-flow {
+    label {
+        position: relative;
+
+        svg {
+            display: none;
+        }
+
+        &.js-form-required::before {
+            content: "*";
+            color: #FE003D;
+            left: -8px;
+            position: absolute;
+        }
+    }
+
+    .form-actions {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row-reverse;
+        align-items: center;
+        margin-top: 71px;
+
+        .link--previous {
+            color: $blue-dark;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 14px;
+            background: $gold;
+            padding: 14px 24px;
+            display: flex;
+
+            &::before {
+                content: url('/themes/custom/thunderbird/assets/icons/arrow-left-blue.svg');
+                margin-right: 10px;
+                width: 14px;
+                height: 14px;
+                display: block;
+            }
+
+            &:hover {
+                color: #FFF;
+                background-color: $blue-dark;
+                text-decoration: none;
+
+                &::before {
+                    content: url('/themes/custom/thunderbird/assets/icons/arrow-left-white.svg');
+                }
+            }
+        }
+
+        .submit-wrapper {
+            background: #0179b7;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            transition: none;
+
+            &::after {
+                content: url('/themes/custom/thunderbird/assets/icons/arrow-left-white.svg');
+                margin-right: 24px;
+                margin-left: 10px;
+                margin-top: -4px;
+                width: 13px;
+                display: block;
+                transform: rotate(180deg);
+            }
+            
+            input {
+                background-color: transparent;
+                border: none;
+                padding: 14px 0 14px 24px;
+                font-size: 14px;
+                font-style: normal;
+                font-weight: 900;
+                line-height: 14px;
+                letter-spacing: -0.4px;
+                text-transform: uppercase;
+                height: 1;
+
+                &:focus {
+                    border: none !important;
+                }
+            }
+
+            &:hover {
+                &:disabled{
+                    color: #FFF;
+                }
+
+                &:not(:disabled) {
+                    background-color: $blue-dark;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+
+    .upload {
+        margin-bottom: 50px;
+
+        &-file-wrapper {
+            label {
+                font-size: 14px;
+                background-color: $gold;
+                padding: 15px 25px;
+                cursor: pointer;
+                margin: 0;
+        
+                &:hover {
+                    background-color: $blue-dark;
+                    color: white;
+
+                    &::after {
+                        content: url("/themes/custom/thunderbird/assets/icons/share-white.svg");
+                    }
+                }
+        
+                &::after {
+                    content: url("/themes/custom/thunderbird/assets/icons/share.svg");
+                    display: inline-block;
+                    margin-left: 5px;
+                    background: transparent;
+                    height: $uds-size-spacing-2;
+                    width: $uds-size-spacing-2;
+                }
+            }
+
+            .form-group {
+                margin: 0;
+            }
+
+            input:not([value="Remove"]) {
+                display: none;
+            }
+
+            .js-form-managed-file.form-managed-file {
+                display: flex;
+                flex-wrap: wrap;
+                max-width: 182px;
+            }
+
+        }
+
+        &-content {
+            gap: 15px;
+            align-items: center;
+        }
+        
+        
+        &-description {
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        
+        
+        &-examples {
+            display: none;
+            margin-top: 30px;
+
+            >.d-flex {
+                gap: 15px;
+            }
+
+            &-toggle {                
+                color: $blue-mid;
+                font-size: 14px;
+                font-weight: 900;
+                line-height: 18px;
+                letter-spacing: -0.5px;
+                height: max-content;
+                padding: 20px 15px;
+                align-self: flex-start;
+
+                &:focus {
+                  box-shadow: none !important;
+                }
+
+                &::after {
+                    content: url("/themes/custom/thunderbird/assets/icons/arrow-example.svg");
+                    display: inline-block;
+                    margin-left: 5px;
+                    background: transparent;
+                    height: $uds-size-spacing-2;
+                    width: $uds-size-spacing-2;
+                    transform: rotate(180deg);
+                }
+
+                &.opened {
+                    &::after {
+                        transform: none;
+                    }
+                }
+            }
+        }
+    }
+}
+

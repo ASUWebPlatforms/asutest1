@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 60762156-8a31-4df6-ae8a-9adc4e5b7947
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: c740eac5-4575-4b58-a963-a62837cea4e3
+title:
+  -
+    value: 'Two Steps Forward, One Step Back: Afghan Women Under Attack'
+created:
+  -
+    value: '2018-09-06T20:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/two-steps-forward-one-step-back-afghan-women-under-attack
+body:
+  -
+    value: "<p>A little over 10 years ago I stood in a government compound in Ghazni City, Afghanistan, listening to local leaders share their plans for the future of the city. Plans that included a modern shopping plaza and city parks were discussed with enthusiasm. They talked about improving the education system and enabling both girls and boys to graduate high school and perhaps go on to University. Sadly this dream has not come true.</p>\r\n<p>[[{\"fid\":\"64704\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]][[{\"fid\":\"64706\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"334\",\"width\":\"616\",\"style\":\"background-color: transparent; font-size: 1em;\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]</p>\r\n<h4>Two steps back</h4>\r\n<p>In August 2018, over a thousand <a href=\"https://www.wsj.com/articles/afghan-government-struggles-to-oust-taliban-from-strategic-city-1534197873\">Taliban fighters attacked Ghazni City</a>, the capital of the second largest province in Afghanistan. They burned government buildings and checkpoints, threatened the local population and downed communication towers. Anyone who even remotely had ties to the local government is being targeted and killed. People cannot leave their homes. If they do manage to get out of town, their homes are confiscated and destroyed. The Taliban is threatening to roll back all the advances that have been made.</p>\r\n<p>Just a decade ago, Afghanistan was flush with funding from NGOs and international military support. Girls' education was a priority with record numbers enrolling in primary, secondary and even university-level schools. Roads and vital telecommunications infrastructure were being built, enabling better transportation between provinces and giving Afghans access to the Internet. We joked when we saw elderly women in burkas riding on donkeys holding not 1 but 2 cell phones. After decades of conflict they finally had the ability to communicate freely.</p>\r\n<p>But international attention and financial support for Afghanistan started to wane several years ago. <a href=\"https://www.hrw.org/report/2017/10/17/i-wont-be-doctor-and-one-day-youll-be-sick/girls-access-education-afghanistan\">A recent study by the Human Rights Watch</a> (Oct 2017) examines the challenges that contribute to the decrease in focus on girls education and opportunities for women in general. With the reduction of US and Coalition forces ensuring security, the Taliban began to increase its efforts to regain ground. The international community has tired of the conflict and the Taliban was patiently waiting for the opportunity to jump in and take back control of this region.&nbsp;</p>\r\n<h4>It's time to turn the tables on the Taliban</h4>\r\n<p>However all is not lost. We can still support the women of Afghanistan. Through education and empowerment, they will be able to resist the backward policies of these extremists. With our support they can create the structures, businesses and government programs needed to bring stability and even prosperity to this region. We can give them the tools to build a viable future for their families and country.</p>\r\n<p>We in the international community must redouble our efforts to support the women of Afghanistan. Programs, such as <a href=\"https://thunderbird.asu.edu/global-impact/project-artemis-afghanistan\">Thunderbird for Good’s Project Artemis</a>, provide the basic business skills needed to start and build a thriving enterprise. And as the saying goes, “Borders frequented by trade seldom need soldiers.” It’s time to turn the tables on the Taliban.</p>\r\n<p>There is still so much work to do and we are uniquely qualified to make this happen. By supporting programs like Project Artemis either through financial donations or volunteering, we can help change a small part of the world. Why not partner up with a local Thunderbird Alumni Chapter to support this worthy program? We can be change agents for peace. To lend your support now, <a href=\"https://engage.asu.edu/OrderApi__campaign?id=a1Y30000001GAiFEAW&amp;site=a0J3000000D1KrmEAF&amp;catalogid=a0V0M00000Ah0np\">click here</a>!</p>\r\n<p>Read previous <a href=\"https://thunderbird.asu.edu/knowledge-network/thunderbird-for-good\">Thunderbird for Glood blog articles here</a>.</p>\r\n<p>[[{\"fid\":\"64708\",\"view_mode\":\"teaser\",\"fields\":{\"format\":\"teaser\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"4\":{\"format\":\"teaser\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-teaser\",\"data-delta\":\"4\"}}]]</p>\r\n<p>About the author: Susan Aumack is a software marketing executive, mentor and alumni of Thunderbird. She lives in Santa Barbara CA.</p>"
+    format: basic_html
+    processed: ''
+    summary: 'A little over 10 years ago I stood in a government compound in Ghazni City, Afghanistan, listening to local leaders share their plans for the future of the city. Plans that included a modern shopping plaza and city parks were discussed with enthusiasm. They talked about improving the education system and enabling both girls and boys to graduate high school and perhaps go on to University. Sadly this dream has not come true.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 420
+    height: 600
+    target_type: file
+    target_uuid: 0ebed240-096b-477b-ab93-415bc0925c6a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.c740eac5-4575-4b58-a963-a62837cea4e3
+    file:
+      - file.image.0ebed240-096b-477b-ab93-415bc0925c6a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

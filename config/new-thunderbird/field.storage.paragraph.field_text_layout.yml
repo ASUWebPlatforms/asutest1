@@ -1,0 +1,27 @@
+uuid: ee233d8a-3935-4c2d-8083-f3ce9cee71c6
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - paragraphs
+id: paragraph.field_text_layout
+field_name: field_text_layout
+entity_type: paragraph
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: layout-1
+      label: 'Text Layout 1'
+    -
+      value: layout-2
+      label: 'Text Layout 2'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

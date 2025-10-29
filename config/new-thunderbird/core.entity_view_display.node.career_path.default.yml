@@ -1,0 +1,215 @@
+uuid: ae8704f7-6b7f-4523-adc0-e2c72dab7f5f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.career_path.body
+    - field.field.node.career_path.field_career_path_icon
+    - field.field.node.career_path.field_career_path_icon_hover
+    - field.field.node.career_path.field_domain_access
+    - field.field.node.career_path.field_domain_all_affiliates
+    - field.field.node.career_path.field_news_link
+    - field.field.node.career_path.layout_builder__layout
+    - field.field.node.career_path.layout_builder__translation
+    - node.type.career_path
+  module:
+    - image
+    - layout_builder
+    - layout_builder_restrictions
+    - layout_discovery
+    - link
+    - text
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: true
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+        components:
+          -
+            uuid: 71055999-1446-4e40-8c71-633cb8f35d27
+            region: content
+            configuration:
+              id: 'extra_field_block:node:career_path:links'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+            weight: 0
+            additional: {  }
+          -
+            uuid: 3bf73e74-9ecb-4d38-8151-e9d3e58652c5
+            region: content
+            configuration:
+              id: 'field_block:node:career_path:body'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: text_default
+                label: hidden
+                settings: {  }
+                third_party_settings: {  }
+            weight: 1
+            additional: {  }
+          -
+            uuid: c1424562-fcff-422b-861e-001c19f36b34
+            region: content
+            configuration:
+              id: 'field_block:node:career_path:field_news_link'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: link
+                label: above
+                settings:
+                  trim_length: 80
+                  url_only: false
+                  url_plain: false
+                  rel: ''
+                  target: ''
+                third_party_settings: {  }
+            weight: 2
+            additional: {  }
+          -
+            uuid: 51549c94-c16a-4560-992e-3de4e8222a2f
+            region: content
+            configuration:
+              id: 'field_block:node:career_path:field_career_path_icon'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: image
+                label: above
+                settings:
+                  image_link: ''
+                  image_style: ''
+                third_party_settings: {  }
+            weight: 3
+            additional: {  }
+          -
+            uuid: 91a26feb-c1c4-488a-9e51-c55a429ae70f
+            region: content
+            configuration:
+              id: 'field_block:node:career_path:field_career_path_icon_hover'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: image
+                label: above
+                settings:
+                  image_link: ''
+                  image_style: ''
+                third_party_settings: {  }
+            weight: 4
+            additional: {  }
+          -
+            uuid: 325c5e7d-492a-4f35-8ba3-eb2ee7cb0a8e
+            region: content
+            configuration:
+              id: 'field_block:node:career_path:field_career_path_icon'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: image
+                label: above
+                settings:
+                  image_link: ''
+                  image_style: ''
+                  image_loading:
+                    attribute: lazy
+                third_party_settings: {  }
+            weight: 5
+            additional: {  }
+          -
+            uuid: fad769db-f96a-4179-87d8-4e242764d1e6
+            region: content
+            configuration:
+              id: 'field_block:node:career_path:field_career_path_icon_hover'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: image
+                label: above
+                settings:
+                  image_link: ''
+                  image_style: ''
+                  image_loading:
+                    attribute: lazy
+                third_party_settings: {  }
+            weight: 6
+            additional: {  }
+        third_party_settings: {  }
+  layout_builder_restrictions:
+    allowed_block_categories: {  }
+    entity_view_mode_restriction:
+      allowed_layouts: {  }
+      denylisted_blocks: {  }
+      allowlisted_blocks: {  }
+      restricted_categories: {  }
+id: node.career_path.default
+targetEntityType: node
+bundle: career_path
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  field_career_path_icon:
+    type: image
+    label: above
+    settings:
+      image_link: ''
+      image_style: ''
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_career_path_icon_hover:
+    type: image
+    label: above
+    settings:
+      image_link: ''
+      image_style: ''
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  field_news_link:
+    type: link
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true
+  search_api_excerpt: true

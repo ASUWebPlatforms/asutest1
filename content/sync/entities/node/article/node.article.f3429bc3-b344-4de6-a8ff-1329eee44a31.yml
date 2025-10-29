@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: f3429bc3-b344-4de6-a8ff-1329eee44a31
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Weekend in Bangkok'
+created:
+  -
+    value: '2014-11-14T06:54:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/weekend-in-bangkok
+body:
+  -
+    value: "<p>November 12</p>\r\n<p><span><img src=\"/sites/default/files/img_1535.jpg\" width=\"200\" height=\"267\" class=\"No Style|nostyle\">Friday, after a successful first week the team went to Bangkok to get a car and try to resolve Kyle's computer issues... they made a weekend out of it for Kyle's 30th birthday. A good time was had by all and the they enjoyed many touristy things while in the city, such as massages, temple visits, tuk-tuk rides, street food, and shopping. Lots of shopping, from souvenirs and funky junk to going all together and getting measured for bespoke tailored suits.</span><span>&nbsp;</span></p>\r\n<p><span>The first day, after a long visit to the Apple service center the team checked into their hotel. It was one of those places seemed nice on the website but was infested with rats. Overlooking that point they set their stuff down and went exploring. The first stop was a vendor of fried insects on the street. Afterwards they shopped and then ate at a nice patio restaurant for Kyle's birthday.<br></span></p>\r\n<p><span>The second day the team decided they needed some pampering. Kyle and Hudson got a certain kind of pedicure that entails putting your feet in a fishtank and having them nibbled at by fish. Tirza enjoyed several massages. Then Kyle and Xiyu also got massages. While they were having those done Tirza, Hudson, and Jon went on a boat ride around the city and then visited the Golden Mountain Buddha temple. Afterwards, and without even planning it, the team ran into each other at the tailor that Hudson (and John Bevell) had recommended and spent several hours getting measured for suits and picking out fabrics.</span></p>\r\n<p><span> The last day, after some more massages the team picked up the car, Kyle's computer and went back to Samut Songkhram. </span><span>Aside from some mischeif one of the highlights of the trip was a ride in a Lao man's cab. He was shocked when he learned that Hudson spoke Lao, as were we. Apparently Lao is the same as a Thai dialect that is spoken in the north, a region where Hudson had previously lived. So amazed was this man by a white guy speaking Lao that every time Hudson spoke to him he broke out in the jolliest, most incredulous laughter you've ever heard. He even took a detour to swing by his daughter's fruit stand so he could show off this incredible find of his, and the rest of the ride was filled with him calling his friends and relatives and handing the phone to Hudson to speak to them, laughing the whole time.</span></p>\r\n<p><span>All in all, Bangkok is great city. The team ate well, relaxed, and had a lot of fun. It was a great way to recharge for another productive week of work and for Kyle to spend his 30th birthday.<br></span></p>\r\n<p><span>&nbsp;</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

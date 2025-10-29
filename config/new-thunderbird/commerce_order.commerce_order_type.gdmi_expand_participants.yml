@@ -1,0 +1,26 @@
+uuid: 2110b8ff-c9ae-4e65-8977-81c002064037
+langcode: en
+status: true
+dependencies:
+  module:
+    - commerce_cart
+    - commerce_checkout
+third_party_settings:
+  commerce_cart:
+    cart_block_view: commerce_cart_block
+    cart_form_view: commerce_cart_form
+    cart_expiration: {  }
+    enable_cart_message: false
+  commerce_checkout:
+    checkout_flow: gdmi_expand_participants
+id: gdmi_expand_participants
+label: 'GDMI Expand participants'
+traits: {  }
+locked: false
+workflow: order_default
+numberPattern: null
+refresh_mode: customer
+refresh_frequency: 300
+sendReceipt: false
+receiptBcc: ''
+receiptSubject: ''

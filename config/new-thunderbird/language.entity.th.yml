@@ -1,0 +1,9 @@
+uuid: 863e0bb8-766f-4a28-9c0b-3a8897954bbc
+langcode: en
+status: true
+dependencies: {  }
+id: th
+label: Thai
+direction: ltr
+weight: 12
+locked: false

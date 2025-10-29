@@ -1,0 +1,23 @@
+uuid: 8de97370-5d8f-4ddd-b356-06c2a172add9
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.column_text
+    - field.storage.block_content.field_heading_style
+  module:
+    - options
+id: block_content.column_text.field_heading_style
+field_name: field_heading_style
+entity_type: block_content
+bundle: column_text
+label: 'Heading Style'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: h2
+default_value_callback: ''
+settings: {  }
+field_type: list_string

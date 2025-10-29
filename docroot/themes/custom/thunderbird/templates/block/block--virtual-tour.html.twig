@@ -1,0 +1,18 @@
+{{ attach_library('thunderbird/lightbox') }}
+{% set classes = [ 
+  'virtual-tour',  
+  'block', 
+  'block-' ~ configuration.provider|clean_class, 
+  'block-' ~ plugin_id|clean_class
+  ]
+%}
+<div {{ attributes.addClass(classes) }} style="background-image: url('{{ content.field_media|render|striptags|trim }}')">
+  {{ title_prefix }}
+  {{ title_suffix }}
+  <div class="heading-box">
+    <span class="subheading">{{ content.field_sub_heading }}</span>
+    {{ content.field_heading }}
+    <a href="https://brookfield-gce.idx.inc/clients/thunderbird/" class="btn btn-default btn-blue btn" data-lity>{{ 'Virtual tour'|t }}</a>
+    {{ content.field_cta }}
+  </div>
+</div>

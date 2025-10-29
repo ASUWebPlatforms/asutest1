@@ -1,0 +1,6 @@
+name: 'Thunderbird Degrees'
+type: module
+description: 'Functionality related to degree programs'
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: 'Thunderbird'

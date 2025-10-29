@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: 3fa57777-77a7-4f2b-9b53-95b1dcc62cbd
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-08-15T17:55:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Valeant''s Battle for Allergan'
+created:
+  -
+    value: '2018-08-15T17:55:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-08-15T17:55:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-18-0005
+body:
+  -
+    value: '<p>On April 21, 2014 two companies, Valeant Pharmaceuticals and Pershing Square,&nbsp;announced an unsolicited merger offer for Allergan Pharmaceuticals. The unsolicited offer&nbsp;quickly turned into a hostile acquisition. The following months saw a raging public debate&nbsp;over the future control of Allergan and its primary product, Botox, as well as the business&nbsp;strategies and philosophies of the two offering firms and their CEOs.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-18-0005
+field_case_page_length:
+  -
+    value: '18'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  -
+    target_type: taxonomy_term
+    target_uuid: 507c0265-2c02-4a8a-a94e-ca9ce40c9b78
+  -
+    target_type: taxonomy_term
+    target_uuid: bd8c2f59-a006-4b52-9ba5-aeb56c1427ac
+field_teaching:
+  -
+    value: 'This case has been used in both graduate business and management degree and non-degree programs to provide a platform for discussions of a number of differing issues, including mergers and acquisitions, corporate governance and control, activist investing, organic versus acquisition-based growth, and the mechanics of friendly and hostile acquisitions.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4
+      - taxonomy_term.case_series_fields.507c0265-2c02-4a8a-a94e-ca9ce40c9b78
+      - taxonomy_term.case_series_fields.bd8c2f59-a006-4b52-9ba5-aeb56c1427ac

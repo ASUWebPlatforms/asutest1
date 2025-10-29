@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: be182010-ab47-4a28-97e8-745855c22b37
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: are_you_interested_in_working_abroad_heres_what_you_need_to_know.jpg
+uri:
+  -
+    value: 'public://article/are_you_interested_in_working_abroad_heres_what_you_need_to_know.jpg'
+    url: /sites/default/files/article/are_you_interested_in_working_abroad_heres_what_you_need_to_know.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 1424540
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-06-15T17:01:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-06-15T17:01:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

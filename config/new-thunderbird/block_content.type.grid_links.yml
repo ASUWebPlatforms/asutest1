@@ -1,0 +1,10 @@
+uuid: 05d8a2bd-8d7c-4742-a1c7-59f6f3d900ec
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fR3ByTvhghkE3StJ-2V9P6kKziypjbhvbIi6AcU8GuA
+id: grid_links
+label: 'x Grid Links'
+revision: 0
+description: ''

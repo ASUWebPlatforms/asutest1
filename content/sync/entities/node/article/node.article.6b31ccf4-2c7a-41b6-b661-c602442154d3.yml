@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 6b31ccf4-2c7a-41b6-b661-c602442154d3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-31T23:14:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: 'Q&A with Thunderbird’s Enrollment Advisor '
+created:
+  -
+    value: '2017-05-31T16:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-31T23:14:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/qa-thunderbird-enrollment-advisor
+body:
+  -
+    value: "<p>[[{\"type\":\"media\",\"fid\":\"5358\",\"view_mode\":\"teaser\",\"link_text\":null,\"fields\":{},\"attributes\":{\"alt\":\"MaryAnne Radioque\",\"title\":\"MaryAnne Radioque\",\"class\":\"panopoly-image-quarter media-element file-teaser\"}}]]</p>\r\n<p>Thunderbird's admissions &amp; recruitment team assists prospective students and applicants with a customer-focused recruitment approach, providing information on upcoming events, connections to students, alumni, and faculty, and advice to aid in program selection. &nbsp;</p>\r\n<p><strong>Enrollment Advisor MaryAnne Riodique ‘16</strong> shares her experience and expertise to guide you through the admissions process. She shares some insight with us here!</p>\r\n<p><strong>Q: What is your role as an enrollment advisor at Thunderbird?&nbsp;</strong></p>\r\n<p><strong>MaryAnne:</strong>&nbsp;Primarily I’m responsible for relationship management with prospective students as they conduct research on Thunderbird, connect them with resources and various stakeholders off/on campus so they can come to an informed decision. I then work with them throughout the application/admissions process and continue to act as a resource as they complete their education at Thunderbird. I’m also part of&nbsp;a steering committee tasked with veteran recruitment and veteran student engagement. I spend a good portion of my time attending events to represent the school in the community and <a href=\"/node/2042\">travel extensively to recruit students worldwide</a> as well.</p>\r\n<p><strong>Q: What is the ideal profile of a Thunderbird candidate? &nbsp;</strong></p>\r\n<p><strong>MaryAnne:&nbsp;</strong>We look for students who have a <i>global mindset</i> – or those who have a strong interest in acquiring one through their Thunderbird degree/experience: Students with an open-mind, a natural curiosity of the world, other cultures, and are interested in global business training as a means to create solutions, create value and make a global impact in whatever industry or sector they happen to pursue.</p>\r\n<p><strong>Q:&nbsp;What “insider tips” do you have for anyone applying to Thunderbird? &nbsp;</strong></p>\r\n<p><strong>MaryAnne</strong>: Keep an open line of communication with the Admissions office and your recruiter, and make sure you’re communicating frequently – this is the best way to minimize any confusion about deadlines, requirements for documentation, learning about scholarships options which may not be advertised, or valuable alumni connections.</p>\r\n<p>Further – do some cursory career research up front, have an idea what type of companies you’d like to target, identify your strengths. If you’re offered admission and start the program with a general direction, you’re already ahead of the curve. You can then identify <a href=\"/node/192\">student clubs </a>to get involved in, summer internships, and can pitch to a corporate recruiter what you’re looking for/what value you can bring to their organization.&nbsp;</p>\r\n<p>Take the opportunity to <a href=\"https://www.google.com/maps/d/viewer?dg=feature&amp;oe=UTF8&amp;msa=0&amp;ie=UTF8&amp;mid=1syxULsPqDd9cLiB6eatA4GSAEt4&amp;ll=14.57295107709115%2C-115.91674599999999&amp;z=2\" target=\"_blank\">connect with our alumni chapters</a>, and <a href=\"/node/2213\">speak with current students</a> about their experience. Don’t be afraid to be candid with your questions.&nbsp;</p>\r\n<p><strong>Q:&nbsp;What kind of <a href=\"/node/496\">scholarships are available at Thunderbird</a>? &nbsp;</strong></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\"><strong>MaryAnne</strong>:&nbsp;</span>We offer merit-based scholarships upon admission – students can fill out a scholarship application as part of the admissions application process, so our office knows you’re interested in scholarships.&nbsp; We then consider several elements of your profile to determine how to award the merit-based “Global Excellence Scholarship.” Review is based on CGPA, test scores, the amount of work experience, etc.</p>\r\n<p>We also have a great military scholarship – the Hinrich Veterans Scholarship – which was established to help bridge any gap in financing for veteran students attending our full-time, campus programs. There’s also the <a href=\"/node/654\">SHARE Fellowship</a>, another alumni-funded program to attract high-caliber candidates from developing countries. Both of these scholarship programs require a separate application, interview, and vetting process, and typically a referral of some type from the admissions office. This is another reason why it’s important to partner closely with your recruiter.</p>\r\n<p><strong>Q: Can you give an example of something a student has done that really impressed you during the interview process?</strong></p>\r\n<p><strong>MaryAnne</strong>: In general, I’m always impressed with students who go to great lengths to come Thunderbird – for example, students who travel to the next state or country just to get a GMAT or TOEFL exam, because the test dates are booked in their city for months on end; or those who fly to our Glendale campus from the other side of the world just to interview in person. I think it’s impressive when any student travels outside of their home country for the first time to pursue an education and a career. It demonstrates grit, determination, and a sense of adventure – all attributes we love to see in T-bird students.</p>\r\n<p>For more information feel free to reach out to MaryAnne directly!<a href=\"mailto:admissions.tbird@asu.edu\" target=\"_blank\"></a></p>\r\n<p><a href=\"mailto:maryanne.riodique@thunderbird.asu.edu\" target=\"_blank\"><span class=\"btn btn-primary\">Email MaryAnne</span></a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1224
+    height: 1224
+    target_type: file
+    target_uuid: 57c7a442-b2d2-4f7f-b45c-b4df52d92792
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c98a978-a0e5-4ad3-ae54-71103288ecdd
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    file:
+      - file.image.57c7a442-b2d2-4f7f-b45c-b4df52d92792
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.2c98a978-a0e5-4ad3-ae54-71103288ecdd

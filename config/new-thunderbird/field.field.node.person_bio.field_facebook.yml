@@ -1,0 +1,19 @@
+uuid: 66d8ac49-2760-446d-aa69-88b44dd333df
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_facebook
+    - node.type.person_bio
+id: node.person_bio.field_facebook
+field_name: field_facebook
+entity_type: node
+bundle: person_bio
+label: Facebook
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

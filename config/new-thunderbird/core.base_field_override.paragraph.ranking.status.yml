@@ -1,0 +1,22 @@
+uuid: 94f78dc2-6dda-4baf-81e3-1089c5c195de
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.ranking
+id: paragraph.ranking.status
+field_name: status
+entity_type: paragraph
+bundle: ranking
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

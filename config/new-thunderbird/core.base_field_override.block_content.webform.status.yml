@@ -1,0 +1,22 @@
+uuid: d81f7912-0cbc-4ae4-92b6-7bd521ff334c
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.webform
+id: block_content.webform.status
+field_name: status
+entity_type: block_content
+bundle: webform
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 3f87aef2-a28a-4c8d-a552-67c412f30a77
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:06:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'ABOR Approves Interim Space for Thunderbird in Downtown Phoenix'
+created:
+  -
+    value: '2018-02-19T03:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:06:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/abor-approves-interim-space-thunderbird-downtown-phoenix
+body:
+  -
+    value: "<div class=\"_5pbx userContent _3576\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\">\r\n<p>We are pleased to announce the Arizona Board of Regents has approved Thunderbird’s interim location at the newly renovated Arizona Center in <a href=\"https://www.facebook.com/downtownphoenix/?fref=mentions\" class=\"profileLink\" data-hovercard=\"/ajax/hovercard/page.php?id=80692294419&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D\" data-hovercard-prefer-more-content-show=\"1\">Downtown Phoenix, AZ</a>! Our move date is still pending but we look forward to giving our students complete access to all of <a href=\"https://www.facebook.com/arizonastateuniversity/?fref=mentions\" class=\"profileLink\" data-hovercard=\"/ajax/hovercard/page.php?id=23680344606&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D\" data-hovercard-prefer-more-content-show=\"1\">Arizona State University</a>’s downtown resources.</p>\r\n<p>[[{\"fid\":\"12828\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"ABOR Approves Interim Location for Thunderbird in Downtown Phoenix\",\"field_file_image_title_text[und][0][value]\":\"ABOR Approves Interim Location for Thunderbird in Downtown Phoenix\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"ABOR Approves Interim Location for Thunderbird in Downtown Phoenix\",\"field_file_image_title_text[und][0][value]\":\"ABOR Approves Interim Location for Thunderbird in Downtown Phoenix\"}},\"attributes\":{\"alt\":\"ABOR Approves Interim Location for Thunderbird in Downtown Phoenix\",\"title\":\"ABOR Approves Interim Location for Thunderbird in Downtown Phoenix\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1600
+    height: 800
+    target_type: file
+    target_uuid: 0f85f51b-77c7-4ce8-8311-5a76143c40a6
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 637cd2d6-5580-430f-8ab1-cf7b5b89e7d5
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.0f85f51b-77c7-4ce8-8311-5a76143c40a6
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.637cd2d6-5580-430f-8ab1-cf7b5b89e7d5

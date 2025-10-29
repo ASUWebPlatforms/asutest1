@@ -1,0 +1,22 @@
+uuid: 1aa1c880-1b2d-4b6e-bcb4-288d658671b1
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.video_poster_image_73_100
+id: media.video_poster_image_73_100.status
+field_name: status
+entity_type: media
+bundle: video_poster_image_73_100
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

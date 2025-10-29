@@ -1,0 +1,18 @@
+uuid: 33a2402a-d857-4571-ac38-9120820253fa
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.blockquote
+id: block_content.blockquote.info
+field_name: info
+entity_type: block_content
+bundle: blockquote
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

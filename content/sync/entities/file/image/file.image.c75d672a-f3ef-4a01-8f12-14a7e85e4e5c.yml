@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: c75d672a-f3ef-4a01-8f12-14a7e85e4e5c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+filename:
+  -
+    value: blog-alumni-chapter-sep17-mumbai.png
+uri:
+  -
+    value: 'public://article/blog-alumni-chapter-sep17-mumbai.png'
+    url: /sites/default/files/article/blog-alumni-chapter-sep17-mumbai.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 163302
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-08-28T16:54:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-08-28T16:54:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff

@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: acb80f73-5e21-4c67-8e3f-00093d72e654
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T23:05:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Global Leadership of Carlos Ghosn at Nissan'
+created:
+  -
+    value: '2016-07-26T23:05:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T23:05:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-03-0014
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>In 1999, after posting losses in eight of the preceding nine years, Nissan seeks a partnership with Renault. At the request of Nissan, Carlos Ghosn is appointed COO. Ghosn, a Frenchman with Brazilian-Lebanese heritage, who has spent much of his career in Michelin in Latin America and the US, has earned the nickname "Le Cost-Killer" during his tenure at Renault. Despite his multi-cultural background, he speaks no Japanese and has no Asian experience. His charter, however, is to quickly turn around the ailing Japanese carmaker, with all the unique challenges of leading change as a foreigner in Japan. His commits to doing it within three years or resigning. Enlisting middle management, he uses solid change management technique and is successful, but now must confront the process of institutionalizing his initial successes and planning for a successor.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-03-0014
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: Japan
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a2622059-dd2a-4551-8b34-4d715e1358f0
+  -
+    target_type: taxonomy_term
+    target_uuid: cda0194f-8cfe-407b-8108-ce4e0aaa42c4
+  -
+    target_type: taxonomy_term
+    target_uuid: 8c75fa19-1ad4-4a85-86e7-04cf6d33ad63
+field_teaching:
+  -
+    value: "This case primarily illustrates the challenges of global leadership and managing change in a different culture, with a particular emphasis on institutionalizing the changes. It also presents the challenge of succession planning.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.a2622059-dd2a-4551-8b34-4d715e1358f0
+      - taxonomy_term.case_series_fields.cda0194f-8cfe-407b-8108-ce4e0aaa42c4
+      - taxonomy_term.case_series_fields.8c75fa19-1ad4-4a85-86e7-04cf6d33ad63

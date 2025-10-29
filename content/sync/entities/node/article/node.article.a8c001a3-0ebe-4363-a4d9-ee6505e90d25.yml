@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: a8c001a3-0ebe-4363-a4d9-ee6505e90d25
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:06:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: '3 Ways to “Fail Proof” Your Communications'
+created:
+  -
+    value: '2017-10-03T17:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:06:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/3-ways-fail-proof-your-communications
+body:
+  -
+    value: "<p>Most business communication fails. Survey data consistently shows that about 75% of business presentations are rated as mediocre – or worse – by their audiences, and more seriously, companies on average rate their sales messaging at a mere 3.9 on a 1-to-10 scale.</p>\r\n<p>At both the individual and institutional level, we often have a great story, but we just don’t know how to tell it well. Why? While it’s certainly true that defaulting to mind-numbing slide decks does play its part, the slide deck is not the problem. The real reason is deeper and far more interesting.</p>\r\n<p>Tim Pollard is an author and CEO of&nbsp;<a href=\"http://www.oratium.com/\">Oratium</a>, a communications firm helping organizations from Fortune 500 companies to individual law offices hone their presentation and messaging skills. His new book,&nbsp;<a href=\"https://www.amazon.com/dp/0998237302/ref=sr_1_1?ie=UTF8&amp;qid=1481312569&amp;sr=8-1&amp;keywords=the+compelling+communicator\"><em>The Compelling Communicator: Mastering the Art and Science of Exceptional Presentation Desig</em></a><em><span style=\"text-decoration: underline;\">n,</span></em>&nbsp;describes how it’s all about the brain. He says the human brain is wired in very particular ways with respect to how it wants and needs to consume information and these “rules” must be obeyed. Communication fails when it does not align with how the brain works. Communication succeeds when it does. It’s as simple as that.</p>\r\n<blockquote>\r\n<p>Communication fails when it does not align with how the brain works.</p>\r\n</blockquote>\r\n<p>So, how does Tim recommend structuring communications so they align with the way the human brain is wired and will not fail?</p>\r\n<h3><span>1) Build Around Ideas</span></h3>\r\n<p>The human brain is reductionist. It operates at the level of ideas. If you walk out of any presentation and later explain it to a friend, you will instinctively boil it down to a few ideas, probably with little or no data. Hence, the single most important thing the communicator must do is to also operate at the level of ideas, giving the audience what their brains want to consume,&nbsp;<em>and will remember.</em></p>\r\n<p>How do you do this? The key lies in understanding how people make decisions. In human beings,&nbsp;<span>action is preceded by belief.&nbsp;</span>This means the most important question in communication design is: “What does my audience need to believe in to take the action I want them to take?” Answer that question and you have your big ideas.</p>\r\n<h3><span>2) Simplify&nbsp;Communications</span></h3>\r\n<p>Almost all presenters wildly overestimate the capacity of their audience’s brains. If you imagine the human brain has a total processing power equivalent to the U.S. economy, about $17 trillion, you may be surprised to learn that only about three dollars are allocated to the part of the brain that processes new information. This is why “fire-hosing” never works. You need to fit your argument within your audience’s brain space.</p>\r\n<p>There are two ways to do this. The first is the polar opposite of our normal behavior. Instead of packing in everything you can in the name of completeness, pull everything out that you can, while still leaving your argument intact. How? Ask the hard question: “Does my audience need to know this?” If they don’t, take it out.</p>\r\n<p>Having managed down quantity, you also need to manage down complexity. Because your audience doesn’t live in the same world you do, it’s far easier to confuse them with “insider” terms and acronyms than you probably realize. Research shows that doctors regularly confuse patients with terms as apparently clear as “hydrate.” The solution is to conduct an intentional simplification round. Take one tour through your material looking only for complexity. You won’t spot it if you are proofing or editing.</p>\r\n<h3><span>3) Logical Narrative Structure</span></h3>\r\n<p>Finally, when you read a book, Chapter 6 makes sense because Chapter 5 created the context for it. But read the same book out of sequence, the logical structure is lost, and it will make no sense at all. This is one of the chief causes of communications failure. However solid the content, without a clear structure there’s no context, and context creates comprehension.</p>\r\n<p>Curiously, the ancient world provides the tool to create great structure. Early Greek writers would often structure an argument based on the “Natural Question.” If you assume that each point in an argument will raise some thought or question in the audience’s mind, if you answer those questions as they arise, you cannot help but create an audience-centric structure. How? Look at each point you are making and ask, “What question does this raise?” Then answer that question.</p>\r\n<p>We recently helped a CEO with an important “change in strategy” presentation to her internal team. The original design placed the new organizational structure late in the presentation. However, we helped her to see that the instant she stated, “We have a new strategy,” the question in the room would be “Yikes – do I have a job?” Hence the new organization chart was brought in much earlier to answer that burning question, and a far better structure was created.</p>\r\n<p>If you follow these guidelines and build your communication to align with the way the brain works, you will be amazed by the results.</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 7618a9a0-0646-4e2b-9af9-2817c68bb995
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.7618a9a0-0646-4e2b-9af9-2817c68bb995
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

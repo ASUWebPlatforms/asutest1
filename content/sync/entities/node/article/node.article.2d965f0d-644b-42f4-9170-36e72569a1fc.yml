@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 2d965f0d-644b-42f4-9170-36e72569a1fc
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:56:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+title:
+  -
+    value: '3 Ways to Reach More Qualified Candidates'
+created:
+  -
+    value: '2018-04-04T17:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:56:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/3-ways-reach-more-qualified-candidates
+body:
+  -
+    value: "<h1>[[{\"fid\":\"14869\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"reach-passive-job-candidates-with-these-3-new-strategies.png\",\"field_file_image_title_text[und][0][value]\":\"reach-passive-job-candidates-with-these-3-new-strategies.png\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"reach-passive-job-candidates-with-these-3-new-strategies.png\",\"field_file_image_title_text[und][0][value]\":\"reach-passive-job-candidates-with-these-3-new-strategies.png\"}},\"attributes\":{\"alt\":\"reach-passive-job-candidates-with-these-3-new-strategies.png\",\"title\":\"reach-passive-job-candidates-with-these-3-new-strategies.png\",\"height\":\"519\",\"width\":\"967\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</h1>\r\n<h3>Attract&nbsp;Top Talent in&nbsp;a Rapidly&nbsp;Evolving&nbsp;Job Market<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></h3>\r\n<p>Over the summer the search engine behemoth Google&nbsp;made waves as it&nbsp;entered the recruitment space&nbsp;with&nbsp;Google for Jobs, and then,&nbsp;in October, rumors surfaced that Facebook&nbsp;began&nbsp;testing a résumé&nbsp;feature to&nbsp;boost&nbsp;companies’&nbsp;recruitment efforts.&nbsp;These industry shakeups have&nbsp;job&nbsp;boards&nbsp;on edge, wondering if eventually Google and Facebook will monopolize job&nbsp;search&nbsp;and advertising.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>While&nbsp;Google&nbsp;in particular could reinvent how job search works, this represents only one way to reach candidates&nbsp;and savvy job boards are reinventing themselves by going beyond the job ad to help employers find more effective ways to better reach candidates.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>Savvy recruiters and HR professionals need to&nbsp;proactively engage&nbsp;a wider audience pool, embrace the new innovative recruitment tools on the market, and rethink their recruitment brands.&nbsp;Joe&nbsp;Weinlick,&nbsp;Chief Marketing Officer for&nbsp;<a href=\"https://www.nexxt.com/\">Nexxt</a>,&nbsp;a recruitment media company, and I spoke about tools and&nbsp;techniques&nbsp;recruiters can use in today’s tight labor market to&nbsp;capture a&nbsp;competitive edge in reaching and hiring new talent.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<h3>#1&nbsp;Proactively Engage&nbsp;Candidates</h3>\r\n<p>If you’re an&nbsp;HR professional, you probably use job boards as your main source of leads when filling positions – many companies do. But job boards as they exist today are no longer effective as a single-pronged recruitment strategy and it’s&nbsp;not&nbsp;enough to&nbsp;simply&nbsp;post an ad waiting for a candidate to bite.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>In fact, many eligible candidates aren’t necessarily scouring job boards every day.&nbsp;According to a recent&nbsp;<a href=\"https://about.nexxt.com/infographics/looking-hard/\">survey</a>&nbsp;conducted by&nbsp;Nexxt, 14 percent of respondents said they’re actively searching for a new job, but a much higher number –&nbsp;58 percent –&nbsp;are open to&nbsp;job offers. Meaning,&nbsp;there’s a large gap between the number of candidates open to moving onto the next great opportunity and those actually applying for the job.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>Candidates&nbsp;who are not actively&nbsp;looking&nbsp;but&nbsp;are open to opportunities&nbsp;are referred to as “passive.”&nbsp;You might even be one yourself if you don’t feel hot or cold about your job.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>“There are&nbsp;a lot of&nbsp;really talented&nbsp;people&nbsp;who lack passion for their current job or company&nbsp;–&nbsp;and that is both a&nbsp;great&nbsp;tragedy and a&nbsp;perfect&nbsp;opportunity&nbsp;for employers to start conversations with&nbsp;these&nbsp;potential candidates,” says&nbsp;Weinlick.&nbsp;“But&nbsp;it takes a lot of&nbsp;effort to apply for new jobs,&nbsp;so employers need to get creative&nbsp;if they want to engage candidates who haven’t committed to that effort yet.”<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>One&nbsp;of the most effective ways to reach the passive&nbsp;qualified&nbsp;candidate&nbsp;who is&nbsp;daydreaming of a new job is through&nbsp;<a href=\"https://hiring.nexxt.com/solutions/text-email-campaigns/\">text messaging</a>.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>“Like most people, I’m addicted to my&nbsp;smartphone and,&nbsp;while I might ignore an email,&nbsp;I never ignore a text message,” says&nbsp;Weinlick. “People live on their&nbsp;devices! So as a recruiter, you know any communication you send by text message will be read&nbsp;–&nbsp;and read immediately.”<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>The personalized nature of text message is also a strength for this recruitment tool. A tailored text message addressed to a prospect is more likely to elicit a response than more traditional forms of reaching candidates, and with conversational text products allow recruiters to carry on live&nbsp;conversations with interested candidates.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<h3>#2&nbsp;Reach Candidates&nbsp;Through&nbsp;Retargeting&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}\">&nbsp;</span></h3>\r\n<p>In addition to text messaging, employers can also take a different approach to advertising&nbsp;their&nbsp;open positions through&nbsp;<a href=\"https://hiring.nexxt.com/solutions/retargeting/\">retargeting</a>. This&nbsp;popular online&nbsp;marketing tool, also known as remarketing,&nbsp;has been used by retailers for years. That’s why&nbsp;consumers&nbsp;see those pair of shoes&nbsp;they’ve&nbsp;been lusting over popping up&nbsp;in ads&nbsp;on Facebook and Google days after&nbsp;they first&nbsp;clicked on them on the retailer’s website.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>This marketing technique&nbsp;is&nbsp;proving useful in the recruitment industry as well.&nbsp;With retargeting, that disgruntled worker&nbsp;who&nbsp;clicked on your job advertisement this morning and&nbsp;then got on with their day&nbsp;will now see&nbsp;your&nbsp;job ad pop up as they skim their Facebook timeline or check the score of the game online.&nbsp;It’s&nbsp;the perfect way&nbsp;to&nbsp;subtly&nbsp;nudge a candidate&nbsp;to commit to applying for your&nbsp;job.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>With job boards becoming more crowded and&nbsp;less targeted, retargeting is an ideal&nbsp;way to&nbsp;ensure&nbsp;your company’s positions&nbsp;get noticed.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<h3>#3&nbsp;Rethink Your&nbsp;Recruitment&nbsp;Brand<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></h3>\r\n<p>In today’s tight labor market, a company&nbsp;needs to stand out from the competition to attract the most qualified talent.&nbsp;One of the&nbsp;easiest ways to differentiate yourself from the company next door is to&nbsp;strengthen&nbsp;your recruitment brand.&nbsp;Similar to&nbsp;a&nbsp;corporate&nbsp;brand, your recruitment brand communicates important details about your company, but more specifically, it shares with potential applicants what day-to-day life is like as an employee at your organization.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>The key part of your recruitment brand is a single strategic ethos or&nbsp;message&nbsp;that runs through&nbsp;all company communication, from the newsletter to the social media channels to the website.<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>“Everything about your brand needs to inspire and motivate,” says&nbsp;Weinlick. “When candidates&nbsp;and employees&nbsp;read your corporate mission statement or job ad,&nbsp;they need to feel something. That feeling should give&nbsp;them&nbsp;the reason to&nbsp;apply to your job or&nbsp;get up and go to work in the morning.”&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>There are a lot of companies with strong recruitment brands, sourcing incredibly qualified talent from around the world&nbsp;– Amazon, Facebook, Google,&nbsp;to name a few. But you don’t have to be a big Silicon Valley powerhouse or even a household name to&nbsp;effectively&nbsp;communicate why it’s great to work at your company. The first steps include&nbsp;revisiting what your brand stands for, fine tuning the&nbsp;feeling and message you&nbsp;give candidates&nbsp;when they visit your&nbsp;external&nbsp;channels, and&nbsp;weaving&nbsp;that message through all company communications.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>What we thought we knew about&nbsp;the recruitment industry&nbsp;is&nbsp;no longer true and&nbsp;the way jobseekers&nbsp;search&nbsp;and apply&nbsp;for jobs&nbsp;has evolved.&nbsp;To&nbsp;keep up&nbsp;with these changes,&nbsp;employers need to reevaluate the&nbsp;way that they recruit. A&nbsp;shrewd recruiter&nbsp;needs to&nbsp;target the 58&nbsp;percent&nbsp;of&nbsp;jobseekers who&nbsp;are open to&nbsp;new roles,&nbsp;use&nbsp;new&nbsp;recruitment&nbsp;tools like text messaging&nbsp;and&nbsp;retargeting to do so, and&nbsp;take&nbsp;a fresh look at their recruitment brand to ensure that what makes their company unique is being communicated&nbsp;well&nbsp;to candidates.&nbsp;<span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></p>\r\n<p>Job boards&nbsp;aren’t going anywhere – they’re still the backbone of any&nbsp;<a href=\"https://hiring.nexxt.com/solutions/job-promotion/\">recruitment campaign</a>, but&nbsp;recruiters and employers need to&nbsp;be innovative&nbsp;to&nbsp;get in front of candidates&nbsp;in order to&nbsp;remain&nbsp;relevant&nbsp;in today’s competitive market.</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a></p>\r\n<p><strong><span>Read More!</span></strong><span></span></p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/interview-team-player\" style=\"font-size: 1em;\">Interview as a Team Player</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/how-avoid-getting-fired\" style=\"font-size: 1em;\">How to Avoid Getting Fired</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/one-thing-you-must-do-after-submitting-your-resume\" style=\"font-size: 1em;\">The ONE THING You Must Do After Submitting Your Résumé</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/one-thing-you-must-do-after-submitting-your-resume\" style=\"font-size: 1em;\">6 Tips to Be a Better Manager/Coach</a></li>\r\n</ul>\r\n<p><span><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility!</a></span></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Over the summer the search engine behemoth Google made waves as it entered the recruitment space with Google for Jobs, and then, in October, rumors surfaced that Facebook began testing a résumé feature to boost companies’ recruitment efforts. These industry shakeups have job boards on edge, wondering if eventually Google and Facebook will monopolize job search and advertising.  '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: 647e1d74-05de-4214-ba08-c37c57db7fe5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+    file:
+      - file.image.647e1d74-05de-4214-ba08-c37c57db7fe5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

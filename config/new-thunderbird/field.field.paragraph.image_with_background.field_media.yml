@@ -1,0 +1,33 @@
+uuid: 6675cdbc-bd6c-4861-831f-01010e6ee686
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_media
+    - media.type.cropped_image_sqare
+    - media.type.image
+    - media.type.image_block_images
+    - paragraphs.paragraphs_type.image_with_background
+id: paragraph.image_with_background.field_media
+field_name: field_media
+entity_type: paragraph
+bundle: image_with_background
+label: Media
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      image_block_images: image_block_images
+      cropped_image_sqare: cropped_image_sqare
+      image: image
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: image_block_images
+field_type: entity_reference

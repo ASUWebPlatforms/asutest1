@@ -1,0 +1,18 @@
+uuid: 0ae47e84-53bc-4cd5-bb3b-c49f716f3db2
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.signpost_with_modal_links
+id: paragraph.signpost_with_modal_links.created
+field_name: created
+entity_type: paragraph
+bundle: signpost_with_modal_links
+label: 'Authored on'
+description: 'The time that the Paragraph was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

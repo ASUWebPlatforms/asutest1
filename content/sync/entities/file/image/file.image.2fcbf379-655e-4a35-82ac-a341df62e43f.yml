@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 2fcbf379-655e-4a35-82ac-a341df62e43f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 58ab1a88-1032-44c0-b417-4c3a4775b973
+filename:
+  -
+    value: gopr1882_1506079206993_high-2.jpg
+uri:
+  -
+    value: 'public://article/gopr1882_1506079206993_high-2.jpg'
+    url: /sites/default/files/article/gopr1882_1506079206993_high-2.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 1699918
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-09-22T22:29:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T22:29:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.58ab1a88-1032-44c0-b417-4c3a4775b973

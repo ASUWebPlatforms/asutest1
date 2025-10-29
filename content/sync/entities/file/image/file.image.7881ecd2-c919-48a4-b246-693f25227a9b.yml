@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 7881ecd2-c919-48a4-b246-693f25227a9b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: how_to_disagree_with_the_president_by_general_david_petraeus.png
+uri:
+  -
+    value: 'public://article/how_to_disagree_with_the_president_by_general_david_petraeus.png'
+    url: /sites/default/files/article/how_to_disagree_with_the_president_by_general_david_petraeus.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1007069
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-01-02T16:16:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-02T16:16:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

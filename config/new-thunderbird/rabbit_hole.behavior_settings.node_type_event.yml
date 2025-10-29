@@ -1,0 +1,14 @@
+uuid: db4a4883-c2e7-4c07-bde4-30f1c6c590f3
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.event
+id: node_type_event
+entity_type_id: node_type
+entity_id: event
+action: page_not_found
+allow_override: 1
+redirect: ''
+redirect_code: 301
+redirect_fallback_action: access_denied

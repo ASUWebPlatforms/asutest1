@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 0de95587-a4f4-47bf-87a9-706fc5624acd
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-17T17:05:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Positive Psychology:  The  Science of Happiness    '
+created:
+  -
+    value: '2018-09-04T20:09:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-17T17:05:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/positive-psychology-science-happiness
+body:
+  -
+    value: "<p>In the simplest terms, leaders are people who lead other people. And happiness is important to all people. In order to be an effective leader, it’s important to know what makes people feel happy and fulfilled and support your employees in whatever that may be.</p>\r\n<p>This interactive infographic summarizes the key learnings from Dr. Ted Cross’s webinar,&nbsp;<a href=\"https://thunderbird.asu.edu/knowledge-network/webinar-positive-psychology-science-happiness\">Positive Psychology - The Science of Happiness</a>, in which he explores all the nuances of happiness and well-being. He uses research to explain what people can do to foster happiness and well-being in their lives and how leaders can promote happiness and well-being in the workplace. Hover over the icons for more detailed explanations.&nbsp;&nbsp;</p>\r\n<p><img src=\"//cdn.thinglink.me/api/image/1093277075554435073/1024/10/scaletowidth#tl-1093277075554435073;'\" style=\"max-width: 100%;\" class=\"alwaysThinglink\"></p>\r\n<!-- Embed code for: Personal images -->\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'In the simplest terms, leaders are people who lead other people. And happiness is important to all people. In order to be an effective leader, it’s important to know what makes people feel happy and fulfilled and support your employees in whatever that may be.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1200
+    height: 750
+    target_type: file
+    target_uuid: 83109b7f-560c-4d2e-8546-e9471dd98457
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.83109b7f-560c-4d2e-8546-e9471dd98457
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

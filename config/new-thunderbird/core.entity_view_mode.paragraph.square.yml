@@ -1,0 +1,10 @@
+uuid: 72c209bf-49f5-4de2-9efb-7e2071f5dcfc
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+id: paragraph.square
+label: Square
+targetEntityType: paragraph
+cache: true

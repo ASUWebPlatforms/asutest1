@@ -1,0 +1,498 @@
+{{ attach_library('thunderbird/accordion-library') }}
+{{ attach_library('webspark_blocks/anchor_menu') }}
+
+{#
+/******
+* @file
+* Default theme implementation to display a node
+*
+******/
+#}
+
+{% set background = default_faculty_bio_image %}
+{% set primaryTitle = node.field_primary_title[0].value|render|striptags|trim %}
+{% set city = node.field_city.value|render|striptags|trim %}
+{% set primaryJobCampus = node.field_person_location.value|render|striptags|trim %}
+{% set emailAddress = node.field_email.value|render|striptags|trim %}
+{% set phone = node.field_phone_number.value|render|striptags|trim %}
+
+{% set facebook = node.field_facebook.value|render|striptags|trim %}
+{% set googlePlus = node.field_google_plus.value|render|striptags|trim %}
+{% set twitter = node.field_twitter.value|render|striptags|trim %}
+{% set linkedin = node.field_linkedin.value|render|striptags|trim %}
+
+{% set fax = node.field_fax.value|render|striptags|trim %}
+{% set bio = content.field_bio|render|striptags|trim %}
+{% set education = content.field_education|render|striptags|trim %}
+{% set researchInterests = node.field_research_interests.value|render|striptags|trim %}
+{% set editorships = node.field_editorships.value|render|striptags|trim %}
+{% set professionalAssociations = node.field_professional_associations.value|render|striptags|trim %}
+{% set gradFaculties = node.field_grad_faculties.value|render|striptags|trim %}
+{% set workHistory = node.field_work_history.value|render|striptags|trim %}
+{% set board = node.field_board.value|render|striptags|trim %}
+{% set industryPositions = node.field_industry_positions.value|render|striptags|trim %}
+{% set courses = node.field_courses.value|render|striptags|trim %}
+{% set publications = node.field_publications.value|render|striptags|trim %}
+{% set service = node.field_service.value|render|striptags|trim %}
+{% set hide_vertical_stripe = node.field_hide_vertical_stripe.value|render|striptags|trim %}
+{% set add_hero_text_background = node.field_add_hero_text_background.value|render|striptags|trim %}
+{% set logo_color = node.field_logo_color.value|render|striptags|trim %}
+{% set alignment = content.field_header_alignment[0]['#markup'] ?  content.field_header_alignment[0]['#markup'] : 'justify-content-start align-items-start' %}
+
+{% if hide_vertical_stripe %}
+  {% set hide_vertical_stripe = 'hide-vertical-stripe' %}
+{% endif %}
+
+{% if add_hero_text_background %}
+  {% set add_hero_text_background = 'add-hero-text-background' %}
+{% endif %}
+
+{% if primaryJobCampus == 'DTPHX' %}
+  {% set primaryJobCampus = 'Downtown Phoenix, AZ, USA' %}
+{% else %}
+  {% set primaryJobCampus = city %}
+{% endif %}
+
+{% if logo_color %}
+  {% set logo = '/themes/custom/thunderbird/assets/img/logo-global-digital.svg' %}
+{% else %}
+  {% set logo = '/themes/custom/thunderbird/assets/img/logo-global-digital-blue.svg' %}
+{% endif %}
+
+{% if content.field_image[0] is not empty %}
+  {% set background = content.field_image[0]|render|striptags|trim|raw %}
+{% endif %}
+
+{% set insights_view = drupal_view_result('insights', 'author_bio')|length %}
+
+{% set classes = [
+  'node',
+  node.isPromoted() ? 'node--promoted',
+  node.isSticky() ? 'node--sticky',
+  not node.isPublished() ? 'node--unpublished',
+  node.bundle|clean_class,
+  node.bundle|clean_class ~ '--' ~ view_mode|clean_class,
+  'block',
+  'block-' ~ configuration.provider|clean_class,
+  'block-' ~ plugin_id|clean_class,
+  'person-bio',
+   hide_vertical_stripe,
+] %}
+{% set hero_attribute = create_attribute() %}
+{% set hero_classes = [
+  'hero',
+  'size-md',
+  alignment,
+  'hero-default',
+  'has-logo',
+  'container',
+   add_hero_text_background,
+] %}
+<div{{ attributes.addClass(classes) }}>
+  <div class="node block block- hero-wrapper">
+      <div {{ attributes.addClass(hero_classes) }}>
+          <img class="logo" alt="thunderbird logo" src="{{ logo }}">
+      </div>
+  </div>
+  <div class="breadcrumb">
+    <div class="container">
+      {{ drupal_block('system_breadcrumb_block') }}
+    </div>
+  </div>
+
+  <div class="block webspark-blocks-anchor-menu">
+    <div id="uds-anchor-menu" class="uds-anchor-menu uds-anchor-menu-expanded-lg">
+      <div class="container">
+        <div class="uds-anchor-menu-wrapper">
+          <nav class="nav" aria-label="Same Page"></nav>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div id="biography" class="biography contentarea">
+      <div class="container">
+        <div class="row">
+          <div class="field-anchor-menu-settings">
+            <div class="webspark-anchor-link-data" id="webspark-anchor-link--biography" data-title="Biography">
+            </div>
+            <div class="anchor-link-icon d-none"></div>
+          </div>
+            <div class="col-md-9">
+              <div class="biography container">
+
+                <div class="person-info">
+                  <h1 class="name">{{ node.label|render|striptags|trim }}</h1>
+                  <div role="doc-subtitle">
+                      <div class="primaryTitle">{{ primaryTitle }}</div>
+                      <div class="address">{{ city }}</div>
+                  </div>
+                  <div class="social-buttons">
+                      {% if emailAddress is not empty %}
+                          <a href="mailto:{{ emailAddress }}" aria-label="Link to email address"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+                      {% endif %}
+
+                      {% if phone is not empty %}
+                          <a href="tel:{{ phone }}" aria-label="Link to phone"><i class="fas fa-phone-square" aria-hidden="true"></i></a>
+                      {% endif %}
+
+                      {% if facebook is not empty %}
+                          <a href="{{ facebook }}]" aria-label="Link to Facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                      {% endif %}
+
+                      {% if googlePlus is not empty %}
+                          <a href="{{ googlePlus }}" aria-label="Link to Google Plus"><i class="fab fa-google-plus-square" aria-hidden="true"></i></a>
+                      {% endif %}
+
+                      {% if twitter is not empty %}
+                          <a href="{{ twitter }}" aria-label="Link to Twitter"><i class="fab fa-twitter-square" aria-hidden="true"></i></a>
+                      {% endif %}
+
+                      {% if linkedin is not empty %}
+                          <a href="{{ linkedin }}" aria-label="Link to Linkedin"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+                      {% endif %}
+
+                      {% if fax is not empty %}
+                          <a href="fax:{{ fax }}" aria-label="Link to fax"><i class="fas fa-fax" aria-hidden="true"></i></a>
+                      {% endif %}
+                  </div>
+                </div>
+                {% if bio is not empty %}
+                  <h2 class="h3">{{ 'Biography'|t }}</h2>
+                  <div id="collapsebio" class="collapse" aria-expanded="false">
+                    {{ content.field_bio }}
+                  </div>
+                  <a role="button" class="btn btn-info collapsed" data-toggle="collapse" href="#collapsebio" aria-expanded="false" aria-controls="collapsebio">{{ 'Show More'|t }}</a>
+                {% endif %}
+              </div>
+            </div>
+          {% if expertise_areas is not empty %}
+            <div id="expertise" class="expertise col-md-3">
+              <h3 class="expertise-title h4">{{ 'Expertise Areas:'|t }}</h3>
+              <ul class="content arrows">
+                {% for expertise_area in expertise_areas %}
+                  <li><i class="fas fa-arrow-right"></i>
+                    {{ expertise_area }}
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+  {% if education is not empty %}
+    <div id="education" class="education contentarea">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="field-anchor-menu-settings">
+              <div class="webspark-anchor-link-data" id="webspark-anchor-link--education" data-title="Education">
+              </div>
+              <div class="anchor-link-icon d-none"></div>
+            </div>
+            <h2 class="h3">{{ 'Education'|t }}</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <ul class="content">
+              <div class="col-12">
+                {{ content.field_education }}
+              </div>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+  {% if researchInterests is not empty or expertise_areas is not empty or courses is not empty or publications is not empty %}
+    <div id="research" class="research pt-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="field-anchor-menu-settings">
+              <div class="webspark-anchor-link-data" id="webspark-anchor-link--research" data-title="Research">
+              </div>
+              <div class="anchor-link-icon d-none"></div>
+            </div>
+            <h2 class="pb-3 h3">{{ 'Research'|t }}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container accordion block block-layout-builder block-inline-blockaccordion">
+      {% if researchInterests is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-research" aria-expanded="false">{{ 'Research Interests'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-research" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_research_interests }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if expertise_areas is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-expertise" aria-expanded="false">{{ 'Areas of Expertise'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-expertise" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                <ul>
+                  {% for expertise_area in expertise_areas %}
+                    <li>{{ expertise_area }}</li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if courses is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-courses" aria-expanded="false">{{ 'Courses'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-courses" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_courses }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if publications is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-publications" aria-expanded="false">{{ 'Publications'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-publications" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_publications }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  {% if content.field_teaching_courses['#items'] is not empty %}
+    <div id="teaching" class="teaching pt-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="field-anchor-menu-settings">
+              <div class="webspark-anchor-link-data" id="webspark-anchor-link--teaching" data-title="Teaching">
+              </div>
+              <div class="anchor-link-icon d-none"></div>
+            </div>
+            <h2 class="pb-3 h3">{{ 'Teaching'|t }}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container block block-layout-builder teaching grey-bg table ">
+      <div class="row">
+        {% for semester in content.field_teaching_courses['#items'] %}
+          {% set semestername = semester.entity.field_semester.value %}
+          <div class="col-12 col-md-6">
+            <h3 class="h4">{{ semestername }}</h3>
+            <div class="wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Course Number</th>
+                    <th>Course Title</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for semesteritem in semester.entity.field_teaching_courses %}
+                    {% set coursenum = semesteritem.entity.field_course_number.value %}
+                    {% set coursetitle = semesteritem.entity.field_course_title.value %}
+                    <tr>
+                      <td>{{ coursenum }}</td>
+                      <td>{{ coursetitle }}</td>
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+
+  {% if editorialships is not empty or professionalAssociations is not empty or gradFaculties is not empty or workHistory is not empty %}
+    <div id="publicwork" class="publicwork pt-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="field-anchor-menu-settings">
+              <div class="webspark-anchor-link-data" id="webspark-anchor-link--publicwork" data-title="Public Work">
+              </div>
+              <div class="anchor-link-icon d-none"></div>
+            </div>
+            <h2 class="pb-4 h3">{{ 'Public Work'|t }}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container accordion block block-layout-builder block-inline-blockaccordion">
+      {% if editorialships is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-editorialship" aria-expanded="false">{{ 'Editorialship'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-editorialship" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ editorialships }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if professionalAssociations is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-associations" aria-expanded="false">{{ 'Professional Associations'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-associations" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_professional_associations }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if service is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-service" aria-expanded="false">{{ 'Service'|t }}
+              <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-service" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_service }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if gradFaculties is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-graduate" aria-expanded="false">{{ 'Graduate Faculties/Mentoring'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-graduate" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_grad_faculties }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if workHistory is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-history" aria-expanded="false">{{ 'Work History'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-history" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_work_history }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  {% if board is not empty or industryPositions is not empty %}
+    <div id="industryexperience" class="industryexperience pt-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="field-anchor-menu-settings">
+              <div class="webspark-anchor-link-data" id="webspark-anchor-link--industryexperience" data-title="Industry Experience">
+              </div>
+              <div class="anchor-link-icon d-none"></div>
+            </div>
+            <h2 class="pb-4 h3">{{ 'Industry Experience'|t }}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container accordion block block-layout-builder block-inline-blockaccordion">
+      {% if board is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-board" aria-expanded="false">{{ 'Board'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-board" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_board }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if industryPositions is not empty %}
+        <div class="snapdown">
+          <div class="toggle" role="button" aria-controls="snapdown-positions" aria-expanded="false">{{ 'Industry Positions'|t }}
+            <div class="icon"></div>
+          </div>
+          <div class="content row" style="display: none;" id="snapdown-positions" aria-expanded="false">
+            <div class="body col">
+              <div class="formatted-text">
+                {{ content.field_industry_positions }}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  {% if insights_view > 0 %}
+    <div id="insights">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="field-anchor-menu-settings">
+              <div class="webspark-anchor-link-data" id="webspark-anchor-link--insights" data-title="Insights">
+              </div>
+              <div class="anchor-link-icon d-none"></div>
+            </div>
+            <h2 class="pb-3 h3">{{ 'Insights'|t }}</h2>
+          </div>
+        </div>
+      </div>
+      {{ drupal_view('insights', 'author_bio') }}
+    </div>
+  {% endif %}
+</div>

@@ -1,0 +1,20 @@
+uuid: bd659d37-2e6c-4077-b603-f0dc6d5f49eb
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.case_series_topics
+  module:
+    - text
+id: taxonomy_term.case_series_topics.description
+field_name: description
+entity_type: taxonomy_term
+bundle: case_series_topics
+label: Description
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

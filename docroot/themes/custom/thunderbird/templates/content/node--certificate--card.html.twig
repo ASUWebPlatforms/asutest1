@@ -1,0 +1,96 @@
+{%
+  set classes = [
+    'node',
+    node.isPromoted() ? 'node--promoted',
+    node.isSticky() ? 'node--sticky',
+    not node.isPublished() ? 'node--unpublished',
+    node.bundle|clean_class,
+    node.bundle|clean_class ~ '--' ~ view_mode|clean_class,
+    'card'
+  ]
+%}
+{% set news_link = content.field_news_link|render|striptags|trim %}
+{% set event_link = content.field_link|render|striptags|trim %}
+{% set remove_link = content.field_remove_link.0|render|striptags|trim == "1" %}
+
+<article{{ attributes.addClass(classes).setAttribute('data-js-clickable', "h3") }}>
+
+  {{ title_prefix }}
+  {{ title_suffix }}
+
+  {% block content %}
+    {{ content.field_image }}
+    {{ content.field_article_image }}
+    {{ content.field_image_legacy }}
+    <div class="content d-flex">
+      <div class="col">
+        {% if node.bundle == 'news' or node.bundle == 'thunderbird_news' %}
+          <div class="field-date">{{ node.getCreatedTime() | date('U') | format_date('custom', 'm/d/y') }}</div>
+        {% endif %}
+        {# @TODO: Get heading level from block settings #}
+        <h3{{ title_attributes }}>
+          {% if remove_link %}
+            {{ label.0 }}
+          {% elseif node.bundle == 'thunderbird_news' and news_link is not empty %}
+            <a href="{{ news_link }}" rel="nofollow" target="_blank">{{ label.0 }}</a>
+          {% elseif node.bundle == 'event' and event_link is not empty %}
+            <a href="{{ event_link }}" rel="nofollow" target="_blank">{{ label.0 }}</a>
+          {% else %}
+            <a href="{{ url }}" rel="bookmark">{{ label.0 }}</a>
+          {% endif %}
+        </h3>
+        {{ content.field_news_org }}
+        <div class="details row flex-wrap">
+          {% if node.bundle == 'event' %}
+            <div class="col-md-6 event-date">
+              <div class="d-flex">
+                {% if content.event_date is not empty %}
+                  <i class="fas fa-solid fa-calendar-days icon"></i>
+                  <div>
+                    <strong class="detail date">{{ content.event_date }}</strong><br>
+                    <strong class="detail date">{{ content.event_time_from }}{% if content.event_time_to is not empty %} - {{ content.event_time_to }}{% endif %} {{ content.field_timezone }}</strong>
+                  </div>
+                {% endif %}
+              </div>
+            </div>
+            {% set location = content.field_venue|render|striptags|trim %}
+            {% if location is not empty %}
+              <div class="col-md-6 event-location">
+                <div class="d-flex">
+                  <i class="fas fa-solid fa-location-dot icon"></i>
+                  <div>
+                    <strong class="detail location">{{ location|raw }}</strong>
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+          {% else %}
+            <div class="col-sm-12 card-content">
+              {% if node.bundle == 'certificate' and content.field_start_dates|render|striptags|trim is not empty %}
+                {% set content = content | filter((v, k) => k != 'field_school_term') %}
+              {% endif %}
+                {{ content|without('field_image', 'field_article_image', 'field_image_legacy', 'field_news_date', 'field_date', 'field_tags', 'field_news_link', 'field_news_org', 'field_topics', 'field_solutions', 'field_kn_tags', 'field_cta_button_color','field_cta_button_label', 'field_cta_button_text', 'field_remove_link', 'field_news_category') }}
+            </div>
+          {% endif %}
+        </div>
+        {% if content.field_tags|render|striptags|trim is not empty or content.field_event_categories|render|striptags|trim is not empty or
+        content.field_topics|render|striptags|trim is not empty or
+        content.field_solutions|render|striptags|trim is not empty or
+        content.field_news_category|render|striptags|trim is not empty %}
+          <div class="categories">
+            {{ content.field_tags }}
+            {{ content.field_event_categories }}
+            {{ content.field_topics }}
+            {{ content.field_solutions }}
+            {{ content.field_news_category }}
+          </div>
+        {% endif %}
+        <div class="categories">
+          <div class="field event__categories categories field-event-categories">
+            <div class="field__item"><a href="{{url ~ '#registration-information'}}">{{ content.field_cta_button_text|render|striptags|trim is not empty ? content.field_cta_button_text : 'Register now' }}</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endblock %}
+</article>

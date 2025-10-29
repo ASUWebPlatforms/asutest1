@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: fa41c012-05a1-43bf-a664-febffe8b8c16
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-04-18T19:05:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Chapter Connections January 2018'
+created:
+  -
+    value: '2018-01-30T16:17:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-18T19:05:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/chapter-connections-january-2018
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11972\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<p>Hong Kong - The group went to the races at Happy Valley on Wednesday Nov. 22nd for a Thanksgiving Eve celebration.&nbsp; Back row: Oliver Ellsworth (brother of Ephraim Ellsworth) Chapter Leader Kevin Rohrer ’82, Chapter Leader Marty Jetton ’87, Peter Deneen ’84, Ephraim Ellsworth ’06, visiting Shanghai Chapter Leader Michael Zhou ’02.&nbsp; Front row: Angkana Uannaruemit Jetton&nbsp; ’87, Chapter Leader Viola Luo&nbsp;’12 &amp; Chloe Lin ‘10</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p><strong>[[{\"fid\":\"11974\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]</strong></p>\r\n<p>South Florida - A fun evening of conversation and seafood in Boynton Beach.&nbsp; Those in attendance: Carol Stauter '91, Lynn Welsh. Gary Lumsden '73, Chapter Leader Karl Palsgaard '11,&nbsp; Anne Paul, Mary Lynn Manning '86, Wayne Wennick '87, Reinier '71 and Marianne Mesritz.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11975\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]</p>\r\n<p>Taipei - Held their 2017 annual gathering and talked about Family Business Succession.&nbsp; Lead by first generation business founder Mr. Chenta Chen ‘82; second generation perspective Mr. SP Paul Pan ’05, professional manager perspective Mr. Hayden Chuang ‘09.</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11976\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"5\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"5\"}}]]</p>\r\n<p>South Florida - Five decades of T-birds gathered for Ethiopian food and great conversation at their December First Tuesday. Those is attendance: Bryan '78 and Ivette Smith (visiting from Charleston, SC), Debbie Hartshorne Niskin '69, Edward Crews '89, Gayle Francesca Mellegard '85, Jane Iversen '15, Gilberto Corona, Natalia Iversen, Miguel, Chapter Leader Karl Palsgaard '11, Matthew Levy '96, Nolan Farhy '00, Peter Serra '18, Rosa Isela Velasco '15, Stefani Chaney '17 and Diana Chaney.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11977\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"6\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"6\"}}]]</p>\r\n<p>Frankfurt – December First Tuesday, alumni visiting the Frankfurt Christmas Market.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11978\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"7\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"7\"}}]]</p>\r\n<p>Sao Paulo – December alumni gathering.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11979\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"8\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"8\"}}]]</p>\r\n<p>Delhi – December alumni gathering.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p><strong>[[{\"fid\":\"11980\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"9\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"9\"}}]]</strong></p>\r\n<p>Detroit - T-birds in Detroit celebrated Italian style on&nbsp;Saturday December 16th with authentic Neopolitan pizza!</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11981\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"10\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"10\"}}]]</p>\r\n<p>Zurich – Tracey Bollier ‘94 and John Cook ’79 organized an event on Saturday December 10th for the Zurich chapter.&nbsp; The party was held at Tracey’s home overlooking Lake Zurich.&nbsp; There were approximately 40 attendees including the alumni pictured here.&nbsp; Paris Chapter Leader Roberto Abramovich ‘02, Tolis Dokianos ‘01, Tracey Bollier ‘94, Laurent Monod ‘12, John Cook ‘79, Tom Fox ‘90, Kari Maher ‘94 &amp; Don Maher ‘92.&nbsp;</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11982\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"11\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"11\"}}]]</p>\r\n<p>New England – There was a great turnout for the December Holiday party.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p><strong>[[{\"fid\":\"11983\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"12\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"12\"}}]]</strong></p>\r\n<p>Munich - It was a great Christmas First Tuesday at the Alter Hof and the Christmas spirit from the nearby Christmas market on Marienplatz was all over the place. The exchange of gifts , aka &nbsp;'wichteln', turned out to be excellent by all means and it was perfectly organized by Tina Huesing ‘96.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11984\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"13\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"13\"}}]]</p>\r\n<p>Phoenix – January 9th Phoenix Chapter Leader Scott Campbell ’09, local alumni and current students met at the Thunderbird pub.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"11985\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"14\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"14\"}}]]</p>\r\n<p>Toronto – Chapter Leader Liliana Rizopulos ‘99 and the Toronto alumni at their January First Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p><strong>&nbsp;[[{\"fid\":\"11986\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"15\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"15\"}}]]</strong></p>\r\n<p>Kona- Chapter Leader Jim Echle ’73 and Larry Giessinger ’73 at December First Tuesday.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>&nbsp;[[{\"fid\":\"11987\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"16\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"16\"}}]]</p>\r\n<p>DC – Chapter Leader Gbemi Disu ’06 partnered with the TIAA for their end of the year event.</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: 'Local chapters of Thunderbird School of Global Management alumni monthly get-togethers for January 2018. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Tbirds in Taipei'
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: 98b3af21-4003-42f7-9a7d-82119108da30
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.98b3af21-4003-42f7-9a7d-82119108da30
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

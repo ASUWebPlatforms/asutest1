@@ -1,0 +1,12 @@
+uuid: 7d4c8529-1832-486b-b792-54c0c26cab7a
+langcode: en
+status: true
+dependencies: {  }
+id: location_dubai
+label: 'Location Dubai'
+classes: "section-background\r\ndubai"
+type: section
+group: default
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

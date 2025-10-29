@@ -1,0 +1,20 @@
+uuid: 4c36843f-2a20-49f4-8172-59de094080ac
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.life_long_learning
+id: node.life_long_learning.uid
+field_name: uid
+entity_type: node
+bundle: life_long_learning
+label: 'Authored by'
+description: 'The username of the content author.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: 'Drupal\node\Entity\Node::getDefaultEntityOwner'
+settings:
+  handler: default
+  handler_settings: {  }
+field_type: entity_reference

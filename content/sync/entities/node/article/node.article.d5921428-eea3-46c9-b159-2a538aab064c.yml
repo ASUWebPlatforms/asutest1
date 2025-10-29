@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: d5921428-eea3-46c9-b159-2a538aab064c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Looking Back, Looking Ahead'
+created:
+  -
+    value: '2014-06-25T11:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/looking-back-looking-ahead
+body:
+  -
+    value: "<p>By Pete Troiano</p>\r\n<p><span>So here we are. Week 5 of our Tunisian Tem Lab. We’ve journeyed up, down and around this country that’s just slightly larger than the American state of Georgia. We’ve been in the Big City, lots of small towns, deep in the desert and on the Mediterranean Sea. We’ve met with venture capitalists, sociologists, non-profits, bankers, business people, students, professors, and Thunderbird alumni. Along the way we’ve met some wonderful Tunisian families, spoken to taxi drivers (always a great source of info!), shopkeepers, hotel workers, tradespeople, waiters and lots of other everyday people.&nbsp;</span></p>\r\n<p><span>[[{\"fid\":\"3055\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Looking Back, Looking Ahead\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Looking Back, Looking Ahead\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Looking Back, Looking Ahead\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>\r\n<p>In our working life here we held focus groups, we surveyed, we analyzed and then we interpreted the data.&nbsp;<strong>On some level, each interaction and every conversation we have had in this country has been a part of our quest to understand and eventually complete our project.</strong>&nbsp;Whatever may happen with our client and their business in Tunisia, our team’s Likert scale strongly desires positive outcomes for this country. We want to see Tunisia grow stronger, employ its people, develop in a sustainable and smart way, and become a country where stability, peace and prosperity become the dominant way of life. &nbsp;</p>\r\n<p>We realize this is a very tall order for one little country that sits atop a challenge-filled continent and borders what is presently one of the most unstable countries in the world (Libya).&nbsp; But we also have come to believe that this spunky little country has great potential.</p>\r\n<p>Maybe it’s because we walked the dusty streets and made friends in a most unlikely town that sparked off the Arab Spring (<span><a href=\"http://emergingmarketslab.thunderbird.edu/blog/icast/2014/06/09/%E2%80%9Cthey-have-no-problem-speaking-their-mind%E2%80%9D\">Sidi Bouzid</a></span>), or maybe it’s because we have seen diverse Tunisians sharing the beach in burqas and bikinis. Maybe it’s because we have seen so much beautiful architecture that dazzles the eye even though upon further inspection it is in dire need of repair, or maybe it’s all the neighborhoods that with some serious garbage removal look like nice places for kids to grow up...</p>\r\n<p>The truth is all of that and more has moved us and made us hopeful. Apart from the anomalies of vineyards, synagogues, and churches that can peacefully exist in a Muslim country and an easily likeable people who are known for their tolerance, friendliness and light-heartedness, there is an underlying steely determination and optimism that is easily palpable here and commands respect from outsiders. Also of special significance to us are the hard-working, yet frustrated, yet full of hope students that we met throughout our project who are strong testaments to Tunisia’s resolute desire for a better life.</p>\r\n<p>With the start of Ramadan at the end of June, soon the cafes filled with chain-smoking men will be empty during the day. The streets will grow quieter and a reflective vibe will fill the air. For those who have experienced the most important Muslim holiday firsthand, they also know the subtle societal changes that come along with this season.</p>\r\n<p>No one knows what lies ahead for Tunisia. Without a doubt many serious obstacles await, perhaps most importantly moving from a transitional government to a fully elected government. With elections right around the corner after Ramadan and Eid, everyone anxiously awaits the outcome. May the peace of this holiday spill over into the electoral process.<br><br>Although we’ll be back in Arizona in just a few days explaining to T-birds just what we did here, a little piece of each of us will remain behind cheering the Tunisians on for trying to build a better country.</p>\r\n<p>[[{\"fid\":\"3057\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Looking Back, Looking Ahead\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Looking Back, Looking Ahead\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Looking Back, Looking Ahead\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Students in Tataouine take a survey about their experiences with internships and entrepreneurship training.</p>\r\n<p>[[{\"fid\":\"3058\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Looking Back, Looking Ahead\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Looking Back, Looking Ahead\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Looking Back, Looking Ahead\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Professors and administrators at the ISET in Medenine voted in June to elect one of their colleagues as the new director of the school.</p>\r\n<p>[[{\"fid\":\"3059\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Looking Back, Looking Ahead\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Looking Back, Looking Ahead\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Looking Back, Looking Ahead\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>From her cave dwelling in&nbsp;<span><a href=\"http://en.wikipedia.org/wiki/Chenini\">Chenini</a></span>, this 85 year-old woman has wittnessed a World War, French colonization, the rise and fall of two dictators, and the installation of sattelite dishes in her village. (About&nbsp;<a href=\"http://www.vanishingtattoo.com/north_africa_tattoo_history.htm\"><span>the tatoos</span></a>&nbsp;on her face.)</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

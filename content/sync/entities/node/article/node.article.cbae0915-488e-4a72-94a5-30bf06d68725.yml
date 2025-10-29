@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: cbae0915-488e-4a72-94a5-30bf06d68725
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T14:57:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: '3 Secrets to Inspire and Excite Impactful Employees'
+created:
+  -
+    value: '2017-08-30T16:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T14:57:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/3-secrets-inspire-and-excite-impactful-employees
+body:
+  -
+    value: "<p>In developing and advancing a career – and a business, we often focus on just business success, but none of it is possible if you don’t have a team of employees that are passionate about the work and invested in the future of the company. Being surrounded by those who believe in the company’s vision and mission and trust that you, in return, believe in them, can be the difference between just surviving and thriving.</p>\r\n<p>I spoke to Bob Ireland, partner and creative director at&nbsp;<a href=\"http://www.sharpthink.com/\">Sharp Communications</a>, about best practices to engage and cultivate impactful employees. He has made a career out of leveraging consumer passion points to position and promote his clients, ranging from executive education (NYU Stern School of Business) to health and wellness (Whole Foods Market), and even the kitchen sink (Kohler)! He also applies the principal of playing to one’s passion points when it comes to keeping Sharp’s employees engaged. According to Bob, being in tune with what gets people excited both in and out of the office can create a work culture that doesn’t feel like work at all.</p>\r\n<h3><span>Leverage Employee Passion Points.</span></h3>\r\n<p>We find that people do their best work when they can focus, at least part of their time, on subjects that already inspire them. Through conversations in the interview process and encouraging socialization outside of the office, you can quickly understand what lights the fire within and match them with the right mix of customers and clients. Pairing people with categories they already follow closely through everyday activities (e.g., listening to podcasts and following key influencers on Twitter and Instagram), drastically reduces onboarding time before they start contributing insightful ideas that move the needle for your customers.</p>\r\n<p>If the core day-to-day work can’t easily be tied back to an employee’s passion, carve out 10% of their time to satisfy their interests through internal company initiatives. For example, have employees that are excited about working with non-profits organize a company-wide day of service with a charitable organization they admire. If they like to work on events, give them responsibility for planning the company holiday party. It’s a win-win; employees get a new responsibility that interests them and their colleagues are more likely to support a peer-led initiative.</p>\r\n<h3><span>Create Sector Experts.</span></h3>\r\n<p>With the right team members in place, it’s important to give them the tools to become experts in their sector and deliver real strategic value. Encourage them to think of non-traditional ways to get up to speed. For instance, at Sharp, employees go to museum exhibits to stay current for our fine art clients, or attend food and beer festivals to taste the next hot trend.</p>\r\n<p>Today’s digital world makes it easy to have the latest industry news delivered right to your phone. For instance, most industry-specific trade publications send daily news or newsletters for a morning read and provide real-time updates throughout the day via Twitter.</p>\r\n<h3><span>Empower Your Experts.</span></h3>\r\n<p>Once you have a subject matter expert, the last step to unleashing their full potential is empowering them to think big and take big swings and instill the trust that there is a net to catch them when things don’t go according to plan.</p>\r\n<p>This confidence can be built in many ways, from giving them a larger speaking role in an important client meeting to asking them to share their ideas in the next internal meeting. When a new project begins, challenge them to take on a task above their current job description to demonstrate how they’ve grown and their inner potential.</p>\r\n<p>To prevent employees from becoming discouraged if results fall below expectations, turn it into a learning experience for their next challenge.&nbsp;<em>What could be done differently at each stage? Could we have involved internal or external resources to boost our impact?&nbsp;</em>As long as the employee showed sound judgment throughout the project, call out their hard work in front of other employees. This sets an example for the entire office that risks are worth taking and that you value those who dream big and aren’t satisfied with the status quo.</p>\r\n<p>Keeping your teams engaged and inspired can seem like a heavy lift and a big culture change, but it becomes second nature once it is woven into your company’s management style. Your employees will be more motivated and empowered to produce strong, strategic, and creative work, freeing you up to take on the new opportunities and continue to grow your business and career.</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 9277db1f-17ca-42cb-ba89-9f2f498b4984
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.9277db1f-17ca-42cb-ba89-9f2f498b4984
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

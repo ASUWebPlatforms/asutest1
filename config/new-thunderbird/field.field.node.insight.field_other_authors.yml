@@ -1,0 +1,19 @@
+uuid: b779b401-1f10-4606-80c9-e07ef414880a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_other_authors
+    - node.type.insight
+id: node.insight.field_other_authors
+field_name: field_other_authors
+entity_type: node
+bundle: insight
+label: 'Other Authors'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

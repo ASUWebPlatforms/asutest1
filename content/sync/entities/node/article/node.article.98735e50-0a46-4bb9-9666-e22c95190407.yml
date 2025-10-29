@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 98735e50-0a46-4bb9-9666-e22c95190407
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-10-11T23:11:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'How Jobs Will Change in Oil & Gas (and What Should My Kids Do)?'
+created:
+  -
+    value: '2018-09-12T16:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-10-11T23:11:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-jobs-will-change-in-oil-gas-and-what-should-my-kids-do
+body:
+  -
+    value: "<p><em>By Ian Ayling</em></p>\r\n<p>Two recent events have got me thinking about what future job requirements will look like in the oil and gas industry as we head towards the middle of the 21st century.&nbsp;</p>\r\n<p>First, during a panel session at&nbsp;<a href=\"http://2018.otcasia.org/\">OTC Asia, </a>a question from the audience challenged us that as automation increases, this would inevitably lead to job losses. Then second, when I got back home, my 13-year-old son asked for my advice as he was selecting which subjects to study for his last four years at high school and which would define his options for university and on into his working life. Both questions are important and, I believe, very much interlinked.&nbsp;&nbsp;&nbsp;</p>\r\n<h3>The forces driving change</h3>\r\n<p>There are so many megatrends which will dramatically impact what jobs are available as we look out over the next 30 years and beyond. Digitisation, automation, big data, augmented reality, artificial intelligence, block-chain, nano-technology.</p>\r\n<blockquote>\r\n<p><i>“</i><i>Advice to a teenage son: Key to your future career will be to develop core skills, not necessarily specific subject matters and keep as many doors open as possible.</i><i>” </i><i>–&nbsp;<a href=\"https://ctt.ac/tX03_\">Click to tweet</a></i><i><br></i><i></i></p>\r\n</blockquote>\r\n<p>The Oil and Gas industry has dipped its toe in each of these and it’s clear that their impact will continue to grow and have far-reaching implications. And I’m quite sure there will be further trends, yet to emerge, that will have a similar impact.&nbsp;</p>\r\n<h3>Addressing the question from the OTC delegate</h3>\r\n<p>There will definitely be jobs that exist today that will be obsolete tomorrow, replaced either by robots or artificial intelligence or just superseded by a better way to accomplish the task. Evolution of jobs is nothing new; go back 50 years and there were telephone switchboard operators and typesetters at newspapers. Even in the last 20 years, think about car production and how these factories have changed. Closer to home, pipe handling offshore is very different today from even 15 years ago. This is a natural process which has gone on throughout history although, for sure, the process appears to be accelerating. What may have taken 20 years to develop and implement in the past, is now only taking five years and going forward will most likely reduce further.&nbsp;</p>\r\n<p>Just thinking back to my own university career, the internet barely featured on the radar, and before there are any comments... I’m not that old - graduating 25 years ago. I’d certainly never heard of an app or a web page designer or VR headsets or drones, except maybe in movies.&nbsp;</p>\r\n<h3>Jobs and specific roles will disappear – that’s a given&nbsp;</h3>\r\n<p>However, it’s not all doom and gloom. A lot of the jobs that will cease to exist will do so for very good reason. By automating some of the most dangerous activities we do, safety will improve. Getting hands away from the action and people off rig floors for example is going to happen more and more, and potentially away from offshore altogether, must be a possibility. There are already drones doing inspection work, automatic trackers checking pipelines and remote operations monitoring and control.&nbsp;</p>\r\n<blockquote>\r\n<p><i>“</i><i>So, while we won’t need roustabouts or people doing manual or repetitive tasks, we will need a huge number of new skill sets to drive our industry forward.</i><i>”</i><i>–&nbsp;<a href=\"https://ctt.ac/06986\">Click to tweet</a></i><a href=\"https://ctt.ac/06986\"><i>&nbsp;</i></a></p>\r\n</blockquote>\r\n<p>So, while we won’t need roustabouts or people doing manual or repetitive tasks, we will need a huge number of new skill sets to drive our industry forward. Designers and support staff for the new front-line tools driving the automated systems; virtual reality technicians; haptic interface managers; teams developing and managing the wearable technology that will be pervasive in any operational setting; and people and processes managing all the data these systems will generate.</p>\r\n<h3>A new world for HR as well</h3>\r\n<p>How we employ these new skill sets will also need a significant rethink from the current full-time employment or contractor model most common today. As the gig economy continues to grow and moves out from the creative, small scope jobs such as getting some graphics rendered, a website developed, or writing copy for an ad, I expect it will form a more significant part of the employment landscape. Couple this with the types of jobs we are moving towards to support our new, unmanned, automated, data-driven operations; these roles could absolutely fit with having teams of remote staff, paid by the task rather than employed by one company for their skills.&nbsp;</p>\r\n<blockquote>\r\n<p><i>“The future of jobs could mean having remote staff, paid by the task rather than employed by one company for their skills.”</i><i>–&nbsp;<a href=\"https://ctt.ac/Ae67s\">Click to tweet</a></i><i><br></i></p>\r\n</blockquote>\r\n<p>How will we cope with this: intellectual property considerations, human resource structures and processes, compensation? All will need a new approach, but on the flip side, it will enable us to tap into the global talent pool rather than those in commuter range, much more than we have ever done. Would job satisfaction improve if we are able to pick and choose which tasks we bid on? Just imagine a global, by-the-task, for rent, workforce doing things that fit their skill sets and personal goals.&nbsp;</p>\r\n<p>I think this future is more realistic than the dystopian view of global corporations such as Skynet from the Terminator movies or Blade Runners’ Tyrell Corporation dominating the world. Although, we are seeing a lot of consolidation across oil and gas. Time will tell!</p>\r\n<h3>So, with this background, what do I tell my son?&nbsp;</h3>\r\n<p>What will his career look like and what advice should I be giving to help lay the foundation for that? And is the education system even set up to support what he will need?&nbsp;</p>\r\n<p>Taking a step back and thinking about what he won’t be able to do, given the expected proliferation of robots, drones and smart tools means that a lot of manual labor jobs will become a thing of the past. Artificial intelligence will continue to evolve and take over more menial tasks and he may never need to get a driving license (which would be a sad thing)!&nbsp;</p>\r\n<p>This points towards future roles where the attributes that will provide the most value are those that tap into our creativeness and inventiveness. Being able to assess a situation or analyse data and develop new ideas from this.&nbsp;</p>\r\n<blockquote>\r\n<p><i>“</i><i>Communication, emotional intelligence and being able to sell or persuade will become keys to success rather than saying, I’m an engineer or I develop code for drones.</i><i>” </i><i>–&nbsp;<a href=\"https://ctt.ac/bMW5t\">Click to tweet</a></i><i><br></i></p>\r\n</blockquote>\r\n<p>Communication, emotional intelligence and being able to sell or persuade will become core skills that he will bring to a job rather than saying, I’m an engineer or I develop code for drones. Anyone starting out on a career today, more so than ever before, will need to be flexible and prepared to continue learning as a lifelong endeavor. Reinvention and adaption will be key facets for a successful working life. Given the pace of change and the lack of predictability, it’s quite feasible that he could have multiple ‘careers’, especially&nbsp;with working populations shrinking in many countries&nbsp;and the prospect of the retirement age increasing. Assuming he completes high school and four years at university, it will be 2026 by the time he joins the workforce. If he were to retire at 80, a possibility, he could almost fit in three 20-year careers or more likely six 10-year careers.&nbsp;</p>\r\n<h3>A focus on core skills</h3>\r\n<p>For now then, my feeling is that he needs to keep as many doors open as possible, selecting subjects that don’t tie him in to one path or another. Key will be to develop the core skills that, while not specific subject matters in a school curriculum, are available through different opportunities that come up.&nbsp;</p>\r\n<p>Taking part in school productions, working on projects that require analysis or developing new ideas, practicing communication and selling and persuading. Learning to get out of his comfort zone and try new things and feel challenged. He needs to fail from time to time, but also enjoy success. As parents, creating these opportunities to help prepare our kids for the future will be a key role for us, supplementing the more formal education they get at school.&nbsp;</p>\r\n<h3>Would I tell him to work in the oil and gas industry?&nbsp;</h3>\r\n<p>Absolutely, for at least&nbsp;<i>some&nbsp;</i>of his careers, but also be ready to try other things. In theory, it’s more likely that he could work in a specific field which will be able to contribute to our industry, but also overlap to others rather than be tied to just oil and gas his whole life. Jobs will come and go, opportunities for success will be there and while the working environment he experiences will most likely, not be the same as mine, with the right mindset and core skills there’s no reason to think he couldn’t thrive and enjoy his working life as much as I am mine. Alternatively, he may yet become a rock star, which would also be very cool, and a fair return on all the money I’ve spent on guitar lessons!</p>\r\n<h3>And what about our industry?</h3>\r\n<p>I think it’s fair to say that the ‘great crew change’ as all the baby boomers retired that had been a focus of our industry for some time has now occurred and over the next 20 to 30 years we’re heading towards the second great crew change, as a new range of skills and expertise become the bread and butter of our industry!&nbsp;</p>\r\n<p>Just as rewarding to those who are part of it as it is for us involved today, only different.&nbsp;&nbsp;How we attract this next ‘crew’ and overcome the perceptions that younger generations have of this industry could well be the biggest challenge yet for oil and gas!</p>\r\n<p>I would love to hear what you think.&nbsp;</p>\r\n<h3><strong><!--break-->&nbsp;Author's bio</strong></h3>\r\n<p>[[{\"fid\":\"64898\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Alumni Ian Ayling\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Alumni Ian Ayling\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Alumni Ian Ayling\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Alumni Ian Ayling\"}},\"attributes\":{\"alt\":\"Thunderbird Alumni Ian Ayling\",\"title\":\"Thunderbird Alumni Ian Ayling\",\"height\":\"216\",\"width\":\"144\",\"style\":\"float: left; margin: 10px;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]Ian Ayling is an Electronic and Electrical Engineer with over 25 years of experience in the Oil &amp; Gas Industry starting out in Artificial Lift, moving into project and operations management roles across different product lines. This has involved living and working in a wide variety of locations around the World, most recently moving back to his home town of London last August as Vice President of Global Offshore Accounts with National Oilwell Varco.</p>\r\n<p>Ian also recently completed his Masters in Business Administration with Heriot-Watt University in Edinburgh, graduating last June. Ian received an Executive Certificate in Global Marketing from Thunderbird School of Global Management in 2011.</p>\r\n<p>Previously Ian spent 21 years with Baker Hughes with his last role as Director of Business Development in their Subsea Production Alliance with Aker Solutions, based in Houston.&nbsp;</p>\r\n<p>Prior to that, Ian was in Beijing as Director of Engineering for Baker Hughes in North Asia, Country Manager in Libya which followed 2 years in Australia as Project Manager for the Baker Hughes scope of supply on the Santos Mutineer-Exeter SubSea development and the Cliffhead CT deployed ESP project. He has additionally worked in Operations Management and Business Development roles in West Africa, the North Sea and the Former Soviet Union.</p>\r\n<p>Away from work Ian enjoys spending time with his family, usually as the private taxi driver for his 3 kids, and taking part in adventure marathons and trail running to get some peace and quiet.&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Two recent events have got me thinking about what future job requirements will look like in the oil and gas industry, says author Ian Ayling. First, during a panel session at OTC Asia, a question from the audience challenged us that as automation increases, this would inevitably lead to job losses. Then second...'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1000
+    height: 563
+    target_type: file
+    target_uuid: de6016e4-d630-47f1-95d8-914108c29d6b
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.de6016e4-d630-47f1-95d8-914108c29d6b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

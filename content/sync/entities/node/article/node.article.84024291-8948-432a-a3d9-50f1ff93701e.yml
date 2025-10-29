@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 84024291-8948-432a-a3d9-50f1ff93701e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Getting Down to Business'
+created:
+  -
+    value: '2015-02-12T14:47:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/down-to-business
+body:
+  -
+    value: "<p><img src=\"https://lh6.googleusercontent.com/-pRTl52ufzGE/VNyNUvAQVHI/AAAAAAAADKA/Z-PZqBPOfqw/w532-h709-no/IMG_0843.jpg\" title=\"KUSOM - Ceremony\" width=\"225\" height=\"300\" hspace=\"10\" vspace=\"10\"> If the first week was all about settling in and understanding the environment, the second week has been about stomping on the accelerator and getting to work on one of our primary objectives, the Entrepreneurship Ecosystem Gap Analysis. The business climate in Nepal, despite the limited opportunities it affords to aspiring business owners, is getting healthier and more innovative. This week the team was paired with four current MBA students from&nbsp;<a href=\"http://www.kusom.edu.np/\">KUSOM</a>, who have been asked to assist us with our research and in solving any logistical issues we may have. These sharp and bright-eyed individuals recently organized a symposium on entrepreneurship in Kathmandu; it is easy to witness the passion they have for promoting free enterprise and modern approaches to bringing about positive change in the Nepal.<span>&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"https://lh5.googleusercontent.com/-s4yqlm-nXtE/VNyNYoyvhyI/AAAAAAAADKI/eEoDjS3BeZc/w969-h709-no/IMG_0849.jpg\" title=\"Ceremony 2\" width=\"400\" height=\"293\" hspace=\"10\" vspace=\"10\"></p>\r\n<p>The week began auspiciously - with the handing over ceremony of the<a href=\"http://www.ideastudionepal.com/\">&nbsp;Idea Studio</a>&nbsp;from its original funder,&nbsp;<a href=\"http://www.unicef.org.np/\">UNICEF</a>, to its future steward, KUSOM. The Idea Studio is where we work on a daily basis and looks very much so like a Silicon Valley incubator complete with splashy colors, lots of windows, collaborative spaces, and first-rate technology. This event signified the KUSOM community taking full ownership of its continuing development. The ceremony was attended by a who’s who of the private, educational, and social entrepreneurship sectors of Kathmandu - including the UNICEF Nepal country head, Mr. Tomoo Hozumi; the Chief of Social Policy and Economic Analysis, Amjad Rabi; the Vice Chancellor of&nbsp;<a href=\"http://www.ku.edu.np/\">Kathmandu University</a>, Dr. Ram Shrestha; and the Head of<a href=\"http://www.childreachnp.org/\">&nbsp;Childreach Nepal</a>, Dr. Tshering Lama; amongst others. The future looks bright for the Idea Studio.</p>\r\n<p><span>The team is progressing well in its researching and investigating the entrepreneurship ecosystem in Nepal. Interviews with local entrepreneurs such as former Fulbright scholar Tyler McMahon of&nbsp;<a href=\"http://smartpaani.com/\">Smart Paani</a>&nbsp;(Smart Water) and dynamic Jason Shah of Kambi have given us great insight into what is positive about, needed, and missing in Kathmandu. Prominent stakeholders like Jiten Shrestha have also provided us with invaluable information about the internal functioning and funding models of the incubator.</span>&nbsp;with these champions behind it.&nbsp; Now, though, is where the rubber meets the road as far as proving that it can be sustainable.</p>\r\n<p><img src=\"https://lh4.googleusercontent.com/-NRGsU9noVL4/VNyK94qRcYI/AAAAAAAADJw/QcNPpS6OoZI/w473-h709-no/DSC_1064.JPG\" width=\"233\" height=\"350\" hspace=\"10\" vspace=\"10\">Some struggles have been encountered too as the team realized their passports weren’t stamped with Visas upon entering Nepal, making us de-facto illegal immigrants. Thus, the team had to go to the Immigration office and then the airport for some uninspiring dealings with Nepalese government workers. Thanks to the quick thinking of Vrigu Duwadi and Saluna Pokhrel of&nbsp;<a href=\"http://www.winrock.org.np/\">Winrock</a>, this challenging issue was resolved without the need for additional payment. All in all, this week was a productive and stimulating one, with the team getting a strong, 20-page start on mapping the entrepreneurial ecosystem. The next week will be a crucial one, as we dive into writing the Operations Manual for a business incubator that, in its first year, has already gained notoriety and changed lives in this nation. Our time here thus far has been interesting and awesome.&nbsp;</p>\r\n<p>Onward we march!</p>\r\n<p>Team KUSOM</p>\r\n<p><a href=\"https://www.linkedin.com/profile/view?id=79651345&amp;trk=nav_responsive_tab_profile\">Travis Richardson</a>,&nbsp;<a href=\"https://www.linkedin.com/profile/view?id=15068637&amp;authType=NAME_SEARCH&amp;authToken=aPPN&amp;locale=en_US&amp;trk=tyah2&amp;trkInfo=tarId%3A1423752162436%2Ctas%3Amatt%2Cidx%3A1-2-2\">Matthew McConaty</a>,&nbsp;<a href=\"https://www.linkedin.com/profile/view?id=66540526&amp;authType=NAME_SEARCH&amp;authToken=CuDi&amp;locale=en_US&amp;trk=tyah2&amp;trkInfo=tarId%3A1423752196456%2Ctas%3Avarun%2Cidx%3A1-3-3\">Varun Vijay</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: e33dbeb4-5234-41b8-b1e7-b291d6202aaa
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-06-24T21:56:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Research: Immigrant Students Raise  Classroom Performance Across the Board'
+created:
+  -
+    value: '2019-06-24T13:52:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-06-24T21:56:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/research-immigrant-students-raise-classroom-performance-across-board
+body:
+  -
+    value: "<h3><i>[[{\"fid\":\"73921\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Research: Immigrant Students Raise  Classroom Performance Across the Board\",\"field_file_image_title_text[und][0][value]\":\"Research: Immigrant Students Raise  Classroom Performance Across the Board\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"5\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Research: Immigrant Students Raise  Classroom Performance Across the Board\",\"field_file_image_title_text[und][0][value]\":\"Research: Immigrant Students Raise  Classroom Performance Across the Board\"}},\"attributes\":{\"alt\":\"Research: Immigrant Students Raise  Classroom Performance Across the Board\",\"title\":\"Research: Immigrant Students Raise  Classroom Performance Across the Board\",\"class\":\"media-element file-default\",\"data-delta\":\"5\"}}]]Researchers Take a Macro Look at&nbsp;</i><i>Immigrant Status and Academic Achievement</i>&nbsp;</h3>\r\n<p>Are immigrants a strain on education in host countries?&nbsp;</p>\r\n<p>Despite growing political rhetoric calling for limitations on immigration in a number of countries on the basis of the perceived harm being done to local populations, a team of four researchers find no evidence supporting this claim. In fact, they find the contrary.</p>\r\n<p>The team of researchers – two from Brigham Young University, one from the University of Albany, and an independent expert on social conditions and educational policy – set out to test claims that immigrant students drain resources from native-born students.&nbsp;</p>\r\n<p>The research, which looked at 41 countries, showed that both native-born students and immigrant students performed better in contexts with higher immigration.&nbsp;In fact, they found that immigrants who live in the same conditions as native-born students are statistically indistinguishable in terms of academic achievement.</p>\r\n<p>The paper,&nbsp;<a href=\"https://journals.sagepub.com/doi/full/10.1177/2378023119845252\"><i>The Influence of Foreign-born Population on Immigrant and Native-born Students’ Academic Achievement</i></a><i>,&nbsp;</i>was published in May 2019 in the sociology journal Socios. The research team was made up of:</p>\r\n<ul>\r\n<li>Florencia Silveira, a sociology graduate student at the University at Albany. Her research interests include educational inequality, immigration and migration, stratification, and racial/ethnic relations.</li>\r\n<li>Mikaela J. Dufur, a professor of sociology at Brigham Young University. Her work focuses on how children and adolescents build and use social capital and on international comparisons of children’s family structures.</li>\r\n<li>Jonathan A. Jarvis, an assistant professor of sociology at Brigham Young University. In his research, he examines the impact of globalization on education.&nbsp;</li>\r\n<li>Kristie J. Rowley, an independent researcher specializing in the intersection of social conditions and educational policy and outcomes.</li>\r\n</ul>\r\n<p>Prof. Dufur told BYU News that&nbsp;for the purpose of the study, the research focused on three different groups: native-born students (parents and students born in that country), second-generation students (students born in that country but parents born in another) and first-generation students (students born outside of current country).</p>\r\n<h3>Increased Immigration Helps All Groups</h3>\r\n<p>The study shows that all groups benefit from higher foreign-born population rates. In countries with a very small proportion of immigrants, immigrants perform about 15 to 20 points below native-born students; in countries with 15 percent or more immigrants, native-born students and immigrants are within 10 points of each other; in countries with 25 percent foreign-born, all three groups perform within five points of each other.&nbsp;</p>\r\n<blockquote>\r\n<p><i>“New research has&nbsp;found that immigrants who live in the same conditions as native-born students are statistically indistinguishable in terms of academic achievement.”–<a href=\"https://ctt.ec/6O5f7\">Click to tweet</a></i><i></i></p>\r\n</blockquote>\r\n<p>In other words, higher immigration is associated with a narrowing of the achievement gap between immigrants and native-born students.</p>\r\n<p>“The current political environment shows a big push against immigration that in many ways is driven by an argument that immigrants will pull resources from the host country,” Prof. Dufur said. “The thought is if you want to protect the host country you need to really limit immigration to protect those resources.”</p>\r\n<h3>Examining Validity of Anti-Immigrant Beliefs</h3>\r\n<p>A goal of their analysis was to examine the validity of those claims by examining how macro factors play a role in student achievement.</p>\r\n<p>“Considering our findings,” the report concluded, “current sociopolitical narratives suggesting that international immigrants are hurting the destination countries are erroneous and misleading. Native-born students actually benefit from a higher proportion of immigrants.”&nbsp;&nbsp;</p>\r\n<p>“It may be surprising, particularly to individuals who identify with political factions arguing that immigrants are detrimental to the host nation, to find that native-born students benefit from higher levels of immigration.”</p>\r\n<blockquote>\r\n<p><i>“ ‘Considering our findings, Native-born students actually benefit from a higher proportion of immigrants.’ ~ New research on benefits of diversity”–<a href=\"https://ctt.ec/h6tbP\">Click to tweet</a></i><a href=\"https://ctt.ec/h6tbP\">&nbsp;</a></p>\r\n</blockquote>\r\n<p>And, in fact, the study concluded that nonimmigrants perform worse on average when they are isolated from immigrants, suggesting that sociocultural diversity positively affects achievement for native-born students.&nbsp;</p>\r\n<p>The research team concluded that considering the benefits associated with higher immigration both for immigrant and nonimmigrant students alike, it is likely that individuals reap other benefits from contexts with high immigration.</p>\r\n<h3>Economic &amp; Business Benefits&nbsp;&nbsp;</h3>\r\n<p>They are not alone in thinking that immigrants deliver benefits to their host country.&nbsp;</p>\r\n<p>Writing for the&nbsp;<a href=\"https://www.weforum.org/agenda/2016/01/how-immigration-has-changed-the-world-for-the-better/\">World Economic Forum</a>, Ian Goldin,&nbsp;Oxford University Professor of Globalization and Development, said, “Some believe that immigrants take jobs and destroy economies. Evidence proves this wrong.”&nbsp;</p>\r\n<p>In the U.S., skilled immigrants account for more than half of Silicon Valley startups including Google, Intel, PayPal, eBay, and Yahoo! Prof. Goldin said there have been three times as many immigrant Nobel Laureates, National Academy of Science members, and Academy Award directors than the immigrant share of the population would predict.&nbsp;<i>&nbsp;</i></p>\r\n<blockquote>\r\n<p><i>“ ‘</i>Some believe that immigrants take jobs and destroy economies. Evidence proves this wrong.<i>’&nbsp;</i><i>”–<a href=\"https://ctt.ec/29cG4\">Click to tweet</a></i><i></i></p>\r\n</blockquote>\r\n<p>In&nbsp;<a href=\"https://www.frbsf.org/economic-research/publications/economic-letter/2010/august/effect-immigrants-us-employment-productivity/\"><i>The Effect of Immigrants on U.S. Employment and Productivity</i></a><i>,&nbsp;</i>Federal Reserve Bank researchers said, “immigrants expand the economy’s productive capacity by stimulating investment and promoting specialization, which produces efficiency gains and boosts income per worker.” The report concluded that&nbsp;there is no evidence that these effects take place at the expense of jobs for workers born in the United States.</p>\r\n<p>And the World Bank, found that&nbsp;increasing immigration by a margin equal to 3% of the workforce in developed countries would generate global economic gains of $356 billion, according to a&nbsp;&nbsp;report on&nbsp;<a href=\"http://documents.worldbank.org/curated/en/507301468142196936/841401968_2005103190201050/additional/343200GEP02006.pdf\"><i>The Potential Gains from International Migration</i></a><i>,</i></p>\r\n<p>A report from the&nbsp;<a href=\"https://www.wsj.com/articles/why-immigrants-make-great-entrepreneurs-1511752261\">Partnership for a New American Economy</a>&nbsp;found that in 2016, 40% of Fortune 500 firms had “at least one founder who either immigrated to the United States or was the child of immigrants.”&nbsp;</p>\r\n<h3>Education &amp; Immigration Policy&nbsp;</h3>\r\n<p>So, is immigrant good or bad?&nbsp;Evidence repeatedly shows that immigrants provide significant economic benefits. And the BYU-University of Albany study shows that they also deliver educational and academic benefits.</p>\r\n<p>“With these findings in mind, policy makers should consider the positive economic, cultural, and social aspects of a strong immigrant population when drafting or evaluating immigration procedures,” the researchers concluded.&nbsp;&nbsp;</p>\r\n<h3>Related article</h3>\r\n<p>For more about the entrepreneurial mindset that immigrants offer their new homeland, read our August 2018 &nbsp;<i>article</i><a href=\"https://thunderbird.asu.edu/knowledge-network/succeed-entrepreneur-be-more-immigrant\"><i> To Succeed as an Entrepreneur, Be More Like an Immigrant</i></a>.&nbsp;Thunderbird alumni Fernando Cruz, CEO of Dynamond Building Maintenance, explains why he is reclaiming the term “immigrant mentality.” Once a negative, even pejorative, term, Cruz, originally from Brazil, is using it to describe the positive attributes that have made him a success.</p>"
+    format: basic_html
+    processed: ''
+    summary: "Are immigrants a strain on education in host countries?  Despite growing political rhetoric calling for limitations on immigration in a number of countries on the basis of the perceived harm being done to local populations, a team of four researchers find no evidence supporting this claim. In fact, they find the contrary.\r\nThe team of researchers – two from Brigham Young University, one from the University of Albany, and an independent expert on social conditions and educational policy – set out to test claims that immigrant students drain resources from native-born students."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 6720
+    height: 4480
+    target_type: file
+    target_uuid: d8dff375-f765-4cae-8cac-d8f004d67a3a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: be23d3df-c315-4f8a-86c5-c9be4f65d17d
+  -
+    target_type: taxonomy_term
+    target_uuid: 0e650df3-bfe8-43d3-8b3c-3ff5b5db27e2
+  -
+    target_type: taxonomy_term
+    target_uuid: 6d5d4cd3-fa42-47f2-9c49-09166ddb2baf
+  -
+    target_type: taxonomy_term
+    target_uuid: f714459d-6552-4f21-95a0-e7076f1706a6
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.d8dff375-f765-4cae-8cac-d8f004d67a3a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.knowledge_network_tags.be23d3df-c315-4f8a-86c5-c9be4f65d17d
+      - taxonomy_term.knowledge_network_tags.0e650df3-bfe8-43d3-8b3c-3ff5b5db27e2
+      - taxonomy_term.knowledge_network_tags.6d5d4cd3-fa42-47f2-9c49-09166ddb2baf
+      - taxonomy_term.knowledge_network_tags.f714459d-6552-4f21-95a0-e7076f1706a6

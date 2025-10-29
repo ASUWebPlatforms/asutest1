@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 27ef4211-9e67-48c8-a424-11d1d272847c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:20:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: '2 Types of Organizational Failure & Why Failures Happen'
+created:
+  -
+    value: '2017-07-06T17:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:20:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/what-failure-and-why-do-we-fail
+body:
+  -
+    value: "<blockquote>\r\n<p><i>“I have not failed. I’ve just found 10,000 ways that won’t work.” – Thomas Edison</i></p>\r\n</blockquote>\r\n<p>Just as the great inventor Thomas Edison understood that setbacks could lead to success, organizations must embrace failure as a strategic opportunity. The key, according to Professor Matthew Semadeni, is knowing which type of failure your organization has experienced and what to do about it.</p>\r\n<p>“There are two main types of failure,” says Semadeni, a professor of strategy at the <a href=\"https://wpcarey.asu.edu/\">W. P. Carey School of Business at Arizona State University</a>. “The failure that occurred because you were wrong from the beginning and should’ve known better, and the failure that occurred because nobody knew how things would sort out.”</p>\r\n<p>“With the first kind, it was never going to succeed, but you can fix that by getting better at your predictive abilities,” he says. “With the second kind, you picked the wrong course of action, but now you’ve gained important knowledge about what <i>doesn’t</i> work.”</p>\r\n<p>Semadeni, who is teaching a one-day Thunderbird School of Global Management&nbsp;Executive Education course, <a href=\"https://thunderbird.asu.edu/success-failure-lp?sv=website&amp;sd=semadeni-KNstory-1\">Succeeding through Failure</a>, on September 5, offers a broad, basic definition of the word: “Failure is anytime expectations about a future state are not met,” he explains, “but there are different levels of that.</p>\r\n<p>“As a business partner, for example, you could be disappointed because your partnership isn’t very good, so you see that as a failure. On the other hand, you could say, ‘No, it’s only a failure if the partnership breaks up.’”&nbsp;</p>\r\n<h3>‘Terrible at prediction’</h3>\r\n<p>“Failure often occurs because we are absolutely terrible at prediction,” Semadeni says. “When you peel it back, you must ask ‘why were the expectations not met?’” He points again to the partnership example, saying a prediction failure could occur if someone were unaware of serious character flaws in their partner and did no due diligence to find out.</p>\r\n<p>Put in more technical terms: “If you were expecting <i>X</i> to happen, due to your poor predictive ability, but <i>Y</i> occurs, then you see the occurrence of <i>Y</i> as a failure,” he says. “You think you failed because you believed the outcome was going to be <i>X</i>. But it was never going to be <i>X</i>.”</p>\r\n<blockquote>\r\n<p><i>“Failure often occurs because we are absolutely terrible at prediction.” </i><i>– <a href=\"https://ctt.ec/w2heF\">Click to tweet</a></i></p>\r\n</blockquote>\r\n<div>\r\n<p>“The predictive piece is so important – it’s all about sorting out predictions and biases,” he says. “There’s a very logical and rational process by which we can improve our prediction abilities.”</p>\r\n<p>Semadeni, who has conducted a lot of research on the pharmaceutical industry, is currently examining the industry’s practice of R&amp;D project discontinuation. “It’s another word for calling it quits,” he says. “Let’s say you’re a company that’s investing several hundred million into a new drug, and you got it through Phase II. But now you’re facing several hundred million dollars more to get it through Phase III and to registration. Is it worth investing that additional money?</p>\r\n<p>“Sometimes, companies will just say ‘No.’ And that’s not a failure, that’s a rational decision.”</p>\r\n<h3>Opportunity through failure</h3>\r\n<p>That logical and rational process – and the improvement that comes with it – starts at the top. “Leaders and workers alike must become comfortable with the idea that no matter how great your planning, you’re going to have some kind of failure,” Semadeni says. “It’s going to happen, so the key is to understand how to move beyond the failure. What are the measures in place so you’re learning and growing from failure and hopefully not making the mistake again?”</p>\r\n<blockquote>\r\n<p><i>“Become comfortable with the idea that no matter how great your planning, you’re going to have some kind of failure.” </i><i>– <a href=\"https://ctt.ec/9c43m\">Click to tweet</a></i></p>\r\n</blockquote>\r\n<p><i></i>That challenges most conventional business thinking. “Organizations just aren’t wired that way – they’re wired to succeed,” says Semadeni. “In my classes, I force the students to fail at things, and they can get upset about that. But I say, ‘Listen, it’s much better that you fail here – you have that emotional and cognitive response here – than when you are out in your jobs, where you may not get promoted or could even lose your job.’”</p>\r\n<p>Ultimately, Semadeni says, failure gives us the opportunity to either&nbsp;reduce its frequency by getting better at predicting and/or to embrace and learn from the failure.</p>\r\n<p>“It’s really about changing an organization’s thought process and education process and even its hiring process.”</p>\r\n<div>\r\n<p><strong>Join the discussion!</strong></p>\r\n<p>Have you succeeded through failure? Share your story on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n<p><strong>Learn more</strong></p>\r\n<ul>\r\n<li>Stay tuned for part 2 of this series <i>How to Succeed at the Right Kind of Failure – A GE Case Study</i>&nbsp;<i></i></li>\r\n<li>Stay tuned for&nbsp;part 3 of this series <i>How to Avoid the Wrong Kind of Failure: Get Better at Predicting</i></li>\r\n</ul>\r\n</div>\r\n<div class=\"fancy-divider\"></div>\r\n<p class=\"wysiwyg-break\"><em><strong>&nbsp;Want more articles like this? Subscribe to <a href=\"https://thunderbird.asu.edu/forms/37\">Thunderbird's Knowledge Network newsletter</a>.</strong></em></p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2048
+    height: 1430
+    target_type: file
+    target_uuid: fd32c1c9-e289-4a83-a626-c60efa270fa1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.fd32c1c9-e289-4a83-a626-c60efa270fa1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

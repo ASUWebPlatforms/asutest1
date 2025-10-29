@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 852132a2-f235-4fab-bac1-5e32ba0c21aa
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:53:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+title:
+  -
+    value: 'What Papa John Didn’t Get About Being A CEO'
+created:
+  -
+    value: '2018-07-17T19:26:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:53:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/what-papa-john-didnt-get-about-being-ceo
+body:
+  -
+    value: "<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h3 graf--leading graf--title\">There are no more organizations left to fire Papa John Schnatter, no more boards to resign. So how did such a storied entrepreneur take such a wrong&nbsp;turn?</h3>\r\n</div>\r\n<div class=\"section-inner sectionLayout--fullWidth\">\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\">[[{\"fid\":\"62411\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"NFL Kaepernick\",\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"NFL Kaepernick\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"NFL Kaepernick\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</div>\r\n</div>\r\n</div>\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf-after--figure\"><em>(This article also appeared in&nbsp;</em><a href=\"https://chiefexecutive.net/former-ceo-papa-john-schnatter-takes-knee/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://chiefexecutive.net/former-ceo-papa-john-schnatter-takes-knee/\"><em>Chief Executive&nbsp;</em></a><em>magazine)</em></p>\r\n<p class=\"graf graf--p graf-after--p\">After news got out that Papa John’s chairman and founder John Schnatter had uttered a racial slur at a sensitivity training session, it took barely 24 hours before the stock market trimmed 5% off company’s share value. That was for starters. Then the company announced his resignation. Later, the board of trustees of the University of Louisville, where Schnatter was also chairman, asked him to resign.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\">[[{\"fid\":\"62413\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Papa John\",\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Papa John\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Papa John\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]</div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">This episode followed&nbsp;<a href=\"https://chiefexecutive.net/ceo-guidelines-controversial-issues/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://chiefexecutive.net/ceo-guidelines-controversial-issues/\">Schnatter’s departure as chief executive last December after speaking critically about the NFL’s protests</a>. The football league dropped the company as their pizza franchise and awarded it to Pizza Hut.</p>\r\n<p class=\"graf graf--p graf-after--p\">Now there are no more organizations left to fire Papa John Schnatter, no more boards to resign. So how did such a storied entrepreneur take such a wrong turn?</p>\r\n<p class=\"graf graf--p graf-after--p\">In 1983, Schnatter helped his father out by selling his new Camaro to pay the bills, using what was left over to start a pizza delivery company. Hard-charging entrepreneurial skills enabled him to lead the company to become one of the most successful and most significant in the fast food category. The company was famous enough to recruit the same ad agency that handled Amazon, BMW, and Nike.</p>\r\n<p class=\"graf graf--p graf-after--p\">And that is where the trouble came home to roost. Schnatter’s success took him into the big leagues, but lack of understanding what the public wants in a business leader led to his downfall.</p>\r\n<p class=\"graf graf--p graf-after--p\">Entrepreneurs have exceptional skills, and without them, we don’t end up with Amazon or Apple. But those same skills — impatience, outspokenness, brusqueness — can be unsuited to a public setting where every utterance is subject to a cynical media.</p>\r\n<p class=\"graf graf--p graf-after--p\">Even more so, cultural, regional and generational backgrounds don’t always mesh with a new era, or it can also just be a mindset. When Elon Musk spoke imperiously to a Wall Street analyst, the media criticized him because he said those things in public, whereas it would have been a very natural thing for him to speak that way in private. For a public company or a public figure, the rules are different and more stringent. If you don’t like it, as the saying goes, get out of the corporate kitchen before, like Schnatter, you are forced out.</p>\r\n<p class=\"graf graf--p graf-after--p\">The irony is that Schnatter was working on improving his racial sensitivity skills. When he became defensive on the call, he used the example of an iconic entrepreneur who got away with worse behavior, according to&nbsp;<a href=\"https://www.forbes.com/sites/noahkirsch/2018/07/11/papa-johns-founder-john-schnatter-allegedly-used-n-word-on-conference-call/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.forbes.com/sites/noahkirsch/2018/07/11/papa-johns-founder-john-schnatter-allegedly-used-n-word-on-conference-call/\">Forbes</a>:</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“On the May call, John Schnatter (Papa John’s chairman) downplayed the significance of his NFL statement (regarding TakeTheKnee protests). ‘Colonel Sanders called blacks n — — -s,’ before complaining that Sanders never faced a public backlash.<br>Schnatter also reflected on his early life in Indiana, where, he said, people used to drag African-Americans from trucks until they died. He intended for the remarks to convey his antipathy to racism, but multiple individuals on the call found them to be offensive, a source familiar with the matter said.”</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Uttering a racial slur in a “role-playing exercise” with super hip millennials from Brooklyn trying to help you overcome racial insensitivity sounds like a plot for an SNL skit.</p>\r\n<p class=\"graf graf--p graf-after--p\">For a super cool ad agency like Laundry Service that was hosting the training, the only option was firing the client. The employees on the call were offended, and they would have rebelled if the agency ignored this event, and as a media buyer, they are also the likely source of the story in&nbsp;<em>Forbes</em>.</p>\r\n<p class=\"graf graf--p graf-after--p\">The incident following the NFL fiasco meant a sad coda for Schnatter’s role in the company he founded and built.</p>\r\n<p class=\"graf graf--p graf-after--p\">It speaks to the need to recognize the cultural revolution that is happening across our country. We no longer have regional ways or generational thinking. What we think and feel is now as important as how we behave and what we stand for.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">It is a simple lesson, but hard to learn.</p>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n<p><strong>Read more from Jeff:</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/amazons-war-drugs\">Amazon’s War on Drugs</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/stop-apologizing-8-social-media-rules\">“I’m Sorry I Tweeted About Politics” — 8 Rules to Stop Saying This</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/starbucks-responds-charges-racism-apology\">Starbucks Responds To Charges of Racism With An Apology</a></p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 800
+    height: 481
+    target_type: file
+    target_uuid: 584c5295-04ed-4178-abfc-9c119a1f8893
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8
+    file:
+      - file.image.584c5295-04ed-4178-abfc-9c119a1f8893
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

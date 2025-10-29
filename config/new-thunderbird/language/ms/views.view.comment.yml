@@ -1,0 +1,43 @@
+display:
+  default:
+    display_title: Lalai
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: Tindakan
+        name:
+          label: Pengarang
+        changed:
+          label: 'Telah dikemaskinikan'
+        operations:
+          label: Operasi-operasi
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+      exposed_form:
+        options:
+          reset_button_label: 'Set semula'
+          exposed_sorts_label: 'Susun mengikuti'
+          sort_asc_label: Menaik
+          sort_desc_label: Menurun
+      filters:
+        langcode:
+          expose:
+            label: Bahasa
+  page_unapproved:
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: Tindakan
+        name:
+          label: Pengarang
+        changed:
+          label: 'Telah dikemaskinikan'
+        operations:
+          label: Operasi-operasi
+      filters:
+        langcode:
+          expose:
+            label: Bahasa

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 2b9cdf4f-b153-42de-af07-f49332ada000
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+filename:
+  -
+    value: alan_taylor_entrepreneur_weekly_host.jpg
+uri:
+  -
+    value: 'public://alan_taylor_entrepreneur_weekly_host.jpg'
+    url: /sites/default/files/alan_taylor_entrepreneur_weekly_host.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 62707
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-08-03T20:34:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-03T20:34:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc

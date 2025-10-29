@@ -1,0 +1,24 @@
+{% set classes = [ 
+    'insights-grid',
+    'block', 
+    'block-' ~ configuration.provider|clean_class, 
+    'block-' ~ plugin_id|clean_class
+  ]
+%}
+
+{% extends 'block.html.twig' %}
+
+{% if label %}
+  {% block label %}
+    <div class="container">
+      <{{ heading_level }} {{ title_attributes.addClass(heading_style) }}>{{ label }}</{{ heading_level }}>
+    </div>
+  {% endblock %}
+{% endif %}
+
+{% block content %}
+  {{ attach_library('thunderbird/clickable') }}
+  <div class="grid">
+    {{ items }}
+  </div>
+{% endblock %}

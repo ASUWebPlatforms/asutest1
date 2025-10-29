@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: ce784eb0-e380-49ca-bacb-0cf1c1532177
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T17:50:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Rite Aid Corporation'
+created:
+  -
+    value: '2016-07-27T17:50:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T17:50:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-02-0001
+body:
+  -
+    value: '<p><span class="default-style">The case focuses on the rapid growth of Rite Aid from a small company established by Alex Glass in Pennsylvania in 1962 to the second largest U.S. retail drug chain based on store count by early 1999. Until the mid-1990s, Rite Aid grew by acquiring smaller chains on the east and southern regions in the U.S. Martin Glass, Alex''s son, assumed the position of CEO in 1995 and began an ambitious expansion path. After failing to acquire Revco D.S. in 1995 with over 2,100 stores, Rite Aid acquired Thrifty Payless, a west coast drug chain with over 1,000 stores in 1996. Thrifty Payless was no stranger to reorganizations, having been the product of Thrifty''s acquisition of Payless Drugs and a subsequent initial public offering in 1995. Rite Aid''s long-term debt increased dramatically after the Thrifty Payless acquisition in 1996 and the acquisition of PCS Health Systems, Inc., the largest pharmaceutical benefit management company (PBM), from Eli Lilly in November 1998.</span></p><p>Rite Aid''s top management announced plans to continue its rapid growth but the company faced many challenges in implementing the aggressive plans, not least of which was the fact that Rite Aid''s stock fell dramatically on March 12, 1999 after the company announced that it would restate its financial statements. The disclosure cast doubt over the likelihood that the company would be able to issue new equity to refinance the debt issued to acquire PCS. Rite Aid faced fierce competition from CVS Corp. and Walgreen Co., companies that were also driven to become low-cost providers of health products and services.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-02-0001
+field_case_page_length:
+  -
+    value: '37 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: b728304a-07ee-4b75-b2f9-3dfe1f457a65
+field_case_series_year:
+  -
+    value: '2002-01-01'
+field_case_setting:
+  -
+    value: U.S.
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a6684deb-541e-4d46-9983-01e213d10328
+field_teaching:
+  -
+    value: 'This case provides opportunities for student to apply financial analysis, accounting analysis and valuation techniques to a company, which grew rapidly through corporate acquisitions financed with substantial amounts of debt. The case provides enough background information on the drug store industry to examine industry dynamics and extensive financial statement data from Rite Aid''s 1999 10-K for the year ending February 27, 1999 to enable the student to diagnose Rite Aid''s problems. The case also provides financial data on CVS Corp. and Walgreen Company, the major companies that compete with Rite Aid, to make comparisons with their financial performance. Quality of earnings issues can be addressed by analyzing Rite Aid''s accounting policies. Finally, valuation issues can be addressed by determining whether Rite Aid is worth $22 7/16, the company''s stock price after it announced it would restate its financial statements. The case provides sufficient market data to estimate the company''s cost of capital. The Feltham-Ohlon accounting-based valuation approach is used in this note to estimate Rite Aid''s equity value. The case has been used in the Corporate Financial Reporting course in the Masters program at Thunderbird. It has also been used for similar purposes in Executive Education programs at Thunderbird.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.b728304a-07ee-4b75-b2f9-3dfe1f457a65
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.a6684deb-541e-4d46-9983-01e213d10328

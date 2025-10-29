@@ -1,0 +1,83 @@
+uuid:
+  -
+    value: 605f20ab-af4d-4a54-acc6-9082361edd46
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-12-14T19:12:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: '7 Most Common Questions Students Ask when Applying to Thunderbird'
+created:
+  -
+    value: '2017-06-16T17:37:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-14T19:12:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/7-most-common-questions-students-ask-when-applying-thunderbird
+body:
+  -
+    value: "<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 478px;\" class=\"caption-inner\">[[{\"fid\":\"5774\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Sogol Homayoun, Thunderbird Enrollment Advisor\",\"field_file_image_title_text[und][0][value]\":\"Sogol Homayoun, Thunderbird Enrollment Advisor\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Sogol Homayoun, Thunderbird Enrollment Advisor\",\"field_file_image_title_text[und][0][value]\":\"Sogol Homayoun, Thunderbird Enrollment Advisor\"}},\"attributes\":{\"alt\":\"Sogol Homayoun, Thunderbird Enrollment Advisor\",\"title\":\"Sogol Homayoun, Thunderbird Enrollment Advisor\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p style=\"text-align: center;\" class=\"caption-text\">Sogol Homayoun, Thunderbird Enrollment Advisor</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>In my four years as an enrollment advisor at Thunderbird, I've found that students seek answers to a whole variety of questions before they even start the application process. I understand! Choosing the right graduate program can be a daunting experience. Many prospective students don’t even feel they have a reliable road map to follow.</p>\r\n<p>Let me help! I have compiled a list of answers to our most frequently asked questions. If you have a question that isn't addressed here, please feel free to email me directly at <a class=\"o365button\"><span class=\"ms-font-s ms-font-color-themePrimary\">Sogol.Homayoun@thunderbird.asu.edu</span></a>.</p>\r\n<h3>Thunderbird's Frequently Asked Questions &amp; Answers</h3>\r\n<h4>1. What exactly is a <a href=\"/node/194\">Master of Global Management (MGM)</a> and how is it different than an MBA?</h4>\r\n<p>Our research shows that in the next 10+ years there is a need for specialized training. Thunderbird’s Master of Global Management’s secret sauce is that we treat you like diplomats and train you on global politics, economics, leadership and business from a global perspective. You are uniquely trained to help organizations cross-analyze global markets in industries of choice. We offer 5 <a href=\"https://thunderbird.asu.edu/graduate-certificates\">specialized certificates</a> if you would like to add a deeper concentration in a particular area of international business.</p>\r\n<p>The MGM program is offered on campus, online or on weekends. If you want a taste of Thunderbird classes before going into a master's program then you must check out our new, free <a href=\"https://www.edx.org/micromasters/thunderbirdx-international-business-management\">online courses</a>! These courses can even be applied toward credits in our Online MGM.</p>\r\n<h4>2. What type of scholarships/financial assistance do you offer?</h4>\r\n<p>For qualified full-time students, Thunderbird offers <a href=\"/node/2697\">merit-based and alumni referral scholarships, as well as fellowships for Returned Peace Corps Veterans</a>. For students who come from under-represented countries that do not offer financial aid, we have the <a href=\"https://thunderbird.asu.edu/about/giving/share-fellowship\">SHARE Fellowship</a> (full scholarship). ASU offers more <a href=\"https://scholarships.asu.edu/\">scholarships</a> and <a href=\"https://graduate.asu.edu/pay-for-college\">fellowships</a> for graduate students as well. Military students love us! We have designated advisors to help with military benefits at the ASU Pat Tillman Center and we offer a <a href=\"/node/2500\">Thunderbird-exclusive veteran scholarships</a> funded by a generous alumnus. After all, <a href=\"/node/2502\">Thunderbird stems from military roots</a>.</p>\r\n<h4>3. I'm an international student. How long does it take to get an I-20?</h4>\r\n<p>All international students that study in the United States need a Form I-20 to schedule their visa interview at their local U.S. consulate. <a href=\"https://issc.asu.edu/international-student-advising-appointments\">ASU's International Students and Scholars Center</a> requires students to complete a financial guarantee form and attach their scholarship or sponsorship letter along with a bank statement to obtain their I-20. It typically takes less than 2 weeks to process the form if all documents are in good standing.</p>\r\n<h4>4. What are the application deadlines?</h4>\r\n<p>Thunderbird provides ongoing admissions to prospective students. <strong>The sooner you apply the better for admission and scholarship consideration.</strong> Because deadlines vary for each program, visit our <a href=\"/node/4\">Graduate Degree Programs page</a> and choose your program of interest to find application deadlines. Remember, Thunderbird has enrollment advisors like me to help you apply so take advantage of this free resource!</p>\r\n<h4>5. What are your TOEFL/IELTS requirements?</h4>\r\n<p>We set up our international students to not only enter Thunderbird but also successfully graduate. If your scores fall in this range—TOEFL: 80 - 99 / IELTS: 6.5 – 7.0 / PTE &lt;68—you will be invited to take our <a href=\"/node/1767\">Business English Communication</a> courses 1-2 months before beginning your master's program so that are prepared to start the curriculum with firm training in Academic &amp; Business Writing Skills, Business Presentation Skills, Critical Thinking through Case Studies &amp; Reading Strategies, American Business &amp; Cross-cultural Communications.</p>\r\n<h4>6. I am a Veteran. What options do I have?</h4>\r\n<p>Thunderbird&nbsp;School of Global Management was established by <a href=\"https://thunderbird.asu.edu/yount\">Lt. General Barton Kyle Yount</a> in 1946 as&nbsp;an educational institution committed to preparing leaders who could bridge cultural gaps&nbsp;through ethical, culturally astute business practices. In his memory, and in recognition of&nbsp;your service, we offer US military applicants the following exclusive benefits:</p>\r\n<ul>\r\n<li>One-on-one enrollment and admissions counseling</li>\r\n<li>Application fee waiver</li>\r\n<li>Customized support services</li>\r\n<li>Military service scholarships/financial assistance</li>\r\n</ul>\r\n<p>Thunderbird offers a <a href=\"/node/2500\">scholarship opportunity in partnership with the Hinrich&nbsp;Foundation exclusively for military members</a>. Additional scholarship and financing&nbsp;resources are available through the<a href=\"https://veterans.asu.edu/\"> Pat Tillman Veterans Center.</a></p>\r\n<h4>7. What percentage of students are successful in obtaining an internship?</h4>\r\n<p>It depends on the student and his or her area of interest. Thunderbird is a professional program that offers a wide variety of applied learning, hands on projects that prepare you for international business. We have 5 different types of Applied Learning Projects that give students the opportunity to put classroom learnings into real-world practice. Internships are just one option available to our students to get real-world experience working for an international organization. Depending on your timeline for each option, you may or may not opt-in for the internship because you have a consulting gig or global field seminar that better aligns with your career goals. Millennials like options and we have them!</p>\r\n<h3>Can We Answer More Questions for You?</h3>\r\n<p>I hope these questions/answers have helped answer some of your pressing Thunderbird questions. As noted, our team of enrollment advisors are available to walk you through the information-gathering, application and admissions process, so you will always have a resource in us. I encourage you to contact an enrollment advisor at admissions.tbird@asu.edu or email me directly at <a class=\"o365button\"><span class=\"ms-font-s ms-font-color-themePrimary\">Sogol.Homayoun@thunderbird.asu.edu</span></a>.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 3888
+    height: 2592
+    target_type: file
+    target_uuid: d1e86c5b-4e23-4113-96da-a958f07352ab
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c98a978-a0e5-4ad3-ae54-71103288ecdd
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    file:
+      - file.image.d1e86c5b-4e23-4113-96da-a958f07352ab
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.2c98a978-a0e5-4ad3-ae54-71103288ecdd

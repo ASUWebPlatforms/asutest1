@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 1115909c-5585-490b-b11b-0c71ecd3f928
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-02-28T22:16:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Don''t Be Left Behind: Commit to Lifelong Learning'
+created:
+  -
+    value: '2017-11-15T23:32:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-28T22:16:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/dont-be-left-behind-commit-lifelong-learning
+body:
+  -
+    value: "<p>[[{\"fid\":\"9455\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Continuous success takes Lifelong Learning\",\"height\":\"390\",\"width\":\"640\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>&nbsp;</p>\r\n<h3>Learn more about lifelong learning opportunities at Thunderbird</h3>\r\n<p style=\"text-align: center;\" class=\"btn btn-primary\"><a href=\"http://thunderbird.asu.edu/lll-lp?sd=KNLLLvideo\">Download our Lifelong Learning ebook</a></p>"
+    format: basic_html
+    processed: ''
+    summary: "Learn more about lifelong learning opportunities at Thunderbird.\r\n"
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 919
+    height: 485
+    target_type: file
+    target_uuid: b5733f27-c1aa-4c76-94c7-063d0cd598d9
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.b5733f27-c1aa-4c76-94c7-063d0cd598d9
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

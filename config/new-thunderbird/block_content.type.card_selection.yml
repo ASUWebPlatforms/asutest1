@@ -1,0 +1,8 @@
+uuid: 17b359bf-6dba-4a7e-88c8-aea0953923f0
+langcode: en
+status: true
+dependencies: {  }
+id: card_selection
+label: 'Card selection'
+revision: 0
+description: 'Pick content from a list to be displayed as cards.'

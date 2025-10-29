@@ -1,0 +1,22 @@
+uuid: b43e2ec1-5735-42e8-af91-49bd0d48f814
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.certificate
+id: node.certificate.status
+field_name: status
+entity_type: node
+bundle: certificate
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

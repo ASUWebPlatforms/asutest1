@@ -1,0 +1,16 @@
+display:
+  default:
+    display_title: Maître
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Appliquer
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
+      fields:
+        title:
+          label: Titre
+      arguments:
+        order_item_id:
+          exception:
+            title: Tout

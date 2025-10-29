@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: 89848e03-e19f-4af5-9659-ec24f6e41172
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:14:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Strategic Alliance of Bang & Olufsen and Philips N.V.'
+created:
+  -
+    value: '2016-07-27T22:14:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:14:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-99-0012
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case takes place shortly after B&amp;O concluded a strategic alliance with Philip NV in which Philips injected some equity capital into B&amp;O. Philips paid a 35% premium over market price for B&amp;O because it expected to achieve some synergies for both parties. At the time of the case, B&amp;O is deciding what steps to take to gain the anticipated synergies.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-99-0012
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6658d995-ddc0-4a79-87da-9baf49b6e1c5
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: Europe
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1859f567-6035-46bd-a7ea-243e41c3ad3c
+  -
+    target_type: taxonomy_term
+    target_uuid: 507c0265-2c02-4a8a-a94e-ca9ce40c9b78
+  -
+    target_type: taxonomy_term
+    target_uuid: 17473ec4-7f44-4aa2-a6f3-9532e6a180a1
+field_teaching:
+  -
+    value: "The B&O case is a good illustration of the interplay between finance and strategy. It can be used in both the international finance and strategy courses. The \"case questions\" provide a good way to structure the case discussion. In order to focus class discussion, I start by putting Michael Porter's \"value-added chain\" on the blackboard. The class then discusses the weaknesses and strengths of B&O in the context of the value-added chain.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.6658d995-ddc0-4a79-87da-9baf49b6e1c5
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.1859f567-6035-46bd-a7ea-243e41c3ad3c
+      - taxonomy_term.case_series_fields.507c0265-2c02-4a8a-a94e-ca9ce40c9b78
+      - taxonomy_term.case_series_fields.17473ec4-7f44-4aa2-a6f3-9532e6a180a1

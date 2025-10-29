@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 876ef710-940d-4fe1-a014-d07de0e71f2e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Arrival and Discovery in Tunis'
+created:
+  -
+    value: '2014-05-29T14:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/arrival-discovery-tunis
+body:
+  -
+    value: "<h4><span><em><span>The First 72 Hours</span></em></span></h4>\r\n<p><img src=\"/sites/default/files/img_1457.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1576 img__view_mode__default\"></p>\r\n<h4><em>By Landon Yoder</em></h4>\r\n<h4><em>Salamu alaikum</em><span>&nbsp;– <em>b</em></span><em>onjour</em><span>! On Sunday our team set foot for the first time in Tunisia, a small country on the Mediterranean coast of Africa and site of the first \"Arab Spring\" protests in 2011.&nbsp;</span><span>We were met with bright sunshine and a humid breeze. Since our client was scheduled to arrive two days later, we began meeting Thunderbird alumni and friends-of-friends to learn everything we could about this market. They deluged us with information, ranging from economic and political trends, to names of other people we should meet, and practical tips on food and travel. One particularly helpful meeting with a Thunderbird alum lasted for five hours, and we still just scratched the surface on his four decades of experience in Tunisia.</span></h4>\r\n<div>\r\n<h4><span><span>It can be challenging to manage the flood of data and experiences in the first days of a project. As a team we have dedicated a lot of time each day to sharing and analyzing our experiences in this new environment. Below are some highlights from those team conversations.</span></span></h4>\r\n<h4><span>Surprises</span></h4>\r\n<ul>\r\n<li><span>It is cooler than in Arizona and has drizzled rain several times&nbsp;</span></li>\r\n<li><span>In Tunis we see almost no Western people or brands</span></li>\r\n<li><span>Still, the nationals are remarkably un-curious to speak with us; they hardly even look twice</span></li>\r\n<li><span>People in Tunis seldom look at their phones; for instance, in a metro train jammed with commuters, you may see zero cell phones (despite Tunisia having 1.17 phones per 1 person)&nbsp;</span></li>\r\n<li><span>Women’s clothing varies widely from full burqa to racy jeans and stilettos; most are somewhere in the middle</span></li>\r\n<li><span>The local weekend is on Saturday/Sunday, not Friday/Saturday, which is typical in Arab countries</span><span>&nbsp; &nbsp;</span></li>\r\n</ul>\r\n<img src=\"/sites/default/files/train_kids.jpg\" alt=\"Boys hitch a ride on the back of a metro train in Tunis.\" width=\"199\" height=\"480\" class=\"Image img__fid__1575 img__view_mode__default\">\r\n<h4><span> Likes </span></h4>\r\n<ul>\r\n<li>Metro trains in Tunis are old and rickety, yet clean and punctual, and cover much of the city</li>\r\n<li>Architecture in downtown Tunis is reminiscent of a \"crumbling Paris”</li>\r\n</ul>\r\n<ul>\r\n<li>Cafes offer the best of European espresso and Arab tea&nbsp;</li>\r\n<li>Tech can help to offset culture shock: cell phones, \"data sticks\" for laptops, and Google maps/GPS that work on our US phones</li>\r\n</ul>\r\n<h4><span>Challenges</span></h4>\r\n<ul>\r\n<li>Tunis is spread out, travel takes time</li>\r\n<li>Many people address us in French and resist using Arabic&nbsp;</li>\r\n<li>The language of choice seems to be a blend of \"Frarabic\"</li>\r\n<li>Adult drinks are not sold in most restaurants and stores&nbsp;</li>\r\n</ul>\r\n<h4><span>Quotes</span></h4>\r\n<ul>\r\n<li>Let’s not dwell on the challenges and obstacles –C’pher</li>\r\n<li>I definitely just spoke Korean to that guy –Nate</li>\r\n<li>A murse [man-purse] gives you credibility –Landon</li>\r\n<li>Something tells me this will work itself out when we get on the ground –Pete</li>\r\n<li>As a consultant you'll have no direct control; your job is to influence –Professor Finney (pre-travel advice)</li>\r\n</ul>\r\n<p>In the coming weeks we will travel to other parts of Tunisia—places that, when telling others we’re traveling there, prompt laughs and raised eyebrows. Along the way, our living and working conditions will probably vary a lot, continuing to challenge us and force us to adapt quickly. We are excited to share these experiences with you as the trip unfolds.&nbsp;</p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 5291dc2a-3e17-44ea-afc3-2551fe282a8e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-11-12T04:09:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5ea0e9c4-e373-49d5-a651-bae8e5842940
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 5ea0e9c4-e373-49d5-a651-bae8e5842940
+title:
+  -
+    value: 'Fire and Inspiration: Native American Women’s Conference'
+created:
+  -
+    value: '2017-11-12T04:09:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-11-12T04:09:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/fire-and-inspiration-native-american-womens-conference
+body:
+  -
+    value: "<p><em>[[{\"fid\":\"9340\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Fire and Inspiration: Native American Women’s Conference\",\"field_file_image_title_text[und][0][value]\":\"Fire and Inspiration: Native American Women’s Conference\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Fire and Inspiration: Native American Women’s Conference\",\"field_file_image_title_text[und][0][value]\":\"Fire and Inspiration: Native American Women’s Conference\"}},\"attributes\":{\"alt\":\"Fire and Inspiration: Native American Women’s Conference\",\"title\":\"Fire and Inspiration: Native American Women’s Conference\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]</em></p>\r\n<p><em>By Youfeng (Gloria) Pan, Das Tor Staff Writer</em></p>\r\n<p><span>On a cold Tuesday night, the wood started to burn, flames danced with the wind, and flashing airplanes echoed in the sky. We sat around the fire on a patio of a cliff, covered with a cozy blanket. Steven Darden, the story teller, opened the night with the history of Native Americans—the child’s first laugh, the seven spirits, the Doorway Mountain, the ceremonies, the interdependence of people, plants, mother earth, and father sky and more.</span></p>\r\n<p><span>I was sitting there, listening to the prayers to honor the elderly, smelling the seed burnt in the fire, tasting the sorrow in their stories of life-long struggles and feeling their desires to connect with roots and the spirits. I felt like I was in an old dream, where I was crying while reading the book about the heart-broken tragedy due to marriage separation of Han (the major nationality) and Hui (the Muslim minority, one of the 55 minority nations in China). Surprisingly there are so many similarities in the world and its histories.</span></p>\r\n<p><a href=\"http://dastornews.com/2017/11/fire-and-inspiration-native-american-womens-conference/\"><span>Read more...</span></a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1442
+    height: 538
+    target_type: file
+    target_uuid: 74e3364d-3079-4f35-993f-ff842bd342e3
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5ea0e9c4-e373-49d5-a651-bae8e5842940
+    file:
+      - file.image.74e3364d-3079-4f35-993f-ff842bd342e3
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

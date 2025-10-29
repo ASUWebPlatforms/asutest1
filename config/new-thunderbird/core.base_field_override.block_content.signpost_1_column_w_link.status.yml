@@ -1,0 +1,22 @@
+uuid: 01e45e2a-90ba-48d8-aa8a-85414180feea
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.signpost_1_column_w_link
+id: block_content.signpost_1_column_w_link.status
+field_name: status
+entity_type: block_content
+bundle: signpost_1_column_w_link
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

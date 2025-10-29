@@ -1,0 +1,18 @@
+uuid: 6eff9af2-a731-43a5-b226-16202ea54b19
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.rankings
+id: block_content.rankings.metatag
+field_name: metatag
+entity_type: block_content
+bundle: rankings
+label: 'Metatags (Hidden field for JSON support)'
+description: 'The meta tags for the entity.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: map

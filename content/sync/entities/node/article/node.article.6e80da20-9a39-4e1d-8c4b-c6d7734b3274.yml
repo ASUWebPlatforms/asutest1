@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 6e80da20-9a39-4e1d-8c4b-c6d7734b3274
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Listen like a Leader: Eight Ways to Improve Communication'
+created:
+  -
+    value: '2013-10-31T09:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/listen-like-a-leader
+body:
+  -
+    value: "<p>Leaders spend most of their time listening. The higher they go in their organizations, the more they rely on this important skill. Studies show working professionals spend about 55 percent of their time, managers spend about 60 percent of their time, and executives spend as much as 75 percent of their time listening. “Leaders listen to what the market is saying, to what the customer is saying, and to what the team is saying,” says business consultant and author Tom Peters.</p>\r\n<p>Yet many aspiring leaders never take the time to master the skill because they think they already do it well. Consequently, many poor listening habits go undetected and untreated. Here are eight of the worst that can undermine effective communication and even thwart chances for career advancement.</p>\r\n<p><strong>Comparing:&nbsp;</strong>Nobody likes a one-upper — someone who responds to every comment or concern with a better story of their own. People who do this make every conversation about themselves. They send a message that others don’t matter.</p>\r\n<p><strong>Mindreading:</strong>&nbsp;Know-it-alls make terrible listeners because they think they have nothing to learn. When others start talking, they jump to conclusions, finish sentences or simply tune out. Good listeners stay humble. They follow the advice of BP CEO Bob Dudley, a Thunderbird alumnus, who says: “<a href=\"http://www.youtube.com/watch?v=mHyNjJNSegU\">Listen to the quietest voice in the room</a>.”</p>\r\n<p><strong>Sparring:&nbsp;</strong>Know-it-alls also like to be right, even if it means shouting down an opponent. A new Washington State University study suggests that being confident and loud is the best way to win an argument, even when someone is wrong. This might be true, but good listeners care more about creating understanding than scoring points.</p>\r\n<p><strong>Rehearsing:&nbsp;</strong>Instead of listening when others talk, some people use the time to plan what they will say next. Many fall into this trap when they worry too much about sounding intelligent or staying in control of a conversation. Good listeners show patience by waiting their turn before deciding how to respond.</p>\r\n<p><strong>Filtering:&nbsp;</strong>People filter the world through cultural lenses. Without trying and often without realizing what they are doing, they make assumptions about others’ behavior based on their own regional, racial, religious and family values reinforced over a period of decades. Good listeners have cultural filters like everyone else, but they recognize and appreciate differences. They understand that assertiveness in one culture might look like arrogance in another. Friendly behavior to one person might be invasive or creepy to another. Even a clear message such as “yes” can mean “no” or “maybe” in certain contexts. Good listeners study cultural orientations. Then they watch for signals — including nonverbal cues — and adjust.</p>\r\n<p><strong>Judging:</strong>&nbsp;One quick way to chill communication is to ascribe bad motives or blame to the person speaking. Some listeners pass silent judgment, while others ask accusatory questions that minimize or discount what is said. Why didn’t you tell me sooner? What steps did you take to stop it? Why are you so defensive? Good listeners give their counterparts the benefit of the doubt — especially when someone takes a risk by speaking up.</p>\r\n<p><strong>Advising:</strong>&nbsp;Withholding advice can be difficult for people who see themselves as the smartest person in the room. Yet good listeners wait until someone asks for advice before they give it — even if they have more knowledge and experience than others. These listeners understand that sometimes people want empathy more than solutions.</p>\r\n<p><strong>Placating:&nbsp;</strong>Some people avoid conflict at all costs. When confronted with uncomfortable demands or complaints, they agree quickly or change the subject. In doing so, they often dismiss the topic’s importance. Good listeners engage in honest discourse, even when it hurts.</p>\r\n<p><em><strong>Beth Stoops</strong>&nbsp;is former Managing Director in Thunderbird Executive Education and professor of Leadership Communication and Advanced Business Communication. She has more than 25 years of global experience as a teacher and administrator. <br></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

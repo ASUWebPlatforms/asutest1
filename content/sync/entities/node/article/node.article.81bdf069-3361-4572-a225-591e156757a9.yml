@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 81bdf069-3361-4572-a225-591e156757a9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-07-19T23:13:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'What Made Apple So Creative?'
+created:
+  -
+    value: '2017-07-06T19:41:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-19T23:13:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/what-made-apple-so-creative
+body:
+  -
+    value: "<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h2 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">[[{\"fid\":\"6062\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"apple creative\",\"field_file_image_title_text[und][0][value]\":\"apple creative\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"apple creative\",\"title\":\"apple creative\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</h2>\r\n<h2 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">Steve Jobs inspired creativity by keeping critics&nbsp;away</h2>\r\n<blockquote>Any sufficiently advanced technology at the time of inception is indistinguishable from magic. — Arthur C.&nbsp;Clark</blockquote>\r\n<h4 class=\"graf graf--h4 graf-after--pullquote\">Steve Jobs didn’t invent the art of corporate creativity, he perfected it.</h4>\r\n<p class=\"graf graf--p graf-after--h4\">For someone who was notorious for his lousy people skills, Steve Jobs knew talent when he saw it.&nbsp;His primary goal was to hold onto what I will call ‘extreme talent’ (he paid everyone princely sums) and if you were creative, he did something most other CEOs don’t.</p>\r\n<p class=\"graf graf--p graf-after--p\">He gave you the room and the rope to do your best work. The results speak for themselves.</p>\r\n<p class=\"graf graf--p graf-after--p\">While he was alive, I had the chance to hear him on how to make a company into a creative powerhouse. He told the group, “you will meet three types of people in your career.” Then Jobs gave us a simple algorithm:</p>\r\n<blockquote>“Gather ten smart people into a conference room and two will be creative, two are great at solving problems, the rest are critics. Keep the creatives far away from the critics until they’re&nbsp;ready.”</blockquote>\r\n<p class=\"graf graf--p graf-after--pullquote\">Time after time, he confounded his competitors with products that set the customer’s imagination on fire. But do recall the early days of the iPhone? The critics bombarded it with a hundred different reasons why it would fail.</p>\r\n<p class=\"graf graf--p graf-after--p\">Fortunately, he didn’t tell the designers. He knew when the time was right, the critics’ would get their day, but for now, it was still time to create stuff.</p>\r\n<h4 class=\"graf graf--h4 graf-after--p\">1) Nurture the creatives</h4>\r\n<p class=\"graf graf--p graf-after--h4\">In driving Apple where no tech company has gone before, Jobs carefully guarded those few people in the organization who, like himself, possessed an unerring creative skill, and he nurtured them and their ideas.</p>\r\n<h4 class=\"graf graf--h4 graf-after--p\">2) Let the problem solvers go&nbsp;wild</h4>\r\n<p class=\"graf graf--p graf-after--h4\">Then he looked to a larger but still select group of problem solvers who enjoy working out the kinks in new products.</p>\r\n<h4 class=\"graf graf--h4 graf-after--p\">3) Then throw it to the&nbsp;critics</h4>\r\n<p class=\"graf graf--p graf-after--h4\">Finally, the rest of us, that faceless class of critics that get a kick out of tearing things apart, are brought in to rant and rave. Sort of the corporate version of a political protest. Jobs would let them go to work to toughen the idea (and the team) once it passed through the creative and problem-solving doors because that made a great idea easier to fix but not to kill.</p>\r\n<h4 class=\"graf graf--h4 graf-after--p\">Adios the&nbsp;suits</h4>\r\n<p class=\"graf graf--p graf-after--h4\">The key to driving corporate creativity is to make sure the process flows in that order with strong boundaries at each step. Don’t bring in the critics too early; they are nice people but they can also be idea killers.</p>\r\n<h4 class=\"graf graf--h4 graf-after--p\">Keep a vigilant guard over the creatives</h4>\r\n<div>[[{\"fid\":\"5890\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</div>\r\n<div><span class=\"markup--em markup--figure-em\">Steve Jobs placed Mac team signatures as an artist signs their&nbsp;painting</span></div>\r\n<div></div>\r\n<div>\r\n<h4 class=\"graf graf--h4 graf-after--figure\">How he did&nbsp;it.</h4>\r\n<p class=\"graf graf--p graf-after--h4\">One simple act of what I will call corporate compassion will inspire extraordinary creativity:&nbsp;compartmentalize your creative team and give them their own space away from intrusion during the creative period of a product lifecycle<em>.</em></p>\r\n<p class=\"graf graf--p graf-after--p\">Principally, that exposing an early stage product — or company — to the critics too early means it will never succeed. Either they kill it outright or they kill it with modifications (which if made later might actually be useful). Instead, Jobs looked around for problem solvers, the equivalent of product therapists, and the kind who understand ‘right brained’ intelligence, to give the creatives a chance to amend product flaws.&nbsp;Jobs knew the critics were not the first but the final stage of market adoption.</p>\r\n<p class=\"graf graf--p graf-after--p\">[[{\"fid\":\"5891\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--figure-strong\">Apple headquarters, Cupertino, CA</span></p>\r\n<h3 class=\"graf graf--h3 graf-after--figure\">He gave the creatives the keys, literally</h3>\r\n<p class=\"graf graf--p graf-after--h3\">Apple’s circular campus headquarters in Cupertino, nicknamed the ‘spaceship’, has one door that even Steve Jobs could not enter without permission.</p>\r\n<p class=\"graf graf--p graf-after--p\">It is the room where design happens. It goes by another name as well: innovation.</p>\r\n<p class=\"graf graf--p graf-after--p\">Don’t feel too bad for Jobs and his successor, Tim Cook, who called it ‘the innovation center’ when he was interviewed by CBS. The vast majority of Apple employees are intentionally prevented from entering into the company’s creative labyrinth, officially known as Design Lab, run by famed designer, Jony Ive.</p>\r\n<p class=\"graf graf--p graf-after--p\">Members of the executive team also discover their badges are no good here.</p>\r\n<p class=\"graf graf--p graf-after--p\">Here is some stunningly insightful commentary by Jobs on his successor, John Sculley. He makes it clear that whiteboarding and building great products aren’t the same thing. Jobs recognizes when a ‘suit’ gets too intrusive, it can be a death knell.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\">[[{\"fid\":\"5892\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*yIxi2zGH0tWliB9aWHoeiA.jpeg\" data-width=\"800\" data-height=\"781\" data-action=\"zoom\" data-action-value=\"1*yIxi2zGH0tWliB9aWHoeiA.jpeg\" data-scroll=\"native\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure graf--trailing\">At Apple, there will no tinkering by non-creatives before their time. That is because nobody understood the way creativity drives the bottom line of a business like Steve Jobs.</p>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>&nbsp;</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.iconicvoices.tv/&amp;source=gmail&amp;ust=1499456332433000&amp;usg=AFQjCNGTrEDGQntRN7ipy1I73ADLq6CnaQ\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.jeffcunningham.com/&amp;source=gmail&amp;ust=1499456332433000&amp;usg=AFQjCNGXqvwd6nD0mkfh-AVpashGXzszyQ\">JeffCunningham.com.</a></p>\r\n<p>&nbsp;</p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>&nbsp;</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>&nbsp;</em></p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n<div><em>&nbsp;</em></div>\r\n<p class=\"graf graf--p graf-after--figure graf--trailing\">&nbsp;</p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1024
+    height: 768
+    target_type: file
+    target_uuid: 6baa0f34-7352-491f-aebc-f3ade7659cdf
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    file:
+      - file.image.6baa0f34-7352-491f-aebc-f3ade7659cdf
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 16b2c1ef-f53f-4c86-890c-43e8747a34d4
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Lucky Six'
+created:
+  -
+    value: '2014-02-04T06:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/lucky-six
+body:
+  -
+    value: "<p>[[{\"fid\":\"2910\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Lucky Six\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The Lucky Six\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"The Lucky Six\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]<br><span><em>Sunrise at Karaweik Palace on Kandawgyi Lake</em></span></p>\r\n<p>As our flight began its descent into Yangon, our excitement was becoming reality. From the plane all we could see were hectares and hectares of green fields—a treat to the eyes. Amidst this greenery glints of golden pointed structures filled the horizon. Were these all the pagodas of Yangon of which we’d heard? &nbsp;All our assumptions and preconceived notions about the country were going to be tested. The excitement wakened us and made us forget the tiredness after 32 hours of travel.</p>\r\n<p>Yangon airport surprised us! It is modern with a touch of local architectural style with golden arches and pillars. As we came down the escalator we came across organized custom lines. The lines for pre-customs were long and divided into channels marked from left to right: Seaman, Myanmar, Foreigner, and Diplomat. As anybody would do, I (Rahul) lined up in the shortest line. Understandably so, the shortest line was for \"<em>Seaman (for Myanmar passport holders)</em>.\" I tried to play dumb when a person in the line told me I was standing in the wrong line, but minutes later, a customs official politely asked me to go to another line. Unfortunately, the foreigner line was the longest line. This was my first interaction with locals. So humble, honest, and helping, though I found it difficult to believe good intentions.</p>\r\n<p>Customs took at least 45 minutes. After many hours of travelling, it felt much longer. The paperwork was done by hand, and officials were by no means in a rush to get people through. After clearing customs we picked up our bags and were greeted by the hotel representative. Even though his English wasn’t great, his gestures and intensions were nearly priest-like. His vested interest was in ensuring that he got us through customs and safely to our car.</p>\r\n<p>As I sit sipping a hot coffee and munching on homemade butter cookies (evidence of the country’s colonial past), my memory is refreshed with the honesty of a SIM card salesperson we met after customs. Upon expressing our discomfort with how expensive the SIM cards were ($150 to rent one card for the month), he quietly gave us a tip as to where we could get cheaper SIM cards. All of us were shocked by his honesty. It’s very rare that a salesperson advises on a cheaper option instead of promoting his sale. We now have cards for one-fifth of his price.</p>\r\n<p>We enter our first week with a feeling of warmth and conversations with each other about keeping things real. I feel Yangon, Myanmar will do our souls and personalities a makeover—that we will become better people by learning trust from the people around us. We are truly lucky to be here.</p>\r\n<p><em>Author: Rahul Narang</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

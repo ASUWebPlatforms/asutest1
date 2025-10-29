@@ -1,0 +1,43 @@
+label: 'Membres du groupe'
+display:
+  default:
+    display_title: Maître
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Appliquer
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
+      pager:
+        options:
+          tags:
+            first: '« Premier'
+            last: 'Dernier »'
+          expose:
+            items_per_page_label: 'Éléments par page'
+            items_per_page_options_all_label: '- Tout -'
+            offset_label: Décalage
+      fields:
+        name:
+          label: Utilisateur
+        group_roles:
+          label: Rôles
+        changed:
+          label: 'Mis à jour'
+        created:
+          label: 'A rejoint'
+        edit_group_content:
+          text: 'Modifier le membre'
+        delete_group_content:
+          admin_label: 'Lien de retrait du membre'
+        dropbutton:
+          label: Actions
+      arguments:
+        gid:
+          exception:
+            title: Tout
+      title: Membres
+  page_1:
+    display_options:
+      menu:
+        title: Membres

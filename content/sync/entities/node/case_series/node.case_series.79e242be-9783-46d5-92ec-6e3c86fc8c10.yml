@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 79e242be-9783-46d5-92ec-6e3c86fc8c10
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:54:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Yanzhou Bids for Felix Resources'
+created:
+  -
+    value: '2016-07-17T20:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:54:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-11-0012
+body:
+  -
+    value: '<p><span>In November 2009, Aidan Quillan and his fellow investors were debating on what to do about their shares in Felix Resources (FLX AU), an Australian coal mining company. Yanzhou Coal Company of China (1171 HK) had been courting Felix for nearly a year, and had made a formal offer on August 13 worth roughly AUD 18 per share, curiously labeled the Scheme, which Felix’s board had endorsed. But many stockholders were not really sure the offer was a good one, and the stockholder vote was coming up on December 8. When Yanzhou had first approached Felix in December 2008, the offer had been AUD 20per share. But a lot had changed since then, including the price of coal, the Chinese economy, the value of the Australian dollar, and concerns over Chinese acquisitions of Australian mineral producers. Shareholders, including Aidan Quillan, were now being pressured to accept the Scheme.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-11-0012
+field_case_page_length:
+  -
+    value: '15 Pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 12dfc305-388d-49c1-b417-6c7b3dc8dba3
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: Australia
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d68145b-43d0-44a6-8737-19886e76cdbf
+field_teaching:
+  -
+    value: 'This case has been used in both MBA and Corporate Learning programs to examine the process of a friendly acquisition. The case combines a variety of valuation methods in a commodity industry (coal mining), with the political, legal, institutional, and market complexities of cross-border acquisitions.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.12dfc305-388d-49c1-b417-6c7b3dc8dba3
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.5d68145b-43d0-44a6-8737-19886e76cdbf

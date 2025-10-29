@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 07d29319-0f6b-4dd8-88a3-f3964aae167a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-03-31T15:20:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+title:
+  -
+    value: 'Thunderbird’s Dean Speaks Out On Climate Restoration at Davos 2020: Will trillion-tree opportunity really revive the green planet?'
+created:
+  -
+    value: '2020-03-31T15:20:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-31T15:20:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: und
+body:
+  -
+    value: '<p>Gary Gero is the chief sustainability officer for Los Angeles County, the most populous county in the entire United States. Home to more people than 41 of the 50 states in the US, the area has a metropolitan economy that is the third-biggest in the world.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-02-22T17:00:00-07:00'
+field_image_legacy:
+  -
+    alt: 'Will trillion-tree opportunity really revive the green planet?'
+    title: ''
+    width: 1000
+    height: 600
+    target_type: file
+    target_uuid: 8dae7c0d-47c1-4bfb-835b-f265b720d28a
+field_news_link:
+  -
+    uri: 'https://www.aljazeera.com/ajimpact/trillion-tree-opportunity-revive-green-planet-200123181702157.html'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+    file:
+      - file.image.8dae7c0d-47c1-4bfb-835b-f265b720d28a

@@ -1,0 +1,22 @@
+uuid: af2e6af9-2409-419d-807b-082c4067a9a7
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: case_series
+label: 'Case series'
+type: 'canonical_entities:node'
+pattern: 'thought-leadership/journals-case-series/case-series-listing/[node:title]'
+selection_criteria:
+  ceac98be-df86-466e-8c35-857df4f93e6f:
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: ceac98be-df86-466e-8c35-857df4f93e6f
+    context_mapping:
+      node: node
+    bundles:
+      case_series: case_series
+selection_logic: and
+weight: -5
+relationships: {  }

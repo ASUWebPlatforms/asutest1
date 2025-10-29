@@ -1,0 +1,45 @@
+label: မီဒီယာ
+display:
+  default:
+    display_title: Default
+    display_options:
+      title: မီဒီယာ
+      fields:
+        media_bulk_form:
+          action_title: 'လုပ်ဆောင်ရန် (လုပ်ဆောင်ချက်)'
+        bundle:
+          label: အမျိုးအစား
+        uid:
+          label: စာရေးသူ
+        status:
+          label: အခြေအနေ
+          settings:
+            format_custom_true: 'Publish လုပ်ပြီး'
+        operations:
+          label: လုပ်ဆောင်ချက်များ
+      pager:
+        options:
+          expose:
+            items_per_page_options_all_label: '- အားလုံး -'
+      exposed_form:
+        options:
+          reset_button_label: မူလပုံစံအတိုင်းပြန်ထားရန်
+      filters:
+        bundle:
+          expose:
+            label: အမျိုးအစား
+        status:
+          expose:
+            label: အမှန်
+          group_info:
+            group_items:
+              1:
+                title: 'Publish လုပ်ပြီး'
+        langcode:
+          expose:
+            label: ဘာသာစကား
+  media_page_list:
+    display_title: မီဒီယာ
+    display_options:
+      menu:
+        title: မီဒီယာ

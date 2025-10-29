@@ -1,0 +1,8 @@
+uuid: 6b87d62f-b747-4780-a0e3-708d3e78ee9d
+langcode: en
+status: true
+dependencies: {  }
+id: standard_card
+label: 'Standard Card'
+revision: 0
+description: ''

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 6bf14c08-de55-4889-a10f-0d2ee28bbbdc
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Piura: 2, Team: 2'
+created:
+  -
+    value: '2014-06-05T01:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/piura-2-team-2
+body:
+  -
+    value: "<p class=\"large\"><span><strong>A new week!</strong></span></p>\r\n<p><em>Lunes Junio 2:</em><span>&nbsp;The team was very productive using our local Starbuck’s wifi. With three blog posts up we were really excited to continue our productivity for the rest of the week. Monday proved promising.</span></p>\r\n<p>[[{\"fid\":\"3083\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Team Two\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Team Two\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Team Two\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><em>Martes Junio 3:</em>&nbsp;Another teammate is down and out, this time with a fever. While Danielle stayed home with a 103° Fahrenheit temperature, the remaining three attended an event awarding the first recipients of Procompite’s grants. Before the ceremony we took a team trip to&nbsp;<em>El Consultorio Medico</em>&nbsp;where Jennifer was able to describe in perfect English what was upsetting her stomach. After being examined by those who&nbsp;<em>solamente hablar en Españo</em>l, a consensus was reached and she was given a prescription.</p>\r\n<p><span>&nbsp;[[{\"fid\":\"3084\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Team Two\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Team Two\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Team Two\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>\r\n<p>During the ceremony the three team members witnessed a handful of businesses receive moto-trucks, water tanks, baskets and more from Procompite. They are now well-equipped to further develop their enterprises. This event was also a chance for the team to meet the recipients and learn how they would be using Procompite’s funds.</p>\r\n<p>[[{\"fid\":\"3085\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Team Two\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Team Two\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Team Two\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><span>After pictures, felicitations, and a trip to the university hangout&nbsp;</span><em>Listo</em><span>, the team returned to our apartment to begin in earnest our production of next week’s workshops.</span></p>\r\n<p>[[{\"fid\":\"3086\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Team Two\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Team Two\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Team Two\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><em>Miércoles Junio 4:&nbsp;</em><span>This morning was spent completing more workshops and the afternoon contained a strategy meeting with Mario, Gino and Marvin to discuss the upcoming weeks. Our 8-day workshop begins next week. We will be teaching government employees the importance of a business plan and how to write one in a train-the-trainer style. Danielle is feeling better and Jennifer has also recovered. All is well at&nbsp;</span><em>la casa de los ceibos.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

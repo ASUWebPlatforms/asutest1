@@ -1,0 +1,1375 @@
+uuid: a8d1f040-198a-4ed6-8e48-edcd4f4534a4
+langcode: en
+status: open
+dependencies:
+  module:
+    - tb_gdmi
+weight: 0
+open: null
+close: null
+uid: 1
+template: false
+archive: false
+id: non_corporate_gdmi
+title: 'Non-corporate GDMI'
+description: '<p>Non-corporate GDMI</p>'
+categories:
+  - 'GDMI Assessment'
+elements: |-
+  start_page:
+    '#type': webform_wizard_page
+    '#title': 'Start Page'
+    webform_invitation_code:
+      '#type': hidden
+      '#title': 'Invitation Code'
+      '#default_value': '[current-page:query:code:clear]'
+      '#description': 'Enter your personal invitation code (only applies if the field is not populated yet).'
+      '#maxlength': '64'
+      '#required': true
+    start_notice_message:
+      '#type': gdmi_notice_message
+      '#text': |
+        <h3>Digital Transformation</h3>
+
+        <p>The Global Digital Mindset Inventory is designed to measure your likelihood of success in helping lead digital transformation in a globally engaged organization. Digital transformation refers to the process of leveraging digital technology by an organization to enhance their client experience, internal operations, or business model through innovation, invention, or efficiency.</p>
+    start_page_text:
+      '#type': processed_text
+      '#text': |
+        <h3>Purpose</h3>
+
+        <p>The goal of this survey is to provide you with a comprehensive view of your Global Digital Mindset profile and to help you identify ways of enhancing your profile of Global Digital Mindset.</p>
+
+        <h3>Confidentiality</h3>
+
+        <p>Information you provide is confidential. You are the only recipient of the information about your profile. In addition, only the Thunderbird School of Global Management research team will have access to this information.</p>
+
+        <h3>Instructions</h3>
+
+        <p>Please answer each question, and please be as objective and honest as you can. It will take you approximately 10-15 minutes to complete the questionnaire.</p>
+  page_one:
+    '#type': webform_wizard_page
+    '#title': 'Page One'
+    reminder_notice_message:
+      '#type': gdmi_notice_message
+      '#text': |
+        <p><u><strong>Reminder:</strong></u> The Global Digital Mindset Inventory is designed to measure your likelihood of success in helping lead digital transformation in a globally engaged organization. Digital transformation refers to the process of leveraging digital technology by an organization to enhance their client experience, internal operations, or business model through innovation, invention, or efficiency.</p>
+    organization_ownership:
+      '#type': select
+      '#title': 'The ownership of your organization'
+      '#description': '<p><em>(<strong>Note:</strong> If not-employed, select “Not employed” below and you will be skipped to question 12.)</em></p>'
+      '#description_display': before
+      '#options':
+        not_employed: 'Not employed'
+        publicly_traded_on_stock_exchanges: 'Publicly traded on stock exchanges'
+        privately_held_enterprise: 'Privately held enterprise'
+        government_entity: 'Government entity'
+        not_for_profit_organization: 'Not-for-profit organization'
+      '#empty_option': 'Select answer'
+      '#required': true
+    organization_industry:
+      '#type': webform_select_other
+      '#title': 'The industry your organization primarily belongs to:'
+      '#options':
+        1: 'Accommodation, food services'
+        2: Advertising
+        3: 'Aerospace and defense'
+        4: 'Agriculture, forestry and fishing'
+        5: 'Arts and entertainment'
+        6: Construction
+        7: Education
+        8: 'Finance and insurance'
+        9: Healthcare
+        10: 'Information and communication'
+        11: 'Manufacturing, mining and quarrying, and other other industrial activities'
+        12: Media
+        13: 'Professional, scientific, technical, administrative and support services'
+        14: 'Public Administration, social work'
+        15: 'Real estate'
+        16: 'Transportation, logistics, storage'
+        17: 'Wholesale and retail trade'
+      '#empty_option': 'Select answer'
+      '#other__option_label': 'Other (Specify below this dropdown)'
+      '#other__title': 'If you selected “Other” please specify:'
+      '#other__placeholder': ''
+      '#required': true
+      '#states':
+        invisible:
+          ':input[name="organization_ownership"]':
+            value: not_employed
+    organization_employees_amount:
+      '#type': select
+      '#title': 'Number of employees in your current organization:'
+      '#options':
+        1: 'Less than 50 employees'
+        2: '50 to 99 employees'
+        3: '100 to 499 employees'
+        4: '500 to 999 employees'
+        5: '1000 to 5000 employees'
+        6: 'Over 5000 employees'
+      '#empty_option': 'Select answer'
+      '#required': true
+      '#states':
+        invisible:
+          ':input[name="organization_ownership"]':
+            value: not_employed
+    current_position:
+      '#type': webform_select_other
+      '#title': 'Your current position:'
+      '#options':
+        1: 'Individual contributor'
+        2: Professional/non-manager
+        3: 'Supervisory level manager'
+        4: 'Middle level manager'
+        5: 'Upper-level manager'
+        6: Entrepreneur/owner
+        7: Self-employed
+        8: Teacher
+      '#empty_option': 'Select answer'
+      '#other__option_label': 'Other (Specify below this dropdown)'
+      '#other__title': 'If you selected “Other” please specify:'
+      '#other__placeholder': ''
+      '#required': true
+      '#states':
+        invisible:
+          ':input[name="organization_ownership"]':
+            value: not_employed
+    job_category:
+      '#type': select
+      '#title': 'Please select the job category that best describes your group:'
+      '#options':
+        1: Accounting
+        2: 'Administrative services'
+        3: 'Architectural and constructional services'
+        4: 'Communication and public affairs'
+        5: Consulting
+        6: 'Customer service'
+        7: Engineering
+        8: Finance
+        9: HR
+        10: International
+        11: IT
+        12: Legal
+        13: 'Logistics/Supply Chain'
+        14: 'Marketing and sales'
+        15: 'Manufacturing and operations'
+        16: 'Medical services'
+        17: 'Project management'
+        18: 'R&D'
+        19: Teaching
+        20: Other
+      '#empty_option': 'Select answer'
+      '#required': true
+      '#states':
+        invisible:
+          ':input[name="organization_ownership"]':
+            value: not_employed
+  page_two:
+    '#type': webform_wizard_page
+    '#title': 'Page Two'
+    '#states':
+      invisible:
+        ':input[name="organization_ownership"]':
+          value: not_employed
+    current_function_division_business_corporate_office:
+      '#type': textfield
+      '#title': 'In what function/division/business/corporate office do you currently work?'
+      '#placeholder': 'Type here'
+      '#required': true
+    digital_transformation_in_organization:
+      '#type': select
+      '#title': 'How extensive is digital transformation in your organization?'
+      '#options':
+        1: 'Very limited'
+        2: 'Somewhat limited'
+        3: 'Somewhat extensive'
+        4: Extensive
+        5: 'Very extensive'
+      '#empty_option': 'Select answer'
+      '#required': true
+    job_digital_transform_impact:
+      '#type': select
+      '#title': 'To what extent is your current job impacted by digital transformation?'
+      '#options':
+        1: 'Not at all impacted'
+        2: 'Somewhat impacted'
+        3: 'Largely impacted'
+        4: 'Substantially impacted'
+      '#empty_option': 'Select answer'
+      '#required': true
+    success_organization_digital_transformation:
+      '#type': select
+      '#title': 'In your opinion, how successful is the organization’s digital transformation so far?'
+      '#options':
+        1: 'Very unsuccessful'
+        2: Unsuccessful
+        3: 'Neither successful nor unsuccessful'
+        4: Successful
+        5: 'Very successful'
+      '#empty_option': 'Select answer'
+      '#required': true
+    globally_active_organization:
+      '#type': select
+      '#title': 'How globally active is your organization?'
+      '#options':
+        1: 'Not at all active'
+        2: 'Little global activity'
+        3: 'Some global activity'
+        4: 'Moderate global activity'
+        5: 'Extensive global activity'
+      '#empty_option': 'Select answer'
+      '#required': true
+  page_three:
+    '#type': webform_wizard_page
+    '#title': 'Page Three'
+    virtual_interaction_time:
+      '#type': select
+      '#title': 'In your current role, to what extent do you spend time in virtual interaction (phone, email, Zoom, etc.) with coworkers, clients, partners, suppliers, etc. who are from other parts of the world?'
+      '#options':
+        1: 'Not at all'
+        2: 'Once in a while'
+        3: Sometimes
+        4: 'Fairly often'
+        5: 'Frequently, if not always'
+      '#empty_option': 'Select answer'
+      '#required': true
+      '#states':
+        invisible:
+          ':input[name="organization_ownership"]':
+            value: not_employed
+    age:
+      '#type': select
+      '#title': 'Your age:'
+      '#options':
+        1: 'Under 25'
+        2: 25-39
+        3: 40-54
+        4: '55 and above'
+      '#required': true
+    highest_education_level:
+      '#type': select
+      '#title': 'Your highest level of education:'
+      '#options':
+        1: 'High school graduate'
+        2: 'Associate degree'
+        3: 'Some college courses'
+        4: 'Bachelor’s degree'
+        5: 'Master’s degree'
+        6: 'Doctoral degree'
+      '#empty_option': 'Select answer'
+      '#required': true
+    gender:
+      '#type': select
+      '#title': 'Your gender:'
+      '#options':
+        1: Female
+        2: Male
+        3: Other
+        4: 'Prefer not to say'
+      '#empty_option': 'Select answer'
+      '#required': true
+    country_residence:
+      '#type': webform_address
+      '#title': 'Your country of residence:'
+      '#required': true
+      '#address__access': false
+      '#address_2__access': false
+      '#city__access': false
+      '#state_province__access': false
+      '#postal_code__access': false
+      '#country__title_display': invisible
+  page_four:
+    '#type': webform_wizard_page
+    '#title': 'Page Four'
+    page_four_radios:
+      '#type': radios_container
+      '#title': 'To what extent do you (or are you):'
+      '#total_keys': 5
+      '#key_1': 'Indicates -<br>Not at all'
+      '#key_2': 'Indicates -<br>Small extent'
+      '#key_3': 'Indicates -<br>Moderate extent'
+      '#key_4': 'Indicates -<br>Large extent'
+      '#key_5': 'Indicates -<br>Very large extent'
+      solving_skills:
+        '#type': radios
+        '#title': 'Have strong analytical and problem solving skills.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1095'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1095">Capital</a>'
+      explain_complex_issues:
+        '#type': radios
+        '#title': 'Take complex issues and explain the main points simply and understandably.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1095'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1095">Capital</a>'
+      alternative_solutions:
+        '#type': radios
+        '#title': 'Suggest alternative solutions when something is not going well.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1095'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1095">Capital</a>'
+      abstract_ideas:
+        '#type': radios
+        '#title': 'Understand abstract ideas.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1095'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1095">Capital</a>'
+      complex_concepts:
+        '#type': radios
+        '#title': 'Grasp complex concepts quickly.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1095'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1095">Capital</a>'
+      digital_transformation_opportunities:
+        '#type': radios
+        '#title': 'Know the opportunities created by digital transformation in the organization.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1125'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1125">Capital</a>'
+      digital_transformation_potential_impact:
+        '#type': radios
+        '#title': 'Know the potential impact of digital transformation on client experience, internal operations, and/or the organization’s business model.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1125'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1125">Capital</a>'
+      digital_transformation_impact_job_losses:
+        '#type': radios
+        '#title': 'Know the potential impact of digital transformation on job losses in the organization.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1125'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1125">Capital</a>'
+      basics_advanced_technologies:
+        '#type': radios
+        '#title': 'Know the basics of advanced technologies such as Artificial Intelligence and virtual reality.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1125'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1125">Capital</a>'
+      communicate_effective_digital_transform:
+        '#type': radios
+        '#title': 'Know how to communicate an effective vision of digital transformation.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1125'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1125">Capital</a>'
+  page_five:
+    '#type': webform_wizard_page
+    '#title': 'Page Five'
+    page_five_radios:
+      '#type': radios_container
+      '#title': 'To what extent do you (or are you):'
+      '#total_keys': 5
+      '#key_1': 'Indicates -<br>Not at all'
+      '#key_2': 'Indicates -<br>Small extent'
+      '#key_3': 'Indicates -<br>Moderate extent'
+      '#key_4': 'Indicates -<br>Large extent'
+      '#key_5': 'Indicates -<br>Very large extent'
+      business_strategies:
+        '#type': radios
+        '#title': 'Know about business strategies for expanding globally.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1093'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1093">Capital</a>'
+      local_markets:
+        '#type': radios
+        '#title': 'Know and understand local markets in several parts of the world.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1093'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1093">Capital</a>'
+      sourcing_globally:
+        '#type': radios
+        '#title': 'Know how companies are sourcing globally.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1093'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1093">Capital</a>'
+      companies_segment:
+        '#type': radios
+        '#title': 'Know how companies segment their global customers to get best access and greater market share.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1093'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1093">Capital</a>'
+      create_brand:
+        '#type': radios
+        '#title': 'Know how to create brand recognition in several countries.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1093">Capital</a>'
+        '#capital_taxonomy': '1093'
+      assess_risks:
+        '#type': radios
+        '#title': 'Know how to assess risks of doing business internationally.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1093'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1093">Capital</a>'
+      suppliers_strengths_weaknesses:
+        '#type': radios
+        '#title': 'Understand the strengths and weaknesses of suppliers in different countries.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1093'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1093">Capital</a>'
+      geography_history_persons:
+        '#type': radios
+        '#title': 'Know about the geography, history, and important persons of several countries.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1094'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1094">Capital</a>'
+      major_religions:
+        '#type': radios
+        '#title': 'Know about the major religions of the world and their influence on society.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1094'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1094">Capital</a>'
+      political_cultural_structure:
+        '#type': radios
+        '#title': 'Know the political structure and cultural values of several countries.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1094'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1094">Capital</a>'
+  page_six:
+    '#type': webform_wizard_page
+    '#title': 'Page Six'
+    page_six_radios:
+      '#type': radios_container
+      '#title': 'To what extent do you (or are you):'
+      '#total_keys': 5
+      '#key_1': 'Indicates -<br>Not at all'
+      '#key_2': 'Indicates -<br>Small extent'
+      '#key_3': 'Indicates -<br>Moderate extent'
+      '#key_4': 'Indicates -<br>Large extent'
+      '#key_5': 'Indicates -<br>Very large extent'
+      political_economic_ramifications:
+        '#type': radios
+        '#title': 'Discuss the economic and political ramifications of world events with friends and colleagues.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1094'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1094">Capital</a>'
+      learn_historical_issues:
+        '#type': radios
+        '#title': 'Spend time learning and understanding the deeper historical issues involved in world events.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1094'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1094">Capital</a>'
+      stay_up_to_date:
+        '#type': radios
+        '#title': 'Stay up-to-date on world news and events.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1094'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1094">Capital</a>'
+      encourage_employees_capabilities:
+        '#type': radios
+        '#title': 'Know how to encourage employees to expand their capabilities.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1127'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1127">Capital</a>'
+      encourage_employee_empowerment:
+        '#type': radios
+        '#title': 'Know how to encourage employee empowerment.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1127'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1127">Capital</a>'
+      encourage_constructive_debate:
+        '#type': radios
+        '#title': 'Know how to encourage constructive debate.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1127'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1127">Capital</a>'
+      help_build_trust_steps:
+        '#type': radios
+        '#title': 'Know what steps to take to help build trust.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1127'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1127">Capital</a>'
+      encourage_continuous_learning:
+        '#type': radios
+        '#title': 'Know how to encourage continuous learning among employees.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1127'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1127">Capital</a>'
+      exploring_different_parts_of_the_world:
+        '#type': radios
+        '#title': 'Enjoy exploring different parts of the world.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1085'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1085">Capital</a>'
+      appreciate_and_enjoy_art_forms:
+        '#type': radios
+        '#title': 'Appreciate and enjoy art forms of several countries.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1085'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1085">Capital</a>'
+  page_seven:
+    '#type': webform_wizard_page
+    '#title': 'Page Seven'
+    page_seven_radios:
+      '#type': radios_container
+      '#title': 'To what extent do you (or are you):'
+      '#total_keys': 5
+      '#key_1': "Indicates -<br>\LNot at all"
+      '#key_2': 'Indicates -<br>Small extent'
+      '#key_3': 'Indicates -<br>Moderate extent'
+      '#key_4': 'Indicates -<br>Large extent'
+      '#key_5': 'Indicates -<br>Very large extent'
+      know_people:
+        '#type': radios
+        '#title': 'Enjoy spending time getting to know people from other parts of the world.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1085'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1085">Capital</a>'
+      different_country:
+        '#type': radios
+        '#title': 'Enjoy or think you would enjoy living or working in a different country.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1085'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1085">Capital</a>'
+      like_travel:
+        '#type': radios
+        '#title': 'Like to travel.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1085'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1085">Capital</a>'
+      learn_cultures:
+        '#type': radios
+        '#title': 'Want to learn about other cultures and their customs.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1085'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1085">Capital</a>'
+      work_with_people:
+        '#type': radios
+        '#title': 'Know how to work well with people from different parts of the world.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1090'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1090">Capital</a>'
+      cross_cultural_insight:
+        '#type': radios
+        '#title': 'Think about how experiences with people from other cultures provide insight into your own life.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1090'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1090">Capital</a>'
+      nonverbal_expressions:
+        '#type': radios
+        '#title': 'Understand the nonverbal expressions of people of several cultures.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1090'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1090">Capital</a>'
+      cultures_emotionally_connect:
+        '#type': radios
+        '#title': 'Emotionally connect to colleagues and friends from other cultures.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1090'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1090">Capital</a>'
+      express_yourself:
+        '#type': radios
+        '#title': 'Properly express yourself with body language anywhere in the world.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1090'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1090">Capital</a>'
+      engage_people_different_cultures:
+        '#type': radios
+        '#title': 'Have strong ability to engage people of different cultures to work together to achieve an objective.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1090'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1090">Capital</a>'
+  page_eight:
+    '#type': webform_wizard_page
+    '#title': 'Page Eight'
+    page_eight_radios:
+      '#type': radios_container
+      '#title': 'To what extent do you (or are you):'
+      '#total_keys': 5
+      '#key_1': 'Indicates -<br>Not at all'
+      '#key_2': 'Indicates -<br>Small extent'
+      '#key_3': 'Indicates -<br>Moderate extent'
+      '#key_4': 'Indicates- <br>Large extent'
+      '#key_5': 'Indicates -<br>Very large extent'
+      listen_others:
+        '#type': radios
+        '#title': 'Listen carefully to what others have to say.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1089'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1089">Capital</a>'
+      work_effectively:
+        '#type': radios
+        '#title': 'Work effectively with people who are very different from you.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1089'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1089">Capital</a>'
+      willingly_coordinate:
+        '#type': radios
+        '#title': 'Willingly coordinate your activities with others.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1089'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1089">Capital</a>'
+      diplomacy_known:
+        '#type': radios
+        '#title': 'Believe you are known for your diplomacy.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1089">Capital</a>'
+        '#capital_taxonomy': '1089'
+      coworkers_regard:
+        '#type': radios
+        '#title': 'Believe you are regarded by your coworkers as collaborative.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1089">Capital</a>'
+        '#capital_taxonomy': '1089'
+      experience_negotiating:
+        '#type': radios
+        '#title': 'Have experience negotiating contracts/agreements in cultures other than your own.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1091'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1091">Capital</a>'
+      influential_connections:
+        '#type': radios
+        '#title': 'Get contacted by others because of your influence and relationships to other influential people.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1091">Capital</a>'
+        '#capital_taxonomy': '1091'
+      respected_by_others:
+        '#type': radios
+        '#title': 'Believe you are respected by others for your leadership.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1091">Capital</a>'
+        '#capital_taxonomy': '1091'
+      build_digital_transformation_mechanisms:
+        '#type': radios
+        '#title': 'Know how to build mechanisms to manage digital transformation.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1126'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1126">Capital</a>'
+      know_middle_management_role:
+        '#type': radios
+        '#title': 'Know the role of middle management in digital transformation.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1126'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1126">Capital</a>'
+  page_nine:
+    '#type': webform_wizard_page
+    '#title': 'Page Nine'
+    page_nine_radios:
+      '#type': radios_container
+      '#title': 'To what extent do you (or are you):'
+      '#total_keys': 5
+      '#key_1': 'Indicates -<br>Not at all'
+      '#key_2': 'Indicates -<br>Small extent'
+      '#key_3': 'Indicates -<br>Moderate extent'
+      '#key_4': 'Indicates -<br>Large extent'
+      '#key_5': 'Indicates -<br>Very large extent'
+      information_technology_group_role:
+        '#type': radios
+        '#title': 'Know the role of the Information Technology group in digital transformation.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1126'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1126">Capital</a>'
+      reasons_potential_resistance:
+        '#type': radios
+        '#title': 'Know the reasons for potential resistance to digital transformation.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1126'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1126">Capital</a>'
+      help_employees_feel_confident_and_comfortable:
+        '#type': radios
+        '#title': 'Know how to help employees feel confident and comfortable in digital transformation.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1126'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1126">Capital</a>'
+      setting_comfortable:
+        '#type': radios
+        '#title': 'Feel comfortable in any setting.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1087">Capital</a>'
+        '#capital_taxonomy': '1087'
+      handle_whatever:
+        '#type': radios
+        '#title': 'Feel able to handle whatever happens.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1087">Capital</a>'
+        '#capital_taxonomy': '1087'
+      crowd_speaking:
+        '#type': radios
+        '#title': 'Feel at ease speaking in front of a crowd.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1087'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1087">Capital</a>'
+      comfortable_not_in_control:
+        '#type': radios
+        '#title': 'Feel comfortable even though you are not in control of a situation.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1087'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1087">Capital</a>'
+      energetic_person:
+        '#type': radios
+        '#title': 'Believe you are regarded as an energetic person.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1087">Capital</a>'
+        '#capital_taxonomy': '1087'
+      challenge_yourself:
+        '#type': radios
+        '#title': 'Challenge yourself in new and different ways.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1086'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1086">Capital</a>'
+      feel_crisis_occur:
+        '#type': radios
+        '#title': 'Feel energized and engaged when crises occur.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1086'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1086">Capital</a>'
+  page_ten:
+    '#type': webform_wizard_page
+    '#title': 'Page Ten'
+    page_ten_radios:
+      '#type': radios_container
+      '#title': 'To what extent do you (or are you):'
+      '#total_keys': 5
+      '#key_1': 'Indicates -<br>Not at all'
+      '#key_2': 'Indicates -<br>Small extent'
+      '#key_3': 'Indicates -<br>Moderate extent'
+      '#key_4': 'Indicates -<br>Large extent'
+      '#key_5': 'Indicates -<br>Very large extent'
+      unpredictable_things:
+        '#type': radios
+        '#title': 'Like it when things are unpredictable.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1086'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1086">Capital</a>'
+      test_abilities_limits:
+        '#type': radios
+        '#title': 'Test the limits of your abilities.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#capital_taxonomy': '1086'
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1086">Capital</a>'
+      take_risks:
+        '#type': radios
+        '#title': 'Feel willing to take risks.'
+        '#options':
+          1: '1'
+          2: '2'
+          3: '3'
+          4: '4'
+          5: '5'
+        '#required': true
+        '#format': custom
+        '#format_html': '{{ value }} <a href="/taxonomy/term/1086">Capital</a>'
+        '#capital_taxonomy': '1086'
+css: ''
+javascript: ''
+settings:
+  ajax: false
+  ajax_scroll_top: form
+  ajax_progress_type: ''
+  ajax_effect: ''
+  ajax_speed: null
+  page: true
+  page_submit_path: ''
+  page_confirm_path: ''
+  page_theme_name: ''
+  form_title: source_entity_webform
+  form_submit_once: false
+  form_open_message: ''
+  form_close_message: ''
+  form_exception_message: ''
+  form_previous_submissions: false
+  form_confidential: false
+  form_confidential_message: ''
+  form_disable_remote_addr: false
+  form_convert_anonymous: false
+  form_prepopulate: false
+  form_prepopulate_source_entity: false
+  form_prepopulate_source_entity_required: false
+  form_prepopulate_source_entity_type: ''
+  form_unsaved: false
+  form_disable_back: false
+  form_submit_back: false
+  form_disable_autocomplete: false
+  form_novalidate: false
+  form_disable_inline_errors: false
+  form_required: false
+  form_autofocus: false
+  form_details_toggle: false
+  form_reset: false
+  form_access_denied: default
+  form_access_denied_title: ''
+  form_access_denied_message: ''
+  form_access_denied_attributes: {  }
+  form_file_limit: ''
+  form_attributes: {  }
+  form_method: ''
+  form_action: ''
+  share: false
+  share_node: false
+  share_theme_name: ''
+  share_title: true
+  share_page_body_attributes: {  }
+  submission_label: ''
+  submission_exception_message: ''
+  submission_locked_message: ''
+  submission_log: false
+  submission_excluded_elements: {  }
+  submission_exclude_empty: false
+  submission_exclude_empty_checkbox: false
+  submission_views: {  }
+  submission_views_replace: {  }
+  submission_user_columns: {  }
+  submission_user_duplicate: false
+  submission_access_denied: default
+  submission_access_denied_title: ''
+  submission_access_denied_message: ''
+  submission_access_denied_attributes: {  }
+  previous_submission_message: ''
+  previous_submissions_message: ''
+  autofill: false
+  autofill_message: ''
+  autofill_excluded_elements: {  }
+  wizard_progress_bar: false
+  wizard_progress_pages: false
+  wizard_progress_percentage: true
+  wizard_progress_link: false
+  wizard_progress_states: false
+  wizard_start_label: ''
+  wizard_preview_link: false
+  wizard_confirmation: false
+  wizard_confirmation_label: ''
+  wizard_auto_forward: true
+  wizard_auto_forward_hide_next_button: false
+  wizard_keyboard: true
+  wizard_track: index
+  wizard_prev_button_label: ''
+  wizard_next_button_label: ''
+  wizard_toggle: false
+  wizard_toggle_show_label: ''
+  wizard_toggle_hide_label: ''
+  wizard_page_type: container
+  wizard_page_title_tag: h2
+  preview: 0
+  preview_label: ''
+  preview_title: ''
+  preview_message: ''
+  preview_attributes: {  }
+  preview_excluded_elements: {  }
+  preview_exclude_empty: true
+  preview_exclude_empty_checkbox: false
+  draft: authenticated
+  draft_multiple: false
+  draft_auto_save: true
+  draft_saved_message: ''
+  draft_loaded_message: ''
+  draft_pending_single_message: ''
+  draft_pending_multiple_message: ''
+  confirmation_type: url
+  confirmation_url: /assessment/confirmation
+  confirmation_title: ''
+  confirmation_message: 'Thank you for completing your assessment - you can now view your results.'
+  confirmation_attributes: {  }
+  confirmation_back: true
+  confirmation_back_label: ''
+  confirmation_back_attributes: {  }
+  confirmation_exclude_query: true
+  confirmation_exclude_token: true
+  confirmation_update: false
+  limit_total: null
+  limit_total_interval: null
+  limit_total_message: ''
+  limit_total_unique: false
+  limit_user: null
+  limit_user_interval: null
+  limit_user_message: ''
+  limit_user_unique: false
+  entity_limit_total: null
+  entity_limit_total_interval: null
+  entity_limit_user: null
+  entity_limit_user_interval: null
+  purge: draft
+  purge_days: 1
+  results_disabled: false
+  results_disabled_ignore: false
+  results_customize: false
+  token_view: false
+  token_update: false
+  token_delete: false
+  serial_disabled: false
+access:
+  create:
+    roles:
+      - authenticated
+    users: {  }
+    permissions: {  }
+  view_any:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  update_any:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  delete_any:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  purge_any:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  view_own:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  update_own:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  delete_own:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  administer:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  test:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  configuration:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+handlers:
+  gdmi_assessment_handler:
+    id: gdmi_assessment
+    handler_id: gdmi_assessment_handler
+    label: 'GDMI assessment handler'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings: {  }
+variants: {  }

@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: 4b11aeda-42cf-4092-a379-1f86fed1951c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:30:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'General Electric''s Corporate Strategy'
+created:
+  -
+    value: '2016-07-15T23:45:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:30:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-14-0011
+body:
+  -
+    value: '<p><span>For many years, GE has been held up as the exception to two arguments: (1) that related diversification strategies outperform unrelated diversification strategies, and (2) that conglomerates are no longer a viable organizational form in an era of outsourcing, focus, and shareholder value maximization. Whereas many formerly diversified firms have become narrower and more focused with their corporate strategies, GE continues to buy and sell businesses and operates an extremely complex set of businesses. This case provides a vehicle for examining the strategic rationale behind GE’s corporate strategy and complex diversification. The core arguments for and against unrelated diversification can be linked to the GE strategy.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-14-0011
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+field_teaching:
+  -
+    value: 'This case can be used in a strrategy class to discus corporate strategy. It can also be used in more specialized courses dealing with corporate strategy or mergers and acquisitions.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b

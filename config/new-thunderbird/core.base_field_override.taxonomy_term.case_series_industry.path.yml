@@ -1,0 +1,20 @@
+uuid: 64330e70-470e-465a-bab4-2dee77372173
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.case_series_industry
+  module:
+    - path
+id: taxonomy_term.case_series_industry.path
+field_name: path
+entity_type: taxonomy_term
+bundle: case_series_industry
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

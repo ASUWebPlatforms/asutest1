@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: f1871c58-9a21-4b7a-a803-14955c20604c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:02:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Can Sales Performance Be Optimized?'
+created:
+  -
+    value: '2018-08-14T18:24:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:02:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/can-sales-performance-be-optimized
+body:
+  -
+    value: "<p><strong>New research says yes. Thunderbird Professor of Marketing Dr.&nbsp;Seigyoung&nbsp;Auh reveals the connection between how a sales team is managed and its salespeople’s performance. The bottom line: Performance can be optimized by ensuring a fit between management styles and learning approaches – based on the particular circumstances of the sale.</strong></p>\r\n<p>Maybe it takes a special personality to close the big deal. Indeed, pop culture is full of images of ‘natural born’ salespeople. But according to new research from Thunderbird Professor of Marketing <a href=\"https://thunderbird.asu.edu/seigyoung-auh\" target=\"_blank\">Dr.&nbsp;Seigyoung&nbsp;Auh</a>, published in the May 2018 Journal of Marketing, there’s far more science to sales than the gift of gab.</p>\r\n<p>So, there’s much more that a sales leader can do to help a salesperson be successful than previously thought.</p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 260px;\" class=\"caption-inner\">[[{\"fid\":\"17008\",\"view_mode\":\"default\",\"fields\":{\"alt\":\"Dr. Seigyoung Auh\",\"title\":\"Dr. Seigyoung Auh\",\"style\":\"margin: 10px; vertical-align: baseline;\",\"class\":\"pull-left\",\"data-delta\":\"1\",\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Dr. Seigyoung Auh\",\"field_file_image_title_text[und][0][value]\":\"Dr. Seigyoung Auh\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"alt\":\"Dr. Seigyoung Auh\",\"title\":\"Dr. Seigyoung Auh\",\"style\":\"margin: 10px; vertical-align: baseline;\",\"class\":\"pull-left\",\"data-delta\":\"1\",\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Dr. Seigyoung Auh\",\"field_file_image_title_text[und][0][value]\":\"Dr. Seigyoung Auh\"}},\"attributes\":{\"alt\":\"Dr. Seigyoung Auh\",\"title\":\"Dr. Seigyoung Auh\",\"style\":\"margin-top: 10px; margin-bottom: 10px; vertical-align: baseline;\",\"class\":\"pull-left media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Dr. Seigyoung Auh, Professor of Marketing, Thunderbird School of Global Management</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>While all capable salespeople can talk about their product’s features and business benefits, it takes a more scientific approach for salespeople to learn and adapt to customers with a variety of purchase-decision characteristics. <a href=\"http://journals.ama.org/doi/10.1509/jm.16.0346?code=amma-site\" target=\"_blank\">Dr. Auh's Journal of Marketing paper</a>, co-authored with three researchers from <a href=\"https://business.leeds.ac.uk/\" target=\"_blank\">Leeds University Business School</a>, explores practical implications for sales organizations and managers on what actions can be taken to encourage salespeople to do exactly that.&nbsp;</p>\r\n<blockquote>\r\n<p><i>“While all capable salespeople can talk about their product’s features and business benefits,</i><i>there’s far more science to sales than the gift of gab.”&nbsp;</i><i>–&nbsp;<a href=\"https://ctt.ac/30iYa\" target=\"_blank\">Click to tweet</a></i><i><br></i></p>\r\n</blockquote>\r\n<p>Sales often involves independent, entrepreneurial, and autonomous tasks and responsibilities. But salespeople nevertheless work within systems of “control” – designed to&nbsp;enable them to successfully sell to a wide (and ever widening) variety of customers in a wide (and ever widening) variety of conditions.</p>\r\n<h3>The Missing Link</h3>\r\n<p>Dr. Auh and his co-authors set out to better understand the relationship between sales control – how salespeople are monitored, directed, and evaluated –&nbsp;and salesperson performance. Until now, the relationship has been something of a mystery, with sales leaders relying largely on instinct and intuition to optimize performance or, often, simply leaving those ‘natural born’ salespeople to do their thing.</p>\r\n<p>In their research, Dr. Auh and his co-authors propose that learning style is the missing link. The researchers found linkages between particular types of controls, particular types of learning, and salesperson performance.&nbsp;“Because sales controls are immensely under the discretion of the organization or manager,” they write, “we believe that this research has many important implications on how such mechanisms can be used to influence different types of learning, which in turn is crucial for improved performance.”</p>\r\n<h3>Taming the ‘Lone Wolf’</h3>\r\n<p>Salespeople are often considered ‘lone wolves’ because in the field, they typically exercise a significant amount of flexibility in terms of how they carry out their tasks. Yet, it’s important that their behaviors and results are aligned with the goals of the organization, Dr. Auh explains. And furthermore, that even “natural born” sales leaders can learn to work with different types of customers in different types of conditions.</p>\r\n<p>To this end, Dr. Auh and his fellow researchers propose two different kinds of learning: Exploratory learning&nbsp;is behavior-based on entrepreneurial actions focused on experimenting with, searching for, and discovering novel, creative, and innovative selling techniques.&nbsp;Exploitative learning&nbsp;is behavior that enhances productivity and efficiency by adhering to proven methods of selling and leveraging existing knowledge and experience, minimal deviation from routine selling.</p>\r\n<blockquote>\r\n<p><i>“Prof. Seigyoung Auh says even natural born sales leaders can learn to work with different types of customers in different types of conditions.</i><i>” –&nbsp;<a href=\"https://ctt.ac/c2048\" target=\"_blank\">Click to tweet</a></i><i><br></i></p>\r\n</blockquote>\r\n<p>Each type of learning is most appropriate in a particular set of circumstances and with a particular type of customer. In general, when a salesperson is selling to an individual decision maker, using an exploratory style is more likely to pay off. However, in complex buying situations, such as new purchases involving multiple people with different roles, an exploitative approach might be most effective.</p>\r\n<h3>Modifying Natural Inclination</h3>\r\n<p>Even if a salesperson’s natural disposition is exploratory or exploitative, it’s possible to learn how to use the other approach. That’s where the role of sales management comes in.&nbsp;Dr. Auh explains, “As my research shows, although a salesperson may be chronically more inclined to gravitate towards one type of learning, whether he or she adopts one learning or another can be significantly influenced by the types of controls that an organization or manager uses.”&nbsp;</p>\r\n<blockquote>\r\n<p><i>“Learning style may be the missing link to ‘better understanding the relationship between sales control – how salespeople are monitored, directed, and evaluated –&nbsp;and sales performance.’</i><i>” –&nbsp;<a href=\"https://ctt.ac/d253v\" target=\"_blank\">Click to tweet</a></i><i><br></i></p>\r\n</blockquote>\r\n<p>Capability controls emphasize a salesperson’s capabilities over his or her results. When paired with exploratory learning, this type of control can boost a salesperson’s performance. When the control system is designed around capabilities, it allows salespeople to risk failure, which gives them the freedom to explore – and innovate. This kind of control is optimal when “the objective is to have salespeople engage in experimental, creative, risk-taking, and bold endeavors to address customers’ needs in different and novel ways,” the researchers write.</p>\r\n<p>In contrast,&nbsp;outcome controls emphasize a salesperson’s results over capabilities. When paired with exploitative learning, this type of control can boost a salesperson’s performance. When the control system is designed around outcomes, it encourages salespeople to&nbsp;rely on proven and well-established methods and procedures. Conversely, outcome controls can decrease a salesperson’s performance when paired with exploratory learning, as the ‘mandates’ contradict each other (fixed outcomes on one hand but flexible methods on the other).</p>\r\n<h3>Sales Matters</h3>\r\n<p>“An effective sales force is an indispensable asset,” write Auh and his co-authors. Indeed, it’s hard to imagine any organization existing without effective sales. And organizations invest heavily in it; U.S. companies alone spend some $20 billion a year on sales training.</p>\r\n<p>Now organizations can optimize that indispensable asset in which they’ve invested so heavily - by fitting sales controls and learning styles to the particular circumstances of the sale.&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'New research says yes. Thunderbird Professor of Marketing Dr. Seigyoung Auh reveals the connection between how a sales team is managed and its salespeople’s performance. The bottom line: Performance can be optimized by ensuring a fit between management styles and learning approaches – based on the particular circumstances of the sale.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1280
+    height: 753
+    target_type: file
+    target_uuid: 145e5d04-0ab7-4007-889c-c031dcd40c66
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.145e5d04-0ab7-4007-889c-c031dcd40c66
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

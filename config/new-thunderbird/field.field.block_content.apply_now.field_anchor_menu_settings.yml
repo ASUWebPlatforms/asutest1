@@ -1,0 +1,145 @@
+uuid: dd7c68db-99c2-40ad-8f35-08f8a8775f03
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.apply_now
+    - field.storage.block_content.field_anchor_menu_settings
+    - paragraphs.paragraphs_type.anchor_menu_settings
+  module:
+    - entity_reference_revisions
+id: block_content.apply_now.field_anchor_menu_settings
+field_name: field_anchor_menu_settings
+entity_type: block_content
+bundle: apply_now
+label: 'Anchor Menu Settings'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      anchor_menu_settings: anchor_menu_settings
+    negate: 0
+    target_bundles_drag_drop:
+      accordion_panel:
+        weight: 40
+        enabled: false
+      anchor_menu_settings:
+        weight: 41
+        enabled: true
+      blockquote:
+        weight: 42
+        enabled: false
+      card:
+        weight: 43
+        enabled: false
+      card_degree:
+        weight: 44
+        enabled: false
+      card_event:
+        weight: 45
+        enabled: false
+      card_group_default:
+        weight: 46
+        enabled: false
+      card_group_degree:
+        weight: 47
+        enabled: false
+      card_group_story:
+        weight: 48
+        enabled: false
+      card_group_with_icon:
+        weight: 49
+        enabled: false
+      card_media:
+        weight: 50
+        enabled: false
+      card_story:
+        weight: 51
+        enabled: false
+      card_with_icon:
+        weight: 52
+        enabled: false
+      class_profile_left_column:
+        weight: 53
+        enabled: false
+      class_profile_right_column:
+        weight: 54
+        enabled: false
+      cta:
+        weight: 55
+        enabled: false
+      download:
+        weight: 56
+        enabled: false
+      flip_card:
+        weight: 57
+        enabled: false
+      gallery_image:
+        weight: 58
+        enabled: false
+      image:
+        weight: 59
+        enabled: false
+      link_list:
+        weight: 60
+        enabled: false
+      ranking:
+        weight: 61
+        enabled: false
+      signpost:
+        weight: 62
+        enabled: false
+      signpost_image:
+        weight: 63
+        enabled: false
+      signpost_less_content:
+        weight: 64
+        enabled: false
+      signpost_quote:
+        weight: 65
+        enabled: false
+      signpost_w_2_images:
+        weight: 67
+        enabled: false
+      signpost_w_icon:
+        weight: 68
+        enabled: false
+      signpost_w_links:
+        weight: 69
+        enabled: false
+      signpost_w_o_image:
+        weight: 70
+        enabled: false
+      signpost_with_modal_links:
+        weight: 66
+        enabled: false
+      tab_content:
+        weight: 71
+        enabled: false
+      tab_content_horizontal:
+        weight: 72
+        enabled: false
+      teaching:
+        weight: 73
+        enabled: false
+      teaching_semester:
+        weight: 74
+        enabled: false
+      testimonial:
+        weight: 75
+        enabled: false
+      thunder_product:
+        weight: 76
+        enabled: false
+      tooltip:
+        weight: 77
+        enabled: false
+      video:
+        weight: 78
+        enabled: false
+field_type: entity_reference_revisions

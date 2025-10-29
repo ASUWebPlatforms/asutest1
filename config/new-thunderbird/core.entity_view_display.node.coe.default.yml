@@ -1,0 +1,392 @@
+uuid: 4d85dd49-e191-4f2e-9813-afe009d92473
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - block_content.type.image_and_text_block
+    - block_content.type.signpost_1_column_w_link
+    - block_content.type.signposts
+    - field.field.node.coe.body
+    - field.field.node.coe.field_coe_location
+    - field.field.node.coe.field_content_background
+    - field.field.node.coe.field_domain_access
+    - field.field.node.coe.field_domain_all_affiliates
+    - field.field.node.coe.field_hero_header
+    - field.field.node.coe.field_image
+    - field.field.node.coe.field_meta_tags
+    - field.field.node.coe.field_vertical_stripes
+    - field.field.node.coe.layout_builder__layout
+    - field.field.node.coe.layout_builder__translation
+    - node.type.coe
+  content:
+    - 'block_content:image_and_text_block:9772fbe1-2a3b-4fb9-90c8-1c6747b6d0c4'
+    - 'block_content:image_and_text_block:a787d89d-9d70-46f0-8ecf-48705edbb4a3'
+  module:
+    - block_content
+    - ctools
+    - layout_builder
+    - layout_builder_restrictions
+    - layout_discovery
+    - metatag
+    - system
+    - text
+    - user
+    - webspark_blocks
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: true
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: Body
+          context_mapping: {  }
+        components:
+          -
+            uuid: 68a8bb84-de9d-446a-b4f1-52e0e450c3b8
+            region: content
+            configuration:
+              id: 'entity_view:node'
+              label: 'Entity view (Content)'
+              label_display: '0'
+              provider: ctools
+              view_mode: hero
+              context_mapping:
+                entity: layout_builder.entity
+            weight: 0
+            additional: {  }
+          -
+            uuid: e812f8e5-ad2f-4d6e-81eb-21715d7a661d
+            region: content
+            configuration:
+              id: system_breadcrumb_block
+              label: Breadcrumbs
+              label_display: '0'
+              provider: system
+              context_mapping: {  }
+            weight: 1
+            additional: {  }
+          -
+            uuid: 7ec8f794-5044-4b06-8a5e-f5b18d3f9105
+            region: content
+            configuration:
+              id: webspark_blocks_anchor_menu
+              label: 'Anchor Menu'
+              label_display: '0'
+              provider: webspark_blocks
+              context_mapping: {  }
+            weight: 2
+            additional: {  }
+          -
+            uuid: 81423e37-11f9-4b88-a49e-ccc348c9cc71
+            region: content
+            configuration:
+              id: 'inline_block:signpost_1_column_w_link'
+              label: 'Key Features'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: bf874aa9-582e-46ad-8fe6-fd6c181f6c19
+              block_revision_id: 361
+              block_serialized: null
+              type: signpost_1_column_w_link
+              uuid: bf874aa9-582e-46ad-8fe6-fd6c181f6c19
+            weight: 5
+            additional: {  }
+          -
+            uuid: 53349893-30c8-4fa9-b64e-a7ab3d9fa180
+            region: content
+            configuration:
+              id: 'block_content:9772fbe1-2a3b-4fb9-90c8-1c6747b6d0c4'
+              label: 'Our Centers of Excellence'
+              label_display: '0'
+              provider: block_content
+              status: true
+              info: ''
+              view_mode: full
+              context_mapping: {  }
+            weight: 4
+            additional: {  }
+          -
+            uuid: 9c8d5e3a-30c3-4055-a0c0-d3aa26f70f1f
+            region: content
+            configuration:
+              id: 'inline_block:card_selection'
+              label: 'News from [REGION]'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 1b176681-7b88-49f0-bb89-eb77484f4001
+              block_revision_id: 992
+              block_serialized: null
+              type: card_selection
+              uuid: 1b176681-7b88-49f0-bb89-eb77484f4001
+            weight: 6
+            additional: {  }
+          -
+            uuid: 81b2e39f-e854-4990-92d9-b1c2ad682be8
+            region: content
+            configuration:
+              id: 'inline_block:card_selection'
+              label: 'Events in [REGION]'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 8dbe608d-59be-4dc2-850e-2e794d33e2d1
+              block_revision_id: 993
+              block_serialized: null
+              type: card_selection
+              uuid: 8dbe608d-59be-4dc2-850e-2e794d33e2d1
+            weight: 7
+            additional: {  }
+          -
+            uuid: f7e6b314-59b6-4a63-8326-284e5118dcf2
+            region: content
+            configuration:
+              id: 'inline_block:card_selection'
+              label: 'Degrees Programs'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 097180c5-fe39-4708-9e9d-7187334553bc
+              block_revision_id: 994
+              block_serialized: null
+              type: card_selection
+              uuid: 097180c5-fe39-4708-9e9d-7187334553bc
+            weight: 8
+            additional: {  }
+          -
+            uuid: 987af3b7-f8be-4787-ba0f-2cbf152981f9
+            region: content
+            configuration:
+              id: 'inline_block:card_selection'
+              label: 'Executive Education'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 5b473539-3b63-428c-9a13-7763ac3065e7
+              block_revision_id: 995
+              block_serialized: null
+              type: card_selection
+              uuid: 5b473539-3b63-428c-9a13-7763ac3065e7
+            weight: 9
+            additional: {  }
+          -
+            uuid: edc098e9-81b9-4b5e-acb1-393a6f332f94
+            region: content
+            configuration:
+              id: 'inline_block:image_and_text_block'
+              label: 'Cross-Cultural Communication'
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 5fc61e86-18b4-4752-ae29-5ed36fdea186
+              block_revision_id: 996
+              block_serialized: null
+              type: image_and_text_block
+              uuid: 5fc61e86-18b4-4752-ae29-5ed36fdea186
+            weight: 10
+            additional: {  }
+          -
+            uuid: bfab7329-2107-4ce8-91e8-38c794639e09
+            region: content
+            configuration:
+              id: 'inline_block:image_and_text_block'
+              label: Entrepreneurship
+              label_display: '0'
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 63914b39-4bc8-45c7-a045-869de5a9e848
+              block_revision_id: 997
+              block_serialized: null
+              type: image_and_text_block
+              uuid: 63914b39-4bc8-45c7-a045-869de5a9e848
+            weight: 11
+            additional: {  }
+          -
+            uuid: 9b1b4e9a-ded0-4522-93f8-acab8617f0d4
+            region: content
+            configuration:
+              id: 'inline_block:card_selection'
+              label: Partnerships
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: e3cc3fc6-d2b3-40e6-8a97-b7d0588490a0
+              block_revision_id: 998
+              block_serialized: null
+              type: card_selection
+              uuid: e3cc3fc6-d2b3-40e6-8a97-b7d0588490a0
+            weight: 12
+            additional: {  }
+          -
+            uuid: e6728375-9878-480b-8d22-08e9d9d2e801
+            region: content
+            configuration:
+              id: 'inline_block:signposts'
+              label: 'Our Offices'
+              label_display: visible
+              provider: layout_builder
+              view_mode: full
+              context_mapping: {  }
+              block_uuid: 6b911c42-cfec-464d-9983-e4813d556fc3
+              block_revision_id: 999
+              block_serialized: null
+              type: signposts
+              uuid: 6b911c42-cfec-464d-9983-e4813d556fc3
+            weight: 13
+            additional: {  }
+          -
+            uuid: 68a0aeca-4555-4104-a5c6-43de53c74c7f
+            region: content
+            configuration:
+              id: 'block_content:a787d89d-9d70-46f0-8ecf-48705edbb4a3'
+              label: 'Find the Right Program'
+              label_display: '0'
+              provider: block_content
+              status: true
+              info: ''
+              view_mode: full
+              context_mapping: {  }
+            weight: 15
+            additional: {  }
+          -
+            uuid: e3e0e516-799a-4a39-a2cf-e2d250a2e2d9
+            region: content
+            configuration:
+              id: 'field_block:node:coe:field_meta_tags'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: metatag_empty_formatter
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 16
+            additional: {  }
+        third_party_settings: {  }
+  layout_builder_restrictions:
+    allowed_block_categories: {  }
+    entity_view_mode_restriction:
+      allowed_layouts:
+        - onecol_full_width_section
+        - onecol_fixed_width_section
+      denylisted_blocks: {  }
+      allowlisted_blocks:
+        ASU:
+          - webspark_blocks_anchor_menu
+        'Chaos Tools':
+          - 'entity_view:node'
+        'Inline blocks':
+          - 'inline_block:blockquote'
+          - 'inline_block:card_selection'
+          - 'inline_block:column_text'
+          - 'inline_block:insights_grid'
+          - 'inline_block:signpost_1_column_w_link'
+          - 'inline_block:image_and_text_block'
+          - 'inline_block:signposts'
+          - 'inline_block:text_content'
+          - 'inline_block:video'
+          - 'inline_block:carousel_video'
+        System:
+          - system_breadcrumb_block
+      restricted_categories:
+        - 'ASU Breadcrumb'
+        - 'ASU brand'
+        - 'ASU footer'
+        - 'Content fields'
+        - 'Custom blocks'
+        - Forms
+        - Help
+        - 'Lists (Views)'
+        - Menus
+        - User
+        - Webform
+        - 'Webspark blocks'
+        - core
+id: node.coe.default
+targetEntityType: node
+bundle: coe
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  field_coe_location:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_content_background:
+    type: boolean
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 106
+    region: content
+  field_hero_header:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  field_image:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  field_meta_tags:
+    type: metatag_empty_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 107
+    region: content
+  field_vertical_stripes:
+    type: boolean
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    weight: 105
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_domain_access: true
+  field_domain_all_affiliates: true
+  langcode: true
+  layout_builder__layout: true
+  layout_builder__translation: true
+  search_api_excerpt: true

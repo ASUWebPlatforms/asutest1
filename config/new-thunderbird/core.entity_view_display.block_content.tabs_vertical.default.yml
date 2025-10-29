@@ -1,0 +1,49 @@
+uuid: d0d8961d-37fd-4084-b858-a439a39b745a
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.tabs_vertical
+    - field.field.block_content.tabs_vertical.field_heading
+    - field.field.block_content.tabs_vertical.field_media
+    - field.field.block_content.tabs_vertical.field_tab
+  module:
+    - entity_reference_revisions
+    - field_load_more
+id: block_content.tabs_vertical.default
+targetEntityType: block_content
+bundle: tabs_vertical
+mode: default
+content:
+  field_heading:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_media:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: large
+      link: false
+    third_party_settings: {  }
+    weight: 5
+    region: content
+  field_tab:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings:
+      field_load_more:
+        field_load_more_enabled: 0
+        items_show: ''
+        link_text: ''
+    weight: 3
+    region: content
+hidden:
+  langcode: true

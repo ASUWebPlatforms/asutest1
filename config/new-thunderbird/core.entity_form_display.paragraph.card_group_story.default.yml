@@ -1,0 +1,31 @@
+uuid: 955d96f6-148e-4163-a8e1-1f1f201e50d9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.card_group_story.field_cards
+    - paragraphs.paragraphs_type.card_group_story
+  module:
+    - paragraphs
+_core:
+  default_config_hash: C4lfZUy3CVsrwbBLSxeoB3GelxPHQYBtjcbCXk2d3ZM
+id: paragraph.card_group_story.default
+targetEntityType: paragraph
+bundle: card_group_story
+mode: default
+content:
+  field_cards:
+    type: entity_reference_paragraphs
+    weight: 0
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: carousel_card
+      default_paragraph_type: card_story
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: bfc4adee-9740-4e59-83a0-93aa5410c254
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T14:24:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Choice Architecture: The Science of Decision Making'
+created:
+  -
+    value: '2018-02-02T23:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T14:24:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/choice-architecture-science-decision-making
+body:
+  -
+    value: "<p>Leaders try to influence others. Understanding how humans make decisions can be an important tool in not only convincing others to your vision, but also in creating organizational structures that support positive outcomes. This webinar will draw on recent research in the areas of behavioral economics, psychology, and neuroscience to explore how we make decisions and the often invisible drivers of our choices.</p>\r\n<h3>Presenter Bio</h3>\r\n<p><a href=\"https://thunderbird.asu.edu/ted-cross\" target=\"_blank\">Dr. Ted Cross</a> is a Clinical Assistant Professor of Leadership and Management, as well as the Director of the <a href=\"https://thunderbird.asu.edu/malm-lp\" target=\"_blank\">Online Master of Applied Leadership &amp; Management program</a> at the Thunderbird School of Global Management. Cross brings his expertise in leadership and higher education innovation to his teaching and administrative roles. Previously, Ted was the Deputy Chief of Staff at EdPlus and a University Innovation Fellow in the Office of University initiatives (a Special Projects Unit of the Office of the President). Before coming to ASU Ted worked in a variety of faculty and leadership positions at Grand Canyon University. Cross holds a bachelor’s degree from Brigham Young University, an MA from Arizona State University, an MSed from The University of Pennsylvania, a doctorate from Pepperdine University, and a Post Graduate Certificate from The Wharton School of Business.</p>\r\n<p>[[{\"fid\":\"12140\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Leaders try to influence others. Understanding how humans make decisions can be an important tool in not only convincing others to your vision, but also in creating organizational structures that support positive outcomes. This webinar will draw on recent research in the areas of behavioral economics, psychology, and neuroscience to explore how we make decisions and the often invisible drivers of our choices.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 192
+    height: 127
+    target_type: file
+    target_uuid: 16e5540d-4347-4acb-b33d-72e31523e398
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.16e5540d-4347-4acb-b33d-72e31523e398
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

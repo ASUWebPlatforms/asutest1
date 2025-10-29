@@ -1,0 +1,99 @@
+uuid:
+  -
+    value: 12456a46-d3ef-4b60-ac3e-368f0d6b010d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-02-05T19:40:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Reliance Industries: Building Execution Excellence in an Emerging Market'
+created:
+  -
+    value: '2018-02-05T19:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-05T19:40:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-18-0002
+body:
+  -
+    value: '<p><span>In a few decades starting in the 1990s through the early 2000s, Reliance Industries had emerged as a powerhouse in the oil and gas business. It cemented its global reputation by adopting innovative approaches to articulating an integrated business model that would span the entire value chain from exploration to petrochemicals. Much of its success revolved around its execution prowess and its ability to deliver projects well under budget and ahead of schedule, a field of expertise that had traditionally been dominated by the more established supermajors in the industry such as ExxonMobil. This case study addresses the evolution of the company from a fairly small-scale textile manufacturer to a global powerhouse, with specific focus on the way in which the company intertwined its sources of competitive advantage (e.g., location, project execution, relationship building, and financial acumen) to establish a winning proposition. The case allows for a rich thematic discussion around understanding the modes of competition adopted by companies from newly industrializing contexts.</span><span></span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-18-0002
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: India
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields: {  }
+field_teaching:
+  -
+    value: "The specific teaching objectives for the case are:\r\na. To illustrate the unique bases of competitive advantage in economic contexts described as marginal or in transition; \r\nb. To provide insights into the evolution of emerging market multinationals; \r\nc. To impart an understanding about the context-specific challenges that these firms have to address in order to secure sustainable performance—i.e., issues such as capital market failure, labor market failure, and product market failure.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71

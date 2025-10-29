@@ -1,0 +1,117 @@
+uuid:
+  -
+    value: f13ea1e2-19f7-4d86-92dd-6e410f3839a5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:35:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Global Sustainability: The Case for Collaboration'
+created:
+  -
+    value: '2016-07-16T01:12:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:35:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-09-0011
+body:
+  -
+    value: '<p><span>The Kyoto Protocol established targets for reductions in greenhouse gas concentrations by establishing a mechanism of restrictions for the rich countries and incentives for developing countries to cut their greenhouse gas emission levels. However, the programs proposed are not without opposition. The economic costs, some experts argue, may be too high, social disruptions may too great, such a fluid system may invite cheating by countries and powerful economic groups, and it may not produce the necessary changes in the behavior of the heaviest polluters.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-09-0011
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2009-01-01'
+field_case_setting:
+  -
+    value: 'Global 2008'
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: ed3f6023-bab2-4a5e-a56a-1c54b925845d
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 71ae49d3-767b-4ef8-91e3-80442b78990e
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "The case is intended for use in MBA-level courses or undergraduate capstone courses on environmental strategy, sustainable management, or corporate social responsibility.\r\n\r\nThe object of this case is to introduce business students to the broad notions of sustainable management and raise the environmental consciousness of future managers. The case is a vehicle to expose the students to the environmental consciousness of the future manager. The case is a vehicle to expose the students to the science behind global warming, to understand the Kyoto Protocol, to explore the challenges of implementing such an ambitious program in a global scale, and to familiarize them with the merits of the arguments voiced by those who oppose the Kyoto Protocol or the notion that global warming is caused by human activities.\r\n\r\nThe case was written to serve as an initial learning platform for the discussion of the Plantar S.A. Carbon Assets case, which focuses on corporate social responsibility and environmental management. However, it has also been an effective springboard for the following cases: Amanco—Developing the Sustainability Scorecard (HBS 107038), Natura: Global Beauty Made in Brazil (HBS 807029), and The Green Utility (INSEAD, 3072901)."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+      - taxonomy_term.case_series_fields.ed3f6023-bab2-4a5e-a56a-1c54b925845d
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.71ae49d3-767b-4ef8-91e3-80442b78990e
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

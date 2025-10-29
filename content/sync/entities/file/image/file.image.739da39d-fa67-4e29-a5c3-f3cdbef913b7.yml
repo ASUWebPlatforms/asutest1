@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 739da39d-fa67-4e29-a5c3-f3cdbef913b7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+filename:
+  -
+    value: moffet-inkpen.jpg
+uri:
+  -
+    value: 'public://article/moffet-inkpen.jpg'
+    url: /sites/default/files/article/moffet-inkpen.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 35324
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-01-18T23:44:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-01-18T23:44:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff

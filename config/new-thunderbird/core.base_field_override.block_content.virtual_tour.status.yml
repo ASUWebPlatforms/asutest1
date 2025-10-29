@@ -1,0 +1,22 @@
+uuid: e464f8a4-3c65-4b5f-b00d-7dc863d69cc9
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.virtual_tour
+id: block_content.virtual_tour.status
+field_name: status
+entity_type: block_content
+bundle: virtual_tour
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

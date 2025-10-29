@@ -1,0 +1,109 @@
+uuid:
+  -
+    value: 76d17192-9330-4937-bd5b-37f2c8281085
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-08-22T18:39:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'How Hong Kong''s Protests are Affecting Its Economy'
+created:
+  -
+    value: '2019-08-22T17:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-08-22T18:39:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-hong-kongs-protests-are-affecting-its-economy
+body:
+  -
+    value: "<p><span>By&nbsp;<a href=\"https://theconversation.com/profiles/allen-morrison-765193\">Allen Morrison</a>, Professor of Global Management, <em><a href=\"http://theconversation.com/institutions/arizona-state-university-730\">Arizona State University</a></em></span></p>\r\n<p>This article is republished from <a href=\"http://theconversation.com\">The Conversation</a> under a Creative Commons license. Read the <a href=\"https://theconversation.com/how-hong-kongs-protests-are-affecting-its-economy-122098\">original article</a>.</p>\r\n<p><span style=\"font-size: 1em; font-weight: 200; background-color: transparent;\">[[{\"fid\":\"74819\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How Hong Kong’s protests are affecting its economy\",\"field_file_image_title_text[und][0][value]\":\"How Hong Kong’s protests are affecting its economy\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How Hong Kong’s protests are affecting its economy\",\"field_file_image_title_text[und][0][value]\":\"How Hong Kong’s protests are affecting its economy\"}},\"attributes\":{\"alt\":\"How Hong Kong’s protests are affecting its economy\",\"title\":\"How Hong Kong’s protests are affecting its economy\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]After nearly </span><a href=\"https://www.npr.org/2019/08/18/752208633/protests-in-hong-kong-continue-remain-peaceful-throughout-the-weekend\" style=\"font-size: 1em; font-weight: 200;\">three months of unrest</a><span style=\"font-size: 1em; font-weight: 200; background-color: transparent;\">, the demonstrations in Hong Kong </span><a href=\"https://www.reuters.com/article/us-hongkong-protests/hong-kong-readies-for-further-protests-after-huge-peaceful-rally-idUSKCN1V900Z\" style=\"font-size: 1em; font-weight: 200;\">show no signs of slowing down</a><span style=\"font-size: 1em; font-weight: 200; background-color: transparent;\">.</span></p>\r\n<p>What began as opposition to a controversial extradition bill <a href=\"https://www.apnews.com/6c450fc41d4143f9b932ed1ecf99951d\">has morphed</a> into a broader movement to defend Hong Kong’s wider social and political freedoms. Although the government has withdrawn its proposed legislation, the deep anger and cynicism continues.</p>\r\n<p>As a <a href=\"https://thunderbird.asu.edu/allen-j-morrison\">business professor</a> who has worked, taught and traveled in Hong Kong extensively over my career, I have watched the demonstrations unfold with great interest. I was personally caught up in the 1989 <a href=\"https://theconversation.com/us/topics/tiananmen-square-5781\">Tiananmen Square protests</a> and have tracked their fallout over the past 30 years.</p>\r\n<p>Today’s protests in Hong Kong will have lasting consequences. While most of them are difficult to anticipate, some of the economic impacts are already being felt and add up to long-term challenges to the city’s prosperity.</p>\r\n<h3>Broad and deep</h3>\r\n<p>What is exceptional about the Hong Kong protests is their breadth and depth.</p>\r\n<p>The demonstrators in Hong Kong include both young and old, with a large mix of families. A <a href=\"https://sg.news.yahoo.com/young-educated-middle-class-first-143722947.html\">survey of the crowds by three scholars</a> showed that while about 60% were under 30, almost one-fifth were 45 or older. Journalists <a href=\"https://www.latimes.com/world-nation/story/2019-08-03/hong-kong-protests\">have reported</a> that many shopkeepers, motorists and others have supported the protesters with <a href=\"https://www.theguardian.com/world/2019/aug/17/hong-kong-three-rallies-mark-11th-weekend-of-protests\">handouts of water</a> and <a href=\"https://www.scmp.com/news/hong-kong/politics/article/3022498/hong-kong-protesters-raise-us197-million-international-ad\">even offers of financial assistance</a>.</p>\r\n<p>On August 18, protest organizers <a href=\"https://www.wsj.com/articles/peaceful-protesters-crowd-hong-kong-park-where-summer-of-dissent-began-11566114415\">estimated</a> that 1.7 million people turned out in the pouring rain to demonstrate. This would represent <a href=\"https://www.cbsnews.com/news/hong-kong-protests-1-7-million-protesters-march-victoria-park-latest-updates-today-2019-08-18/\">almost one-quarter of Hong Kong’s population</a>.</p>\r\n<p>There have been occasional flareups of violence, such as when <a href=\"https://www.scmp.com/news/hong-kong/politics/article/3016839/protesters-storm-and-vandalise-legislative-council-anarchy\">demonstrators vandalized the Legislative Council</a> or <a href=\"https://www.cnn.com/2019/08/18/asia/hong-kong-protests-weekend-intl-hnk/index.html\">disrupted airport operations</a>. But what surprises me, particularly given the huge numbers of protesters and the ongoing nature of the conflict, is how peaceful they’ve been.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1030px;\" class=\"caption-inner\"><img src=\"https://images.theconversation.com/files/288952/original/file-20190821-170927-it1eae.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip\" alt=\"\" width=\"1030\" height=\"687\">\r\n<p class=\"caption-text\">Many Hong Kong business owners have shown their support for the protests, such as the Wah Yee Tang bakery, which made mooncakes with phrases, in Chinese, like ‘No withdrawal, no dispersal.’ AP Photo/Kin Cheung</p>\r\n</div>\r\n</div>\r\n</div>\r\n<h3>Short-term impact</h3>\r\n<p>While the protests grind on, the short-term economic consequences for the people of Hong Kong are beginning to mount.</p>\r\n<p>A <a href=\"https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3017580/political-unrest-hitting-hong-kong-where-it-hurts\">drop in consumer spending</a> on non-essential goods is one of the most visible signs of its impact. Summer retail sales from July to August <a href=\"https://www.reuters.com/article/us-hongkong-retail-protests/hong-kong-retailers-forecast-sharp-drop-in-sales-as-protests-rock-city-idUSKCN1UB0O8\">are expected to be down</a> by more than 10% from a year earlier.</p>\r\n<p>The protests that shut down Hong Kong International Airport for about two days have also taken a toll. Aviation experts estimate that Hong Kong <a href=\"https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3022659/aviation-industry-expected-suffer-losses-more-us76\">suffered a US$76 million hit</a> from flight cancellations.</p>\r\n<p>Since the airport <a href=\"https://www.businessinsider.com/hong-kong-flights-cancelled-protestors-economic-impact-harm-2019-8\">contributes around 5%</a> to Hong Kong’s GDP, any disruptions are bound to reduce the special administrative region’s economic growth for the year – which has <a href=\"https://www.scmp.com/news/hong-kong/hong-kong-economy/article/2167044/prepare-worst-us-china-trade-war-hong-kong-commerce\">already suffered</a> due to the ongoing U.S.-China trade war.</p>\r\n<p>More broadly, there’s <a href=\"https://www.bloomberg.com/news/articles/2019-08-14/hong-kong-hotels-in-crisis-as-protests-deter-mainland-visitors\">other evidence the turmoil</a> is keeping away tourists and business travelers, thanks in part to travel advisories from <a href=\"https://asia.nikkei.com/Spotlight/Hong-Kong-protests/Hong-Kong-business-warns-of-risks-to-economy-as-protests-continue\">at least 22 countries</a>. And visitors from mainland China – <a href=\"https://www.statista.com/statistics/318822/hong-kong-visitor-arrivals-by-origin/\">typically responsible</a> for over three-quarters of all arrivals to Hong Kong – <a href=\"https://www.bloomberg.com/news/articles/2019-08-14/hong-kong-hotels-in-crisis-as-protests-deter-mainland-visitors\">have slowed to a trickle</a>.</p>\r\n<h3>Longer-term costs</h3>\r\n<p>The long-term costs of the protests – and China’s reaction to them – are much harder to quantify.</p>\r\n<p>One of them involves Hong Kong’s status as a hub for international companies seeking to do business in China or the region. In 2018, the Hong Kong government <a href=\"https://www.censtatd.gov.hk/hkstat/sub/sp360.jsp?tableID=133&amp;ID=0&amp;productType=8\">found</a> that 1,530 multinational companies had established regional headquarters in the city. Of these, 290 were American.</p>\r\n<p>Companies have historically chosen to set up shop in Kong Kong both because of its desirable location and its <a href=\"http://en.people.cn/english/200101/10/eng20010110_60072.html\">perception as a haven</a> where the rule of law is strong, <a href=\"https://multimedia.scmp.com/infographics/news/world/article/3023351/rule-of-law/?src=social\">particularly compared with China</a>.</p>\r\n<p>That’s been changing as more international businesses <a href=\"https://cbk.bschool.cuhk.edu.hk/inaugural-cbk-round-table-discussion-establishing-an-asian-regional-headquarters-hong-kong-shanghai-or-singapore/\">opt to move their headquarters</a> to the mainland as its economic power has grown. If China seeks to resolve the protests by taking more control over Hong Kong – which would likely erode its attractive legal environment – multinational companies would have one less reason to keep the city as their regional foothold.</p>\r\n<p>What had been a trickle of companies leaving Hong Kong may well turn into a flood – and with it an exodus of high-paying jobs.</p>\r\n<p>Another long-term concern is how the Hong Kong demonstrations will affect China’s relations with the rest of the world. U.S. President Donald Trump <a href=\"https://www.wsj.com/articles/washington-offers-conflicting-messages-on-hong-kong-unrest-amid-u-s-china-trade-talks-11565802045\">warned China</a> it must deal with the protests “humanely” if it wants to seal an agreement to end the trade war. And other world leaders may change the way they deal with China – and Hong Kong – if Beijing takes a heavy-handed approach.</p>\r\n<h3>The shape of a protest</h3>\r\n<p>Protest movements take many shapes and forms.</p>\r\n<p>Allen Morrison, Professor of Global Management, Arizona State University This article is republished from The Conversation under a Creative Commons license. Read the original article.</p>\r\n<p>The <a href=\"https://theconversation.com/us/topics/occupy-wall-street-25862\">Occupy Wall Street</a> movement in lower Manhattan lasted only two months but became a broader anti-establishment movement. Its economic impact, however, was <a href=\"https://www.newsweek.com/has-occupy-wall-street-changed-america-seven-years-birth-political-movement-1126364\">negligible</a>.</p>\r\n<p>France’s recent <a href=\"https://theconversation.com/us/topics/yellow-vests-63620\">yellow vest movement</a>, initially <a href=\"https://www.npr.org/2018/12/03/672862353/who-are-frances-yellow-vest-protesters-and-what-do-they-want\">intended</a> to combat rising fuel taxes, has morphed into a broader protest against French President Emmanuel Macron. At its peak, it included about <a href=\"https://www.reuters.com/article/us-france-protests/frances-yellow-vests-protest-in-dwindling-numbers-some-clashes-idUSKCN1SH0FO\">300,000 protesters</a>. While protests continue after nearly 40 weeks, they have largely run out of steam. One estimate put the economic costs of the demonstration at about <a href=\"https://uk.reuters.com/article/uk-france-economy-gdp/french-yellow-vests-protests-cost-02-percentage-points-of-growth-le-maire-idUKKCN1QH17P\">€5 billion</a>, the equivalent of about $5.5 billion.</p>\r\n<p>The protests in Hong Kong are much larger than those in both France and New York, yet it’s too early to tell what shape they will ultimately take or what their economic impact will be, not only locally but far beyond its borders.</p>\r\n<p>No matter the outcome, Hong Kong is at risk of a long-term outflow of capital and loss of talent, two key ingredients to its economic success.</p>\r\n<p>[ <em>Like what you’ve read? Want more?</em> <a href=\"https://theconversation.com/us/newsletters?utm_source=TCUS&amp;utm_medium=inline-link&amp;utm_campaign=newsletter-text&amp;utm_content=likethis\">Sign up for The Conversation’s daily newsletter</a>. ]<!-- Below is The Conversation's page counter tag. Please DO NOT REMOVE. --><img src=\"https://counter.theconversation.com/content/122098/count.gif?distributor=republish-lightbox-basic\" alt=\"The Conversation\" style=\"border: none !important; box-shadow: none !important; margin: 0 !important; max-height: 1px !important; max-width: 1px !important; min-height: 1px !important; min-width: 1px !important; opacity: 0 !important; outline: none !important; padding: 0 !important; text-shadow: none !important;\" width=\"1\" height=\"1\"><!-- End of code. If you don't see any code above, please get new code from the Advanced tab after you click the republish button. The page counter does not collect any personal data. More info: http://theconversation.com/republishing-guidelines --></p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: "After nearly three months of unrest, the demonstrations in Hong Kong show no signs of slowing down.\r\n\r\nWhat began as opposition to a controversial extradition bill has morphed into a broader movement to defend Hong Kong’s wider social and political freedoms. Although the government has withdrawn its proposed legislation, the deep anger and cynicism continues."
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 5760
+    height: 3840
+    target_type: file
+    target_uuid: 568999cc-a811-4c6b-98f6-508bae9758ea
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 502e0d76-285c-4932-b0ce-5dec5cd4f431
+  -
+    target_type: taxonomy_term
+    target_uuid: e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+  -
+    target_type: taxonomy_term
+    target_uuid: 60b6056a-f443-495e-beb5-9fedd39c2b7f
+  -
+    target_type: taxonomy_term
+    target_uuid: 0a95be68-66bd-40d4-8d99-e73ae5f0001c
+field_insight_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 206b9083-31c1-484b-99c5-734e8b1c360c
+field_related_thought_leaders:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8659ff65-3aab-49a5-bc2d-c89845dedc85
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.568999cc-a811-4c6b-98f6-508bae9758ea
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.knowledge_network_tags.502e0d76-285c-4932-b0ce-5dec5cd4f431
+      - taxonomy_term.knowledge_network_tags.e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+      - taxonomy_term.knowledge_network_tags.60b6056a-f443-495e-beb5-9fedd39c2b7f
+      - taxonomy_term.knowledge_network_tags.0a95be68-66bd-40d4-8d99-e73ae5f0001c
+      - taxonomy_term.kn_thought_leaders.8659ff65-3aab-49a5-bc2d-c89845dedc85

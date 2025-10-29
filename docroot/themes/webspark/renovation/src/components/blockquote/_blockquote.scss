@@ -1,0 +1,14 @@
+// @see https://asudev.jira.com/browse/WS2-1731
+.uds-blockquote {
+  p {
+    max-width: none;
+  }
+
+  &.with-image {
+    grid-template-columns: auto auto;
+
+    h3 {
+      margin-top: 0;
+    }
+  }
+}

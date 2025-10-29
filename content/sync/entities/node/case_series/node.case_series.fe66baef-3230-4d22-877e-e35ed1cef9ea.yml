@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: fe66baef-3230-4d22-877e-e35ed1cef9ea
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T22:11:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Innovation and Customer Service at Grupo Supermercados Wong: A Peruvian Success Story'
+created:
+  -
+    value: '2016-07-26T22:11:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T22:11:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-04-0029
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>One hundred percent Peruvian-owned, Grupo Supermercados Wong (GSW) is widely respected for its outstanding customer service and innovation. How did the Wong family manage to succeed in such a difficult and competitive industry? In the face of competition from foreign companies, can GSW continue to gain market share and increase sales?</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-04-0029
+field_case_page_length:
+  -
+    value: '13 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: Peru
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: dae22e86-6101-4894-a26f-0d552accb30d
+  -
+    target_type: taxonomy_term
+    target_uuid: 7152a0b0-1189-4ac1-802b-a04e2199c118
+  -
+    target_type: taxonomy_term
+    target_uuid: d8547857-6975-4645-ae89-763df74566c2
+field_teaching:
+  -
+    value: "1. To learn how E. Wong grew from one neighborhood grocery store to the largest supermarket chain in Peru \r\n2. To study how a family-run business continues to grow in a competitive industry \r\n3. To discover ways to continuously seek innovation \r\n4. To examine how to maintain a high level of customer service while growing the company"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.dae22e86-6101-4894-a26f-0d552accb30d
+      - taxonomy_term.case_series_fields.7152a0b0-1189-4ac1-802b-a04e2199c118
+      - taxonomy_term.case_series_fields.d8547857-6975-4645-ae89-763df74566c2

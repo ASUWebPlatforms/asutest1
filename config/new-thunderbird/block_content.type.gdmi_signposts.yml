@@ -1,0 +1,8 @@
+uuid: 3a377c7a-cb30-4fb0-9680-b958122b3c68
+langcode: en
+status: true
+dependencies: {  }
+id: gdmi_signposts
+label: 'GDMI Signposts'
+revision: 0
+description: ''

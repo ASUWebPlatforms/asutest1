@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: d3037097-91ce-4934-b52e-c45fd03de98f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T14:41:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: '5 Ways to Provide the Optimal Employee Workplace Experience'
+created:
+  -
+    value: '2017-06-26T15:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T14:41:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/5-ways-provide-optimal-employee-workplace-experience
+body:
+  -
+    value: "<p>The workplace is transforming at an unprecedented rate. We’ve now entered the cognitive era, where machines have the capacity to learn, reason, and interact with humans. This has resulted in blurred boundaries between humans and technology.</p>\r\n<p>But there’s nothing to fear. Humans can now work with and see firsthand benefits from new technologies to achieve more than ever before. In a way, the cognitive era is really the “human era” where work proves to be a more rewarding experience for employees. Because of this, organizations are re-examining their employees’ experiences at work as guidelines for improved job performance and sustained competitive advantage.</p>\r\n<div class=\"sw-tweet-clear\">Employee experience is best defined as an impactful and powerful — and ultimately human — experience, one in which employees feel inspired to invest more of their entire selves into the workplace. Research shows that if employees experience higher levels of respect and support and a sense of belonging at work, they tend to perform better, are more likely to exert discretionary effort at their jobs, and are less likely to leave companies.</div>\r\n<p>“Organizations that provide more positive employee experiences stand to see greater ROI in terms of company success,” said Derek Irvine, vice president, client strategy and consulting at&nbsp;<a href=\"http://www.globoforce.com/\">Globoforce</a>. “Employees’ commitment to their organizations increases significantly if they feel a sense of belonging and feel valued.”</p>\r\n<p>To improve employee experience, organizations must ask how their cultures can be enhanced to become more human-friendly. Answers can be found in a&nbsp;<a href=\"http://www.globoforce.com/wp-content/uploads/2016/10/The_Employee_Experience_Index.pdf\">new study</a>&nbsp;conducted by the IBM Smarter Workforce Institute and Globoforce’s WorkHuman Research Institute which takes into account the experiences of 23,000 employees in 45 countries and territories.</p>\r\n<p>The study’s resulting index captures five core facets of the modern employee experience: sense of belonging, purpose, achievement, happiness and vigor. To enhance each of these, the study indicates that company leaders and managers need to provide a high level of clarity and direction.</p>\r\n<p>The study also examines organizational practices that drive “humanness” levels at work, including organizational trust, supportive coworker relationships, meaningful work, recognition, feedback and growth, empowerment and voice, and work-life balance.</p>\r\n<p>As the study shows, there are several methods to improve employee experience in the workplace:</p>\r\n<ol>\r\n<li><strong>Promote greater positive work experiences to retain talent.</strong>&nbsp;Analysis shows employees with less-positive experiences are more than twice as likely to say they want to leave, versus those with much more positive experiences (44 percent vs. 21 percent).</li>\r\n<li><strong>Offer recognition programs that provide rewards based on demonstrating core values.</strong>&nbsp;Organizations that do so have a considerably higher employee experience index score than those in organizations without recognition programs (81 percent vs. 62 percent).</li>\r\n<li><strong>Recognize employees for the good work they do.</strong> 83 percent of employees report positive experiences when recognized, compared to 38 percent that are not recognized.</li>\r\n<li><strong>Allow employee voices to be heard.</strong> Employees who feel their ideas and suggestions matter are more than twice as likely to report a positive employee experience than those who don’t (83 percent vs. 34 percent).</li>\r\n<li><strong>Foster team dynamics in the workplace.</strong> Employees in teams have more positive employee experiences at work than those who work independently (73 percent vs. 61 percent).</li>\r\n</ol>\r\n<div class=\"sw-tweet-clear\">We must also recognize the role leaders and managers play in defining employees’ work experiences, and enable managers to design experiences consistent with an organization’s core values. An organization’s actions need to emulate the values it wants its employees to practice as well as nurture an environment that reinforces mutually supportive coworker relationships. This helps employees understand the deeper meaning of their work and how it contributes to the wider organizational purpose and goals.</div>\r\n<p>These analyses indicate that more positive employee experiences are linked to better performance, extra effort at work and lower turnover rates. Most importantly, organizations must listen regularly to the voices of their employees to understand the nature of their experiences at work. In doing so, these employee experiences will drive discretionary energy, resulting in the best work of employees’ lives for their companies.</p>\r\n<p><!--break--></p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;<a href=\"http://danamanciagli.com\">her website.</a></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1135
+    target_type: file
+    target_uuid: 4ca1a55a-5ace-4eaf-a337-264b0d5ab163
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.4ca1a55a-5ace-4eaf-a337-264b0d5ab163
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

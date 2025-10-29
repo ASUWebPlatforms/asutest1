@@ -1,0 +1,13 @@
+third_party_settings:
+  field_group:
+    group_display_settings:
+      label: 'Ustawienia wyświetlania'
+content:
+  field_filter_title:
+    third_party_settings:
+      maxlength:
+        maxlength_js_label: 'Pozostało znaków: <strong>@remaining</strong>/@limit.'
+  field_people_search:
+    third_party_settings:
+      maxlength:
+        maxlength_js_label: 'Pozostało znaków: <strong>@remaining</strong>/@limit.'

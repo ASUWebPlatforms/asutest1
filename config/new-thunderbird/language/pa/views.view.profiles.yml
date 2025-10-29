@@ -1,0 +1,16 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: ਰੀ-ਸੈੱਟ
+      arguments:
+        uid:
+          exception:
+            title: ਸਭ
+        type:
+          exception:
+            title: ਸਭ
+        status:
+          exception:
+            title: ਸਭ

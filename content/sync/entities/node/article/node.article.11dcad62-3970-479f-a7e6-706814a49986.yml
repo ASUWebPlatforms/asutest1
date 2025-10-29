@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 11dcad62-3970-479f-a7e6-706814a49986
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:47:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+title:
+  -
+    value: 'How Young Entrepreneurs Are Innovating and Thriving'
+created:
+  -
+    value: '2018-03-24T22:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:47:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-young-entrepreneurs-are-innovating-and-thriving
+body:
+  -
+    value: "<h1><span>[[{\"fid\":\"14546\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Millennial\",\"field_file_image_title_text[und][0][value]\":\"Millennial\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Millennial\",\"field_file_image_title_text[und][0][value]\":\"Millennial\"}},\"attributes\":{\"alt\":\"Millennial\",\"title\":\"Millennial\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]The Secret Decoder Ring for the&nbsp;Millenial&nbsp;Entrepreneur&nbsp;</span></h1>\r\n<p>In the age of thriving startups, young entrepreneurs are fueling innovation in American business.&nbsp;Now, more than ever,&nbsp;Millennials&nbsp;are seeing the appeal of&nbsp;being the boss.&nbsp;Sixty-two percent of&nbsp;Millennials&nbsp;have considered starting their own businesses, and 72 percent think startups are “essential for new innovation and jobs,” according to <i>The Millennial Economy</i>.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>￼But having a problem to solve is one thing. Creating a&nbsp;successful business is another.&nbsp;<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>Some&nbsp;of the&nbsp;young&nbsp;business founders&nbsp;who&nbsp;are dominating&nbsp;their industries&nbsp;reveal their path to entrepreneurship and share&nbsp;their&nbsp;secrets to take&nbsp;an idea to market.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h2><span>Find a&nbsp;Meaningful&nbsp;P</span><span>urpose</span>&nbsp;<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></h2>\r\n<p>Yunha&nbsp;Kim&nbsp;(27)&nbsp;is determined to&nbsp;help her fellow high-achieving&nbsp;Millennials&nbsp;de-stress. A&nbsp;former investment banker on Wall Street, Kim found her stress levels were unmanageable. She started meditating to help her relax, and found&nbsp;that&nbsp;apps proved a&nbsp;reliable source,&nbsp;but were&nbsp;difficult to fit into her schedule.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“I actually became a power user&nbsp;of&nbsp;meditation apps,” Kim said. “After a few months, I was inspired to create a meditation&nbsp;app&nbsp;specifically for busy people like me, with 5-minute meditations from a variety of top teachers.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>Kim created&nbsp;<a href=\"https://www.simplehabitapp.com/\">Simple Habit</a>, an innovative&nbsp;platform&nbsp;that offers 5-minute sessions specifically targeted to certain problems,&nbsp;such as managing&nbsp;workplace stress, improving sleep,&nbsp;improving focus,&nbsp;and harnessing creativity.&nbsp;Just this year, Kim&nbsp;was named&nbsp;to Forbes’&nbsp;<i>30&nbsp;</i><i>U</i><i>nder 30&nbsp;</i><i>L</i><i>ist</i>, and her&nbsp;user base has skyrocketed.&nbsp;Her business is now helping thousands destress and find relaxation.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“Stress is a modern epidemic,” Kim said.&nbsp;“I saw a huge opportunity to solve meaningful problems and build a thriving business in this space.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h2><span>Listen to your team</span><span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></h2>\r\n<p>Nick&nbsp;Candito&nbsp;(29)&nbsp;started&nbsp;his career in the pharmaceutical&nbsp;industry where he&nbsp;was exposed to the disorganization of old-fashioned paper procedures and regulations. He knew&nbsp;companies&nbsp;needed a better way to execute their business practices to streamline operations.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“It provided a unique insight around how traditional industries operate,”&nbsp;Candito&nbsp;said&nbsp;of his time in the&nbsp;pharmaceutical industry. “Riddled with siloed information and fragmented tools. The idea for&nbsp;Progressly&nbsp;started at that point.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>In light of the need for a better solution,&nbsp;Candito&nbsp;co-founded&nbsp;<a href=\"https://progressly.com/\">Progressly</a>, an innovative platform that allows businesses to centralize core processes, examine business analytics, and secure information, all&nbsp;while working collaboratively with other team members.&nbsp;Candito&nbsp;created a business solution that is&nbsp;setting a new&nbsp;standard for how businesses operate, and has created a successful team to lead it.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“Your one fundamental responsibility is to make decisions that will allow for you and your team to be successful,”&nbsp;Candito&nbsp;said&nbsp;of owning a business.&nbsp;“Ask for feedback and see if you can connect the dots.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h2><span>Ask for&nbsp;H</span><span>elp</span>&nbsp;<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></h2>\r\n<p>Zachary Watson&nbsp;(33)&nbsp;is another young entrepreneur revolutionizing his industry. In his&nbsp;previous&nbsp;work as a generalist investor, he reviewed&nbsp;investment proposals, including those&nbsp;for&nbsp;senior housing.&nbsp;<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“I learned about the scale of problems facing our country as a result of shifting demographics,” Watson said. “I knew there was technology that could lower the cost of senior housing, but there hadn’t been a company to successfully utilize it.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>Seeing a niche he could positively fill&nbsp;with a better solution, Watson founded&nbsp;<a href=\"http://www.honeyco.com/\">HoneyCo</a>, a unique option for baby boomers to “unretire” and maintain their independent lives while still being monitored through&nbsp;non-invasive&nbsp;technology.&nbsp;A Stanford&nbsp;MBA program&nbsp;graduate, Watson has created a multi-million-dollar&nbsp;business&nbsp;from his idea.&nbsp;But he didn’t do it alone –&nbsp;Watson&nbsp;quickly realized he needed people to depend on.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“In the early days, I thought that everything had to go through me, but in a startup that gets overwhelming fast,” Watson said. “Help isn’t an admission of defeat, it’s a signal of self-awareness.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h2><span>Solve a&nbsp;Problem&nbsp;</span><span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></h2>\r\n<p>Nathan Rothstein&nbsp;(32)&nbsp;and Ross&nbsp;Lohr&nbsp;(32)&nbsp;thought it surprising that many sentimental t-shirts from the United States ended up in landfills or donated to other parts of the world. Attempting to repatriate&nbsp;(return to the country of origin)&nbsp;these&nbsp;t-shirts to the U.S., Rothstein and&nbsp;Lohr&nbsp;founded&nbsp;<a href=\"https://www.projectrepat.com/\">Project&nbsp;Repat</a>&nbsp;and&nbsp;created a solution for Americans to keep their sentimental t-shirts by repurposing them into&nbsp;quilts.&nbsp;<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“We knew there was an endless amount of clothes, and many of the clothes that were donated ended up in landfills,” Rothstein said. “We launched the t-shirt quilts on Groupon, and sold 2,000 in a week! There was pent up demand in the marketplace for an affordable t-shirt quilt.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>In the five years since introducing the quilts, Project&nbsp;Repat&nbsp;has sold over 150,000.&nbsp;Creating the unique product filled a need that few realized was there.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“If you offer something, and you don’t have to tell the story behind it, and it’s solving a problem for&nbsp;people, then you have the right idea,”&nbsp;Rothstein said&nbsp;of finding the right idea to start a business around.&nbsp;<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<h2><span>Remember to&nbsp;Team&nbsp;B</span><span>uild</span>&nbsp;<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></h2>\r\n<p>Three million students take the&nbsp;SAT or ACT&nbsp;tests every year, creating an evergreen&nbsp;market for a solution that could help students study for and succeed at these defining tests.&nbsp;To help students and parents with this preparation,&nbsp;Tom&nbsp;Rose&nbsp;(34)&nbsp;founded&nbsp;<a href=\"https://www.testive.com/\">Testive</a>, an online modernized approach to studying for the SAT and ACT. He combined his two careers – engineering and education – to create a unique combination of technology and education for optimal learning and preparation.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“Navigating the test prep process is rife with anxiety, especially in this day of hyper-scheduled kids,” Rose said. “Diminishing&nbsp;that fear by being prepared and confident is a universal need that parents and students alike want to address.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>Testive&nbsp;offers a personalized experience for each student to unlock their individual potential, and aids&nbsp;with&nbsp;planning, assessing, and coaching for success. The goal is to humanize education, and instead of just throwing information at students,&nbsp;Testive&nbsp;helps them&nbsp;absorb it&nbsp;while motivating them to learn more. Rose&nbsp;has created a better solution&nbsp;for students nationwide, and has created an innovative business around this unique issue.&nbsp;<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>His team of developers and educators has successfully encouraged hundreds of students, but they also found support within their own team.<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>“Not only is it impossible to do everything by myself,” Rose said. “But team building is more important than sales growth. Sales can happen at any time, but team building takes slow, deliberate persistence.”<span data-ccp-props=\"{&quot;335559739&quot;:200}\">&nbsp;</span></p>\r\n<p>Like these five founders demonstrate, the&nbsp;path to success&nbsp;isn’t limited to&nbsp;climbing the corporate ladder.&nbsp;Finding an innovative solution and building a business from the ground up is still the American dream.</p>\r\n<p>Join Dana Manciagli’s&nbsp;<a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a>&nbsp;right now and immediately access the most comprehensive job search system currently available!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a></p>\r\n<p><strong>Read More from Dana:</strong><br> <a href=\"https://thunderbird.asu.edu/knowledge-network/how-get-over-being-stressed-out-your-job-so-you-can-actually-do-it\">How to Get Over Being Stressed Out by Your Job So You Can Actually Do It</a><br> <a href=\"https://thunderbird.asu.edu/knowledge-network/benefits-meditation-workplace\">Benefits of Meditation in the Workplace<br> </a><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'In the age of thriving startups, young entrepreneurs are fueling innovation in American business. Now, more than ever, Millennials are seeing the appeal of being the boss. Sixty-two percent of Millennials have considered starting their own businesses, and 72 percent think startups are “essential for new innovation and jobs,” according to The Millennial Economy. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: f175758a-eba1-43ad-be3a-8efdc80b82d7
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f958611c-a8ea-4ee0-9285-4095ff22667a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+    file:
+      - file.image.f175758a-eba1-43ad-be3a-8efdc80b82d7
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f958611c-a8ea-4ee0-9285-4095ff22667a

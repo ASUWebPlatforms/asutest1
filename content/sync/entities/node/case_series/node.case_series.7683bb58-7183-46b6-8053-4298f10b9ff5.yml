@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: 7683bb58-7183-46b6-8053-4298f10b9ff5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T19:25:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Financial Performance of Global Energy Firms'
+created:
+  -
+    value: '2016-07-26T19:25:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T19:25:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-05-0013
+body:
+  -
+    value: '<p><span>This case provides financial statement information for six integrated global energy firms. Four of the firms are headquartered in the U.S.-Chevron Texaco Corporation, ConocoPhillips Corporation, ExxonMobile Corporation, Marathon Oil Corporation-and two firms are headquartered in Europe-Statoil in Norway and TOTAL in France. The two years of data presented for each firm includes balance sheets, income statements, cash flow statements, common-size balance sheets and income statements, as well as selected financial ratios.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-05-0013
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9313f4c5-a9c9-434c-b170-f45fec9b8d04
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  - {  }
+field_fields:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: 'This case has been used in executive education programs, including oil and gas industry programs, to evaluate cross-sectional differences between the firms and to assess the overall financial performance of the energy industry, using such financial analysis techniques as common-size financial statements and financial ratios. It has also been used in oil and gas programs in a session devoted to analyzing an energy company''s financial statements, i.e., time series analysis for a specific company, and to provide cross-sectional comparisons with other companies. It has been used in the financial statement analysis component of an introductory MBA financial accounting class to emphasize cross-sectional and time-series financial statement analysis.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.9313f4c5-a9c9-434c-b170-f45fec9b8d04
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

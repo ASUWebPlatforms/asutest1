@@ -1,0 +1,19 @@
+uuid: 325b3561-1304-4316-ab83-ca54b6fa6f0c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_case_source
+    - node.type.case_series
+id: node.case_series.field_case_source
+field_name: field_case_source
+entity_type: node
+bundle: case_series
+label: Source
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: ca42bcf6-3e0d-43b3-90ec-7bc11ca3af58
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-12-01T01:28:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'South Africa Summerim: Where the First & Third World Exist'
+created:
+  -
+    value: '2017-11-17T01:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-01T01:28:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/south-africa-summerim-where-first-third-world-exist
+body:
+  -
+    value: '<p>[[{"fid":"9976","view_mode":"default","fields":{"format":"default"},"type":"media","field_deltas":{"1":{"format":"default"}},"link_text":null,"attributes":{"alt":"Thunderbird Summerim 2017","height":"390","width":"640","style":"display: block; margin-left: auto; margin-right: auto;","class":"panopoly-image-video media-element file-default","data-delta":"1"}}]]</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 801
+    height: 471
+    target_type: file
+    target_uuid: a78f788c-5824-4ba7-9eb7-8aa3c071d085
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.a78f788c-5824-4ba7-9eb7-8aa3c071d085
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

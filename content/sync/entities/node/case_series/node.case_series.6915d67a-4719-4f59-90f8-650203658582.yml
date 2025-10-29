@@ -1,0 +1,98 @@
+uuid:
+  -
+    value: 6915d67a-4719-4f59-90f8-650203658582
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2017-01-19T21:08:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Accounting for Customer Solicitation at Workday, Inc.'
+created:
+  -
+    value: '2017-01-19T20:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-01-19T21:08:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-16-0006
+body:
+  -
+    value: '<p>Recently, software-as-a-service (SaaS) companies have attracted considerable attention from the investment community because their services were sold to customers on a subscription basis and services were delivered over the internet through applications on mobile phones, tablets and other portable devices. Because software provided by SaaS companies required considerably less investment in infrastructure (servers, software engineers) than traditional software vendors such as Oracle and SAP, they were affordable to far more companies. And because of a much larger total addressable market, over 200 SaaS had gone public through initial public offerings (IPO) in the last five years to take advantage for the demand for SaaS applications by small and medium-sized companies.&nbsp; Southern Cross LLC, an investment fund with over $20 billion under management, had established a SaaS portfolio to which it planned to add several high quality companies. Once such company under consideration was Workday, Inc. Workday provided cloud-based human capital management (HCM) and financial management (FM) computer applications to customers for an upfront subscription fee. Southern Cross had assigned Andrew Ferris, a recently hired MBA graduate, to evaluate Workday. Workday solicited customers for its software offerings through its direct sales organization. Southern Cross’s portfolio manager had asked Ferris to scrutinize the company’s accounting methods, particularly its revenue and expense recognition methods. Upfront revenue recognition and capitalizing and amortizing some indirect outlays were well known methods for enhancing a company’s bottom line.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-16-0006
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: bef9d686-9479-45e5-898c-8c931e77b519
+field_teaching:
+  -
+    value: "Students are asked to consider several issues in the case. First, students are asked to explain Workday’s business model and to evaluate how successful execution of this strategy is likely to be observable from the company’s financial performance. Second, students are asked to analyze the company’s cash flow situation, and recent financial performance, including its profitability, leverage, and liquidity. Third, students are asked to consider the impact on the company’s financial statements of its revenue and expense recognition policy and whether they are consistent with GAAP. The company deferred revenue until services were performed. The company capitalized and amortized commissions paid to its direct sales force for soliciting customers. Fifth, students are asked to consider the communication and disclosure issues the company faces in responding to analyst criticism of its accounting methods. Finally, students are asked whether Workday’s shares were worth the then current price of of $89 per share. A price-to-book (P/B) evaluation can be used to determine whether the company’s stock price is under/over-valued. Alternatively, a simplified discounted cash flow model can be used to value the company.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_fields.bef9d686-9479-45e5-898c-8c931e77b519

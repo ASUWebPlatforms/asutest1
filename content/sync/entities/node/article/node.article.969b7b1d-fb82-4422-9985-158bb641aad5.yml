@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 969b7b1d-fb82-4422-9985-158bb641aad5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-12-14T19:17:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'Why Entrepreneurs Are Flocking to Phoenix '
+created:
+  -
+    value: '2017-07-24T17:40:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-12-14T19:17:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/why-entrepreneurs-are-flocking-to-Phoenix
+body:
+  -
+    value: "<div class=\"caption  mceTemp draggable mceIEcenter caption-center\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 358px;\" class=\"caption-inner\">[[{\"fid\":\"6136\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Phoenix Is a Hub for Entrepreneurs\",\"field_file_image_title_text[und][0][value]\":\"Phoenix Is a Hub for Entrepreneurs\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Phoenix Is a Hub for Entrepreneurs\",\"field_file_image_title_text[und][0][value]\":\"Phoenix Is a Hub for Entrepreneurs\"}},\"attributes\":{\"alt\":\"Phoenix Is a Hub for Entrepreneurs\",\"title\":\"Phoenix Is a Hub for Entrepreneurs\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]\r\n<p style=\"text-align: center;\" class=\"caption-text\">Image courtesy of City of Phoenix Public Information Office</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Phoenix, Arizona is the place to be if you are an entrepreneur, seeking a conducive place to achieve your dreams and goals. Entrepreneurs looking for a fresh start and a chance to make a name for themselves now seek after Phoenix. Just like the mythical bird for which it is named, Phoenix appears to be rising after the recessions. Below are just some of the reasons why Phoenix is an ideal place for entrepreneurs to launch their companies, brand and products:</p>\r\n<h3>The Diversity of Phoenix</h3>\r\n<p>Phoenix is a lot more diverse in terms of population compared to many other metropolitan cities. With schools like Arizona State University and ASU's Thunderbird School of Global Management, there are a lot of international students who come and become part of the society bringing with them their culture as well as their skills. Naturally, that leads to many entrepreneurial exploits that are unlike any others happening around the country.</p>\r\n<h3>The Cost of Doing Business</h3>\r\n<p>According to the CNBC Global CFO Council, Arizona is ranked as the 25th atate in the America’s Top States for Business 2016. When thinking about the cost of doing business, there are a few things to take into consideration, such as labor supply, laws (regulatory environment), and economic climate, growth prospects, and quality of life. And Phoenix specifically has in recent times made it on the Forbes list as #38 Best Places for Business and Careers, and #138 in Cost of Doing Business.</p>\r\n<h3>A Support System in Place for Entrepreneurs</h3>\r\n<p>With schools like ASU placing more emphasis on entrepreneurship--and Phoenix-based organizations like Seed Spot, Jump Start Phoenix and Game Colab Incubator--there are more opportunities available for the entrepreneur trying to make it in Phoenix. The City Council is also involved in encouraging business and one example of this support is that the City of Phoenix now offers online review of building plans and has made it easier to get permits by having both the city and Maricopa County permitting services at City Hall.&nbsp;&nbsp;</p>\r\n<p>These support systems also ensure that there are skilled workers for those seeking to start their own business.</p>\r\n<blockquote>\r\n<p>In fact, according to the National Federation of Independent Business, “Phoenix is one of America’s top five cities for creating small business opportunities and opening doors for entrepreneurs.”</p>\r\n</blockquote>\r\n<h3>The Beauty of a City in the Dessert</h3>\r\n<p>Surrounded by nature, with so many different places to go for a weekend break, Phoenix has the best of both worlds. As the fifth largest city in the US it is also a growing metropolitan hub with a lot to offer. And though it is a growing city, it is still not as populated and crowded as cities like San Francisco, Los Angeles or New York. The less-populated city makes it easier for people to commute and to move around and take in the beautiful sights that Arizona offers.</p>\r\n<p>What it comes down to is, if you have the ideas, Phoenix has the means, the support and the environment to help you make your idea a reality.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Phoenix Is a Hub for Entrepreneurs'
+    title: 'Phoenix Is a Hub for Entrepreneurs'
+    width: 368
+    height: 364
+    target_type: file
+    target_uuid: 8dd841f0-c886-43c1-8d56-c8a264c17140
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    file:
+      - file.image.8dd841f0-c886-43c1-8d56-c8a264c17140
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

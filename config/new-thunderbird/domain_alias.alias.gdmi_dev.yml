@@ -1,0 +1,9 @@
+uuid: 099c7765-3238-4a20-b85b-892eff8dc8de
+langcode: en
+status: true
+dependencies: {  }
+id: gdmi_dev
+domain_id: gdmi
+pattern: gdmi.dev-new-thunderbird.ws.asu.edu
+redirect: 0
+environment: development

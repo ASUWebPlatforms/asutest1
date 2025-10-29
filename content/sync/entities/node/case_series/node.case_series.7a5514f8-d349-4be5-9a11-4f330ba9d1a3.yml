@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 7a5514f8-d349-4be5-9a11-4f330ba9d1a3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-09-10T23:42:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Harley-Davidson 2018: Trump, Tariffs and the Future'
+created:
+  -
+    value: '2019-09-10T23:42:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-09-10T23:42:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-19-0006
+body:
+  -
+    value: '<p>In June 2018 Harley-Davidson Inc. (NYSE: HOG), the iconic American manufacturer of motorcycles – <i>hogs</i> as they were affectionately referred to – announced that it would shift some United States-based production to a foreign country. Harley explained it had little choice if it was to remain competitive in foreign markets, specifically, Europe. The EU (EU) had the previous month announced an increase in the import duty imposed on Harley-Davidson motorcycles manufactured in the U.S. in retaliation to President Donald Trump’s imposition of increased tariffs on European steel and aluminum. But Harley’s problems went much deeper than simply European import duties. Harley was suffering from a decade-long slump in sales and profitability. Would shifting production out of the U.S. be the appropriate solution?</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-19-0006
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 54e7aa4c-5c7d-4f05-8c6d-40fff9aaa0b0
+field_case_series_year:
+  -
+    value: '2019-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'Published sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4f47494d-2fbd-4183-89c1-85908f84981d
+field_teaching:
+  -
+    value: "This case was designed for a course on the political economy of international trade. It illustrates the trade policy strategies utilized by states and the multifaceted effects that tariffs can have on companies. This case is recommended for master's students or upper-level undergraduates, and should cover a 75-to-90 minute class. \r\n\r\n•\tTo explore the impacts of tariff protection on the international competitiveness of a company\r\n\r\n•\tTo examine a company’s strategic options to the imposition of tariffs in a foreign market, specifically its ability to maintain price competitiveness\r\n\r\n•\tTo examine the various alternative modes of entry that can be used by a company to enter a foreign market\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_industry.54e7aa4c-5c7d-4f05-8c6d-40fff9aaa0b0
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.4f47494d-2fbd-4183-89c1-85908f84981d

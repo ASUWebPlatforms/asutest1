@@ -1,0 +1,22 @@
+{%
+  set classes = [
+    'paragraph',
+    'paragraph--type--' ~ paragraph.bundle|clean_class,
+    view_mode ? 'paragraph--view-mode--' ~ view_mode|clean_class,
+    not paragraph.isPublished() ? 'paragraph--unpublished'
+  ]
+%}
+{{ attach_library('thunderbird/clickable') }}
+{% block paragraph %}
+  {% block content %}
+    <div class="product" {{ attributes.setAttribute('data-js-clickable', '.title') }}>
+      <div class="image">{{ content.field_image }}</div>
+      <h3 class="title">
+        <a href="{{ content.field_product_link[0]['#url']|render }}">
+          {{ content.field_title|render|striptags|trim }}
+        </a>
+      </h3>
+      <strong class="price">{{ content.field_product_price|render|striptags|trim }}</strong>
+    </div>
+  {% endblock %}
+{% endblock paragraph %}

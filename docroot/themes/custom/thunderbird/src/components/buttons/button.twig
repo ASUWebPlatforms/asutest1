@@ -1,0 +1,30 @@
+{#
+/**
+ * @file
+ * Template for a button component.
+ *
+ * Available config:
+ * - type: primary | secondary | success | danger | warning | info | light | dark
+ * - outline: true | false
+ * - tag: button, a, input
+ * - value: string
+ * - attributes: Attributes array.
+ */
+#}
+{% set css_classes = [
+  'btn',
+  type ? 'btn-' ~ type
+] %}
+{% if tag == 'input' %}
+  <input{{ attributes.addClass(css_classes) }} />
+{% else %}
+  <{{ tag }}{{ attributes.addClass(css_classes).removeAttribute('value') }}>
+  {% if icon.position == 'left' %}
+    <i class="fas {{ icon.class }} mr-2" aria-hidden="true"></i> 
+  {% endif %}
+  {{ value }}
+   {% if icon.position == 'right' %}
+   <i class="fas {{ icon.class }} ml-2" aria-hidden="true"></i> 
+  {% endif %}
+  </{{ tag }}>
+{% endif %}

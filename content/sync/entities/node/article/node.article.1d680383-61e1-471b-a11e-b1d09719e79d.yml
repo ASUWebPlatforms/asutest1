@@ -1,0 +1,99 @@
+uuid:
+  -
+    value: 1d680383-61e1-471b-a11e-b1d09719e79d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-06T18:23:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'How Important Is Global Mindset® to Your Success? (Quiz)'
+created:
+  -
+    value: '2017-04-03T16:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-06T18:23:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/global-mindset-quiz
+body:
+  -
+    value: "<p><strong><i>This quiz is derived from the multimedia flipbook “To Succeed In Global Business, A Global Mindset Is Essential.” For a complimentary download of the flipbook, visit </i><a href=\"https://thunderbird.asu.edu/global-mindset\" target=\"_blank\"><i>https://thunderbird.asu.edu/global-mindset&nbsp;</i></a></strong></p>\r\n<p><iframe id=\"quizWidget-266045\" width=\"100%\" height=\"700px\" frameborder=\"0\" border=\"none\" src=\"https://www.qzzr.com/widget/quiz/fi9xdWl6emVzLzI2NjA0NQ\"></iframe></p>\r\n<p><a href=\"https://thunderbird.asu.edu/global-mindset\" target=\"_blank\"><i><span class=\"btn btn-primary\">Download Global Mindset Flipbook</span></i></a></p>\r\n<p>When Thunderbird Professor <a href=\"https://thunderbird.asu.edu/mansour-javidan\" target=\"_blank\">Mansour Javidan</a> is working with business leaders to help them better understand the role of Global Mindset in their organizations – and how to develop it further – he starts with a series of questions. Run through them yourself now:</p>\r\n<p><i>Mansour Javidan teaches these concepts in depth in the Global Mindset for Strategic Leadership program, which is offered April 10-13 in Glendale, Arizona. Enhance your strategic global leadership perspectives and capabilities for increased influence across cultures and greater overall success with global responsibilities. </i><a href=\"https://thunderbird.asu.edu/executive-education/programs/global-strategic-leadership\" target=\"_blank\"><i>Learn more about the Global Mindset for Strategic Leadership program.</i></a></p>\r\n<p><strong>Learn more</strong></p>\r\n<ul>\r\n<li>Get the multimedia flipbook <a href=\"https://thunderbird.asu.edu/global-mindset\" target=\"_blank\"><i>To Succeed In Global Business, A Global Mindset Is Essential</i></a><i></i></li>\r\n<li>Read related posts: <a href=\"https://thunderbird.asu.edu/knowledge-network/global-mindset-essential\" target=\"_blank\"><i>Why Global Mindset is Essential</i></a>, <a href=\"https://thunderbird.asu.edu/knowledge-network/measuring-global-mindset-article\" target=\"_blank\"><i>Measuring Global Mindset</i></a>, <a href=\"https://thunderbird.asu.edu/knowledge-network/growing-global-mindset\" target=\"_blank\"><i>Growing Your Global Mindset </i></a></li>\r\n<li>Hear Thunderbird professor Mansour Javidan talk about the <a href=\"https://thunderbird.asu.edu/knowledge%20network/global-mindset-inventory-webinar\" target=\"_blank\">Global Mindset Inventory (video)</a></li>\r\n<li>And don’t forget to subscribe to the Knowledge Network newsletter!</li>\r\n</ul>\r\n<p>&nbsp;</p>"
+    format: full_html
+    processed: |
+      <p><strong><i>This quiz is derived from the multimedia flipbook “To Succeed In Global Business, A Global Mindset Is Essential.” For a complimentary download of the flipbook, visit </i><a href="https://thunderbird.asu.edu/global-mindset" target="_blank"><i>https://thunderbird.asu.edu/global-mindset&nbsp;</i></a></strong></p>
+      <p><iframe id="quizWidget-266045" width="100%" height="700px" frameborder="0" border="none" src="https://www.qzzr.com/widget/quiz/fi9xdWl6emVzLzI2NjA0NQ"></iframe></p>
+      <p><a href="https://thunderbird.asu.edu/global-mindset" target="_blank"><i><span class="btn btn-primary">Download Global Mindset Flipbook</span></i></a></p>
+      <p>When Thunderbird Professor <a href="https://thunderbird.asu.edu/mansour-javidan" target="_blank">Mansour Javidan</a> is working with business leaders to help them better understand the role of Global Mindset in their organizations – and how to develop it further – he starts with a series of questions. Run through them yourself now:</p>
+      <p><i>Mansour Javidan teaches these concepts in depth in the Global Mindset for Strategic Leadership program, which is offered April 10-13 in Glendale, Arizona. Enhance your strategic global leadership perspectives and capabilities for increased influence across cultures and greater overall success with global responsibilities. </i><a href="https://thunderbird.asu.edu/executive-education/programs/global-strategic-leadership" target="_blank"><i>Learn more about the Global Mindset for Strategic Leadership program.</i></a></p>
+      <p><strong>Learn more</strong></p>
+      <ul>
+      <li>Get the multimedia flipbook <a href="https://thunderbird.asu.edu/global-mindset" target="_blank"><i>To Succeed In Global Business, A Global Mindset Is Essential</i></a><i></i></li>
+      <li>Read related posts: <a href="https://thunderbird.asu.edu/knowledge-network/global-mindset-essential" target="_blank"><i>Why Global Mindset is Essential</i></a>, <a href="https://thunderbird.asu.edu/knowledge-network/measuring-global-mindset-article" target="_blank"><i>Measuring Global Mindset</i></a>, <a href="https://thunderbird.asu.edu/knowledge-network/growing-global-mindset" target="_blank"><i>Growing Your Global Mindset </i></a></li>
+      <li>Hear Thunderbird professor Mansour Javidan talk about the <a href="https://thunderbird.asu.edu/knowledge%20network/global-mindset-inventory-webinar" target="_blank">Global Mindset Inventory (video)</a></li>
+      <li>And don’t forget to subscribe to the Knowledge Network newsletter!</li>
+      </ul>
+      <p>&nbsp;</p>
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Global Mindset Quiz'
+    title: 'Global Mindset Quiz'
+    width: 1328
+    height: 1066
+    target_type: file
+    target_uuid: 0a5a4565-1d90-4dad-bd5a-7cef344fb427
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.0a5a4565-1d90-4dad-bd5a-7cef344fb427
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

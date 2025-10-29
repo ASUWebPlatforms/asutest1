@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: d2144d1d-876e-427c-874b-d3200443b23f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'And the Journey Begins...'
+created:
+  -
+    value: '2014-02-04T09:19:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/journey-begins
+body:
+  -
+    value: "<h4>Sawadee Ka</h4>\r\n<p>It has been a whirlwind adventure for the Wedu TEM Lab team.&nbsp; After a brief yet intensive week in Glendale, the team boarded a plane bound for the politically tense turf of Thailand, only to find a peaceful county with extremely generous people.&nbsp;<span>&nbsp;</span></p>\r\n<p>Mario, the Director and CEO of Wedu met the team as they departed the plane and arranged for a taxi to drop them off at the “House by the Pond”, their home for the next five weeks.&nbsp; The sights, smells and sounds were unique, new and unusual.&nbsp; Daisuke, our tried and true international guide, successfully led the team through the many streets of Bangkok to find the nearest 7-11 to stock up on Thai snacks, noodles and soap… just what we needed after a 18+ hour plane ride to SE Asia.<span>&nbsp;</span></p>\r\n<p><img src=\"/sites/default/files/dscf3310.jpg\" alt=\"\" width=\"480\" height=\"360\" class=\"Image img__fid__1411 img__view_mode__default\"></p>\r\n<p><span>The “Mandatory” Monday AM Meeting was the team’s first encounter with the Wedu staff and visionaries.&nbsp; It consisted of quick introductions, brief reports and a lot of laughter as everyone shared “fun facts” about themselves.&nbsp; After a long morning of debriefing, the TEM team was able to have their first experiential “Thai experience”.&nbsp; They followed the Wedu visionaries down a back alley past countless small street shops and businesses into a small courtyard full of folding tables, rickety old chairs, and friendly food vendors.&nbsp; “Al a carte” [<em>sic</em>]<em>,</em>&nbsp;was the menu, and the adventure was the “catch of the day”.&nbsp; The workday ended with project synopsis overview, followed by a thorough project deliverables review.&nbsp; Everyone enjoyed some social time on the 47</span>th<span>&nbsp;open-air floor of the building that had a panoramic view of the city.</span></p>\r\n<p><img src=\"/sites/default/files/img_0272.jpg\" alt=\"\" width=\"480\" height=\"319\" class=\"Image img__fid__1412 img__view_mode__default\"></p>\r\n<p>Things seemed to be slowing down, and calming down for the day… that is until the team experienced their second “Thai experience” which ended up feeling like a high speed chase through the crowded, roadblock streets of Bangkok in a Tuk Tuk made for two and packed full of four exhausted, excited “Thunderbird TEM Labbers.”</p>\r\n<p><span>Excitement and exhilaration are running extremely high, even though each TEM member is still fighting off a serious case of jet lag.&nbsp; Without question, each team member is eager for their next “Thai experience” by day’s end….</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

@@ -1,0 +1,204 @@
+<?php
+use Drupal\group\Entity\Group;
+use Drupal\Core\Datetime\DrupalDateTime;
+use Drupal\paragraphs\Entity\Paragraph;
+
+/**
+ * @file
+ * Contains tb_gdmi_hubspot.module.
+ */
+function tb_gdmi_hubspot_get_diff_days($current_day, $date, $timezone) {
+  $due_date = new DrupalDateTime($date, $timezone);
+  $due_date->setTime(0, 0, 0);
+
+  $current_day_clone = clone $current_day;
+  $current_day_clone->setTimezone(new DateTimeZone($timezone));
+  $current_day_clone->setTime(0, 0, 0);
+
+  $interval = $current_day_clone->diff($due_date);
+  $days_difference = (int) $interval->format('%a');
+
+  return ['days' => $days_difference, 'invert' => $interval->invert];
+}
+
+// This is the reminders and invitations cron job that runs every day.
+function tb_gdmi_hubspot_daily_cron() {
+
+  $membership_loader = \Drupal::service('group.membership_loader');
+  $gdmi_mailer = \Drupal::service('tb_gdmi.gdmi_mailer');
+  $gdmi_groups = \Drupal::service('tb_gdmi.gdmi_groups');
+
+  $current_day = new DrupalDateTime();
+  $current_day->setTime(0, 0, 0);
+
+  // CUSTOM REMINDERS BEFORE DUE DATE AND AFTER INVITE.
+  $query = \Drupal::database()->query("
+  SELECT pi.id AS id, pfmt.field_message_type_value AS message_type,
+  gftz.field_time_zone_value AS timezone, pfd.field_days_value AS days,
+  pfst.field_schedule_type_value As schedule_type, g.id AS gid,
+  gfdd.field_due_date_value AS due_date, COALESCE(gfisd.field_invite_sent_date_value, '') AS invite_sent_date
+  FROM {groups} g
+  INNER JOIN {groups_field_data} gfd ON g.id = gfd.id
+  INNER JOIN {group__field_status} gfs ON g.id = gfs.entity_id
+  INNER JOIN {group__field_custom_reminders} fcr ON g.id = fcr.entity_id
+  INNER JOIN {group__field_time_zone} gftz ON gftz.entity_id = g.id
+  INNER JOIN {group__field_start_date} gfsd ON gfsd.entity_id = g.id
+  INNER JOIN {group__field_due_date} gfdd ON gfdd.entity_id = g.id
+  LEFT JOIN {group__field_invite_sent_date} gfisd ON gfisd.entity_id = g.id
+  INNER JOIN {group__field_partic_reminders_type} gfprt ON gfprt.entity_id = g.id
+  INNER JOIN {paragraphs_item} pi ON fcr.field_custom_reminders_target_id = pi.id
+  INNER JOIN {paragraph__field_schedule_type} pfst ON pfst.entity_id = pi.id
+  INNER JOIN {paragraph__field_message_type} pfmt ON pfmt.entity_id = pi.id
+  INNER JOIN {paragraph__field_reminder_sent} pfrs ON pfrs.entity_id = pi.id
+  INNER JOIN {paragraph__field_days} pfd ON pfd.entity_id = pi.id
+  WHERE gfd.status = 1
+  AND g.type = 'gdmi'
+  AND gfs.field_status_value = 'ongoing'
+  AND pfst.field_schedule_type_value IN ('before', 'after')
+  AND pfrs.field_reminder_sent_value = 0
+  AND gfprt.field_partic_reminders_type_value = 'custom'
+  AND DATE(gfdd.field_due_date_value) >= :current_day
+  AND DATE(gfsd.field_start_date_value) <= :current_day
+  ",
+  [
+    ':current_day' => $current_day->format('Y-m-d'),
+  ]);
+
+  $data = $query->fetchAll();
+
+  foreach ($data as $item) {
+
+    $gap_days = $item->days;
+
+    if ($item->schedule_type == 'before') {
+
+      $days_difference = tb_gdmi_hubspot_get_diff_days($current_day, $item->due_date, $item->timezone);
+
+      if ($gap_days == $days_difference['days']) {
+        $reminder = Paragraph::load($item->id);
+        $group = Group::load($item->gid);
+        $participants = $membership_loader->loadByGroup($group, ['gdmi-participant']);
+        $gdmi_mailer->sendParticipantsReminders($participants, $group);
+        $reminder->set('field_reminder_sent', TRUE);
+        $reminder->save();
+      }
+
+    } else {
+      $invite_sent_date = $item->invite_sent_date;
+
+      if ($invite_sent_date != NULL && !empty($invite_sent_date)) {
+
+        $days_difference = tb_gdmi_hubspot_get_diff_days($current_day, $invite_sent_date, $item->timezone);
+
+        if ($gap_days == $days_difference['days']) {
+          $reminder = Paragraph::load($item->id);
+          $group = Group::load($item->gid);
+          $participants = $membership_loader->loadByGroup($group, ['gdmi-participant']);
+          $gdmi_mailer->sendParticipantsReminders($participants, $group);
+          $reminder->set('field_reminder_sent', TRUE);
+          $reminder->save();
+        }
+      }
+    }
+  }
+
+  // DEFAULT REMINDER 1 DAY BEFORE DUE DATE.
+  $max_date = (clone $current_day)->modify('+1 days');
+  $query_default = \Drupal::database()->query("
+  SELECT g.id AS gid, gftz.field_time_zone_value AS timezone, gfdd.field_due_date_value AS due_date
+  FROM {groups} g
+  INNER JOIN {groups_field_data} gfd ON g.id = gfd.id
+  INNER JOIN {group__field_status} gfs ON g.id = gfs.entity_id
+  INNER JOIN {group__field_time_zone} gftz ON gftz.entity_id = g.id
+  INNER JOIN {group__field_due_date} gfdd ON gfdd.entity_id = g.id
+  INNER JOIN {group__field_partic_reminders_type} gfprt ON gfprt.entity_id = g.id
+  WHERE gfd.status = 1
+  AND g.type = 'gdmi'
+  AND gfs.field_status_value = 'ongoing'
+  AND gfprt.field_partic_reminders_type_value = 'default'
+  AND DATE(gfdd.field_due_date_value) > :current_date
+  AND DATE(gfdd.field_due_date_value) <= :max_date
+  ", [
+    ':current_date' => $current_day->format('Y-m-d'),
+    ':max_date' => $max_date
+  ]);
+  $data_default = $query_default->fetchAll();
+
+  foreach ($data_default as $item) {
+
+    $days_difference = tb_gdmi_hubspot_get_diff_days($current_day, $item->due_date, $item->timezone);
+
+    if ($days_difference['days'] == 1 && $days_difference['invert'] == 0) {
+      $group = Group::load($item->gid);
+      $availability = $gdmi_groups->checkGroupAvailability($group);
+      if ($availability['available']) {
+        $participants = $membership_loader->loadByGroup($group, ['gdmi-participant']);
+        $gdmi_mailer->sendParticipantsReminders($participants, $group);
+      }
+    }
+  }
+
+  // CUSTOM REMINDERS SELECT DATE.
+  $select_date_query = \Drupal::database()->query("
+  SELECT pi.id AS id, pfmt.field_message_type_value AS message_type, 
+  pfd.field_date_value AS date, gftz.field_time_zone_value AS timezone,
+  g.id AS gid
+  FROM {groups} g
+  INNER JOIN {groups_field_data} gfd ON g.id = gfd.id
+  INNER JOIN {group__field_status} gfs ON g.id = gfs.entity_id
+  INNER JOIN {group__field_custom_reminders} fcr ON g.id = fcr.entity_id
+  INNER JOIN {group__field_time_zone} gftz ON gftz.entity_id = g.id
+  INNER JOIN {paragraphs_item} pi ON fcr.field_custom_reminders_target_id = pi.id
+  INNER JOIN {paragraph__field_schedule_type} pfst ON pfst.entity_id = pi.id
+  INNER JOIN {paragraph__field_date} pfd ON pfd.entity_id = pi.id
+  INNER JOIN {paragraph__field_message_type} pfmt ON pfmt.entity_id = pi.id
+  INNER JOIN {paragraph__field_reminder_sent} pfrs ON pfrs.entity_id = pi.id
+  WHERE gfd.status = 1
+  AND g.type = 'gdmi'
+  AND gfs.field_status_value = 'ongoing'
+  AND pfst.field_schedule_type_value = 'datetime'
+  AND DATE(pfd.field_date_value) = :date
+  AND pfrs.field_reminder_sent_value = 0
+  ", [':date' => $current_day->format('Y-m-d')]);
+
+  $select_date = $select_date_query->fetchAll();
+  
+  foreach ($select_date as $item) {
+    $reminder = Paragraph::load($item->id);
+    $group = Group::load($item->gid);
+    $participants = $membership_loader->loadByGroup($group, ['gdmi-participant']);
+    $gdmi_mailer->sendParticipantsReminders($participants, $group);
+    $reminder->set('field_reminder_sent', TRUE);
+    $reminder->save();
+  }
+
+  // GROUPS PENDING INVITATIONS SELECT DATE.
+  $next_day = new DrupalDateTime('+1 day');
+  $next_day->setTime(0, 0, 0);
+  $select_date__inv_query = \Drupal::entityQuery('group')
+    ->condition('type', 'gdmi')
+    ->condition('field_partic_schedule_type', 'datetime')
+    ->condition('field_status', 'ongoing')
+    ->condition('field_invitations_sent', 0)
+    ->condition('status', 1)
+    ->condition('field_start_date', $current_day->format('Y-m-d\TH:i:s'), '>=')
+    ->condition('field_due_date', $current_day->format('Y-m-d\TH:i:s'), '>=')
+    ->condition('field_partic_inv_schedule_date', [
+      $current_day->format('Y-m-d\T00:00:00'),
+      $current_day->format('Y-m-d\T23:59:59')
+    ], 'BETWEEN')
+    ->accessCheck(FALSE);
+
+  $ids = $select_date__inv_query->execute();
+  $groups = Group::loadMultiple($ids);
+
+  foreach ($groups as $group) {
+    $participants = $membership_loader->loadByGroup($group, ['gdmi-participant']);
+    $gdmi_mailer->sendParticipantsInvitations($group, $participants, FALSE);
+    $group->set('field_invitations_sent', TRUE);
+    $group->set('field_invite_sent_date', $current_day->format('Y-m-d\TH:i:s'));
+    $group->save();
+  }
+
+  \Drupal::logger('tb_gdmi')->notice('tb_gdmi_hubspot_daily_cron runs');
+}

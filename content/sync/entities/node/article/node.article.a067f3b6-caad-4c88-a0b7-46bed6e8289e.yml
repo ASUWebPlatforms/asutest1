@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: a067f3b6-caad-4c88-a0b7-46bed6e8289e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-06-27T19:01:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 02563339-799d-4bf1-9ba5-07a313feb6c9
+title:
+  -
+    value: 'Consulting Academy Gives T-birds an Edge'
+created:
+  -
+    value: '2017-06-27T18:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-06-27T19:01:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/we-are-launching-thunderbird-consulting-academy-program-fall
+body:
+  -
+    value: "<p>[[{\"fid\":\"5709\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Consulting Academy Program\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Consulting Academy Program\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Consulting Academy Program\",\"title\":\"Thunderbird Consulting Academy Program\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\"}}]]The Thunderbird Career Management Center (CMC) has created a 10-week “Consulting Academy Program” with the aim of preparing high-achieving students for careers in the field of consulting. The inaugural program will be open to incoming students starting in the Fall of 2017. Preparing for a career in consulting is a long and intensive process so the Academy will begin working with students immediately following the start of their degree programs.</p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">We seek to recruit top students who are committed to pursuing careers in consulting; this will be a high-touch program with a competitive application process including an essay and in-person powerpoint presentation. The inaugural cohort will consist of <strong>5 students, each of whom will be paired with a T-bird alumni coach</strong>. The coaches - all of whom work in consulting - will be volunteering their time to orient students to the consulting industry and coach students in areas such as resume building, case interviewing, storytelling (i.e., presentation development) and data analytics. The CMC will provide students and coaches with a detailed weekly schedule outlining topics/milestones and coaches will be instructed to share consulting-specific knowledge and insights with their students throughout the duration of the program. We will also invite guest speakers to give content-specific presentations either on campus or virtually. As part of the program, students will be encouraged to hone their skills (i.e., case interviewing) by practicing and critiquing with their cohort peers, and to practice and request feedback from their individual coaches. &nbsp;</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">The CMC will manage the program and make sure that relationships between coaches and students are productive and fruitful. <strong>If you are interested in getting involved either as an alumni coach or consulting coach for a specific topic, email <a href=\"mailto:employer.relations@thunderbird.edu?subject=Consulting%20Program\">employer.relations@thunderbird.edu</a>.</strong></span></p>\r\n<p style=\"font-size: 24px; color: #ffffff;\" class=\"btn btn-gold\"><a href=\"mailto://employer.relations@thunderbird.edu%20\"><strong></strong></a><a href=\"mailto://employer.relations@thunderbird.edu%20\"><strong>Contact us to learn more&nbsp;</strong></a></p>\r\n<hr>\r\n<p>&nbsp;</p>\r\n<h4><strong>Program Offering:</strong></h4>\r\n<ul>\r\n<li>Provide special training for the top candidates whose applications are selected by a group of professional consultant coaches</li>\r\n<li>Career-track guided direction from faculty, staff, and alumni</li>\r\n</ul>\r\n<table style=\"width: 100%;\">\r\n<tbody>\r\n<tr>\r\n<td><strong>Timing</strong></td>\r\n<td><strong>Topic</strong></td>\r\n</tr>\r\n<tr>\r\n<td>Week 1 : September 4 - 8, 2017</td>\r\n<td>Alumni Coach Pairing<br> Gap Analysis</td>\r\n</tr>\r\n<tr>\r\n<td>Week 2 : September 11 - 15, 2017</td>\r\n<td>Resume Review &amp; Feedback</td>\r\n</tr>\r\n<tr>\r\n<td>Week 3 : September 18 - 22, 2017</td>\r\n<td>30 second pitch<br> Mock behavioral interview</td>\r\n</tr>\r\n<tr>\r\n<td>Week 4 : October 2 - 6, 2017</td>\r\n<td>Presentation training</td>\r\n</tr>\r\n<tr>\r\n<td>Week 5: October 9 - 13, 2017</td>\r\n<td>Presentation Practice &amp; Implementation</td>\r\n</tr>\r\n<tr>\r\n<td>Week 6 : October 16 - 20, 2017</td>\r\n<td>Data analytics training</td>\r\n</tr>\r\n<tr>\r\n<td>Week 7: October 23 - 27, 2017</td>\r\n<td>Data Analytics Practice &amp; Implementation</td>\r\n</tr>\r\n<tr>\r\n<td>Week 8 : October 30 - November 3, 2017</td>\r\n<td>Case interview training</td>\r\n</tr>\r\n<tr>\r\n<td>Week 9: November 6 - 10, 2017</td>\r\n<td>Case Interview Practice &amp; Implementation</td>\r\n</tr>\r\n<tr>\r\n<td>Week 10: November 13 - 17, 2017</td>\r\n<td>Final Presentation</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><strong>Timeline:</strong></p>\r\n<ul>\r\n<li>Deadline for students to submit application: August 21, 2017</li>\r\n<li>Deadline to announce winners: August 31, 2017</li>\r\n<li>Start programming: September 4, 2017</li>\r\n<li>Final Presentation: Between November 13 and 17, 2017</li>\r\n</ul>\r\n<p><strong>Target Audience:</strong></p>\r\n<ul>\r\n<li>Size of the group: 5 students</li>\r\n<li>Target students: 2017 Fall incoming students</li>\r\n</ul>\r\n<p><strong>Selection Committee:</strong></p>\r\n<div align=\"center\">\r\n<table style=\"width: 100%;\">\r\n<tbody>\r\n<tr>\r\n<td>Career Management Center</td>\r\n<td>Guy Groff</td>\r\n<td>Senior Director, Career Management</td>\r\n</tr>\r\n<tr>\r\n<td>Career Management Center</td>\r\n<td>Helen Wu</td>\r\n<td>Director, Employer Relations</td>\r\n</tr>\r\n<tr>\r\n<td>Faculty</td>\r\n<td>Tom Hunsaker</td>\r\n<td>Faculty: Competitive Strategy, Organizational Consulting</td>\r\n</tr>\r\n<tr>\r\n<td>Applied Learning Office</td>\r\n<td>Charles Reeves</td>\r\n<td>Executive Director</td>\r\n</tr>\r\n<tr>\r\n<td>Applied Learning Office</td>\r\n<td>Kate Robertson</td>\r\n<td>Program Manager</td>\r\n</tr>\r\n<tr>\r\n<td>A.T. Kearney</td>\r\n<td>Patrick Hoffmann</td>\r\n<td>Director</td>\r\n</tr>\r\n<tr>\r\n<td>MSS Management Consulting</td>\r\n<td>David Lee</td>\r\n<td>Executive Director; Business Transformation Institute</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 620
+    height: 413
+    target_type: file
+    target_uuid: ba780ab7-2f12-44a7-be66-fbeea739ca00
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.02563339-799d-4bf1-9ba5-07a313feb6c9
+    file:
+      - file.image.ba780ab7-2f12-44a7-be66-fbeea739ca00
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

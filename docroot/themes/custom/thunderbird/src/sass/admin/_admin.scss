@@ -1,0 +1,225 @@
+// Media modal styling - Fixes resizing bug from Webspark
+.media-library-widget-modal {
+    left: 50% !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%);
+    max-width: 800px !important;
+}
+
+// Media selector styling
+#media-library-content {
+    // Grid vs Table view styling
+    header {
+        padding-bottom: 1rem;
+
+        a {
+            display: inline-block;
+            min-width: 80px;
+            padding: 12px;
+            position: relative;
+            text-align: center;
+            text-decoration: none;
+
+            &:before {
+                content: '';
+                border: 1px solid $gray-400;
+                height: 100%;
+                left: 0;
+                position: absolute;
+                top: 0;
+                width: 100%;
+            }
+
+            &.is-active {
+                box-shadow: none !important;
+
+                &:before {
+                    border: 3px solid $gold;
+                }
+            }
+        }
+    }
+
+    .uds-form {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        .form-item {
+            width: calc(50% - 12px);
+
+            .js-form-file {
+                padding-left: 0rem !important;
+            }
+        }
+    }
+
+    // Style the selectable media items
+    .js-media-library-views-form {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 2rem 0;
+
+        .form-actions {
+            display: none;
+        }
+
+        .js-media-library-item {
+            margin-bottom: 16px;
+            padding: 16px;
+            position: relative;
+            width: calc(25% - 12px);
+
+            .js-form-item {
+                margin: 0;
+            }
+
+            .form-check {
+                position: static;
+            }
+
+            .form-check-label {
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                margin-left: 0 !important;
+                clip: initial;
+                border: 1px solid $gray-400;
+                font-size: 0;
+                cursor: pointer;
+
+                &:before, &:after {
+                    content: initial !important;
+                }
+            }
+
+            .form-check-input:checked + label {
+                border: 3px solid $gold;
+            }
+
+            .js-media-library-item-preview img {
+                height: auto;
+                margin: auto auto 1rem;
+                display: block;
+                max-width: 100%;
+            }
+
+            .views-field {
+                font-size: 0.75rem;
+                line-height: 0.75rem;
+                word-wrap: break-word;
+                text-align: center;
+
+                .contextual-region {
+                    display: flex;
+                    flex-direction: column;
+
+                    .name {
+                        order: 2;
+                    }
+
+                    .thumbnail {
+                        img {
+                            max-width: 100%;
+                            margin: auto auto 1rem;
+                            display: block;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    // Style the next/previous links
+    .pager {
+        .pager__items {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .pager__item {
+                padding: 0px 8px;
+
+                a {
+                    display: block;
+                    padding: 0px 8px;
+                    text-align: middle;
+                    border: 1px solid $gray-400;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+
+    // Table view mode
+    .js-media-library-views-form {
+        .table-responsive {
+            > .table-bordered {
+                table-layout: fixed;
+
+                .views-field-media-library-select-form {
+                    padding: 0;
+                    width: 0px;
+                }
+            }
+        }
+    }
+}
+
+// Media add styling (name, alt, directory, caption etc.)
+.js-media-library-add-form {
+    box-shadow: none !important;
+
+    .js-media-library-add-form-added-media {
+        box-shadow: none !important;
+        list-style: none;
+        padding: 0;
+
+        li {
+            box-shadow: none !important;
+            max-width: 100%;
+
+            [data-drupal-selector="edit-media-0-fields"] {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+
+                > div {
+                    width: calc(50% - 12px);
+                }
+            }
+        }
+    }
+}
+
+@include media-breakpoint-down(md) {
+    #media-library-content {
+        .uds-form {
+            .form-item {
+                width: 100%;
+            }
+        }
+
+        .js-media-library-views-form {
+            .js-media-library-item {
+                width: calc(50% - 12px);
+            }
+        }
+    }
+
+    .js-media-library-add-form {
+        .js-media-library-add-form-added-media {
+            li {
+                [data-drupal-selector="edit-media-0-fields"] {
+                    > div {
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: e7dee86a-a825-4ff1-84dc-0fe29130b792
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: phoenix_is_not_silicon_valley_-_and_thats_a_good_thing.jpg
+uri:
+  -
+    value: 'public://article/phoenix_is_not_silicon_valley_-_and_thats_a_good_thing.jpg'
+    url: /sites/default/files/article/phoenix_is_not_silicon_valley_-_and_thats_a_good_thing.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 419827
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-02-06T16:19:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-06T16:19:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

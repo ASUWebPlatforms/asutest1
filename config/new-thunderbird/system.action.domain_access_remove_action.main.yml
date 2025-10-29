@@ -1,0 +1,14 @@
+uuid: 8c1c52ab-ea38-437b-8bef-5f54ee1de62e
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.main
+  module:
+    - domain_access
+id: domain_access_remove_action.main
+label: 'Remove selected content from the Thunderbird domain'
+type: node
+plugin: domain_access_remove_action
+configuration:
+  domain_id: main

@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: c652358f-2c87-46ac-898e-d9867ffe4938
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T18:08:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Microsoft Corporation'
+created:
+  -
+    value: '2016-07-27T18:08:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T18:08:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-02-0016
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case concerns the 1994/95 accounting policy change by Microsoft Corporation wherein the company began deferring approximately 20% of its software sales revenue.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-02-0016
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 49e99386-3743-4afa-9004-48c2417d48e4
+field_case_series_year:
+  -
+    value: '2002-01-01'
+field_case_setting:
+  -
+    value: 'United States 1994/2000'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  - {  }
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: "The case provides sufficient information for students to restate Microsoft's revenue for the period of 1995 through 2000 as if the revenue accounting change had not been under taken. The case also illustrates the use of the cash conversion ratio as a tool to help identify the presence of front-end or rear-end loading of revenues.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.49e99386-3743-4afa-9004-48c2417d48e4

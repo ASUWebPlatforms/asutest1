@@ -1,0 +1,27 @@
+uuid: 9e024845-5e92-4760-b55b-4c212c7b480c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.gdmi_report.field_file
+  module:
+    - file
+    - tb_gdmi_reports
+id: gdmi_report.gdmi_report.field_file
+field_name: field_file
+entity_type: gdmi_report
+bundle: gdmi_report
+label: File
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:file'
+  handler_settings: {  }
+  file_directory: ''
+  file_extensions: pdf
+  max_filesize: ''
+  description_field: false
+field_type: file

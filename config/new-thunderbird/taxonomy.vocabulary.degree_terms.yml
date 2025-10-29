@@ -1,0 +1,8 @@
+uuid: 9ed0bc06-6e33-428b-9e78-445550e8ffda
+langcode: en
+status: true
+dependencies: {  }
+name: 'Degree terms'
+vid: degree_terms
+description: 'Terms (& sessions) used as options in the Apply Now component.'
+weight: 0

@@ -1,0 +1,29 @@
+uuid: 403a50de-3b2a-4587-b5ca-e1f1c9e961fd
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_case_series_field
+    - node.type.case_series
+    - taxonomy.vocabulary.case_series_fields
+id: node.case_series.field_case_series_field
+field_name: field_case_series_field
+entity_type: node
+bundle: case_series
+label: Field
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      case_series_fields: case_series_fields
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

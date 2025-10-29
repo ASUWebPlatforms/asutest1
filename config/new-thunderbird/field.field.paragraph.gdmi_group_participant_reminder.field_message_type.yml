@@ -1,0 +1,23 @@
+uuid: 3742c69f-434e-4033-9127-28e0ab67ba21
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_message_type
+    - paragraphs.paragraphs_type.gdmi_group_participant_reminder
+  module:
+    - options
+id: paragraph.gdmi_group_participant_reminder.field_message_type
+field_name: field_message_type
+entity_type: paragraph
+bundle: gdmi_group_participant_reminder
+label: 'Message Type'
+description: 'The reminder message type'
+required: true
+translatable: false
+default_value:
+  -
+    value: default
+default_value_callback: ''
+settings: {  }
+field_type: list_string

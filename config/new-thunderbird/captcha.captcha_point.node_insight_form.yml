@@ -1,0 +1,7 @@
+uuid: 6d7b60ff-f580-4628-b565-7071e0244fa0
+langcode: en
+status: false
+dependencies: {  }
+formId: node_insight_form
+captchaType: default
+label: node_insight_form

@@ -1,0 +1,43 @@
+uuid: 1b68c411-3262-489e-8f46-91472a294735
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:signposts:f55cbe39-d116-4704-8615-abe9d73943ad'
+  module:
+    - block_content
+    - domain
+    - system
+    - tb_gdmi
+  theme:
+    - thunderbird
+id: gdmidashboardsignpost
+theme: thunderbird
+region: content
+weight: -5
+provider: null
+plugin: 'block_content:f55cbe39-d116-4704-8615-abe9d73943ad'
+settings:
+  id: 'block_content:f55cbe39-d116-4704-8615-abe9d73943ad'
+  label: 'Haven’t purchased the GDMI?'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  domain:
+    id: domain
+    negate: false
+    context_mapping:
+      domain: '@domain.current_domain_context:domain'
+    domains:
+      gdmi: gdmi
+  request_path:
+    id: request_path
+    negate: false
+    pages: /dashboard
+  user_assessment_available:
+    id: user_assessment_available
+    show: 1
+    negate: true

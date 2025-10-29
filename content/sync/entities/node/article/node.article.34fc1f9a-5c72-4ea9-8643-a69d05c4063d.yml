@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 34fc1f9a-5c72-4ea9-8643-a69d05c4063d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-11-12T03:58:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5ea0e9c4-e373-49d5-a651-bae8e5842940
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 5ea0e9c4-e373-49d5-a651-bae8e5842940
+title:
+  -
+    value: 'Thunderbird, Casablanca and 75 Years Gone'
+created:
+  -
+    value: '2017-11-12T03:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-11-12T03:58:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-casablanca-and-75-years-gone
+body:
+  -
+    value: "<p><span><em>[[{\"fid\":\"9338\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird, Casablanca and 75 Years Gone\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird, Casablanca and 75 Years Gone\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird, Casablanca and 75 Years Gone\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird, Casablanca and 75 Years Gone\"}},\"attributes\":{\"alt\":\"Thunderbird, Casablanca and 75 Years Gone\",\"title\":\"Thunderbird, Casablanca and 75 Years Gone\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"},\"link_text\":null}]]</em></span></p>\r\n<p><span><em>By&nbsp;Michael H. Moffett,&nbsp;Associate Professor and Continental Grain Professor in Finance at Thunderbird</em></span></p>\r\n<p><span>I love old movies. Not sure why, maybe a misspent youth, maybe a desire for what I perceived as simpler times gone by, whatever. But one movie has always represented Thunderbird over all others in my mind: Casablanca. 75 years ago this month, November 1942, the Allies invaded French North Africa –&nbsp; Operation Torch – taking control of Casablanca; and a few weeks later, the movie Casablanca was released. A few months before that, the construction of Thunderbird Field 1 had been completed.</span></p>\r\n<p><span>I have for many years waged a small quiet campaign of my own: to make Casablanca the official Thunderbird movie. This is not to disrespect the actual movie filmed on our campus that same year (The&nbsp;</span><a href=\"http://dastornews.com/2017/11/review-thunder-birds-soldiers-of-the-air/\">Thunder Birds</a><span>) but it certainly does not carry the weight and impact of the Bogart classic. After all, what other movie portrays the plight of the Thunderbird more accurately?</span></p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://dastornews.com/2017/11/thunderbird-casablanca-and-75-years-gone/\">Read more...</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1414
+    height: 790
+    target_type: file
+    target_uuid: 99cc64c6-3d9f-496a-8b6a-966be2e8ada1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5ea0e9c4-e373-49d5-a651-bae8e5842940
+    file:
+      - file.image.99cc64c6-3d9f-496a-8b6a-966be2e8ada1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

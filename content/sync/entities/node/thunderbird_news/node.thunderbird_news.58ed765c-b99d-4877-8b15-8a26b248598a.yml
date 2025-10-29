@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 58ed765c-b99d-4877-8b15-8a26b248598a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-05-28T16:18:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Robots to the Rescue! Arizona Students in Lockdown Will Still Get Their Graduation Day'
+created:
+  -
+    value: '2020-05-08T07:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-28T16:18:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/robots-to-the-rescue
+body:
+  -
+    value: '<p><span>Juili Kale''s dreams to receive her master''s degree diploma in a ceremony cheered on by her family were dashed by the coronavirus - until robots came to the rescue.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-05-08T13:45:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 2048
+    height: 1365
+    target_type: file
+    target_uuid: 6e7c6ce1-61d8-4dda-b3f2-5c2a675c350b
+field_news_link:
+  -
+    uri: 'https://uk.reuters.com/article/uk-health-coronavirus-robot-graduation/robots-to-the-rescue-arizona-students-in-lockdown-will-still-get-their-graduation-day-idUKKBN22K1AB'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: 'New York Times'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.6e7c6ce1-61d8-4dda-b3f2-5c2a675c350b

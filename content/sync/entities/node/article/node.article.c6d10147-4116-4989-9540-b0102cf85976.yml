@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: c6d10147-4116-4989-9540-b0102cf85976
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T23:28:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Value Creation: It Is ALL About Your Customer'
+created:
+  -
+    value: '2017-03-09T19:46:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T23:28:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/value-creation-all-about-customer
+body:
+  -
+    value: "<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"4483\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"value-creation\",\"field_file_image_title_text[und][0][value]\":\"value-creation\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"value-creation\",\"field_file_image_title_text[und][0][value]\":\"value-creation\"}},\"link_text\":null,\"attributes\":{\"alt\":\"value-creation\",\"title\":\"value-creation\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">This article is part of a series on Value Creation.&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><a href=\"https://thunderbird.asu.edu/executive-education/programs/value-creation-and-winning\"><i><!--break--></i></a></p>\r\n<p>Google ‘value creation’ and most of what you’ll find refers to creating value for shareholders. But <a href=\"/node/2053\">Thunderbird professor Douglas Olsen</a> says that value creation is about creating value <i>for customers</i>.</p>\r\n<p>Not that the two are mutually exclusive. “In fact,” Olsen says, “if you’re not creating value for the customer you’re not going to create value for the shareholder, not in a sustainable way at least.”</p>\r\n<p>To paraphrase from <a href=\"http://www.economist.com/node/14301714\">The Economist</a>, creating value <i>for the customer</i> is a corporation's raison d'être, the ultimate measure by which it is judged.</p>\r\n<h3>Who are your customers and what do they value?</h3>\r\n<p>Creating value begins with knowing who your customers are, and what they value. It seems obvious, right? And yet…</p>\r\n<h3 style=\"text-align: center;\">Who decided women needed a pen just for them?</h3>\r\n<p>[[{\"fid\":\"4469\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Bic Pens for Women\",\"height\":\"390\",\"width\":\"640\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<h3 style=\"text-align: center;\">Who decided customers wanted Coke to be different?</h3>\r\n<p>[[{\"fid\":\"4470\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"link_text\":null,\"attributes\":{\"alt\":\"1985: Coca-Cola launches new Coke\",\"height\":\"390\",\"width\":\"640\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>&nbsp;</p>\r\n<p>In a business-to-consumer (B2C) environment, the best way to learn what customers value is to ask them. Surveys. Focus groups. Market research. And now – social media can be an easy an effective way to learn what your customers value (at least the subset who are active on social media).</p>\r\n<p>In a business-to-business (B2B) environment, the best way to learn what customers value is to ask the people who spend their days talking to customers – the sales team. As Olsen puts it, “Sales is the front line, talking every day to people about what they actually want. There’s usually no one better equipped to tell you why a product or service is or isn’t working than the sales team.”</p>\r\n<p>Global companies, naturally, face more challenges in determining what their customers value – because customer value often differs quite dramatically from one country or region to another. There, a business has to decide whether to decentralize marketing in order to be as close as possible to the customer, or keep it centralized to reap the benefits of economies of scale and control.</p>\r\n<p>Olsen explains the results of a study on a company with incredibly decentralized marketing: “On one hand, it was great because they were meeting the needs of so many different markets. But on the other hand, there was so little consistency from market to market that rolling out a new product was a herculean task.” That doesn’t mean decentralization is a bad thing. “There is no right answer,” says Olsen. “Sometimes a high level of localization is the best choice for the company, but it comes with a price tag.”</p>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<h3>How do you <i>communicate </i>value to your customers?</h3>\r\n<p>So the first step is to have a product or service that customers <i>actually </i>value. The next is to communicate that value.</p>\r\n<p>This is where many companies fall into the trap of communicating features rather than benefits. People don’t buy products or services for the features, they buy for&nbsp;the need that product or service will meet.</p>\r\n<h3 style=\"text-align: center;\">They just want to find the mayor!</h3>\r\n<p>[[{\"fid\":\"4471\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Buying an emergency cell phone (Portlandia)\",\"height\":\"390\",\"width\":\"640\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><span style=\"background-color: transparent;\">Features do serve a purpose, of course. More cell phone minutes allow you to keep in better touch with your family around the country. But features have to be communicated in terms of the benefits they enable.</span></p>\r\n<h3>Bottom line</h3>\r\n<p>From creating your products and services to selling them, only one thing matters at the end of the day: The value you’re creating for the customer.</p>\r\n<p><strong>Share your story!</strong></p>\r\n<p>Have you experienced firsthand a great success (or failure) in creating value for the customer? Share your story on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n<p><strong>&nbsp;Learn more</strong></p>\r\n<ul>\r\n<li>Read related posts: <a href=\"https://thunderbird.asu.edu/knowledge-network/5-laws-change\"><i>The 5 Laws of Change</i></a>, <a href=\"https://thunderbird.asu.edu/knowledge-network/communicate-value\"><i>How to Communicate Value</i></a>, and <i><a href=\"https://thunderbird.asu.edu/knowledge-network/delivering-value-service\">Delivering Value Through Service</a>&nbsp;</i></li>\r\n<li>Flip through the <a href=\"%20http://www.slideshare.net/Thunderbird1946/value-creation-what-marketers-need-to-know-about-communicating-value\"><i>What Marketers Need to Know About Communicating Value</i> SlideShare&nbsp;</a><i><br></i></li>\r\n<li>And don’t forget to subscribe to the Knowledge Network newsletter!</li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: 'From developing your products and services to selling them, only one thing matters at the end of the day: Value creation for the customer.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 500
+    height: 400
+    target_type: file
+    target_uuid: bedf39dd-ba7f-4a5a-8fbd-fad095c1cb88
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.bedf39dd-ba7f-4a5a-8fbd-fad095c1cb88
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

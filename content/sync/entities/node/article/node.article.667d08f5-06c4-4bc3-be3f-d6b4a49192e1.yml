@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 667d08f5-06c4-4bc3-be3f-d6b4a49192e1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-19T22:37:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: 'Top 10 Employers Looking for Thunderbird Talent'
+created:
+  -
+    value: '2017-06-12T20:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-19T22:37:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/top-10-employers-looking-thunderbird-talent
+body:
+  -
+    value: "<p>[[{\"fid\":\"5522\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"will help prepare you for the internship and full-time job search process with workshops that include modules on self-assessment, company research, résumés, cover letters, networking, interviewing and salary negotiation.\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"will help prepare you for the internship and full-time job search process with workshops that include modules on self-assessment, company research, résumés, cover letters, networking, interviewing and salary negotiation.\"}},\"attributes\":{\"title\":\"will help prepare you for the internship and full-time job search process with workshops that include modules on self-assessment, company research, résumés, cover letters, networking, interviewing and salary negotiation.\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>At Thunderbird, we do more than provide you with the global education and insight to thrive in international management.&nbsp;<a href=\"https://thunderbird.asu.edu/students/career-services\">Thunderbird’s Career Management Center </a>provides the support and services you need to drive your career forward. Whether you’re a working professional advancing your career or a student new to the global workforce, Thunderbird offers resources to help you find fulfilling and satisfying work in growing and thriving industries.</p>\r\n<h3>Top 10 Employers Seeking Thunderbird Students</h3>\r\n<div class=\"row\">\r\n<div class=\"col-md-3\">\r\n<p style=\"text-align: center;\">[[{\"fid\":\"5533\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p style=\"text-align: center;\">Henkel</p>\r\n</div>\r\n<div style=\"text-align: center;\" class=\"col-md-3\">\r\n<p>[[{\"fid\":\"5532\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Ford Credit</p>\r\n</div>\r\n<div style=\"text-align: center;\" class=\"col-md-3\">\r\n<p>[[{\"fid\":\"5527\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"51\",\"width\":\"145\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Continental Grain Company</p>\r\n</div>\r\n<div style=\"text-align: center;\" class=\"col-md-3\">\r\n<p>[[{\"fid\":\"5535\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"55\",\"width\":\"55\",\"style\":\"background-color: transparent; font-size: 1em;\",\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p>U.S. State Department</p>\r\n</div>\r\n</div>\r\n<div style=\"text-align: center;\" class=\"row\">\r\n<div class=\"col-md-3\">\r\n<p>[[{\"fid\":\"5530\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Microsoft</p>\r\n</div>\r\n<div class=\"col-md-3\">\r\n<p>[[{\"fid\":\"5529\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Delphi</p>\r\n</div>\r\n<div class=\"col-md-3\">\r\n<p>[[{\"fid\":\"5531\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Western Union</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div style=\"text-align: center;\" class=\"col-md-3\">\r\n<p>[[{\"fid\":\"5525\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Hilti</p>\r\n</div>\r\n<div style=\"text-align: center;\" class=\"col-md-3\">\r\n<p>[[{\"fid\":\"5524\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p>BizCorps</p>\r\n</div>\r\n<div class=\"col-md-3\">\r\n<p style=\"text-align: center;\">[[{\"fid\":\"5526\",\"view_mode\":\"preview\",\"fields\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"preview\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"height\":\"22\",\"width\":\"117\",\"style\":\"background-color: transparent; font-size: 1em;\",\"class\":\"panopoly-image-thumbnail media-element file-preview\",\"data-delta\":\"1\"}}]]</p>\r\n<p style=\"text-align: center;\">ExxonMobil</p>\r\n</div>\r\n</div>\r\n<p>Through Thunderbird’s online career management portal, <a href=\"https://thunderbird.asu.edu/recruiters\">Handshake</a>, students can convey their qualifications and interests to prospective employers, store multiple résumés, view job postings, create job search agents, apply for positions and schedule interviews.</p>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: 'will help prepare you for the internship and full-time job search process with workshops that include modules on self-assessment, company research, résumés, cover letters, networking, interviewing and salary negotiation.'
+    width: 3450
+    height: 2550
+    target_type: file
+    target_uuid: d332180d-fe0c-4520-82f9-3bc62b784194
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    file:
+      - file.image.d332180d-fe0c-4520-82f9-3bc62b784194
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

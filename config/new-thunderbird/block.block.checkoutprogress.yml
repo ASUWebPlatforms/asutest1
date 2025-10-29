@@ -1,0 +1,28 @@
+uuid: 0f8e011a-afa0-4b82-930a-a779cc34387a
+langcode: en
+status: true
+dependencies:
+  module:
+    - commerce_checkout
+    - domain
+  theme:
+    - thunderbird
+id: checkoutprogress
+theme: thunderbird
+region: sub_header
+weight: -11
+provider: null
+plugin: commerce_checkout_progress
+settings:
+  id: commerce_checkout_progress
+  label: 'Checkout progress'
+  label_display: '0'
+  provider: commerce_checkout
+visibility:
+  domain:
+    id: domain
+    negate: false
+    context_mapping:
+      domain: '@domain.current_domain_context:domain'
+    domains:
+      gdmi: gdmi

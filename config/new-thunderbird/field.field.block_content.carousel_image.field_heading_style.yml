@@ -1,0 +1,23 @@
+uuid: fd9c6bac-6881-43e6-91f9-934c2bbf35fa
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.carousel_image
+    - field.storage.block_content.field_heading_style
+  module:
+    - options
+id: block_content.carousel_image.field_heading_style
+field_name: field_heading_style
+entity_type: block_content
+bundle: carousel_image
+label: 'Heading Style'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: h2
+default_value_callback: ''
+settings: {  }
+field_type: list_string

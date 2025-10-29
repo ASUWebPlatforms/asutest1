@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 01b3cd7a-c3a4-4f5d-a16c-fbf5b9a36a0a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2019-02-05T20:44:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Larry Fink: Greed Was Good; Purpose Is Better'
+created:
+  -
+    value: '2019-01-23T18:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-05T20:44:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/larry-fink-greed-was-good-purpose-better
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">From Milton Friedman to Warren Buffett, profits have been the driving force behind business. Now, the Blackrock CEO says that’s not good enough for the millennial generation.</h3>\r\n<p class=\"graf graf--p graf-after--figure\">Larry Fink, founder and chief executive of the world’s largest money manager, is freaking out. His<a href=\"https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter?cid=ppc%3ABlackRock_USWA%3Agoogle%3Alarryfinkletter&amp;gclid=Cj0KCQiAvqDiBRDAARIsADWh5TdBR_ctGWC3e1xr5Z9dXld1PdfmEF0jWhdza__-dSjHc5eRUy5r1M0aApqxEALw_wcB&amp;gclsrc=aw.ds\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter?cid=ppc%3ABlackRock_USWA%3Agoogle%3Alarryfinkletter&amp;gclid=Cj0KCQiAvqDiBRDAARIsADWh5TdBR_ctGWC3e1xr5Z9dXld1PdfmEF0jWhdza__-dSjHc5eRUy5r1M0aApqxEALw_wcB&amp;gclsrc=aw.ds\">&nbsp;2019 letter&nbsp;</a>admonishing CEOs to start thinking beyond their bottom lines led&nbsp;<em>Barron’s</em>&nbsp;to call him “the new conscience of Wall Street.” But business bosses from Warren Buffett to Sam Zell pushed back hard. They don’t need Fink to tell them where to buy their indulgences, as Medieval kings used to do.</p>\r\n<p class=\"graf graf--p graf-after--p\"><a href=\"https://www.nytimes.com/2019/01/17/business/dealbook/blackrock-larry-fink-letter.html?smid=tw-dealbook&amp;smtyp=cur\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.nytimes.com/2019/01/17/business/dealbook/blackrock-larry-fink-letter.html?smid=tw-dealbook&amp;smtyp=cur\">According to Andrew Ross Sorkin’s&nbsp;<em>DealBook</em></a>, “I didn’t know Larry Fink had been made God,” said real estate billionaire Sam Zell. And Warren Buffett, the chairman of Berkshire Hathaway, said: “I don’t believe in imposing my political opinions on the activities of our businesses.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Although Fink’s letter does have a Ben Franklin-like tone, the message is bold and heretical, and better than its sodden prose. If you believe, as I do, that we are in the middle of a quiet, bloodless revolution (so far), you’ll take his message to heart despite his implicit sermonizing. If Fink hired Gordon Gekko instead of PR flacks, he might have said it this way: “The point is, ladies and gentleman, that greed, for lack of a better word, may have been good in the past, but in today’s world, if you add purpose, it gets even better.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Fink is a billionaire, like many on Wall Street. He is also three things most Wall Streeters are not. A Californian, a Democrat, and a (former) failure. It gives him both a chip on his broad shoulders and an ear for populist politics.</p>\r\n<p class=\"graf graf--p graf-after--p\">Fink started BlackRock in 1999 after being fired from First Boston for a 100-million-dollar lousy bet. Today, BlackRock is the gatekeeper of $12 trillion worldwide, according to&nbsp;<em>Vanity Fair</em>, making it the world’s largest fund manager. When Fink speaks, companies should turn the volume on high.</p>\r\n<p class=\"graf graf--p graf-after--p\">His company, BlackRock, is so big, it was able to absorb,<a href=\"https://www.vanityfair.com/news/2010/04/fink-201004\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.vanityfair.com/news/2010/04/fink-201004\">&nbsp;according to&nbsp;<em>Vanity Fair</em></a>, “The balance sheets of Fannie Mae and Freddie Mac, and the toxic A.I.G. and Bear Stearns assets taken over by the U.S. government.” It was as effortless as a 200-ton Blue Whale swallowing a dinghy. So he understands what moves markets. When he looks out at the entire global market, he sees something worrisome.</p>\r\n<p class=\"graf graf--p graf-after--p\">The clue to his populist instinct is his charitable work where he is a trustee of NYU and the Robin Hood Foundation, where he has also served as chairman. These external boards have taught him that executives must think broader and more deeply about a new generation. He is calling for business leaders to respond to a quiet revolution happening in our cities, our halls of government, and our headquarters. The vanguard of the movement is the millennial generation, with Gen Z right behind.</p>\r\n<p class=\"graf graf--p graf-after--p\">It’s true, the world is in revolt, and business is saddled with some heavy baggage. With a U.S. Presidential election down the road, the candidates who see business as a tempting target are formidable: Elizabeth Warren, Kamala Harris, and as always, the 1960s hippie turned revolutionary, Bernie Sanders. None of them have any illusions about the benefit CEOs provide to society at large.</p>\r\n<p class=\"graf graf--p graf-after--p\">Quite the opposite. They are gunning for big-game as Sanders rallies his forces to attack Amazon, Warren goes after her favorite out-of-state pin cushion, Wells Fargo. You will notice many of the candidates are women as well. Business does not want to be on the opposite end of those battles. This is Fink’s nightmare.</p>\r\n<p class=\"graf graf--p graf-after--p\">Fink’s observation: “As a CEO myself, I feel firsthand the pressures companies face in today’s polarized environment and the challenges of effectively navigating them.” He says the issues are going to be even more challenging with the next generation: “This phenomenon will only grow as millennials and even younger generations occupy increasingly senior positions in business.”</p>\r\n<p class=\"graf graf--p graf-after--p\">When Google withdraws from an air force drone contract or bankers cancel attendance at a Saudi conference due to Jamal Khashoggi’s assassination, it means they have no defensive strategy other than retreat. That’s where Fink believes “purpose” helps.</p>\r\n<p class=\"graf graf--p graf-after--p\">Fink wrote that he had “no intention” of telling companies what their purpose is and made it clear that is something reserved for the CEO. But he also added, “Purpose is not the sole pursuit of profits but the animating force for achieving them.”</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">In 2019, Gordon Gekko would agree.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><strong><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i></strong></p>\r\n<p><strong>Author’s Bio</strong></p>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p>Read more from Jeff:</p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/node/3464\">The Les Moonves Show: Sex and The C Suite</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/demystifying-fall-carlos-ghosn\">Demystifying The Fall Of Carlos Ghosn</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/stop-apologizing-8-social-media-rules\">“I’m Sorry I Tweeted About Politics” — 8 Rules to Stop Saying This</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/starbucks-responds-charges-racism-apology\">Starbucks Responds To Charges of Racism With An Apology</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/quote-trump-misquote-him\">To Quote Trump is to Misquote Him</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/amazon-inspires-comeback-in-heartland\">Amazon Inspires a Comeback in The Heartland</a></li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: 'Larry Fink, founder and chief executive of the world’s largest money manager, is freaking out. His 2019 letter admonishing CEOs to start thinking beyond their bottom lines led Barron’s to call him “the new conscience of Wall Street.” But business bosses from Warren Buffett to Sam Zell pushed back hard. They don’t need Fink to tell them where to buy their indulgences, as Medieval kings used to do.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 750
+    height: 563
+    target_type: file
+    target_uuid: dd75be8f-9feb-42de-bfb5-23e384b49518
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.dd75be8f-9feb-42de-bfb5-23e384b49518
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

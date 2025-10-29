@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: aa692004-b9bf-48aa-a287-b19f26402c90
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'First Week Wrap-Up'
+created:
+  -
+    value: '2014-11-07T06:02:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/c20-1st-week-wrapup
+body:
+  -
+    value: "<p><span>November 7, 2014</span></p>\r\n<p><span><img src=\"/sites/default/files/loi_krathong.jpg\" width=\"200\" height=\"150\" class=\"No Style|nostyle\" hspace=\"10\" vspace=\"10\">The team had a successful and productive week, despite a few setbacks. Since beginning our work on Monday we have had a couple very productive meetings with stakeholders, as well as a cool First Tuesday event in Bangkok. We have also had the opportunity to experience some great aspects of Thai culture.</span></p>\r\n<p><span>After our arrival in Amphawa Sunday night and the great experience of the Floating Market, we awoke Monday to find that, to our surprise, the market is only open Friday - Sunday. Therefore, Monday we had an interesting time trying to figure out where and what to eat since practically everything in the town was closed. We ended finding a street vendor for lunch, and a pizza delivery service for dinner. The fact that we are still in the Thai rainy season and are hit with sudden torrential downpours adds another layer of complexity to finding food sometimes. This was both a surprise and an adjustment, but one of those adventures that ensue in emerging markets. Luckily, we are all in great spirits and are getting along very well so it’s been an adventure together.</span></p>\r\n<p><span>We are very grateful to have Hudson with us. His skills in Thai have really eased a lot of the issues we’ve had. The innkeepers speak no English, and are old enough that Google Translate on devices is also foreign to them. So communicating basic things would have been otherwise impossible if it weren’t for Hudson. As a result, our living situation has been harmonious and smooth.</span></p>\r\n<p><span>Aside from the possible challenges that have been averted or eased because of Hudson’s ability to communicate, there have also been great cultural connections we’ve made. In town we’ve spoken with locals about Thai life and culture; for example, we’ve learned that in Thailand pregnant women systematically consult a fortune teller to establish which day would be best to have the baby, especially if they are planning on birth by means of cesarean section. Last night we were able to enjoy the Loi Krathong holiday, which was a beautiful event and experience.</span></p>\r\n<p><span>Our meetings with our stakeholders have been great. So far everyone has been very accommodating and helpful; we feel like we’ve made great progress, especially in terms of clarification of the overall direction of the project. We even learned that one of the factory owners was almost a Thunderbird. When she was deciding on which American business schools to attend of which she’d been accepted her final decision was between T-bird and University of Illinois. Although she chose the snow over the desert heat it was still a cool talking point that brought us closer.</span></p>\r\n<p><span>The coconut industry in this region is very interesting, and very fragmented. We have been as impressed by the breadth of its impact in these towns as we’ve been with how delicious the coconuts here are. C2O certainly isn’t lying when they claim that water from dwarf Thai coconuts is the best in the world. The five of us have collectively visited several of the major coconut regions of world and we all agree that this is by far the best. And a day isn’t complete without having had a product that is made from fresh coconut, whether it be water drank through a straw straight from the nut, ice cream, candy, gelatin, or the coconut milk in our curry dishes.</span></p>\r\n<p><span>Today is Kyle’s 30th birthday. He is very excited to spend this milestone event with the team and in Thailand. He is also having a major problem with his computer so today we will be heading to Bangkok to see if his technological woes can be fixed, to find a tailor where everyone can have some formal clothes made, and to celebrate his birthday and a successful first week.</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

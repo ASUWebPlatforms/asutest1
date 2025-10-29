@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: 47ba01cb-87b8-4d9e-a1b1-d83479a1b226
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T18:40:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Broadway Metal Equipment Corporation'
+created:
+  -
+    value: '2016-07-27T18:40:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T18:40:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a22-01-0004
+body:
+  -
+    value: '<p>The case involves the sale of production equipment by a U.S. manufacturer, Broadway Metal Equipment (BME), to a large Mexican steel producer Acero del Norte (ADN) that wants to upgrade and expand its capacity. It is a major and complex order for BME, and Acero has required that whoever wins the bid also must provide financing. The project is valued at $35 million, involves more than 60 subcontractors in the US and takes two years to complete before final payment is received.</p><p>The case is designed to examine the methods of structuring the financing of capital goods exports over a two-year period. The case is useful for identifying all the various risks associated with the transaction and possible methods for mitigating these risks. The case also involves an analysis of country risk conditions in Mexico during the period of 1992 to 1999.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A22-01-0004
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: af587d8e-5806-4f70-887d-1d9a3afc6eb0
+field_case_series_year:
+  -
+    value: '2001-01-01'
+field_case_setting:
+  -
+    value: 'US, Mexico'
+field_case_source:
+  -
+    value: Field
+field_case_subject:
+  - {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a5e55343-5295-4088-8d7c-fc0f571a5e77
+field_teaching:
+  -
+    value: "The case may be used in an international finance or international trade course to examine various financial aspects of the competitive financing of international transactions.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.af587d8e-5806-4f70-887d-1d9a3afc6eb0
+      - taxonomy_term.case_series_fields.a5e55343-5295-4088-8d7c-fc0f571a5e77

@@ -1,0 +1,18 @@
+uuid: 55d8d054-9f7f-45b1-8353-6cf4d3217ba7
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.insights
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: block_content.insights
+target_entity_type_id: block_content
+target_bundle: insights
+default_langcode: site_default
+language_alterable: false

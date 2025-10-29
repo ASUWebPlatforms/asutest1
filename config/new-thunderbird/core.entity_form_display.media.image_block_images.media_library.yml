@@ -1,0 +1,70 @@
+uuid: f4c2009f-9eb9-43e1-b92b-1c3dd1f5476b
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.media.media_library
+    - field.field.media.image_block_images.field_media_image
+    - image.style.thumbnail
+    - media.type.image_block_images
+  module:
+    - decorative_image_widget
+    - field_states_ui
+    - image_widget_crop
+_core:
+  default_config_hash: athg1V7lLvYCovYFc7vM7LvhkDZu_8bVB158JQBxDBA
+id: media.image_block_images.media_library
+targetEntityType: media
+bundle: image_block_images
+mode: media_library
+content:
+  directory:
+    type: options_select
+    weight: 1
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_media_image:
+    type: image_widget_crop
+    weight: 3
+    region: content
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
+      crop_preview_image_style: crop_thumbnail
+      crop_list:
+        - images_block
+      crop_types_required:
+        - images_block
+      warn_multiple_usages: true
+      show_crop_area: true
+      show_default_crop: true
+    third_party_settings:
+      decorative_image_widget:
+        use_decorative_checkbox: true
+      field_states_ui:
+        form:
+          type: ''
+          list: ''
+          add: Add
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+  name:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  path: true
+  replace_file: true
+  status: true
+  uid: true

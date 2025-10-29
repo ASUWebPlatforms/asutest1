@@ -1,0 +1,8 @@
+uuid: a321fc53-335e-4a37-a8f2-3f1f481f3c88
+langcode: en
+status: true
+dependencies: {  }
+id: signpost_quote
+label: '- Signpost Quote'
+revision: 0
+description: ''

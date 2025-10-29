@@ -1,0 +1,10 @@
+uuid: 2403eec7-adf0-44e0-9298-e95d60541de5
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.signpost_carousel_full_width
+label: 'Signpost Carousel Full Width'
+targetEntityType: media
+cache: true

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: f18eccc5-b4ea-4f59-8693-f296ad657122
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Want to Keep Customers Coming Back? Invite Their Participation'
+created:
+  -
+    value: '2016-06-06T19:37:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/keep-customers-coming-back
+body:
+  -
+    value: "<p>Most companies go to great lengths to get inside the minds of customers. They track sales data, identify trends and extrapolate hypotheses. Yet they often overlook the direct approach of soliciting customer participation. When companies do reach out to customers, often the goal is to create brand evangelists for existing products and services — rather than gathering input for making improvements. The rationale is that positive word of mouth drives new customer acquisition while building loyalty among those engaged in creating the buzz. This approach has merit. But our research, published in the Winter 2014 issue of&nbsp;<a href=\"http://sloanreview.mit.edu/article/why-customer-participation-matters/\" target=\"_blank\">MIT Sloan Management Review</a>, shows that encouraging customers to provide direct feedback helps tie them more closely to the business than word-of-mouth activity.</p>\r\n<p>Besides allowing companies to identify customers’ unmet needs, inviting their input and feedback creates a strong sense of participation that keeps customers coming back and spending more — regardless of whether they spread positive word of mouth. Companies can even recapture defecting customers simply by contacting them and encouraging them to participate. Put in terms the CEO can understand, if you had to choose one, emphasizing customer participation over word-of-mouth activity would be good for the bottom line. Here are six guidelines to consider:</p>\r\n<p><strong>1. Let go of fear.</strong>&nbsp;Many companies do not ask for feedback because they fear their customers might overload them with impractical suggestions. Other companies fear they won’t know how to respond. The key is to let go of the assumption that the company always knows best.</p>\r\n<p><strong>2. Start simple.&nbsp;</strong>Customer participation does not have to be complex. The easier it is for customers to provide input and the less time it takes, the more likely it is that different types of customers will engage. After getting started, companies can expand their listening activities over time.</p>\r\n<p><strong>3. Be strategic.&nbsp;</strong>Customer engagement might start as a “bolt on” tactical solution in the marketing mix, but it should evolve into something more embedded in the strategic fabric of the organization.</p>\r\n<p><strong>4. Use social media.</strong>&nbsp;Digital networks such as Facebook and LinkedIn create opportunities for companies to gather input in real time — often while the customer experience is ongoing. The challenge is learning to relinquish the right amount of control to the community.</p>\r\n<p><strong>5. Do not force it.</strong>&nbsp;Customers want participation to feel voluntary rather than forced. Companies that require feedback when their customers have unpleasant experiences, for example, might do more harm than good.</p>\r\n<p><strong>6. Close the loop.&nbsp;</strong>Customers want their participation to matter. When they invest their time, they want to know that they are heard and that their involvement can make a difference. Thus, companies should keep customers informed about how managers are using their information.</p>\r\n<p>A longer version of this article,&nbsp;<a href=\"http://sloanreview.mit.edu/article/why-customer-participation-matters/\" target=\"_blank\">Why Customer Participation Matters</a>, appears in the Winter 2014 issue of&nbsp;<em>MIT Sloan Management Review.</em></p>\r\n<p><em><strong><a href=\"/node/165\" target=\"_blank\">Seigyoung Auh, Ph.D.</a>&nbsp;,&nbsp;</strong>is a marketing professor at Thunderbird; Omar Merlo, Ph.D., and Andreas B. Eisingerich, Ph.D., are marketing professors at Imperial College Business School in London, United Kingdom.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

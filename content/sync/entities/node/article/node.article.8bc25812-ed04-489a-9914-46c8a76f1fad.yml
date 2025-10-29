@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 8bc25812-ed04-489a-9914-46c8a76f1fad
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T14:40:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'How Mentors and Sponsors Help Women Succeed in Business'
+created:
+  -
+    value: '2017-05-30T14:08:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T14:40:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-mentors-and-sponsors-help-women-succeed-business
+body:
+  -
+    value: "<p>Christine Lagarde, managing director of the International Monetary Fund (IMF), says that “<a href=\"http://women-initiative-foundation.com/img/breaking_through_foreword_christine_lagarde.pdf\" target=\"_blank\">if women were employed at the same rate as men</a>, GDP would increase by 5 percent in the United States, by 9 percent in Japan, and by 27 percent in India.”</p>\r\n<p>I spoke with Martine Liautaud, founder of the&nbsp;<a href=\"http://women-initiative-foundation.com/\">Women Initiative Foundation</a>(WIF) and author of “<a href=\"http://www.amazon.com/Breaking-Through-Stories-Practices-Companies/dp/1119261333/\" target=\"_blank\">Breaking Through: Stories and Best Practices From Companies That help Women Succeed</a>,” about empowering women in the workplace.</p>\r\n<p>“I am convinced that mentoring and sponsoring women is key for the promotion of women in business,” says Liautaud, “and this conviction has been reinforced by female executives around the world.”</p>\r\n<p>Mentoring covers a vast range of programs and schemes. To be successful and rewarding, mentoring has to be a personal relationship between the mentor and the mentee.</p>\r\n<p>It’s based on mutual respect, total confidentiality, and a shared understanding of how to achieve the mentee’s objectives. Mentors use their own experience to provide advice on company knowledge and politics and career acceleration.</p>\r\n<p>For companies, as Gerard Mestrallet, chairman of ENGIE, said, “Studies demonstrate that gender diversity and equality of opportunity can increase our overall performance as a company and we need to recruit a good mix of men and women.”</p>\r\n<p>An active policy of mentoring helps companies reach this goal and helps women become stronger and more able to break through the class ceiling.</p>\r\n<p>Certain rules of organization need to be established to ensure a mentor program’s success, says Liautaud. These include having the mentor and mentee come from different departments, clearly-defined objectives from the beginning, equal involvement in the relationship, regular meetings, rigorous follow-up of the mentoring by the program team, and problem-solving processes.</p>\r\n<h3><strong>Make the most of your personal mentor/mentee relationship</strong></h3>\r\n<p>Before creating or joining a mentoring program, Liautaud contends that it’s important to ask yourself if (a) you’re ready to share and confront your strategy and (b) you’re ready to listen to advice. These things aren’t always easy for an entrepreneur, aspiring manager or executive!</p>\r\n<p>You need to build a trusting relationship with your mentor and both mentor and mentee need to enjoy working together. For the mentor, mentoring introduces you to a huge variety of new businesses. It’s a real win-win relationship — and, for Martine Liautaud, it’s a rewarding human adventure.</p>\r\n<h3><strong>Use mentoring to scale up your business</strong></h3>\r\n<p>Many female entrepreneurs say that they feel isolated and lack networks, and that this limits their business growth. United States entrepreneur Jane Chen, co-founder and CEO of Embrace, says that in setting up a business, there are many tough moments when you just want to quit, and mentoring can help you through them.</p>\r\n<p>In a similar vein, United States entrepreneur Clara Shih, CEO of Hearsay Social, thinks that mentors and sponsors are important in helping women to “lean in” and take risks.</p>\r\n<p>Mentoring is also important when developing your pitching skills, identifying the weaknesses in your strategy, and addressing your business needs. If mentoring becomes sponsoring as well, it opens doors to senior contacts that you would never have had and expands your networks.</p>\r\n<h3><strong>Ensure results through your mentoring program</strong></h3>\r\n<p>For mentoring and sponsoring to be successful, Liautaud argues that they need to be recognized as key to promoting the company’s values, they need to be implemented across the workforce, and must be supported by founders and/or CEOs.</p>\r\n<p>In companies, men need to get involved too, she adds, not only to understand the aspirations and obstacles faced by high-potential women, but to act as mentors and recognize mentoring as a way of understanding the company in fast-changing environments.</p>\r\n<p>At the Bank of New York Mellon, Karen Peetz, the company’s president, is passionate about diversity. Thanks to several measures that include a mentoring program and even reverse mentoring (which connects senior people with junior people for mutual benefit), BNY Mellon has seen a 100-percent increase in the number of women in the workforce, and now says 36 percent of the company’s vice-presidents are women, 26 percent of its mid-level managers are women, and 19 percent of its board members are women.</p>\r\n<p>Liautaud asserts that mentoring creates a virtuous circle — not just for individuals and companies — but also for the national economy.</p>\r\n<p><em><!--break-->Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;<a href=\"http://danamanciagli.com/\">her website</a>.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1280
+    target_type: file
+    target_uuid: ea890550-ba0c-45f9-8b5f-0ddf8501bb0d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.ea890550-ba0c-45f9-8b5f-0ddf8501bb0d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

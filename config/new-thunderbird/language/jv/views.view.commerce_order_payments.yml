@@ -1,0 +1,18 @@
+display:
+  default:
+    display_title: Gawan
+    display_options:
+      fields:
+        operations:
+          label: Operasi
+      exposed_form:
+        options:
+          reset_button_label: Baléknā
+          sort_asc_label: 'Urut Maju'
+          sort_desc_label: 'Urut Mundur'
+      arguments:
+        order_id:
+          exception:
+            title: Kabèh
+  page_1:
+    display_title: Kācā

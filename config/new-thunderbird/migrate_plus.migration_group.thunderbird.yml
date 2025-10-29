@@ -1,0 +1,10 @@
+uuid: 55985621-0660-472b-bca6-0a58568e694b
+langcode: en
+status: true
+dependencies: {  }
+id: thunderbird
+label: Thunderbird
+description: ''
+source_type: null
+module: null
+shared_configuration: null

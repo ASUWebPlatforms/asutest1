@@ -1,0 +1,11 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: မူလပုံစံအတိုင်းပြန်ထားရန်
+      fields:
+        purchased_entity:
+          label: အချက်အလက်
+        remove_button:
+          label: ထုတ်ပယ်/ပယ်ဖျက်

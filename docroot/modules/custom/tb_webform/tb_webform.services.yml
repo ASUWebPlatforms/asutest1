@@ -1,0 +1,6 @@
+services:
+  tb_webform.event_subscriber:
+    class: Drupal\tb_webform\EventSubscriber\TbWebformSubscriber
+    arguments: ['@messenger']
+    tags:
+      - { name: event_subscriber }

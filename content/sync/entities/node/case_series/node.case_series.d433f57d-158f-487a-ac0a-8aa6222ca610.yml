@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: d433f57d-158f-487a-ac0a-8aa6222ca610
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:25:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'InBev and Anheuser-Busch'
+created:
+  -
+    value: '2016-07-16T01:01:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:25:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-10-0015
+body:
+  -
+    value: '<p><span>In early June 2008, Belgian-based InBev NV launched an unsolicited $46.4 billion bid to acquire Anheuser-Busch Co., owner of the 132-year-old Budweiser brand. If completed, the combination would create the world’s largest brewer with sales of about $36 billion annually. The initial response from Anheuser was noncommittal and said, “The company will pursue the course of action that is in the best interests of Anheuser-Busch’s stockholders.” On June 26, Anheuser’s board formally rejected InBev’s original proposal of $65 a share, saying it substantially undervalued the company. In mid-July, InBev raised its offer to $70 a share, and the Anheuser board voted to accept the deal, recognizing that a better offer was unlikely. The $70 price represented a substantial premium for Anheuser shareholders. InBev management now has to prove to their shareholders that the premium was justified.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-10-0015
+field_case_page_length:
+  -
+    value: '11 Pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2969ddb1-7fc0-4599-b26e-4a33282a04ab
+field_case_series_year:
+  -
+    value: '2010-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+field_teaching:
+  -
+    value: 'This case can be used to examine acquisition synergies and merger integration. InBev paid a 35% control premium, which represents a synergy present value of about $13-14 billion that must be captured in the next few years to justify the premium paid. Will there be sufficient synergies to justify the premium? What are the challenges in integrating the two firms?'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.2969ddb1-7fc0-4599-b26e-4a33282a04ab
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b

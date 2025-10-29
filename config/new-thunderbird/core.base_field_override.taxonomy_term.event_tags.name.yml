@@ -1,0 +1,18 @@
+uuid: 2cd7e67c-e099-4d27-8b9e-30230e786fd1
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.event_tags
+id: taxonomy_term.event_tags.name
+field_name: name
+entity_type: taxonomy_term
+bundle: event_tags
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

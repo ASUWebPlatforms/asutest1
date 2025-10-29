@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 778a232b-c5e1-4cef-b4ed-2539465e53ac
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Art of the Pivot'
+created:
+  -
+    value: '2014-06-11T21:38:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/art-of-pivot
+body:
+  -
+    value: "<p><em>By C'pher Gresham</em></p>\r\n<p>Have you ever tried to change the course of a 200,000-ton freighter? It takes a lot of time, work, and effort. &nbsp;</p>\r\n<p><img src=\"/sites/default/files/pivoting_-_img_1524.jpg\" width=\"686\" height=\"166\"></p>\r\n<p>Consulting projects and companies often start with one goal in mind but have to tack to another goal. In startup jargon this is&nbsp;<em>pivoting</em>. Eric Reis, in his book&nbsp;<em>The Lean Startup,&nbsp;</em>defines a pivot as “a structured course correction designed to test a new fundamental hypothesis about the product, strategy, and engine of growth.” Like CEOs and entrepreneurs, consultants must also pivot effectively.</p>\r\n<p>A consulting project starts with an initial idea of the work that lies ahead, or scope of work. When new, project-altering information comes to light, a consulting team can choose either to:</p>\r\n<blockquote><ol>\r\n<li>Forge ahead with the original and dated scope of work</li>\r\n<li>Pivot the scope and deliver the most beneficial work to the client &nbsp;</li>\r\n</ol></blockquote>\r\n<p>Here is our story of pivoting.</p>\r\n<p>While preparing for this trip, we had many in-depth phone conversations with our client, iCAST. The conversations centered on iCAST’s current role in the entrepreneurial ecosystem our mutual expectations on this project.&nbsp;<strong>We understood the main objective to be testing the market demand for entrepreneurial education in Tunisia within the Institut Supérieur des Etudes Technologiques (ISETs).</strong>ISETs are technical training institutions offering various bachelor degrees from information technology to business administration.</p>\r\n<p><img src=\"/sites/default/files/pivoting_-_img_1677_-_version_2_-_blog.jpg\" alt=\"\" width=\"480\" height=\"297\" class=\"Image img__fid__1623 img__view_mode__default\" hspace=\"10\" vspace=\"10\">We met with Ravi Malhotra, the CEO of iCAST, face-to-face for the first time. We met with many of the directors of the ISETs. Through these meetings, we gained insight that the University of Colorado educates the faculty of the ISETs to deliver the entrepreneurial education classes. We met with Dr. Moncef Krarti, the faculty lead of the University of Colorado.&nbsp; Through the plethora of client meetings and stakeholder contact we understood that:</p>\r\n<ul>\r\n<li>University of Colorado leads the entrepreneurial education program</li>\r\n<li>iCAST delivers the service learning (internship) portion in the entrepreneurial education program</li>\r\n<li>ISETs partner with many NGOs and corporations to deliver entrepreneurial education</li>\r\n<li>ISETs are the main gatekeepers to all information and expected to receive valuable insights even though we formally worked just for iCAST.</li>\r\n<li>No longer would we test the market demand for entrepreneurial classes. No longer would we test the effectiveness of the entrepreneurial education program. &nbsp;</li>\r\n</ul>\r\n<p>As a team, we were anchored in testing the market for entrepreneurial education classes. New information had become available, yet we continued to function based on the old information. We needed to adjust our expectations. We needed to adjust our hypotheses. We needed to pivot.</p>\r\n<h4>Pivoting</h4>\r\n<p><span><img src=\"/sites/default/files/pivoting_-_img_1503_-_blog.png\" width=\"400\" height=\"196\" hspace=\"10\" vspace=\"10\">Through many late-night discussions, early morning coffees, and afternoon white-board sessions, we were perplexed about how to adapt our project. We recognized the old project goal was now off-course.&nbsp;</span><strong>This was the most important step in the right direction.</strong><span>&nbsp; We acknowledged that the first expectations were old. &nbsp;We needed to understand the new project objectives. &nbsp;</span></p>\r\n<p><span>&nbsp;</span></p>\r\n<p>We pivoted.</p>\r\n<p><strong>Now, we needed to test the market demand for service learning based projects. We also had to deliver insightful information to the ISETs.</strong></p>\r\n<p>In team meetings we talked through the assumptions of the service-learning program.</p>\r\n<ul>\r\n<li>Did service learning create more employable students? Do students perceive internships as important?</li>\r\n<li>What information will be most valuable to the ISETs? What information do they already have?</li>\r\n</ul>\r\n<p>Because we pivoted, our project is on course to meet the expectations of the client and provide the ISETs with valuable information about their internship program. Now, The information will be appropriate and actionable for our client. &nbsp;</p>\r\n<p>Pivoting is often confusing and difficult. Consultants must neither seek nor avoid course corrections. Consultants must respond swiftly to new information. Constantly checking the assumptions, expectations, and acknowledging new information will significantly help you know when to pivot.</p>\r\n<p>Stay alert and stay engaged. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

@@ -1,0 +1,11 @@
+content:
+  field_body:
+    third_party_settings:
+      maxlength:
+        maxlength_js_label: 'Inhoud beperkt tot @limit tekens, resterend: <strong>@remaining</strong>'
+  field_cta:
+    settings:
+      title_plural: Paragrafen
+  field_cta_secondary:
+    settings:
+      title_plural: Paragrafen

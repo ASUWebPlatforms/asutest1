@@ -1,0 +1,28 @@
+{% set classes = [
+    'video',
+    'container',
+    'block',
+    'block-' ~ configuration.provider|clean_class,
+    'block-' ~ plugin_id|clean_class,
+  ]
+%}
+{{ content.field_anchor_menu_settings }}
+<div{{ attributes.addClass(classes) }}>
+  {# To allow contextual links to display the title_suffix is required. #}
+  {{ title_prefix }}
+  {% if label %}
+    {% block label %}
+      <h2{{ title_attributes }}>{{ label }}</h2>
+    {% endblock %}
+  {% endif %}
+  {{ title_suffix }}
+  {{ content.field_tooltip }}
+  {{ content|without('field_tooltip', 'field_anchor_menu_settings', 'field_image_caption') }}
+ {% if content.field_image_caption|render is not empty %}
+    <figcaption class="figure-caption uds-figure-caption">
+      <span class="uds-caption-text">
+        {{ content.field_image_caption }}
+      </span>
+    </figcaption>
+  {% endif %}    
+</div>

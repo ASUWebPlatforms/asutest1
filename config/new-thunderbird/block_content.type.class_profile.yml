@@ -1,0 +1,8 @@
+uuid: d9619406-41e3-4d63-9f6a-e0673f7b0f9d
+langcode: en
+status: true
+dependencies: {  }
+id: class_profile
+label: 'Class Profile'
+revision: 0
+description: 'To add class profile.'

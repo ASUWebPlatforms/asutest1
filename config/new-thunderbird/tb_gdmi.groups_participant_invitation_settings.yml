@@ -1,0 +1,4 @@
+title: 'Your admin has invited you to take the GDMI!'
+body:
+  value: "<p>Hi [First Name]!</p>\r\n\r\n<p>You’ve been invited to take the GDMI (Global Digital Mindset Inventory).</p>\r\n\r\n<p>Global Digital Mindset Inventory is designed to measure your likelihood of success in helping lead digital transformation in a globally engaged organization. Digital transformation refers to the process of leveraging digital technology by an organization to enhance their client experience, internal operations, or business model through innovation, invention, or efficiency.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Please Note: You need to create an account before you can start the survey.</p>\r\n\r\n<p>\L[Go to Account Button]</p>\r\n"
+  format: full_html

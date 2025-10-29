@@ -1,0 +1,9 @@
+content:
+  field_cta:
+    settings:
+      title: Paragraaf
+      title_plural: Paragrafen
+  field_cta_secondary:
+    settings:
+      title: Paragraaf
+      title_plural: Paragrafen

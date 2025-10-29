@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: e8cb92f7-4e9d-41cc-bf4d-06a70b1f8bb9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:29:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'The Super Irrelevancy Of Uber’s Board'
+created:
+  -
+    value: '2017-08-30T16:46:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:29:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/super-irrelevancy-ubers-board
+body:
+  -
+    value: "<blockquote>\r\n<p><em>“Not to toot our own horn, but&nbsp;</em><span class=\"markup--quote markup--pullquote-quote is-other\" data-creator-ids=\"bd56b52ecbe\"><em>being super relevant in your mid-30s and having five-plus years of venture investing is the dream scenario.” — Uber board director, Benchmark</em></span></p>\r\n</blockquote>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf-after--figure\"><span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">The Benchmark directors on the&nbsp;<a href=\"https://medium.com/u/b97b1b381b5a\" class=\"markup--user markup--p-user\" target=\"_blank\" data-href=\"https://medium.com/u/b97b1b381b5a\" data-anchor-type=\"2\" data-user-id=\"b97b1b381b5a\" data-action-value=\"b97b1b381b5a\" data-action=\"show-user-card\" data-action-type=\"hover\">Uber</a>&nbsp;board actually do like to toot their own horn.</span></p>\r\n<p class=\"graf graf--p graf-after--p\">Among the most successful venture investors in Silicon Valley, Benchmark boasts Uber, Snap, Twitter on their funding shelf. What seems to have happened on Uber’s board, as the company grew beyond what any private company had done before, so did its problems but not the skill to deal with them.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">The board of a venture company has one role, get it to market. Introducing potential buyers, finding skilled talent, and making sure the CEO stays focused, the kind of duties which resemble what a talent agent does for a celebrity. This may explain why the Uber board and Benchmark were so good at building a startup, and so negligent at governing a global giant.</p>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><hr class=\"section-divider\"></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf--leading\">Over a summer weekend,&nbsp;<a href=\"https://medium.com/@Uber\" class=\"markup--user markup--p-user\" target=\"_blank\" data-href=\"https://medium.com/@Uber\" data-anchor-type=\"2\" data-user-id=\"b97b1b381b5a\" data-action-value=\"b97b1b381b5a\" data-action=\"show-user-card\" data-action-type=\"hover\">Uber</a>’s board of directors met to select a finalist for CEO. Ordinarily, the occasion would be marked by a good a California pinot noir. After the hell the company has been through, it would seem natural to want a succession plan to be quiet and distinguished.</p>\r\n<p class=\"graf graf--p graf--leading\">[[{\"fid\":\"6784\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--figure\">Instead, it was celebrated with a tweet from Jeff Immelt announcing his withdrawal, and a pointedly positive nod to the co-founders. His thoughts about board were notably absent. Why?</p>\r\n<p class=\"graf graf--p graf-after--p\">Immelt is to corporate governance what Arnold Schwarzenegger is to weight lifting. He’s done it all, done it well, and done it for a long time. If the CEO selection process failed at the board level with someone of Immelt’s stature, it means they blew it.</p>\r\n<p class=\"graf graf--p graf-after--p\">Was this just the board’s head fake to a prospective candidate? Not likely.</p>\r\n<p class=\"graf graf--p graf-after--p\">A recent&nbsp;<a href=\"https://www.usatoday.com/story/tech/2017/08/24/ges-jeff-immelt-uber-ceo-would-bring-stability-and-outsider-pedigree/580592001/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.usatoday.com/story/tech/2017/08/24/ges-jeff-immelt-uber-ceo-would-bring-stability-and-outsider-pedigree/580592001/\">USA Today article</a>&nbsp;discussed Immelt’s strong prospects for being named the CEO, and the board permitted the story to be published without denial, lending credence to the story. All that was left was the meet and greet.</p>\r\n<p class=\"graf graf--p graf-after--p\">The backstory is a shocker. While negotiations with Immelt were ongoing, some divided factions on Uber’s board, particularly Benchmark, were engaged in deceptive&nbsp;<a href=\"https://www.nytimes.com/2017/08/27/technology/uber-ceo-search.html?mcubz=1\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.nytimes.com/2017/08/27/technology/uber-ceo-search.html?mcubz=1\">collateral discussions</a>, not just with one but two other candidates, HP’s Meg Whitman and the finalist. This news did not become public until after the succession plan blew up when Immelt bowed out. Can anyone blame him?</p>\r\n<p class=\"graf graf--p graf-after--p\">Uber’s directors behaved like a young couple bidding on their first condo, make several offers and try to snatch any of the properties with a lowball. It was not the first misstep in a botched succession plan marked by arrogance and immaturity, and typical of the Silicon Valley “not to toot our own horn” bro mentality, too clever by a half.</p>\r\n<p class=\"graf graf--p graf-after--p\">Like the time they brought in Eric Holder to investigate charges of sexism. This was a ruse to secretly oust Kalanick by bringing in someone with unimpeachable credentials to make sure firing Kalanick was the outcome.</p>\r\n<p class=\"graf graf--p graf-after--p\">Only in recruiting the high profile former Attorney General, the board ignored what they were getting. He is widely known around political circles as a henchman who will find a suitable scapegoat when needed. He was able to take a helping hand from banks during the financial crisis. Soon afterwards, when Occupy Wall Street reared its head, he found the serenity to drag bankers like JP Morgan’s Jamie Dimon through the mud as arch villains.</p>\r\n<p class=\"graf graf--p graf-after--p\">In solving Uber’s sexism issue, Holder was never going to play the part of the ‘The Wolf’ in&nbsp;<em>Pulp Fiction</em>, “Hi, I’m Winston Wolf. I solve problems.” The only problem Holder was going to solve was how to make sure he would be the highest paid investigator a company can bring in to sprinkle holy water. As a result, Holder’s investigation brought more attention than the problem itself.</p>\r\n<p class=\"graf graf--p graf-after--p\">The board wasn’t thinking clearly. They subsequently forgot to read Kalanick’s shareholder rights granting him three board seats. With the split on the board among the VCs, this effectively gave him majority control. Benchmark reacted precipitously by filing a lawsuit against Kalanick for fraudulently obtaining the board’s consent. One wonders what were the VCs drinking when they chose this route?</p>\r\n<p class=\"graf graf--p graf-after--p\">With Benchmark leading the charge, we can safely say this has been the most inept succession plan since Richard Nixon chose Spiro Agnew for the Vice Presidency.</p>\r\n<p class=\"graf graf--p graf-after--p\">Now Uber’s board leaves the company with huge unknowns.</p>\r\n<p class=\"graf graf--p graf-after--p\"><a href=\"https://medium.com/@Uber\" class=\"markup--user markup--p-user\" target=\"_blank\" data-href=\"https://medium.com/@Uber\" data-anchor-type=\"2\" data-user-id=\"b97b1b381b5a\" data-action-value=\"b97b1b381b5a\" data-action=\"show-user-card\" data-action-type=\"hover\">Uber</a>’s new CEO,&nbsp;<a href=\"https://www.nytimes.com/2017/08/27/technology/uber-ceo-search.html?mcubz=1\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.nytimes.com/2017/08/27/technology/uber-ceo-search.html?mcubz=1\">Expedia’s chief, Dara Khosrowshahi</a>, seems like a good choice, although even in the best succession plans things go wrong. Will we find out he lied on his resume, has sexist behavior somewhere in his past, or lacks experience dealing with global regulators? Matters like these will haunt the company and its valuation for some time. If this doesn’t work out, the board will have to search inside or go with a ceremonial CEO. There is an IPO on the horizon, or there was.</p>\r\n<p class=\"graf graf--p graf-after--p\">Then there is&nbsp;<span class=\"markup--quote markup--p-quote is-other\" data-creator-ids=\"bd56b52ecbe\">the Kalanick factor. He has clout, shares, and followers. The board has little control over how he votes or whether he sells his shares.</span>&nbsp;He could sell them for billions but still hurt valuation, he could vote them in a divisive way, he could do anything he pleases and most likely will, because Benchmark went out of its way to humiliate him publicly.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">In an interview before this process began, Benchmark claimed to Recode’s Kara Swisher they were hesitant to toot their own horn. Depending on your view, they are now playing taps or reveille because we are either looking at the end of the firm’s successful legacy or a loud wake up call.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">&nbsp;</p>\r\n<h4><span>Author’s Bio</span></h4>\r\n<p><em><span>Jeff&nbsp;Cunningham&nbsp;is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.&nbsp;</span></em></p>\r\n<p><em><span>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</span></em></p>\r\n<p><em><span>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;</span></em><a href=\"http://www.iconicvoices.tv/\"><em><span>Iconic Voices</span></em></a><em><span>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to&nbsp;JeffImmelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;</span></em><a href=\"http://www.jeffcunningham.com/\"><em><span>JeffCunningham.com.</span></em></a><em><span>&nbsp;</span></em></p>\r\n<p><em><span>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.&nbsp;</span></em></p>\r\n<p><em><span>He has also been a board director of 10 public companies.</span></em></p>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1000
+    height: 558
+    target_type: file
+    target_uuid: 0594a247-cace-4895-a377-9d2706ab83b5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.0594a247-cace-4895-a377-9d2706ab83b5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

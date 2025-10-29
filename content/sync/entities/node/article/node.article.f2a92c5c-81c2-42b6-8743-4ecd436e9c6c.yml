@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: f2a92c5c-81c2-42b6-8743-4ecd436e9c6c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:29:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: '5 Keys to Being a Resilient Leader '
+created:
+  -
+    value: '2018-02-13T20:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:29:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/5-keys-being-resilient-leader-0
+body:
+  -
+    value: "<p class=\"p1\">[[{\"fid\":\"13180\",\"view_mode\":\"responsive_image\",\"fields\":{\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Winning after a loss is often more rewarding than an easy win. It’s the resilient leaders who garner acclaim, achieve their goals and inspire others to do the same.\",\"field_file_image_title_text[und][0][value]\":\"5 Keys to Being a Resilient Leader \"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Winning after a loss is often more rewarding than an easy win. It’s the resilient leaders who garner acclaim, achieve their goals and inspire others to do the same.\",\"field_file_image_title_text[und][0][value]\":\"5 Keys to Being a Resilient Leader \"}},\"attributes\":{\"alt\":\"Winning after a loss is often more rewarding than an easy win. It’s the resilient leaders who garner acclaim, achieve their goals and inspire others to do the same.\",\"title\":\"5 Keys to Being a Resilient Leader \",\"class\":\"media-element file-responsive-image\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"p1\">In business, accepting occasional defeat is just part of the game. Growing from failure is critical. Winning after a loss is often more rewarding than an easy win. It’s the resilient leaders who garner acclaim, achieve their goals and inspire others to do the same.</p>\r\n<p class=\"p1\">What is resilience, and how can you build it? What makes some people persevere through hard circumstances while others begin to fail at the first sign of crisis?&nbsp;Most people will say that resilience is the strength to navigate tough situations, adapt, and function at a high level. And that’s precisely what today’s business leaders need to succeed.&nbsp;&nbsp;</p>\r\n<p class=\"p1\">Here are five characteristics highly resilient people have in common:</p>\r\n<h3 class=\"p1\">1. DETERMINATION</h3>\r\n<p class=\"p1\">Success is seldom a straight road; it almost always involves many detours and dead ends. It takes tenacity and determination to keep going, but those who do will eventually reach their destination. When researchers asked successful people how they see their own success in retrospect, the majority reported that their most important asset was determination.&nbsp;&nbsp;</p>\r\n<p class=\"p1\"><a href=\"https://news.starbucks.com/contact/leadership/howard-schultz\" target=\"_blank\">Howard Schultz, Starbuck’s executive chairman</a>, grew up in a housing project in Brooklyn and this inspired his ambition. At age seven, Schultz came home one day to find his father laying on the couch with a cast from his hip to his ankle after being injured on the job. His father was an army vet and a truck driver with no workman's compensation, no severance, and no health insurance. Schultz&nbsp;told graduates at Arizona State University in 2017, \"When I was seven years old, I had a defining moment in my life. I saw the fracturing of the American Dream and I saw my parents go through hopelessness and despair ... And those scars, that shame, that is with me even today. Your station in life does not define you and the promise of America.” He regrets, however, missing the chance to tell his parents how much their struggle inspired his determination to succeed.</p>\r\n<h3 class=\"p1\">2. CONFIDENCE</h3>\r\n<p class=\"p1\">Resilient people have a clear sense of purpose and clear values; they have a strong drive and direction with established goals. There are different ways people respond to adversity. However, there are studies that show resilient individuals increasingly seek out experiences that stimulate them and provide opportunities for more mastery and success.</p>\r\n<p class=\"p1\">“The secret of making dreams come true can be summarized in four Cs: They are curiosity, confidence, courage, and constancy; and the greatest of all is confidence.” – Walt Disney. This, from a man who was fired from a newspaper for lacking imagination and having no original ideas. Little did his then-employer know!</p>\r\n<h3 class=\"p1\">3. PROBLEM SOLVING</h3>\r\n<p class=\"p1\">A key component of resilience is problem solving. Not everybody is necessarily gifted. But, resilient people use whatever strengths they have to their advantage – a particular talent, an engaging personality, a sharp intellect. Resilient people effectively solve problems that they encounter and don’t waste time pursuing solutions that don’t work. Steve Jobs, through his entire career, displayed the strengths of a highly resilient person.</p>\r\n<p class=\"p1\">“When you first start off trying to solve a problem, the first solutions you come up with are very complex, and most people stop there. But if you keep going, you can often arrive at some very elegant and simple solutions. Most people just don’t put in the time or energy to get there. We believe that customers are smart, and we want objects which are well thought through.” - Steve Jobs</p>\r\n<h3 class=\"p1\">4. POSITIVITY</h3>\r\n<p>When things don’t go as planned, resilient people look for key aspects they learned in the situation and for the lesson they can take away. They don’t view failure as final, but rather as a necessary step to acknowledge that will take them further along the path. Learning from one's mistakes is always a good idea, but it shouldn't affect the level of optimism for what the future holds. Take Oprah Winfrey. If she'd quit after being fired from her first TV anchor job in Baltimore, she'd never have gone on to build a media empire or to build a net worth of $2.9 billion.</p>\r\n<p>\"Right now, you are one choice away from a new beginning - one that leads you toward becoming the fullest human being you can be.\" – Oprah Winfrey</p>\r\n<h3 class=\"p1\">5. COURAGE&nbsp;</h3>\r\n<p>Finally, resilient people have courage. &nbsp;While many of us spend a great deal of time remembering what has gone wrong in life, courageous people focus instead on what they did to survive and thrive during those challenging times. By acknowledging how they succeeded in the face of challenge, they call to the forefront those successful attributes and can put them into practice moving forward.</p>\r\n<blockquote>\r\n<p>“Courage is the most important of all the virtues because without courage, you can’t practice any other virtue consistently” – Maya Angelou</p>\r\n</blockquote>\r\n<p>Resiliency is a powerful tool in life and leadership. By focusing on these 5 keys to building your leadership resiliency, you’ll grow – and so will your confidence.</p>"
+    format: basic_html
+    processed: ''
+    summary: 'What is resilience, and how can you build it? What makes some people persevere through hard circumstances while others begin to fail at the first sign of crisis? Most people will say that resilience is the strength to navigate tough situations, adapt, and function at a high level. And that’s precisely what today’s business leaders need to succeed.  '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1280
+    target_type: file
+    target_uuid: 63b25a60-dedd-4524-9d01-72eb35c9f98e
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    file:
+      - file.image.63b25a60-dedd-4524-9d01-72eb35c9f98e
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 51e1694f-f641-4e10-aa45-7e29d92e8e03
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:19:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'How to Spot a Toxic Workplace'
+created:
+  -
+    value: '2017-11-13T23:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:19:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/how-spot-toxic-workplace
+body:
+  -
+    value: "<p>[[{\"fid\":\"9531\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How to Spot a Toxic Workplace\",\"field_file_image_title_text[und][0][value]\":\"How to Spot a Toxic Workplace\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"How to Spot a Toxic Workplace\",\"field_file_image_title_text[und][0][value]\":\"How to Spot a Toxic Workplace\"}},\"link_text\":null,\"attributes\":{\"alt\":\"How to Spot a Toxic Workplace\",\"title\":\"How to Spot a Toxic Workplace\",\"height\":\"502\",\"width\":\"1000\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]What are the indicators that a company’s culture or workplace could quickly turn toxic?</p>\r\n<p>Toxic company cultures at big companies like Uber and Google have recently been in the news, turning the spotlight onto the subject, but no one is talking about the root causes of a toxic workplace.</p>\r\n<p>So what IS the root cause? People trying to interpret subjective rules, expectations, and policies are at the root. If the rules, expectations, and policies of a company are subjective — left open to interpretation – it invites differing opinions, which invites conflict and can result in the toxicity we have been witnessing.</p>\r\n<p>I spoke to Rex Conner, Lead Partner and Certified Instructional Technologist at&nbsp;<a href=\"http://magerconsortium.com/\">Mager Consortium</a>, about ways to not only identify but fix those toxic situations.</p>\r\n<h3>How to spot a potential toxic workplace</h3>\r\n<p>Whether you are employed by or are on the outside of a company looking-in there are some indicators that you should look for:</p>\r\n<p>Use whatever access you have to people in the company and/or company materials such as job descriptions, policies, and procedures, to identify subjective language, that is, language “open to interpretation.”</p>\r\n<ul>\r\n<li>For example, if a job description consists of vague, subjective phrases such as, “must be a team player,” “have strong communication skills,” “be a power user of authorware;” how is the performance of those skills going to be evaluated in that job? Someone, inevitably, will be making subjective decisions about job performance.</li>\r\n<li>When you ask people in the company, informally or during an interview, how to qualify for pay raises or promotions and the responses are subjective descriptions such as, “excel in your job,” “go the extra mile,” “stay out of trouble,” “keep your quality scores up,” you will probably find that same kind of subjectivity applies when it comes time for pay raises and promotions.</li>\r\n</ul>\r\n<h3>&nbsp;How to remove subjectivity that can lead to a toxic workplace</h3>\r\n<p>Most workplaces are full of subjectivity that can cause conflicts and the associated toxicity, however you may be able to do some damage control even if you aren’t the boss. At least bring some objectivity to your own workplace responsibilities. The more objective the job descriptions, policies, procedures, and processes in a company, the less chance there is for conflict and the workplace turning toxic.</p>\r\n<p>Start with your job description. The ideal, objective job description defines the primary tasks you accomplish in your job, the conditions under which you perform those tasks, and the objective standards by which your performance on each task is evaluated.</p>\r\n<p>Take whichever parts of that formula are lacking to your boss with the humble, sincere intent to turn the subjectivity into objectivity.</p>\r\n<p>You can eliminate the subjective language out of the job descriptions, policies, procedures, and processes through a relatively simple process taught by human performance guru,&nbsp;<a href=\"http://creativeagni.com/ezine/2011/12/instructional-design-recognizing-fuzzies-and-using-them-for-goal-analysis-robert-mager-training-cartoon-coffeebeans/\">Dr. Robert Mager</a>. He calls it&nbsp;<em>Goal Analysis</em>; where subjective language is translated to observable performances. Conner says that calling this a simple process does not mean the effort to review and revise work processes to rid them of subjectivity is easy. It’s work, but the process is not complex.</p>\r\n<p>In addition to the job description, some of the processes that you want to be objective, include:</p>\r\n<ul>\r\n<li>Performance evaluation</li>\r\n<li>Compensation and bonuses</li>\r\n<li>Promotion opportunities</li>\r\n<li>Work schedules and assignments</li>\r\n<li>Awards and recognition</li>\r\n</ul>\r\n<p>“If any of these are open to interpretation,” says Conner, “they are open to the possibility that the interpretation may not be in your favor. A subjective process puts bosses in the tenuous position of being the judge. Yes, you want bosses to have good judgment, but you don’t want subjective guidance applied to your work processes or evaluation.”</p>\r\n<h3>A bad process will beat a good person every time</h3>\r\n<p>When you drill down to the root cause of most workplace conflict, you will most often find a disagreement over a work process that is subjective – left open to interpretation. Even a good boss will find it difficult to be fair and even-handed when they are trying to defend subjective work processes and systems. As W. Edwards Deming – the acknowledged Father of the Quality Movement – put it, “A bad process will beat a good person every time.”</p>\r\n<p>&nbsp;</p>\r\n<p>Join Dana Manciagli’s <a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\"><span style=\"text-decoration: underline;\">Job Search Master Class</span></a> right now and immediately access the most comprehensive job search system currently available!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Read More!</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/6-ways-more-memorable\">6 Ways to Be More Memorable When Networking</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/understand-your-employees-create-happy-workforce-and-save-money\">Understand your employees, create a happy workforce, and save money!</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/party-your-way-new-job\">Party Your Way to a New Job!</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: 7061bb9f-d7cf-4e6b-a978-fbe401a54af1
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.7061bb9f-d7cf-4e6b-a978-fbe401a54af1
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

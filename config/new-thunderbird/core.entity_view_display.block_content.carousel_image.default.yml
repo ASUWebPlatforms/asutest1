@@ -1,0 +1,52 @@
+uuid: 402b7834-6b63-42e6-b569-dcb105310255
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.carousel_image
+    - field.field.block_content.carousel_image.field_anchor_menu_settings
+    - field.field.block_content.carousel_image.field_carousel_card
+    - field.field.block_content.carousel_image.field_heading_level
+    - field.field.block_content.carousel_image.field_heading_style
+    - field.field.block_content.carousel_image.field_spacing_bottom
+    - field.field.block_content.carousel_image.field_spacing_top
+    - field.field.block_content.carousel_image.field_tooltip
+  module:
+    - entity_reference_revisions
+    - field_load_more
+_core:
+  default_config_hash: UmcWMwYAB1nV2DLWPYybp54RPg9_u-Gxtw36E_ppd8Q
+id: block_content.carousel_image.default
+targetEntityType: block_content
+bundle: carousel_image
+mode: default
+content:
+  field_anchor_menu_settings:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_carousel_card:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: image_carousel
+      link: ''
+    third_party_settings:
+      field_load_more:
+        items_show: ''
+        link_text: ''
+        field_load_more_enabled: 0
+    weight: 1
+    region: content
+hidden:
+  field_heading_level: true
+  field_heading_style: true
+  field_spacing_bottom: true
+  field_spacing_top: true
+  field_tooltip: true
+  langcode: true

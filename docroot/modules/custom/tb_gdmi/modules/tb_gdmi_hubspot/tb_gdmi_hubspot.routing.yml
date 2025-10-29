@@ -1,0 +1,7 @@
+tb_gdmi_hubspot.settings_form:
+  path: '/admin/config/system/hubspot'
+  defaults:
+    _title: 'GDMI Hubspot settings'
+    _form: 'Drupal\tb_gdmi_hubspot\Form\SettingsForm'
+  requirements:
+    _permission: 'administer tb_gdmi configuration'

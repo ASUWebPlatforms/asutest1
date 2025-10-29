@@ -1,0 +1,16 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: 'લાગુ કરો'
+      arguments:
+        uid:
+          exception:
+            title: બધા
+        type:
+          exception:
+            title: બધા
+        status:
+          exception:
+            title: બધા

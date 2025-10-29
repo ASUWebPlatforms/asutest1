@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 7e4a841b-7e8e-4137-b135-789f1fa2ae73
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:19:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+title:
+  -
+    value: 'Goldman Sachs CEO Lloyd Blankfein'
+created:
+  -
+    value: '2017-05-17T18:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:19:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/goldman-sachs-ceo-lloyd-blankfein
+body:
+  -
+    value: "<blockquote>\r\n<p style=\"text-align: center;\"><strong>\"We are in the world of managing risk, not guessing.\"&nbsp;</strong></p>\r\n</blockquote>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5166\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Lessons from Goldman Sachs CEO Lloyd Blankfein\",\"field_file_image_title_text[und][0][value]\":\"Lessons from Goldman Sachs CEO Lloyd Blankfein\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Lessons from Goldman Sachs CEO Lloyd Blankfein\",\"field_file_image_title_text[und][0][value]\":\"Lessons from Goldman Sachs CEO Lloyd Blankfein\"}},\"attributes\":{\"alt\":\"Lessons from Goldman Sachs CEO Lloyd Blankfein\",\"title\":\"Lessons from Goldman Sachs CEO Lloyd Blankfein\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Blankfein was interviewed by Jeff Cunningham, professor of global leadership at Thunderbird School of Global Management and they discussed the company’s role in the financial crisis, corporate governance, and protecting firm reputation in this decidedly anti-business environment.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><em>&nbsp;</em></p>\r\n<hr>\r\n<p><strong>JC: Can you share with us the lessons that you took from the crisis?</strong></p>\r\n<p>LB: The first lesson is do not delegate risk management to rating agencies. Second is that while remotely improbable events will happen rarely, there are improbable things that are guaranteed to happen every day. So you have to prepare yourself for things that have never happened before in the history of the world.</p>\r\n<p><strong>How do you solve for those problems?</strong></p>\r\n<p>Make sure you’re well capitalized. Have all your exposures on your balance sheet. And mark your positions to market so you get the early warning signs. When things start to deteriorate, prices deteriorate, and if you can’t otherwise explain them, you’d better start searching.</p>\r\n<p><strong>Tell us what led Goldman to see a risk that others missed.</strong></p>\r\n<p>We started to see some assets weren’t holding up. To that moment, if you’d asked me, “Would real-estate assets at the end of ’06 or the beginning of ’07 go clown?” I would have had no idea. What I did have an idea about is what risks we were running, and the idea that we should get closer to home. We are in the world of risk management, not in the world of guessing. Through this period, I was sure that we were selling things that we would regret selling.</p>\r\n<p><strong>How did the ethos of Goldman Sachs change when you became a public company?</strong></p>\r\n<p>We were the last major partnership (on Wall Street). When we be­came public we carried our partner­ship culture into the public company so we have an ownership culture. No one at Goldman Sachs gets paid out of his or her own P&amp;L. It matters how your business is doing, but it matters more how the firm as a whole is doing. If you want to have a good career at most investment banks, you run as fast and as far as you can from the locus of the problem. At Goldman you run to the problem.</p>\r\n<p><strong>What can you tell us about CEO succession planning at Goldman?</strong></p>\r\n<p>Succession is the hardest thing we have to do. At Goldman, I think we have very, very good people, and I think our people tend to be very attractive to others. And it’s not hard to keep the number-one quarterback in the league on your team, but what if the back-up quarterback would be the number-two quarterback in the league? And that’s something I spend a lot of time thinking about, and making sure people have a chance to grow in the firm.</p>\r\n<p><strong>Several of your predecessors went onto prominent government service. Is this part of the culture?</strong></p>\r\n<p>When I first became a partner at Goldman Sachs, a senior partner had a chat with me and said two things: “You’re expected to keep all your shares in the firm” and then, “When your epitaph is written, and it’s nine paragraphs long, no more than two should be about your career at Goldman Sachs.”</p>\r\n<p><strong>How do you keep tabs on the information flow?</strong></p>\r\n<p>We have a pretty flat organization. And I would say I don’t have to invite people into coming into my office. I think people feel it is their right.</p>\r\n<p><strong>You’re said to make a 100 phone calls a day. Is that how you stay in tune?</strong></p>\r\n<p>I grew up in the middle of a trading room, and it’s just all noise. But if somebody 30 or 40 yards away, in just the din of the white noise, says something wrong, the whole room comes to a dead stop. It’s the same way with my phone calls.</p>\r\n<p><strong>What are the skills and expertise you look for in members of your team?</strong></p>\r\n<p>We look for wise people who are very successful and who have lived through stressful moments and came out the other side. Specific things: we try to make sure that we get diversity so that it reflects the diversity of our businesses and our people. And, frankly, we try to reflect the areas in the world in which our business is growing.</p>\r\n<p><strong>You are known or criticized for high compensation. How do you respond?</strong></p>\r\n<p>Compensation is the story of the moment and every member of our board is on the comp committee. Why? We don’t have inventory or costs of goods sold. All our firm has is people. The largest expense by far in our firm is people. Everything we produce for our shareholders is an override on the talents of our people.</p>\r\n<p><strong>Are you worried about company image?</strong></p>\r\n<p>The answer is yes. We’re a confidence business. Our reputation is very important to us. On the other hand, there are also people who feel that we and the industry participates in things that are clearly wrong, and some of this is real and some of this is extrapolated. And so, we’re very concerned, but at the end of the day, we’re an institutional firm. We care what people know about us. Sometimes we’re met with cynicism.</p>\r\n<p><strong>How do you suggest other CEOs should handle that?</strong></p>\r\n<p>Instead of responding in kind, fulfill the commitment and obligation to the world — in Goldman’s case, be good allocators of capital, make sure we’re doing the right things, make sure we’re helping the country grow businesses that help generate jobs. Is that enough? I don’t know. I get a lot of opinions. Some people come in and say, “You’re doing too much. Don’t say another word.” And other people say, “We should go on talk shows.” One thing I know for sure: Three years from now, I’ll know exactly what I should have done.</p>\r\n<h2>Author&nbsp;bio</h2>\r\n<p>Jeff Cunningham is a global leadership advocate, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at&nbsp;<a href=\"http://medium.com/r/?url=http%3A%2F%2Fwww.thunderbird.edu%2F\" target=\"_blank\">ASU’s Thunderbird School of Global Management</a>.</p>\r\n<p>Previously, he was publisher of Forbes Magazine; founder of (NACD) Directorship Magazine; CEO of Zip2 (founded by Elon Musk), CMGI’s Myway.com, and Michael Milken’s CareerTrack; venture capital partner with Schroders, and advisor, Highland Capital.</p>\r\n<p>He writes&nbsp;<a href=\"http://medium.com/r/?url=http%3A%2F%2Fwww.theartofleadership.co%2F\" target=\"_blank\">TheArtofLeaders.co</a>m, published on LinkedIn and&nbsp;<a href=\"http://medium.com/@cunninghamjeff\" target=\"_blank\">Medium</a>, and interviews mega moguls for his YouTube series,&nbsp;<a href=\"http://medium.com/r/?url=http%3A%2F%2Fwww.iconicvoices.tv%2F\" target=\"_blank\">IconicVoices.TV</a>.</p>\r\n<p>He has also served as a board director and an advisor to chief executives of 10 public companies: Schindler, Countrywide, Data General and Genuity and has served as chairman of Bankrate, EXLservice, Sapient, and vice chair of Premiere Global.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2000
+    height: 1332
+    target_type: file
+    target_uuid: e22fd416-91f5-4e41-b3ac-56f635554428
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115
+    file:
+      - file.image.e22fd416-91f5-4e41-b3ac-56f635554428
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

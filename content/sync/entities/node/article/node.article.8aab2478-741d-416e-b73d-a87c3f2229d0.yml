@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 8aab2478-741d-416e-b73d-a87c3f2229d0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-30T16:50:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'CMC Seeks Alumni to Assist with Improving Student Career Preparation'
+created:
+  -
+    value: '2017-05-30T16:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-30T16:50:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/cmc-seeks-alumni-assist-improving-student-career-preparation
+body:
+  -
+    value: "<h4><strong>Thunderbird Career Weekend – August 25-26, 2017</strong></h4>\r\n<p>The Career Management Center has redesigned its student career readiness strategy, including curriculum, timing and pedagogy to increase student competitiveness prior to the crucial fall recruiting timeline.&nbsp; We are planning a series of summer learning experiences to engage and prepare students for Fall 2017 recruiting events. &nbsp;A large part of this preparation is 2-two-day, rigorous training experience, designed to ensure students will be prepared to compete BEFORE their first on-campus recruiting event or national career fair.&nbsp; So, we would appreciate your assistance to successfully execute this event! We are inviting any and all alumni to volunteer for one or more of the following engagement opportunities. Click on any link below to volunteer.</p>\r\n<h4>Regional Alumni – Phoenix, Scottsdale, Tucson, Las Vegas, SoCal</h4>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p><strong>Friday, August 25 &nbsp;- volunteer opportunities:</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><i>Morning<span style=\"text-decoration: underline;\"></span></i></p>\r\n</td>\r\n<td>\r\n<p><a href=\"https://goo.gl/forms/Q8I9ynG3S8XSbcnf1\">Recruiter and alumni panel</a></p>\r\n</td>\r\n<td>\r\n<p>Alumni panelists will share tips with students on engaging in a strategic career search, standing out, networking with alumni, interviewing and more.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><i>Lunch<span style=\"text-decoration: underline;\"></span></i></p>\r\n</td>\r\n<td>\r\n<p><a href=\"https://goo.gl/forms/Q8I9ynG3S8XSbcnf1\">Attend Dining Etiquette</a><span style=\"text-decoration: underline;\"></span></p>\r\n</td>\r\n<td>\r\n<p>While engaging in a dining etiquette training, volunteers will serve as company representatives, hosting a group of 8-10 students.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><i>Afternoon<span style=\"text-decoration: underline;\"></span></i></p>\r\n</td>\r\n<td>\r\n<p><a href=\"https://goo.gl/forms/Q8I9ynG3S8XSbcnf1\">Mock career fair</a><span style=\"text-decoration: underline;\"></span></p>\r\n</td>\r\n<td>\r\n<p>The TEC will be set up like a major career fair. Volunteers will listen to students’ introduction (30-second commercial) and provide on-the-spot feedback.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><strong>Saturday, August 26 &nbsp;- volunteer opportunities:</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><i>Early Afternoon<span style=\"text-decoration: underline;\"></span></i></p>\r\n</td>\r\n<td>\r\n<p><a href=\"https://goo.gl/forms/Q8I9ynG3S8XSbcnf1\">One-to-one mock interviews</a><span style=\"text-decoration: underline;\"></span></p>\r\n</td>\r\n<td>\r\n<p>Alumni will play role of hiring manager and will conduct 3-4 behavioral based interviews with feedback over the course of the afternoon.</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<h4>All Alumni</h4>\r\n<p><span>Can’t attend in person? Volunteer to complete an informational interview with a new student this summer!</span></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p><i>June-August</i></p>\r\n</td>\r\n<td>\r\n<p><a href=\"https://goo.gl/forms/Q8I9ynG3S8XSbcnf1\">Informational interviews</a></p>\r\n</td>\r\n<td>\r\n<p>We are challenging students to explore career paths during their Summer Pre-Foundations programming. One assignment is to speak to alumni to discuss potential career paths, functions and roles.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 600
+    height: 300
+    target_type: file
+    target_uuid: 0a2d5d52-9e2a-44a1-8b86-98abccbf9b14
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.0a2d5d52-9e2a-44a1-8b86-98abccbf9b14
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

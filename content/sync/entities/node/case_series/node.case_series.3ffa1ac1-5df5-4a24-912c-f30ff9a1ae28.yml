@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 3ffa1ac1-5df5-4a24-912c-f30ff9a1ae28
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-11-09T21:26:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Ferrari: Valuation of the Prancing Horse'
+created:
+  -
+    value: '2016-11-09T21:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-11-09T21:26:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-16-0010
+body:
+  -
+    value: '<p>Ferrari – the prancing horse – had opened at the top end of its target price range – $52 per share in the U.S. – raising nearly $1 billion for Ferrari''s owner, Fiat. Like most IPOs, the share price of RACE (the ticker symbol for Ferrari), settled in the weeks following the launch. But now many analysts and mutual fund managers were all asking the same thing: Was Ferrari a promising equity or simply another of the equity eye candy IPOs to hit the market in recent years?</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-16-0010
+field_case_page_length:
+  -
+    value: '16 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b4ad240-d748-42b9-ae24-15871020bcfa
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: 'Europe, North American'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+field_teaching:
+  -
+    value: 'This case has been used in degree programs to teach the fundamentals of capital budgeting and business valuation. Students must combine discounted cash flow analysis and comparables valuation (multiples) in an effort to project Ferrari’s value. Students first construct the baseline valuation analysis presented in the case, and then use that baseline analysis to explore a variety of business issues via sensitivities and scenario analysis to create a range of valuations for Ferrari. Those values and analyses are then combined with multiples. The case allows a direct discussion of the significance of growth to a firm’s potential value prospects.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.9b4ad240-d748-42b9-ae24-15871020bcfa
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4

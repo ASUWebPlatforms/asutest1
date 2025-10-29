@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: d5dbe36e-921f-4ecd-8e17-bcdbf9a012b0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-02T22:12:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'The Sweet Life'
+created:
+  -
+    value: '2016-11-01T18:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-02T22:12:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/sweet-life
+body:
+  -
+    value: "<p style=\"text-align: center;\"><strong>[[{\"fid\":\"4031\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Alumin\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Alumin\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Alumin\",\"title\":\"Thunderbird Alumin\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</strong></p>\r\n<p><strong>Alumni couple opens unique gelato shop:</strong></p>\r\n<p>The Black Label Vanilla, infused with Johnnie Walker whisky, is gelato gone rogue. At Bucket &amp; Bay Craft Gelato Co., the setting is vibrant. Outside are Dutch-style bicycles, built to haul children to school, but repurposed to sell treats and offer samples across Jersey City. The space itself is a historic landmark, a concrete warehouse built in 1900 for the Great Atlantic &amp; Pacific Tea Co. The lamps were salvaged from ocean liners and the bathroom is wallpapered with pages of vintage maritime magazines. The owners are Jen and Boris Kavlakov. She’s from Kansas and he’s from Bulgaria. They happened to attend the same school, the Thunderbird School of Global Management in Glendale, but met at an alumni event in Chicago. They are now married, with two daughters. The shop is named after a wooden ice cream bucket that sat in the Kansas garage of Jen’s grandfather, the ice cream influence from her childhood. The furniture was built by Jen’s father, Harold Warner, in his Kansas workshop. The favorite flavor of the Kavlakov girls (at least for now)? Lemon Thyme. Jen is partial to Rose Latte, which is made with Egyptian rose petals bought in Chinatown. It’s a flavor she developed as an homage to a latenight visit to a tea shop in Shanghai. The quirks and adventures that shape the lives of the Kavlakovs provide the backstory. But the star of Bucket &amp; Bay Gelato is the milk. The milk comes from grass-fed cows. From an Amish farm in Birdin-Hand, Pa. — 60 to 100 gallons delivered each week. Milk that has been vat pasteurized, which is a more time-consuming process, done with lower temperatures, a process that better retains the milk’s flavor. Thus, milk like you’ve never tasted. Less sweet, but more rich. Pure, nutty, clean, earthy. And, as rogue as it may be to infuse gelato with whisky, the goal here is not to bedazzle, but to cleverly bewitch. The flavors are subtle luxuries, meant to compliment and not overshadow the complexity and richness of the milk. Even amid the other ingredients, which are sourced just as carefully — the smoked cardamom, the lavender, the dark chocolate from that bean-to-bar chocolate maker in Brooklyn — the milk comes through. It’s lush and has energy. Some customers are disappointed to discover that Bucket &amp; Bay doesn’t offer the full range of classic Italian gelato flavors. Others are disappointed by the shop’s lack of sprinkles. Nothing against Italy, or even sprinkles, say the Kavlakovs, but these are not their goals. Their goal is to set the standard for American artisanal gelato. “It’s our own category.”</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 813
+    height: 519
+    target_type: file
+    target_uuid: 0b767fb7-2a76-4fe6-a6d7-0bbfc0aeee85
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.0b767fb7-2a76-4fe6-a6d7-0bbfc0aeee85
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

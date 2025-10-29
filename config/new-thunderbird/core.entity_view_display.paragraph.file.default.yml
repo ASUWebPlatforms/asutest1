@@ -1,0 +1,23 @@
+uuid: ba5a9139-f732-4f86-88d0-adb2eeebd423
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.file.field_file
+    - paragraphs.paragraphs_type.file
+id: paragraph.file.default
+targetEntityType: paragraph
+bundle: file
+mode: default
+content:
+  field_file:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: token
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  search_api_excerpt: true

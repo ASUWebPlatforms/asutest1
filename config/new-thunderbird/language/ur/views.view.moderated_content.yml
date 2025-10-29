@@ -1,0 +1,31 @@
+label: 'معتدل مواد'
+display:
+  default:
+    display_title: 'طے شدہ'
+    display_options:
+      title: 'معتدل مواد'
+      fields:
+        title:
+          label: عنوان
+        name:
+          label: مصنف
+        operations:
+          label: معاملات
+      pager:
+        options:
+          tags:
+            previous: '› گزشتہ'
+            first: '» ابتدائی'
+      exposed_form:
+        options:
+          submit_button: فلٹر
+          exposed_sorts_label: 'کی طرف سے  کی گئی مرتب سازی'
+      filters:
+        title:
+          expose:
+            label: عنوان
+        langcode:
+          expose:
+            label: زبان
+  moderated_content:
+    display_title: 'معتدل مواد'

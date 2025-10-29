@@ -1,0 +1,24 @@
+uuid: fafeb682-46f9-4746-9c1c-25868592338f
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - thunderbird
+id: results_page_title
+theme: thunderbird
+region: pre_content
+weight: -12
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /path/earn-a-degree/result

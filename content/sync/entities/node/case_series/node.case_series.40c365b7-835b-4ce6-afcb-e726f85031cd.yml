@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: 40c365b7-835b-4ce6-afcb-e726f85031cd
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T21:17:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'D’Aquino Quimica do Brasil: The Business Opportunity'
+created:
+  -
+    value: '2016-07-19T21:17:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T21:17:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-06-0010
+body:
+  -
+    value: '<p><span>D’Aquino Quimica S.A. is a Brazilian manufacturer of a broad line of cleaning chemicals and distributors of cleaning equipment for industrial and commercial uses. Mr. Gabany is evaluating a sales opportunity in the state of Pernambuco, where the Federal University has requested bids on a large cleaning services contract. The terms and size of this contract are very attractive. The transaction is, however, premised on D’Aquino’s willingness to supply 40% of the order against cash payment on delivery, without invoice.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-06-0010
+field_case_page_length:
+  -
+    value: '10 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2006-01-01'
+field_case_setting:
+  -
+    value: 'Brazil 2004'
+field_case_source:
+  -
+    value: 'General experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: ed3f6023-bab2-4a5e-a56a-1c54b925845d
+field_teaching:
+  -
+    value: 'The case offers a rich context to study the challenges faced by a company competing in a mature market where margins are very narrow, price competitiveness is critical, and relationships are fundamental. In addition, it illustrates the subtle nuances of certain business practices very common in developing economies, especially in countries in which the tax load is seen as unfair and unbalanced. The central focus of this case is on understanding implications of a decision that is primarily an ethical one.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+      - taxonomy_term.case_series_fields.ed3f6023-bab2-4a5e-a56a-1c54b925845d

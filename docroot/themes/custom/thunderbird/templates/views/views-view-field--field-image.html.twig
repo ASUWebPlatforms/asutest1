@@ -1,0 +1,24 @@
+{#
+/**
+ * @file
+ * Default theme implementation for a single field in a view.
+ *
+ * @ingroup themeable
+ */
+#}
+{% set image =  '' %}
+
+{% if view.field.field_image.original_value is not empty %}
+    {% set image = view.field.field_image.original_value|render|striptags|trim %}
+{% endif %}
+
+{% set path =  path('entity.node.canonical', {'node': row.nid}) %}
+<div class="views-field views-field-field-image">
+    <div class="field-content">
+        <a href="{{ path }}">
+            <div class="card-img" style="background:url({{ image }})">
+            </div>
+        </a>
+    </div>
+</div>
+{#{{ output -}}#}

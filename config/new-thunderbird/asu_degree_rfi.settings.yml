@@ -1,0 +1,12 @@
+asu_degree_rfi:
+  rfi_source_id: 7016T000002c8qMQAQ
+  rfi_submission_handler_url: 'https://crm-enterprise-rfi-forms-submit-handler-sandbox.sdc.uto.asu.edu/'
+  rfi_degree_search_datasource_endpoint: ''
+  rfi_asuonline_datasource_endpoint: ''
+  rfi_country_province_datasource_endpoint: ''
+  program_list_datasource_endpoint: ''
+  program_list_datasource_method: ''
+  program_list_datasource_init: ''
+  program_detail_datasource_endpoint: ''
+  program_detail_datasource_method: ''
+  program_detail_datasource_init: ''

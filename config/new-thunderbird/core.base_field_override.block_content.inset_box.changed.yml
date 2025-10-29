@@ -1,0 +1,18 @@
+uuid: a2611710-c6fa-4685-9a18-f489259433ac
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.inset_box
+id: block_content.inset_box.changed
+field_name: changed
+entity_type: block_content
+bundle: inset_box
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

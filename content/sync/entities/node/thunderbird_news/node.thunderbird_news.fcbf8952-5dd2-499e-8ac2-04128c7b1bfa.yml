@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: fcbf8952-5dd2-499e-8ac2-04128c7b1bfa
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-07-08T20:01:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+title:
+  -
+    value: 'China is cracking down on data privacy. That''s terrible news for some of its biggest tech companies'
+created:
+  -
+    value: '2021-07-08T20:01:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-07-08T20:01:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /china-crackdown-data-privacy
+body:
+  -
+    value: '<p><span>"President Xi Jinping''s</span><span>&nbsp;</span><span>administration has been sending signals for some time that it would be driving toward becoming more self-reliant and less under the control of major trading partners like the United States,"</span><span>&nbsp;</span><span>said Doug Guthrie, a professor and director of China Initiatives at Arizona State University''s Thunderbird School of Global Management.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-07-08T11:30:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 1152
+    height: 768
+    target_type: file
+    target_uuid: ac49eb93-df9b-4246-a977-77c9bee0cc3e
+field_news_link:
+  -
+    uri: 'https://www.cnn.com/2021/07/07/tech/china-didi-data-tech-crackdown-intl-hnk/index.html'
+    title: 'China is cracking down on data privacy. That''s terrible news for some of its biggest tech companies.'
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: CNN
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc
+    file:
+      - file.image.ac49eb93-df9b-4246-a977-77c9bee0cc3e

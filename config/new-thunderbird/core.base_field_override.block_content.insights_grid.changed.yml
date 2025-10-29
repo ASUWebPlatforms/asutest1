@@ -1,0 +1,18 @@
+uuid: 31db88d4-40b1-45f2-b438-31453167ce7c
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.insights_grid
+id: block_content.insights_grid.changed
+field_name: changed
+entity_type: block_content
+bundle: insights_grid
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

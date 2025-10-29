@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 0aed1669-31b2-4a13-b1fa-7ab63fcb6eae
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-12-05T21:08:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Would You Like that in Blue? AI in E-commerce'
+created:
+  -
+    value: '2018-12-01T03:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-12-05T21:08:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/would-you-blue-ai-e-commerce
+body:
+  -
+    value: "<p style=\"text-align: center;\">[[{\"fid\":\"11492\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Artificial Intelligence in e-Commerce\",\"field_file_image_title_text[und][0][value]\":\"Artificial Intelligence in e-Commerce\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Artificial Intelligence in e-Commerce\",\"field_file_image_title_text[und][0][value]\":\"Artificial Intelligence in e-Commerce\"}},\"attributes\":{\"alt\":\"Artificial Intelligence in e-Commerce\",\"title\":\"Artificial Intelligence in e-Commerce\",\"height\":\"823\",\"width\":\"1236\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Ever since Amazon branched out beyond its original bookstore concept, e-commerce has become an integral part of the online shopping experience. Brick and mortar stores are especially <a href=\"https://finance.yahoo.com/news/e-commerce-killing-traditional-retail-220106161.html\" target=\"_blank\">feeling the pain from e-commerce’s relentless march</a>, either closing outright or significantly pulling back, and those that remain often become ‘touch and feel’ showrooms for consumers who then purchase online.</p>\r\n<h4>The fight for consumer dollars</h4>\r\n<p>Although it seems that <a href=\"https://www.forbes.com/sites/forbestechcouncil/2017/06/30/the-e-commerce-paradox-brick-and-mortar-killer-or-is-it/#5fa3531c7736\" target=\"_blank\">e-commerce isn’t the store-killer</a> the news would have us believe, there’s no denying there are more e-commerce websites vying for finite consumer cash than ever before. With the electronic arms race to beat the competition becoming even more fierce, artificial intelligence (AI) is going to up the game significantly.</p>\r\n<p>When e-commerce first started, it was all about price. As online prices stabilize, internet companies <a href=\"https://blog.blackcurve.com/5-competitive-ecommerce-pricing-strategies\" target=\"_blank\">become more savvy</a> about their <a href=\"https://www.bigcommerce.com/blog/value-based-ecommerce-pricing-strategy/\" target=\"_blank\">pricing strategies</a>, and websites begin to blur one into another, internet retailers (including brick-and-mortar companies who implement an online e-commerce presence) need some way to capture shoppers and create return customers.</p>\r\n<h4>Your own personal shopper</h4>\r\n<p>AI, especially in the form of machine learning, is being used to recreate the <a href=\"http://www.businessinsider.com/personalization-boosts-luxury-retailers-e-commerce-business-2017-10\" target=\"_blank\">one thing consumers miss about the in-person shopping experience</a>: personalization. When combined with retailers who implement a strong customer service mentality, a personalized online shopping experience creates more brand loyalty and <a href=\"http://www.businessinsider.com/ai-ecommerce-report-2017-8\" target=\"_blank\">increased sales</a>. Case in point, outdoor apparel company North Face teamed up with IBM and Fluid to create an <a href=\"https://www.computerworld.com/article/3026449/retail-it/the-north-face-sees-ai-as-a-perfect-fit-video.html\" target=\"_blank\">AI-powered online shopping assistant</a> that’s working wonders with consumers.</p>\r\n<p>Predictive algorithms can offer recommendations, something Amazon has been doing for some time. What is new is that in addition to making recommendations based on past purchases, <a href=\"https://yourstory.com/2017/11/artificial-intelligence-reshaping-e-commerce-sector/\" target=\"_blank\">newer algorithms will notice out-of-pattern purchases</a> and incorporate that to try to predict the next time it might happen.</p>\r\n<h4>It’s not all about the sale</h4>\r\n<p>While most consumers think of e-commerce from the buyer’s perspective, it’s much more than that. AI in e-commerce goes beyond recommendation engines, chatbots and AI assistants. It’s also being used to help make <a href=\"https://yourstory.com/2017/11/artificial-intelligence-reshaping-e-commerce-sector/\" target=\"_blank\">warehouse logistics </a>and <a href=\"https://www.techemergence.com/artificial-intelligence-in-ecommerce-amazon-alibaba-jd-com/\" target=\"_blank\">automation</a> more efficient, including evaluating more efficient routes for package delivery, saving time and money on the back-end.</p>\r\n<p>With e-commerce accounting for 8.3% of total U.S. retail sales in 2016, AI will continue to work its way deeper into the online and in-person shopping experience. And if you can find what you’re looking for and get it cheaper and faster, isn’t that a good thing?</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Ever since Amazon branched out beyond its original bookstore concept, e-commerce has become an integral part of the online shopping experience. Brick and mortar stores are especially feeling the pain from e-commerce’s relentless march.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 640
+    height: 426
+    target_type: file
+    target_uuid: 0dbb65eb-c53c-470f-a8ca-9f97138d08ff
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.0dbb65eb-c53c-470f-a8ca-9f97138d08ff
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

@@ -1,0 +1,52 @@
+.gdmi-register-form {
+
+  .gdmi-form-body {
+    padding: 2rem;
+    margin-bottom: 150px;
+  }
+
+  .password-confirm-message {
+    display: none;
+  }
+
+  .form-actions {
+    .form-submit {
+      background-color: #808080;
+    }
+  }
+
+  .form-item-pass {
+    display: flex;
+    flex-wrap: wrap;
+
+    .form-item {
+      width: 100%;
+    }
+  }
+
+  .btn-back svg {
+    transform: rotate(180deg);
+  }
+
+  @include media-breakpoint-up(md) {
+    .gdmi-form-body {
+      padding: 4.063rem 5rem;
+    }
+
+    .form-item-pass {
+
+      .form-item {
+        width: 50%;
+      }
+  
+      .form-item-pass-pass1 {
+        padding-right: 15px;
+      }
+
+      .form-item-pass-pass2 {
+        padding-left: 15px;
+      }
+    }
+  }
+
+}

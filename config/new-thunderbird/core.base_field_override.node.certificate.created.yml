@@ -1,0 +1,18 @@
+uuid: a36d2055-ae87-4fc0-a7c6-93a23e422079
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.certificate
+id: node.certificate.created
+field_name: created
+entity_type: node
+bundle: certificate
+label: 'Authored on'
+description: 'The time that the node was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

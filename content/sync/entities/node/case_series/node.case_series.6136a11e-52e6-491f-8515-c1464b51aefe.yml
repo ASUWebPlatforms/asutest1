@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 6136a11e-52e6-491f-8515-c1464b51aefe
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T22:30:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Cayman Island Divers Ltd. (A)'
+created:
+  -
+    value: '2016-07-26T22:30:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T22:30:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a01-03-0002
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case concerns a start-up operation (a scuba diving operation) in The Cayman Islands. Two friends buy out an existing operation and then try to figure out how to make the business grow. The case begins as a straight forward transaction analysis exercise, leading to the preparation of the basic financial statements for the first month of operations. Pro forma statements are then prepared to determine whether the purchase of an additional dive boat is justified. (See Cayman Island Divers (B)</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A01-03-0002
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 59613711-8d23-4a8c-89ae-a81c89013cc9
+field_case_series_year:
+  -
+    value: '2003-01-01'
+field_case_setting:
+  -
+    value: Carribean
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 90978722-e0df-43dc-b62a-cde4fd1006fe
+field_fields:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: fcc6123c-dc3e-4c19-97c3-b1c33944f69d
+field_teaching:
+  -
+    value: "The case provides a forum for students to develop the basic financial statements for a start-up venture. Initial investment data, along with transaction data for the first month of operations are provided. Students are requested to: 1. Develop an initial (pre-opening) balance sheet 2. Develop the key financial statements after the first month of operations.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.59613711-8d23-4a8c-89ae-a81c89013cc9
+      - taxonomy_term.case_series_categories.90978722-e0df-43dc-b62a-cde4fd1006fe
+      - taxonomy_term.case_series_fields.fcc6123c-dc3e-4c19-97c3-b1c33944f69d

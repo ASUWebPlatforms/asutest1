@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 9c515e3b-4bf8-48cf-b8ae-060cda82e6b2
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-04T20:23:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: '2 Key Factors to Consider when Choosing Your Thunderbird Grad Program'
+created:
+  -
+    value: '2017-08-01T15:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-04T20:23:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-grad-school-programs-faq-mgm-v-magam
+body:
+  -
+    value: "<p><em>[[{\"fid\":\"5931\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Thunderbird’s diverse student body provides international exposure to another level. \"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Thunderbird’s diverse student body provides international exposure to another level. \"}},\"link_text\":null,\"attributes\":{\"title\":\"Thunderbird’s diverse student body provides international exposure to another level. \",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</em></p>\r\n<p>Thunderbird School of Global Management is unique--and so are our master's degrees. Unlike a typical graduate business school&nbsp;in the U.S.,&nbsp;<strong>Thunderbird is focused exclusively on preparing students for global roles</strong>&nbsp;in management and leadership. Our degrees, therefore, are highly specialized. Let's take a look at the differences between two of our flagship degrees: the&nbsp;<a href=\"/node/194\">Master of Global Management</a>&nbsp;(MGM) and the&nbsp;<a href=\"/node/190\">Master of Arts in Global Affairs &amp; Management</a>&nbsp;(MAGAM).</p>\r\n<p>The MGM from Thunderbird School of Global Management transforms the traditional graduate business education to deliver specialized training in all business disciplines from a 100% international perspective.</p>\r\n<p>The MAGAM delivers specialized cross-training in international affairs and global management, preparing students for leadership roles in global development and international relations.</p>\r\n<blockquote>\r\n<p>“Bottom line: Whether it’s the MGM or MAGAM, only Thunderbird equips you with the skills to lead in the volatile global marketplace .” – <a href=\"https://ctt.ec/JfT7q\">Click to tweet</a></p>\r\n</blockquote>\r\n<h3>MGM v. MAGAM Decision Making Factor #1: What do you want to do when you graduate?</h3>\r\n<p>One of the key differences between the Thunderbird Master of Global Management and Master of Arts in Global Affairs &amp; Management is the career opportunities that most students pursue post-graduation.</p>\r\n<table style=\"width: 100%;\">\r\n<tbody>\r\n<tr><th></th><th>Master of Global Management (MGM)</th><th>Master of Arts in Global Affairs &amp; Management (MAGAM)</th></tr>\r\n<tr>\r\n<td><strong>Graduates hold such positions as…</strong></td>\r\n<td>\r\n<ul>\r\n<li>Financial Analyst</li>\r\n<li>Foreign Exchange Trader</li>\r\n<li>Management Consultant</li>\r\n<li>Product Marketing Manager</li>\r\n<li>Import/Export Coordinator</li>\r\n<li>Public Relations Specialist</li>\r\n<li>Global Advertising Executive</li>\r\n<li>Entrepreneur</li>\r\n<li>Human Resources</li>\r\n<li>Business Development Manager</li>\r\n<li>Global Digital Media Marketing Strategist</li>\r\n<li>Data Analytics Manager</li>\r\n<li>Global Supply Chain Analyst &nbsp;</li>\r\n<li>Sustainable Brand Management Consultant</li>\r\n<li>Leadership Consultant</li>\r\n</ul>\r\n</td>\r\n<td>\r\n<ul>\r\n<li>Foreign Affairs Officer</li>\r\n<li>Refugee Program Consultant/Facilitator</li>\r\n<li>Research Assistant</li>\r\n<li>Social Entrepreneur</li>\r\n<li>Corporate Social Responsibility Specialists</li>\r\n<li>Foreign Policy Fellow</li>\r\n<li>Community Relations Specialist</li>\r\n<li>International Trade Specialist</li>\r\n<li>Public Health Policy Strategist</li>\r\n<li>Regional/Country Manager</li>\r\n<li>Global Communications Director</li>\r\n<li>International Lawyer</li>\r\n<li>Education Program Coordinator</li>\r\n<li>University professor</li>\r\n<li>Defense (Military) Strategist</li>\r\n</ul>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Graduates work for organizations such as…</strong></td>\r\n<td>\r\n<ul>\r\n<li>ExxonMobil</li>\r\n<li>Intel</li>\r\n<li>Wells Fargo</li>\r\n<li>IBM</li>\r\n<li>American Express</li>\r\n<li>Microsoft</li>\r\n<li>Citi</li>\r\n<li>Amazon</li>\r\n<li>Boeing</li>\r\n<li>Delphi</li>\r\n</ul>\r\nAmong many others – <a href=\"https://www.linkedin.com/school/7598/\">explore more</a>\r\n<ul></ul>\r\n</td>\r\n<td>\r\n<ul>\r\n<li>U.S. Department of State</li>\r\n<li>United Nations</li>\r\n<li>Kaiser Permanente</li>\r\n<li>International Federation of Red Cross and Red Crescent</li>\r\n<li>USAID</li>\r\n<li>Oxfam</li>\r\n<li>Institute for Development Impact - I4DI</li>\r\n<li>Mercy Corps</li>\r\n<li>The Nature Conservancy</li>\r\n<li>Global Communities</li>\r\n</ul>\r\nAmong many others – <a href=\"https://www.linkedin.com/school/7598/\">explore more</a>\r\n<ul></ul>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Curriculum focuses on…</strong></td>\r\n<td>The intersections of politics, economics, and business – with the heaviest emphasis on business</td>\r\n<td>International relations and international business, with the heaviest emphasis on international relations</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Courses offered include…</strong></td>\r\n<td>\r\n<ul>\r\n<li>Emerging Markets &amp; Developed Markets</li>\r\n<li>Global Financial Accounting</li>\r\n<li>Big Data in the Age of the Global Economy</li>\r\n<li>Multinational Value Chain</li>\r\n<li>Competitive Strategy in a Global Environment</li>\r\n<li>Global Leadership</li>\r\n<li>Global Marketing Strategy</li>\r\n<li>Negotiating in a Global Context</li>\r\n<li>Corporate Social Responsibility (CSR)</li>\r\n</ul>\r\n<a href=\"https://thunderbird.asu.edu/degrees/graduate/master-global-management#tabs-0-top_row_5-4\">Get course details</a></td>\r\n<td>\r\n<ul>\r\n<li>States and Markets in the Global Political Economy</li>\r\n<li>Financial Management for Global Value Creation</li>\r\n<li>Global Strategy</li>\r\n<li>Communicating and Negotiating in a Global Context</li>\r\n<li>Global Theory</li>\r\n<li>Global Decision Making Under Uncertainty</li>\r\n<li>The Individual as Decision Maker in Global Contexts</li>\r\n<li>Managing Organizations from a Global Perspective</li>\r\n<li>Global Organizational Consulting</li>\r\n</ul>\r\n<a href=\"https://thunderbird.asu.edu/degrees/graduate/ma-global-affairs-management#tabs-0-top_row_3-4\">Get course details</a></td>\r\n</tr>\r\n<tr>\r\n<td><strong>Opportunities for specialization</strong></td>\r\n<td>Students in their second year have the opportunity to pursue <a href=\"https://thunderbird.asu.edu/graduate-certificates\">specialized graduate certificates</a> in finance, marketing, trade &amp; commerce, management, or development</td>\r\n<td>Same opportunities as MGM for specialized graduate certificates</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Applied learning opportunities for both MGM and MAGAM</strong></td>\r\n<td>\r\n<ul>\r\n<li>\r\n<p class=\"m_8256808787758971497MsoListParagraph\"><strong>MGM students</strong>: Thunderbird’s Emerging Markets Laboratory (<a href=\"https://thunderbird.asu.edu/tem-lab\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://thunderbird.asu.edu/tem-lab&amp;source=gmail&amp;ust=1502389152023000&amp;usg=AFQjCNEhYA7shCHVEJccocossPkh-bDysA\">TEM Lab</a>) is a five-credit, client-facing, project-based capstone course that involves a five-week immersive consulting assignment in an emerging market.</p>\r\n</li>\r\n<li>\r\n<p class=\"m_8256808787758971497MsoListParagraph\"><strong>MAGAM students</strong>: Thunderbird’s&nbsp;<a href=\"https://thunderbird.asu.edu/tem-lab\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://thunderbird.asu.edu/tem-lab&amp;source=gmail&amp;ust=1502389152023000&amp;usg=AFQjCNEhYA7shCHVEJccocossPkh-bDysA\">Global Consulting Laboratory (GCL)</a>&nbsp;is a three-unit, client-facing, project-based capstone course that involves a three-week immersive consulting project in an emerging market.</p>\r\n</li>\r\n<li>\r\n<p class=\"m_8256808787758971497MsoListParagraph\"><strong>MGM and MAGAM students</strong>: Internships (encouraged but not required) help students decide what jobs they want to pursue, and increase the chances that they’ll land, and succeed in, those jobs after graduation.</p>\r\n</li>\r\n<li>\r\n<p class=\"m_8256808787758971497MsoListParagraph\"><strong>MGM and MAGAM students</strong>: The&nbsp;<a href=\"https://thunderbird.asu.edu/tem-lab\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://thunderbird.asu.edu/tem-lab&amp;source=gmail&amp;ust=1502389152023000&amp;usg=AFQjCNEhYA7shCHVEJccocossPkh-bDysA\">Global Consulting Practicum</a>&nbsp;is a three-credit, client-facing, semester-long course that gives students an overview of the consulting industry and the role of a management consultant.</p>\r\n</li>\r\n<li>\r\n<p class=\"m_8256808787758971497MsoListParagraph\"><strong>MGM and MAGAM students</strong>: Interims &amp; Field Seminars help students receive in-country training on particular regional business practices (Latin America, Asia, Europe, Africa, Middle East)</p>\r\n</li>\r\n</ul>\r\n</td>\r\n<td></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<blockquote>\r\n<p><i>“The most common career for MGM grads is international business, with such companies as ExxonMobil, Intel, and Wells Fargo (among many others).” – <a href=\"https://ctt.ec/Ff1dM\">Click to tweet</a></i><a href=\"#_msocom_1\"><br></a></p>\r\n</blockquote>\r\n<blockquote>\r\n<p><i>“MAGAM grads typically pursue careers with non-profits and public sector organizations such as the UN, USAID, and Kaiser Permanente (among many others).” – <a href=\"https://ctt.ec/5B2JH\">Click to tweet</a></i><a href=\"#_msocom_2\"></a><br><i></i></p>\r\n</blockquote>\r\n<h3>MGM v. MAGAM Decision Making Factor #2: How much work experience do you have?</h3>\r\n<p>One of the key factors in answering the “MGM vs. MAGAM” question is how much work experience the candidate has had. While not required for admissions, most Thunderbird MGM candidates have, on average, five years of prior work experience. In contrast, many students enter the MAGAM program directly after graduating from a bachelor’s degree program and before obtaining professional work experience.</p>\r\n<div>\r\n<table style=\"width: 100%;\">\r\n<tbody>\r\n<tr><th></th><th>Master of Global Management (MGM)</th><th>Master of Arts in Global Affairs &amp; Management (MAGAM)</th></tr>\r\n<tr>\r\n<td>Previous work experience</td>\r\n<td>None required for admission, but prior experience is valued and considered</td>\r\n<td>None required for admission, and students often enter directly after completing their bachelor's</td>\r\n</tr>\r\n<tr>\r\n<td>Average student age</td>\r\n<td>29 years</td>\r\n<td>23 years</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<div>\r\n<h3>&nbsp;Other MGM v. MAGAM Decision Making Factors: Time, location, and cost</h3>\r\n<table style=\"width: 100%;\">\r\n<tbody>\r\n<tr><th></th><th>Master of Global Management (MGM)</th><th>Master of Arts in Global Affairs &amp; Management (MAGAM)</th></tr>\r\n<tr>\r\n<td>Duration</td>\r\n<td>16 months (Fall start; includes opportunity for internship) or 12 months (Spring start; does not include opportunity for internship)</td>\r\n<td>21 months (depending on internships taken)</td>\r\n</tr>\r\n<tr>\r\n<td>Location</td>\r\n<td>On-campus with international experiential practicum options; also offered in an online format (<a href=\"/node/228\">Online Master of Global Management</a>) and executive format (<a href=\"/node/226\">Executive Master of Global Management</a>)</td>\r\n<td>On-campus with international experiential practicum options</td>\r\n</tr>\r\n<tr>\r\n<td>Tuition cost</td>\r\n<td>$70,000*</td>\r\n<td>$60,000*</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n</div>\r\n<p>* Other fees may apply.</p>\r\n<h3>The Master of Global Management and Master of Arts in Global Affairs &amp; Management are not the only programs that Thunderbird offers.</h3>\r\n<ul>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\">Beginning in January 2018, Thunderbird will offer the <a href=\"/node/2647\">Online Master of Applied Leadership &amp; Management</a> – a unique online degree that combines the Thunderbird MicroMasters Certificate with graduate online courses taught by Thunderbird's world-class professors.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\">For students not looking for a degree program, Thunderbird offers a range of <a href=\"/node/1568\">open programs for individuals</a> and <a href=\"https://thunderbird.asu.edu/executive-education/programs/online-courses\">online certificate programs</a>.</span></li>\r\n</ul>\r\n<p><strong>Bottom line: Whether it’s an MGM or MAGAM, another Thunderbird graduate degree, or a single continuing education course or certificate program</strong> – only Thunderbird equips you with the skills to lead in the volatile global marketplace.</p>\r\n<p><strong>MGM &amp; MAGAM students and graduates, join the discussion!</strong> What aspects of your Thunderbird grad school degree program brought you the most value?</p>\r\n<p><strong>Share your stories on LinkedIn, Facebook, and Twitter. Get global insights delivered to your inbox – sign up for the Knowledge Network newsletter! </strong></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Thunderbird School of Global Management is unique--and so are our master''s degrees. Unlike a typical graduate business school in the U.S., Thunderbird is focused exclusively on preparing students for global roles in management and leadership. Our degrees, therefore, are highly specialized. Let''s take a look at the differences between two of our flagship degrees: the Master of Global Management (MGM) and the Master of Arts in Global Affairs & Management (MAGAM).'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1920
+    height: 1280
+    target_type: file
+    target_uuid: 629b47c0-47f0-4c12-9f83-29255da9117f
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c98a978-a0e5-4ad3-ae54-71103288ecdd
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.629b47c0-47f0-4c12-9f83-29255da9117f
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.2c98a978-a0e5-4ad3-ae54-71103288ecdd

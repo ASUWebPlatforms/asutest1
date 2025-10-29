@@ -1,0 +1,22 @@
+uuid: f60375a6-b3e5-4941-8a8f-16d30aff9bbc
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: coe
+label: 'Center of Excellence'
+type: 'canonical_entities:node'
+pattern: 'worldwide-locations/[node:title]'
+selection_criteria:
+  6dfaee76-a74b-4686-be05-ce4bab80ff5f:
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: 6dfaee76-a74b-4686-be05-ce4bab80ff5f
+    context_mapping:
+      node: node
+    bundles:
+      coe: coe
+selection_logic: and
+weight: -5
+relationships: {  }

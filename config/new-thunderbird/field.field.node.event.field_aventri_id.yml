@@ -1,0 +1,23 @@
+uuid: 40b6ccce-4a77-4690-8869-b806d297dbc1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_aventri_id
+    - node.type.event
+id: node.event.field_aventri_id
+field_name: field_aventri_id
+entity_type: node
+bundle: event
+label: 'Aventri ID'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: ea43e62d-d759-4237-8847-40e8f055f07b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T16:34:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a378dcd0-fe4d-42ea-85bc-286698545ba0
+title:
+  -
+    value: 'Is the Next Industrial Revolution Upon Us?'
+created:
+  -
+    value: '2017-12-18T20:43:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T16:34:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/next-industrial-revolution-upon-us
+body:
+  -
+    value: "<p><span style=\"background-color: transparent; font-size: 1em;\">When computers can do the job you’re doing now, what happens to you and the people you work with?</span></p>\r\n<p>That’s the 58 Bitcoin question.&nbsp;</p>\r\n<p>Artificial Intelligence (AI) will change the way we do a lot of things, but how that shakes out is unknown. Although AI is currently deployed in a number of jobs and industries, its widespread effect won’t happen overnight. And we certainly won’t know where it will wind up.</p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">“You can almost think of it as sort of like gravity,” said Kevin Kelley in his </span><a href=\"https://www.ted.com/talks/kevin_kelly_how_ai_can_bring_on_a_second_industrial_revolution\" style=\"background-color: transparent; font-size: 1em;\">2015 TEDSummit</a><span style=\"background-color: transparent; font-size: 1em;\"> talk. “Imagine raindrops falling into a valley.&nbsp;The actual path of a raindrop as it goes down the valley&nbsp;is unpredictable.&nbsp;We cannot see where it's going,&nbsp;but the general direction is very inevitable.”</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">The same with Artifical Intelligence.</span></p>\r\n<h6><span style=\"background-color: transparent; font-size: 1em;\">The Takeover of AI</span></h6>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">AI is already used in a number of industries: hospitals, banks, law firms, even in airliners. And it will continue to grow. </span><a href=\"https://www.mckinsey.com/global-themes/digital-disruption/harnessing-automation-for-a-future-that-works\" style=\"background-color: transparent; font-size: 1em;\">McKinsey&amp;Company</a><span style=\"background-color: transparent; font-size: 1em;\"> estimates about one-half of the activities people are paid to do in the workforce could be automated using current technology.</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">Industries and economies will transition more slowly at the macro level than at the micro level. For individual workers performing automated or highly repetitive tasks, the change can come quickly; witness the recent proliferation of </span><a href=\"https://restaurantsuccess.touchbistro.com/touchbistro-blog/why-self-ordering-kiosks-are-becoming-the-secret-weapon-for-successful-restaurants\" style=\"background-color: transparent; font-size: 1em;\">self-service ordering kiosks</a><span style=\"background-color: transparent; font-size: 1em;\"> in </span><a href=\"https://www.mobiquityinc.com/thought-leadership/not-a-marketing-gimmick-the-business-case-for-self-serve-kiosks\" style=\"background-color: transparent; font-size: 1em;\">fast food restaurants</a><span style=\"background-color: transparent; font-size: 1em;\">.</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">With popular culture and the media playing to stereotypes, it’s easy to get caught up in the hype that AI will take all our jobs. But just as there are many types of intelligence in our human minds, so too are there many different types of artificial intelligence in machines. And Kelley says we’re going to engineer them the same way in the future.</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">“When we go to make machines,” he said, “we're going to engineer them in the same way,&nbsp;where we'll make some of those types of smartness much greater than ours,&nbsp;and many of them won't be anywhere near ours</span><span style=\"background-color: transparent; font-size: 1em;\">&nbsp;because they're not needed.”</span></p>\r\n<h6>A Second Industrial Revolution</h6>\r\n<p>Certain aspects of AI, such as calculators, GPS systems and search engines like Google and Bing are already smarter than humans in specific aspects. But as AI is integrated into our systems, jobs and lives, one of the outcomes is that AI could bring forth a second Industrial Revolution.</p>\r\n<p>The First Industrial Revolution occurred when artificial power was created to replace the manual or horse-driven nature of labor. As an example, Kelley explains, water used to be pumped by hand, then the first revolution created the electric pump. AI will turn that into a smart pump. Extend that millions of times across millions of items and you have your Second Industrial Revolution.</p>\r\n<h6>Preparing for Displacement</h6>\r\n<p>But, the Second Industrial Revolution may come at a price. McKinsey’s predictions assume displaced workers will find other employment, which may or may not happen. But even if some workers are uprooted, AI will bring other employment opportunities.</p>\r\n<p><a href=\"https://qz.com/1136730/these-are-the-jobs-already-being-created-by-the-artificial-intelligence-boom/\" style=\"background-color: transparent; font-size: 1em;\">Some of the jobs already being created by the AI boom</a><span style=\"background-color: transparent; font-size: 1em;\"> include opportunities such as AI-savvy data scientists, project managers and software engineers, a position that already makes up 11% of Glassdoor’s AI-related job postings. These technology-related jobs are obvious, but there also has been an increase in newer, less technical opportunities, such as copywriters for AI scripts and responses, UX designers and lawyers who specialize in intellectual property (IP).</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">If AI isn’t already in your industry, it will be. AI is coming, and even if we don’t know how it will exactly shake out, we do know the general direction, like raindrops in a valley.</span></p>\r\n<p><i>Thunderbird is hosting a one-day workshop on </i><a href=\"https://thunderbird.asu.edu/future-of-work-lp\"><i>The Future of Work &amp; Digital Innovation</i></a><i> taught by Raghu Santanam, Ph.D.,<i> on February 21, 2018.&nbsp;</i>Dr. Santanam will look at what this digital innovation might look like and how individuals, companies and industries might take advantage of what’s coming.</i></p>"
+    format: basic_html
+    processed: ''
+    summary: 'When computers can do the job you’re doing now, what happens to you and the people you work with?'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 5000
+    height: 3393
+    target_type: file
+    target_uuid: 9a093149-f0f0-442f-8c49-227db1ec085a
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a378dcd0-fe4d-42ea-85bc-286698545ba0
+    file:
+      - file.image.9a093149-f0f0-442f-8c49-227db1ec085a
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

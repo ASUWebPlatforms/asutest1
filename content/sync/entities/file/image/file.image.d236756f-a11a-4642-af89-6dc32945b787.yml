@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: d236756f-a11a-4642-af89-6dc32945b787
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+filename:
+  -
+    value: bizcorps.png
+uri:
+  -
+    value: 'public://article/bizcorps.png'
+    url: /sites/default/files/article/bizcorps.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 25207
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-06-12T22:31:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-06-12T22:31:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466

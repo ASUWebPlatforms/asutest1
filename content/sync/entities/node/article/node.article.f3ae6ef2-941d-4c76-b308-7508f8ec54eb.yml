@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: f3ae6ef2-941d-4c76-b308-7508f8ec54eb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-09-17T15:14:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Technology Governance for Equitable Prosperity in the Fourth Industrial Revolution (Infographic)'
+created:
+  -
+    value: '2020-09-15T16:22:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-09-17T15:14:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/ensuring-equitable-prosperity-in-fourth-industrial-revolution
+body:
+  -
+    value: '<p style="text-align: left;">In the Fourth Industrial Revolution, technology has evolved at a much faster pace than&nbsp;the organizations&nbsp;that might govern it&nbsp;could keep up with.&nbsp;As a result, while technological advancement has yielded&nbsp;significant benefits (think:&nbsp;lifesaving AI-powered diagnostics) it has also had significant downsides(data&nbsp;privacy breaches, for example).</p><p style="text-align: left;">The solution is a coordinated, global, multi-stakeholder approach to technology governance. What’s needed&nbsp;is a framework&nbsp;within which individuals, companies, and governments can capitalize on technological&nbsp;developments&nbsp;–to advance equitable prosperity worldwide.</p><p style="text-align: left;">Guidance for developing such a framework is the subject of a&nbsp;<a href="https://thunderbird.asu.edu/sites/default/files/wef_global_technology_governance.pdf">white paper</a> produced by the World Economic&nbsp;Forum in collaboration with Thunderbird. A dense&nbsp;36 pages, the white paper provides an in-depth&nbsp;perspective on why governance is necessary, what makes it difficult, and how stakeholders can make it&nbsp;happen.&nbsp;For an at-a-glance overview of the key areas where technology governance is urgently needed,&nbsp;derived from the whitepaper, check out the following infographic:</p><h3 style="text-align: center;"><a href="https://my.visme.co/view/vdjnoenz-equitable-prosperity-in-4ir"><strong>Click image below for more information</strong></a></h3><p><a href="https://my.visme.co/view/vdjnoenz-equitable-prosperity-in-4ir"><span>[[{"fid":"84999","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Ensuring Equitable Prosperity in the Fourth Industrial Revolution","field_file_image_title_text[und][0][value]":"Ensuring Equitable Prosperity in the Fourth Industrial Revolution"},"link_text":null,"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":"Ensuring Equitable Prosperity in the Fourth Industrial Revolution","field_file_image_title_text[und][0][value]":"Ensuring Equitable Prosperity in the Fourth Industrial Revolution"}},"attributes":{"alt":"Ensuring Equitable Prosperity in the Fourth Industrial Revolution","title":"Ensuring Equitable Prosperity in the Fourth Industrial Revolution","class":"media-element file-default","data-delta":"1"}}]]</span></a></p><p>&nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: "In the Fourth Industrial Revolution, technology has evolved at a much faster pace than the organizations that might govern it could keep up with. As a result, while technological advancement has yielded significant benefits (think: lifesaving AI-powered diagnostics) it has also had significant downsides(data privacy breaches, for example).\r\n\r\nThe solution is a coordinated, global, multi-stakeholder approach to technology governance. What’s needed is a framework within which individuals, companies, and governments can capitalize on technological developments –to advance equitable prosperity worldwide.\r\n"
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2309
+    height: 1299
+    target_type: file
+    target_uuid: 3951af99-bb8b-43f0-91b3-92e5f666e28e
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 502e0d76-285c-4932-b0ce-5dec5cd4f431
+  -
+    target_type: taxonomy_term
+    target_uuid: e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.3951af99-bb8b-43f0-91b3-92e5f666e28e
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.knowledge_network_tags.502e0d76-285c-4932-b0ce-5dec5cd4f431
+      - taxonomy_term.knowledge_network_tags.e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda

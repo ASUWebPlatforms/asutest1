@@ -1,0 +1,110 @@
+uuid:
+  -
+    value: 64663d0d-68e3-4213-b0a6-51b93628f003
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-02-06T20:49:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'SingularityNET: Blockchain-Driven AI Marketplace and Quest for AGI'
+created:
+  -
+    value: '2019-02-05T22:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-06T20:49:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a04-18-0015
+body:
+  -
+    value: '<p>This case study focuses on the creation of SingularityNET, a blockchain-based marketplace for AI. SingularityNET was conceived by Ben Goertzel, Simone’ Giacomelli and David Hanson in a series of brainstorming sessions at Hanson Robotics in Hong Kong in 2017. A key goal for creating this democratized marketplace platform was to accelerate the development of artificial general intelligence, or AGI. Companies that could not afford customizing their own AI could access AI Agents that would subcontract to and collaborate with other AI agents to create customized solutions to meet specific needs. The distributed blockchain-based network allowed for stitching together clusters of narrow AIs that could mimic sections of a brain. Collectively, these clusters could eventually function like a global brain.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A04-18-0015
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: af2bace1-7780-4f6c-8e22-0c3722ac5cd6
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: be3de8d4-3227-4bf9-91b1-239608a0caeb
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: 'Global, Hong Kong'
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: e77be6c9-431a-4d4c-b39b-4ead71395cb0
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1d672e66-3990-4655-b231-0a38370d24c8
+field_teaching:
+  -
+    value: "1. To understand some of the fundamentals of AI, AGI, and blockchain.\r\n2. To examine how a democratized marketplace for AI could accelerate AI and AGI development and increase AI accessibility. \r\n3. To debate the pros and cons of pursuing AGI.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.af2bace1-7780-4f6c-8e22-0c3722ac5cd6
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678
+      - taxonomy_term.case_series_industry.be3de8d4-3227-4bf9-91b1-239608a0caeb
+      - taxonomy_term.case_series_categories.e77be6c9-431a-4d4c-b39b-4ead71395cb0
+      - taxonomy_term.case_series_fields.1d672e66-3990-4655-b231-0a38370d24c8

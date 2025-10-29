@@ -1,0 +1,31 @@
+uuid: 1c10d488-cf8a-42ef-81e3-2eb47912ce90
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.term_select
+  module:
+    - views
+name: card_categories
+label: 'Card categories'
+display: iframe
+display_configuration:
+  width: '650'
+  height: '500'
+  link_text: 'Select categories'
+  auto_open: false
+selection_display: no_display
+selection_display_configuration: {  }
+widget_selector: single
+widget_selector_configuration: {  }
+widgets:
+  b353ec96-4654-4846-9908-927c5b3ad61d:
+    id: view
+    uuid: b353ec96-4654-4846-9908-927c5b3ad61d
+    label: view
+    weight: 1
+    settings:
+      submit_text: 'Select categories'
+      auto_select: false
+      view: term_select
+      view_display: entity_browser_1

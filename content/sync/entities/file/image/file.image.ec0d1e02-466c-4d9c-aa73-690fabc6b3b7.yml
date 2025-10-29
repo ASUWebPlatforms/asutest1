@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: ec0d1e02-466c-4d9c-aa73-690fabc6b3b7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: how_to_avoid_becoming_a_hindering_leader_.jpg
+uri:
+  -
+    value: 'public://article/how_to_avoid_becoming_a_hindering_leader_.jpg'
+    url: /sites/default/files/article/how_to_avoid_becoming_a_hindering_leader_.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 366199
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-08-04T14:38:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-08-04T14:38:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

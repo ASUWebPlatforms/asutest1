@@ -1,0 +1,11 @@
+administer GDMI reports:
+  title: 'Administer GDMI reports settings'
+  restrict access: true
+delete GDMI reports:
+  title: Delete GDMI reports
+create GDMI reports:
+  title: Create GDMI reports
+view GDMI reports:
+  title: View GDMI reports
+edit GDMI reports:
+  title: Edit GDMI reports

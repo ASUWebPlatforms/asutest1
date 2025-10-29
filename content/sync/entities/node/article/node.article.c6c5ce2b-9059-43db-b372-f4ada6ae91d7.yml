@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: c6c5ce2b-9059-43db-b372-f4ada6ae91d7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:04:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Thunderbird Professors’ ‘Dear NAFTA’ Letter: Time to Join the 21st Century'
+created:
+  -
+    value: '2017-06-19T21:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:04:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-professors-dear-nafta-letter-time-join-21st-century
+body:
+  -
+    value: "<p>Debate over the North American Free Trade Agreement (NAFTA) began well before the ink dried in 1993, and it continues today. That debate has chiefly focused on trade between the United States and Mexico, but two Thunderbird professors argue that it’s high time for a broader analysis of NAFTA’s impact, as well as some updates for the 21st century.</p>\r\n<p>In a <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2967014\" target=\"_blank\">working paper </a>by Thunderbird School of Global Management professors <a href=\"https://thunderbird.asu.edu/node/2270\" target=\"_blank\">Jonas Gamso</a> and <a href=\"https://thunderbird.asu.edu/robert-grosse\" target=\"_blank\">Robert Grosse</a>, the scholars assert that widening the scope of the debate – with attention not only to trade but foreign direct investment (FDI), employment, immigration, technology, labor interests, and the environment – can pinpoint areas where NAFTA should change and improve.&nbsp;</p>\r\n<p>“Updating NAFTA to bring it into line with more recent U.S. trade agreements and with the realities of the current economic and technological landscape – which are quite different from the landscape of the early 1990s – will have more consequential effects,” Gamso and Grosse write.</p>\r\n<p>NAFTA aimed to remove barriers to trade among the United States, Mexico and Canada and create stronger ties to boost production and jobs in each country. Its success in these aims has varied. The rate of growth in U.S. trade with Mexico, already on a strong upward trend in the early 1990s, did not see a post-NAFTA spike, though imports did grow more rapidly than exports.</p>\r\n<h3>NAFTA’s impact? It’s complicated</h3>\r\n<p>Many external factors in the 1990s impacted the economies of NAFTA’s member countries – elections, currency devaluations, and technological innovations to name just a few. Their coincident timing makes it difficult to discern the impact from NAFTA versus from those other factors.</p>\r\n<p>For example, Gamso and Grosse point out, the offshoring and outsourcing made possible by new technology shifted a large amount of manufacturing assembly from the U.S. to Mexico, and even more to China. “The impact of NAFTA’s marginal reduction in tariffs among the three countries was of a much smaller order.”</p>\r\n<p>But NAFTA most certainly created shifts in other business activities. FDI, for example, saw big increases due to U.S. companies setting up assembly facilities in Mexico. FDI flows from the U.S. to Mexico increased by a factor of six in the post-NAFTA era.</p>\r\n<p>The U.S., however, only experienced a modest increase in FDI inflows from Mexico. The same could be said for NAFTA’s impact on U.S. GDP, which Gamso and Grosse say was “very marginally influenced by NAFTA, given the much greater impacts of technology change and of trade with China during the second half of the 1990s and the early 2000s.”</p>\r\n<blockquote>\r\n<p><a href=\"https://ctt.ec/MlIZP\" target=\"_blank\"><i>While the most common criticisms of NAFTA cite job losses in auto and agricultural sectors, the overall numbers are more complicated. – Click to tweet</i></a><i><a href=\"#_msocom_1\" id=\"_anchor_1\"></a><br></i><i></i></p>\r\n</blockquote>\r\n<div>\r\n<p>While the most common criticisms of NAFTA cite job losses in the automotive and agricultural sectors, the overall numbers are more complicated. The distribution of U.S. GDP by sector was not noticeably affected by NAFTA, despite the jobs lost in auto assembly and agricultural products such as sugar and avocados.</p>\r\n<p>“This is because other jobs were gained in those same sectors, in auto design, production of components, and sales and service,” Gamso and Grosse write. “And in agriculture, U.S. jobs were gained in corn, soybeans, dairy products, and pork and beef production.”</p>\r\n<h3>Winners and losers</h3>\r\n<p>A key question in the NAFTA debate is how the agreement affects overall U.S. manufacturing employment. Gamso and Grosse say that question should be explored in two parts: First, the relative decline in U.S. manufacturing jobs, a decades-long phenomenon due in larger part to technological change than to competition from imports. And second, the impact of NAFTA on sectors heavy with maquila activity (offshore assembly).</p>\r\n<p>Regarding the first part: U.S. manufacturing jobs have not declined overall since the 1940s,&nbsp;but manufacturing jobs <i>relative to total U.S. jobs</i> have been in decline since at least 1945. A similar decline in U.S. agricultural employment began in the early 20th century. Each decline has a life of its own, apart from NAFTA.</p>\r\n<p>“In both manufacturing and agriculture, the output of goods has remained fairly constant, but the mechanization of the sectors has led to declining employment,” explain Gamso and Grosse. Meanwhile, “service sectors have grown to encompass today about 90 percent of U.S. employment.”</p>\r\n<blockquote>\r\n<p><a href=\"https://ctt.ec/pb8a5\" target=\"_blank\"><i>“In manufacturing and agriculture, the output of goods has remained fairly constant, but mechanization has led to declining employment.” – Click to tweet</i></a><i><a href=\"#_msocom_3\" id=\"_anchor_3\"></a><br></i></p>\r\n</blockquote>\r\n<p>To the second part of the question: U.S. exports to Mexico during the NAFTA era have strongly reinforced maquila activity that began more than two decades before the agreement. As of 2015, the top manufacturing export categories were machinery, electrical machinery, vehicles, mineral fuels and plastics, according to the Office of the U.S. Trade Representative.</p>\r\n<p>In the agriculture sector, U.S. exports to Mexico totaled $18 billion in 2015, making Mexico the United States’third-largest agricultural export market. Top categories were corn, soybeans, dairy products, pork and pork products, and beef and beef products.</p>\r\n<p>The U.S. also got a post-NAFTA boost – up 196 percent since 1993 – on exports of services to Mexico. Top categories were travel, transportation, and intellectual property (computer software). Within this context, Gamso and Grosse say, “We can assume that workers in these industries have been beneficiaries of NAFTA.”</p>\r\n<h3>Immigration: Up now, down later</h3>\r\n<p>The immigration debate remains as current as it is contentious. In the years since NAFTA took effect, immigration increased from or through Mexico to the U.S., which Gamso and Grosse say may be partly because NAFTA shifted production and investment in Mexico, leading to some displacement of Mexican laborers who then sought opportunity in the U.S.</p>\r\n<p>Research indicates that in the long term, however, jobs created in Mexico due to NAFTA should more than offset this short-term increase in emigration. NAFTA rules encourage offshore assembly in Mexico, for example, and the result is more than 1 million Mexican workers are now employed in maquila factories.</p>\r\n<p>“While the exact nature of the relationship between NAFTA and immigration has proven difficult to clarify,” say Gamso and Grosse, “a number of studies have concluded that NAFTA will lead to a reduction in emigration from Mexico over the longer term.”</p>\r\n<h3>Proposals for a 21st century NAFTA</h3>\r\n<p>Gamso and Grosse recommend adjusting NAFTA to reflect 21st century conditions and improving trade adjustment assistance (TAA) to help workers hurt by the agreement move into alternative jobs.</p>\r\n<p>Because TAA has not been especially effective to date, Gamso and Grosse recommend directing greater funding toward job training in categories experiencing the fastest growth across the U.S. “Channeling TAA recipients into sustainable jobs remains a huge challenge,” they write. “The reality is that people are not easily persuaded to take up such training, and they are particularly unwilling to move to locations where alternative jobs exist.”</p>\r\n<p>Another complication for a 21st century NAFTA is Mexico’s VAT, a 16 percent value-added tax on any company selling in Mexico. U.S. exporters to Mexico can technically pay the same percentage as Mexican companies but are burdened with additional red tape and tax filings with the Mexican government. “U.S. exporters need to adjust their paperwork to avoid overpaying,” advise Gamso and Grosse.</p>\r\n<blockquote>\r\n<p><a href=\"https://ctt.ec/3KkG2\" target=\"_blank\"><i>“</i><i>Updating #NAFTA provisions would level the regulatory playing field between the U.S. and Mexico.</i><i>” – Click to tweet</i></a><i><a href=\"#_msocom_1\" id=\"_anchor_1\"></a><br></i></p>\r\n</blockquote>\r\n<div>And finally, NAFTA itself has three areas ripe for modernizing: labor, environmental, and intellectual property rights (IPR) rules. Gamso and Grosse note that these side agreements “were quite groundbreaking in the early 1990s,” but in the years since then, U.S. trade agreements have greatly advanced labor and environmental standards, technology and IPR protections.</div>\r\n</div>\r\n<div>\r\n<p>“Updating these provisions should be priorities for any revision of NAFTA,” the professors write, “and would level the regulatory playing field between the U.S. and Mexico.”</p>\r\n<p>Well before the Trump administration, leaders in the U.S., Mexico, and Canada – on all sides of the political divides – have expressed support for certain reforms and updates to NAFTA. In other words, as Gamso and Grosse conclude, “Renegotiating NAFTA may be a rare area of bipartisan agreement.</p>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 6000
+    height: 4000
+    target_type: file
+    target_uuid: 5daa723d-f026-438e-9279-3d95d4f1df0d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.5daa723d-f026-438e-9279-3d95d4f1df0d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f

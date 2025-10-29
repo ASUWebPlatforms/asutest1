@@ -1,0 +1,12 @@
+uuid: 059207a0-a0f1-4c72-b106-b7ca7a70914b
+langcode: en
+status: true
+dependencies: {  }
+id: grey_background_section
+label: 'Grey Background'
+classes: "section-background\r\ngrey-bg\r\ngrey"
+type: section
+group: default
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

@@ -1,0 +1,5 @@
+content:
+  field_citation_title:
+    third_party_settings:
+      maxlength:
+        maxlength_js_label: 'Eingabe begrenzt auf @limit Zeichen, verbleibend: <strong>@remaining</strong>'

@@ -1,0 +1,19 @@
+uuid: a3257680-df59-4be6-b810-f73281b02797
+langcode: en
+status: false
+dependencies: {  }
+id: free_gdmi
+label: 'Free GDMI'
+weight: null
+plugin: manual
+configuration:
+  display_label: Free
+  mode: n/a
+  payment_method_types:
+    - credit_card
+  collect_billing_information: true
+  instructions:
+    value: ''
+    format: plain_text
+conditions: {  }
+conditionOperator: AND

@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 6ba35087-9eaf-461c-a109-eab83656a535
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Fusing personal branding and storytelling in your professional bio'
+created:
+  -
+    value: '2016-06-21T20:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/personal-branding-storytelling
+body:
+  -
+    value: "<p><strong>[[{\"fid\":\"797\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</strong></p>\r\n<p><strong>By Bernadette Martin</strong></p>\r\n<p>Personal branding is identifying, clarifying and communicating what makes you unique. Storytelling, as a way to communicate information, is proven by brain research to have amazing impact, not only to captivate and engage audiences, but to increase memory. Using effective storytelling in a professional bio is a powerful way to make your personal brand come alive. Here are five things to consider.</p>\r\n<p><strong>1. What is a bio?</strong></p>\r\n<p>The bio is your story in written format and is often a required, expected or requested document for professional purposes. It is a key element in your career toolkit (along with a professional photo, resume, business card and references). I recommend having three versions of varying lengths with storied content on hand to be tweaked and re-purposed depending on the usage, placement and target. Unlike the resume, which lacks storied content, the bio is where you can showcase your emotional intelligence, leadership skills, personal social responsibility activities, and your call to action. A bio reveals the stories behind the bullet points on your resume.</p>\r\n<p><strong>2. Who needs a bio?</strong></p>\r\n<p>Every professional — whether you are an executive, entrepreneur, solopreneur, coach, artist, musician, or recent graduate — needs a well-written bio in various versions for a host of purposes and channels. These include your LinkedIn summary, Twitter profile, newsletter, “about” page on a site or blog, speaking engagements, publication purposes as an author or contributor, business plans, presentations, and placement on social media and association sites and platforms.</p>\r\n<p>You need more than just the resume. In fact, some people say the resume is dead! Why? Because by the time a recruiter or decision maker (prospect, potential client, investor) has seen the resume (if they get that far), they’ve already done a Google search, reviewed your LinkedIn profile, and checked Facebook and Twitter. You now need to rely on more than just a resume to grab the attention of busy hiring managers, recruiters, and networking contacts.<br>&nbsp;<br><strong>3. What do I say in the bio?&nbsp;</strong></p>\r\n<p>In addition to the basics, such as credentials, experience and languages, you want to weave in what I call gems. These are the things that make your personal story stick. These are captivating, memorable touch points sprinkled throughout your narratives that engage and delight the reader. In a concrete sense, these can be quotes, analogies, humor, childhood memories, references to heroes, mentors, favorite authors, musicians and idols. Gems are a way to strengthen the message.<br>&nbsp;<br><strong>4. Where do I use it?</strong></p>\r\n<p>There is a plethora of ways to use this storied content. It can be sent in advance of an initial meeting to set the stage for a presentation. It can be included in your business plan. It also can be sent as a follow up after a networking event. Authors also need numerous versions of their bios. For individuals in career transition, a bio can be sent with your resume to round out and soften the edges.&nbsp; Although a resume serves a purpose, it lacks storied content, could be too heavy and might not message your true direction.</p>\r\n<p>Online, various versions can be posted on networking sites such as LinkedIn, Viadeo, FaceBook, Twitter, Xing, professional and alumni association sites (My Thunderbird) and on your personal website or blog.<br>&nbsp;<br><strong>5. How do I write it?</strong></p>\r\n<p>Writing, drafting, editing and fine-tuning the bio is usually the most challenging part. Before taking pen to paper or mouse to screen, realize that the bio is not a document to be thrown together at the last minute. This is a reflection of your professional brand and will be read by your stakeholders across the board. Oftentimes, this will be the first touch point people have with your brand. Think of how much time you have spent (cumulatively) writing your resume. The same care should be given to crafting your bio.</p>\r\n<p>It requires time, numerous drafts, refining and editing so the end result has a good structure, flow and prioritized messaging based on your goals and direction. Tips, resources and examples are in my book. Once you have a draft, I would be delighted to give you an assessment. Send it to&nbsp;<a href=\"mailto:bmartin@visibilitybranding.com\">bmartin@visibilitybranding.com</a>.</p>\r\n<p><em><strong>Bernadette Martin</strong>&nbsp;is Thunderbird alumni chapter leader in France and founder of Visibility Branding. She is a career transition personal brand strategist, storyteller, e-reputation analyst and author of “Storytelling about Your Brand Online &amp; Offline.” Geographically based on both sides of the pond (Paris and Seattle), she connects virtually with clients worldwide.</em></p>\r\n<p><strong>TAKE THE QUIZ</strong><br>To determine the strength of your personal brand, request the Personal Brand Quiz at&nbsp;<a href=\"mailto:bmartin@visibilitybranding.com\">bmartin@visibilitybranding.com</a>.</p>\r\n<p><strong>[[{\"fid\":\"798\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]READ THE BOOK</strong><br><a href=\"http://www.amazon.com/Storytelling-About-Brand-Online-Offline/dp/B00FFBHI04/ref=sr_1_2?ie=UTF8&amp;qid=1390935546&amp;sr=8-2&amp;keywords=storytelling+about+your+brand+online+%26+offline+effectively+message+your+online\" target=\"_blank\">Storytelling About Your Brand Online &amp; Offline<br></a><strong>Description:</strong>&nbsp;As neurological research confirms, storytelling is a powerful communicative tool. In her new book, Personal Branding Strategist, Bernadette Martin demonstrates how stories have transformed corporate images as well as professionals’ careers. From Storytelling 2.0 or Digital Storytelling, to interviews with experts to the Branded Bio tool, Martin guides you in developing your own compelling story and then covers the gamut of online and offline opportunities available to reach your target and impactfully market the “Brand Called You.”<strong></strong><br><strong>Author:&nbsp;</strong>Bernadette Martin ’84<br><strong>Description:</strong>&nbsp;Paperback, 166 pages, or&nbsp;<a href=\"http://www.amazon.com/Storytelling-about-Brand-Online-Offline-ebook/dp/B003T0FZAS/ref=sr_1_1?ie=UTF8&amp;qid=1390935767&amp;sr=8-1&amp;keywords=storytelling+about+your+brand+online+%26+offline+effectively+message+your+online\" target=\"_blank\">Kindle Edition</a>&nbsp;($9.99)<br><strong>Publisher:</strong>&nbsp;HAPPY ABOUT (2010)</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

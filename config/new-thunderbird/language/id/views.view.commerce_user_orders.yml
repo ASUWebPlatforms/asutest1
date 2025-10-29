@@ -1,0 +1,27 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Terapkan
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sortir dengan'
+          sort_asc_label: 'Urutan turun'
+      pager:
+        options:
+          tags:
+            first: '« Pertama'
+            last: 'Terakhir »'
+          expose:
+            items_per_page_label: 'Jumlah item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+            offset_label: Letak
+      fields:
+        order_id:
+          label: ID
+        placed:
+          label: Tanggal
+      arguments:
+        uid:
+          exception:
+            title: Semua

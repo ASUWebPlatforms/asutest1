@@ -1,0 +1,15 @@
+tb_webform.example:
+  path: '/tb-webform/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\tb_webform\Controller\TbWebformController::build'
+  requirements:
+    _permission: 'access content'
+
+tb_webform.settings_form:
+  path: '/admin/config/system/tb-webform'
+  defaults:
+    _title: 'Thunderbird Webform settings'
+    _form: 'Drupal\tb_webform\Form\SettingsForm'
+  requirements:
+    _permission: 'administer tb_webform configuration'

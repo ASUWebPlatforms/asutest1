@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: e612eb4c-49ef-4b12-8503-f037c72b101f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-20T15:40:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Chapter Connections July 2017'
+created:
+  -
+    value: '2017-07-25T16:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-20T15:40:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/chapter-connections-july-2017
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"6140\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>Auckland</strong> - June first Tuesday.Rosemary Wucinich ‘89, Hie Dal (Brian) Choi ‘83, and his wife Theresa, Chapter Leader Tina Huesing ‘96 and Logan. Those who attended enjoyed getting to know each other better at Devon the Wharf.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p><strong>[[{\"fid\":\"6141\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</strong></p>\r\n<p><strong>Delhi</strong> - Not rain or heavy traffic could keep these T-birds from getting together on June 30!</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"6142\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>Tubac, AZ</strong> – Southern Arizona Tbirds flock to Tubac to celebrate Independence Day!</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"6143\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>Milwaukee</strong> - Rockin' the Boat: Milwaukee TBird Alumni Chapter 6th Annual Sail. L-R (back): Chapter Leader Alexandra Sielaff ’89, Kristy Casey (Guest), Terry Brown ’90, Ed and Valerie Rodden (Guests), Piyush Chandra ’15, Skipper's Mate, &nbsp;JP Driessen ‘99, Risha Chandra, &nbsp;Jodi Schneider ‘15, Liyang Chang (TBird student), Alexander Davis ’12 &amp; Christine Davis.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"6144\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>Phoenix -</strong> Held their monthly event at the Thunderbird Pub on Tuesday July 11.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"6145\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>South Florida</strong> - Met on July 11 those in attendance:&nbsp; Alberto Galofre '96, Amy Berardi '96 and guest, Clay Dickinson '83, Cristian Acuna '10, David Brayer '83, David Silberfeld '87, Gayle Francseca Mellegaard '85 and guest Karen, Hadi Mansouri '04, Jeff Krablin '96, John Proctor '84, Jonaki Moitra '15, Joseph Ryan '84, Chapter Leader Karl Palsgaard '11, Kristin Dacey '07, Matthew Levy '96, Nayef Perry '08, Sandra Medina '07 and guest Steve, Shay Coker '98 &amp; Steven Novak '89.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<p class=\"wysiwyg-break\">&nbsp;</p>\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"6146\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>Seattle -</strong> Saturday July 22 Seattle T-bird’s gathered for a wine tour.&nbsp; L-R: Chapter Leader Steve Hilbert ‘07, Jaimie Schilling ‘06, Eric Boone ‘12, Chapter Leader Laurie Viault ‘99, Chenta Chen ‘82 and his wife.</p>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<p>[[{\"fid\":\"6147\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><strong>Hong Kong</strong> - The boat trip July 8 was a huge success!</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"row\"></div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: 0d9ae7bc-ac64-4632-b9d1-4103cc0ebb6d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.0d9ae7bc-ac64-4632-b9d1-4103cc0ebb6d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

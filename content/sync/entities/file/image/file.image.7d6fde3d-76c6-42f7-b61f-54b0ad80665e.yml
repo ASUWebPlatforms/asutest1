@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 7d6fde3d-76c6-42f7-b61f-54b0ad80665e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: a6c4cbb6-06cc-40c4-a0f8-f607ab61bc78
+filename:
+  -
+    value: tbirds_at_weamericas.jpeg
+uri:
+  -
+    value: 'public://article/tbirds_at_weamericas.jpeg'
+    url: /sites/default/files/article/tbirds_at_weamericas.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 98733
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-05-04T19:52:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-04T19:52:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a6c4cbb6-06cc-40c4-a0f8-f607ab61bc78

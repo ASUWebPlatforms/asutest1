@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 21f32008-4af5-404a-92db-04fe81c586e3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-22T18:17:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'T-bird Angels Spread Their Wings'
+created:
+  -
+    value: '2016-09-02T18:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T18:17:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/angels-spread-wings
+body:
+  -
+    value: "<p><span>Welcome to Cluj Napoca!</span></p>\r\n<p>[[{\"fid\":\"3919\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Team T-bird Angels has nearly concluded our first week in Romania. Who knew time would fly so fast! Living in this beautiful city filled with welcoming, warm hearted people has made our transition into this new environment much easier. This first week has been full of building new relationships as well as our knowledge of the local environment--honing in on cultural nuances within the region, and learning more about the successes and challenges faced by entrepreneurs in the region. In this post I will provide you with the team's high points, as well as some of the challenges that we faced along the way.</p>\r\n<p>[[{\"fid\":\"3920\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p><span>Mahmood says that he has loved having the opportunity to explore the architecture in Cluj. The experience as a whole has been highly enjoyable - he loves the food, the coffee, and finds the Romanian people very friendly. He also loves seeing so many tiny smart cars roaming through the streets. Lastly, he was excited to find that Romania hosts its own car manufacturing facility (Dacia). The difficulty that he has experienced in Romania has been predominantly due to lack of sleep. We are all still adjusting to our accommodations, which is a process that will take time. </span></p>\r\n<p><span><span>[[{\"fid\":\"3921\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></span></p>\r\n<p><span>Isabel has quickly fallen in love with Cluj. She finds that it is a city full of character in which the history is so alive. \"It's a beautiful city architecturally, and the people here are kind and open\". She also finds working with a client that is highly enthusiastic about the success of the project to be a treat. Most importantly, she is grateful to be working with a team of highly talented and motivated friends with whom she can learn and enjoy the experience. Similar to Mahmood the most difficult aspect of her transition to Romania is adjusting her sleeping habits</span></p>\r\n<p><span><span>[[{\"fid\":\"3922\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></span></p>\r\n<p><span>Prita has especially enjoyed talking to Romanian people as she finds them beautiful both inside and out. The helpful and kind nature of Romanians continues to delight her each day. She loves the food and informs the team that \"I already secured my official crepe supplier Sophia, who not only makes the most amazing crepes but also has been introducing me bit by bit to the Romanian language\". She enjoys her walks through the city of Cluj, that has so much history and beautiful architecture and she says \"it is the best part of my trip\". Her low point, like the rest of the team has been lack of consistent sleep as the first week is always a tough week.</span></p>\r\n<p><span><span>[[{\"fid\":\"3923\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></span></p>\r\n<p><span>Hannah loves the historical architecture of this beautiful city and the plethora of the European shopping options and restaurants with mouth watering cuisines in the area. What has made her stay so enjoyable is the ease of access to all amenities and facilities in the region. Lastly, she is really excited to get to know her team on a more personal level and enjoys spending time with them. Her biggest obstacle thus far has been balancing team expectations to create an environment in which everyone can work effectively. </span></p>\r\n<p><span>.[[{\"fid\":\"3925\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]] </span></p>\r\n<p><span>Chris has wholeheartedly enjoyed exploring Eastern Europe for the first time as it is &nbsp;very different from the US and Australia and he is an enthusiast who finds great pleasure in exploring new regions, trying new cuisines and meeting locals. Chris, a man of few words, has experienced the most difficulty in transitioning to the cold nights in Romania. His next task is to find himself a warm evening scarf.</span></p>\r\n<p><span><span>&nbsp;</span></span></p>\r\n<p><span>Having experienced little difficulty in adjusting to the environment, team T-bird Angels has powered through the week to learn as much about their new environment as possible. This process began by an introduction to project client Ionut pictured below with the team.</span></p>\r\n<p style=\"text-align: center;\"><span><span>[[{\"fid\":\"3926\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></span></p>\r\n<p><span>Ionut, professor of &nbsp;mathematics and economics at Babes Bolyai University, consultant, and business owner is pictured above. Ionut has provided our team access to a wealth of information, important introductions, and enthusiasm. Team T-bird angels believes these features will work as a huge asset towards the success of our project. Ionut, having worked in business environments both in Romania and abroad has access to a great network that has been open in discussing the strengths in their business models, challenges presented by the local environment, and key factors that led to success in Cluj. Pictured below is team T-bird Angels with the founder of Cluj-hub, Cristian Dascalu. </span></p>\r\n<p style=\"text-align: center;\"><span><span>[[{\"fid\":\"3928\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></span></p>\r\n<p><span>Cristian Dascalu was a key player in developing the startup ecosystem here in Romania. He is the founder of the first workshop space in Cluj, as well as accelerators and incubators around the country. Cluj-hub, the physical location visited by team T-bird Angels functions as the physical workshop space. Cluj-hub is one part of a group of a cluster of incubators, accelerators, and workspaces founded by this same man. Cluj-hub is a space that works on the forefront with innovative IT startups. It is a very developed workspace with all of the characteristics you would see in silicon valley from décor, to style, to knowledge, to attitude. </span></p>\r\n<p><span>Founder Cristian, motivated to spread sustainable and innovative ideas believes that, to use his own words- “with more committed active citizens involved in finding creative solutions to societal problems we can lead the world to a better and positive future.” Meeting with Cristian has provided our team with highly valuable insights that will enable us to begin to create several soft models for accelerators tailored to the needs of the local environment. In the next few weeks we will continue to build relationships and insights through key players in this field in order to tailor the model to the local needs. Continue to follow us in our journey through Cluj as we discover more about this beautiful city!</span></p>\r\n<p><span>&nbsp;</span></p>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p style=\"text-align: center;\">[[{\"fid\":\"3929\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p style=\"text-align: center;\">[[{\"fid\":\"3930\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 480
+    height: 415
+    target_type: file
+    target_uuid: f24594b6-9307-48cd-8c77-1cbc5ab034fc
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.f24594b6-9307-48cd-8c77-1cbc5ab034fc
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

@@ -1,0 +1,51 @@
+.video {
+    .field-media-oembed-video {
+        position: relative;
+        padding-bottom: 56.25%; // 16x9 ratio
+
+        iframe {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+    .figure-caption {
+        background-color: $gray-1;
+        border: 1px solid #cccccc;
+        padding: 1.75rem;
+        
+        .uds-caption-text {
+            color: $gray-darkest;
+            font-size: $font-size-sm;
+            line-height: $font-size-sm;
+        }
+    }
+}
+
+// Override webspark gallery video styling
+.uds-video-container {
+    border: none;
+    margin: 0rem 0rem 3rem;
+
+    .uds-video-player {
+        background-color: #cccccc;
+        padding-bottom: 50%;
+    }
+
+    figure {
+        background-color: #f6f6f6;
+        border: 1px solid #cccccc;
+        
+        figcaption {
+            color: $gray-darkest;
+            font-size: $font-size-sm;
+            line-height: $font-size-sm;
+            margin: 1.75rem;
+        }
+    }
+}

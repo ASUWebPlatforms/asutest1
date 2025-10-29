@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 00ae2eb8-6450-4ec4-b5b0-fceca1cae545
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-22T18:16:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'TEM LAB Romania- 2016'
+created:
+  -
+    value: '2016-11-01T17:44:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T18:16:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/TEM-lab-romania-2016
+body:
+  -
+    value: "<p style=\"text-align: center;\">[[{\"fid\":\"4017\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>The client company, Megatitan, was an exemplary European SME in many ways. Its Romanian CEO was a visionary entrepreneur—Nelu was an economic refugee in Hungary when a man told him about a technology of the future: a precision laser cutting machine to fabricate metal. For Nelu, it became an animating purpose. He acquired the machine and started a family-oriented business in a small town outside of Cluj-Napoca, Romania, citing trust and loyalty between him and his employees as key to their initial success. Megatitan was also savvy in obtaining European Union funding for SMEs in new EU countries. The company had obtained grant support for over €3 million euros worth of high-tech metal fabrication equipment. It could make everything from park benches to BMW dashboard parts. The Thunderbird Emerging Markets Laboratory (TEM Lab) consulting team was engaged by Megatitan to add precision to its marketing. What were the best markets for its production capacity, and how to target them? But a few weeks into the project the TEM Lab team was perplexed: there was no dedicated sales staff and no market strategy. One expensive factory asset had 2% usage, and Nelu purchased new assets only considering if they were selling at a discount, not if they contributed strategic value. So as many a TEM Lab consulting team has done, the group expanded its scope. They prioritized market segments, wrote job descriptions for a sales team, put everything in the factory on a stopwatch, and built break-even spreadsheets adaptable to any asset purchase. But here enters the Thunderbird consulting secret sauce: trust and relationships. Built after-hours, at lunches and dinners, on weekend trips, in every authentic interaction with the client, and of course, across language and cultural barriers. When the time came to discuss strategic purchasing it was not done in a boardroom focusing on a PowerPoint slide. It was done during a visit to a warehouse that Nelu was considering buying because it was cheap. The team asked questions about the purchase and walked Nelu through the implications (it wasn’t a smart purchase). Then it happened: Nelu’s eyes widened as he turned to the team, “I get it,” the logic of data-driven decisions, the warehouse was not a good purchase! Just like it was his own idea. These ‘aha’ moments, between Thunderbird students and their consulting clients, have happened all over the world since the inception of the Thunderbird Emerging Markets Laboratory in 2010. Since then, more than 60 projects, 30 countries, and 300 students later, Thunderbird has expanded its project-based, client-facing, team-driven applied learning opportunities for students to include real-world consulting projects in all degree programs: Executive, Online, Master of Arts and MGM. In sum, today’s field experiences encompass much more than a TEM Lab; these opportunities are called Thunderbird Applied Learning Programs (TALP) and are now part of every Thunderbird degree program.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4018\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Romania\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Romania\"}},\"attributes\":{\"alt\":\"TEM Lab-Romania\",\"title\":\"TEM Lab-Romania\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p style=\"text-align: center;\"><strong>The TEM Lab team with their client, Megatitan, and (from left) Professors Marcel Pop and Ionut Luca of ASU partner University BabesBolya</strong></p>\r\n<p style=\"text-align: left;\">Any T-bird from ’08 to ’16 will remember Professor Michael Finney—he started and propelled TALP to its current status. Dr. Finney retired in May of 2016 and left TEM Lab and TALP as the gem of his legacy. The new Academic Director, Professor Tom Hunsaker, is a strategy professor, a Latin America specialist, and someone who is committed to active learning opportunities. That commitment is important because there are many extra, unseen faculty hours that go into outside-of-class, client-facing global experiences. The Executive Director of TALP remains Charles Reeves ’09, who joined the program with Dr. Finney in 2010. TEM Lab remains the flagship program in the MGM curriculum and the most robust consulting offering: five weeks of full-time field work with a team of four to five students, it represents a full half-semester. The Global Consulting Laboratory (GCL) in the MAGAM degree program is the newest TALC offering, and features a three-week immersion period. The GCL launched this past May with three remarkably successful projects in Lima, Peru. Three MAGAM consulting teams under the supervision of Dr. Hunsaker consulted for companies like Johnson &amp; Johnson and Citi. For many of the MAGAM students with light professional experience, consulting for a Fortune 500 company with such high expectations provided a level of professional confidence that propelled these students to even greater adventures, and into the workplace. (see the article by our GCL alums who consulted in Madagascar). The Executive and Online TALP offerings have been a differentiating feature in the EMGM and OMGM program for four years. The Executive TEM Lab features a client-project at a global location, with a scope of work designed to be completed in just one week. Online students participate in that program for the first time this October. As Thunderbird expands its commitment to applied learning there remains one more frontier: our alumni! A TEM Lab travel option for alumni is under discussion, possibly to be rolled out in 2017. We think it may be an idea whose time has come. We would love to hear your feedback!</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 813
+    height: 440
+    target_type: file
+    target_uuid: bc3de737-ce53-46cd-a9a1-2eab43a007ef
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.bc3de737-ce53-46cd-a9a1-2eab43a007ef
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

@@ -1,0 +1,29 @@
+{% extends 'node--card.html.twig' %}
+
+{% set email =  content.field_email|render|striptags|trim %}
+
+  {% block content %}
+    <div class="card-img-bg">
+      {% if content.field_image[0] is not empty %}
+        {{ content.field_image }}
+      {% else %}
+        <div class="card-img"></div>
+      {% endif %}
+    </div>
+    <div class="content d-flex">
+      <div class="col">
+        {# @TODO: Get heading level from block settings #}
+        <h3{{ title_attributes }}>
+          <a href="{{ url }}" rel="bookmark">{{ label.0 }}</a>
+        </h3>
+        <div class="details row flex-wrap">
+          <div class="col-sm-12 card-content">
+            {{ content|without('field_image', 'field_photo_url', 'field_email') }}
+          </div>
+        </div>
+        {% if email is not empty %}
+          <a class="email-icon" href="mailto:{{ email }}" aria-label="Link to email address"><i class="far fa-envelope" aria-hidden="true"></i></a>
+        {% endif %}
+      </div>
+    </div>
+  {% endblock %}

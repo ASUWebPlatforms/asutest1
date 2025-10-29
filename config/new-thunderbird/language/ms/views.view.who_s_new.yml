@@ -1,0 +1,14 @@
+display:
+  default:
+    display_title: Lalai
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Pohon
+          reset_button_label: 'Set semula'
+          exposed_sorts_label: 'Susun mengikuti'
+          sort_asc_label: Menaik
+          sort_desc_label: Menurun
+  block_1:
+    display_options:
+      block_category: Pengguna

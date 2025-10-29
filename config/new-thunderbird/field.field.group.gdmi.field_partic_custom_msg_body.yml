@@ -1,0 +1,26 @@
+uuid: 51dff9bd-5fa5-4222-87a7-8e4beb27890b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.group.field_partic_custom_msg_body
+    - group.type.gdmi
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - basic_html
+id: group.gdmi.field_partic_custom_msg_body
+field_name: field_partic_custom_msg_body
+entity_type: group
+bundle: gdmi
+label: 'Participant Invitation Custom Message Body'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

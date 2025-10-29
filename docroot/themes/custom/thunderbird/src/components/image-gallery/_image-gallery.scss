@@ -1,0 +1,345 @@
+.image-gallery {
+    .h2 {
+        margin-bottom: 2rem;
+    }
+
+    *:focus {
+        box-shadow: none !important;
+    }
+
+    .image-gallery-preview {
+        margin-bottom: 1.5rem;
+
+        .slick-arrow {
+            align-items: center;
+            background-color: rgba(white, 0.3);
+            border: 1px solid white;
+            border-radius: 999px;
+            display: flex;
+            height: 50px;
+            justify-content: center;
+            width: 50px;
+            z-index: 1;
+
+            &:before {
+                height: 24px;
+                opacity: 1;
+                width: 24px;
+            }
+            
+            &:focus {
+                box-shadow: none !important;
+                border-width: 4px;
+            }
+
+            &.slick-prev {
+                left: 1rem;
+                &:before {
+                    content: url('/themes/custom/thunderbird/assets/icons/arrow-left-white.svg');
+                }
+            }
+
+            &.slick-next {
+                right: 1rem;
+                &:before {
+                    content: url('/themes/custom/thunderbird/assets/icons/arrow-right-white.svg');
+                }
+            }
+
+            &.slick-disabled {
+                opacity: 0.25;
+                border-width: 1px !important;
+                &:before { opacity: 1; /* Reset default slick theme */ }
+            }
+        }
+    }
+
+    .image-gallery-thumbnails {
+        overflow-x: hidden;
+
+        .slick-list {
+            margin: 0rem -0.75rem;
+
+            .slide {
+                cursor: pointer;
+                margin: 1.5rem 0.75rem;
+
+                .field-media-image {
+                    position: relative;
+                }
+
+                &.slick-current {
+                    .field-media-image {
+                        &:before {
+                            border: 3px solid $gold;
+                            content: '';
+                            width: 100%;
+                            height: 100%;
+                            top: 0rem;
+                            left: 0rem;
+                            position: absolute;
+                            z-index: 1;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .image-gallery-caption {
+        background-color: $gray-lightest;
+        border: 1px solid #cccccc;
+        padding: 1.5rem;
+
+        .field-title {
+            color: $blue-dark;
+            font-size: $font-size-md;
+            line-height: $font-size-xl;
+            margin: 0rem;
+            font-weight: 900;
+        }
+        
+        .formatted-text {
+            color: $gray-darkest;
+            display: block !important; /* Reset default */
+            font-size: $font-size-md;
+            height: initial !important; /* Reset default */
+            line-height: $font-size-xl;
+            margin: 0rem;
+        }
+    }
+}
+
+
+// Outdated Webspark image gallery
+.image-carousel-containerr {
+    .glide {
+        max-width: 100% !important; /* Override default behavior */
+        
+        &:after {
+            display: none;
+        }
+
+        .glide__track {
+            border: none !important;
+
+            &:after {
+                display: none; // Hide gradient shadow
+            }
+            
+            .glide__slides {
+                .glide__slide {
+                    max-width: 100%;
+
+                    .uds-img {
+                        img {
+                            margin-bottom: 0px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .image-gallery-action-area {
+            border: none !important;
+
+            .image-navigator {
+                border: none !important;
+
+                .glide__arrows {
+                    .glide__arrow {
+                        border: 1px solid #ffffff;
+                        background-color: rgba(255, 255, 255, 0.3);
+                        width: 50px;
+                        height: 50px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+
+                        &:before {
+                            width: 1rem;
+                            height: 1rem;
+                            line-height: 0rem;
+                        }
+
+                        &.glide__arrow--prev {
+                            &:before {
+                                content: url('/themes/custom/thunderbird/assets/icons/arrow-left-white.svg');
+                            }
+                        }
+
+                        &.glide__arrow--next {
+                            &:before {
+                                content: url('/themes/custom/thunderbird/assets/icons/arrow-right-white.svg');
+                            }
+                        }
+
+                        &.glide__arrow--disabled {
+                            opacity: 0.3;
+                            box-shadow: none !important;
+                            pointer-events: none;
+                        }                        
+
+                        svg {
+                            display: none;
+                        }
+                    }
+
+                    .image-navigator-images {
+                        width: 100%;
+                        padding: 0rem;
+
+                        &:after {
+                            display: none; // Hide gradient shadow
+                        }
+
+                        .navigation-slider {
+                            .glide__bullets {
+                                margin-left: -5px;
+
+                                .bullet-image-container {
+                                    height: auto;
+                                    padding: 1.5rem 1.5rem 1.5rem 0rem;
+                                    box-shadow: none !important;
+                                    margin: 0rem; // Originally 0 0.5rem
+                                    transform: translateY(32px);
+
+                                    &:first-child {
+                                        margin-left: 0rem; // Originally 15rem
+                                    }
+
+                                    &.glide__bullet--active {
+                                        border: none;
+                                        box-shadow: none !important;
+                                        
+                                        &:before {
+                                            border: 3px solid $gold;
+                                            content: '';
+                                            width: calc(100% - 1.5rem);
+                                            height: calc(100% - 3rem);
+                                            top: 1.5rem;
+                                            left: 0rem;
+                                            position: absolute;
+                                            z-index: 1;
+                                        }
+                                    }
+
+                                    .bullet-image {
+                                        box-shadow: none !important;
+                                        width: 180px;
+                                        height: auto;
+                                        margin: 0rem;
+                                        position: relative;
+                                        z-index: 0;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .figure-caption {
+                background-color: #f6f6f6;
+                border: 1px solid #cccccc;
+                padding: 1.5rem;
+
+                .uds-caption-text {
+                    padding: 0rem !important;
+
+                    & > * {
+                        height: auto !important; // Override HTML attribute
+                    }
+
+                    h3 {
+                        color: $blue-dark;
+                        font-size: $font-size-md;
+                        line-height: $font-size-xl;
+                        margin: 0rem;
+                        font-weight: 900;
+                    }
+                    
+                    p {
+                        color: $gray-darkest;
+                        display: block !important; /* Reset default */
+                        font-size: $font-size-md;
+                        height: initial !important; /* Reset default */
+                        line-height: $font-size-xl;
+                        margin: 0rem;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.block-inline-blockgallery {
+    .field-carousel-card {
+        display: none; // Hide reference images for ASU glideJS library
+    }
+}
+
+.image-gallery-grid {
+    padding: 24px 12px;
+    display:  grid;
+    gap: 24px;
+
+    &-item  {
+        min-height: 400px;
+
+        &.first {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            span {
+                color:  gold;
+                font-weight: 900;
+                font-size: 42px;
+                line-height: 1;
+            }
+        }
+        
+        div,
+        img {
+            width: 100%;
+            height: 100%;
+        }
+
+        img {
+            object-fit: contain;
+            padding: 40px;
+        }
+
+        &.navy {
+            background-color: $blue-dark;
+        }
+
+        &.blue {
+            background-color: $blue-mid;
+        }
+        &.gold {
+            background-color: $gold;
+        }
+        &.gray {
+            background-color: $gray-darkest;
+        }
+    }
+
+    @include media-breakpoint-up(md) {
+        padding: 54px 0;
+        grid-template-columns: repeat(2, 1fr);
+
+        .first span {
+            font-size: 54px;
+        }
+    }
+
+    @include media-breakpoint-up(lg) {
+        padding: 120px 0;
+        grid-template-columns: repeat(3, 1fr);
+
+        .first span {
+            font-size: 65px;
+        }
+    }
+}

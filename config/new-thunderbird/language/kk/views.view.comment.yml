@@ -1,0 +1,63 @@
+label: Пікірлер
+display:
+  default:
+    display_title: Стандартты
+    display_options:
+      title: Пікірлер
+      fields:
+        comment_bulk_form:
+          action_title: Әрекет
+        subject:
+          label: Тақырыбы
+        name:
+          label: Автор
+        entity_id:
+          label: 'Жарияланған жері'
+        operations:
+          label: Операциялар
+      pager:
+        options:
+          tags:
+            next: 'келесі ›'
+            previous: '‹ алдыңғы'
+            first: "«\_бірінші"
+            last: "соңғы\_»"
+      exposed_form:
+        options:
+          submit_button: Фильтрле
+          reset_button_label: Ысыру
+      empty:
+        area_text_custom:
+          content: 'Пікірлер жоқ.'
+      filters:
+        subject:
+          expose:
+            label: Тақырыбы
+        langcode:
+          expose:
+            label: Тіл
+  page_published:
+    display_title: 'Жарияланған пікірлер'
+    display_options:
+      menu:
+        title: Пікірлер
+  page_unapproved:
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: Әрекет
+        subject:
+          label: Тақырыбы
+        name:
+          label: Автор
+        entity_id:
+          label: 'Жарияланған жері'
+        operations:
+          label: Операциялар
+      filters:
+        subject:
+          expose:
+            label: Тақырыбы
+        langcode:
+          expose:
+            label: Тіл

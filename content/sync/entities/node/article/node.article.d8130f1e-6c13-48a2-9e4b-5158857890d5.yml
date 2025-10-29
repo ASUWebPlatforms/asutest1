@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: d8130f1e-6c13-48a2-9e4b-5158857890d5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'OBJECTIVE: Training on Case Study Writing'
+created:
+  -
+    value: '2015-11-19T12:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/training-case-study-writing
+body:
+  -
+    value: "<p>As grad school students, we all have been exposed to numerous case studies. Here at King’s College, the TEM Lab Nepal team is assisting in training the faculty and students to write case studies on successful Nepali businesses. Headed by our writing expert, Emma Livingston, the overall aim is to promote Nepali business success stories among the youth and educate them about doing business in Nepal and taking it global. Team Nepal interviewed the founder/CEO of each of the companies in order to start work on the case studies.</p>\r\n<p>Three different Nepali companies with unique stories have been selected to write case studies about:</p>\r\n<p>1. Coffee House Chain – Himalayan Java Coffee</p>\r\n<p>[[{\"fid\":\"2936\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Coffee House Chain – Himalayan Java Coffee\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Coffee House Chain – Himalayan Java Coffee\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Coffee House Chain – Himalayan Java Coffee\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>2. Technology Company - F1Soft</p>\r\n<p>[[{\"fid\":\"2937\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Technology Company - F1Soft\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Technology Company - F1Soft\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Technology Company - F1Soft\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>3. Outdoor Clothing Company – Sherpa Adventure Gear</p>\r\n<p>[[{\"fid\":\"2938\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Outdoor Clothing Company – Sherpa Adventure Gear\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Outdoor Clothing Company – Sherpa Adventure Gear\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Outdoor Clothing Company – Sherpa Adventure Gear\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>In the United States and many other countries, coffee houses have become a crucial part of daily life. The founder of Himalayan Java Coffee recognized this potential in Nepal and created a shift in the cultural trend. Before, Nepal was a mostly tea-drinking nation. Now, coffee drinking culture has slowly built up since the incorporation of Himalayan Java. The company is now looking to create a model coffee plantation that will serve as training grounds for Nepali coffee farmers to move up the value chain. How a company can cause a cultural shift of this magnitude will be further discussed in this case.</p>\r\n<p>[[{\"fid\":\"2939\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Training on Case Study Writing\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Training on Case Study Writing\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Training on Case Study Writing\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>When talking about technology, Silicon Valley is usually the first place that strikes a person. The technology industry in Nepal, however, is not perceived as very advanced and overcoming the challenges of this Country of Origin effect will be the focus of our case study on F1Soft. F1Soft is also heavily embedded in the banking services sector. Many agricultural financing services depend on F1Soft's webhosting services and online payment applications. After students read F1Soft’s story, they will learn new ways of approaching problems in the ever-growing scope of tech industry.</p>\r\n<p>Nepal is known for Mount Everest and Sherpa people of the Himalayas. Sherpa Adventure Gear builds on its Nepal brand by offering high end outdoor clothing mostly made in Nepal. However with the operational challenges Nepal faces, there is a lot more to explore in terms of opportunities and threats. This case will create an analyzing tool for this purpose.</p>\r\n<p>[[{\"fid\":\"2940\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Training on Case Study Writing\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Training on Case Study Writing\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Training on Case Study Writing\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>The opportunity to interview the founder/CEO of these companies has given Team Nepal a great insight into the entrepreneurial ecosystem in Nepal.&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

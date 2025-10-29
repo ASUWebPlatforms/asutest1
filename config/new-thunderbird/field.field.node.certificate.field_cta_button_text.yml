@@ -1,0 +1,21 @@
+uuid: 9c49ce81-a20a-4d5b-a5b7-e6be613a8386
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_cta_button_text
+    - node.type.certificate
+id: node.certificate.field_cta_button_text
+field_name: field_cta_button_text
+entity_type: node
+bundle: certificate
+label: 'CTA  button text'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 'Register now'
+default_value_callback: ''
+settings: {  }
+field_type: string

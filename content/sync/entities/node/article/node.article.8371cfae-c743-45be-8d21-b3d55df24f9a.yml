@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 8371cfae-c743-45be-8d21-b3d55df24f9a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:48:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: '2005 Artemis Fellow Opens Store at Kandahar Airfield'
+created:
+  -
+    value: '2009-11-24T00:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:48:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/artemis-fellow-opens-store-kandahar
+body:
+  -
+    value: "<div><img src=\"https://dev-asu-thunderbird.ws.asu.edu/sites/default/files/styles/panopoly_image_original/public/ribbon_cutting2_small.jpg\"></div>\r\n<p><strong>By Wynona Heim, Thunderbird for Good Program Manager, Afghanistan</strong></p>\r\n<p>It is always a good day when we receive good news from Afghanistan, but this news seems to fit perfectly with the season. As we here in the U.S. prepare to celebrate Thanksgiving, Rangina Hamidi, a 2005 Project Artemis fellow and owner of&nbsp;<em>Kandahar Treasure</em>, as well as the 250 Afghan women who work in her cooperative, truly have something to be thankful for.</p>\r\n<p>On Nov. 14,&nbsp;<em>Kandahar Treasure</em>&nbsp;opened its first retail shop on the “Boardwalk” at the Kandahar Airfield in Afghanistan, where NATO soldiers and international civilian support team members at the sprawling base will be able to shop. The shop features silk scarves and shawls, hand-embroidered pillows, linen furniture covers and more, all hand made by Afghan women working out of their homes. After nearly selling out on opening day, Rangina brought more stock to fill the shop on day two – and this time completely sold out!</p>\r\n<p>She says the international customers coming to her shop are delighted to be able to buy something “truly Afghan,” as well as to support the first women's business on the Boardwalk.</p>\r\n<p>Prior to this, Rangina had been marketing the handmade goods that she and the other women in the cooperative have produced through male-owned retail businesses in Kandahar or over the Internet (<a href=\"http://www.kandahartreasure.com/\">http://www.kandahartreasure.com/</a>).</p>\r\n<p>“This is a dream come true,” says Rangina. “We take great pride in this because we are self-sufficient. We are not begging anyone for assistance.”</p>\r\n<p>Capt. Darcy Heddon of Edmonton, Canada, was a key supporter, helping Rangina negotiate the maze of bureaucracy and security needed to open a shop on the base, and even persuaded the base commander to donate the small trailer which has become&nbsp;<em>Kandahar Treasure</em>’s first home. The commander and his deputy were on hand for the ribbon cutting and immediately became two of the shop’s first customers.</p>\r\n<p>We join Rangina in thankfulness for the support from NATO base commanders and personnel, as well as in her hopes for better security in Kandahar and around Afghanistan so that more such successes can take shape in the future.</p>\r\n<p>Happy Thanksgiving from the Thunderbird for Good team!</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

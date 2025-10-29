@@ -1,0 +1,146 @@
+.insights-grid {
+	.grid {
+		display: flex;
+		flex-wrap: wrap;
+
+		article {
+			display: flex;
+			width: 100%;
+
+			&:hover {
+				outline: 5px solid $gold;
+				outline-offset: -5px
+			}
+
+			&.insight-first-container {
+				&:hover {
+					outline: none;
+				}
+
+				.column:hover {
+					outline: 5px solid $gold;
+					outline-offset: -5px
+				}
+			}
+
+			.insight-content {
+				display: grid;
+				grid-template-columns: 1fr;
+				grid-template-rows: repeat(2, 1fr);
+				grid-column-gap: 0px;
+				grid-row-gap: 0px;
+				width: 100%;
+
+				.column {
+					background-color: $gray-lightest;
+					background-position: center top;
+					background-size: cover;
+					display: flex;
+					flex-direction: column;
+					justify-content: center;
+					padding: 10%;
+					width: 100%;
+
+					&.insight-first {
+						.title {
+							max-width: 320px; // Wrap title
+						}
+
+						.cta {
+							display: inline-block;
+							font-size: $font-size-md;
+							font-weight: $font-weight-bolder;
+							text-transform: uppercase;
+						}
+					}
+
+					&.bg-blue-dark {
+						background-color: $blue-dark;
+
+						.title {
+							color: $gold;
+						}
+
+						.cta {
+							a {
+								color: #ffffff;
+							}
+
+							svg {
+								color: $gold;
+							}
+						}
+					}
+
+					.insight-tags, .field-kn-tags {
+						display: flex;
+						flex-wrap: wrap;
+						padding-bottom: 1.5rem;
+
+						.tag, .field__item {
+							background-color: $blue-mid;
+							color: #ffffff;
+							font-size: $font-size-xs;
+							line-height: $font-size-sm;
+							margin: 0 0.5rem 0.5rem 0;
+							padding: 0.25rem 0.75rem; // 4px 8px
+						}
+					}
+
+					.insight-date {
+						color: $blue-dark;
+						font-size: $font-size-xs;
+						font-weight: 700;
+						padding-bottom: 1rem;
+					}
+
+					.insight-title {
+						font-size: $font-size-xl; // 30px
+						line-height: $h3-font-size; // 34px
+					}
+
+					.insight-body {
+						font-size: $font-size-md; // 18px
+						line-height: $font-size-xl; // 30px
+					}
+
+					.insight-type {
+						align-items: center;
+						display: flex;
+						justify-content: space-between;
+						padding-top: 1rem;
+
+						.text {
+							color: $blue-dark;
+							font-size: $font-size-xs;
+							font-weight: 700;
+						}
+					}
+
+					.field-publication {
+						color: $blue-dark;
+					    padding-bottom: 20px;
+						margin-top: -15px;
+						font-size: .75rem;
+
+						.field__label {
+						    text-transform: uppercase;
+						}
+					}
+				}
+			}
+
+			@include media-breakpoint-up(lg) {
+				width: 33.3334%;
+
+				&:nth-child(3n-1) { // Change article children order
+					.insight-content {
+						.column.insight-image {
+							grid-row: 2;
+						}
+					}
+				}
+			}
+		}
+	}
+}

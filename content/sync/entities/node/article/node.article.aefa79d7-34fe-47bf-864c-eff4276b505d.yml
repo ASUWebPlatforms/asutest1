@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: aefa79d7-34fe-47bf-864c-eff4276b505d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:51:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+title:
+  -
+    value: 'Keeping Remote Sales Reps Connected'
+created:
+  -
+    value: '2018-03-29T20:22:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:51:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/keeping-remote-sales-reps-connected
+body:
+  -
+    value: "<p>[[{\"fid\":\"14848\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Keeping Remote Sales Reps Connected\",\"field_file_image_title_text[und][0][value]\":\"Keeping Remote Sales Reps Connected\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Keeping Remote Sales Reps Connected\",\"field_file_image_title_text[und][0][value]\":\"Keeping Remote Sales Reps Connected\"}},\"attributes\":{\"alt\":\"Keeping Remote Sales Reps Connected\",\"title\":\"Keeping Remote Sales Reps Connected\",\"height\":\"516\",\"width\":\"962\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>The advent of new technology and changing philosophies on work life balance has created an increasingly mobile work force. Last year, the&nbsp;<a href=\"https://gls.london.edu/\">Global Leadership Summit</a>&nbsp;predicted that more than half of all employees will work remotely by 2020.</p>\r\n<p>This will have a profound impact across all industries but perhaps even more so for those in sales. Salespeople thrive on energy and engaging with others, and they need to be motivated on a daily basis.</p>\r\n<p>Companies that are used to having a centralized sales force face a whole new set of opportunities and challenges when managing a remote team.</p>\r\n<p><a href=\"http://www.peaksalesrecruiting.com/team/\">Eliot Burdett</a>, the CEO of&nbsp;<a href=\"http://www.peaksalesrecruiting.com/what-we-do/\">Peak Sales Recruiting</a>, a leading B2B sales recruiting company, and author of&nbsp;<a href=\"http://www.peaksalesrecruiting.com/sales-resources/sales-recruiting-2-0/\">Sales Recruiting 2.0</a>, says he has seen a dramatic increase in the number of world-class companies investing in remote sales teams.</p>\r\n<p><em>“The ability of sales leaders to effectively engage reps working across the country or around the globe will make the difference between a cohesive team that consistently makes their numbers, and one that is isolated, disjointed, and hurting the company’s profit margins,” says Burdett. “In an economy that is increasingly global, mobile, and social, it is critical for business and sales leaders to be forward-thinking to set reps up for success.”</em></p>\r\n<p>Burdett shared 5 tips to keep a remote sales rep connected and successful.</p>\r\n<h2><span>1 – Communicate Often and on a Personal Level</span></h2>\r\n<p>Research from the&nbsp;<a href=\"https://www.jstor.org/stable/40472131?seq=1#page_scan_tab_contents\">Journal of Personal Selling &amp; Sales Management</a>&nbsp;explains that workplace isolation can negatively affect trust in supervisors and coworkers. Making your reps deal with rejection on an island is a recipe for disaster. This can be overcome with frequent and informal check-ins. Rely on teleconferences or even text messaging to communicate with your team. The constant communication will help lessen feelings of isolation.</p>\r\n<p>“It is essential to connect with reps on an individual level. By asking about their favorite sports team or their child’s graduation, you can develop stronger and deeper ties. This not only acts as a natural performance motivator, but also increases team and corporate loyalty,” says Burdett. “It is just as critical to set up peer-to-peer teleconferences. Sometimes, a ‘players-only’ meeting is just what the doctor ordered.”</p>\r\n<h2><span>2 – Budget for Social Engagements</span></h2>\r\n<p><a href=\"https://hbr.org/2015/07/combining-virtual-and-face-to-face-work\">Harvard Business Review</a>&nbsp;reports that&nbsp;<a href=\"https://hbr.org/2015/02/how-to-manage-remote-direct-reports\">successful managers</a>&nbsp;of remote teams organize face-to-face forums, conferences, workshops, and get-togethers.</p>\r\n<p><span>“</span>These are planned well in advance and, in addition to building cohesion at work, this gives employees a chance to interact not only on a business level, but socially as well, which is critical to building rapport. A good option could be to choose a sales conference that everyone can attend together,” says Burdett. “Plan this into your budget and the investment will pay off in both the short and long term.”</p>\r\n<h2><span>3 – Make Your Availability Crystal Clear</span></h2>\r\n<p>Make it clear to your team via a shared calendar or team project management board when you are available. This sets clear guidelines for how and when you will respond to phone calls, e-mails, or texts.</p>\r\n<p>“Having reps who feel like they can reach out to you in any given circumstance is crucial for leading a top producing team. This is especially necessary when managing across different times zones,” says Burdett. “If you are home with your family but it is still office hours on the west coast or overseas, let your reps know how to reach you when you’re needed to help close a deal or penetrate a key account.”</p>\r\n<h2><span>4 – Use Your Reps’ Autonomy to Develop Trust</span></h2>\r\n<p>The lack of face-to-face communication can hinder employee engagement. A study conducted by the&nbsp;<a href=\"https://www.jstor.org/stable/40472131?seq=1#page_scan_tab_contents\">Journal of Personal Selling and Sales Management</a>&nbsp;found that employee engagement is shown to be positively correlated to salesperson job performance. To that point, Forum’s recent&nbsp;<a href=\"https://www.achieveforum.com/\">Global Leadership Pulse survey</a>&nbsp;revealed that trust has a direct impact on the engagement levels of remote teams.</p>\r\n<p><span>“</span>Great sales managers, if handled properly, can use the autonomy of their reps to build trust.&nbsp; By giving reps the chance to take on additional responsibilities in certain situations they will feel empowered, engaged, and connected – despite the distance,” says Burdett.</p>\r\n<h2><span>5 – Don’t Just Hire Any Sales Superstar</span></h2>\r\n<p>A common mistake in sales hiring is not hiring based on a certain situation. The assumption is that if someone was good in another selling environment, they will thrive in yours. That is a mistake. Find someone with the right sales DNA who has proven success working remotely. The top producer at a multinational organization who goes to an office every day may not succeed in a remote, non-social, and entrepreneurial environment.</p>\r\n<p>The bottom line is that the evolution of technology has created an opportunity for businesses to profit from cultivating a remote workforce. However, it is incumbent on managers to recognize that old managerial rules don’t apply. Tactics such as developing trust, tweaking your communication approach, and scheduling social events, can ensure long lasting relationships that will be profitable for your organization.</p>\r\n<p>Join Dana Manciagli’s&nbsp;<a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a>&nbsp;right now and immediately access the most comprehensive job search system currently available!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a></p>\r\n<p><strong>Read More from Dana:</strong><br><a href=\"https://thunderbird.asu.edu/knowledge-network/how-get-over-being-stressed-out-your-job-so-you-can-actually-do-it\">How to Get Over Being Stressed Out by Your Job So You Can Actually Do It</a><br><a href=\"https://thunderbird.asu.edu/knowledge-network/benefits-meditation-workplace\">Benefits of Meditation in the Workplace<br></a><a href=\"https://thunderbird.asu.edu/knowledge-network/new-manager-build-and-maintain-your-credibility\">New Manager? Build and Maintain Your Credibility</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'The advent of new technology and changing philosophies on work life balance has created an increasingly mobile work force. Last year, the Global Leadership Summit predicted that more than half of all employees will work remotely by 2020.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 615
+    height: 330
+    target_type: file
+    target_uuid: 60ba4e1e-3bd4-46ba-bbd9-f62e3f8392a5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.4cf75d2b-3f51-49a7-aa8e-ca3b9fb0ba95
+    file:
+      - file.image.60ba4e1e-3bd4-46ba-bbd9-f62e3f8392a5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

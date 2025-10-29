@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 90229ea8-df35-4674-91ab-4d923f9154fb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T17:59:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Enron & The Dabhol Power Company'
+created:
+  -
+    value: '2016-07-27T17:59:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T17:59:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-02-0008
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>In September 2001, Houston-based Enron Corporation (Enron) was embroiled in a long-running dispute with various levels of government in India. The dispute involved the Dabhol Power Company (DPC), a 2,184 megawatt (MW) power project in the Indian state of Maharashtra. The dispute began in the mid 1990s. In April 1995, Enron began construction of a $2.8 billion power plant in the state of Maharashtra. In August 1995, the Maharashtrian government announced that the project was canceled based on the recommendations of a committee set up by the government to review the project. After the contract was renegotiated, construction resumed and Phase I was completed in 1999. In 2001, with Phase II of the project 95% complete, Enron announced that it would sell its DPC stake because of payment disputes with its sole buyer, the Maharashtra State Electricity Board (MSEB) and the failure of the Indian central government to honor its counter-guarantee.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-02-0008
+field_case_page_length:
+  -
+    value: '18 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9313f4c5-a9c9-434c-b170-f45fec9b8d04
+field_case_series_year:
+  -
+    value: '2002-01-01'
+field_case_setting:
+  -
+    value: India
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: cd0ee17c-d82d-45ba-b051-ac506b444b43
+field_teaching:
+  -
+    value: "This case has multiple uses. It can be used to illustrate market entry challenges in India. It could also be used in a section on political risk or in a regional business class on India. The case illustrates the problems facing a division of a large multinational company as it does business in a developing nation. It illustrates the difficulty of predicting and understanding local political conditions and coping with the threat of project cancellation or forced renegotiation. It also raises issues dealing with the appropriate rate of return for a large capital-intensive project in an uncertain political environment, corruption, and transfer payment equity. This is a rich case that can be the basis for discussion on various other issues, such as: the usefulness of a local partner in dealing with political issues, how to establish a positive corporate reputation through public relations, the dangers of being accused of bribery, the visibility of infrastructure projects developed by foreign companies, and the nature of development projects and project finance. Finally, the case also provides insights as to how Enron structured development projects and, given Enron's bankruptcy, provides a good backdrop for discussions of why the bankruptcy might have occurred.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.9313f4c5-a9c9-434c-b170-f45fec9b8d04
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.cd0ee17c-d82d-45ba-b051-ac506b444b43

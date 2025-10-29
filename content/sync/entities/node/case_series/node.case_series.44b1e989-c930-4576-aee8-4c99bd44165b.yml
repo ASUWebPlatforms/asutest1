@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 44b1e989-c930-4576-aee8-4c99bd44165b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:48:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'The Bam­ínica Power Plant Project: What Went Wrong and What Can Be Learned'
+created:
+  -
+    value: '2016-07-16T00:38:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:48:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a13-11-0006
+body:
+  -
+    value: '<p><span>This case describes a series of events over an eight-year period involving a power plant project in the Caribbean. An executive from the project developer, PowerGen, is looking back over the period and thinking about what can be learned from the experience. The project experienced issues with site selection, the joint venture partnership, construction and equipment contractors, community relations, project financing, a nearby hotel, and project management. Going forward, what could be done differently in other projects to prevent similar problems from occurring?</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A13-11-0006
+field_case_page_length:
+  -
+    value: '14 Pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: Caribbean
+field_case_source:
+  -
+    value: 'General experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: d6b94c78-168a-42ae-8bec-4145297f7e45
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3ccac491-e5bd-4acd-9553-9a9fef4094bc
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: 'The case illustrates the problems facing a division of a large multinational company as it does business in a developing nation, and the difficulty of managing equity joint ventures. Various other issues can be discussed: linkages between stakeholders, employee behavior and compensation; how to establish a positive corporate reputation through public relations; the visibility of infrastructure projects developed by foreign companies, and the nature of development projects and project finance.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.d6b94c78-168a-42ae-8bec-4145297f7e45
+      - taxonomy_term.case_series_fields.3ccac491-e5bd-4acd-9553-9a9fef4094bc
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

@@ -1,0 +1,42 @@
+name: Thunderbird
+description: "Thunderbird-specific theme based on the ASU Renovation theme."
+screenshot: screenshot.png
+core_version_requirement: ^8.7.7 || ^9.0
+# version: VERSION
+engine: twig
+type: theme
+base theme: "renovation"
+
+dependencies:
+  - webspark_blocks
+
+regions:
+  header: Header
+  sub_header: Sub Header
+  pre_content: Pre Content
+  content: Content
+  post_content: Post Content
+  page_bottom: Page bottom
+  mega_footer: Mega Footer
+  footer: Footer
+
+libraries:
+  - thunderbird/style
+  - thunderbird/convert-experiments
+  - thunderbird/messages-close
+  - thunderbird/footer
+
+libraries-extend:
+  core/drupal.message:
+    - thunderbird/messages
+
+libraries-override:
+  renovation/style: false
+  webspark_blocks/anchor_menu: thunderbird/anchor_menu
+
+ckeditor_stylesheets:
+  - assets/css/thunderbird.style.css
+
+components:
+  namespaces:
+    renovation: src/components

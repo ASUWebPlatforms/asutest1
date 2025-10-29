@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 0a684ddc-1e8c-4afe-a7b1-b9757ef27c03
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:27:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: '3 Ways Volunteer Work Will Further Your Career'
+created:
+  -
+    value: '2017-06-05T22:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:27:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/3-ways-volunteer-work-will-further-your-career
+body:
+  -
+    value: "<p>The elusive traits that make up the “perfect” résumé seem to be ever-evolving, and it can be difficult to determine the best possible way to reflect your experiences and skills.</p>\r\n<p>What do employers value on résumés that separates future leaders from the rest?</p>\r\n<p>The&nbsp;<a href=\"http://www2.deloitte.com/us/en/pages/about-deloitte/articles/citizenship-deloitte-volunteer-impact-research.html\">2016 Impact Survey</a>&nbsp;from Deloitte revealed that many of today’s job applicants may be overlooking a factor that could have a significant influence on their attractiveness for potential employment.</p>\r\n<p>Eighty-two percent of survey respondents, which included hiring influencers from 13 major metropolitan areas across the United States, reported that they are more likely to choose a candidate with volunteer experience. Yet, despite positive sentiment towards volunteerism, the survey found that only one in three résumés actually include volunteer work.</p>\r\n<p>There are a number of reasons applicants may choose to omit this information. Many survey respondents, for example, indicated that they felt employers might prefer to focus on their professional skills, while others assumed that businesses wouldn’t care. Meanwhile, some reported that it simply wouldn’t fit.</p>\r\n<p>I recently spoke to Teresa Briggs, West region managing partner at Deloitte LLP, who explained that neglecting to include volunteer experience can lead to a missed opportunity. “Volunteer work can be a differentiator between candidates in the battle for talent,” she notes. “This experience speaks to a candidate’s sense of purpose and passion for a cause, which are important qualities when seeking to fill positions.”</p>\r\n<p>Here are three ways volunteer work can benefit your career:</p>\r\n<h3><strong>1. Volunteering builds leadership skills</strong></h3>\r\n<p>It is particularly surprising that résumés exclude volunteer work because it can be a positive indication that a candidate possesses leadership skills.</p>\r\n<p>“Volunteer work is often associated with a number of positive traits, including commitment and confidence,” Teresa explains. “Including experience that reflects these characteristics will likely better position a candidate as a skillful leader.”</p>\r\n<p>In fact, the Deloitte survey revealed that the majority of hiring influencers believe volunteering is an effective way to gain leadership skills and that active volunteers move into leadership roles more easily. Reflecting this experience on a résumé showcases that a candidate has developed characteristics and skills that, as Teresa explains, are viewed as fundamental for successful leaders.</p>\r\n<h3><strong>2. Skills-based volunteering provides a marketability edge for those seeking gainful employment</strong></h3>\r\n<p>“While volunteering of all kinds is worthwhile,” Teresa says, “skills-based volunteering can be particularly beneficial in enhancing a job candidate’s chances to be more favorably considered for employment.”</p>\r\n<p>When it comes to skills-based volunteering, the survey’s respondents believed that it improved communication skills, strengthened accountability, and developed strong character — more so than non-skills-based volunteer work.</p>\r\n<p>Teresa suggests that a candidate with these traits may have an edge on the competition when applying for jobs, as those specific traits are often highly valued by employers.</p>\r\n<h3><strong>3. Adding volunteer work to your résumé may get you further in your career</strong></h3>\r\n<p>Not including volunteering on your résumé is a missed opportunity for job hunters. Survey respondents indicated they are more likely to choose a candidate with volunteer experience cited. Furthermore, Teresa notes that volunteer experience may even overshadow other résumé flaws.</p>\r\n<p>“Our survey found that 85 percent of respondents are willing to overlook other résumé flaws when a candidate includes volunteer work. Hiring influencers’ willingness to overlook flaws may be due to the fact that most think people who volunteer are more successful,” Teresa explains. “As a result, there can be a stronger interest in candidates with volunteer experience.”</p>\r\n<p>For individuals, volunteerism may play an important part in terms of getting ahead of the competition when applying for jobs, as well as helping to build skills to advance professionally. While volunteering can offer many benefits to communities, it may also be an important factor for an individual’s career growth. The lesson — don’t overlook getting involved in local volunteer activities and always highlight your volunteer work to potential and existing employers.</p>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: center;\">Join Dana Manciagli’s&nbsp;<a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a>&nbsp;<em>right now</em>&nbsp;and immediately access the most comprehensive job search system currently available!</p>\r\n<p>&nbsp;</p>\r\n<hr>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;<a href=\"http://danamanciagli.com/\">her website</a>.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1440
+    height: 1920
+    target_type: file
+    target_uuid: 0e9877c4-993a-40d1-9c73-c2b3c581ef09
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.0e9877c4-993a-40d1-9c73-c2b3c581ef09
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

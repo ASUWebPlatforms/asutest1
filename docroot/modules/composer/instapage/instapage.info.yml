@@ -1,0 +1,12 @@
+name: Instapage
+type: module
+description: Implements Instapage landing pages as menu callback.
+package: Web services
+core_version_requirement: ^9.3 || ^10
+configure: instapage.settings
+libraries:
+  - instapage/insta-style
+# Information added by Drupal.org packaging script on 2023-09-10
+version: '3.1.0'
+project: 'instapage'
+datestamp: 1694370371

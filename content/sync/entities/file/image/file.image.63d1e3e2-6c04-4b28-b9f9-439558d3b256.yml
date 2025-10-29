@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 63d1e3e2-6c04-4b28-b9f9-439558d3b256
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+filename:
+  -
+    value: blog-alumni-chapter-mar18-paris.png
+uri:
+  -
+    value: 'public://blog-alumni-chapter-mar18-paris.png'
+    url: /sites/default/files/blog-alumni-chapter-mar18-paris.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 118700
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-04-02T22:47:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-02T22:47:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff

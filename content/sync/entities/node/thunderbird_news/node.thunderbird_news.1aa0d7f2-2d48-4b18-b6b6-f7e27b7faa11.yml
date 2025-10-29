@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 1aa0d7f2-2d48-4b18-b6b6-f7e27b7faa11
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-03-03T14:15:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+title:
+  -
+    value: 'Facebook can save itself by becoming a B Corporation'
+created:
+  -
+    value: '2021-03-03T14:15:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-03-03T14:15:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tbird-news/facebook-can-save-itself
+body:
+  -
+    value: '<p><span>As Facebook confronts outrage among its employees and the public for mishandling multiple decisions about its role in shaping public discourse, it is becoming clear that it cannot solve its conundrums without a major change in its business model. And a new model is readily available: for-benefit status.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-03-02T07:15:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 400
+    height: 200
+    target_type: file
+    target_uuid: bca9bdc8-7743-4b45-890d-8ae1735095ed
+field_news_link:
+  -
+    uri: 'https://techcrunch.com/2021/03/02/facebook-can-save-itself-by-becoming-a-b-corporation/'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: TechCrunch
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+    file:
+      - file.image.bca9bdc8-7743-4b45-890d-8ae1735095ed

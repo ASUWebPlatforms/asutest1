@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: c045a3ec-754a-4376-a43d-15b8d57ebdf3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2020-03-31T15:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+title:
+  -
+    value: 'Thunderbird School of Global Management has a resurgence'
+created:
+  -
+    value: '2020-03-31T15:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-31T15:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: und
+body:
+  -
+    value: '<p><span>Attention Arizona State University students and others in downtown Phoenix:&nbsp;You''re about to have some new neighbors (after many months of construction).</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2020-02-24T17:00:00-07:00'
+field_image_legacy:
+  -
+    alt: 'Attention Arizona State University students and others in downtown Phoenix: You''re about to have some new neighbors (after many months of construction).'
+    title: ''
+    width: 1000
+    height: 600
+    target_type: file
+    target_uuid: b5b66754-1167-41fc-b919-285b02b42e04
+field_news_link:
+  -
+    uri: 'https://www.azcentral.com/story/news/local/arizona-education/2019/10/07/asu-thunderbird-school-global-management-breaks-ground-phoenix/3846917002/'
+    title: ''
+    options:
+      attributes: {  }
+field_news_org: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+    file:
+      - file.image.b5b66754-1167-41fc-b919-285b02b42e04

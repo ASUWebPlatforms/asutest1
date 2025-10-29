@@ -1,0 +1,78 @@
+{#
+/**
+ * @file
+ * Template for a Card Selection block.
+ */
+#}
+{# Only display block if there are card items, or we're in layout mode. #}
+{% set show_block = items or layout_mode %}
+{% 
+  set classes = ([
+    hide_images ? 'hide-images',
+    content_position ? 'content-' ~ content_position,
+    card_display ? card_display,
+    show_block ? 'card-selection' : '',
+    content.field_block_class|raw|render|striptags|trim|clean_class
+  ])
+%}
+
+{% if card_display == 'horizontal' %}
+  {% set columns = 'two-columns' %}
+{% endif %}
+
+{% set body = content.body|render|striptags|trim %}
+
+{% if content_position == 'left' and body is not empty %}
+  {% set content_cols = 'col-lg-4 cards-content-left' %}
+  {% set cards_cols = 'col-lg-8' %}
+  {% set columns = 'two-columns' %}
+  {% if card_display == 'horizontal' %}
+    {% set columns = 'one-column' %}
+  {% endif %}
+{% else %}
+  {% set content_cols = 'col-md-12' %}
+  {% set cards_cols = 'col-md-12' %}
+{% endif %}
+
+{% set cta = content.field_cta|render|striptags|trim %}
+
+{% if show_block %}
+  {{ content.field_anchor_menu_settings }}
+  <div {{ attributes.addClass(classes) }}>
+    {{ title_prefix }}
+    {{ title_suffix }}
+    {% if label %}
+      {% block label %}
+        <div class="card-selection__header">
+          <div class="container">
+          {% if cta %}
+            <div class="row">
+              <div class="col-md-8">
+          {% endif %}
+                <{{ heading_level }} {{ title_attributes.addClass(heading_style) }}>{{ label }}</{{ heading_level }}>
+          {% if cta %}
+              </div>
+              <div class="cta-wrapper col-md-4">
+                {{ content.field_cta }}
+              </div>
+            </div>
+          {% endif %}
+          </div>
+        </div>
+      {% endblock %}
+    {% endif %}
+
+    {% block content %}
+      <div class="container">
+        <div class="uds-card-arrangement view-mode--{{ card_display }} row align-items-start">
+          <div class="uds-card-arrangement-content-container {{ content_cols }}">
+            {{ content.body }}
+          </div>
+          <div class="uds-card-arrangement-card-container auto-arrangement {{ columns }} {{ cards_cols }}">
+            {{ items }}
+          </div>
+        </div>
+      </div>
+    {% endblock %} 
+  </div>
+{% endif %}

@@ -1,0 +1,71 @@
+label: Bestellingen
+display:
+  default:
+    display_title: Master
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Filter
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sorteren op'
+          sort_asc_label: Oplopend
+          sort_desc_label: Aflopend
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Items per pagina'
+            items_per_page_options_all_label: '- Alle -'
+            offset_label: Offset
+          tags:
+            previous: '‹ vorige'
+            next: 'volgende ›'
+            first: '« eerste'
+            last: 'laatste »'
+      fields:
+        commerce_order_bulk_form:
+          action_title: 'Met selectie'
+        order_number:
+          label: '#'
+          separator: ', '
+        placed:
+          label: Datum
+          separator: ', '
+        type:
+          label: Type
+          separator: ', '
+        store_id:
+          label: Winkel
+          separator: ', '
+        uid:
+          label: Klant
+          separator: ', '
+        mail:
+          label: E-mail
+          separator: ', '
+        state:
+          label: Status
+          separator: ', '
+        total_price__number:
+          label: Totaal
+          separator: ', '
+        operations:
+          label: Bewerkingen
+      filters:
+        order_number:
+          expose:
+            label: Bestelnummer
+        type:
+          expose:
+            label: Type
+        state:
+          expose:
+            label: Status
+      title: Bestellingen
+  page_1:
+    display_title: Pagina
+    display_options:
+      menu:
+        title: Bestellingen
+      tab_options:
+        title: Bestellingen
+        description: 'Bestellingen beheren.'

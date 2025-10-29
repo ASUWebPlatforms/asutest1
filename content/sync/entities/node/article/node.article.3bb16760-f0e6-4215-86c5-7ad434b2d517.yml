@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 3bb16760-f0e6-4215-86c5-7ad434b2d517
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:50:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'Let Them Breathe: 3 Strategies for Retaining Top Talent'
+created:
+  -
+    value: '2017-06-20T18:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:50:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /let-them-breathe-3-strategies-for-retaining-top-talent
+body:
+  -
+    value: "<p>What’s the fastest way to lose your star talent? Drive your employees into the ground.</p>\r\n<p>Sure, “weekends at the office” persist in the corporate world. But in an age of always-connected-communication, is that the best strategy for attracting and keeping your stars while grooming a company’s future leaders?</p>\r\n<p>Corporate leaders are beginning to realize it’s not. That’s why JPMorgan Chase&nbsp;<a href=\"http://www.wsj.com/articles/j-p-morgan-chase-tells-investment-bankers-to-take-weekends-off-1453384738\">instituted a “Pencils Down” policy</a>&nbsp;that asks employees to take weekends off from work. That’s right: one of the largest banks in the country is telling its employees to “Go home, enjoy your partners, your families, and your free time. We’ll see you Monday.”</p>\r\n<p>Is their policy a sign of the corporate culture to come, one that promotes free time as a valuable part of job satisfaction, creativity, and productivity?</p>\r\n<p>Maura Thomas from&nbsp;<a href=\"http://www.regainyourtime.com/\">RegainYourTime.com</a>&nbsp;thinks so. She talks about corporate productivity in her&nbsp;<a href=\"http://regainyourtime.com/work-without-walls\">upcoming book</a>,&nbsp;<em>Work Without Walls: An Executive’s Guide to Attention Management, Productivity, and the Future of Work</em>, and told me that maintaining enthusiastic, productive employees is about encouraging off-hours time — not shrinking it. Technology has favored long hours from employees for too long. When the culture demands constant connectivity, the staff doesn’t produce better results — they leave.</p>\r\n<p>Want to slow human resources’ revolving door and groom long-term company managers and leaders instead? Thomas shared her strategies with me on retaining talent and managing people to prevent burnout.</p>\r\n<p><strong>1. Embrace “attention management” instead of time management</strong></p>\r\n<p>Want to encourage high-quality work that’s produced quickly? Minimize interruptions.</p>\r\n<p>Time that’s spent on tasks with divided attention is less effective than time spent while focused, without interruption. So managers and workplaces need to support environments and habits that encourage focus, rather than multi-tasking. She calls this concept “&nbsp;<a href=\"http://www.attentionmanagement.com/\">attention management</a>” and it needs support from management practices such as:</p>\r\n<ul>\r\n<li>Designating meeting-free days</li>\r\n<li>Creating quiet spaces in open-floor plan offices</li>\r\n<li>Forgoing email for urgent and time-sensitive information, using phone calls or instant messaging instead</li>\r\n</ul>\r\n<p><strong>2. Discourage after-hours communication</strong></p>\r\n<p>An always-on manager may think: “What if I have a really important thought that I don’t want to forget? Can’t I just send Paul in accounting a quick little text, or Debra in sales a short (ok, medium-to-long) email?”</p>\r\n<p>To cultivate focus and attention management in the workplace, Thomas says, “No.”</p>\r\n<p>After-hours emails speed up always-on corporate cultures — and that, in turn, chips away at creativity, innovation, and true productivity, she says.</p>\r\n<p>While it may seem like working long hours will help you get ahead, there is no research that proves productivity increases with more than 40 hours of work per week. In fact, there is&nbsp;<a href=\"http://www.alternet.org/story/154518/why_we_have_to_go_back_to_a_40-hour_work_week_to\">ample evidence that it doesn’t</a>.</p>\r\n<p>“Being connected in off-hours during mission-critical projects is the sign of a high-performer,” says Thomas. “But never disconnecting is the sign of a workaholic, and there is a difference.” Her suggestion? Model disconnecting: outside of emergencies,&nbsp;<a href=\"https://hbr.org/2015/03/your-late-night-emails-are-hurting-your-team\">do not send or respond to after-hours communication</a>. Checking in on evenings, weekends and during vacations means you’re missing the opportunity to get some distance from work — distance that’s critical to the fresh perspective knowledge workers need.</p>\r\n<p><strong>3. Be vacation-friendly</strong></p>\r\n<p>Which starts with taking yours, and, encouraging theirs. John Donahoe, the CEO of Ebay<em>,</em>&nbsp;summed it up best when he said,&nbsp;<em>“</em>Time off pays off…time spent away to refresh and refocus is really not time off. It’s just time better spent.”</p>\r\n<p>According to Thomas, corporate America’s vacation policies are&nbsp;<a href=\"https://hbr.org/2015/06/vacation-policy-in-corporate-america-is-broken\">truly broken</a>. American workers&nbsp;<a href=\"http://www.projecttimeoff.com/research/all-work-and-no-pay-impact-forfeited-time\">already forfeit</a>&nbsp;a large percentage of their existing paid time off. And when they do take it, they&nbsp;<a href=\"http://www.glassdoor.com/blog/average-employee-takes-earned-vacation-time-glassdoor-employment-confidence-survey-q1-2014/\">don’t really disconnect</a>&nbsp;from the office. That’s an excellent recipe for burnout, or put another way: a solid strategy for keeping a good employee for a year or two, then abruptly losing him or her, forcing you to re-recruit, re-train, and start another short-term cycle.</p>\r\n<p>Because our offices are now in the palm of our hands, the latest idea in corporate America is to mesh the new work realities with new vacation policies. This translates to “unlimited vacation time!” which sounds amazing, until employees realize it actually means “no vacation time.” Instead of enjoying a book at the beach, your employees (or you) are texting away, lost in Google Docs and Dropbox while friends and family laugh and play. It isn’t a pretty picture.</p>\r\n<p>The solution? Don’t check email or other communications while on vacation, and don’t require employees to do so, either. Be clear with your team in communicating support for taking paid time off and being fully away from work during vacations.</p>\r\n<p>Executives and managers are in the driver’s seat to create productive work environments that recruit, retain and reward knowledge workers for their brainpower and productivity. These three healthy work culture strategies are the keys to success.</p>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: center;\"><span>Join Dana Manciagli’s <a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a> right now and immediately access the most comprehensive job search system currently available!</span></p>\r\n<p>&nbsp;</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;<a href=\"http://danamanciagli.com/\">her website</a>.</em></p>\r\n<p><strong><span>Read More!</span></strong><span></span></p>\r\n<p><span><a href=\"https://thunderbird.asu.edu/knowledge-network/five-steps-making-best-first-impression\"><span>Five Steps to Making the Best First Impression</span></a></span></p>\r\n<p><span><a href=\"https://thunderbird.asu.edu/knowledge-network/appreciating-diversity\"><span>Getting to Know You – Appreciating Diversity</span></a></span></p>\r\n<p><span><a href=\"https://thunderbird.asu.edu/knowledge-network/5-simple-linkedin-hacks-optimize-your-job-search\"><span>5 Simple LinkedIn Hacks to Optimize Your Job Search</span></a></span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 400
+    height: 215
+    target_type: file
+    target_uuid: 46f19c2f-935d-4ed1-901d-3de09d15fd24
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.46f19c2f-935d-4ed1-901d-3de09d15fd24
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

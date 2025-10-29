@@ -1,0 +1,268 @@
+.tabs {
+    &.vertical {
+        margin-bottom: 6.25rem;
+
+        .container {
+            padding:  3.125rem 5.625rem; // 50px 90px
+
+            h2 {
+                color: $gold;
+                font-size: $h2-font-size; // 64px
+                font-weight: 900;
+                line-height: 3.75rem; // 60px
+            }
+    
+            h3 {
+                color: $blue-dark;
+                font-size: $h3-font-size; // 34px
+                font-weight: 900;
+                line-height: $h3-font-size; // 34px
+            }
+
+            p {
+                color: $gray-darkest;
+                font-size: $font-size-md;
+                line-height: $font-size-xl;
+                margin-bottom: 0rem;
+                padding-bottom: 1rem;
+            }
+
+            a {
+                display: block;
+                color: $blue-mid;
+                font-size: $font-size-md;
+                line-height: $font-size-xl;
+                padding-bottom: 1rem;
+                text-decoration: underline;
+                text-underline-offset: 4px;
+            }
+
+            .btn {
+                background-color: $blue-mid;
+                color: #ffffff;
+                display: inline-block;
+                font-size: $font-size-sm;
+                line-height: $font-size-sm;
+                padding: 1rem 2rem;
+            }
+            ul{
+                margin-bottom:0;
+                li:last-child a{
+                    padding:0;
+                }
+            }
+    
+            .background,
+            .background {
+                background-color: $blue-dark;
+                background-size: cover;
+                background-position: center;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 3rem; // 48px
+                height: 400px;
+            }
+    
+            .toggle {
+                background-color: transparent;
+                border: none;
+                border-bottom: 1px solid #cccccc;
+                color: $blue-mid;
+                cursor: pointer;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                font-size: 1.5rem; // 24px
+                line-height: 2.25rem; // 36px
+                padding: 2rem 0rem;
+                width: 100%;
+
+                &[aria-expanded="true"] {
+                    color: $blue-dark;
+                    font-weight: 900;
+                }
+            }
+
+            .content {
+                display: none; // Hidden by default
+            }
+
+            &.corners {
+                .preview {
+                    padding: 1rem 0 0 0;
+                }
+            }
+        }
+    }
+
+    &.horizontal {
+        .uds-tabbed-panels {
+            background: $blue-mid;
+            box-shadow: none;
+
+            .nav-tabs {
+                border-bottom: none;
+                justify-content: space-evenly;
+                padding: 0;
+                
+                .nav-link {
+                    box-shadow: none !important; // Disable browser focus
+                    color: $white;
+                    font-size: 26px;
+                    font-weight: 900;
+                    margin: 0.5rem auto 0rem;
+
+                    &:focus,
+                    &:hover,
+                    &.active {
+                        color: $gold;
+                        border-bottom: 5px solid $gold;
+                    }
+                }
+            }
+        }
+
+        .tab-content {
+            padding: 0;
+            margin-bottom: 0rem; // Override Webspark margin
+
+            .field-tab-content {
+                padding: 2rem 0rem 0rem;
+                
+                p {
+                    max-width: 100%; // Override 700px default limit
+                }
+            }
+        }
+    }
+}
+@media (max-width: map-get($grid-breakpoints, 'xl')){
+    .tabs {
+        &.vertical {
+            .container {
+                .background{
+                    height: 300px
+                }
+            }
+        }
+    }
+}
+@media (max-width: map-get($grid-breakpoints, 'lg')) {
+    .tabs {
+        &.vertical {
+            .container {
+                padding: 3.75rem;                
+            }
+        }
+    }
+}
+@include media-breakpoint-down(md) {
+    .tabs {
+        &.vertical {
+            .container {
+                .background[style] { // Hide background with image on mobile
+                    display: none;
+                }
+
+                .toggle {
+                    &[aria-expanded="true"] { // Show when expanded via jQuery attribute change
+                        border-bottom: none;
+
+                        .icon {
+                            &:after {
+                                transform: translate(-50%, -50%) rotate(0deg);
+                            }
+                        }
+                    }
+
+                    .icon {
+                        width: 2.5rem; /* 40px; */
+                        height: 2.5rem; /* 40px; */
+                        flex-shrink: 0;
+                        position: relative;
+                        border: 3px solid $blue-mid;
+        
+                        &:before, &:after {
+                            background-color: $blue-mid;
+                            content: '';
+                            display: block;
+                            position: absolute;
+                            left: 50%;
+                            top: 50%;
+                            width: 16px;
+                            height: 3px;
+                            transform: translate(-50%, -50%);
+                            transition: all 0.25s ease-in-out;
+                        }
+                        
+                        &:after {
+                            transform: translate(-50%, -50%) rotate(90deg);
+                        }
+                    }
+
+                    svg {
+                        display: none; // Hide desktop arrows
+                    }
+                }
+
+                .content {
+                    &[aria-expanded="true"] { // Show when expanded via jQuery attribute change
+                        display: block;
+                        border-bottom: 1px solid #cccccc;
+                        padding-bottom: 2rem;
+                    }
+
+                    h3 {
+                        display: none; // Hide duplicate title
+                    }
+                }
+
+                .preview {
+                    display: none; // Hide preview on desktop views
+                }
+            }
+        }
+
+        &.horizontal {
+            .uds-tabbed-panels {
+                margin: 0;
+
+                .nav-tabs {
+                    flex-direction: column;
+                    flex-wrap: wrap;
+
+                    .nav-link {
+                        border-bottom: 5px solid transparent;
+                        margin: 0;
+                        padding: 0 1rem;
+                        text-align: center;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+}
+@include media-breakpoint-down(sm) {
+    .tabs {
+        &.vertical {
+            .container {
+                padding: 3rem; // 48px
+
+                h2{
+                    font-size: 2.5rem;   
+                }
+            }
+        }
+    }
+}
+@include media-breakpoint-down(xs) {
+    .tabs {
+        &.vertical {
+            .container {
+                padding: 1.5rem; // 24px
+            }
+        }
+    }
+}

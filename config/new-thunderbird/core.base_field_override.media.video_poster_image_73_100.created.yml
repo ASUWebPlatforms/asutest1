@@ -1,0 +1,18 @@
+uuid: 2f3a7ccc-b959-4a8d-b823-011da5572cfc
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.video_poster_image_73_100
+id: media.video_poster_image_73_100.created
+field_name: created
+entity_type: media
+bundle: video_poster_image_73_100
+label: 'Authored on'
+description: 'The time the media item was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: 'Drupal\media\Entity\Media::getRequestTime'
+settings: {  }
+field_type: created

@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 213ddbb8-287f-46da-b631-8a1be6812ecb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-07-01T14:46:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'COVID-19 and the Fourth Industrial Revolution'
+created:
+  -
+    value: '2020-07-01T14:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-07-01T14:46:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/covid-19-and-fourth-industrial-revolution
+body:
+  -
+    value: '<p>Before COVID-19, the Fourth Industrial Revolution (4IR) was already disrupting just about every aspect of our lives, both posing challenges and creating opportunities. Now in the midst of the global pandemic, those opportunities and challenges are accelerated and amplified.</p><p>That was the topic of conversation between a distinguished panel of Thunderbird thought leaders, joined by students, alumni, faculty, and others from 40 countries around the globe.</p><p>&nbsp;[[{"fid":"83425","view_mode":"default","fields":{"format":"default"},"link_text":null,"type":"media","field_deltas":{"1":{"format":"default"}},"attributes":{"class":"media-element file-default","data-delta":"1"}}]]</p><blockquote><p><i>“The COVID-19 pandemic is a catalyst that opens up new spaces for us to accelerate and to change in different ways.” ~ Thunderbird Professor Nicholas Davis &nbsp;</i><a href="https://ctt.ec/wzYWK">Click to Tweet&nbsp;</a><a href="applewebdata://C0FF5938-9C7F-4AD8-BACA-5056A9E575FA#_msocom_1" id="_anchor_1" name="_msoanchor_1"><br></a></p></blockquote><h3>&nbsp;A Catalyst for Change</h3><p>People are capable of change, but sometimes it takes a little push. In many ways, for many people, COVID-19 is likely to be that impetus.</p><p>Nicholas Davis, Professor of Practice at Thunderbird and Managing Partner at SWIFT Partners, explained with an example from the 2014 London Underground strike. “Researchers found that after the strike, a significant number of commuters changed their commuting behavior in ways that improved their commute times significantly.” Davis thinks something similar will happen with the COVID-19 pandemic, which he calls “an amazing catalyst” that “opens up new spaces for us to accelerate and to change in different ways.”&nbsp;</p><p>A fresh start of sorts, as&nbsp;<a href="https://isearch.asu.edu/profile/2437950">Linda Elkins-Tanton</a>&nbsp;put it. “We can use this tragedy as an opportunity to move toward the society that we want to live in,” said Elkins-Tanton, who is Principal Investigator of the&nbsp;<a href="https://thunderbird.asu.edu/knowledge-network/asu-led-nasa-psyche-mission-launches-free-online-class-featuring-thunderbirds">NASA Psyche mission</a>, Managing Director of Interplanetary Initiative at ASU, and Co-Founder of Beagle Learning.</p><p>All of the panelists shared the hope that we can use the pandemic as an opportunity to break free from the traditional social, economic, and educational structures that no longer serve us. &nbsp; &nbsp;</p><p>Some of those changes are already happening.&nbsp;<a href="https://thunderbird.asu.edu/knowledge-network/world-renowned-expert-head-asu-thunderbirds-fourth-industrial-revolution-and">Landry Signé</a>, Professor and Co-Director of the Fourth Industrial Revolution and Globalization 4.0 Initiative at Thunderbird, explained, “COVID-19 has accelerated three major shifts. The first is the surge of human-centered innovation on matters of economic growth. The second is the rise of agile governance and multi-stakeholder collaboration. And the third is the optimization of the usage and effectiveness of Fourth Industrial Revolution technologies.”</p><p><i>“We can use this tragedy as an opportunity to move toward the society that we want to live in.” ~ ASU Professor Lindy Elkins-Tanton&nbsp;</i><a href="https://ctt.ec/exszW">Click to Tweet&nbsp;</a><a href="applewebdata://C0FF5938-9C7F-4AD8-BACA-5056A9E575FA#_msocom_2" id="_anchor_2" name="_msoanchor_2"><br></a></p><h3>Equity for All Starts with Education for All</h3><p>One of the biggest challenges COVID-19 presents is increasing inequality. In many parts of the world, the same technologies that are driving growth in the 4IR and helping people survive and thrive during this pandemic are also widening inequality.&nbsp;<a href="https://isearch.asu.edu/profile/3375937">Mark Esposito</a>, Clinical Professor of Global Shifts and the Fourth Industrial Revolution, called inequality “a disease that threatens anyone''s ability to become prosperous.”&nbsp;</p><p>The divide is only going to get worse unless we redesign our current systems – education first, said Elkins-Tanton. She explained, “We are not going to have progress unless everyone can be educated. We need to be able to reach people around the world.”&nbsp;</p><p>4IR technologies can help make that happen. Elkins-Tanton said, “Inquiry and project-based education can now be done remotely. It can be done in the thousands instead of in the scores of people at a time. This enables disenfranchised groups to be equally educated with those who have access to the elite organizations.”</p><blockquote><p><i>“Inequality is a disease that threatens anyone''s ability to become prosperous.” ~ Thunderbird Professor Mark Esposito&nbsp;</i><a href="https://ctt.ec/67e9F">Click to Tweet&nbsp;</a><a href="applewebdata://C0FF5938-9C7F-4AD8-BACA-5056A9E575FA#_msocom_3" id="_anchor_3" name="_msoanchor_3"></a></p></blockquote><h3>Thriving Through COVID-19&nbsp;</h3><p>Some companies have or will crumble under the pressure of COVID-19. Some will manage to survive. A few will actually thrive. The difference makers, said Esposito, are resilience, adaptability, and innovation. “Many companies were already anticipating systemic changes [including changes driven by the Fourth Industrial Revolution] before COVID-19. Those companies are simply better able to cope with COVID-19. The companies that were very complacent have been hit hard.”&nbsp;</p><p>The same applies to governments. Signé explained, “The governments that have been agile in addressing COVID-19 have been more effective at curbing the [virus spread]. Multi-stakeholder collaboration – including co-creation, co-production, and open government, among other factors – is extremely important.”</p><p>Ultimately, thriving through COVID-19 requires new kinds of collaboration between companies and governments. “Those imply the transformation of both the role of governments and of the role of corporations,”&nbsp;&nbsp;Signé said. “Businesses have to play a much more important role in the policy making process, working very closely with government.”</p><blockquote><p><i>“Agile governments have been more effective at addressing the COVID-19 pandemic.” ~ Thunderbird Professor Landry Signé&nbsp;</i><a href="https://ctt.ec/fdz64">Click to Tweet&nbsp;</a><a href="applewebdata://C0FF5938-9C7F-4AD8-BACA-5056A9E575FA#_msocom_4" id="_anchor_4" name="_msoanchor_4"></a></p></blockquote><h3>Leaders for This New Era</h3><p>Who is responsible for resilience, adaptability, and innovation within governments and businesses? Good leaders, of course.</p><p>These are leaders with both hard and soft skills, who value communication and inclusion, who have a global mindset. “The profile of the 4IR leader is being created by this blend of skills like compassion, empathy, emotional intelligence, and complexity with an understanding of what technology does,” Esposito said. “Not only that, but he or she equally understands that the purpose of technology is to maximize human well-being.”</p><p>Thunderbird is committed to empowering, training, and influencing global leaders and managers with this unique profile. “I don''t know of any other school or group that deeply takes this inclusive, values-driven approach to talking about emerging technologies and the 4IR,” said Davis.&nbsp;</p><p>Signé shared the sentiment, “I think that Thunderbird has anticipated the paradigmatic shift that we are seeing now by ensuring that their mission is organized around not only training the global leaders for the Fourth Industrial Revolution but more importantly, leaders who will advance an inclusive and sustainable prosperity around the world.”</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2120
+    height: 1414
+    target_type: file
+    target_uuid: 6371fec0-c5bf-44e8-9703-fb63a588f1f5
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: ba55b8c5-42dd-4fa5-bdcf-eefd4ba259f2
+  -
+    target_type: taxonomy_term
+    target_uuid: e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.6371fec0-c5bf-44e8-9703-fb63a588f1f5
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+      - taxonomy_term.knowledge_network_tags.ba55b8c5-42dd-4fa5-bdcf-eefd4ba259f2
+      - taxonomy_term.knowledge_network_tags.e3d3a9c4-b417-4fbd-81c8-c6f551e7f155
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda

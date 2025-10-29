@@ -1,0 +1,18 @@
+uuid: 9ba73f3e-a850-4195-82b7-5e2f1ea6e0a2
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.degree_terms
+id: taxonomy_term.degree_terms.name
+field_name: name
+entity_type: taxonomy_term
+bundle: degree_terms
+label: Name
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,17 @@
+uuid: fbb584d3-125b-41ab-b63b-2c0bb63f823c
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+name: hero_md
+label: 'Hero md (991x700)'
+effects:
+  2764e887-6290-4d3b-809e-103e283a3a5a:
+    uuid: 2764e887-6290-4d3b-809e-103e283a3a5a
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 991
+      height: 700
+      crop_type: focal_point

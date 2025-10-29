@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 4f715dbd-578f-45cd-9d12-a22502e5586a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T20:18:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Citibank - The Confia Acquisition in Mexico (A)'
+created:
+  -
+    value: '2016-07-27T20:18:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T20:18:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-00-0022
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case follows the tortured path of Citibank''s acquisition of the Mexican bank,Confia, in 1998. The process began with the Mexican Tequila Crisis of 1994-95, in which most of the domestic banks became insolvent and had to be rescued by the Mexican government. In the process of reviving the banking system, the government looked to foreign banks to bring in new capital and management skills in exchange for ownership of the local banks. In the case of Citibank, there was an ongoing strategic alliance with Confia that made this match-up a logical one. The case describes the situation of Confia that made this match-up a logical one. The case describes the situation of Confia, the initial agreement to acquire the bank, the long period of due diligence evaluation, and the shock of the money laundering indictment, and the final purchase of Confia in August of 1998. The focal points are the attempt to value Confia for the acquisition and the examination of Confia''s fit within Citibank''s overall strategy.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-00-0022
+field_case_page_length:
+  -
+    value: '15 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8bed5133-6131-4fce-986d-7d2f30371afe
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: Mexico
+field_case_source:
+  -
+    value: 'Field Case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 17df1964-41ab-4ada-8aba-06f76b25c7ea
+field_teaching:
+  -
+    value: "The case should be used for analysis of business strategies in emerging markets and/or for analysis of the question of valuation of a bank in a volatile context. Our use of the case at Thunderbird thus far has been in a short course on Finance in Emerging Markets, where both issues are relevant. The case could easily be used in a business strategy course in which the interest would be to explore strategies for operating in less developed countries such as Mexico. It also would fit a finance course in which valuation of companies is a topic. In both instances the particular challenges of operating in an emerging market are what makes the case distinctive.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.8bed5133-6131-4fce-986d-7d2f30371afe
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.17df1964-41ab-4ada-8aba-06f76b25c7ea

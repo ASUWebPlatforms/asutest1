@@ -1,0 +1,34 @@
+display:
+  default:
+    display_title: 'Ana (master)'
+    display_options:
+      fields:
+        is_default:
+          label: Varsayılan
+        name:
+          label: İsim
+        changed:
+          label: Güncellendi
+        type:
+          label: Tip
+        operations:
+          label: İşlemler
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Sayfa başına öğe sayısı'
+            items_per_page_options_all_label: '- Tümü -'
+            offset_label: 'Başlangıç değeri'
+      exposed_form:
+        options:
+          submit_button: Uygula
+          reset_button_label: Sıfırla
+          exposed_sorts_label: 'Sıralama anahtarı'
+          sort_asc_label: Artan
+          sort_desc_label: Azalan
+      filters:
+        type:
+          expose:
+            label: Tip
+  page_1:
+    display_title: Sayfa

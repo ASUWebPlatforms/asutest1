@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: fe5bf704-ce71-47d8-b689-90dc0ad8d6d7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 514bc0fa-4e0d-456e-b7cc-61b557907115
+filename:
+  -
+    value: 5c1bd12caeb86bdcf81de0a9ed830c32c7e3d9e968acd63fbdpimgpsh_fullsize_distr.jpg
+uri:
+  -
+    value: 'public://article/5c1bd12caeb86bdcf81de0a9ed830c32c7e3d9e968acd63fbdpimgpsh_fullsize_distr.jpg'
+    url: /sites/default/files/article/5c1bd12caeb86bdcf81de0a9ed830c32c7e3d9e968acd63fbdpimgpsh_fullsize_distr.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 5961023
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-08-30T18:01:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-08-30T18:01:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.514bc0fa-4e0d-456e-b7cc-61b557907115

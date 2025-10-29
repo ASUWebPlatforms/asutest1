@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 9c72e454-af37-41aa-bb68-2d969cefeb30
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:00:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Motorola and the RAZR'
+created:
+  -
+    value: '2016-07-16T01:32:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:00:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-07-0010
+body:
+  -
+    value: '<p><span>In a few short months, Motorola went from the darling of the cell phone market—“the cool innovative company with quality to match,” according to CEO Ed Zander—to the famously high-share, but unprofitable, handset manufacturer it became by early 2007. Both identities derive from the management of and profitability of the RAZR handset. At introduction, the RAZR was priced at $500-$800; by 2007, it was often free with a service contract. But new Chief Marketing Officer Casey Keller sees a future for the RAZR: “The company plans to maintain the RAZR as a premium brand with frequent upgrades, instead of allowing it to become commoditized and eventually fade away.”</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-07-0010
+field_case_page_length:
+  -
+    value: '8 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6e3a0eca-fb46-4947-9787-9d11d249bfe5
+field_case_series_year:
+  -
+    value: '2007-01-01'
+field_case_setting:
+  -
+    value: 'United States'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "This case offers a jumping off point for considering the role of brand management in a fast-changing technological market when dependence on channel members is high and competition for consumers is intense.\r\n\r\nStudents easily grasp the idea that brand management involves positioning the brand and then consistently delivering on that positioning over time, but it is more difficult for them to appreciate how truly difficult it can be to achieve this objective. Motorola’s history shows how easy it is to lose sight of this goal in the heat of competition, especially for firms competing in high-tech markets and whose historic strengths are in engineering. Students also easily grasp the communication component of branding—the right name, logo, advertising, guerilla marketing tactics, etc.—but less obvious to them is the crucial role of the “non-sexy” details that go into creating and maintaining a viable brand. Motorola’s ups and downs illustrate the importance of focusing on customers, recognizing the role of powerful channel members, gaining operational efficiency in order to deliver a viable value proposition, and staying on top of technology and competitive trends. Good brand management isn’t something separate and apart; it’s the overarching framework for developing a good marketing program. And good marketing isn’t separate from other functional areas of the firm. As our global markets become increasingly competitive, these lessons are more important than ever before.\r\n\r\nIt is clear that Motorola has not been a good steward of the RAZR brand. While the best course of action is not obvious, this case provides a basis for a discussion of crucial brand management issues."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.6e3a0eca-fb46-4947-9787-9d11d249bfe5
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

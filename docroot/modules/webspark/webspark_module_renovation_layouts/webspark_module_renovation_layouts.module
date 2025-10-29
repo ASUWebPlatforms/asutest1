@@ -1,0 +1,21 @@
+<?php
+
+/**
+ * @file
+ * Primary module hooks for Renovation Layouts module.
+ *
+ * @DCG
+ * This file is no longer required in Drupal 8.
+ * @see https://www.drupal.org/node/2217931
+ */
+
+/**
+ * Implements hook_theme_suggestions_HOOK_alter().
+ */
+function webspark_module_renovation_layouts_preprocess_layout__twocol_bootstrap_section(&$variables) {
+  $site_name = $GLOBALS['gardens_site_settings']['flags']['sitename'] ?? NULL;
+  $expected_site_names = ['vislab-2022'];
+  if (in_array($site_name, $expected_site_names)) {
+    $variables['is_overridden'] = TRUE;
+  }
+}

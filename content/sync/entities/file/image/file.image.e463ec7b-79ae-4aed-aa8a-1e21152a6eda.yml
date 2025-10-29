@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: e463ec7b-79ae-4aed-aa8a-1e21152a6eda
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: c740eac5-4575-4b58-a963-a62837cea4e3
+filename:
+  -
+    value: picture6.png
+uri:
+  -
+    value: 'public://article/picture6.png'
+    url: /sites/default/files/article/picture6.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1348110
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-04-04T23:46:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-04T23:46:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.c740eac5-4575-4b58-a963-a62837cea4e3

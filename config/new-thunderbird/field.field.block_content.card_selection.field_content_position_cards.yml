@@ -1,0 +1,23 @@
+uuid: c1dc8a98-ac79-4d61-9e07-9259339a58ee
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.card_selection
+    - field.storage.block_content.field_content_position_cards
+  module:
+    - options
+id: block_content.card_selection.field_content_position_cards
+field_name: field_content_position_cards
+entity_type: block_content
+bundle: card_selection
+label: 'Content position'
+description: ''
+required: true
+translatable: true
+default_value:
+  -
+    value: above
+default_value_callback: ''
+settings: {  }
+field_type: list_string

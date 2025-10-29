@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 98472b92-fd1a-44c2-be5c-ca0f0ecaf1f5
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:09:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Rising Tide of Economic Nationalism'
+created:
+  -
+    value: '2017-03-28T19:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:09:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/rising-tide-nationalism
+body:
+  -
+    value: "<p><i>This article is part of a conversation about the future of internationalism post-2016, featuring Thunderbird faculty and students. Related articles are available <a href=\"https://thunderbird.asu.edu/knowledge-network/future-of-internationalism\" target=\"_blank\">here.</a></i></p>\r\n<p><i>By Roy C. Nelson</i></p>\r\n<blockquote>\r\n<p>“Borders frequented by trade seldom need soldiers.”</p>\r\n</blockquote>\r\n<p>It’s a phrase we hear often at the Thunderbird School of Global Management. Attributable to our first faculty member, Dr. William Lytle Schurz, it represents the philosophy that founded this school in 1946 and continues to drive it today. This is the liberal worldview.</p>\r\n<p>When associated with economic policy, the word ‘liberal’ in the U.S. used to mean a policy consistent with the view that markets function best when they are free or ‘liberated’ from excessive government intervention. This is how the word is still used just about everywhere in the world <i>except</i> the U.S. It was during the 20th century that the term’s meaning changed in the U.S. to refer to almost the opposite of what it means everywhere else: a policy of government intervention to protect a country’s economy and people from the hardships imposed by free market forces. In the U.S., this usage has continued in the 21st century, but I am using the term in its original sense.</p>\r\n<p>[[{\"fid\":\"4715\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Roy Nelson on the Rise of Economic Nationalism\",\"field_file_image_title_text[und][0][value]\":\"Roy Nelson on the Rise of Economic Nationalism\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Roy Nelson on the Rise of Economic Nationalism\",\"field_file_image_title_text[und][0][value]\":\"Roy Nelson on the Rise of Economic Nationalism\"}},\"attributes\":{\"alt\":\"Roy Nelson on the Rise of Economic Nationalism\",\"title\":\"Roy Nelson on the Rise of Economic Nationalism\",\"height\":\"320\",\"width\":\"634\",\"style\":\"margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>In this view, liberalism holds that global trade is, on whole, positive for an economy and its people. The role of the government is to define and enforce the rules that keep global trade fair, and otherwise stay out of it. To the extent nations follow these principles, trade can be result in positive-sum, ‘win win’ outcomes for all nations. Trade can be an engine of growth, prosperity, and yes, even peace, since nations that are benefitting in a positive way from their economic interactions will be less inclined to go to war. &nbsp;This worldview has guided the U.S. and most of its key allies since World War II, but it is currently under siege.</p>\r\n<h4>A changing tide?</h4>\r\n<p>The period of liberalism that began after World War II birthed the World Trade Organization, the International Monetary Fund, and the World Bank. It saw global trade flows rise more than 3000 percent (and that’s not counting inflation). And the gains have flowed to the people: per capita global income has risen more than 270 percent (again, not counting inflation).</p>\r\n<p>And yet, another worldview is currently emerging as a significant challenge to the liberal worldview in the U.S. and Europe: economic nationalism (sometimes referred to as realism, statism, or mercantilism), which holds that global trade is a zero-sum game where what one side wins, the other side loses.</p>\r\n<p>The United States has inaugurated a president whose campaign centered on dismantling, or at least dramatically changing, America’s role in many global economic institutions. As a candidate, Donald Trump vowed to impose a 45 percent tariff on Chinese goods coming into the U.S. He called the North American Free Trade Agreement (NAFTA) “the worst trade deal maybe ever signed anywhere, but certainly ever signed in this country.” He called the World Trade Organization (WTO) a “disaster” and threatened to pull the U.S. out of that very organization that has protected the U.S. from unfair trade practices.</p>\r\n<h4>Enabling competition – or stifling it?</h4>\r\n<p>[[{\"fid\":\"9400\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Rising Tide of Economic Nationalism\",\"field_file_image_title_text[und][0][value]\":\"Rising Tide of Economic Nationalism\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Rising Tide of Economic Nationalism\",\"field_file_image_title_text[und][0][value]\":\"Rising Tide of Economic Nationalism\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Rising Tide of Economic Nationalism\",\"title\":\"Rising Tide of Economic Nationalism\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]Let’s consider the impact of NAFTA, for a moment, since that particular agreement has been such a frequent target for the new U.S. president. The most oft-cited argument is that American jobs have been lost as companies shipped them to Mexico post-NAFTA. But many studies have shown that the net loss in jobs has been very small (15,000 jobs per year, according to a 2014 report by the Peterson Institute for International Economics). Jobs lost due to rising imports from Mexico are largely offset by jobs gained due to rising exports to Mexico. In fact, the biggest “job destroyer” by far has been not any trade agreement but automation (and yet, we don’t see protests against robots).</p>\r\n<p>While it is jobs that animate voters, the impact of both automation and NAFTA on American competitiveness has been much more significant than any impact to jobs, either in the U.S. or in Mexico or Canada. According to a 2015 report on NAFTA by the Congressional Research Service, “NAFTA [helped] U.S. manufacturing industries, especially the U.S. auto industry, become more globally competitive through the development of supply chains.” When American companies are more competitive, they can hire more workers, pay higher salaries, and otherwise contribute to American economic growth.</p>\r\n<p>Where open trade drives competitiveness, the opposite is also true. Economic nationalism and its protectionist policies create competitive <i>disadvantage</i> for domestic firms. I have spent several decades working in Latin America, where there are countless examples of economic nationalism stifling competition and driving economic stagnation.</p>\r\n<p>The most extreme example is Cuba. You’ve probably got the iconic image in your mind right now: the 1950s era Chevy parked on the main street of what looks like the set of a black-and-white movie, yet it’s a picture from 2012. When Fidel Castro assumed power in 1959 and imposed a ban on foreign automobile imports, it was like someone pressed the pause button on innovation. Closing the border did not give rise to a homegrown Cuban auto industry but rather, five decades of economic misery.</p>\r\n<h4>A better response – but not protectionism</h4>\r\n<p>While the liberal worldview holds that global trade is win-win on whole and over the long term, there is no doubt that certain regions of a country and certain sectors of an economy can be singularly harmed by free trade. Where NAFTA has driven economic growth in the U.S. and Mexico, and made U.S. companies more competitive, there are individuals in places like Ohio, Michigan, and Pennsylvania who lost jobs when their factories moved to Mexico.</p>\r\n<p>It is the government’s responsibility to help the people whose livelihoods are disrupted by trade. In 1974 Congress passed the Trade Act, which created the Trade Adjustment Assistance (TAA) program to do exactly that. For workers who lose their jobs or have hours or wages reduced as a result of increased imports, TAA provides training and other reemployment services as well as allowances to help support the workers as they retrain.</p>\r\n<p>Perhaps that’s not enough, in which case more should be done. But the answer is not protectionism. That won’t bring those workers’ jobs back, and it will result in the loss of many more jobs over the long term. (History proves it to be so. The Smoot-Hawley Tariff of 1930, which led to retaliation worldwide, did not help American companies and workers but deepened and lengthened the Great Depression for everyone.)</p>\r\n<h4>Worldviews inform business strategy</h4>\r\n<p>While I am a firm subscriber to the liberal worldview, it’s not one I proselytize in my classes. Instead I offer insight into all worldviews, because the point for global business students is not to have an opinion one way or the other, but to understand how to identify these worldviews in the countries they will do business in, and make decisions accordingly. When business leaders know how to identify a country’s prevailing worldview, and know what that worldview entails, then they know what to expect, and they can devise smart business strategies to succeed within that context.</p>\r\n<p>If the predominant worldview in the U.S. shifts from liberalism to economic nationalism, it will send shockwaves across the world. I’m used to teaching students how to navigate economic nationalism in Latin America. I never thought I might have to teach students how to navigate it in the U.S.</p>\r\n<p><a href=\"https://thunderbird.asu.edu/node/162\"><i>Dr. Roy C. Nelson</i></a><i> is associate professor of global studies at Thunderbird School of Global Management. He has conducted field research in nearly a dozen Latin American countries. His industry experience includes working with Pharmacia &amp; Upjohn Corporation, the World Bank, and the Chilean Economic Development Agency (CORFO). He is the author of two books: “Harnessing Globalization: The Promotion of Nontraditional Foreign Direct Investment in Latin America” and “Industrialization and Political Affinity: Industrial Policy in Brazil.”</i></p>\r\n<p><i>&nbsp;</i></p>\r\n<p><i>This article is part of a series by Thunderbird School of Global Management faculty, sharing their insights on the </i><a href=\"https://thunderbird.asu.edu/node/2344\"><i>future of internationalism</i></a><i>.</i></p>\r\n<p><i><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></i></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1280
+    height: 1294
+    target_type: file
+    target_uuid: 42867f4f-2913-4cbe-b3c3-d2d26c10f357
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.42867f4f-2913-4cbe-b3c3-d2d26c10f357
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f

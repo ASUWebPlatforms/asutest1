@@ -1,0 +1,114 @@
+uuid:
+  -
+    value: 5f9409d9-41bf-46fc-a7eb-fcb2260cf5d8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T20:43:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'A Latin American Factory Start-Up'
+created:
+  -
+    value: '2016-07-26T20:43:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T20:43:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a15-04-0009
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case offers the situation of an established multinational company opening a new production facility in Costs Rica with an American ex-pat in the key leadership role. The case focuses on cultural issues, staffing development, and reward systems. The protagonist must select among a set of approaches to overcoming the cultural challenges in order to influence performance and positively impact the bottom line. In addition, the teaching note provides a follow-up of "what happened next."</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A15-04-0009
+field_case_page_length:
+  -
+    value: '5 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: be3de8d4-3227-4bf9-91b1-239608a0caeb
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'Costa Rica'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: da28f618-72d1-4398-83bc-b3da103ba844
+  -
+    target_type: taxonomy_term
+    target_uuid: 5a70c5ab-e993-44a6-b090-b8d86d202c1b
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: dfb75b01-ed2a-4294-b672-48c2e46282c4
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "The case is intended for use in an MBA-level course on global management or an Executive Education program for middle managers. The case highlights both the challenges and the opportunities for leading cultural integration from the middle of a large, global business.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.2f3a76dd-8cb5-4abe-9fa4-4bae8ad4474e
+      - taxonomy_term.case_series_industry.be3de8d4-3227-4bf9-91b1-239608a0caeb
+      - taxonomy_term.case_series_categories.da28f618-72d1-4398-83bc-b3da103ba844
+      - taxonomy_term.case_series_categories.5a70c5ab-e993-44a6-b090-b8d86d202c1b
+      - taxonomy_term.case_series_fields.dfb75b01-ed2a-4294-b672-48c2e46282c4
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

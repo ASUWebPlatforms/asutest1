@@ -1,0 +1,26 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: ফিল্টার
+      pager:
+        options:
+          tags:
+            previous: '‹ পূর্ববর্তী'
+            next: 'পরবর্তী ›'
+            first: '« প্রথম'
+            last: 'শেষ »'
+      fields:
+        placed:
+          label: তারিখ
+        type:
+          label: টাইপ
+        mail:
+          label: ইমেইল
+        operations:
+          label: কার্যাবলী
+      filters:
+        type:
+          expose:
+            label: টাইপ

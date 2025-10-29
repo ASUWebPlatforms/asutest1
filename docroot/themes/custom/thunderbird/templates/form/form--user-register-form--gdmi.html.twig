@@ -1,0 +1,42 @@
+{#
+/**
+ * @file
+ * Template for a 'form' element.
+ *
+ * Available variables
+ * - attributes: A list of HTML attributes for the wrapper element.
+ * - children: The child elements of the form.
+ *
+ * @see template_preprocess_form()
+ *
+ * @ingroup themeable
+ */
+#}
+<div class="gdmi-form gdmi-register-form container">
+  <div class="gdmi-form-body">
+    <h1 class="gdmi-form__title">{{ 'Create GDMI Account'|t }}</h1>
+    <span class="gdmi-form__create-account">
+      {{ 'OR'|t }} <a href="{{ path('user.login') }}">{{ 'LOGIN'|t }}</a>
+      <i class="fas fa-arrow-right ml-2" aria-hidden="true"></i>
+    </span>
+    <form{{ attributes }}>
+      {{ element.form_build_id }}
+      {{ element.form_token }}
+      {{ element.form_id }}
+      <div class="row">
+        <div class="col-lg-6">{{ element.field_first_name }}</div>
+        <div class="col-lg-6">{{ element.field_last_name }}</div>
+      </div>
+      <div class="row">
+        <div class="col-lg-6">{{ element.account.mail }}</div>
+        <div class="col-lg-6">{{ element.field_country }}</div>
+      </div>
+      {{ element.account.pass }}
+      <div class="row gdmi-form-footer">
+         <div class="col-lg-9"><div class="gdmi-form__message">{{ element.form_message }}</div></div>
+         <div class="col-lg-3">{{ element.actions }}</div>
+      </div>
+    </form>
+  </div>
+  <a href="{{ url('<front>') }}" class="btn btn-gold btn-back"><i class="fas fa-arrow-right mr-2" aria-hidden="true"></i>{{ 'Back'|t }}</a>
+</div>

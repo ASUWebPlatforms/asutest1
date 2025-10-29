@@ -1,0 +1,22 @@
+uuid: 42c6ba75-df33-4736-a5b8-3fba27c0da61
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.column_text
+id: block_content.column_text.status
+field_name: status
+entity_type: block_content
+bundle: column_text
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

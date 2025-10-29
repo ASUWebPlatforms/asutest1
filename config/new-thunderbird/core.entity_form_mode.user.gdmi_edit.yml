@@ -1,0 +1,10 @@
+uuid: b49b997f-8661-4747-ae0b-7ab91932fd52
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.gdmi_edit
+label: 'GDMI Edit'
+targetEntityType: user
+cache: true

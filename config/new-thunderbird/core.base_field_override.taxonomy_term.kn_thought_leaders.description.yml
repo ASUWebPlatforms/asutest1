@@ -1,0 +1,20 @@
+uuid: a56d8249-d6ca-430a-8932-f46ef5cb3f3c
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.kn_thought_leaders
+  module:
+    - text
+id: taxonomy_term.kn_thought_leaders.description
+field_name: description
+entity_type: taxonomy_term
+bundle: kn_thought_leaders
+label: Description
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

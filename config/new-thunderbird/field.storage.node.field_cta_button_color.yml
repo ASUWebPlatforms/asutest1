@@ -1,0 +1,27 @@
+uuid: b0534c4e-b394-421c-b505-e0903726bc09
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_cta_button_color
+field_name: field_cta_button_color
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: gold
+      label: Gold
+    -
+      value: blue
+      label: Blue
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

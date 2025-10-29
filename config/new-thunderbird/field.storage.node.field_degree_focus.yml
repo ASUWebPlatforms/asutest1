@@ -1,0 +1,27 @@
+uuid: d5977a23-60d8-4a75-9368-ab2ce86895a4
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_degree_focus
+field_name: field_degree_focus
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: global_management
+      label: 'Global Management'
+    -
+      value: international_trade
+      label: 'International Trade'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

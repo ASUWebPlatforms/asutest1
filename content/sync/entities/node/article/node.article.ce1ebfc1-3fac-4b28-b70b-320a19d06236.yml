@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: ce1ebfc1-3fac-4b28-b70b-320a19d06236
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-02T15:26:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: '3 Expert Tips to Empower and Reinvent Your Career'
+created:
+  -
+    value: '2017-08-14T16:29:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-02T15:26:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/3-expert-tips-empower-and-reinvent-your-career
+body:
+  -
+    value: "<h3>Empower Yourself Through Your Skills</h3>\r\n<p>If you want to move up in an increasingly competitive workforce, you may need to up your skills.</p>\r\n<p>[[{\"fid\":\"6636\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"empower\",\"field_file_image_title_text[und][0][value]\":\"empower\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"empower\",\"field_file_image_title_text[und][0][value]\":\"empower\"}},\"link_text\":null,\"attributes\":{\"alt\":\"empower\",\"title\":\"empower\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Many employees are beginning to find themselves without opportunities for career advancement – left behind by evolving trends and suddenly placed in “career limbo.” Those without the ability to move ahead in seeking professional development from employers and higher education to update their skills are getting left behind.</p>\r\n<p>And there is a notable disconnect between the skill sets employers expect and the professional development opportunities they actually make available to employees.</p>\r\n<p>In a recent&nbsp;<a href=\"http://www.phoenix.edu/about_us/media-center/news/uopx-releases-professional-development-survey-results.html\">University of Phoenix School of Business survey on professional development</a><a href=\"http://danamanciagli.com/3-expert-tips-empower-reinvent-career/#_ftn1\">1</a>, 94 percent of hiring managers say that upskilling and training is critical to the organization’s success. Yet, nearly one in three employees say they do nothing to supplement or update their skills.</p>\r\n<p><span>Recently, I spoke with Ruth Veloria, executive dean of the School of Business at the University of Phoenix to for her perspective on the&nbsp;factors driving these skills gaps.</span></p>\r\n<p>“The biggest issue I hear from employees in the workplace is that they need additional innovative and creative skills in order to enhance their career, especially in IT and business fields,” she said. “Higher education needs to be prepared to arm individuals with the updated skills they need to confidently reinvent themselves and their careers.”</p>\r\n<p>More than a third of employees say they aren’t confident in their employer’s professional development programs. For many, higher education programs can help fill the gap.</p>\r\n<p>“Employees must take control of their careers, think about areas where they want to grow and develop,” Veloria said. “Find bite-sized education – it could be a boot camp in tech skills or a digital marketing course – focus on the skills employers are looking for today to prepare you for your career tomorrow.”</p>\r\n<p>The employee survey was conducted online nationwide by Harris Poll on behalf of the University of Phoenix among adults aged 18 and older who work full-time in a company with 10 employees or more. The employer survey was conducted among those who work full-time in HR or senior leadership roles with hiring decision making responsibilities.</p>\r\n<p>As a result of this research, Veloria offers three steps to help employees find opportunities to gain the skills and confidence they need to reinvent and empower their career:</p>\r\n<h4></h4>\r\n<h4><span>1. Encourage dialogue</span></h4>\r\n<p>As an employee, you can’t be timid about talking to employers about their upskilling needs; both sides need to communicate what they need from each other. Until the issue is raised, employers may not know that career development is something their employees are interested in or willing to invest time into. Take the initiative to talk to your employer about career development opportunities.</p>\r\n<h4></h4>\r\n<h4><span>2. Help create the culture you want to see</span></h4>\r\n<p>Your feedback is essential for your employer and the strength of your company overall. Promote your ideas during regular meetings and encourage your employer to foster an empowering environment where everyone’s voice has a chance to be heard and acted upon.</p>\r\n<h4></h4>\r\n<h4><span>3. Explore all the resources available to you</span></h4>\r\n<p>Don’t just accept what’s immediately in front of you, look outside your organization for upskilling and professional development. Higher education and institutions like the University of Phoenix provide career-relevant education that helps employees and entrepreneurs learn the skills they need to reinvent themselves, advance in their careers or start new careers.</p>\r\n<p>To move ahead in today’s workplace, employees need to push the conversation about skills expectations with their employers. They need to take initiative and talk to their employers and organizations about how to update their skills and empower their career.</p>\r\n<p>Look to higher education as an option to learn the skills&nbsp;<em>you</em>&nbsp;need to thrive in order to reinvent yourself and your career.</p>\r\n<p style=\"text-align: center;\">Join Dana Manciagli’s&nbsp;<a href=\"https://danamanciagl.samcart.com/referral/ihc4Zdak/mHDAKfwajfZgTWDa\">Job Search Master Class</a>&nbsp;<em>right now</em>&nbsp;and immediately access the most comprehensive job search system currently available!</p>\r\n<p><em>Thunderbird School of Global Management Alumna Dana Manciagli '84 is the author of \"Cut the crap, Get a job\". With her 'Career Mojo' column, Dana is the sole syndicated career columnist for the Business Journal nationwide. Her remarkable profile includes a career in global sales and marketing for Fortune 500 corporations like Microsoft, IBM, and Kodak. She has coached, interviewed and hired thousands of job seekers. This article was originally published on&nbsp;</em><a href=\"http://danamanciagli.com/\"><i>her website.</i></a><em></em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 560
+    height: 315
+    target_type: file
+    target_uuid: c12490c9-6fc5-4e7e-867b-d74ee9111f96
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: d875b62b-67cc-45ef-8828-7a2a2ee3ec40
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.c12490c9-6fc5-4e7e-867b-d74ee9111f96
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.d875b62b-67cc-45ef-8828-7a2a2ee3ec40

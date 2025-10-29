@@ -1,0 +1,10 @@
+uuid: daa3963e-c71c-4029-a742-b68e6a3507a2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rFSpZoEgQThgsspo1frtE73wz_Kf4mD6-gMT-TX85mw
+id: events
+label: 'x Events'
+revision: 0
+description: ''

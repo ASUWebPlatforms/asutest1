@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: e2c76a02-31b2-4c44-bada-69293166dcda
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:08:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Northwestern Paper Company'
+created:
+  -
+    value: '2016-07-27T22:08:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:08:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-99-0008
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Northwestern Paper Company is a United States-based pulp and paper company with a transfer pricing problem. Two of its subsidiaries, one in Indonesia and one in South Korea, recently submitted competitive bids to supply bleached paperboard to an Australian manufacturer. The South Korean subsidiary of Northwestern was awarded the bid on the basis of price and quality considerations. The South Korean subsidiary had, however, based its bid on pulp supplied by an independent Chilean supplier, while the Indonesian subsidiary had based its bid on more expensive pulp purchased from Northwestern''s own U.S. mills. Northwestern''s corporate management now wants the South Korean subsidiary to purchase the pulp from the company''s own mills, rather than the cheaper independent Chilean supplier. Subsidiary independence, performance measurement, and overall profitability is at stake.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-99-0008
+field_case_page_length:
+  -
+    value: '4 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'US, Chile, Indonesia, Korea, 1994'
+field_case_source:
+  -
+    value: 'Field case (disguised)'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 39b6cc39-1bdd-439f-b430-4dbd20c2373c
+field_teaching:
+  -
+    value: "This case has been used extensively in executive education and masters-level degree programs to integrate transfer pricing and tax management within a reduced time framework. The case is excellent in inciting discussion among executive participants because of the prevalence of frustration among managers everywhere with transfer prices dictated by corporations which alter their individual and business unit performance measures. For this reason, the brevity of the case itself is useful in simply igniting discussion rather than channeling and filling it.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.39b6cc39-1bdd-439f-b430-4dbd20c2373c

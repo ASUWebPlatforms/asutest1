@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 49f061f8-4077-4a43-8902-bb78994d3f0b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-04-24T23:50:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: 'Students Head to Ecuador for Consulting Project'
+created:
+  -
+    value: '2018-04-16T18:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-24T23:50:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/students-head-to-ecuador-consulting-project
+body:
+  -
+    value: "<p class=\"p1\"><span class=\"s1\">[[{\"fid\":\"12620\",\"view_mode\":\"teaser\",\"fields\":{\"format\":\"teaser\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"teaser\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"style\":\"float: left;\",\"class\":\"media-element file-teaser\",\"data-delta\":\"2\"}}]]<span style=\"background-color: transparent; font-size: 1em;\" class=\"s1\">Marissa Garay, a current <a href=\"/node/190\">Master of Arts in Global Affairs &amp; Management</a> student from Mexico City, will be part of <a href=\"/node/2462\">Thunderbird's Global Consulting Laboratory (GCL) in Ecuador</a> this summer. </span><span style=\"background-color: transparent; font-size: 1em;\" class=\"s1\">She will spend her summer at a project-based capstone course that involves a three-week immersion in this emerging market. LIke all Thunderbird student consulting projects, Marissa's team will focus on solving a challenge based on the business needs of their client, providing sophisticated data and market analysis, strategy recommendations and practical, effective plans for sustained growth.<br></span></span></p>\r\n<p class=\"p1\"><span class=\"s1\">During her GCL, Marissa will r</span>eceive on-the-ground support from&nbsp;<a href=\"https://thunderbird.asu.edu/node/181\"><span class=\"s2\">Professor Tom Hunsaker, Ph.D</span></a>., who will accompany students to the field, where they will work with&nbsp;<span class=\"s1\">real clients, real business issues, and engage in a hands-on applied/experiential learning opportunity like no other. This summer, </span>there are three different GCL projects taking place that provide diversity and real-world work experience for students. These are the three Summer 2018 projects available to Thunderbird students accepted into the GCL.</p>\r\n<ul>\r\n<li><a href=\"https://www.heifer.org/\" target=\"_blank\">Heifer International</a>, a&nbsp;global NGO</li>\r\n<li><a href=\"https://www.siemens.com/global/en/home.html\" target=\"_blank\">Seimens</a>, a multinational corporation</li>\r\n<li>UMCO,&nbsp;a small/medium sized enterprise</li>\r\n</ul>\r\n<p><span class=\"s1\">Marissa chose the project for Heifer based in Quito, Ecuador. She will be working with a cross-cultural team to gain insights into new functions and industries with this experience. We asked Marissa about Thunderbird's Global Consulting Lab process and how she got selected to be part of this&nbsp;<em>competitive, application-based program.</em><span>&nbsp;</span></span></p>\r\n<h6 class=\"p1\"><span class=\"s1\">1. Why did you decide to apply to the GCL program?</span></h6>\r\n<p class=\"p1\"><span class=\"s1\">I believe Thunderbird’s GCL program will help me grow professionally by providing the opportunity to apply the skills I have learned throughout my two semesters in the MAGAM program and allowing me hands-on experience. It is also an opportunity for a wonderful cultural experience working abroad with a close group of friends and colleagues.</span></p>\r\n<h6 class=\"p1\"><span class=\"s1\">2. What made you choose the Heifer project? &nbsp;</span></h6>\r\n<p class=\"p1\"><span class=\"s1\">The Heifer International project was the one that stood out most for me and the team as a whole. Each team member has worked in the non-profit sector in some way and is inclined to go back to it. We all believe in using our skills to give back to specific communities where the work that we do can make a difference.</span></p>\r\n<h6 style=\"text-align: left;\" class=\"p1\"><span class=\"s1\">3. What will you be doing during the project with your client?</span></h6>\r\n<p class=\"p1\"><span class=\"s1\">We will assist Heifer in designing a business development training model for small- to medium-sized entrepreneurs in Ecuador’s rural communities. This will include a needs assessment to better understand the needs and requirements of these communities.</span></p>\r\n<h6 class=\"p1\"><span class=\"s1\">4. What was the application process for the GCL program like?</span></h6>\r\n<p class=\"p1\"><span class=\"s1\">It was a competitive process due to the high level of interest from MAGAM students. The process began with forming the right team of people who would work well together and bring complementary skills. We then reviewed the different programs to make sure we applied for the one that was the best fit for the team. Once we were all on the same track, we got together to create a team essay explaining how our team would add value to Heifer’s project, as well as personal statements geared towards our personal and professional goals.</span></p>\r\n<h6 class=\"p1\"><span class=\"s1\">5.&nbsp;What do you hope to gain from this experience?</span></h6>\r\n<p class=\"p1\"><span class=\"s1\">First and foremost, hands-on experience where I can actually roll-up my sleeves and put into practice the theories and business skills I’ve recently acquired in the classroom. Secondly, as the only native Spanish speaker on the team, I hope to bridge any communication and cultural gaps that may arise. Thirdly, I want to fulfill a personal goal of doing real work that may make a change for the better in people’s lives.</span></p>\r\n<p class=\"p1\"><span class=\"s1\"><span></span><span>The goal for every GCL is to provide students with a real-world experience that will make a difference not only in the client's business but in the world.&nbsp;</span></span><span class=\"s1\">Marissa also mentioned that after returning</span><span class=\"s1\">&nbsp;from Quito she will be a development intern with the Phoenix Symphony (whose CEO, Jim Ward, is a Thunderbird alumnus). This is what makes Thunderbird unique&nbsp;and one of the many reasons people all over the world seek an international business master’s degree, to be able to apply their learnings in business dealings on an international scale. <br></span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 250
+    height: 300
+    target_type: file
+    target_uuid: 3b8134ed-6374-447e-95cf-c36aaa284778
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    file:
+      - file.image.3b8134ed-6374-447e-95cf-c36aaa284778
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

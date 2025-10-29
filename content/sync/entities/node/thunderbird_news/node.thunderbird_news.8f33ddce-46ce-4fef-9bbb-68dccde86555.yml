@@ -1,0 +1,87 @@
+uuid:
+  -
+    value: 8f33ddce-46ce-4fef-9bbb-68dccde86555
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: thunderbird_news
+    target_type: node_type
+    target_uuid: e01e6f3e-c03c-4e30-9ab7-04f2a388e7c1
+revision_timestamp:
+  -
+    value: '2021-07-22T16:13:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 1bd927aa-9669-4876-b9d0-a067ab41e2cc
+title:
+  -
+    value: 'The door is closing on Chinese tech IPOs on Wall Street'
+created:
+  -
+    value: '2021-07-22T16:13:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-07-22T16:13:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /CNN-door-closing-Chinese-tech-IPOs-Wall-Street
+body:
+  -
+    value: '<p><span>It "may very well be" the end — at least temporarily — to US listings for Chinese companies, according to</span><span>&nbsp;</span><span>Doug Guthrie, a professor and director of China Initiatives at Arizona State University''s Thunderbird School of Global Management. He added that a "serious pause" on such listings could be in effect until US-China relations improve.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_date:
+  -
+    value: '2021-07-22T09:00:00-07:00'
+field_image_legacy:
+  -
+    alt: ''
+    title: ''
+    width: 888
+    height: 502
+    target_type: file
+    target_uuid: f7e37fcd-b0cf-4b92-bf2b-b864a84d48f5
+field_news_link:
+  -
+    uri: 'https://www.cnn.com/2021/07/22/investing/china-us-ipos-intl-hnk/index.html'
+    title: 'The door is closing on Chinese tech IPOs on Wall Street'
+    options:
+      attributes: {  }
+field_news_org:
+  -
+    value: CNN
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.1bd927aa-9669-4876-b9d0-a067ab41e2cc
+    file:
+      - file.image.f7e37fcd-b0cf-4b92-bf2b-b864a84d48f5

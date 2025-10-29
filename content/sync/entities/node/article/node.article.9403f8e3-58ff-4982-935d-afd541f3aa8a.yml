@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 9403f8e3-58ff-4982-935d-afd541f3aa8a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-06-11T17:32:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'Why Hands-on, Applied Learning Projects Are Essential for Global Change-Makers'
+created:
+  -
+    value: '2017-07-07T16:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-06-11T17:32:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/the-rich-opportunities-the-consulting-labs-at-Thunderbird-provides
+body:
+  -
+    value: "<p>One of the many reasons people all over the world seek an international business master’s degree is to be able to apply their learnings in business dealings on an international scale. At Thunderbird, students have the opportunity to do just that, with the <a href=\"/node/2462\">Thunderbird Emerging Markets Lab</a> (TEM LAB) for those pursuing the <a href=\"/node/194\">Master of Global Management</a> degree, &nbsp;and the <a href=\"/node/2462\">Global Consulting Lab</a> for those pursuing the <a href=\"/node/190\">Master of Arts in Global Affairs and Management</a> degree. These consulting labs require that students spend multiple weeks in the field working with real-world clients, traveling outside of the United States and going to different parts of the globe to work on different projects.&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5977\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">One of Thunderbird's 2017 consulting teams boards a plane in Madagascar.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 1280px;\" class=\"caption-inner\">[[{\"fid\":\"5976\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">This 2017 consulting team took to the waters to navigate around Myanmar.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><br>These consulting trips are more than excursions; they are actually mini-consulting jobs. On these trips, students get an opportunity to work with diverse clients, many of whom are multinational companies from different sectors, while others are Foreign Government agencies or local business owners just trying to expand their business.&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5984\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Client meeting in Madagascar, 2017.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<h3>Diverse Real-world Clients</h3>\r\n<p>Often, the clients with whom Thunderbird students work on their consulting assignments deal with community involvement. For instance, T-bird teams have worked with governments on assessing the youth empowerment programs in countries like Senegal and coming up with new ways to achieve the country's goals when it comes to development. Students have also worked with NGOs and multinational sponsored NGOs like ExxonMobil to empower women with economic opportunities in countries like Tanzania.</p>\r\n<p>Thunderbirds consulting assignments always offer new opportunities, like the 2017 trip students made to Madagascar as part of TEM Lab, working with local businesses and cooperatives in a bid to help them increase their capacities and capabilities. Another group of students worked with two companies in Myanmar (Myanmar Agri-Business Group and Nike soybeans), providing recommendations to help both companies with organizational structure and operations. Their counterparts in the GCL got to conduct field research in Quito, Ecuador, working with 3M to determine ways to increase the sale of their premium product, the Super 33+ electrical tape.&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5983\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">T-birds in the field with their Myanmar clients.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5991\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Thunderbird student consultants engage with the community in Madagascar</p>\r\n</div>\r\n</div>\r\n</div>\r\n<h3><span style=\"background-color: transparent; font-size: 1em;\">Real-life Value from Real-world Projects</span></h3>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">Through these applied learning projects, students learn to deal with the many challenges of being in cross-cultural situations and the occasional inconveniences that arise in developing countries, such as regular power shortages, irregular internet connectivity, rough roads, or harsh weather conditions (like heat and humidity or heavy rains or monsoons). Added to these challenges, the students are introduced to new kinds of foods, and the likelihood they won't easily find the foods they are used to. And, often in these situations, the students gain immense experience dealing with the lack of communication channels or ambiguity when it comes to getting information needed to do the job. T-bird student consultants not only welcome these challenges; they consider them the highlights of their applied learning opportunity!<br></span></p>\r\n<p>Working as a team, the students put into practice the theories and lessons they've learned in class, providing effective and implementable solutions to the clients. They provide solutions by carefully listening to the needs of the people. And at the end of the consulting experience, they come away with skills that have been sharpened and tested in real-life situations.</p>\r\n<div class=\"caption  mceTemp draggable caption-center mceIEcenter\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div style=\"width: 640px;\" class=\"caption-inner\">[[{\"fid\":\"5990\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">T-birds on the ground in Quito, Ecuador</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>\r\n<h3>A Life- and Career-altering Experience</h3>\r\n<p>When it comes to the business side of things, T-bird student consultants experience growth having helped companies come up with strategies to expand both domestically and internationally, as well helping companies in their plan to develop new products. Sometimes consulting clients just need help with marketing and branding or with cost structure and operations. The result is that, at the end of the project, students have gained a rich experience of working with both teammates and stakeholders while adapting to a new culture and delivering solutions with real-life implications.</p>\r\n<blockquote>\r\n<p>\"To me, TEM Lab&nbsp;is the defining experience of why Thunderbird excels at international management. Friendships formed, disasters averted, and lessons learned. TEM Lab defines all that is and should be for graduate-level education...TEM Lab will take you to the opposite side of the world and bring you home as your best version.\"&nbsp; - Aaron Rockwell '17</p>\r\n</blockquote>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"5981\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Aaron Rockwell '17 with TEM Lab clients in Madagascar</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p style=\"text-align: center;\">&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: 34c17aa3-f833-4c1d-97e8-4387b538044d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    file:
+      - file.image.34c17aa3-f833-4c1d-97e8-4387b538044d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

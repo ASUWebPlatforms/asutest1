@@ -1,0 +1,44 @@
+uuid: eed60d47-e973-40d0-b1e6-d78f73bda251
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.signpost_w_2_images.field_image_left
+    - field.field.paragraph.signpost_w_2_images.field_image_right
+    - field.field.paragraph.signpost_w_2_images.field_signpost
+    - paragraphs.paragraphs_type.signpost_w_2_images
+  module:
+    - entity_reference_revisions
+id: paragraph.signpost_w_2_images.default
+targetEntityType: paragraph
+bundle: signpost_w_2_images
+mode: default
+content:
+  field_image_left:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: signpost_w_2_images_carousel
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_image_right:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: signpost_w_2_images_carousel
+      link: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_signpost:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden: {  }

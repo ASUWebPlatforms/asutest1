@@ -1,0 +1,18 @@
+uuid: b8c859a2-2f80-4518-b3ac-fb8a23f8888b
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.thunderbird_news
+id: node.thunderbird_news.created
+field_name: created
+entity_type: node
+bundle: thunderbird_news
+label: 'Authored on'
+description: 'The time that the node was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: e487d605-3c89-437f-9099-373f5e652271
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2017-02-08T22:17:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a54fdb1e-4122-493a-83c1-97b7190d7a9d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Sicom GMBH & CD Piracy'
+created:
+  -
+    value: '2016-07-28T00:44:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-02-08T22:17:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a02-97-0025
+body:
+  -
+    value: "<div class=\"field field-name-body field-type-text-with-summary field-label-above\">\r\n<div class=\"field-items\">\r\n<div class=\"field-item even\">\r\n<p>Sicom, the leading firm in the compact disc (CD) equipment industry, produces CD replicators. CD replicators are used to produce copies of CDs from master CD versions. Many of the CD replicators are sold in China. Sicom, and other firms in its industry, have been accused by the recording industry and U.S. trade officials of turning a blind eye to CD piracy in China. From Sicom management's perspective, Sicom should not be held accountable for the actions of others. If CDs are being counterfeited in China, it should be up to the Chinese government to take action against producers and consumers of illegal products.</p>\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A02-97-0025
+field_case_page_length:
+  -
+    value: '5 pages'
+field_case_series_author: {  }
+field_case_series_date:
+  -
+    target_type: taxonomy_term
+    target_uuid: 046fb13f-b3f8-4510-983a-4bbb9be83947
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0fa63999-e52c-437b-87cf-d481018502c8
+field_case_series_year:
+  -
+    value: '1997-01-01'
+field_case_setting:
+  -
+    value: 'Germany 1997'
+field_case_source:
+  -
+    value: 'Library Case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: ed3f6023-bab2-4a5e-a56a-1c54b925845d
+  -
+    target_type: taxonomy_term
+    target_uuid: 31fa2b18-a11a-47b5-bf6e-6e0352ec5dba
+field_teaching:
+  -
+    value: "This case deals with ethical issues associated with intellectual property and corporate responsibility for the counterfeiting or theft of intellectual property. There is little doubt that Sicom s products are being used to make counterfeit CDs. But, does that make Sicom responsible for the counterfeit products? Is it reasonable to expect Sicom to control how its customers use Sicom products? Sicom is a small firm with limited resources and cannot possibly keep track of all its products. In discussing these issues, students will have the opportunity to explore an issue that will likely become increasingly important as industries globalize.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a54fdb1e-4122-493a-83c1-97b7190d7a9d
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_years.046fb13f-b3f8-4510-983a-4bbb9be83947
+      - taxonomy_term.case_series_industry.0fa63999-e52c-437b-87cf-d481018502c8
+      - taxonomy_term.case_series_categories.2db15ad5-16f8-4c2f-ac41-8e3ea44faf7c
+      - taxonomy_term.case_series_fields.ed3f6023-bab2-4a5e-a56a-1c54b925845d
+      - taxonomy_term.case_series_fields.31fa2b18-a11a-47b5-bf6e-6e0352ec5dba

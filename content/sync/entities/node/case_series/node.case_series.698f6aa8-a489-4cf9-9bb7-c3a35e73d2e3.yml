@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 698f6aa8-a489-4cf9-9bb7-c3a35e73d2e3
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:02:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Mitalio Software'
+created:
+  -
+    value: '2016-07-16T01:33:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:02:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-07-0012
+body:
+  -
+    value: '<p><span>Mitalio is a BPM (Business Process Management) developer with a solid presence in the business enterprise arena. Its installed base includes global corporations in three continents. The announcement of the merger of BEA and Fuego, two well-known BPM competitors, has placed Mitalio in a reactive position. With 140 projects with potential clients around the world in the proposal stage and with an additional 60 pilot projects under way, the BEA announcement is likely to produce fear and uncertainty among its customers. Its effects need to be neutralized as soon as possible. The loss of any of the current projects or an extended decision delay, due to the BEA announcement, may have an undesirable impact on the company financial performance in 2006 and 2007. Mitalio must address this challenge with a decisive e-marketing strategy that boosts the sales pipeline and helps position the company as thought leader in the BPM field.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-07-0012
+field_case_page_length:
+  -
+    value: '15 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: e5138740-dc7c-44d8-8e83-470a4d52e9da
+field_case_series_year:
+  -
+    value: '2007-01-01'
+field_case_setting:
+  -
+    value: 'United States, global'
+field_case_source:
+  -
+    value: 'General experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1307eb83-fc7a-44e4-8d3a-6c0d56724c93
+field_teaching:
+  -
+    value: 'The case deals with the need to make drastic changes to the marketing strategy of a high-technology company serving business-to-business customers. The firm needs to figure ways of balancing the use of traditional and electronic media to develop its brand and improve the effectiveness of the sales process. It needs to move fast and make use of sophisticated electronic tools to define its thought leadership and gain share of voice. The portfolio of new tools available is complex, and includes white papers, e-books, e-mail newsletters, webinars, wikis, research and survey reports, blogs, podcasts, vlogs. Thy must be integrated with the traditional media and help deliver the level of differentiation necessary to sustain a strong sales pipeline. This case illustrates the role of marketing as an enabler and supporter of the sales organization, and shows the complexities of developing an e-marketing strategy.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.e5138740-dc7c-44d8-8e83-470a4d52e9da
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.1307eb83-fc7a-44e4-8d3a-6c0d56724c93

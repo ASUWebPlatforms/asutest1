@@ -1,0 +1,49 @@
+uuid: 8a3592cf-2a57-461e-97c6-8a9b4f3efe13
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.download.field_download
+    - field.field.paragraph.download.field_download_date
+    - field.field.paragraph.download.field_download_label
+    - field.field.paragraph.download.field_icon
+    - paragraphs.paragraphs_type.download
+  module:
+    - datetime
+    - file
+    - fontawesome
+id: paragraph.download.default
+targetEntityType: paragraph
+bundle: download
+mode: default
+content:
+  field_download:
+    type: file_generic
+    weight: 2
+    region: content
+    settings:
+      progress_indicator: throbber
+    third_party_settings: {  }
+  field_download_date:
+    type: datetime_default
+    weight: 3
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_download_label:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_icon:
+    type: fontawesome_icon_widget
+    weight: 4
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

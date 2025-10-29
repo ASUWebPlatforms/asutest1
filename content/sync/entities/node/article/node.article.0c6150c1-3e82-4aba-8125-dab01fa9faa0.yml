@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 0c6150c1-3e82-4aba-8125-dab01fa9faa0
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-10-23T19:10:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5ea0e9c4-e373-49d5-a651-bae8e5842940
+title:
+  -
+    value: '5 Things I Learned from T-Bird Alumni at Career Weekend'
+created:
+  -
+    value: '2017-10-16T11:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-10-23T19:10:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/5-things-i-learned-t-bird-alumni-career-weekend
+body:
+  -
+    value: "<p>By Amanda Cardini '18, Master of Arts in Global Affairs &amp; Management<br><em>Das Tor Staff Writer</em></p>\r\n<p>[[{\"fid\":\"8470\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"5 Things I Learned from Career Weekend \",\"field_file_image_title_text[und][0][value]\":\"5 Things I Learned from Career Weekend \"},\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"5 Things I Learned from Career Weekend \",\"field_file_image_title_text[und][0][value]\":\"5 Things I Learned from Career Weekend \"},\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"5 Things I Learned from Career Weekend \",\"field_file_image_title_text[und][0][value]\":\"5 Things I Learned from Career Weekend \"},\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"5 Things I Learned from Career Weekend \",\"field_file_image_title_text[und][0][value]\":\"5 Things I Learned from Career Weekend \"},\"5\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"5 Things I Learned from Career Weekend \",\"field_file_image_title_text[und][0][value]\":\"5 Things I Learned from Career Weekend \"}},\"attributes\":{\"alt\":\"5 Things I Learned from Career Weekend \",\"title\":\"5 Things I Learned from Career Weekend \",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"5\"},\"link_text\":null}]]A few weeks ago, the <a href=\"/node/574\" target=\"_blank\">Thunderbird Career Management Center</a> hosted a career weekend filled with events designed to help new students prepare for job and internship searches. I’ll be the first to admit that I wasn’t necessarily thrilled about the prospect of attending—we had just gone through <a href=\"/node/2136\" target=\"_blank\">Foundations</a>, and I was definitely ready for a break from jam-packed weekends. It wasn’t until after attending that I realized just how valuable the weekend was.The scheduled events ended up being instructive in a number of ways, from résumé building, to interview tips and even business dining etiquette. What I found to be the most useful, though, were <a href=\"https://thunderbird.asu.edu/alumni\" target=\"_blank\">the connections I made with various alumni </a>over the course of the weekend. Some offered advice and some shared experiences, but I learned something from each of them...</p>\r\n<h3><a href=\"http://dastornews.com/2017/09/5-things-i-learned-from-t-bird-alumni-at-career-weekend/\" target=\"_blank\">Read the rest of the story...</a></h3>\r\n<p><a href=\"http://dastornews.com/2017/09/5-things-i-learned-from-t-bird-alumni-at-career-weekend/\">[[{\"fid\":\"7957\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Das Tor, Thunderbird Student Newspaper\",\"field_file_image_title_text[und][0][value]\":\"Das Tor, Thunderbird Student Newspaper\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Das Tor, Thunderbird Student Newspaper\",\"field_file_image_title_text[und][0][value]\":\"Das Tor, Thunderbird Student Newspaper\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Das Tor, Thunderbird Student Newspaper\",\"title\":\"Das Tor, Thunderbird Student Newspaper\",\"style\":\"vertical-align: middle;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</a></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 620
+    height: 413
+    target_type: file
+    target_uuid: d1e92c9b-f01c-4922-b231-a962254d6fa4
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f9b396a9-1349-41b8-8985-b0c482ea3570
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.5ea0e9c4-e373-49d5-a651-bae8e5842940
+    file:
+      - file.image.d1e92c9b-f01c-4922-b231-a962254d6fa4
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f9b396a9-1349-41b8-8985-b0c482ea3570

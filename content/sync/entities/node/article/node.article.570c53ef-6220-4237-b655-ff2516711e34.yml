@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: 570c53ef-6220-4237-b655-ff2516711e34
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-03-14T21:34:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Why Global Mindset® is Essential'
+created:
+  -
+    value: '2017-03-13T19:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-14T21:34:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/global-mindset-essential
+body:
+  -
+    value: |-
+      <p>[[{"fid":"4527","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"global-mindset","field_file_image_title_text[und][0][value]":"global-mindset"},"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":"global-mindset","field_file_image_title_text[und][0][value]":"global-mindset"}},"attributes":{"alt":"global-mindset","title":"global-mindset","height":"893","width":"1310","style":"background-color: transparent;","class":"panopoly-image-original media-element file-default","data-delta":"1"}}]]</p>
+      <p>Thunderbird professors explain why Global Mindset is so essential to organizations’ global success. See why.</p>
+      <p><i>This article is derived from the multimedia flipbook “To Succeed In Global Business, A Global Mindset Is Essential.” For a complimentary download of the flipbook, visit </i><a href="https://thunderbird.asu.edu/global-mindset"><i>https://thunderbird.asu.edu/global-mindset&nbsp;</i></a></p>
+      <p><a href="https://thunderbird.asu.edu/global-mindset"><i><span class="btn btn-primary">Download Global Mindset Flipbook</span><br><!--break--></i></a><i> </i></p>
+      <p>Global Mindset is the set of individual qualities and attributes that help a manager influence individuals, groups, and organizations from other parts of the world. It’s part personality, part know-how, and it is essential for success in our increasingly interconnected world. Because even as business expands between diverse cultures, culture remains integral. The only way for a business to succeed across cultures is to have managers with strong Global Mindset.</p>
+      <p>Companies often send executives overseas on the assumption that a successful track record at home is a good predictor of success anywhere. It’s understandable that companies lean on those who have excelled at home to lead their global expansion. But even being posted overseas and being exposed to new cultures doesn’t automatically give an executive the ability to lead a cross-cultural team. Left alone, it can take years for an executive to learn and succeed in the global environment.</p>
+      <p><i>“The only way for a business to succeed across cultures is to have managers with strong Global Mindset.” <a href="https://ctt.ec/1eNpM">Click to tweet</a><a href="https://ctt.ec/1eNpM"><br></a></i></p>
+      <p><i><i><i>The world is far more complex than we may think. Technology makes it easy for businesses to connect across borders and most companies, even the smallest businesses, have clients, partners, and suppliers around the world. Projects, conference calls, meetings, and emails happen at all hours of the day and night. It’s no longer extraordinary to be working in Dubai, managing teams in Germany, dealing with partners in India, and selling to clients in South America.</i></i></i></p>
+      <p>Indeed, the world can seem quite small. But exposure to other cultures and other ways of doing business is not enough to guarantee global business success. Global leaders need more. In a <a href="https://www2.deloitte.com/content/dam/Deloitte/at/Documents/human-capital/hc-trends-2015.pdf">Deloitte survey</a> of 3,300 business leaders from 106 countries, respondents cited culture, leadership, and engagement as top concerns. These global companies said they are struggling to develop leaders at all levels, and that a lack of such talent is the primary constraint on their global expansion plans.</p>
+      <p>Ken Bouyer, Director of Inclusiveness Recruiting, Ernst &amp; Young LLP, explains it well: “Businesses are increasingly finding growth opportunities in emerging countries and are called upon to provide globally integrated, seamless services to multinational clients. Those that emerge as the frontrunners will attract world-class talent and support them in developing a global mindset. In today’s changing landscape, a global mindset has become a prerequisite for helping to build deep client relationships and to navigate economic and regulatory differences around the globe.”</p>
+      <p>As Thunderbird Professor <a href="https://thunderbird.asu.edu/mansour-javidan">Mansour Javidan</a> and two of his colleagues, Thunderbird Professor <a href="https://thunderbird.asu.edu/mary-teagarden">Mary Teagarden</a> and David Bowen wrote in Harvard Business Review, “People today are now more informed and better connected to others around the world than at any other time in history. The problem is that despite business globalization and geographical interconnection, most of us are not educated to work with people who are unlike us. We need leaders who can see past culture and politics to engage people who are wholly unlike themselves. Leaders with a Global Mindset.”</p>
+      <blockquote>
+      <p><i>“We need leaders who can see past culture and politics to engage people who are wholly unlike themselves. Leaders with a Global Mindset.” – <a href="https://ctt.ec/f3xNl">Click to tweet</a></i></p>
+      </blockquote>
+      <p><i><a href="https://ctt.ec/f3xNl"></a></i><i>Much is known about how to globalize a company – how a firm, large or small, can successfully expand beyond its home borders to buy from and sell into markets around the world. But less is known about how to globalize people. Globalizing people is about identifying the individuals who are well suited to handling the complexities of working in another culture – and then training those individuals to thrive on the challenges of global leadership. It is, in other words, about developing leaders with a Global Mindset.</i></p>
+      <p><i>Mansour Javidan teaches these concepts in depth in the Global Mindset for Strategic Leadership program. Enhance your strategic global leadership perspectives and capabilities for increased influence across cultures and greater overall success with global responsibilities. </i><a href="https://thunderbird.asu.edu/executive-education/programs/global-strategic-leadership"><i>Learn more about the Global Mindset for Strategic Leadership program.</i></a></p>
+      <p><strong>Share your story!</strong></p>
+      <p>How has Global Mindset come into play in your career? Share your story on <a href="https://www.linkedin.com/company/7598">LinkedIn</a>, <a href="https://www.facebook.com/ThunderbirdSchool/">Facebook</a>, and <a href="https://twitter.com/thunderbird">Twitter</a>.</p>
+      <p><strong>Learn more</strong></p>
+      <ul>
+      <li>Get the multimedia flipbook <i><a href="https://thunderbird.asu.edu/global-mindset">To Succeed In Global Business, A Global Mindset Is Essential</a></i></li>
+      </ul>
+      <p>&nbsp;</p>
+      <p><strong>Read More!</strong></p>
+      <p><a href="https://thunderbird.asu.edu/knowledge-network/global-mindset-what-international-business-leaders-need-succeed">A Global Mindset in Business Is the Difference Between Success &amp; Failure</a></p>
+      <p><a href="https://thunderbird.asu.edu/knowledge-network/measuring-global-mindset-article">Measuring Global Mindset®</a></p>
+      <p><a href="https://thunderbird.asu.edu/knowledge-network/pop-quiz-how-global-savvy-are-you">Pop Quiz! How Global Savvy Are You?</a></p>
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Graduate Certificate in Global Development'
+    title: 'Graduate Certificate in Global Development'
+    width: 2592
+    height: 1944
+    target_type: file
+    target_uuid: 4b0adb09-c8ba-4251-917a-5cfd14fa7f74
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: beabd1e7-0078-48f5-a52e-9c4f4a9bacf9
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.4b0adb09-c8ba-4251-917a-5cfd14fa7f74
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.beabd1e7-0078-48f5-a52e-9c4f4a9bacf9

@@ -1,0 +1,9 @@
+name: Thunderbird Global
+description: General functionality for Thunderbird.
+package: Thunderbird
+dependencies:
+  - webspark_utility
+  - webspark_blocks
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9

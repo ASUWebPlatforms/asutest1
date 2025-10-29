@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 0e287420-b350-4f52-81ba-5b12284a6d6e
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-10-01T22:30:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Student Consulting Teams Return from Chile, Myanmar & Romania'
+created:
+  -
+    value: '2018-10-01T18:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-10-01T22:30:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/student-consulting-teams-return-chile-myanmar-romania
+body:
+  -
+    value: "<p>[[{\"fid\":\"64905\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Myanmar\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Myanmar \"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab in Myanmar\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Myanmar \"}},\"attributes\":{\"alt\":\"TEM Lab in Myanmar\",\"title\":\"TEM Lab in Myanmar \",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Three teams of Thunderbird graduate students have just returned to campus following their summer <a href=\"/node/2462\">Global Consulting Laboratories</a> in Chile, Myanmar, and Romania. Thunderbird offers extensive applied learning opportunities, including these one-of-a-kind immersive consulting projects for real client organizations around the world. These competitive projects give Thunderbird students the opportunity to apply their education, gain unparalleled hands-on experience, and make a deep impact on their client organization's real-world business operations.</p>\r\n<p>Take a look at what our summer 2018 teams have done:&nbsp;</p>\r\n<h4>Santiago, Chile</h4>\r\n<p>With <a href=\"http://www.technoserve.org/\">international NGO Technoserve</a>, Thunderbird had its first-ever Chilean Thunderbird Emerging Markets Lab (TEM Lab)project. Technoserve runs a well-respected entrepreneurship incubation/acceleration program and connected with our applied-learning team to retain a student consulting team to come to Santiago and document best practices in Chile, while simultaneously mapping all of Technoserve’s incubators/accelerators around the world and preparing best practices as a turn-key operations manual for any Technoserve incubator/accelerator. Students Ted Sordo, Andres Rebolledo, Emitt Bryant, Ashley Rhodes and Mohamed Elsuhimi share their experience in these blogs:</p>\r\n<ul>\r\n<li><a href=\"/node/3373\">Relationships Make the Difference</a></li>\r\n<li><a href=\"/node/3368\">Cycles of Change in Santiago</a></li>\r\n<li><a href=\"/node/3364\">T-birds Land in Chile, Cachai?</a></li>\r\n<li><a href=\"/node/3393\">One Week in Chile</a></li>\r\n</ul>\r\n<h4>Yangon and Heho State, Myanmar</h4>\r\n<p>This project is another in a series of successful engagements with TEM Lab partner Winrock International. <a href=\"https://www.winrock.org/project/vcrd/\">In Myanmar, Winrock implements the USAID program “Value Chains for Rural Development”</a> and works with TEM Lab teams to support agribusinesses around the country to increase both internal capacity and create market linkages on the input and output side of the value chain. Heho Potato, the end client, is similar to many small and growing operations in Myanmar: the owner is capable and motivated but lacks the ability to delegate tasks to other parts of the organization. That is due to a lack of capacity in key roles, but also to a lack of awareness about <i>how</i> to formalize roles within a business so that it can grow. This is a classic SME problem. Students Brandan Bornfield, Tyler Stringham, and Brian Le share their experiences in these blogs:</p>\r\n<ul>\r\n<li><a href=\"/node/3372\">The Great Transformation of Myanmar</a></li>\r\n<li><a href=\"/node/3386\">Southeast Asia’s Last Hidden Gem</a></li>\r\n</ul>\r\n<h4>Cluj-Napoca, Romania</h4>\r\n<p>As with Winrock in Myanmar,&nbsp;<a href=\"https://www.ubbcluj.ro/en/\" target=\"_blank\">Babes-Bolyai University</a> (UBB) is another long-standing TEM Lab partnership. Thunderbird benefits from this relationship thanks to a longer-held ASU relationship with UBB, fostered by <a href=\"https://isearch.asu.edu/profile/74254\" target=\"_blank\">ASU Professor and the Honorary Consul of Romania in Arizona, Ileana Orlich</a>.&nbsp; Professor Orlich was recently<a href=\"https://asunow.asu.edu/20180829-asu-professor-receives-high-honor-romanian-president\"> honored by Romanian President Klaus Iohannis</a> for her work in promoting Romanian language and national identity abroad. The end client in Romania is <a href=\"http://servustech.com/\">ServUsTech</a>, a young technology company which is now targeting the “Internet of Things” as a growth pathway. This TEM Lab team created a strategy for ServUsTech to market its services, primarily to American clients, and made key personnel recommendations to align the company’s internal organization with the stated goals. Read about the experiences of student consultants Justin Hutchings, Ian Blotter, Robert LaMacchia, Parker Andrus and Zach Garcia.&nbsp;</p>\r\n<ul>\r\n<li><a href=\"/node/3370\">Karaoke, Dungeons and Discovery</a></li>\r\n<li><a href=\"/node/3363\">Transylvania, Kittens and Tripe</a></li>\r\n<li><a href=\"/node/3378\">VIDEO: Student Consultants Film Their Day in Romania</a></li>\r\n<li><a href=\"/node/3384\">Another Day, Another Lei</a></li>\r\n</ul>\r\n<h4><a href=\"/knowledge-network/TEM-lab-projects\">&nbsp;Read more blogs from student consulting labs.</a></h4>"
+    format: basic_html
+    processed: ''
+    summary: 'Three teams of Thunderbird graduate students have just returned to campus following their summer-long Global Consulting Laboratories in Chile, Myanmar, and Romania. Thunderbird offers extensive applied learning opportunities, including these one-of-a-kind immersive consulting projects for real client organizations around the world. These competitive projects give Thunderbird students the opportunity to apply their education, gain unparalleled hands-on experience, and make a deep impact on their client organization''s real-world business operations. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1527
+    height: 714
+    target_type: file
+    target_uuid: 520da1c6-3908-40d7-aa80-f525272401c0
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.520da1c6-3908-40d7-aa80-f525272401c0
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

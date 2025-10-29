@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 0ca39431-135f-45da-a4b9-3bea412c5d1a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-07-12T17:48:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3bed6229-ff9f-47f0-a13a-9086de618bd1
+title:
+  -
+    value: 'Alumni! Get involved in CMC Career Weekend'
+created:
+  -
+    value: '2017-07-12T17:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-12T17:48:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /cmc-career-weekend
+body:
+  -
+    value: "<p>[[{\"fid\":\"5986\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Career Preparation Weekend 2017\",\"height\":\"390\",\"width\":\"640\",\"class\":\"panopoly-image-video media-element file-default\"}}]]</p>\r\n<p class=\"btn btn-primary btn-block\"><a href=\"https://goo.gl/forms/Q8I9ynG3S8XSbcnf1\">Click here to sign up!</a></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Thunderbird''s Career Management Center is looking for alumni volunteers to help current T-birds prepare for networking and job searches! Watch the video.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 4752
+    height: 3168
+    target_type: file
+    target_uuid: c2c7029d-e2dd-4dbd-aa54-933b758e821b
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.3bed6229-ff9f-47f0-a13a-9086de618bd1
+    file:
+      - file.image.c2c7029d-e2dd-4dbd-aa54-933b758e821b
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

@@ -1,0 +1,22 @@
+uuid: 4ce9bfd8-420d-4efe-b198-cd0b92dcb334
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.case_series_authors
+id: taxonomy_term.case_series_authors.status
+field_name: status
+entity_type: taxonomy_term
+bundle: case_series_authors
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

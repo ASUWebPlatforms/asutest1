@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 28cc5dad-9e0b-4c4a-8301-6823b877bf7b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Fathers of Daughters will Change the World'
+created:
+  -
+    value: '2016-06-21T19:19:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/fathers-of-daughters
+body:
+  -
+    value: "<p>The title of this blog is a belief that was ingrained into me on a trip to Afghanistan in 2012.&nbsp; It is not a belief in the future – it is a statement of what is already happening.</p>\r\n<p>Afghanistan is not the location you might guess I would come by this belief, but there it was, clear as day.&nbsp; As we visited the businesses of women who had graduated from our entrepreneurship education programs, I met the proud fathers of these exceptional and brave women.&nbsp; And I met their husbands, who were in their turn becoming proud fathers of young daughters who could look up to their mothers as role models of women’s empowerment and strength.&nbsp; These men looked at their wives and daughters with true caring and respect, supporting them through dangers and hardships, and inspiring them to keep moving towards their dreams.</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>“I am where I am because my father always told me you are the example for your siblings to follow.”&nbsp; ~Paula, Chile</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>It is often the fathers who have ensured that their daughters are literate and educated.&nbsp; Fathers who encouraged and gave their permission for their children to start businesses against the norm of their society.&nbsp; These fathers were eager to tell me through interpreters how they knew that their daughter was smart and special, and that she would help to change their nation’s future for the better.&nbsp; Their pride was palpable, and inspiring to me as much as to their daughters.</p>\r\n<p>And, so it is with these special men in mind that Thunderbird for Good gives a slightly belated salute to the wonderful Fathers of the world, in the words of our own graduates&nbsp;<span>from Afghanistan and Peru.</span></p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p>[[{\"fid\":\"2912\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Fathers of Daughters\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Fathers of Daughters\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><span>NoorJahan’s father proudly showing us her showroom during our visit in 2012</span></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><span>NoorJahan, Afghanistan, 10,000 Women graduate</span></p>\r\n<p>“My Father is like a Sun in my life that shines in my life with his support.&nbsp; He is like a cloud on my head that protected me from males and society and he is like a mountain for me to recline on which never shakes (falters). My father never left me alone, never differentiated between me and my brothers and he supported me even when my brothers were against my decision to run a business and travel to different countries for business.&nbsp; It has always been said that behind a successful man there is a woman’s hand, but behind my success in business is the hand of my father and his support and love.”</p>\r\n<p><span>Patricia, Peru, DreamBuilder graduate</span></p>\r\n<p>\"My parents play an important role in my life.&nbsp; My father has always motivated me to do my best, to be transparent.&nbsp; Thanks to his advice, I managed to build my business and raise my little daughter. When I'm in my struggles, when I have problems or difficult times, I often remember his wonderful teachings.&nbsp; It is a blessing to continue to count on his presence. And now his granddaughter also follows the same path... Thanks, Dad!”&nbsp;</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>“I am where I am because my father always told me how much he loved me.”&nbsp; ~Paula, Chile</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><span>Roya, Afghanistan, 10,000 Women graduate</span></p>\r\n<p>“My father is not only a father for me but a best friend also. He is a business owner and from my childhood he encouraged me to focus in his business and learn the skills of business. My father is my rights hand in each step of my life. He supported me in education, business and saved me from domestic and cultural issues. He always pushed me to become independent and have a personality (of my own); although he has a fame name in business in Afghanistan, he always feels pride to hear that he is the father of Roya, business owner of Herat.</p>\r\n<p>My father shared the knowledge of his business with me to support me and to make my business successful. Without caring about cultural and tribal issues, he sent me to</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>“I am where I am because my father always told me you have to give your best.”&nbsp; ~Valeria, Chile</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>Kabul to attend the 10,000 Women training and be a member of such a great program in the region.&nbsp; Months before with the support of my father, I succeeded in opening a women’s GYM in Herat. I feel proud of my father; he is like an angel in my life. He is the man who made me dream bigger and achieve my dreams and he is the man who taught me that nothing is impossible in the world if you work hard and dream big.”</p>\r\n<p><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p>[[{\"fid\":\"2913\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Fathers of Daughters\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Fathers of Daughters\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p><span>&nbsp;Asila and her father</span></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><span>Asila, Afghanistan, Project Artemis graduate</span></p>\r\n<p>“My father has been a great supporter of me throughout my lifetime. He has been always beside me and supported me in the tough situations of my life; I found him a source of my strength and power in my life. Although my father has a very strong and respected reputation, he has urged me to create my own personality and reputation for helping others.&nbsp; Now I work hard to make a personality for myself as a woman who is able to rescue people because of my reputation for helping others.&nbsp;</p>\r\n<p>When education and learning English and studying school lessons during the Taliban regime was impossible and was known as a crime by the Taliban government for women and girls, he made it possible for me. First he found an English teacher for me and then every day he dropped me and picked me from course to study and learn English hidden from the society and people.&nbsp; He also paved the way for me to study my school lessons during the Taliban regime and rescued me from staying in the darkness of illiteracy.</p>\r\n<p>He has not been only a dad for me, he has always been like a friend and an angel who helped me to achieve my life goals and wishes. My father gave me the greatest gift anyone could give another person, he believed in me and always he encouraged me that you can achieve whatever you want and that was the greatest energy and motivation for me. So today whatever I am it’s the result of his trust and his believe on me and partially my hard work with the support of my parents.\"</p>\r\n<p><span><strong>Happy Belated Father’s Day to all of you Dads out there.&nbsp; You are the secret weapon in women’s empowerment.&nbsp; We may not talk about you all the time, but your daughters know how much you changed our world.&nbsp;</strong></span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

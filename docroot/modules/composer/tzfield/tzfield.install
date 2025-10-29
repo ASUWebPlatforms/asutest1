@@ -1,0 +1,44 @@
+<?php
+
+/**
+ * @file
+ * Time zone field install functions.
+ */
+
+use Drupal\Core\Field\BaseFieldDefinition;
+use Drupal\Core\StringTranslation\TranslatableMarkup;
+use Drupal\Core\Utility\UpdateException;
+
+/**
+ * Add index to time zone fields.
+ */
+function tzfield_update_8101(array &$sandbox): TranslatableMarkup {
+  if (!isset($sandbox['fields'])) {
+    $sandbox['fields'] = [];
+    $field_map = Drupal::service('entity_field.manager')
+      ->getFieldMapByFieldType('tzfield');
+    foreach ($field_map as $entity_type_id => $fields) {
+      foreach (array_keys($fields) as $field_name) {
+        $sandbox['fields'][] = [$entity_type_id, $field_name];
+      }
+    }
+    $sandbox['progress'] = 0;
+    $sandbox['max'] = \count($sandbox['fields']);
+  }
+  if ($sandbox['fields']) {
+    [$entity_type_id, $field_name] = array_shift($sandbox['fields']);
+    $definition = Drupal::entityDefinitionUpdateManager()
+      ->getFieldStorageDefinition($field_name, $entity_type_id);
+    if ($definition instanceof BaseFieldDefinition) {
+      $definition = BaseFieldDefinition::createFromFieldStorageDefinition($definition);
+    }
+    if (!isset($definition)) {
+      throw new UpdateException('Time zone field definition is undefined.');
+    }
+    Drupal::entityDefinitionUpdateManager()
+      ->updateFieldStorageDefinition($definition);
+    $sandbox['progress']++;
+  }
+  $sandbox['#finished'] = $sandbox['max'] ? $sandbox['progress'] / $sandbox['max'] : 1;
+  return Drupal::translation()->formatPlural($sandbox['progress'], 'An index has been added to one time zone field.', 'An index has been added to @count time zone fields.');
+}

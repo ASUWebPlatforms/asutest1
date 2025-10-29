@@ -1,0 +1,67 @@
+display:
+  default:
+    display_title: મૂળભૂત
+    display_options:
+      fields:
+        media_bulk_form:
+          action_title: ક્રિયા
+      filters:
+        status:
+          expose:
+            label: 'પ્રકાશન સ્થિતિ'
+          group_info:
+            label: પ્રકાશિત
+            group_items:
+              1:
+                title: પ્રકાશિત
+        name:
+          expose:
+            label: નામ
+        langcode:
+          expose:
+            label: ભાષા
+  page:
+    display_title: પ્રુષ્ઠ
+    display_options:
+      fields:
+        media_bulk_form:
+          action_title: ક્રિયા
+        name:
+          separator: ', '
+        edit_media:
+          text: 'સંપાદિત કરો'
+        delete_media:
+          text: 'કાઢી નાખો'
+  widget:
+    display_options:
+      arguments:
+        bundle:
+          exception:
+            title: બધા
+      filters:
+        name:
+          expose:
+            label: નામ
+      header:
+        display_link_table:
+          label: કોષ્ટક
+  widget_table:
+    display_options:
+      fields:
+        name:
+          label: નામ
+        uid:
+          label: લેખક
+        changed:
+          label: 'અધતન થયું'
+      arguments:
+        bundle:
+          exception:
+            title: બધા
+      filters:
+        name:
+          expose:
+            label: નામ
+      header:
+        display_link_table:
+          label: કોષ્ટક

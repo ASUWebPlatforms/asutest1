@@ -1,0 +1,34 @@
+uuid: 9dd92099-9533-4a74-800e-42f1c0d6efad
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.media.story_hero.field_media_image
+    - image.style.story_hero
+    - media.type.story_hero
+  module:
+    - image
+_core:
+  default_config_hash: Y-UIlWjJB1M0eEULrfvaUL2eA8s-k2e490BB8Mgpqp8
+id: media.story_hero.default
+targetEntityType: media
+bundle: story_hero
+mode: default
+content:
+  field_media_image:
+    type: image
+    label: visually_hidden
+    settings:
+      image_link: ''
+      image_style: story_hero
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  langcode: true
+  name: true
+  thumbnail: true
+  uid: true

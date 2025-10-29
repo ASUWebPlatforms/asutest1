@@ -1,0 +1,28 @@
+uuid: c232a3ab-95a5-4568-a5c7-327864d419f7
+langcode: en
+status: true
+dependencies:
+  config:
+    - crop.type.images_block
+  module:
+    - crop
+_core:
+  default_config_hash: oTgAu5W8I0OaRSJt9DwRfMgJAtEPKgn_z1rRBfPEppM
+name: block_image_lge
+label: 'Block Image 4:3 LGE'
+effects:
+  84e86f53-c681-43db-bab9-96ca933f1e43:
+    uuid: 84e86f53-c681-43db-bab9-96ca933f1e43
+    id: crop_crop
+    weight: -10
+    data:
+      crop_type: images_block
+      automatic_crop_provider: null
+  e71d3617-e0aa-46cb-bcfc-3f5a06a21fc6:
+    uuid: e71d3617-e0aa-46cb-bcfc-3f5a06a21fc6
+    id: image_scale
+    weight: -9
+    data:
+      width: 1200
+      height: null
+      upscale: true

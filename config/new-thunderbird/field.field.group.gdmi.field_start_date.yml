@@ -1,0 +1,21 @@
+uuid: 4e6d4f19-bc27-4ea9-8af9-31431903489c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.group.field_start_date
+    - group.type.gdmi
+  module:
+    - datetime
+id: group.gdmi.field_start_date
+field_name: field_start_date
+entity_type: group
+bundle: gdmi
+label: 'Start Date'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: datetime

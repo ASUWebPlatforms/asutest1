@@ -1,0 +1,10 @@
+uuid: aece1e04-f946-4dc4-b1a2-b7b18d64d32c
+langcode: en
+status: true
+dependencies: {  }
+id: gdmi_expand_participants
+label: 'GDMI Expand participants'
+traits: {  }
+locked: false
+purchasableEntityType: commerce_product_variation
+orderType: gdmi_expand_participants

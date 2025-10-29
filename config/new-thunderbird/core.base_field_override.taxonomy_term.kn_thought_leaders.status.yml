@@ -1,0 +1,22 @@
+uuid: 551c673b-9bce-4bee-875e-4df2c6f958f3
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.kn_thought_leaders
+id: taxonomy_term.kn_thought_leaders.status
+field_name: status
+entity_type: taxonomy_term
+bundle: kn_thought_leaders
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

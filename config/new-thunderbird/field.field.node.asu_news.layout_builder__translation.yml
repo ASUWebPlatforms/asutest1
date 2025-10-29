@@ -1,0 +1,21 @@
+uuid: ee506bdf-95bb-4402-beb6-b75a7e574bc1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.layout_builder__translation
+    - node.type.asu_news
+  module:
+    - layout_builder_st
+id: node.asu_news.layout_builder__translation
+field_name: layout_builder__translation
+entity_type: node
+bundle: asu_news
+label: 'Layout Labels'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: layout_translation

@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: a026e2d0-3a01-41bc-afba-114e79a36724
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-07-15T23:48:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Future of Work'
+created:
+  -
+    value: '2020-05-27T17:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-07-15T23:48:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/future-work
+body:
+  -
+    value: '<p>The world is changing at a rapid pace—due largely to the technologies that have been created over the past decade. These advances are touching every aspect of our lives and will continue to have a huge impact on the ways we work. As we continue to navigate these changes,&nbsp;Thunderbird is preparing leaders for global success in this new era of disruption and transformation.&nbsp;</p><p>Take <a href="https://castelazocontent.outgrow.us/future-of-work-quiz">this quiz</a> to see how much you know about these changes and learn how you can be better prepared.&nbsp;</p><p><a href="https://castelazocontent.outgrow.us/future-of-work">[[{"fid":"82724","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Future of Work","field_file_image_title_text[und][0][value]":"Future of Work"},"link_text":null,"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":"Future of Work","field_file_image_title_text[und][0][value]":"Future of Work"}},"attributes":{"alt":"Future of Work","title":"Future of Work","class":"media-element file-default","data-delta":"1"}}]]</a></p><div><div class="op-interactive" data-url="https://castelazocontent.outgrow.us/5e83b0bcf7d3437155c4c2c1?vHeight=1" data-width="100%"></div></div><div><div class="op-interactive" data-url="https://castelazocontent.outgrow.us/5e83b0bcf7d3437155c4c2c1?vHeight=1" data-width="100%"></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2500
+    height: 1250
+    target_type: file
+    target_uuid: 5cb7b3db-1efa-42d9-acf7-37e364a4e62d
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+  -
+    target_type: taxonomy_term
+    target_uuid: d56db585-56f6-4a48-b753-745e3a7e210c
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.5cb7b3db-1efa-42d9-acf7-37e364a4e62d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3
+      - taxonomy_term.knowledge_network_tags.e2eab1e1-5a5a-4a17-8337-09b1bea46bda
+      - taxonomy_term.knowledge_network_tags.d56db585-56f6-4a48-b753-745e3a7e210c

@@ -1,0 +1,105 @@
+uuid:
+  -
+    value: 8572b6d7-aeb4-401b-96e0-5d4025193ec8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:55:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Mitalio Software Social Networking'
+created:
+  -
+    value: '2016-07-16T00:45:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:55:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-11-0013
+body:
+  -
+    value: '<p>Mitalio is a software developer with a solid presence in the enterprise business software. Its installed base includes European and American global corporations and its products are also gaining traction with Asian customers. Mitalio, a specialized vendor, competes in a crowded field with many highly regarded technology brands (e.g., IBM, SAP), that cover a much broader spectrum of business applications.</p><p>While IBM, SAP, BEA, Tibco and other major competitors have embraced social media tools almost from the beginning, and showed willingness to learn through trial and error, Mitalio has lacked the internal leadership and vision to build its internal capabilities in Social Media. They need now to play catch up in Social Media, and try to gain parity in a short period of time.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-11-0013
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 069645b0-1bdd-477f-8feb-c72e076e9096
+field_case_series_year:
+  -
+    value: '2011-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'General Experience'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "This case is a sequel of Mitalio Software, and the events described here take place in May 2008, about 1½ years after the original case. The case focuses on the transformation of the sales organization made necessary by the expansion of social media, and the need faced by Mitalio to incorporate it into their sales process. However, the use of this array of new digital tools needed to by tightly integrated with all the traditional marketing programs. The essential message of the case was articulated around the integration of marketing initiatives to increase the volume and quality of sales leads, and accelerate the conversion of leads into sales contracts.\r\n\r\nThis case examines the purpose, contribution, and role of social media tools in the marketing of business software solutions. From a branding perspective, the case examines the concept of thought leadership and its implications for account management and corporate image.\r\n\r\nThe case was developed for an MBA audience, but it can be used as well in a capstone marketing course. The emphasis on the software industry positions it uniquely for graduate courses on high-tech marketing and business-to-business marketing."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.069645b0-1bdd-477f-8feb-c72e076e9096
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

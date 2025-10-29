@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: ee343005-2533-436c-900b-ed02da34b13d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'TEM Lab in Nepal'
+created:
+  -
+    value: '2014-08-05T02:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/tem-lab-nepal
+body:
+  -
+    value: "<p>From July 13th through the 26th, I, in my role as TEM Lab Program Director, was in Nepal working with the Agriculture and Forestry University of Nepal (AFU) to help AFU design an Master’s of Business Administration (MBA) curriculum. &nbsp;I was working through the facilitation of Winrock International’s Farmer to Farmer program, which brings Americans to Africa and Asia in order to share their expertise and build capacity in the host country. &nbsp;My visit is to be the first in an engagement in which we send TEM Lab teams to Nepal and continue to build the capacity of AFU to implement a strong MBA program, and possibly engage with agribusinesses or other groups to develop the agriculture sector in Nepal.</p>\r\n<p>This is my first post on the TEM Lab blog. &nbsp;This website is home to student project blogs from every project that TEM Lab has ever done (even if some of them now live on ‘archive.org’ only). &nbsp;As program director I often travel internationally to visit with clients and begin the consulting process before TEM student teams get engaged. &nbsp;After five years of managing all aspects of this program in which we’ve sent over 50 consulting teams into the field, and trying to impart all that Professor Finney and I have learned about emerging market consulting to our Tbird MBAs, &nbsp;it is high time that I weigh in from my own intense, emerging market consulting engagement. &nbsp;</p>\r\n<p><img src=\"/sites/default/files/_dsc0797.jpg\" alt=\"\" width=\"480\" height=\"222\" class=\"Image img__fid__1689 img__view_mode__default\"></p>\r\n<p>I worked my tail off in Nepal. &nbsp;I was so jet-lagged that when I met the Dean and Executive Committee of AFU that my body was trying to produce adrenaline and go to sleep at the same time. &nbsp;The heat and humidity was like walking through a steamy jungle….because it was a steamy jungle. &nbsp;Cultural vagaries, constantly shifting work expectations and requisite social time necessitated style switching and being “on” nearly every waking hour. &nbsp;The enormity of the task—no less than dragging Nepalese education into the 21st century and solving agribusiness development—drew upon all of my experience and required a very high level of output in a short amount of time. &nbsp;I was mentally and physically exhausted. &nbsp;I loved every second of it.</p>\r\n<p>I plan to explore more of my experience in Nepal with a few more blog posts right here, over the next days and weeks. &nbsp; &nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

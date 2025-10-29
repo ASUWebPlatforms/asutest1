@@ -1,0 +1,5 @@
+gdmi_report.add_form:
+  title: 'Add GDMI report'
+  route_name: entity.gdmi_report.add_form
+  appears_on:
+    - entity.gdmi_report.collection

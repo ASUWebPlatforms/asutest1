@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: c1daad0d-5e82-4cd0-b261-0387a20d04a7
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-05-28T20:13:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'Traveling with Heifer (Part 1)'
+created:
+  -
+    value: '2018-05-18T18:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-28T20:13:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/heifer-1
+body:
+  -
+    value: "<p>By Marissa Garay</p>\r\n<p><strong>Summer 2018 Global Consulting Lab (GCL)</strong><br><strong>Ecuador, Heifer International</strong></p>\r\n<p><span style=\"text-decoration: underline;\"><strong>First Stop: Santa Elena</strong></span></p>\r\n<p>Monday, May 14, Clara (from <a href=\"https://www.heifer.org/ending-hunger/our-work/countries/south-america/ecuador.html\" target=\"_blank\">Heifer Ecuador</a>) picks us up promptly at 6:00 a.m. outside our Airbnb at Quito. The team is excited to begin the journey and to see some of the different projects with which Heifer has partnered. I must clarify, that though this is exciting, it is a rough start since we have 8+ hours of road trip ahead of us. The long journey is made better with music, books, lots of laughter, and of course catching up on sleep. When we finally make it to the province of Santa Elena, Clara takes us to have seafood at a local restaurant by the beach before meeting with the first two entrepreneurs. We meet with two small businesses that produce Palo Santo oil and honey, both of which are located in very rural areas of the province. In both cases, the people really believe in the products that they make, and not only want to have a profitable business, but are also very much concerned about giving back to their community and helping future generations grow and become more successful. While it is a long day for all of us, we are filled with joy having personally witnessed the kind of businesses and people that our work here in Ecuador will be, hopefully, positively impacting.&nbsp;</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"17667\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL's in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL's in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL's in Quito\",\"title\":\"GCL in Quito\",\"style\":\"background-color: transparent; font-size: 1em;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Meeting with Palo Santo entrepreneurs in the province of Santa Elena, Ecuador</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><span style=\"text-decoration: underline;\"><strong>Second Stop: Machala</strong></span></p>\r\n<p>Tuesday’s travel is not very different from the day before. We leave our hotel at 5:00 a.m. and, once again, spend most of the day on the bus. In comparison to the previous day, where we visited businesses at a very early stage, these businesses are more advanced and at a growing stage. Today we meet with three different associations (<i>Nuevo Porvenir, 6 de Julio &amp; Los Isleños</i>) that are dedicated to collecting and selling crab and a particular type of black shellfish. The people share stories about how they go out to the mangroves and collect these animals six days a week. Even though some of these stories involve physical accidents, as well as encounters with pirates and violence, the people are dedicated and in love with what they do and happy to share their experiences. We notice that in the cases of the crab and shell associations, the business involves the whole family; the men are mostly in charge of travelling to the mangroves for the collection, and the women then clean and package the product for selling. Again, we are very touched by how much the community and future generations matter to these entrepreneurs. As a team, we feel incredibly lucky to have the opportunity to be a part of the process that will help these businesses (and communities) achieve their goals.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"17669\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"GCL in Quito\",\"field_file_image_title_text[und][0][value]\":\"GCL in Quito\"}},\"attributes\":{\"alt\":\"GCL in Quito\",\"title\":\"GCL in Quito\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Meeting with Los Isleños association in the province of Machala, Ecuador</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Keep your eye on our blog to hear about the next part of our journey.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1338
+    height: 977
+    target_type: file
+    target_uuid: 07d0a030-7422-49d1-9d7d-ea6a94765d0f
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    file:
+      - file.image.07d0a030-7422-49d1-9d7d-ea6a94765d0f
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

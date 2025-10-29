@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 95559e48-7602-4327-966b-898959e95cf6
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:52:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: c740eac5-4575-4b58-a963-a62837cea4e3
+title:
+  -
+    value: 'Changing the World One Mentor at a Time'
+created:
+  -
+    value: '2018-01-26T23:51:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:52:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/changing-world-one-mentor-time
+body:
+  -
+    value: "<p>By Susan Aumack '88</p>\r\n<p>As we come to the close of #MentoringMonth 2018, I’m reminded about my own experience with mentoring. For more than 25 years I’ve worked in the tech industry -- a male-dominated workplace with lots of challenges especially for women. Along the way I’ve been blessed with several strong female role models and mentors who have enabled me to navigate the dynamic and sometimes cruel corporate landscape of Silicon Valley.</p>\r\n<p>[[{\"fid\":\"11846\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Mentor\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Mentor\"}},\"attributes\":{\"title\":\"Mentor\",\"height\":\"822\",\"width\":\"710\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]&nbsp;</p>\r\n<p>But my journey has been a cake walk compared to women entrepreneurs and business owners in developing nations such as Afghanistan where decades of conflict have ravaged their families, communities, and infrastructure, leaving them without basics such as consistent power, clean water, and a functioning banking system. If that weren’t enough, women are often denied education, cannot travel freely and have been oppressed by a society that considers them little more than property.</p>\r\n<p>Despite these obstacles, according to <a href=\"http://awcci.af/en/reports/\" target=\"_blank\">a report by the Afghanistan Women Chamber of Commerce and Industry</a>, Afghan women entrepreneurs have invested more than $66 million in the Afghan economy, and created more than 47,000 jobs. In business and virtually every other sector, from architecture to journalism to law — even the military and police — Afghan women are local drivers of education, growth and self-reliance. In addition, Harvard Business Review has noted that economies based on business and innovation are powerful drivers for peace. And in Afghanistan, female entrepreneurs may be critical to drive this peaceful future.</p>\r\n<p>However, as noted <a href=\"https://www.usatoday.com/story/opinion/2017/11/01/afghan-women-have-persevered-and-progressed-but-threes-more-done-laura-bush-he-rule-ghani/819452001/\">in a recent USA Today article</a>, more than 680 women-owned businesses in Afghanistan still need mentoring and the transfer of knowledge. It is the most efficient and effective way to help Afghan women grow their businesses with local ingenuity, resources and talent.</p>\r\n<p>I first became aware of the plight of women in Afghanistan in 2002 when a friend cofounded <a href=\"http://http/www.afghanfriends.net\">Afghan Friends Network</a>, a nonprofit focused on education and cultural awareness programs for Afghan women and children. Shortly afterward, I was asked to participate in a new Thunderbird School of Global Management program created by <a href=\"https://thunderbird.asu.edu/global-impact/thunderbird-for-good-programs\">Thunderbird for Good,</a> called <a href=\"https://thunderbird.asu.edu/global-impact/thunderbird-for-good-programs\">Project Artemis</a>. This initiative matched Afghan women entrepreneurs with experienced women business leaders in mentoring relationships. In addition, the women were given an intensive course in business skills, including finance, marketing, and management. They were given networking opportunities with other business owners to gain valuable insight into how to make their businesses a success. It was transformative for them and me.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"11847\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Project Artemis\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Project Artemis\"}},\"attributes\":{\"title\":\"Project Artemis\",\"class\":\"media-element file-default\",\"data-delta\":\"2\"}}]]\r\n<p class=\"caption-text\">Participants at the Project Artemis class of 2013 graduation</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>The benefits of mentoring are numerous. Often, however, I think we underestimate the impact the relationship will have on the mentor. I certainly did. Initially I was worried that this would be a huge time sink and negatively impact my real job. It wasn’t.</p>\r\n<p>I have learned so much from the women I’ve mentored. One woman, Fakhria Momtaz, managed an internet hosting company based in Kabul. She found creative ways to overcome the lack of a stable banking system. She also found ways to support other women business owners in Afghanistan by creating a website to help them sell their products. She has since expanded her business dramatically into other areas and has won many awards for her efforts.&nbsp; I am constantly amazed and inspired by her drive and ingenuity.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"11848\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Award 2017\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Award 2017\"}},\"attributes\":{\"title\":\"Award 2017\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]\r\n<p class=\"caption-text\">Fakhria Momtaz, Project Artemis 2013 graduate, accepting Afghanistan Successful Woman Award in 2017</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>The result of these Project Artemis mentoring relationships has literally changed the world. By investing in and encouraging education and entrepreneurship, the women who participated in the program are creating a more stable environment and a platform for positive and sustainable change. They are not adding to the refugee problem that is tragically impacting so many in the region. They are building a future for their nation that will hopefully bring peace to the region.</p>\r\n<p>So as I reflect on my time as a mentor, I encourage everyone to consider how you might be able to make the world a better place by providing support to someone in need of a little encouragement. You just might find that you get as much if not more benefit from the relationship. I also encourage you to consider supporting programs such as Thunderbird for Good’s Project Artemis.&nbsp; To lend your support <a href=\"https://engage.asu.edu/OrderApi__campaign?id=a1Y30000001GAiFEAW&amp;site=a0J3000000D1KrmEAF&amp;catalogid=a0V0M00000Ah0np\">click here</a>.</p>\r\n<p>#mentoringmonth #thankyourmentor @projectartemis @thunderbird #afghanistan #womenintech #startup #entrepreneur @susanaumack</p>\r\n<p>&nbsp;[[{\"fid\":\"11849\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Susan\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":\"Susan\"}},\"attributes\":{\"title\":\"Susan\",\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]</p>\r\n<p>About the author: Susan Aumack is a software marketing executive, mentor and alumna of Thunderbird. She lives in Santa Barbara CA.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: 'Project Artemis'
+    width: 2048
+    height: 1536
+    target_type: file
+    target_uuid: 1ea94e9e-10fc-48c7-a30b-c5386615ca54
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.c740eac5-4575-4b58-a963-a62837cea4e3
+    file:
+      - file.image.1ea94e9e-10fc-48c7-a30b-c5386615ca54
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

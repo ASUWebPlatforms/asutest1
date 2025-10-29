@@ -1,0 +1,41 @@
+uuid: 9262b7a5-548f-4bdc-a90c-370e83ea77f0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.tab_content_horizontal.field_block
+    - field.field.paragraph.tab_content_horizontal.field_tab_content
+    - field.field.paragraph.tab_content_horizontal.field_tab_title
+    - paragraphs.paragraphs_type.tab_content_horizontal
+  module:
+    - text
+id: paragraph.tab_content_horizontal.default
+targetEntityType: paragraph
+bundle: tab_content_horizontal
+mode: default
+content:
+  field_block:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_tab_content:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_tab_title:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden: {  }

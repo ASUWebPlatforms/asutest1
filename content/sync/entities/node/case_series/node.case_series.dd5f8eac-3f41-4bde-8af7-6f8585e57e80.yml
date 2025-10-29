@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: dd5f8eac-3f41-4bde-8af7-6f8585e57e80
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T20:13:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Citibank - The Confia Acquisition in Mexico (B)'
+created:
+  -
+    value: '2016-07-27T20:13:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T20:13:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-00-0020
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Citibank decided to pursue the acquisition of a failing Mexican bank, Confia, in 1996 after the Tequila effect had hit the country. The process of carrying out this acquisition produced a large number of complications for Citibank as Confia went into insolvency, its president was jailed for misuse of company funds, the bank was indicted in the US for money laundering, and the process of integrating personnel of Confia with those of Citibank-Mexico was repeatedly revised as events required new responses. The case describes the process of acquisition, the integration of the two bank''s personnel, and some of the cultural differences involved.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-00-0020
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8bed5133-6131-4fce-986d-7d2f30371afe
+field_case_series_year:
+  -
+    value: '2000-01-01'
+field_case_setting:
+  -
+    value: Mexico
+field_case_source:
+  -
+    value: 'Field Case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 17df1964-41ab-4ada-8aba-06f76b25c7ea
+field_teaching:
+  -
+    value: "The case is designed to explore the problems and opportunities in managing the 'people' part of an acquisition. Citibank's decision to acquire Confia was relatively simple, involving a careful evaluation of the value of the to-be-acquired institution and then offering a price that did not exceed this value. The process of actually carrying out that acquisition once it was agreed to proceed with it was enormously difficult and slow. The case describes many of the main complications that concerned the people involved in both banks and the leaders of the human resource function at Citibank-Mexico. The focus is not one person's concerns but rather on the broad concern of a firm that want to optimize the process of integrating another into its organization. In sum, the teaching purpose is to lead students through a though process toward developing an 'optimal' method for integrating two organizations in an acquisition. The hurdles that were thrown up against this one were not usual, but they do reflect the kinds of unexpected complications that could arise in any acquisition.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.8bed5133-6131-4fce-986d-7d2f30371afe
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.17df1964-41ab-4ada-8aba-06f76b25c7ea

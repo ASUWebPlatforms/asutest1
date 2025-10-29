@@ -1,0 +1,18 @@
+uuid: 6515b498-b48f-4418-a946-a18aacf11069
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.insight_tags
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: taxonomy_term.insight_tags
+target_entity_type_id: taxonomy_term
+target_bundle: insight_tags
+default_langcode: site_default
+language_alterable: false

@@ -1,0 +1,60 @@
+label: Promoții
+display:
+  default:
+    display_title: Implicit
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Aplică
+          reset_button_label: Resetează
+          exposed_sorts_label: 'Sortare după'
+          sort_asc_label: Ascendent
+          sort_desc_label: Descendent
+      pager:
+        options:
+          tags:
+            previous: ‹‹
+            next: ››
+            first: '« Primul'
+            last: 'Ultimul »'
+          expose:
+            items_per_page_label: 'Elemente pe pagină'
+            items_per_page_options_all_label: '- Toate -'
+            offset_label: Decalaj
+      fields:
+        name:
+          label: Nume
+          separator: ', '
+        offer__target_plugin_id:
+          separator: ', '
+        usage_limit:
+          label: Utilizare
+          separator: ', '
+        usage_limit_customer:
+          separator: ', '
+        start_date:
+          label: 'Data de început'
+          separator: ', '
+        end_date:
+          label: 'Data de sfârşit'
+          separator: ', '
+        operations:
+          label: Operațiuni
+      filters:
+        name:
+          expose:
+            label: Nume
+        code:
+          expose:
+            label: 'Cod cupon'
+        status:
+          expose:
+            label: Stare
+      title: Promoții
+  admin:
+    display_title: Pagina
+    display_options:
+      menu:
+        title: Listă
+      tab_options:
+        title: Listă

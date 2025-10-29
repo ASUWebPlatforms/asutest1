@@ -1,0 +1,41 @@
+uuid: dfad289c-bcbd-495a-9a68-374777bf075d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.tab_content_horizontal.field_block
+    - field.field.paragraph.tab_content_horizontal.field_tab_content
+    - field.field.paragraph.tab_content_horizontal.field_tab_title
+    - paragraphs.paragraphs_type.tab_content_horizontal
+  module:
+    - text
+id: paragraph.tab_content_horizontal.default
+targetEntityType: paragraph
+bundle: tab_content_horizontal
+mode: default
+content:
+  field_block:
+    type: options_select
+    weight: 1
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_tab_content:
+    type: text_textarea
+    weight: 2
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  field_tab_title:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

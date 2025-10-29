@@ -1,0 +1,31 @@
+uuid: 04ce44f0-5386-4c61-a395-494891439ca1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.taxonomy_term.concentrations.field_plan_code
+    - taxonomy.vocabulary.concentrations
+  module:
+    - text
+id: taxonomy_term.concentrations.default
+targetEntityType: taxonomy_term
+bundle: concentrations
+mode: default
+content:
+  description:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_plan_code:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  langcode: true

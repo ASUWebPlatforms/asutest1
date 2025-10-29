@@ -1,0 +1,19 @@
+uuid: 4fb8c46b-35fc-4744-a017-8763122fc5d9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_last_name
+    - paragraphs.paragraphs_type.participants
+id: paragraph.participants.field_last_name
+field_name: field_last_name
+entity_type: paragraph
+bundle: participants
+label: 'Last Name'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

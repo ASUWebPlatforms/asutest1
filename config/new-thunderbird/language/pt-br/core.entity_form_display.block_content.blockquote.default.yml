@@ -1,0 +1,9 @@
+content:
+  field_anchor_menu_settings:
+    settings:
+      title: Parágrafo
+      title_plural: Parágrafos
+  field_blockquote:
+    settings:
+      title: Parágrafo
+      title_plural: Parágrafos

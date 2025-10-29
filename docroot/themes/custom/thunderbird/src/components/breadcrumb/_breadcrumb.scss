@@ -1,0 +1,13 @@
+.system-breadcrumb-block {
+  background: $gray-1;
+
+  ol.breadcrumb {
+    background: none;
+    margin: 0;
+    padding: $breadcrumb-padding-y $breadcrumb-padding-x !important;
+
+    li {
+      max-width: none;
+    }
+  }
+}

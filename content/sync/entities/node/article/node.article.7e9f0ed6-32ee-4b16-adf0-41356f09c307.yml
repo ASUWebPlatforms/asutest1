@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 7e9f0ed6-32ee-4b16-adf0-41356f09c307
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:03:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'The Five Stages of Taking a Business From Idea to Liquidity'
+created:
+  -
+    value: '2017-07-19T13:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:03:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/entrepreneurial-success-starts-basic-fundamentals
+body:
+  -
+    value: "<p>[[{\"fid\":\"6065\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\",\"field_file_image_title_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\",\"field_file_image_title_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\"}},\"attributes\":{\"alt\":\"Take Your Business from Idea to Liquidity\",\"title\":\"Take Your Business from Idea to Liquidity\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Today’s business climate may seem faster, riskier, and more full of promise than ever before. It’s certainly more global, digital, and innovative. But some things haven’t changed. No matter how innovative your product or service may be, your business needs to be firmly rooted in established fundamentals, according to Wolfgang Koester ’91, Thunderbird alumnus and CEO of FiREapps.</p>\r\n<p>“There is no way to fast track the business side. The fundamentals are important,” says Koester whose 32-year career includes launching two high-tech businesses. “Success comes from thinking about finance and debt equity ratios, thinking about your accounts receivables, accounts payables, the predictability of your cash flows.”</p>\r\n<p>A key to success, Koester says, “is keeping your product or service easy to understand. Keep the message easily consumable, keep to one price, to something that people can pick up and never get confused about.”</p>\r\n<blockquote>\r\n<p>&nbsp;<i>“A key to success is keeping your product or service easy to understand.” – <a href=\"https://ctt.ec/WrG2c\">Click to tweet this</a></i><i><a href=\"#_msocom_1\"></a><br></i></p>\r\n</blockquote>\r\n<p><a href=\"https://www.fireapps.com/\">FiREapps</a>&nbsp;is a leading provider of corporate currency analytics and FX exposure management software-as-a-service. Koester co-founded the company in 2000 after 13 years at the helm of a quantitative currency management company.</p>\r\n<p>As part of <a href=\"/node/2524\">the Thunderbird/Phoenix Business Journal Global Speaker Series</a>,&nbsp;Koester drew a crowd to hear his lecture, <a href=\"https://thunderbird.asu.edu/knowledge-network/watch-now-2017-gss\">Five Stages of Entrepreneurial Success</a>. He offered tips and lessons, kind of a playbook drawing on his years of success. He wove together tips that resonate with people in any business and stories specific to foreign currency risk exposure.</p>\r\n<h3>5-step roadmap to success</h3>\r\n<p>Koester fielded questions from the audience in the room and on Thunderbird’s <a href=\"https://www.facebook.com/ThunderbirdSchool/videos/10154462225140146/\">Facebook Live</a>&nbsp;as he outlined five stages that entrepreneurs must negotiate when transitioning a business from an idea to liquidity.&nbsp;The five stages, <a href=\"https://thunderbird.asu.edu/knowledge-network/watch-now-2017-gss\">which he describes&nbsp;anecdotally and in detail in his keynote</a>, are:</p>\r\n<ol>\r\n<li>Getting started</li>\r\n<li>Products – development and release</li>\r\n<li>Distribution/channels</li>\r\n<li>Maturity</li>\r\n<li>Planning for liquidity</li>\r\n</ol>\r\n<p>“To find success, an entrepreneur needs to recognize the five stages and be able to get the most out of each one,”&nbsp;says Koester. Each stage can be seen as a landmark along the journey that a business goes through. “Each stage is unique and has its own challenges, requires the right people to be on board, and leaves the team with lessons that help keep moving to the next stage.”</p>\r\n<p>[[{\"fid\":\"6067\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\",\"field_file_image_title_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\",\"field_file_image_title_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\"}},\"attributes\":{\"alt\":\"Take Your Business from Idea to Liquidity\",\"title\":\"Take Your Business from Idea to Liquidity\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<h3>It's not about just having a business, it's about solving a problem</h3>\r\n<p>A 1991 graduate of Thunderbird School of Global Management, Koester says being a T-bird helped him approach business as a way to solve a problem.</p>\r\n<p>People who want to start a business to run a business are doing it wrong, according to Koester. “You should ask yourself, ‘Am I solving a problem?’ Be clear and honest about what problem you are solving and then ask ‘Is it repeatable?’ Can you keep getting paid to solve that problem? That may seem pretty simple, but it is very important.”</p>\r\n<blockquote>\r\n<p><i>“One of the worst things people do is say, ‘I want to start a business.’ They should be saying, ‘I want to solve a problem, and get paid for it.’” – <a href=\"https://ctt.ec/8UdQg\">Click to tweet</a></i><a href=\"#_msocom_3\"></a></p>\r\n</blockquote>\r\n<p>Creating new technology is not the same as solving a problem. “People get excited about technology firms,” Koester says. “They take technology and make it a priority over the problem they are solving. They end up planning to build something, to create some technology that is so great everyone will come. Good luck with that.”</p>\r\n<p>“Successful businesses, on the other hand, leverage technology to help solve a problem. Solving the problem is the priority, not vice versa,” Koester says. “Once you figure out how to solve the problem, then it’s time to leverage technology to do that faster and better. Technology at the end of the day is all about being faster and better. That’s it.”</p>\r\n<blockquote>\r\n<p>&nbsp;<i>“Successful businesses leverage technology to help solve a problem. Solving the problem is the priority, not vice versa.” – <a href=\"https://ctt.ec/ee9Oa\">Click to tweet this</a></i><i><a href=\"#_msocom_4\"></a><br></i></p>\r\n</blockquote>\r\n<h3>More tips picked up along the way</h3>\r\n<p><strong>Find a great partner</strong> &nbsp;– “Investment companies look for two pretty equal partners who are morally aligned, but don’t really like to do the same things. Never do a 50-50 partnership. Those are the ones that end in lawsuits.Right from the outset, decide who has the say if you don’t agree on something.”</p>\r\n<p><strong>Own your results and get paid</strong> – “Get paid no less than 20% of the value you add to your customer. If you do something that saves somebody a dollar, if you can’t get at least 20 cents on that dollar, you probably don’t have a long-term business.”</p>\r\n<p><strong>Raise money when you have money</strong> – “When we did our A round, the ink wasn’t dry yet and I went to the bank and said I’d like to raise debt against my capital. They said, ‘What are you doing?’ I was going back to Finance 301 where I was taught about debt-equity ratios. You raise your money in the best of times for the worst of times.”</p>\r\n<p><strong>Don’t be the smartest one in the room</strong> – “Fill your team – employees, investors, partners – with people who are better than you. Keep this in mind when you are looking for board members and investors. This is really difficult for some companies to do, but don’t just take money. Find people to help who are excited about your business.”</p>\r\n<p><strong>You are never your own boss</strong> – “A real misunderstanding about being an entrepreneur is that it means you are your own boss. You always have bosses whether it’s your customers or your investors.”</p>\r\n<p><strong>Plan for the next stage</strong> – “Keep your records impeccably from Day One. Keep everything up to compliance as if you were a public company even when you aren’t one. That will make things easier as you move through the stages.”</p>\r\n<p>For T-birds looking for work, Koester says, “You want a guaranteed job coming out of school? Take some time to really understand corporate foreign exchange. The jobs are open.”</p>\r\n<blockquote>\r\n<p>&nbsp;<i>“Even as an #entrepreneur you always have a boss, whether it’s your customers or your investors.” – <a href=\"https://ctt.ec/55R12\">Click to tweet this</a></i></p>\r\n</blockquote>\r\n<p>&nbsp;</p>\r\n<p><i>[[{\"fid\":\"6066\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\",\"field_file_image_title_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\",\"field_file_image_title_text[und][0][value]\":\"Take Your Business from Idea to Liquidity\"}},\"attributes\":{\"alt\":\"Take Your Business from Idea to Liquidity\",\"title\":\"Take Your Business from Idea to Liquidity\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</i></p>\r\n<p><i><a href=\"https://ctt.ec/55R12\"></a></i><strong>Join the discussion!</strong> What are some keys to your entrepreneurial success? Share your insights on <a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>\r\n<p><strong>Subscribe now!</strong> Get global insights delivered to your inbox – sign up for the Knowledge Network monthly newsletter.&nbsp;</p>\r\n<div>\r\n<div>\r\n<div>\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 640
+    height: 427
+    target_type: file
+    target_uuid: 9b619164-aa0d-42bc-9f35-7b1336bf1b50
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: f958611c-a8ea-4ee0-9285-4095ff22667a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.9b619164-aa0d-42bc-9f35-7b1336bf1b50
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.f958611c-a8ea-4ee0-9285-4095ff22667a

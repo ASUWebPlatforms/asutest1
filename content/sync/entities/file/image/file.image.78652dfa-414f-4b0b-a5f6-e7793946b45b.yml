@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 78652dfa-414f-4b0b-a5f6-e7793946b45b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: can_soccers_revival_survive_englands_retreat_from_globalization_.jpg
+uri:
+  -
+    value: 'public://article/can_soccers_revival_survive_englands_retreat_from_globalization_.jpg'
+    url: /sites/default/files/article/can_soccers_revival_survive_englands_retreat_from_globalization_.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 678606
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-04-26T14:45:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-04-26T14:45:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

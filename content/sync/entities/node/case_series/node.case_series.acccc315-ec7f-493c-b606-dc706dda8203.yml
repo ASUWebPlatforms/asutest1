@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: acccc315-ec7f-493c-b606-dc706dda8203
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T23:44:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Global One'
+created:
+  -
+    value: '2016-07-27T23:44:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T23:44:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-98-0014
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>In early 1998, Global One, the alliance between Deutsche Telekom, France Telecom, and Sprint, appointed a new CEO who had previously been a senior executive with Sprint. Publicly, the partners expressed optimism about the future of Global One and its position as a leading global service provider. However, the reality was quite different. The alliance was yet to make a profit and was reportedly plagued by quality and pricing problems. There was also speculation that Sprint could find itself a takeover target. On top of this, the telecommunications service industry was going through wrenching change with national monopolies disappearing, alliances being rapidly formed and terminated, and technologies shifting rapidly.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-98-0014
+field_case_page_length:
+  -
+    value: '15 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1998-01-01'
+field_case_setting:
+  -
+    value: 'Global 1998'
+field_case_source:
+  -
+    value: 'Library case'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: cd0ee17c-d82d-45ba-b051-ac506b444b43
+field_teaching:
+  -
+    value: "On the surface, Global One's mission of providing global one-stop shopping for business and residential customers looks very reasonable. However, accomplishing this mission proves to be very difficult. This case provides the basis for a discussion of alliance strategic rationale and the difficulties of coordinating the interests of three large and very different partners. Cross cultural, national, and organizational issues are important, as is the question of technological change and its impact on alliance structure. The case can also motivate a discussion of the role of alliances in a rapidly changing and highly unpredictable industry. The case can also be used to explore difference alliance forms such as equity joint venture and minority interest.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.cd0ee17c-d82d-45ba-b051-ac506b444b43

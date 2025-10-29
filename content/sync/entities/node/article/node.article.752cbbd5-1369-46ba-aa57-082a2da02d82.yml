@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 752cbbd5-1369-46ba-aa57-082a2da02d82
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-04-23T16:38:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Chapter Connections April 2018'
+created:
+  -
+    value: '2018-04-23T16:38:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-23T16:38:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/chapter-connections-april-2018
+body:
+  -
+    value: "<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p><strong>[[{\"fid\":\"16291\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"38\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"38\"}}]]</strong></p>\r\n<p><strong>South Florida</strong> - Tuesday evening in Delray Beach.&nbsp; Those attending: Doug Fremont '83, Hector Rodriguez ’93, Chapter Leader Karl Palsgaard '11, Laura '80 and Enrique Rodriguez, Mack \"Mickey\" Shaw '66, Mary Lynn Manning '86, Nicole Sydney '00, Stephen McCarthy '09 &amp; Susy Sagy Macario '72.&nbsp;</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p><strong>[[{\"fid\":\"16292\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"39\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"39\"}}]]</strong></p>\r\n<p><strong>Munich</strong> - From L-R: Larry Schulz '73,Urmi Richardson '98, Jamie Richardson '97 ,Thomas Steck '97 , Inka Steck ,Dimitris Kremenopoulos, Chapter Leader Athan Kostopoulos '85, Brad Perkins , ASU , Wally Schoch '76,Tom Lipton.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p><strong>[[{\"fid\":\"16293\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"40\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"40\"}}]]</strong></p>\r\n<p><strong>South Florida</strong> – Kokai Sushi event, those attending: Adriana Vethencourt '00, Andrew '04 and Lisa '02 Green, Ashok Jham '78, Brian Jameson '10 and Soledad Di Paola, Jane Iversen '15, Natalia Iversen and Miguel San Pedro, Julie ‘94 and Hector ‘93 Rodriguez, Chapter Leader Karl Palsgaard '11 and Will Waid, Laurence \"Larry\" Burnet '89 and Luz Maria Restrepo de Burnet '89, Mario Golab '87, Michael Sutton '99, Nicolas Eterovic '06, Patricia Moraes '14, Sophia (Rivera) Turner-Smith '00, Scott Hebditch '79, Victor Hebditch, Andrea Hebditch and Heyneer Mora.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p><strong>[[{\"fid\":\"16294\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"41\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"41\"}}]]</strong></p>\r\n<p><strong>Hong Kong</strong> - T-Birds were celebrating the Thai New Year’s Songkran Festival.&nbsp; The picture was taken nearby in the Kowloon Walled City Park.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p><strong>[[{\"fid\":\"16295\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"42\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"42\"}}]]</strong></p>\r\n<p><strong>San Francisco 40+</strong> - Chapter Leaders Patty Trosclair 90, Gladys Zygadlo ’82 and the Greater San Francisco Bay Area 40+ alumni had a great turnout for their St. Patrick’s Day celebration!</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p><strong>[[{\"fid\":\"16300\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"43\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"43\"}}]]</strong></p>\r\n<p><strong>Milwaukee</strong> - T-bird Tuesday gathering at Taste of India in Brookfield, WI. L-R: Terry Brown ‘90, David Reed ‘89, Jodi Schneider ‘15, Chapter Leader Alexandra Sielaff ’89 and Alexander Davis ’12.</p>\r\n</div>\r\n</div>\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<p><strong>[[{\"fid\":\"16301\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"44\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"media-element file-default\",\"data-delta\":\"44\"}}]]</strong></p>\r\n<p><strong>Thundercouple meetup</strong>&nbsp;- Andy Chen ‘05 and Hui-Chun (Patty) Tsao ‘04, Andrew King ‘04 and Alrifa Alwi ‘04’, Peter ’05 and Martha Sheehy ‘05 (already married prior to T-bird) We were at Andrew and Alrifa's house, to celebrate the birthday of their twin daughters. Joining in on the fun were a total of 7 Thunderkids - Andrew and Alrifa have 3 children, Patty and Andy have 2, as do Martha and Peter.</p>\r\n</div>\r\n<div class=\"col-md-6\">\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n<p class=\"wysiwyg-break\">&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'Local chapters of Thunderbird School of Global Management alumni monthly get-togethers for April 2018. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 360
+    height: 240
+    target_type: file
+    target_uuid: ab26bb54-2c24-4e3e-ac0f-19442fa1685f
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.ab26bb54-2c24-4e3e-ac0f-19442fa1685f
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

@@ -1,0 +1,20 @@
+uuid: 3bb6ab39-ebeb-41df-9cfa-f35264a32999
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.cropped_image_wide
+  module:
+    - path
+id: media.cropped_image_wide.path
+field_name: path
+entity_type: media
+bundle: cropped_image_wide
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

@@ -1,0 +1,77 @@
+uuid:
+  -
+    value: 1272b64a-7f7c-4fbf-92bc-22063d61f829
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-22T18:19:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'TEM Lab 2016- Senegal, Week 5'
+created:
+  -
+    value: '2016-09-21T18:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-22T18:19:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/tem-senegal-week-5
+body:
+  -
+    value: "<p><strong>Twenty Hours Training ANPEJ Executives</strong></p>\r\n<p><span>Tuesday through Friday of this past week was the climax of our consulting project here in Senegal. Normally, consultants just report their findings and give a recommendation, but Billie, Ruben, and I had the opportunity to actually begin the implementation of the recommendations we have been working for five weeks to craft.</span></p>\r\n<p><span>For four days we would wake up around 8 am, get dressed business-casual, and head to a large purple-painted meeting room at the Piscine Olympique in Dakar, Senegal to arrive by 9 am. Each day for five hours we had an audience of 14- one representative from each of the four incubation center sites we visited, one representative from each of the three ANPEJ antennas across Senegal, and seven ANPEJ executives from the Dakar headquarters (auditing, credit department, job insertion/placement, youth development, and directors of operations). Over the four days it was our objective to cover the following material, presented by us in English and translated to French:</span></p>\r\n<ul>\r\n<li>\r\n<p><span>The state of the incubation centers at Linguere, M’Bour, Silane, and Richard Toll</span></p>\r\n</li>\r\n<li>\r\n<p><span>The vision we developed for ANPEJ’s incubation centers going forward</span></p>\r\n</li>\r\n<li>\r\n<p><span>Criteria for hiring staff and selecting student attendees from the many applications that ANPEJ will receive in the future</span></p>\r\n</li>\r\n<li>\r\n<p><span>How to run the centers sustainably (not requiring government funding indefinitely)</span></p>\r\n</li>\r\n<li>\r\n<p><span>How to adjust technical skill and business curriculum using attendee feedback and information from employers across Senegal</span></p>\r\n</li>\r\n<li>\r\n<p><span>How to use market research to determine the location and industry specialization of future incubation centers</span></p>\r\n</li>\r\n<li>\r\n<p><span>A model for determining the cost of getting a center operational and writing a business plan around that</span></p>\r\n</li>\r\n<li>\r\n<p><span>How to establish a management committee made of community leaders and how to appropriately limit their power</span></p>\r\n</li>\r\n<li>\r\n<p><span>How auditing and center evaluation should happen</span></p>\r\n</li>\r\n<li>\r\n<p><span>How to support graduates who start micro enterprises and receive loans</span></p>\r\n</li>\r\n<li>\r\n<p><span>And the best ways to help attendees find jobs before graduation</span></p>\r\n</li>\r\n</ul>\r\n<p style=\"text-align: center;\"><span>[[{\"attributes\":{},\"fields\":{}}]]</span></p>\r\n<p><span>Day one of the training was the most difficult for us. Before it began, we had developed a very detailed agenda of which topics would be covered and when. We were wrong to assume we would be able to stick to this agenda. Fifteen minutes into our presentation we found that our audience wanted answers to questions that we intended to answer later in the week, or questions that we had never considered the answers to, or industry-specific technical questions that were outside our range of abilities to answer as Global Management experts. Ruben was the first presenter and tried his best to hold his ground while a dozen people fired questions at him, which we could only answer accurately if we were given another month in the field. Intervention was needed. Billie and I stopped our translator, Papa Oumar Diagne of Winrock International, and asked that we pause the presentation and go over the agenda we had planned for the week. We spent 30 minutes going over it, which became 30 minutes well spent because our audience told us to nix a few topics they were not interested in and spend more time on topics we had only set aside a short period of time to discuss.</span></p>\r\n<p style=\"text-align: center;\"><span>[[{\"attributes\":{},\"fields\":{}}]]</span></p>\r\n<p><span>That Tuesday evening we spent five hours rearranging topics and doing extra research so as to be prepared for the rest of the week. The agenda was not the only challenge though. The three of us have varying levels of mastery of Spanish, but that only gets us so far in a room full of enthusiastic people arguing in French and Wolof. All of us have some experience with public speaking and teaching, but this experience was far beyond anything we had dealt with before. On Wednesday morning we had a talk with Papa Diagne asking for help to keep us in the loop about the heated conversations that would erupt in the audience when we presented a recommendation that someone found controversial. He tried his very best, but with 17 people besides himself in the room, Papa could only translate so much. He appreciated the energy drinks we got into the habit of bringing him in the morning. With his help and the flexibility of the Thunderbird team, the training only got better each day.</span></p>\r\n<p><span>I would like to discuss something we had not considered, which feedback from the audience prompted us to address and work into our modified recommendations.</span></p>\r\n<p><span>We figured out pretty quickly once we arrived in Dakar that the incubation centers ANPEJ envisions for Senegal are a far departure from what an incubation center is in the United States. In the U.S., small groups of people who already have a business plan and often have already gone to great lengths to get that plan rolling, go to an incubator for guidance and support. In Senegal what ANPEJ is developing are centers where youth can go to learn a set of skills specific to an industry that uses modern manufacturing processes and learn enough business skills that they can go into business for themselves if they cannot find employment at an existing company. When we learned this, we designed our recommendations under the assumption that people would apply solo- just like students apply to go to a university or a technical school in the States. All of our recommendations regarding how to accept student applicants, how to provide business and technical training, and how to support graduates with microenterprises were influenced by this assumption.</span></p>\r\n<p><span>During day three, when finally covering the topic on how to select students from a pool of applicants, the ANPEJ audience stopped me and asked what framework we had developed for choosing how to select groups of people who would apply together with the ultimate goal of pooling their skills and resources after graduation to form a strong microenterprise. I did not know how to respond. We figured solo applicants would meet each other during training and decide if they wanted to work together after graduation. The cultural differences between my team and the Senegalese people was obvious in this moment. Ruben, Billie, and I exchanged glances that said ‘How did we not think of this? Of course small and close-knit groups from communities will want to apply as a team and go into business together!’</span></p>\r\n<p style=\"text-align: center;\"><span>[[{\"fid\":\"3944\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Senegal\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Senegal\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"TEM Lab-Senegal\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab-Senegal\"}},\"attributes\":{\"alt\":\"TEM Lab-Senegal\",\"title\":\"TEM Lab-Senegal\",\"height\":\"444\",\"width\":\"779\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>\r\n<p><span>We huddled up and had a rushed conversation on the topic while the audience around us was talking in French regarding their thoughts on how to pick the best candidates from a pile of group applicants. After a few minutes of huddling we decided that it was best to be humble and admit that we had not prepared specific recommendations for how to deal with selecting and training groups of people. We were able to give them a list of how running a center with both individual learners and group learners would vastly complicate any business and curriculum model that we could propose. We told them we would spend more time contemplating the issue and would add a detailed section about it to our final report, as the agenda for our final day of training was already full of important topics that we could not skimp on.</span></p>\r\n<p><span>As a consultant, how can one be sure that he or she is asking all the right questions during discovery to uncover all the details needed to make a good recommendation? How did we miss this detail that seemed reasonably obvious once it was brought up? During our discovery interviews we asked questions until we were blue in the face and wrote answers until our fingers ached. We asked for answers to questions that often seemed off topic in an attempt to dig up every little morsel of information that would show us the whole picture of the needs of youth going into business in Senegal, but we missed this. What else might we have missed? I sincerely hope I am lucky enough to have another opportunity like this in my lifetime because this was so engaging, challenging, and also very appreciated by the Senegalese we spoke to about our work. Maybe next time I will be better at survey methodology. Thunderbird has a lot of great classes, but as far as I know, not one on that topic.</span></p>\r\n<p><span>&nbsp;</span></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

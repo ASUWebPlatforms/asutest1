@@ -1,0 +1,118 @@
+uuid:
+  -
+    value: 31f7040b-58db-4971-9e2b-4230dd95cc91
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T18:45:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Creating the Future at Southwest Airlines'
+created:
+  -
+    value: '2016-07-16T01:24:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T18:45:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-08-0014
+body:
+  -
+    value: '<p><span>Through three generations of leadership, conservative management and aggressive expansion have guided Southwest Airline’s legendary growth. Herb Keheller, founder and industry revolutionary, introduced a business model that transformed the airline industry; Keheller passed the baton to James Parker and Coleen Barrett, the first man-and-woman team to run an airline, who maintained direction and focus. The company soon experienced cracks in its façade, especially in the wake of 9/11 terrorism, spiraling fuel prices, labor unrest, and new entrants like JetBlue. After reorganization, former CFO Gary Kelly took the helm and gave a speech in which he told employees that the Southwest brand was under attack. Kelly had to weigh many issues if he was to continue the 33-year profitable operation track record. Could Southwest preserve the Herb-centric culture, and was this culture critical to their future success? Would Southwest lose its leadership position to copycats, or, worse, have to copy the copycats to meet customer expectations” What would Southwest do to maintain their cost advantage in light of spiraling fuel costs, costly labor concessions, and intense competition? Finally, was it time to reinvent the 40-year-old company?</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-08-0014
+field_case_page_length:
+  -
+    value: '14 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: b91234b7-5fe6-4964-80d7-0c09e20cd404
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0cbf0739-db16-4c39-97e7-48f5ca9e8218
+field_case_series_year:
+  -
+    value: '2008-01-01'
+field_case_setting:
+  -
+    value: 1966-2006
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+  -
+    target_type: taxonomy_term
+    target_uuid: a940c00d-3667-46c8-af69-61c90ab77b45
+  -
+    target_type: taxonomy_term
+    target_uuid: dfb75b01-ed2a-4294-b672-48c2e46282c4
+field_teaching:
+  -
+    value: "The case provides a vehicle for analyzing the 40+-year life cycle of an organization that changed the rules of the game for an entire industry. Historic information tracks how the rule-breaker strategy evolved, and highlights the role of a focused, strong leader in shaping the business model and the supporting culture and values that drove the company's competitive advantage. The case highlights the contribution of a strong corporate culture capable of adapting in the face of major competitive threats, environmental turbulence, and executive transitions. This is paralleled with a discussion of the importance of robust people policies and practices that are tightly aligned with lean operational practices to support a well-articulated, rule-breaking strategy.\r\n\r\nDetailed information in the case helps the reader understand the low-cost business model, the roots of the unique management philosophy, the challenges of communicating a compelling vision, and the role of succession planning in creating the future. The case fits well into courses on industry and competitive strategy, general management, service management, or strategic human resource management. Concepts from the case include the importance of innovation throughout the company's life cycle, alignment of people practices and operations, and unique challenges encountered at each life-cycle stage; these concepts are applicable in multiple other industries."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.b91234b7-5fe6-4964-80d7-0c09e20cd404
+      - taxonomy_term.case_series_industry.0cbf0739-db16-4c39-97e7-48f5ca9e8218
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e
+      - taxonomy_term.case_series_fields.a940c00d-3667-46c8-af69-61c90ab77b45
+      - taxonomy_term.case_series_fields.dfb75b01-ed2a-4294-b672-48c2e46282c4

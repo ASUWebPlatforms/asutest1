@@ -1,0 +1,27 @@
+display:
+  default:
+    display_options:
+      exposed_form:
+        options:
+          submit_button: 'લાગુ કરો'
+      fields:
+        name:
+          label: વપરાશકર્તા
+          separator: ', '
+        group_roles:
+          label: હોદ્દાઓ
+          separator: ', '
+        changed:
+          label: 'અધતન થયું'
+          separator: ', '
+        created:
+          label: જોડાયા
+          separator: ', '
+        dropbutton:
+          label: ક્રિયાઓ
+      arguments:
+        gid:
+          exception:
+            title: બધા
+  page_1:
+    display_title: પ્રુષ્ઠ

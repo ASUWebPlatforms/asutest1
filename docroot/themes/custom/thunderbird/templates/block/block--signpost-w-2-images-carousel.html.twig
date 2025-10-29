@@ -1,0 +1,32 @@
+{{ attach_library('thunderbird/signpost-three-panel-carousel-library') }}
+{% set classes = [ 
+  'signpost',
+  'three-panel',
+  'block', 
+  'block-' ~ configuration.provider|clean_class, 
+  'block-' ~ plugin_id|clean_class 
+  ] %}
+<div {{ attributes.addClass(classes) }}>
+  {{ title_prefix }}
+  {% if label %}
+    {% block label %}
+      <{{ heading_level }}>{{ label }}</{{ heading_level }}>
+    {% endblock %}
+  {% endif %}
+  {{ title_suffix }}
+  <div class="signposts-container carousel" >
+    <div class="glide">
+      <div class="glide__track" data-glide-el="track">
+        <ul class="glide__slides">
+          {{ content }}
+        </ul>
+      </div>
+      {% if content.field_slide['#items']|length > 1  %}
+        <div class="glide__arrows" data-glide-el="controls">
+          <button class="glide__arrow glide__arrow--left" data-glide-dir="<">Previous slide</button>
+          <button class="glide__arrow glide__arrow--right" data-glide-dir=">">Next slide</button>
+        </div>
+      {% endif %}
+    </div>    
+  </div>
+</div>

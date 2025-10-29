@@ -1,0 +1,98 @@
+uuid: 20b65ec7-6371-467c-8b0f-68767ca70e3d
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_order.commerce_order_type.gdmi_expand_participants
+    - field.field.commerce_order.gdmi_expand_participants.field_group
+  module:
+    - commerce_order
+    - state_machine
+    - user
+id: commerce_order.gdmi_expand_participants.default
+targetEntityType: commerce_order
+bundle: gdmi_expand_participants
+mode: default
+content:
+  completed:
+    type: timestamp
+    label: above
+    settings:
+      date_format: medium
+      custom_date_format: ''
+      timezone: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_group:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 11
+    region: content
+  ip_address:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  mail:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  order_items:
+    type: commerce_order_item_table
+    label: above
+    settings:
+      view: commerce_order_item_table
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  placed:
+    type: timestamp
+    label: above
+    settings:
+      date_format: medium
+      custom_date_format: ''
+      timezone: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  state:
+    type: state_transition_form
+    label: hidden
+    settings:
+      require_confirmation: true
+      use_modal: true
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  total_price:
+    type: commerce_order_total_summary
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  uid:
+    type: author
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  balance: true
+  billing_profile: true
+  changed: true
+  order_number: true
+  store_id: true
+  total_paid: true

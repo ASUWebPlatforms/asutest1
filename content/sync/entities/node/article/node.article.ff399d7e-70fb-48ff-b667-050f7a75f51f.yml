@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: ff399d7e-70fb-48ff-b667-050f7a75f51f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-20T15:47:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: 'Leadership Lessons of General David Petraeus'
+created:
+  -
+    value: '2017-07-10T15:47:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-20T15:47:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: '/knowledge-network/leadership-lessons-of-General- Petraeus'
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">In our interview, the highly decorated general opened up about Obama, loneliness of command, the challenges of being a 4 star in a volatile&nbsp;world.</h3>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf-after--figure\"><em>In a wide ranging, candid interview with America’s most decorated war hero,&nbsp;</em><a href=\"https://youtu.be/kkzzyZLoc6o\" class=\"markup--anchor markup--p-anchor\" data-href=\"https://youtu.be/kkzzyZLoc6o\"><em>General David Petraeus</em></a><em>, we discussed the unfathomable pressures he faced in Iraq, Afghanistan, and the Oval Office. (YouTube video at bottom)</em></p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><em>Whether you run a multinational or a startup in your parent’s garage, the leadership lessons he imparts from the battlefield are all too relevant.</em></p>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><hr class=\"section-divider\"></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<h3 class=\"graf graf--h3 graf--leading\">1. For the times you disagree with the President</h3>\r\n<p>[[{\"fid\":\"5945\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"graf graf--p graf--hasDropCapModel graf--hasDropCap graf--startsWithDoubleQuote graf-after--figure\">“In the Oval Office with President Obama discussing my assignment in Afghanistan, I felt it was very important for him to know who he was getting.”</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\"><em>“</em>Mr. President, you should understand that I will provide my best professional military advice based on the facts on the ground and the mission you’ve given us and informed by the issues with which you have to deal uniquely. I’ll be aware of those, but my advice will be determined by facts on the ground. If those facts are unchanged, so my advice, too, will be unchanged.”</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“That was an interesting, tense moment.”</p>\r\n<blockquote>If carefully thought out principles guide your thinking at all times and you make that clear up front, your ideas will get serious consideration even when they differ from your colleagues or your boss. In the years after, your decision based on facts and moral courage will stand you in good stead while others may wish they had listened.</blockquote>\r\n<h3 class=\"graf graf--h3 graf-after--blockquote\">2. When every decision is life threatening</h3>\r\n<p>[[{\"fid\":\"5946\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<p>&nbsp;</p>\r\n<p class=\"graf graf--p graf--hasDropCapModel graf--hasDropCap graf--startsWithDoubleQuote graf-after--figure\">“To be truly effective under these circumstances, everyone should take the time to develop a philosophy of strategic leadership, in particular of how to get the big ideas, then how to communicate them effectively to the breadth and depth of the organization, and closely oversee their implementation.”</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“The first thing I would say about the success in a region, I’d like to think that I had devoted a great deal of study to understanding the human terrain in Iraq.”</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“Then, spend a great deal of time getting the big ideas right. So be aware that your first thoughts may need to be refined, revised, shot and left by the side of the road, and you may have to do it all over again and again and again.”</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“It also takes a great, great team, and everybody embracing the idea. Finally, there’s a little bit of the stubborn Dutchman in me, taking after my old Dutch sea captain father. It takes a high degree of determination.”</p>\r\n<blockquote>Leadership when viewed from close up has ebbs and flows. This is nothing more than the need to constantly react as shifting circumstances demand. The best leaders, Like General Petraeus, know that finding ways to sustain their focus and commitment in the face of adversity is key to achieving great things, including victories on the battlefield.</blockquote>\r\n<h3 class=\"graf graf--h3 graf-after--blockquote\">3. No one will know what you’re going&nbsp;through</h3>\r\n<p>[[{\"fid\":\"5948\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"3\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"3\"}}]]</p>\r\n<p>&nbsp;</p>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf--hasDropCapModel graf--hasDropCap graf--startsWithDoubleQuote graf-after--figure\">“Part of the problem, and this was true in Iraq but it’s also true in the C suite — you deal with intractable problems day in, day out, and you have few peers that really understand your pressures.”</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“I can recall, after a tough, tough stretch things were finally starting to turn, but there were political battles, the prime minister had issues, the members of the Parliament were causing all sorts of distractions. There was a moment when I just called up the Chairman of the Joint Chiefs, and said: ‘Hey, Admiral. I just want you to know this is not the easiest thing in the world.’ I just felt that somebody needs to know. That’s the final challenge, as they say, that’s the loneliness of command.”</p>\r\n<blockquote>A leader must learn to reach out across, up and down the organization, help colleagues to understand the challenges, and by doing so, find a sense of purpose, balance, and a way forward together.</blockquote>\r\n</div>\r\n</div>\r\n<div class=\"section-divider\"><hr class=\"section-divider\"></div>\r\n<div class=\"section-content\">\r\n<div class=\"section-inner sectionLayout--insetColumn\">\r\n<p class=\"graf graf--p graf--leading\"><em>For the complete interview, click on the image below:</em></p>\r\n<p class=\"graf graf--p graf--leading\"><em>https://youtu.be/kkzzyZLoc6o</em></p>\r\n<p class=\"graf graf--p graf--leading\">&nbsp;</p>\r\n<div>Author’s Bio</div>\r\n<div></div>\r\n<div>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</div>\r\n<div></div>\r\n<div>&nbsp;</div>\r\n<div></div>\r\n<div>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</div>\r\n<div></div>\r\n<div>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series, Iconic Voices, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via JeffCunningham.com.</div>\r\n<div></div>\r\n<div>&nbsp;</div>\r\n<div></div>\r\n<div>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</div>\r\n<div></div>\r\n<div>&nbsp;</div>\r\n<div></div>\r\n<div>He has also been a board director of 10 public companies.</div>\r\n<div></div>\r\n<div>&nbsp;</div>\r\n<div></div>\r\n<div>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</div>\r\n<p class=\"graf graf--p graf--leading\">&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1000
+    height: 512
+    target_type: file
+    target_uuid: f91f9d1a-1a08-4620-988b-14e21195bd78
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    file:
+      - file.image.f91f9d1a-1a08-4620-988b-14e21195bd78
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

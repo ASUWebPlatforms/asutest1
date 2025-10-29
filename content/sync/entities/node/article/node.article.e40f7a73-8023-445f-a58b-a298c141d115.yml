@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: e40f7a73-8023-445f-a58b-a298c141d115
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-08-16T19:51:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 72b54cf5-983c-4312-be14-7231bbd7deda
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: c740eac5-4575-4b58-a963-a62837cea4e3
+title:
+  -
+    value: 'Positive Change Begins with a Woman: Farida Alimy'
+created:
+  -
+    value: '2018-03-07T18:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-16T19:51:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/positive-change-begins-woman-farida-alimy
+body:
+  -
+    value: "<p>In celebration of <a href=\"https://www.internationalwomensday.com/\" target=\"_blank\">International Women’s Day</a> on March 8, we continue to spotlight <a href=\"https://thunderbird.asu.edu/global-impact/project-artemis-afghanistan\">remarkable graduates of Project Artemis</a>, who represent a face of positive change.</p>\r\n<p>Project Artemis is a transformative initiative delivered by <a href=\"https://thunderbird.asu.edu\">Thunderbird School of Global Management</a> that offers Afghan women entrepreneurs intensive business training and mentoring. <a href=\"https://thunderbird.asu.edu/global-impact/project-artemis-afghanistan\">Learn more about Project Artemis </a>and how you can support mentoring programs for Afghan women entrepreneurs.</p>\r\n<div class=\"fancy-divider\"></div>\r\n<h3>Farida Alimy</h3>\r\n<p><a href=\"https://youtu.be/akhGFEPtdq4\">Farida Alimy</a> runs a clothing shop in the woman’s garden in Kabul Afghanistan. It is a safe space for women to interact, enjoy entertainment or even conduct business as no men over the age of 8 are allowed to enter. Farida participated in Project Artemis to understand the basics of business management. With the encouragement of her mentor she has expanded her business outside the woman’s garden and is now working directly with wholesalers throughout the country. She is changing the minds of Afghan men to be willing to work with women. She has become a leader in her community and is encouraging other women to do the same.</p>\r\n<p>[[{\"fid\":\"13618\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"3\":{\"format\":\"default\"}},\"attributes\":{\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"3\"}}]]</p>\r\n<p>#gendergap #afghanistan #womenintech #startup #entrepreneur #changeagent #women @susanaumack @projectartemis @thunderbird</p>\r\n<p>&nbsp;</p>\r\n<p><em>About the author: Susan Aumack is a software marketing executive, mentor </em>and alumna<em> of Thunderbird. She lives in Santa Barbara CA.</em></p>\r\n<p><em>[[{\"fid\":\"13614\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird alumna\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird alumna\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"4\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird alumna\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird alumna\"}},\"attributes\":{\"alt\":\"Thunderbird alumna\",\"title\":\"Thunderbird alumna\",\"class\":\"media-element file-default\",\"data-delta\":\"4\"}}]]</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Farida Alimy from Afghan'
+    title: 'Farida Alimy from Afghan'
+    width: 683
+    height: 469
+    target_type: file
+    target_uuid: 23ebcafd-5424-4554-8bb0-b47f08eb8ef4
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 42727f15-c18b-4311-91eb-155bfa81c6cb
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.72b54cf5-983c-4312-be14-7231bbd7deda
+      - user.user.c740eac5-4575-4b58-a963-a62837cea4e3
+    file:
+      - file.image.23ebcafd-5424-4554-8bb0-b47f08eb8ef4
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.42727f15-c18b-4311-91eb-155bfa81c6cb

@@ -1,0 +1,21 @@
+uuid: 443f4fb2-0c7f-4ded-b593-18077050ea88
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.media.field_caption
+    - media.type.remote_video
+_core:
+  default_config_hash: LjAo13ibMBpOJquzwwmmatPcqqBQfaHsrs-EvLTzNz0
+id: media.remote_video.field_caption
+field_name: field_caption
+entity_type: media
+bundle: remote_video
+label: Caption
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

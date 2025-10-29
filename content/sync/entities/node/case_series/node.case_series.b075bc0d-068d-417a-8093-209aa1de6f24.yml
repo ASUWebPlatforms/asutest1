@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: b075bc0d-068d-417a-8093-209aa1de6f24
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2021-02-03T20:28:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Digital Health Pass: IBM’s Blockchain-Based Health Verification Solution'
+created:
+  -
+    value: '2021-02-03T20:28:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-02-03T20:28:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a04-21-0004
+body:
+  -
+    value: '<p>Digital Health Pass, announced by IBM in October 2020, responded to organizations’ need to verify health status as individuals returned to populated physical locations, such as workplaces, schools and airplane flights, during the COVID-19 pandemic. The Digital Health Pass solution provided users with a mobile app that served as a secure electronic wallet for health status verification. The app retrieved from a secure blockchain-based platform that incorporated multiple data sources, such as test results and onsite temperature scans, as specified by each organization.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A04-21-0004
+field_case_page_length: {  }
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+  -
+    target_type: taxonomy_term
+    target_uuid: af2bace1-7780-4f6c-8e22-0c3722ac5cd6
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: abda86d0-bdb4-4d8f-8526-743cb2b9daf6
+field_case_series_year:
+  -
+    value: '2021-01-01'
+field_case_setting:
+  -
+    value: U.S./Global
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1d672e66-3990-4655-b231-0a38370d24c8
+field_teaching:
+  -
+    value: "1.\tTo expose participants to challenges faced by organization when transitioning to a post-pandemic world.\r\n\r\n2.\tTo gain exposure to a blockchain-based solution in order to better understand the role of digitization in health verification. \r\n\r\n3.\tTo assess the viability of the proposed solution in a crowded market.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678
+      - taxonomy_term.case_series_authors.af2bace1-7780-4f6c-8e22-0c3722ac5cd6
+      - taxonomy_term.case_series_industry.abda86d0-bdb4-4d8f-8526-743cb2b9daf6
+      - taxonomy_term.case_series_fields.1d672e66-3990-4655-b231-0a38370d24c8

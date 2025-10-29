@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 63317721-a9fa-432f-af6b-97e40f814003
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'It begins...'
+created:
+  -
+    value: '2014-11-15T10:19:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/it-begins
+body:
+  -
+    value: "<p>It’s strange that touching down in N’djamena, Chad, after a 20 hour journey via Houston and Turkey, seems to have left all the group members equally exhausted as it left them emotionally energized. The grueling journey, combined with the anti – malaria/yellow fever vaccination hang over (as we call it), were both responsible for some tired bodies and blurry minds. The anticipation however, of entering the Motherland that is Africa, with all its cultural treasures, and distinct vibrations, meant that our spirits were alight with excitement and optimism. Not to mention the thought of engaging top professionals both from the corporate world and the NGO world, whilst giving them a slice of the Thunderbird vibe (a wink is in order, me thinks).</p>\r\n<p>Our first few days in the land of Chad where the desert sand from the Sahara seems to collide with the deep red dirt from West Africa, were as harsh and barren as the terrain itself. &nbsp;A much slower pace than most African cities, N’djemena is plighted with all the classic infrastructural voids that a country that ranks bottom 10 in the human development index is likely to have. Limited internet, poor telecommunications, over expensive accommodation &amp; meals, without the relative comfort and convenience that lovely Glendale (from this perspective) had made us accustomed to, was to blame for our sudden realization that prompted a team mate to say “Sheeez, we are so westernized!”</p>\r\n<p>So the plan is 1 week in the capital, Ndjamena, 3 weeks in the rural areas in Doba and Kome and then a final week back in the capital.&nbsp; The first week can be referred to as the “Where the hell are we and what are we doing here week”.&nbsp; There is a way where intellectually you can be sure of your objectives and goals, but with the well-known tendency for ambiguity and complexity, the nature of the environment consistently reminds you that things can change and will change very quickly. Writing our scope and project plan for the 5 weeks was like a meteorologist predicting the weather in England, you can use all the data you want but you know at any moment it can be thrown right out of the window.</p>\r\n<p>Entering a project with 3 major stakeholders (Africare, ExxonMobil Foundation, Esso Chad), and the social and economic well being of local female entrepreneurs at the center of this dynamic trio meant that a clear and tactful strategy would be required to untangle this web.</p>\r\n<p>&nbsp;‘We are here to learn’, one member says. ‘We are here to teach’, another says. We are here to solve problems and hopefully make a difference in the lives of everyday people. Only T-Birds, with all their cultural and social nuances would approach a project with such diverse internal goals and yet a collective open minded, holistic view of what is to be done.</p>\r\n<p>Our mission is anything but simple. Our motto however is fundamental – We live, we work, we learn.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

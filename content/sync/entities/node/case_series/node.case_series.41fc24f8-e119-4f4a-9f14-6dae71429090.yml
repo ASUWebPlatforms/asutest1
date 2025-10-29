@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 41fc24f8-e119-4f4a-9f14-6dae71429090
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T17:54:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Sesame Workshop & International Growth'
+created:
+  -
+    value: '2016-07-27T17:54:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T17:54:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a07-02-0004
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>Sesame Workshop is the producer of Sesame Street, the highly acclaimed children''s educational show. Since its American debut more than 30 years ago, Sesame Street has achieved great success in many countries. In virtually every country where it was introduced, Sesame Street, or a locally produced version of the show, had become an immediate success. Within Sesame Workshop there was a consensus that many interesting international growth opportunities existed. For example, Sesame Street was not broadcast in large market countries such as Brazil, France, or India. There were also opportunities for co-productions in many of the countries where the English language version of the show was broadcast. Evaluating the various international opportunities had to take into consideration several factors. Sesame Workshop was a not-for-profit organization with a mission of educating children and their families globally. But, even though Sesame Workshops was a not-for-profit organization, creating a financially viable and growing organization was a necessity.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A07-02-0004
+field_case_page_length:
+  -
+    value: '17 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4889e799-b8fa-4231-bf67-b95a6456ccd3
+field_case_series_year:
+  -
+    value: '2002-01-01'
+field_case_setting:
+  -
+    value: USA
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0b7f897f-b170-4551-978d-e1cb3723d0db
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: f529db92-edb7-41b5-be92-ea9706dbdf7e
+field_teaching:
+  -
+    value: "This case can be used for several purposes. The case can be used to explore the question of market selection and market entry. How are new international markets selected and evaluated? How are scarce resources allocated across multiple international markets and what metrics should be used to evaluate high and low potential markets? The case could also serve as the basis for a discussion of social responsibility and what it means in the international context. Sesame Workshop has mission markets that have limited financial potential, especially in licensing. Should these markets receive the same amount of management attention as more lucrative markets? Finally, the case could be used to illustrate the specific challenges of not-for-profit organization. Basic issues, such as strategy formulation and organizational structure could be examined and discussed in contrast with for-profit companies.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.4889e799-b8fa-4231-bf67-b95a6456ccd3
+      - taxonomy_term.case_series_categories.0b7f897f-b170-4551-978d-e1cb3723d0db
+      - taxonomy_term.case_series_fields.f529db92-edb7-41b5-be92-ea9706dbdf7e

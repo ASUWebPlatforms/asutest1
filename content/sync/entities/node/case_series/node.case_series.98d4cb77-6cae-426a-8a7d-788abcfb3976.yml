@@ -1,0 +1,103 @@
+uuid:
+  -
+    value: 98d4cb77-6cae-426a-8a7d-788abcfb3976
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-18T01:40:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Aussie Pies D'
+created:
+  -
+    value: '2016-07-16T01:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-18T01:40:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /aussie-pies-d
+body:
+  -
+    value: '<p><span>In 2005, Anna Amphlett and Andrew Ferris established Aussie Pies to produce and distribute authentic Australian meat pies after observing the popularity of the pot pies on a visit to Australia. Seattle’s Pike Street Market was chosen for the location of the first store because it was a favorite destination for international travelers who were ready consumers of new and exotic products. After initiating an aggressive sales and marketing effort, and the introduction of new products, Aussie Pies grew rapidly from a single store and sales of $6 million in 2006 to 10 stores and sales of $10.35 million by 2009. Yet, the company’s rapid growth in revenues was accompanied by declining profits and a substantial increase in receivables, inventories, and capital investments in new stores. The resulting cash outflows were financed by increased borrowing from Bank of America as well as stretching the company’s payables, i.e., taking longer to pay suppliers. Bank of America reluctantly increased the maximum amount available to the company under its term loan to $3 million from $2 million. In early January 2010, Jan Muska, the company’s chief financial officer, was unsure whether the new credit limit would permit the company to implement its growth strategy of opening five new stores in 2010.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-07-0017
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 215fca72-6707-4393-83e6-fa7e2ca6bb82
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: b728304a-07ee-4b75-b2f9-3dfe1f457a65
+field_case_series_year:
+  -
+    value: '2007-01-01'
+field_case_setting:
+  -
+    value: 'Seattle, U.S'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  - {  }
+field_teaching:
+  -
+    value: 'The purpose of the case is to evaluate the company’s recent financial performance, determine whether the company’s planned growth strategy can be financed within the new credit limits, and to assess alternative courses of action that might be available to improve the company’s future performance. First, students are asked to consider the company’s business strategy and whether it’s likely to yield a sustainable competitive advantage. Second, students are asked to develop cash flow statements for 2007-2009 to assess the company’s cash generation. The cash flow statement indicates that the decline in the company’s cash flow from operations is a result of ballooning receivables and inventory. At the same time, the company’s capital expenditures on new stores have accelerated, causing the company to finance the shortfall by relying on bank debt and stretching its accounts payable. Third, students are asked to conduct an analysis of the company’s recent performance to diagnose its problems. An analysis of this profit performance reveals that the company’s rapid sales growth has been accompanied by declining gross profit margins, increasing operating and interest expenses, as well as declining asset utilization. Fourth, students are asked to develop proforma financial statements for 2010 using assumptions developed from the assessment of the company’s past performance and additional data provided in the case. The projections indicate that the company will be unable to finance the planned capital expenditure of $1.035 million within the new credit limits. Finally, students are asked to identify the company’s problems and propose appropriate solutions. Solutions to the company’s difficulties include more aggressive receivable collection, improved inventory, and fixed asset utilization so that Aussie Pies can stay within the loan limits, and enable the company to take advantage of trade discounts as the company reduces the time taken to pay trade creditors.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.215fca72-6707-4393-83e6-fa7e2ca6bb82
+      - taxonomy_term.case_series_industry.b728304a-07ee-4b75-b2f9-3dfe1f457a65
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129

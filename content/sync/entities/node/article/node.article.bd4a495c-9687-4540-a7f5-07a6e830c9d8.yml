@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: bd4a495c-9687-4540-a7f5-07a6e830c9d8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-11T21:11:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+title:
+  -
+    value: 'Take it to Church! '
+created:
+  -
+    value: '2017-09-05T20:46:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-11T21:11:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/take-it-church
+body:
+  -
+    value: "<p><strong>TEM Lab - Fall, 2017</strong><br><strong>Nigeria, CEDVS</strong><br><strong>Written by Team Ubuntu (Fungai Mandanza, Rachel An, Craig Pearson)&nbsp;<br></strong><br>One of the things that attracts potential T-birds to Thunderbird besides the lovely Arizona weather is the international network. T-birds are networking extraordinaires and we believe in the power of securing good relationships. On campus, the ideal place for fostering these connections would be our watering hole, the Pub. Whether you just enjoy a cold one or you cannot resist bartender Patrick’s charm, it’s always a good place to meet people from the community, alumni or current students. It’s a place where we can discuss anything from, “How’s the weather today?” to futures and forwards on the Tokyo Stock Exchange (Shout out to our FORAD peeps).</p>\r\n<p>In Ado-Ekiti, the locals also have such a networking space. It’s just that the location is a little… unconventional. In Ado, they take it to church!</p>\r\n<p>Religion plays a very significant role in Africa. Almost all Africans adhere to one of the Abrahamic religions: Islam and Christianity and these religions are often adopted into African cultural contexts and indigenous belief systems. In our Regional Business Environment Africa class, we learned that about 45% of the African population are Christian and 40.6% are Muslim.</p>\r\n<p><a href=\"/node/149\">Professor Femi Babarinde </a>also told us about the mysticism around religion in Africa. He gave us the example of an African football (soccer) team playing against an English football team: if one were to ask both team captains to talk about their strategies, the African captain’s answer would be, “God’s will.” The English team’s captain, on the other hand, would vividly describe how the midfielder would guard the goal keeper and how the coach was going to save his strongest players for after the 1st half. (Nice tip, Dr. B!) This demonstrates how large a role religion plays in the everyday lives and mindsets of many Africans and the residents of Ado are no exception.</p>\r\n<p>During our second week with Winrock International and The Federal Polytechnic’s Centre for Entrepreneurial Development and Vocational Studies (CEDVS) working to craft the strategy for a business incubator, we were invited to visit Life Fountain Cathedral. The congregation is led by Pastor Goke Kuiti, a trained political scientist who is also very active in the community and youth development. We soon discovered that his church is a hive of many businesspeople in Ado-Ekiti and undoubtedly a bank of potential resources for the incubator we have come to help launch.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6880\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Nigeria Wedding Dancing\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Nigeria\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Nigeria Wedding Dancing\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Nigeria\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Nigeria Wedding Dancing\",\"title\":\"TEM Lab in Nigeria\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Pastor Goke Kuti ministering to his congregation</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>\r\n<p>Church was fun! The interior was decorated with vibrant swaths of color and patterns. The service consisted largely of lively, upbeat music, led by a powerful female vocalist and a chorus of backup singers, and dancing, with a troupe of enthusiastic young dancers up front. Every person in the rather large building was up on their feet and actively taking part in the service, which felt much like a party with all the singing, clapping, stamping of feet, and dancing. Our very own Craig, who had brought his dancing shoes, quickly joined in. By the end of the service, he had obtained the name <i>Oyibo Komele</i> – translated: white boy can dance.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6881\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Craig Dancing\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Nigeria\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Craig Dancing\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Nigeria\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Craig Dancing\",\"title\":\"TEM Lab in Nigeria\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Oyibo Komele (formally known as Craig Pearson)</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><em>Oyibo Komele</em>’s rise to fame quickly spread and he continued to be a hit as we conducted our student surveys at the polytechnic. The students were excited at the chance to speak with the famous <i>Oyibo</i> and eventually, we were so mobbed by fans that we had to bring in the security detail before they took him home with them. We are sure his face has made its way around hundreds of strangers’ social media pages by now and yet – he still doesn’t have a date for the wedding.</p>\r\n<p>Yes, we did say wedding. A Nigerian wedding.</p>\r\n<p>To find out more about <i>that</i> party, keep an eye out for our next post!</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6882\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Craig Taking Pics\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Nigeria\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Craig Taking Pics\",\"field_file_image_title_text[und][0][value]\":\"TEM Lab in Nigeria\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Craig Taking Pics\",\"title\":\"TEM Lab in Nigeria\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Photo Session with Craig!</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1430
+    height: 1072
+    target_type: file
+    target_uuid: e2afe2a1-1be2-4076-8a73-72efde59f2e6
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+    file:
+      - file.image.e2afe2a1-1be2-4076-8a73-72efde59f2e6
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

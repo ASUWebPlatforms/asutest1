@@ -1,0 +1,44 @@
+display:
+  default:
+    display_title: Lalai
+    display_options:
+      fields:
+        name:
+          label: 'Nama pengguna'
+        status:
+          label: Status
+          settings:
+            format_custom_true: Aktif
+        roles_target_id:
+          label: Peranan
+        operations:
+          label: Operasi-operasi
+      pager:
+        options:
+          expose:
+            items_per_page_label: 'Item per halaman'
+            items_per_page_options_all_label: '- Semua -'
+      exposed_form:
+        options:
+          reset_button_label: 'Set semula'
+          exposed_sorts_label: 'Susun mengikuti'
+          sort_asc_label: Menaik
+          sort_desc_label: Menurun
+      filters:
+        status:
+          group_info:
+            label: Status
+            group_items:
+              1:
+                title: Aktif
+        roles_target_id:
+          expose:
+            label: Peranan
+        permission:
+          expose:
+            label: Keizinan
+  page_1:
+    display_title: Halaman
+    display_options:
+      menu:
+        title: Senarai

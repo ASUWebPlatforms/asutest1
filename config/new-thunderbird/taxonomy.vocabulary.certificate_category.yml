@@ -1,0 +1,8 @@
+uuid: 705f71fc-d8bb-4b85-b4b8-f793a83c15b1
+langcode: en
+status: true
+dependencies: {  }
+name: 'Certificate Category'
+vid: certificate_category
+description: 'Categories used to sort certificate topics'
+weight: 0

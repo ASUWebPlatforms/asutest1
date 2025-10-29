@@ -1,0 +1,23 @@
+uuid: 6f8d8e62-3c5e-49ac-b3fc-d9c08f59a898
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_content_background
+    - node.type.degree
+id: node.degree.field_content_background
+field_name: field_content_background
+entity_type: node
+bundle: degree
+label: 'Remove Content Background'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

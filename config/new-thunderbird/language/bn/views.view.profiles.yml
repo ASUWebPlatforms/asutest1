@@ -1,0 +1,13 @@
+display:
+  default:
+    display_options:
+      arguments:
+        uid:
+          exception:
+            title: সমস্ত
+        type:
+          exception:
+            title: সমস্ত
+        status:
+          exception:
+            title: সমস্ত

@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 789e24d1-e0e2-4646-a281-59ef11a864ba
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:18:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'The Role of Global Mindset in Developing Global Leaders'
+created:
+  -
+    value: '2012-12-20T13:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:18:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /global-mindset-global-leaders
+body:
+  -
+    value: "<p><em>“The Jack Welch of the Future cannot be like me. I spent my entire career in the United States. The next head of General Electric will be somebody who spent time in Bombay, in Hong Kong, in Buenos Aires. We have to send our best and brightest overseas and make sure they have training that will allow them to be the global leaders who will make GE flourish in the future” (Black, Morrison &amp; Gregerson, 1999, p. 20).</em></p>\r\n<p>Not much has changed for global companies since Welch made this statement a decade ago. The context in which global leaders operate remains full of complexity, novelty, variety and even chaos. Nevertheless, global leaders encounter a common challenge: how to influence individuals, groups and systems unlike their own to achieve their employer’s strategic goals and objectives.</p>\r\n<p>The single critical success factor in globalizing business lies with an organization’s pool of highly competent global leaders who have the global knowledge of production and service capabilities, of consumer demands for products and services around the world, and who can influence others despite diverse cultural, political and institutional backgrounds that make them think, decide, analyze, act and communicate differently than the leader. In other words, global leaders with “Global Mindsets” are the key to sustainable competitive advantage in the global economy. What do we know about developing global leaders and global mindset? A review of best practices offers four recommendations for developing global leaders:</p>\r\n<p>1. Organizations need strategic clarity about what kinds of skills a global leader needs.</p>\r\n<p>2. Prospective global leaders need relevant developmental opportunities.</p>\r\n<p>3. Prospective global leaders need appropriate levels of feedback, resources and support to help them learn from the experiences they have.<br>&nbsp;<br>4. People need international perspectives and exposure starting early in their careers to maximize the quality of the globally competent expert pipeline.&nbsp;<br>&nbsp;<br>The development of expert global leaders is complex. Their capabilities are developed over time and build on threshold competencies that include a requisite level of inquisitiveness and openness — natural abilities that are supported by cross-cultural knowledge — and build on a base of business or technical skills. International experience contributes to their development as do international management development programs and cross-cultural training programs. But these interventions alone do not make someone an expert global leader. It takes a Global Mindset.</p>\r\n<p><strong>What Is Global Mindset?</strong></p>\r\n<p>Global Mindset is defined as a set of individual attributes that help a global leader better influence those who are different from them. A Global Mindset profile comprises three capitals: Intellectual Capital, which refers to one’s global savvy, cosmopolitan outlook, and cognitive complexity; Psychological Capital, which refers to one’s passion for diversity, quest for adventure, and self-assurance; and Social Capital, which refers to one’s intercultural empathy, interpersonal impact, and diplomacy.</p>\r\n<p>Leaders with high levels of Global Mindset have an enhanced ability to make sense of their context and behave appropriately as the context varies. Leaders with high levels of Global Mindset are more expert global leaders because of their ability to understand and interpret what is going on in a global situation. They can more effectively interpret verbal and nonverbal messages and signals from people from different cultures.&nbsp; In addition, these same expert global leaders demonstrate high levels of flexibility, which manifests as the ability to act differently in different situations and contexts. Finally, leaders with high levels of Global Mindset have the ability to choose the right behavior or approach in different circumstances or contexts. Global Mindset can be assessed using a scientific tool — the Global Mindset Inventory®.</p>\r\n<p><strong>The Global Mindset Inventory</strong></p>\r\n<p>After four years of intensive field research, the Thunderbird Global Mindset Leadership Institute has achieved two practical goals: 1. The development of a valid and reliable Global Mindset (GMI®) assessment tool; and 2. The development of valid and reliable approaches — tools, methodologies and programs — for the development of a leader’s Global Mindset.<br>&nbsp;<br>The GMI has been used in executive development programs in several countries, in a variety of industries and in the for-profit and social services sectors. This scientific instrument is available in two versions — self-assessment and 360 degree — and can be used to measure the Global Mindset profile of a leader, a unit, a team or an organization.&nbsp; It is available as an Internet-based questionnaire which has 76 items and takes about eight minutes to complete.</p>\r\n<p><strong>Developing Globally Competent Leaders with Global Mindset</strong></p>\r\n<p>Thunderbird has gained ample understanding about what it takes to develop the expert global leaders of the future. Organizations aspiring to achieve sustainable competitive advantage in today’s global economy have had a road map of best practices for developing globally competent leaders for several years. Now, they also have a valid and reliable tool to initiate and to track the effectiveness of the developmental process, the Global Mindset Inventory, which enables corporations to assess their “stock” of Global Mindset; identify Global Mindset performance gaps given their strategic objectives; identify expert global leaders or those with potential to become so; and track effectiveness of training, stretch assignments and other developmental interventions in order to reduce risk and complexity that impedes the development of exceptional global leaders.&nbsp;</p>\r\n<p><a href=\"/node/145\" target=\"_blank\"><em>Mary Teagarden</em></a><em>, Ph.D., is a Thunderbird professor of global strategy and editor of Thunderbird International Business Review.</em></p>"
+    format: basic_html
+    processed: ''
+    summary: 'Not much has changed for global companies since Welch made this statement a decade ago. The context in which global leaders operate remains full of complexity, novelty, variety and even chaos. Nevertheless, global leaders encounter a common challenge: how to influence individuals, groups and systems unlike their own to achieve their employer’s strategic goals and objectives.'
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 8522f322-f680-4481-9c33-057101e79379
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:39:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a378dcd0-fe4d-42ea-85bc-286698545ba0
+title:
+  -
+    value: 'Ethical Leadership in a Global Economy'
+created:
+  -
+    value: '2018-02-15T15:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:39:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/ethical-leadership-global-economy
+body:
+  -
+    value: "<p><span style=\"background-color: transparent; font-size: 1em;\">[[{\"fid\":\"5968\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Suzanne Peterson, Thunderbird Global Speaker Series\",\"field_file_image_title_text[und][0][value]\":\"Suzanne Peterson, Thunderbird Global Speaker Series\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Suzanne Peterson, Thunderbird Global Speaker Series\",\"field_file_image_title_text[und][0][value]\":\"Suzanne Peterson, Thunderbird Global Speaker Series\"}},\"attributes\":{\"alt\":\"Suzanne Peterson, Thunderbird Global Speaker Series\",\"title\":\"Suzanne Peterson, Thunderbird Global Speaker Series\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</span></p>\r\n<p><span style=\"background-color: transparent; font-size: 1em;\">You’ve recently been appointed as the country manager for a non-Western business market and, after you arrive, you discover that many of the people working in your factory are teenagers. In your home country, the United States has very strict child-labor laws. In the local market, having teens work isn’t just commonplace, it’s expected.</span></p>\r\n<p>How do you handle it?</p>\r\n<p>This is an example and a question posed by Dr. Suzanne Peterson, Associate Professor of Management Leadership at Thunderbird School of Global Management. Speaking to the university’s Student Honor Council, Dr. Peterson said this situation isn’t uncommon for Thunderbird graduates to find themselves facing.</p>\r\n<p><strong>Ethics are a choice</strong></p>\r\n<p>And it isn’t limited to just U.S. managers being posted overseas, Dr. Peterson said. As T-birds from all over enter the marketplace and become global managers, it’s important to ask, “How do we reconcile what is acceptable [at home] and what is acceptable in the remote market?”</p>\r\n<p>In other words, she asked, how do we make decisions that allow us to operate successfully while still adhering to the legal, ethical and moral codes of the local and home countries? Unfortunately, Peterson said, it’s not always black-and-white.</p>\r\n<p>“There are two general frameworks you can follow,” Dr. Peterson explained. “You can follow the path of Ethical Universalism, where you adhere to the standards of your organization and the place your company is based. For example, if United States law says ‘X’, then you follow ‘X’.”</p>\r\n<p>“The second path is Ethical Relativism. Here, you realize there are some things you cannot do legally, such as pay or accept bribes if you are a U.S. company or employee. Beyond that, your actions are more influenced by local customs and standards. While the U.S. may have certain laws… the local country might not have these laws.”</p>\r\n<p><strong>There are no easy answers</strong></p>\r\n<p>Unfortunately, there are no easy answers, she said. Leaders often get stymied trying to make decisions because of the cultural and ethical differences present, as well as perceived issues from the home office, Peterson said.</p>\r\n<p>Make decisions too slowly and you risk being viewed as hesitant or ineffectual. Make them too quickly, and you risk making a poor choice due to inadequate deliberation. Best is to make them decidedly, after taking into consideration input and local customs. This removes the temptation to make snap decisions and all the consequences that come with them, and at the same time gives you the ability to defend the decision you do make, since it was consultative and deliberate.</p>\r\n<p><strong>The 4-part solution</strong></p>\r\n<p>One method Dr. Peterson likes to use when making decisions is a four-part test that answers some key questions before she takes action:</p>\r\n<ul>\r\n<li>Is this harming anyone?</li>\r\n<li>How greedy is it? Does it seem too much?</li>\r\n<li>How does it affect the environment?</li>\r\n<li>Does it show respect to everyone involved?</li>\r\n</ul>\r\n<p>If she can’t reconcile the answers to these questions, then she knows she needs to reflect more, gather more information or not take the action she was contemplating.</p>\r\n<p>Ultimately, it’s your own internal code of ethics that will drive the type of decision-making you’ll do throughout your career. If you can codify that and stand by your personal ethics, you’re well on the path to making informed decisions.</p>\r\n<p><i>Written by Tim Weaver, Thunderbird Executive Education</i></p>\r\n<p><strong>Read more:&nbsp;</strong></p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/choice-architecture-science-decision-making\">Choice Architecture: The Science of Decision Making</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/what-was-the-uber-board-thinking\">What Was The Uber Board Thinking?</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/how-disagree-president-general-david-petraeus\">How To Disagree With The President by General David Petraeus</a></li>\r\n</ul>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: 'You’ve recently been appointed as the country manager for a non-Western business market and, after you arrive, you discover that many of the people working in your factory are teenagers. In your home country, the United States has very strict child-labor laws. In the local market, having teens work isn’t just commonplace, it’s expected. How do you handle it?'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 3888
+    height: 2592
+    target_type: file
+    target_uuid: 24ca21fa-bd71-4269-b58e-594dfdf88f29
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.a378dcd0-fe4d-42ea-85bc-286698545ba0
+    file:
+      - file.image.24ca21fa-bd71-4269-b58e-594dfdf88f29
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

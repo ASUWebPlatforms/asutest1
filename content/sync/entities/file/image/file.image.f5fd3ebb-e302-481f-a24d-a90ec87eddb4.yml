@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: f5fd3ebb-e302-481f-a24d-a90ec87eddb4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: thunderbird_asu_law_students_draw_life_lessons_from_humanitarian_internship.jpg
+uri:
+  -
+    value: 'public://article/thunderbird_asu_law_students_draw_life_lessons_from_humanitarian_internship.jpg'
+    url: /sites/default/files/article/thunderbird_asu_law_students_draw_life_lessons_from_humanitarian_internship.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 2757490
+status:
+  -
+    value: true
+created:
+  -
+    value: '2019-11-08T21:09:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-11-08T21:09:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

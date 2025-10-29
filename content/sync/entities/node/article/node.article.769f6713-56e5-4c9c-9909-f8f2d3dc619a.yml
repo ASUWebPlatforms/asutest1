@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 769f6713-56e5-4c9c-9909-f8f2d3dc619a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-04-29T14:22:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: 'Thunderbird Offers Exclusive Military Scholarship '
+created:
+  -
+    value: '2017-05-25T21:46:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-29T14:22:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-offers-exclusive-military-scholarship
+body:
+  -
+    value: '<p>[[{"fid":"5298","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Thunderbird offers exclusive military scholarship","field_file_image_title_text[und][0][value]":"Thunderbird offers exclusive military scholarship"},"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":"Thunderbird offers exclusive military scholarship","field_file_image_title_text[und][0][value]":"Thunderbird offers exclusive military scholarship"}},"link_text":null,"attributes":{"alt":"Thunderbird offers exclusive military scholarship","title":"Thunderbird offers exclusive military scholarship","class":"panopoly-image-original media-element file-default","data-delta":"1"}}]]</p><p>On Remembrance Day, 2011, Merle A. Hinrich ’65 addressed the audience of Thunderbird alumni, students, war veterans, friends and family gathered for the unveiling of the restored Thunderbird Tower.</p><p>It was fitting to hold the rededication of the Tower, the iconic heart of the Thunderbird campus, on the auspicious 11.11.11. The Tower started life as an aircraft control tower for Thunderbird Field, used to train international pilots for service in WWII. As the world transitioned to peacetime, General Yount, destined to be Thunderbird’s first president, saw the need for international executive talent to build bridges of commerce across disparate cultures. In 1946, the International Institute of Foreign Trade was founded, with the tower re-outfitted to serve the purpose of promoting education, prosperity, and peace.</p><div class="blue-header-block-wrapper"><div class="blue-header-block-inner-wrapper"><p style="text-align: center;"><strong>Apply Early &amp; Save!</strong></p><p style="text-align: center;">Be one of the first 50 applicants for fall 2018 and we''ll waive your application fee!</p><p style="text-align: center;"><a href="thunderbird.asu.edu/app-fee-waivers-lp?sv=website&amp;sd=WT-KN-story" class="btn btn-primary">Request Your Waiver</a></p></div></div><p class="wysiwyg-break">&nbsp;</p><p>Just before the restored tower was unveiled – and the flyby of WWII era and other military aircraft delighted all in attendance – Merle announced a $100,000 pledge for the Merle &amp; Miriam Hinrich Veterans Scholarship. In the spirit of giving, 5 five other alumni generously added another $30,000 to the scholarship fund.</p><p>The Thunderbird Veterans Scholarship is in recognition of the sacrifices that veterans have made for America, and the opportunity afforded by a Thunderbird education to help build lasting bridges of international peace and prosperity.</p><p>Criteria:&nbsp;Applicants must be entering or continuing students who are active duty military personnel or have been honorably discharged from the US Armed Forces.</p><ul><li><strong>Entering Student Criteria</strong><ul><li>Applicants must meet the School''s general admission requirements and have been offered admission through the Office of Admissions, and be entering the on-campus traditional full-time degree programs.</li><li>Consideration will be given to individuals with competitive employability and fit with Thunderbird’s mission.<ul><li>Applicants must submit a DD-214 (discharged veterans) or a letter from commanding officer verifying active duty and anticipated length of service (veterans in reserves or on active duty).</li><li>Applicants must submit a current resume.</li><li>Applicants must submit a cover letter demonstrating financial need.</li><li>Applicants must submit a two-page, double-spaced essay describing experiences - educational, military and work - leading to matriculation at Thunderbird and how Thunderbird will enhance career opportunities.&nbsp;</li><li>Only eligible for Full-time <a href="/node/194">Master of Global Management</a> and <a href="/node/190">Master of Arts in Global Affairs and Management</a> programs</li></ul></li></ul></li></ul><p><span style="background-color: transparent; font-size: 1em;">As a member of America’s armed forces, you understand the intricacies and challenges&nbsp;of working across cultures in today’s interconnected global environment. Thunderbird was established as&nbsp;an educational institution committed to preparing leaders who could bridge cultural gaps&nbsp;through ethical, culturally astute business practices. The fit for US military veterans seeking their graduate education in international business couldn''t be more ideal.<br></span></p><ul></ul><p style="background-color: transparent; font-size: 1em; display: inline !important;">Speak with your&nbsp;enrollment counselor&nbsp;for details. If you do not have an enrollment counselor, please contact us at <a href="mailto:admissions.tbird@asu.edu?subject=Hinrich%20Military Scholarship">admissions.tbird@asu.edu</a> and we will connect you with someone who can help.</p><p style="background-color: transparent; font-size: 1em; display: inline !important;">&nbsp;</p><p style="background-color: transparent; font-size: 1em; display: inline !important;">Pleaes note that additional scholarships and financing&nbsp;resources are available.</p><p style="background-color: transparent; font-size: 1em;">+1 602 978-7100 (Outside US)</p><p style="background-color: transparent; font-size: 1em;">1 800 457-6966 (US toll-free)</p><p style="background-color: transparent; font-size: 1em;" class="btn btn-gold"><a href="mailto:admissions.tbird@asu.edu">Email us today!</a></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 659
+    height: 442
+    target_type: file
+    target_uuid: 7371b177-8d26-49ad-abaf-f2dbd5409d55
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c98a978-a0e5-4ad3-ae54-71103288ecdd
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    file:
+      - file.image.7371b177-8d26-49ad-abaf-f2dbd5409d55
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.2c98a978-a0e5-4ad3-ae54-71103288ecdd

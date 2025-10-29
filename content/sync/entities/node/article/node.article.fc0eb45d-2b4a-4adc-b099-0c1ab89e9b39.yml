@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: fc0eb45d-2b4a-4adc-b099-0c1ab89e9b39
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-01-22T14:39:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 95fc6201-114c-48b4-80c4-220535d24f4e
+title:
+  -
+    value: 'Global Technology Governance: A Multistakeholder Approach'
+created:
+  -
+    value: '2019-11-06T23:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-01-22T14:39:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/global-technology-governance-multistakeholder-approach
+body:
+  -
+    value: '<p>[[{"fid":"76792","view_mode":"responsive_image","fields":{"format":"responsive_image","field_file_image_alt_text[und][0][value]":"Global Technology Governance: A Multistakeholder Approach","field_file_image_title_text[und][0][value]":"Global Technology Governance: A Multistakeholder Approach"},"type":"media","field_deltas":{"2":{"format":"responsive_image","field_file_image_alt_text[und][0][value]":"Global Technology Governance: A Multistakeholder Approach","field_file_image_title_text[und][0][value]":"Global Technology Governance: A Multistakeholder Approach"}},"attributes":{"alt":"Global Technology Governance: A Multistakeholder Approach","title":"Global Technology Governance: A Multistakeholder Approach","class":"media-element file-responsive-image","data-delta":"2"}}]]</p><p>&nbsp;The dynamics of the Fourth Industrial Revolution mean that systems of governance are, on the whole, failing to deliver what is needed in terms of minimizing risks and costs, while maximizing opportunities and benefits. This is true at all levels – global, regional, national, subnational and local – and across the public sector, among businesses, in the media and within civil society.</p><p>Governments and private-sector governance bodies – such as standards bodies – are familiar with the pressure to deliver beneficial governance, and many are responding. However, they are running up against a range of challenges that include barriers to cooperation, gaps in the governance landscape, divergent interests and conflicting incentives.</p><p>This white paper looks to make a small but meaningful step towards filling that gap. It is a deeper exploration of the landscape of global technology governance. Its goal is to highlight the common priorities, barriers, and roles of stakeholders in unlocking the benefits of emerging technologies while managing their negative impacts.</p><p><a href="https://thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/wef_global_technology_governance.pdf" class="btn btn-primary" target="_blank">Download Report</a></p><p>&nbsp;</p><p>Source: <a href="https://www.weforum.org/whitepapers/global-technology-governance-a-multistakeholder-approach/" target="_blank">World Economic Forum</a></p>'
+    format: full_html
+    processed: |
+      <p>[[{"fid":"76792","view_mode":"responsive_image","fields":{"format":"responsive_image","field_file_image_alt_text[und][0][value]":"Global Technology Governance: A Multistakeholder Approach","field_file_image_title_text[und][0][value]":"Global Technology Governance: A Multistakeholder Approach"},"type":"media","field_deltas":{"2":{"format":"responsive_image","field_file_image_alt_text[und][0][value]":"Global Technology Governance: A Multistakeholder Approach","field_file_image_title_text[und][0][value]":"Global Technology Governance: A Multistakeholder Approach"}},"attributes":{"alt":"Global Technology Governance: A Multistakeholder Approach","title":"Global Technology Governance: A Multistakeholder Approach","class":"media-element file-responsive-image","data-delta":"2"}}]]</p>
+      <p>&nbsp;The dynamics of the Fourth Industrial Revolution mean that systems of governance are, on the whole, failing to deliver what is needed in terms of minimizing risks and costs, while maximizing opportunities and benefits. This is true at all levels – global, regional, national, subnational and local – and across the public sector, among businesses, in the media and within civil society.</p>
+      <p>Governments and private-sector governance bodies – such as standards bodies – are familiar with the pressure to deliver beneficial governance, and many are responding. However, they are running up against a range of challenges that include barriers to cooperation, gaps in the governance landscape, divergent interests and conflicting incentives.</p>
+      <p>This white paper looks to make a small but meaningful step towards filling that gap. It is a deeper exploration of the landscape of global technology governance. Its goal is to highlight the common priorities, barriers, and roles of stakeholders in unlocking the benefits of emerging technologies while managing their negative impacts.</p>
+      <p><a href="https://thunderbird-uogyk2c9lkqh.stackpathdns.com/sites/default/files/wef_global_technology_governance.pdf" class="btn btn-primary" target="_blank">Download Report</a></p>
+      <p>&nbsp;</p>
+      <p>Source: <a href="https://www.weforum.org/whitepapers/global-technology-governance-a-multistakeholder-approach/" target="_blank">World Economic Forum</a></p>
+    summary: " The dynamics of the Fourth Industrial Revolution mean that systems of governance are, on the whole, failing to deliver what is needed in terms of minimizing risks and costs, while maximizing opportunities and benefits. This is true at all levels – global, regional, national, subnational and local – and across the public sector, among businesses, in the media and within civil society.\r\n\r\nGovernments and private-sector governance bodies – such as standards bodies – are familiar with the pressure to deliver beneficial governance, and many are responding. However, they are running up against a range of challenges that include barriers to cooperation, gaps in the governance landscape, divergent interests and conflicting incentives."
+    summary_processed: |
+      <p> The dynamics of the Fourth Industrial Revolution mean that systems of governance are, on the whole, failing to deliver what is needed in terms of minimizing risks and costs, while maximizing opportunities and benefits. This is true at all levels – global, regional, national, subnational and local – and across the public sector, among businesses, in the media and within civil society.</p>
+      <p>Governments and private-sector governance bodies – such as standards bodies – are familiar with the pressure to deliver beneficial governance, and many are responding. However, they are running up against a range of challenges that include barriers to cooperation, gaps in the governance landscape, divergent interests and conflicting incentives.</p>
+field_article_image:
+  -
+    alt: 'Global Technology Governance: A Multistakeholder Approach'
+    title: 'Global Technology Governance: A Multistakeholder Approach'
+    width: 485
+    height: 273
+    target_type: file
+    target_uuid: 2ebf498e-e775-4997-a64d-dcca9bd671df
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4aa4b5a6-3678-488f-8b36-d3a931a8cf41
+  -
+    target_type: taxonomy_term
+    target_uuid: f714459d-6552-4f21-95a0-e7076f1706a6
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f
+      - user.user.95fc6201-114c-48b4-80c4-220535d24f4e
+    file:
+      - file.image.2ebf498e-e775-4997-a64d-dcca9bd671df
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+      - taxonomy_term.knowledge_network_tags.4aa4b5a6-3678-488f-8b36-d3a931a8cf41
+      - taxonomy_term.knowledge_network_tags.f714459d-6552-4f21-95a0-e7076f1706a6

@@ -1,0 +1,8 @@
+uuid: 403b724e-4a81-4317-86c5-f94c72f5c773
+langcode: en
+status: true
+dependencies: {  }
+name: Location
+vid: location
+description: 'Webspark vocabulary.'
+weight: 0

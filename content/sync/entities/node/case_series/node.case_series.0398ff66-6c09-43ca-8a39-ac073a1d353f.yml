@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: 0398ff66-6c09-43ca-8a39-ac073a1d353f
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T16:53:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Pioneer Energy in Turkmenistan: A Country Manager''s View (A)'
+created:
+  -
+    value: '2016-07-15T21:02:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T16:53:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a08-15-0012
+body:
+  -
+    value: '<p><span>This case study presents the dilemmas faced by the Country Manager of Pioneer Energy in Turkmenistan.&nbsp; He has to find closure on a variety of issues ranging from procurement of steel casings to complete test wells in the Turkmen region, to implementing a new performance evaluation system mandated by Pioneer’s headquarters in Dallas, localization of the workforce, and challenging cross-cultural matters associated with an upcoming trip by Turkmenistan officials to the U.S .offices of Pioneer.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: 'A08-15-0012 (A)'
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9313f4c5-a9c9-434c-b170-f45fec9b8d04
+field_case_series_year:
+  -
+    value: '2015-01-01'
+field_case_setting:
+  -
+    value: Turkmenistan
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: fd9b1245-17c0-43da-8b1e-1e820fd48d2b
+field_teaching:
+  -
+    value: 'Teaching Purposes The specific objectives of the case are to: a) help participants develop a deeper understanding on the manner in which the typical tensions between headquarters and subsidiaries manifest themselves; b) understand how large business organizations seek to balance corporate-wide initiatives with the unique needs of the countries that they operate in; c) explore the challenges associated with implementing global strategy at the local level as wells as to illustrate the changing dynamics when the strategy formulation process shifts into implementation mode.'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_industry.9313f4c5-a9c9-434c-b170-f45fec9b8d04
+      - taxonomy_term.case_series_fields.fd9b1245-17c0-43da-8b1e-1e820fd48d2b

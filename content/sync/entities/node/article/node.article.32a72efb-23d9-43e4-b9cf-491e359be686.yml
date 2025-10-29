@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 32a72efb-23d9-43e4-b9cf-491e359be686
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-07-19T20:03:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Webinar: Generations in the Workplace'
+created:
+  -
+    value: '2018-07-19T20:03:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-07-19T20:03:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/webinar-generations-in-workplace
+body:
+  -
+    value: "<p><span>For one of the first times in history three generations find themselves sharing the workplace. This convergence of ages, worldviews, and leadership styles creates both opportunity and conflict in the modern organization. In this webinar, join Dr. Ted Cross to learn the key features of the three major generations, as well as strategies for increasing productivity in a multi-generational environment.</span></p>\r\n<p>[[{\"fid\":\"62493\",\"view_mode\":\"responsive_image\",\"fields\":{\"format\":\"responsive_image\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"2\":{\"format\":\"responsive_image\"}},\"attributes\":{\"class\":\"media-element file-responsive-image\",\"data-delta\":\"2\"}}]]</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 855
+    height: 441
+    target_type: file
+    target_uuid: 88782b05-7b74-4a86-a73a-e2b9e34fa56f
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c2317536-07fb-40ce-b252-f7a91e612339
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.88782b05-7b74-4a86-a73a-e2b9e34fa56f
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c2317536-07fb-40ce-b252-f7a91e612339

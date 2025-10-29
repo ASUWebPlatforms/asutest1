@@ -1,0 +1,58 @@
+label: မှတ်ချက်များ
+display:
+  default:
+    display_title: Default
+    display_options:
+      title: မှတ်ချက်များ
+      fields:
+        comment_bulk_form:
+          action_title: 'လုပ်ဆောင်ရန် (လုပ်ဆောင်ချက်)'
+        subject:
+          label: အကြောင်း
+        name:
+          label: စာရေးသူ
+        operations:
+          label: လုပ်ဆောင်ချက်များ
+      pager:
+        options:
+          tags:
+            next: 'နောက် ›'
+            previous: '‹ ယခင်'
+            first: '« ပထမ'
+            last: 'နောက်ဆုံး ›'
+          expose:
+            items_per_page_options_all_label: '- အားလုံး -'
+      exposed_form:
+        options:
+          reset_button_label: မူလပုံစံအတိုင်းပြန်ထားရန်
+      filters:
+        subject:
+          expose:
+            label: အကြောင်း
+        langcode:
+          expose:
+            label: ဘာသာစကား
+      use_more_text: ပို၍
+  page_published:
+    display_title: 'ထုတ်ပြန်ပြီး မှတ်ချက်များ'
+    display_options:
+      menu:
+        title: မှတ်ချက်များ
+  page_unapproved:
+    display_options:
+      fields:
+        comment_bulk_form:
+          action_title: 'လုပ်ဆောင်ရန် (လုပ်ဆောင်ချက်)'
+        subject:
+          label: အကြောင်း
+        name:
+          label: စာရေးသူ
+        operations:
+          label: လုပ်ဆောင်ချက်များ
+      filters:
+        subject:
+          expose:
+            label: အကြောင်း
+        langcode:
+          expose:
+            label: ဘာသာစကား

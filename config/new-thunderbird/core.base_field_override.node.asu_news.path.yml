@@ -1,0 +1,20 @@
+uuid: 9c3f3259-6a91-4f8d-ad3a-541e60419465
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.asu_news
+  module:
+    - path
+id: node.asu_news.path
+field_name: path
+entity_type: node
+bundle: asu_news
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

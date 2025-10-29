@@ -1,0 +1,27 @@
+uuid: 17a791d2-10eb-40e7-966a-fd920677a836
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+    - options
+id: block_content.field_content_position_cards
+field_name: field_content_position_cards
+entity_type: block_content
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: above
+      label: Above
+    -
+      value: left
+      label: 'To the left of the cards'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

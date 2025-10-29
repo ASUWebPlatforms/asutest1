@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 17552e80-b824-49f0-a903-4f7730560009
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-02-19T03:08:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: d0dc1559-9b51-4974-9f44-25e87615f466
+title:
+  -
+    value: 'Thunderbird’s Admission Team Is Looking for the Next Global Leaders'
+created:
+  -
+    value: '2017-06-12T17:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-19T03:08:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbirds-admission-team-looking-next-global-leaders
+body:
+  -
+    value: "<p>[[{\"fid\":\"5512\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Hosts Info Events around the World during World Tour\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Hosts Info Events around the World during World Tour\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Hosts Info Events around the World during World Tour\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Hosts Info Events around the World during World Tour\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Hosts Info Events around the World during World Tour\",\"title\":\"Thunderbird Hosts Info Events around the World during World Tour\",\"height\":\"855\",\"width\":\"1254\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Learn how you can become part of the next generation of&nbsp;<a href=\"/node/2174?sd=KNworldtourstory\">global leaders at Thunderbird</a>. There’s something different about the students who choose Thunderbird. A different kind of passion. A different kind of purpose. Be part of this diverse global community and bring your own cultural insight to the Thunderbird new generation of global leaders. You are welcome here! Our experienced enrollment advisors will provide information about <a href=\"https://thunderbird.asu.edu/students/financial-assistance\">Thunderbird’s degree programs and scholarships</a>—plus, we will arrange opportunities for you to meet local alumni to share ideas and build your network.</p>\r\n<h3>Why should you attend a Thunderbird School of Global Managment?</h3>\r\n<ul>\r\n<li>In 1946, Thunderbird became the first-ever graduate school to focus exclusively on global business.</li>\r\n<li>Thunderbird offers specialized graduate degrees that prepare you for a global career.</li>\r\n<li>Thunderbird’s <a href=\"/node/238\">alumni network </a>has 170 active chapters in 70 countries worldwide.</li>\r\n<li><em>The Economist</em> ranks Thunderbird #1 for Internationalism of Alumni.</li>\r\n<li>Thunderbird’s experienced admissions counselors are truly global--and some are alumni. They understand your needs and goals.</li>\r\n<li>Recruiters will be on hand to discuss scholarships and how to apply.</li>\r\n<li>You will be able to interview face-to-face with a recruiter – show us your personality!</li>\r\n<li>We will share with you first-hand what <a href=\"/node/192\">student clubs, activities, and projects</a> are available on campus.</li>\r\n<li>Thunderbird is often called a “mini-United Nations” because our student body represents people from every corner of the world.</li>\r\n<li>The World Tour feels like a mini-conference. These events welcome prospective students for international networking and idea-sharing opportunities with our exemplary alumni.&nbsp;</li>\r\n<li>&nbsp;Find out why Thunderbird is different!</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1200
+    height: 630
+    target_type: file
+    target_uuid: ed389a99-dc08-4547-bae2-7c5d049f78b7
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 2c98a978-a0e5-4ad3-ae54-71103288ecdd
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.d0dc1559-9b51-4974-9f44-25e87615f466
+    file:
+      - file.image.ed389a99-dc08-4547-bae2-7c5d049f78b7
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.2c98a978-a0e5-4ad3-ae54-71103288ecdd

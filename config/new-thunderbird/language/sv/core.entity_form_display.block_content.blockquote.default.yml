@@ -1,0 +1,9 @@
+content:
+  field_anchor_menu_settings:
+    settings:
+      title: Paragraf
+      title_plural: Paragrafer
+  field_blockquote:
+    settings:
+      title: Paragraf
+      title_plural: Paragrafer

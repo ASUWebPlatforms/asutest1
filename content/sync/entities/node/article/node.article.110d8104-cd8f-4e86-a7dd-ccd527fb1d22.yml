@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 110d8104-cd8f-4e86-a7dd-ccd527fb1d22
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-12-12T19:41:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Thunderbird Is Moving this Summer'
+created:
+  -
+    value: '2018-04-24T17:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-12-12T19:41:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/thunderbird-moving-summer
+body:
+  -
+    value: "<p>As we hope you know, Arizona State University made the decision last winter to move Thunderbird into a brand-new building on its downtown Phoenix campus – a geographic change that will bring a lot of new opportunities as we move into an exciting future.</p>\r\n<p>In April, the school announced that Dr. Allen Morrison will be returning to life as a faculty member and is passing the baton to a new Dean and Director General, Dr. Sanjeev Khagram. Also in April, we were happy to host a three-day campus tribute giving almost 1,500 alumni from around the world a chance to celebrate the historic campus and say goodbye to it.</p>\r\n<p>While we knew a move was in the school’s future, we were not sure when that would happen. In late April, we received final word that the move will happen this summer. So, it’s full-speed ahead now for a move that will happen in July.</p>\r\n<p>Over the next two months, in phases, offices and buildings at Thunderbird will go off line. The Commons has already closed. The pub remains open until the very end – July 31. Boxes have arrived, personal items are being taken home, historic artifacts and items which have been loaned or given to the school are being packed for the new building, or for storage.</p>\r\n<p>By late July, Thunderbird staff and faculty will take residence at our new home – albeit a temporary one – on three floors in a 20-story office tower at The Arizona Center in downtown Phoenix, adjacent to the downtown campus, just two blocks from where the new building will be located at 1st Street &amp; Polk.</p>\r\n<p>When students return in August, Thunderbird’s new life on ASU’s downtown campus will be our new reality. Undoubtedly, it will be a period of adjustment and transition.</p>\r\n<p>The university has provided Thunderbird students with assistance in moving, subsidized housing rates, and discounted parking, to smooth the transition. More than $500,000 has been allocated to aid Thunderbird students whose plans and financial resources have been impacted by the move.</p>\r\n<p>Discussions are underway with several of our sister colleges on the downtown campus about opportunities for immediate engagement while we assess longer-term opportunities that may involve joint degrees, shared projects, and elective courses that will allow other ASU students to get a taste of Thunderbird.</p>\r\n<p>The growing Thunderbird undergraduate program will remain at ASU’s West campus. Its first graduates joined us for the Spring commencement in May and it is a pipeline of undergrad T-birds who fully embrace the spirit of the school – many will go on to graduate school.</p>\r\n<p>The summer will be a time of progress and of change for Thunderbird. So, as you see social media with photos of moving boxes and sentimentalities associated with the campus please know that as your time at Thunderbird impacted you personally, so has it for the faculty and staff who have come to work here every day – many of them for decades. It is hard to leave, but it is exciting to embrace the opportunities in front of us.</p>\r\n<p>On to the future!</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 600
+    height: 300
+    target_type: file
+    target_uuid: 1f0bbf9e-668c-4a64-ab18-bec026c1e8eb
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.1f0bbf9e-668c-4a64-ab18-bec026c1e8eb
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

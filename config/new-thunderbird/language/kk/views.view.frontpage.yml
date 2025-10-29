@@ -1,0 +1,9 @@
+display:
+  default:
+    display_title: Стандартты
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Ысыру
+  page_1:
+    display_title: Бет

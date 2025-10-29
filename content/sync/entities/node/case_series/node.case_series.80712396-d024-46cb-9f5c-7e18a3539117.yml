@@ -1,0 +1,98 @@
+uuid:
+  -
+    value: 80712396-d024-46cb-9f5c-7e18a3539117
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2017-01-17T23:33:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Project Last Mile in Tanzania: Learning from Coca-Cola’s Supply Chain'
+created:
+  -
+    value: '2017-01-17T23:29:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-01-17T23:33:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a16-16-0015
+body:
+  -
+    value: '<p>Discussion between Coca-Cola, The Global Fund to Fight AIDS, Tuberculosis and malaria and The Bill and Melinda Gates Foundation focused on how Coca-Cola’s supply chain knowledge could be harnessed to improve the distribution of essential medicines and health supplies in Africa. This led to Project Last Mile, a pilot project that aimed to deliver sustainable improvement in distribution of essential medicines and health supplies in Tanzania.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A16-16-0015
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: 21eea460-b0ac-4716-bbe7-4f7267b42678
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry: {  }
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: Tanzania
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: d01be29b-8902-45b9-a4f1-79433fcc7273
+field_teaching:
+  -
+    value: "This case provides a context for discussing the challenges and opportunities in leading “golden triangle” development projects that include government, civil society, and business stakeholders. It may also be used to discuss knowledge transfer and supply chain management in developing countries.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.21eea460-b0ac-4716-bbe7-4f7267b42678
+      - taxonomy_term.case_series_fields.d01be29b-8902-45b9-a4f1-79433fcc7273

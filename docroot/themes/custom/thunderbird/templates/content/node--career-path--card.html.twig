@@ -1,0 +1,38 @@
+{%
+  set classes = [
+    'node',
+    node.isPromoted() ? 'node--promoted',
+    node.isSticky() ? 'node--sticky',
+    not node.isPublished() ? 'node--unpublished',
+    node.bundle|clean_class,
+    node.bundle|clean_class ~ '--' ~ view_mode|clean_class,
+    'card'
+  ]
+%}
+{% set news_link = content.field_news_link|render|striptags|trim %}
+
+{{ attach_library('thunderbird/clickable') }}
+
+<article{{ attributes.addClass(classes).setAttribute('data-js-clickable', true) }}>
+  {{ title_prefix }}
+  {{ title_suffix }}
+
+  {% block content %}
+    <div class="content d-flex">
+      <div class="col">
+        <h3{{ title_attributes.addClass('sr-only') }}>
+          {% if node.bundle == 'career_path' and news_link is not empty %}
+            <a href="{{ news_link }}" rel="nofollow">{{ label.0 }}</a>
+          {% else %}
+            <a href="{{ url }}" rel="bookmark">{{ label.0 }}</a>
+          {% endif %}
+        </h3>
+        <div class="details row flex-wrap">
+          <div class="col-sm-12 card-content">
+            {{ content|without('field_image', 'field_article_image', 'field_image_legacy', 'field_news_date', 'field_date', 'field_tags', 'field_news_link') }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endblock %}
+</article>

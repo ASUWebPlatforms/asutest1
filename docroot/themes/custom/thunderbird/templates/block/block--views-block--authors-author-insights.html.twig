@@ -1,0 +1,29 @@
+{#
+/**
+ * @file
+ * Template for a block.
+ */
+#}
+{% set classes = classes | default([]) | merge([
+  'block',
+  bundle ? 'block--' ~ bundle|clean_class,
+  id ? 'block--' ~ id|replace({"_": "-"})|clean_class,
+  base_plugin_id ? base_plugin_id|clean_class,
+  derivative_plugin_id ? derivative_plugin_id|replace({"_": "-"})|clean_class,
+])|merge(utility_classes ? utility_classes : [])
+%}
+{{ content.field_anchor_menu_settings }}
+{% set has_label = label|render|striptags|trim %}
+<div{{ attributes|without('id').addClass(classes) }}>
+  {{ title_prefix }}
+  {% if has_label is not empty %}
+    {% block label %}
+      <{{ heading_level }} {{ title_attributes.addClass('h3') }}>{{ label }}</{{ heading_level }}>
+    {% endblock %}
+  {% endif %}
+  {{ title_suffix }}
+
+  {% block content %}
+    {{ content|without('field_anchor_menu_settings', 'field_heading_level', 'field_heading_style') }}
+  {% endblock %}
+</div>

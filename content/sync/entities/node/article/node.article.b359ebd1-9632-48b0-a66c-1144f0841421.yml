@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b359ebd1-9632-48b0-a66c-1144f0841421
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:50:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: ac894624-e428-4d0f-8ea6-f90eebc88be8
+title:
+  -
+    value: 'Ego in the Emergency Room'
+created:
+  -
+    value: '2018-04-20T21:32:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:50:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/ego-emergency-room
+body:
+  -
+    value: "<p class=\"graf graf--p graf-after--figure\">[[{\"fid\":\"16142\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Emergency operating room\",\"field_file_image_title_text[und][0][value]\":false},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Emergency operating room\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Emergency operating room\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p class=\"graf graf--p graf-after--figure\">A man with a gunshot wound to his chest who is traveling in the back of an ambulance at 90 mph has a fateful choice. Should he go to the local community hospital with extensive experience in gunshot wounds or the research institution 25 miles down the road with a nationally known specialist?</p>\r\n<p class=\"graf graf--p graf-after--p\">Most of us choose the specialist. It could be our last decision.</p>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\"><strong>We share a cognitive bias called the ‘availability fallacy,’</strong>&nbsp;</span>which warns us it is safer to choose a well known&nbsp;<em>someone</em>&nbsp;over a skilled&nbsp;<em>anyone</em>. The reason for this bias is more complicated than a one liner, but a quick explanation is when we choose the nationally known hospital, even if the outcome is fatal, the story ends there. It wasn’t their fault and stuff happens, right?</p>\r\n<p class=\"graf graf--p graf-after--p\">But if a community hospital does the procedure and the patient dies, the headline is “surgery botched by community doc.” So we make a life or death choice based more on how our friends will react than on the actual probability of success.</p>\r\n<p class=\"graf graf--p graf-after--p\">The New England Journal of Medicine&nbsp;<a href=\"http://www.nejm.org/doi/pdf/10.1056/NEJMp1508472\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://www.nejm.org/doi/pdf/10.1056/NEJMp1508472\">issued a report</a>, Clinical Effect of Surgical Volume, that discovered when a&nbsp;<strong><span class=\"markup--strong markup--p-strong\">surgeon completes his or her 60th procedure</span></strong>, they reach a proficiency level that predicts better outcomes. It exceeds other factors that include advanced degrees, reputation, and prestige. It summarized the findings as “ volume may be a surrogate for what we care about (good outcomes).”</p>\r\n<p class=\"graf graf--p graf-after--p\">Surgery is a complex art, not unlike managing a global enterprise or planning a wartime maneuver.&nbsp;<span class=\"markup--strong markup--p-strong\"><strong>We should rethink whether we have allowed credential worship to rule out the value of experience</strong>&nbsp;</span>in these complicated endeavors. Or at the least, be sure that credentials and experience are matched up and not separate factors in decision making.</p>\r\n<p class=\"graf graf--p graf-after--p\">In surgery,&nbsp;<strong><span class=\"markup--strong markup--p-strong\">the shift in emphasis to practice over prestige</span></strong>&nbsp;is happening on a wide scale and great hospitals are making a swift recovery from the bias. They have no choice, for them it’s life or death.</p>\r\n<p class=\"graf graf--p graf-after--p\">But in business things are humming along the way they always have. Hire the right degree or the candidate with the appropriate license (you may have no other choice here).</p>\r\n<p class=\"graf graf--p graf-after--p\">It brings up a blindspot in business decision making I think everyone should be aware of:</p>\r\n<blockquote>The danger isn’t that we overstate experience in selecting the best person to take a course of action, it is that we overstate the value of their credentials in making our decision.</blockquote>\r\n<p class=\"graf graf--p graf-after--blockquote\">When my friend and angel investor Gil Penchina describes how he finds unicorn startups, it’s all about experience:</p>\r\n<blockquote>“It’s like fishing. The more you’ve been fishing, the better a fisherman you are, the better you know where to find the fish, and the more you build information traps to locate the fish. You know to go way out on this ugly part of the rocks where no one else goes. It’s still very much of a craft business.”</blockquote>\r\n<h6 class=\"graf graf--p graf-after--pullquote\"><span class=\"markup--strong markup--p-strong\">Just how did our love affair with credentials begin?</span></h6>\r\n<p class=\"graf graf--p graf-after--p\"><span class=\"markup--strong markup--p-strong\"><strong>The baby boom:</strong>&nbsp;</span>The ‘greatest generation’ parents worked two jobs to put children through college for the first time in the family’s history. They lacked credentials and so they placed a high value on obtaining them. But there were so many boomers, how could we know which deserved to enter the Ivy Leagues? The brilliant solution was standardized testing, called the college entrance exams or SATs. Now one credential determines the rest of our lives.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong><span class=\"markup--strong markup--p-strong\">Millennials are doing it.</span></strong>&nbsp;Social media shares and followers are the new credential. Did your Instagram get voted on by 100 or 1000, because that isn’t just popularity, it could mean your career.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong><span class=\"markup--strong markup--p-strong\">Now everyone assumes credentials are better than experience.&nbsp;</span></strong>You don’t visit that favorite vacation cabin on Lake Placid your parents loved, you check Yelp. Or you find out if your therapist is on the list of best doctors before making an appointment.</p>\r\n<p class=\"graf graf--p graf-after--p\"><strong><span class=\"markup--strong markup--p-strong\">I say we take a break from credential worship.</span></strong></p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">I think it’s time we allowed instinct and gut feel to regain priority in how we evaluate people. If every college admitted students based on interviews, essays and life experience, don’t you think the results would be as good or better than an auditorium packed with good test takers and a sleeve full of #2 pencils?</p>\r\n<h4>Author’s Bio</h4>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p><em>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</em></p>\r\n<p><strong>Read more from Jeff:</strong></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/david-novak-millennials-are-most-misunderstood-generation\">David Novak: Millennials Are The Most Misunderstood Generation</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/how-disagree-president-general-david-petraeus\">How To Disagree With The President by General David Petraeus</a></p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/youre-going-get-fired-congratulations\">Fire a misfit, discover a genius</a></p>\r\n<p class=\"graf graf--h4 graf-after--h3 graf--subtitle\"><span class=\"markup--quote markup--h4-quote is-other\" data-creator-ids=\"bd56b52ecbe\">&nbsp;</span></p>"
+    format: basic_html
+    processed: ''
+    summary: 'In analyzing success rates in the ER, hospitals discovered experience often beats credentials.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1024
+    height: 683
+    target_type: file
+    target_uuid: 738fcf1f-f556-42f3-baf6-587327a8f2be
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.ac894624-e428-4d0f-8ea6-f90eebc88be8
+    file:
+      - file.image.738fcf1f-f556-42f3-baf6-587327a8f2be
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

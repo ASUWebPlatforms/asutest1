@@ -1,0 +1,46 @@
+uuid: 78562a95-746a-4165-a776-d35aaf0ae34a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.signpost_w_2_images.field_image_left
+    - field.field.paragraph.signpost_w_2_images.field_image_right
+    - field.field.paragraph.signpost_w_2_images.field_signpost
+    - paragraphs.paragraphs_type.signpost_w_2_images
+  module:
+    - media_library
+    - paragraphs
+id: paragraph.signpost_w_2_images.default
+targetEntityType: paragraph
+bundle: signpost_w_2_images
+mode: default
+content:
+  field_image_left:
+    type: media_library_widget
+    weight: 0
+    region: content
+    settings:
+      media_types: {  }
+    third_party_settings: {  }
+  field_image_right:
+    type: media_library_widget
+    weight: 2
+    region: content
+    settings:
+      media_types: {  }
+    third_party_settings: {  }
+  field_signpost:
+    type: entity_reference_paragraphs
+    weight: 1
+    region: content
+    settings:
+      title: Paragraph
+      title_plural: Paragraphs
+      edit_mode: open
+      add_mode: dropdown
+      form_display_mode: default
+      default_paragraph_type: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

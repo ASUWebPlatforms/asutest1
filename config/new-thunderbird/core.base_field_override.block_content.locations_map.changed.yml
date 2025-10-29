@@ -1,0 +1,18 @@
+uuid: 9f554e18-85c9-4b14-bed3-1889c7e4756f
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.locations_map
+id: block_content.locations_map.changed
+field_name: changed
+entity_type: block_content
+bundle: locations_map
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

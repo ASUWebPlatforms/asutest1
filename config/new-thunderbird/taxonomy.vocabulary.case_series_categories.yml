@@ -1,0 +1,8 @@
+uuid: 50bd6622-8e3e-4312-acef-f1eac25140b4
+langcode: en
+status: true
+dependencies: {  }
+name: 'Case series categories'
+vid: case_series_categories
+description: 'Migrated from old site.'
+weight: 0

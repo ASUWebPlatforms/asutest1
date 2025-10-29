@@ -1,0 +1,10 @@
+uuid: ee9c8fc0-105e-477a-bec6-5dfee1e31961
+langcode: en
+status: true
+dependencies: {  }
+id: thunder_product
+label: 'Thunder Product'
+icon_uuid: null
+icon_default: null
+description: 'Add Thunder Products.'
+behavior_plugins: {  }

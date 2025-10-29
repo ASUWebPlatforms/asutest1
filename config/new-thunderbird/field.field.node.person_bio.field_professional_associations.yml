@@ -1,0 +1,27 @@
+uuid: 2a1cfdcc-0862-4b5f-a431-7f1198cff3bc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_professional_associations
+    - node.type.person_bio
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - basic_html
+      - full_html
+id: node.person_bio.field_professional_associations
+field_name: field_professional_associations
+entity_type: node
+bundle: person_bio
+label: 'Professional Associations'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

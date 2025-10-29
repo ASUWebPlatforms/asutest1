@@ -1,0 +1,135 @@
+.spacing-top-8 {
+  padding-top: 8px;
+}
+
+.spacing-top-16 {
+  padding-top: 16px;
+}
+
+.spacing-top-24 {
+  padding-top: 24px;
+}
+
+.spacing-top-32 {
+  padding-top: 32px;
+}
+
+.spacing-top-48 {
+  padding-top: 48px;
+}
+
+.spacing-top-72 {
+  padding-top: 72px;
+}
+
+.spacing-top-96 {
+  padding-top: 96px;
+}
+
+.spacing-bottom-8 {
+  padding-bottom: 8px;
+}
+
+.spacing-bottom-16 {
+  padding-bottom: 16px;
+}
+
+.spacing-bottom-24 {
+  padding-bottom: 24px;
+}
+
+.spacing-bottom-32 {
+  padding-bottom: 32px;
+}
+
+.spacing-bottom-48 {
+  padding-bottom: 48px;
+}
+
+.spacing-bottom-72 {
+  padding-bottom: 72px;
+}
+
+.spacing-bottom-96 {
+  padding-bottom: 96px;
+}
+
+.spacing-top-minus-8 {
+  margin-top: -8px;
+}
+
+.spacing-top-minus-16 {
+  margin-top: -16px;
+}
+
+.spacing-top-minus-24 {
+  margin-top: -24px;
+}
+
+.spacing-top-minus-32 {
+  margin-top: -32px;
+}
+
+.spacing-top-minus-48 {
+  margin-top: -48px;
+}
+
+.spacing-top-minus-72 {
+  margin-top: -72px;
+}
+
+.spacing-top-minus-96 {
+  margin-top: -96px;
+}
+
+.spacing-bottom-minus-8 {
+  margin-bottom: -8px;
+}
+
+.spacing-bottom-minus-16 {
+  margin-bottom: -16px;
+}
+
+.spacing-bottom-minus-24 {
+  margin-bottom: -24px;
+}
+
+.spacing-bottom-minus-32 {
+  margin-bottom: -32px;
+}
+
+.spacing-bottom-minus-48 {
+  margin-bottom: -48px;
+}
+
+.spacing-bottom-minus-72 {
+  margin-bottom: -72px;
+}
+
+.spacing-bottom-minus-96 {
+  margin-bottom: -96px;
+}
+
+.corners {
+  @include media-breakpoint-up(lg) {
+    border: 30px solid transparent; /* space for the border */
+    background:
+        linear-gradient($gold, $gold) top left,
+        linear-gradient($gold, $gold) top left,
+        linear-gradient($gold, $gold) bottom left,
+        linear-gradient($gold, $gold) bottom left,
+        linear-gradient($gold, $gold) top right,
+        linear-gradient($gold, $gold) top right,
+        linear-gradient($gold, $gold) bottom right,
+        linear-gradient($gold, $gold) bottom right;
+    background-size: 30px 120px, 120px 30px;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+  }
+}
+
+.outer-border{
+  border: 5px solid $gold;
+  padding: 15px;
+  background-clip: content-box;
+}

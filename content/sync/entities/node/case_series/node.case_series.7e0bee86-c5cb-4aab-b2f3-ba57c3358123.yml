@@ -1,0 +1,111 @@
+uuid:
+  -
+    value: 7e0bee86-c5cb-4aab-b2f3-ba57c3358123
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T17:23:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Gazprom: The Ebb and Flow of State Patronage'
+created:
+  -
+    value: '2016-07-16T00:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T17:23:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-13-0004
+body:
+  -
+    value: '<p><span>In 2012, Gazprom was widely believed to be on the verge of a steep decline. It had witnessed meteoric growth from its early days as an experiment in privatization of oil and gas following the rapid break-up of the Soviet Union. The case documents the growth strategies that the company has followed, its global aspirations, and the impact of its political lineage, and discusses how the winds of change heralded the decline of the company. It discusses in detail the role of government policies toward national companies, the influence of politics and power, as well as the management of state-owned entities in emerging markets. The case offers a rich mix of insights into the contextual forces at work in shaping the destiny of Gazprom, the political pressures it faces as Russia''s largest company, and its stutter-step approach to globalization. The material in the case allows for a comprehensive analysis and discussion on central themes such as the origin of competitive advantage for NOCs (National Oil Companies), the unique governance conflicts that they have to navigate in setting strategic direction, and the viability of their globalization strategies.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-13-0004
+field_case_page_length:
+  -
+    value: '14 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2013-01-01'
+field_case_setting:
+  -
+    value: 'North America'
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: 71ae49d3-767b-4ef8-91e3-80442b78990e
+  -
+    target_type: taxonomy_term
+    target_uuid: ab936040-6a11-43e2-8fc5-865a0b63953a
+field_teaching:
+  -
+    value: "The case is particularly useful in settings such as executive education, advanced elective courses in the energy industry, and in courses on international political economy at the master's level. It has been successfully used in specialized corporate learning environments specifically involving oil-and-gas sector executives. The specific teaching objectives for the case are:\r\n\r\nTo provide a quick, yet comprehensive, understanding of the strategy-making and execution processes in large government-owned enterprises.\r\nTo gain insights into the critical resource-based industries in emerging markets—especially in settings of relevance to the energy business.\r\nTo explore the sources and consequences of competitive advantage in government-owned companies.\r\nTo offer a deeper look into the role of political power in the creation and execution of global strategy."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.71ae49d3-767b-4ef8-91e3-80442b78990e
+      - taxonomy_term.case_series_fields.ab936040-6a11-43e2-8fc5-865a0b63953a

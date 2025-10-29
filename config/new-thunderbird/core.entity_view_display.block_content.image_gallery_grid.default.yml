@@ -1,0 +1,40 @@
+uuid: 08fc58a4-c516-46bb-9d1b-d37ebc35e0c5
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.image_gallery_grid
+    - field.field.block_content.image_gallery_grid.field_image_items
+    - field.field.block_content.image_gallery_grid.field_title
+  module:
+    - entity_reference_revisions
+    - field_load_more
+id: block_content.image_gallery_grid.default
+targetEntityType: block_content
+bundle: image_gallery_grid
+mode: default
+content:
+  field_image_items:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings:
+      field_load_more:
+        items_show: ''
+        link_text: ''
+        field_load_more_enabled: 0
+    weight: 2
+    region: content
+  field_title:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true
+  search_api_excerpt: true

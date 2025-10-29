@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 7161c5a1-7060-453d-969f-512ae9ab9660
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-01-15T14:52:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: '8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs '
+created:
+  -
+    value: '2017-12-21T16:01:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-01-15T14:52:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/8-reasons-why-phoenix-hub-innovative-entrepreneurs
+body:
+  -
+    value: "<p>[[{\"fid\":\"10616\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs\",\"field_file_image_title_text[und][0][value]\":\"8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs\"},\"link_text\":null,\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs\",\"field_file_image_title_text[und][0][value]\":\"8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs\"}},\"attributes\":{\"alt\":\"8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs\",\"title\":\"8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs\",\"style\":\"display: block; margin-left: auto; margin-right: auto;\",\"class\":\"media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>When Tuft &amp; Needle co-founders felt overwhelmed trying to keep a software business afloat in Silicon Valley, they turned to the wisdom of <a href=\"/node/2525\">Warren Buffet, the Oracle of Omaha</a>, who quite consciously decided to keep his business and his life anchored in Omaha, Nebraska.</p>\r\n<p><a href=\"https://www.tuftandneedle.com/about/story/\" target=\"_blank\">Tuft and Needle's Daehee Park and JT&nbsp;Marino</a> didn’t want to head to Omaha, but they did want to try something new. They wanted to find a place that would support their new startup without the stress and unhappiness they saw all around them. They wanted to quit and start again in a completely different place: Phoenix, Arizona.</p>\r\n<blockquote>\r\n<p><i>“</i><i>Phoenix may have long been a popular place for retirement, but Tuft &amp; Needle’s co-founders immediately saw it as a place for their startup to thrive</i><i>.” – <a href=\"https://ctt.ec/Bc0Tk\">Click to tweet</a><a href=\"#_msocom_1\" id=\"_anchor_1\" name=\"_msoanchor_1\"></a><br></i></p>\r\n</blockquote>\r\n<p>As it turned out, somewhat to their surprise, Phoenix was no Omaha. Phoenix may have long been a popular place for retirement, but Park and Marino immediately saw it as a place to thrive. As a city where they could launch a business, Phoenix was perfect. A whole series of practical and cultural reasons make the city an ideal place to start a business. Here are eight.</p>\r\n<h3>8 Reasons Why Phoenix is a Hub for Innovative Entrepreneurs</h3>\r\n<h3>#1: Cost of living</h3>\r\n<p>Phoenix is one of the most affordable large cities in the U.S. The <a href=\"https://www.expatistan.com/cost-of-living/phoenix\">average rent</a> for a 900-square-foot apartment in an expensive location is $1,302. The median sales price of a home is $226,000. All told, the average cost of living is <a href=\"https://www.expatistan.com/cost-of-living/comparison/san-francisco/phoenix\">42% less than northern California.</a></p>\r\n<blockquote>\r\n<p><i>“The average cost of living is 42% less in Phoenix than in northern California.” – <a href=\"https://ctt.ec/b1b0R\">Click to tweet</a></i><i><a href=\"#_msocom_2\" id=\"_anchor_2\" name=\"_msoanchor_2\"></a><br></i></p>\r\n</blockquote>\r\n<h3>#2: Business climate</h3>\r\n<p>From aggressive tax credits and incentives to programs designed to increase capital, the Phoenix region offers a robust pro-business climate. The cost of doing business in Phoenix is up to <a href=\"https://www.gpec.org/doing-business-here/operating-costs-incentives/\">32% less than in California</a>. Phoenix has an extremely competitive workforce and one of the lowest national labor costs. Along with low business costs there is minimal regulation and an advantageous operating environment. Cities in the Phoenix area are known to expedite permitting 100% of the time.</p>\r\n<blockquote>\r\n<p><i>“The Phoenix startup ecosystem helps entrepreneurs work where they want to live.” – <a href=\"https://ctt.ec/tpj4C\">Click to tweet</a></i><i><a href=\"#_msocom_3\" id=\"_anchor_3\" name=\"_msoanchor_3\"></a><br></i></p>\r\n</blockquote>\r\n<h3>#3: Pro-business regulations</h3>\r\n<p>Arizona offers a minimalist regulatory approach, with no corporate franchise tax. Income and property taxes are relatively low. And it is a&nbsp;right-to-work state. Economic development programs include the Quality Jobs Tax Credit, Qualified Facilities Refundable Tax Credit and the Renewable Energy Tax Investment, among others.</p>\r\n<h3>#4: The talent pipeline</h3>\r\n<p>Greater Phoenix has a population of 4.4 million and is expected to grow to 5.5 million in the next 10 years. The region offers a skilled, diverse workforce fed by globally recognized universities and community colleges. Projected employment growth over the next decade is 17 percent, compared to the national average of 11 percent. With a median age of 35.4, the region’s population is the <a href=\"https://www.gpec.org/doing-business-here/demographics-workforce/\">sixth youngest metro area in the nation</a>.</p>\r\n<blockquote>\r\n<p><i>“Projected employment growth over the next decade is 17% in Phoenix, compared to 11% nationwide.” – <a href=\"https://ctt.ec/8j5Wz\">Click to tweet</a></i><i><a href=\"#_msocom_4\" id=\"_anchor_4\" name=\"_msoanchor_4\"></a><br></i></p>\r\n</blockquote>\r\n<h3>#5: The startup scene</h3>\r\n<p>The Phoenix region, also known as the Valley of the Sun, is busy with entrepreneurial activity and resources to support it. A few of the formal and ad hoc organizations, incubators, and events supporting entrepreneurs include:</p>\r\n<ul>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\"></span><a href=\"http://azcommerce.com/\" style=\"font-size: 1em;\">Arizona Commerce Authority (ACA)</a><span style=\"font-size: 1em; background-color: transparent;\"> is the state’s leading economic development organization. Its goals are to recruit, grow, and create. Its </span><a href=\"https://www.azcommerce.com/start-up/\" style=\"font-size: 1em;\">Arizona Innovation Challenge</a><span style=\"font-size: 1em; background-color: transparent;\"> awards the most money in the country for a technology challenge, $3 million, to the world’s most promising technology ventures.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\"></span><a href=\"https://cohoots.com/\" style=\"font-size: 1em;\">CO+HOOTS</a><span style=\"font-size: 1em; background-color: transparent;\"> is a member-sustained, community-supported collaborative coworking space in midtown Phoenix. The CO+HOOTS Foundation provides opportunities for underrepresented communities through ongoing education, scholarships, and partnerships.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\">Through </span><a href=\"https://entrepreneurship.asu.edu/launch\" style=\"font-size: 1em;\">Entrepreneurship + Innovation at ASU</a><span style=\"font-size: 1em; background-color: transparent;\">, Arizona State University offers many opportunities for startups, including mentor networks, funding networks, and spaces to share and create.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\"></span><a href=\"http://www.ceigateway.com/\" style=\"font-size: 1em;\">Center for Entrepreneurial Innovation (CEI)</a><span style=\"font-size: 1em; background-color: transparent;\"> is an incubator in central Phoenix that provides the services, space, and support critical to the development of early-stage and startup companies.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\">Invest Southwest Improving Invest-ability Workshops help entrepreneurs connect with mentors, investors, and more all while sharpening their skills.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\"></span><a href=\"http://seedspot.org/\" style=\"font-size: 1em;\">SEED SPOT</a><span style=\"font-size: 1em;\"></span><span style=\"font-size: 1em; background-color: transparent;\"> is a non-profit network and creative space that offers curriculum and mentorship to educate, accelerate, and invest in entrepreneurs who are creating solutions to social problems. <a href=\"https://seedspot.org/who-we-are/cpher-gresham-2/\" target=\"_blank\">Thunderbird alumnus </a>C'pher<a href=\"https://seedspot.org/who-we-are/cpher-gresham-2/\" target=\"_blank\"> Gresham</a> is the non-profit's VP of Communities.<br></span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\"></span><a href=\"https://www.startupgrind.com/phoenix/\" style=\"font-size: 1em;\">Startup Grind Phoenix</a><span style=\"font-size: 1em; background-color: transparent;\"> is Arizona’s chapter of the global networking community. The Phoenix chapter has 4,400 members.</span></li>\r\n<li><span style=\"font-size: 1em; background-color: transparent;\"></span><a href=\"https://yesphx.com/\" style=\"font-size: 1em;\">#yesphx</a><span style=\"font-size: 1em; background-color: transparent;\"> started as a hashtag for Arizona startup activity. It quickly and organically became the way many people within the local </span><a href=\"https://medium.com/yesphx-stories/my-top-30-people-to-know-in-startups-around-phoenix-e347e09c6e78\" style=\"font-size: 1em;\">entrepreneurial ecosystem</a><span style=\"font-size: 1em; background-color: transparent;\"> refer to the startup community.</span></li>\r\n</ul>\r\n<blockquote>\r\n<p><i>“The Arizona Commerce Authority awards the most money in the country for a technology challenge, $3 million, to the world’s most promising technology ventures.” – <a href=\"https://ctt.ec/Kt147\">Click to tweet</a></i><i><a href=\"#_msocom_5\" id=\"_anchor_5\" name=\"_msoanchor_5\"><br></a></i><i></i></p>\r\n</blockquote>\r\n<h3>#6: Cool factor</h3>\r\n<p>A tech renaissance is taking place in a 2-square-mile area downtown called <a href=\"https://www.usatoday.com/story/tech/columnist/2017/05/20/phoenixs-tech-scene-growing----old-warehouse-district/100786958/\">Phoenix’s Warehouse District</a>. 60 tech startups work out of a 55,000-square-foot technology-education campus run by Galvanize, a learning community for technology companies. The district is just blocks from the site of <a href=\"/node/3009\">Thunderbird's new home on the ASU Downtown Phoenix campus</a>.</p>\r\n<h3>#7: Phoenix takes its coffee seriously</h3>\r\n<p><a href=\"https://www.airbnb.com/things-to-do/phoenix/food-scene/cafe-or-coffee-shop\">AirBnB’s list of favorite coffee</a> spots and cafes in Phoenix is 30 strong. Many of them double, of course, as startup offices.</p>\r\n<h3>#8: It may be hot, but …</h3>\r\n<p>In the City of Phoenix alone, residents enjoy more than 41,000 acres of desert parks and mountain preserves with more than 200 miles of trails; 182 spacious city parks; 32 community and recreation centers; classes and sports programs where kids and adults learn, stay active and have fun; eight golf courses; and 29 pools. There are 299 days of sunshine each year and 0 days of snow.</p>\r\n<blockquote>\r\n<p><i>“In Phoenix alone, residents enjoy more than 41,000 acres of desert parks and mountain preserves with more than 200 miles of trails.” – <a href=\"https://ctt.ec/uy948\">Click to tweet</a></i><i><a href=\"#_msocom_6\" id=\"_anchor_6\" name=\"_msoanchor_6\"></a><br></i><i></i></p>\r\n</blockquote>\r\n<p>That means the weather - and the mood - is ripe for business. And, entrepreneurs are finding that the sunny days that called them to the Valley are calling customers here in droves as well. Sounds like a win-win.</p>\r\n<p><strong>Join the discussion!</strong></p>\r\n<p>Tired of high-speed competition in a high-rent location? Would you like to start your business where others vacation? Ever thought about tapping into the Phoenix area’s entrepreneurial community? Share your thoughts with us on&nbsp;<a href=\"https://www.linkedin.com/company/7598\">LinkedIn</a>,&nbsp;<a href=\"https://www.facebook.com/ThunderbirdSchool/\">Facebook</a>, and&nbsp;<a href=\"https://twitter.com/thunderbird\">Twitter</a>.</p>"
+    format: basic_html
+    processed: ''
+    summary: 'When Tuft & Needle co-founders felt overwhelmed trying to keep a software business afloat in Silicon Valley, they turned to the wisdom of Warren Buffet, the Oracle of Omaha, who quite consciously decided to keep his business and his life anchored in Omaha, Nebraska.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2300
+    height: 1791
+    target_type: file
+    target_uuid: 42e41cd2-dc15-4f1c-b8db-c47fc8b5cfc7
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b08d5919-cc6b-4ba9-b8e0-c87cc431314a
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.42e41cd2-dc15-4f1c-b8db-c47fc8b5cfc7
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b08d5919-cc6b-4ba9-b8e0-c87cc431314a

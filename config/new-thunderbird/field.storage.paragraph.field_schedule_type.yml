@@ -1,0 +1,30 @@
+uuid: 53011ee4-7010-42c5-8bc4-8e074630f164
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - paragraphs
+id: paragraph.field_schedule_type
+field_name: field_schedule_type
+entity_type: paragraph
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: after
+      label: 'Days after the invite'
+    -
+      value: before
+      label: 'Days before the due date'
+    -
+      value: datetime
+      label: 'On a select date at a certain time'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

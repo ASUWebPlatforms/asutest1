@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: ce7af50a-31ad-4d0e-8a7f-d188ba9ff88c
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T16:46:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Ricoh Canada Inc'
+created:
+  -
+    value: '2016-07-15T20:41:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T16:46:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-15-0006
+body:
+  -
+    value: '<p><span>Ricoh Canada Inc., headquartered in Toronto, Canada, is a fully owned subsidiary of Japanese technology giant Ricoh Company, Ltd. The case’s core problem stems from the fact that the perpetual success of a business model based on selling and maintaining digital print solutions is coming to an end. Ricoh Canada Inc. is at the front lines of a company trying to change its appearance. For so long Ricoh has been known as the “printer guys,” however, within three years the market that Ricoh Canada Inc. has so long relied on is going to contract. With strong cash flow from its legacy business Ricoh Canada Inc. must decide where to invest to ensure returns for the future; services such as IT support and document management seem to be the obvious answer, but the question of how Ricoh Canada should grow in these new markets is not so obvious.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-15-0006
+field_case_page_length:
+  -
+    value: '15 pages'
+field_case_series_author:
+  - {  }
+  -
+    target_type: taxonomy_term
+    target_uuid: a3224236-6fe1-4a70-88c4-c4add7769895
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2015-01-01'
+field_case_setting:
+  -
+    value: 'Canada, Japan, North America'
+field_case_source:
+  -
+    value: 'Private/Field – Data secured directly from organization or individual'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: b71a9a39-be4c-4214-bb98-e5519a51520b
+field_teaching:
+  -
+    value: 'This case is designed for use in a graduate business strategy course or an international business class on the subject of subsidiary mandate/initiative. The prevailing theme in this case is how to grow a corporation when its main revenue driving market is stagnant and soon contracting.   '
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.a3224236-6fe1-4a70-88c4-c4add7769895
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.b71a9a39-be4c-4214-bb98-e5519a51520b

@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 2d5fb196-fae8-4aa1-8d95-e8547da862a1
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-11-03T17:29:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Baring Brothers & Company'
+created:
+  -
+    value: '2016-07-27T22:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-11-03T17:29:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/e06-99-0021
+body:
+  -
+    value: "<div class=\"field field-name-body field-type-text-with-summary field-label-above\">\r\n<div class=\"field-items\">\r\n<div class=\"field-item even\">\r\n<p>Nicholas Leeson was a rogue trader who reduced the value of the venerable Baring Brothers &amp; Co. (BB&amp;Co) Bank from roughly $500 million dollars to $1.60. Lesson traded futures contracts on the Nikkei 225 and on Japanese Government Bonds without authorization while management at Barings, the Singapore International Monetary Exchange, the Osaka Stock Exchange, and other governing bodies in Britain and Singapore disregarded or failed to recognize the potential for financial disaster. The failure of Barings Bank provides a lesson in the risks and responsibilities involved in organizing and monitoring derivatives trading.</p>\r\n<p>&nbsp;</p>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: E06-99-0021
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: b3ae9e15-a311-4006-a208-04ab800dfb84
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'Singapore 1995'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: bdbf71eb-96bb-4c05-8699-5ba1ea120036
+field_teaching:
+  -
+    value: N/A
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.b3ae9e15-a311-4006-a208-04ab800dfb84
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.bdbf71eb-96bb-4c05-8699-5ba1ea120036

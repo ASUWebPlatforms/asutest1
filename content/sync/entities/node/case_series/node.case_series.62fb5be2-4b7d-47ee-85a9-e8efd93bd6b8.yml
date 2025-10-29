@@ -1,0 +1,100 @@
+uuid:
+  -
+    value: 62fb5be2-4b7d-47ee-85a9-e8efd93bd6b8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-27T22:43:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Trefica of Honduras'
+created:
+  -
+    value: '2016-07-27T22:43:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-27T22:43:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-99-0029
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>The case focuses on the management of strategic and financial issues confronting Trefiladora Centroamericana (Trefica), a privately held wire manufacturing business in Choluteca, Honduras, in 1998. The company currently faces increasing losses and cash flow shortfalls resulting from market liberalization policies of its government. Foreign competitors are now entering a market that previously was protected to Trefica''s benefit. Trefica was not previously subject to the competitive forces of international competition; now, to its detriment, it is. Juan Antonio Vente is the newly appointed president of Trefica, his family-owned business, and must make critical decisions about its capitalization and future, including whether to sell the business or restructure it.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-99-0029
+field_case_page_length:
+  -
+    value: '12 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '1999-01-01'
+field_case_setting:
+  -
+    value: 'Honduras 1998'
+field_case_source:
+  -
+    value: Private/Field
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 60f33b83-9113-4a48-81a2-02124d2f5f85
+field_teaching:
+  -
+    value: "This case can and has been used in a variety of settings and applications. Within degree programs, the case can be used to detail evolving corporate strategy in emerging markets, and the difficulties faced by small firms in gaining access to adequate amounts of capital at acceptable costs. The case requires the reader to assimilate both competitive and financial information to determine the firm's future viability and financial needs. The financial analysis under this application would focus on the creation of a pro forma statement of cash flows, which would then be used to undertake a variety of sensitivities depending on capital structure and debt service commitments. It is also indicative of the nature of competition often found in emerging markets, and the opportunities and pitfalls of expanding into small-segmented markets.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.60f33b83-9113-4a48-81a2-02124d2f5f85

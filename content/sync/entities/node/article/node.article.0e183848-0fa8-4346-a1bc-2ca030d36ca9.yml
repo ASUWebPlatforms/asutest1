@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 0e183848-0fa8-4346-a1bc-2ca030d36ca9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-04-13T01:15:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+title:
+  -
+    value: 'Q&A with Thunderbird''s Director of Employer Relations'
+created:
+  -
+    value: '2017-04-13T01:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-04-13T01:15:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/q-a-director-employer-relations
+body:
+  -
+    value: "<p>Thunderbird students have immediate and consistent access to our team of career-support professionals in the on-campus Career Management Center. Among the CMC team is Helen Wu '12, Director of Employer Relations. She shares some insight with us here!</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: 339px;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"4881\",\"view_mode\":\"responsive_image\",\"fields\":{\"format\":\"responsive_image\",\"field_file_image_alt_text[und][0][value]\":\"Meet Thunderbird's Director of Employer Relations, Helen Wu '12\",\"field_file_image_title_text[und][0][value]\":\"Meet Thunderbird's Director of Employer Relations, Helen Wu '12\"},\"type\":\"media\",\"attributes\":{\"alt\":\"Meet Thunderbird's Director of Employer Relations, Helen Wu '12\",\"title\":\"Meet Thunderbird's Director of Employer Relations, Helen Wu '12\",\"height\":\"337\",\"width\":\"339\",\"class\":\"panopoly-image-full media-element file-responsive-image\"},\"link_text\":null}]]\r\n<p class=\"caption-text\">Meet Thunderbird Director of Employer Engagement, Helen Wu '12.</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p><strong>Q: What is your role and the main objective of the Career Management Center at Thunderbird?</strong></p>\r\n<blockquote>\r\n<p>Helen: I am the “matchmaker” for T-birds and employers. I contact employers directly and find out what their needs are and then match students whose skill sets/abilities are compatible in order to provide an opportunity to connect.</p>\r\n</blockquote>\r\n<p><strong>Q: What top employers are seeking Thunderbird talent?</strong></p>\r\n<blockquote>\r\n<p>Helen: The top employers working with us are Walmart, ExxonMobil, Microsoft, State Department, Dish Network, Gallup, BizCorps, Allegiant, Delphi, Ford Credit, and Western Union, to name a few.</p>\r\n</blockquote>\r\n<p><strong>Q: How do you help current students find their dream job?</strong></p>\r\n<blockquote>\r\n<p>Helen: Every employer is different and unique, and has a very specific way of representing its culture, industry, job function, etc. We coach T-birds on how to interact and engage with each of these unique recruiters/interviewers based on <em>their</em> style in order to help the student ultimately gain employment.</p>\r\n</blockquote>\r\n<p><strong>Q: What advice would you give to a current student to get his/her dream job?</strong></p>\r\n<blockquote>\r\n<p>Helen: You have to narrow choices down to an industry, job function or company that realistically parallels your skill set. Once you have done that, then engage us at the CMC. By doing that pre-work, we can better enable you to potentially match to an ideal employer.</p>\r\n</blockquote>\r\n<p>For more information on the CMC's services, email <a href=\"mailto:employer.relations@thunderbird.edu\" target=\"_blank\">employer.relations@thunderbird.edu</a>.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 741
+    height: 736
+    target_type: file
+    target_uuid: edb4ffb5-484d-44da-823e-6f3b2bd97692
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: c08e9d21-c3d2-46ef-b4ab-5afe66a0e563
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b
+    file:
+      - file.image.edb4ffb5-484d-44da-823e-6f3b2bd97692
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.c08e9d21-c3d2-46ef-b4ab-5afe66a0e563

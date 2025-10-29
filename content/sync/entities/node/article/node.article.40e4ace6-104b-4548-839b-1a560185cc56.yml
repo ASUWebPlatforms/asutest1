@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 40e4ace6-104b-4548-839b-1a560185cc56
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-05-24T19:11:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 3e7a6906-7d20-4a35-957e-2a9195451f5d
+title:
+  -
+    value: '10 really wise things Jeff Immelt told me'
+created:
+  -
+    value: '2017-05-24T19:11:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-05-24T19:11:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/10-really-wise-things-jeff-immelt-told-me
+body:
+  -
+    value: "<ol>\r\n<li>The world will surprise you even if you’re a CEO</li>\r\n</ol>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--li\">“I think the biggest surprise is the world twisted from one of benign growth to high volatility and geo-political risk. In many ways the environment today is nothing like what I thought it would be when I became CEO.”</p>\r\n<p class=\"graf graf--p graf-after--p\">2. The company may be a 100 year success, but it has to change</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“I had a sense we were more well constructed for an American-centric economy, one that was not quite as volatile. We really started thinking the portfolio had to change to our new philosophy — we only wanted to be as broad as we were deep.”</p>\r\n<p class=\"graf graf--p graf-after--p\">3. You need to discover what you do better</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“We looked at those businesses where we had an essential competitive advantage. I thought about technology, globalization, installed base revenue as being our core competencies. We wanted to keep financial services to more than a third of the company and the financial crisis more or less took care of that.”</p>\r\n<p class=\"graf graf--p graf-after--p\">4. You may follow a tough act in your career</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“When you replace a famous person, you’re always reminded of things he said. I think what really makes great leaders or what made my predecessor great was he really didn’t care too much about history. It’s why today, we think about what’s right for now, not what was right ten, twenty, or thirty years ago.”</p>\r\n<p class=\"graf graf--p graf-after--p\">5. You may not be good at all things</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“I think we used to think if you had good leaders you could be in any business. We want to have good leaders, but we now believe deep domain expertise is critically important. Business has no shelf life.”</p>\r\n<p class=\"graf graf--p graf-after--p\">6. You can be Warren Buffett as long as you are yourself</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“I always look at what Warren Buffett is doing. The thing I admire the most is he never follows a fad. His thesis, what he believes in, how he invests, never changes. That is something I’ve tried to do in my own context at GE, stick to a very disciplined box of what makes a great GE business.”</p>\r\n<p class=\"graf graf--p graf-after--p\">7. You are competing with Google even if you don’t know it</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“We’re not going away. We’re paranoid, we’re investing, we’re changing, we’re relevant to our customers and the industries that we serve in. We don’t want to be Microsoft or Google, but we’re inspired by them. We want to be better because of them. I want to be in the top ten most valuable brands. It’s not okay for me to say, ‘Oh gosh, we’re too old.’ That’s not acceptable as a thought for our company.”</p>\r\n<p class=\"graf graf--p graf-after--p\">8. Hard things are going to be hard</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“I’ve done this now 14 years. Anyone that says they think these jobs are easy…these are hard jobs and you have to learn every day. What I love about our company and what I try to match myself is resiliency. We’ve been able to change the portfolio, grow earnings, through three recessions and political unrest. In a very volatile world, we’ve stayed focused, accountable to our customers, our investors, and have this this sense that we’re never as good as we want to be and that no matter what happens we can get better.”</p>\r\n<p class=\"graf graf--p graf-after--p\">9. Diversity is a secret weapon</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“I’m in my 30th year of being trained how to run a meritocracy, how to be open, how to encourage an open workplace. There’s no excuse for people not to be open — no matter what you’ve done, if you can bring it, if you’ve got merit, if you’re winning, you’re going to get promoted.”</p>\r\n<p class=\"graf graf--p graf-after--p\">10. Experience will make you better if you let it</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“There’s no doubt in my mind, when I talk to other leaders, you haven’t led until you’ve been through a ‘flying close to the sun’ tail risk. Now your investors don’t love you when that’s happening. When you’re in the middle of the crisis you may not understand you’re getting better, and people that are investing in you are a little bit hacked off.”</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">“You can only tell about people when it’s 15 minutes till midnight and it’s crappy outside and horrible things are happening, then you can tell who’s good, and who can make it and who can’t. I think in my own case, I’ve learned from all the things that have happened over time and hopefully become better.”</p>\r\n<p class=\"graf graf--p graf--startsWithDoubleQuote graf-after--p\">https://youtu.be/iJ4fnnM82no</p>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.iconicvoices.tv/&amp;source=gmail&amp;ust=1495738341305000&amp;usg=AFQjCNHeuvSU1-ryJM6RhhHI6KI1Rq8jQA\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.jeffcunningham.com/&amp;source=gmail&amp;ust=1495738341305000&amp;usg=AFQjCNHRqNlCGHuXKHdqX55wgVFj1s4bdg\">JeffCunningham.com.</a><span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p>He has also been a board director of 10 public companies.<span style=\"text-decoration: underline;\"></span><span style=\"text-decoration: underline;\"></span></p>\r\n<p><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 40ceffd7-a838-4d4a-86ca-27756af02584
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.3e7a6906-7d20-4a35-957e-2a9195451f5d
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.40ceffd7-a838-4d4a-86ca-27756af02584

@@ -1,0 +1,30 @@
+{#
+/**
+ * @file
+ * Template for a user view.
+ */
+#}
+{% set classes = [
+  'user',
+  'user-gdmi',
+  'user--' ~ view_mode|clean_class,
+] %}
+
+<article{{ attributes.addClass(classes) }}>
+  <h3 class="user-gdmi__heading">{{ 'Personal Information'|t }}</h3>
+  <p class="user-gdmi__description">{{ 'Your personal information saved to your account.'|t }}</p>
+  {% block content %}
+  <div class="user-gdmi__items">
+  {% for item in content %}
+    {% if loop.last %}
+      <div class="field user__field-email field-email">
+        <div class="field__label font-weight-bold">{{ 'Email'|t }}</div>
+        <div class="field__item">{{ elements['#user'].email }}</div>
+      </div>
+    {% endif %}
+    {{- item -}}
+  {% endfor %}
+  </div>
+  {% endblock %}
+</article>
+

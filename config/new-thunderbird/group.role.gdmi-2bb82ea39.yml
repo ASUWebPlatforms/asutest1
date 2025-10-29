@@ -1,0 +1,17 @@
+uuid: 9cb9ed5e-faaf-4130-b147-b4a4d2f73c61
+langcode: en
+status: true
+dependencies:
+  config:
+    - group.type.gdmi
+  enforced:
+    config:
+      - user.role.employee
+id: gdmi-2bb82ea39
+label: Employee
+weight: 3
+internal: true
+audience: outsider
+group_type: gdmi
+permissions_ui: false
+permissions: {  }

@@ -1,0 +1,10 @@
+display:
+  default:
+    display_options:
+      fields:
+        title:
+          label: শিরোনাম
+      arguments:
+        order_item_id:
+          exception:
+            title: সমস্ত

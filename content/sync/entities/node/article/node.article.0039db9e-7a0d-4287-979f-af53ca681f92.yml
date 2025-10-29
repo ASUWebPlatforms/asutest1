@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: 0039db9e-7a0d-4287-979f-af53ca681f92
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T00:03:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'We Live in Uncertain Times. Thunderbird CEO & Director General Allen Morrison Explains Why'
+created:
+  -
+    value: '2017-05-31T22:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T00:03:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/we-live-uncertain-times-thunderbird-ceo-director-general-allen-morrison-explains
+body:
+  -
+    value: "<p>“The problem now is that the data is so complicated really nobody understands it, not in its totality. It exceeds the mental ability of any one leader to figure out. You can’t know, and it’s not your fault. It’s just the way it is. So these are truly uncertain times. And they’re probably not going away.”</p>\r\n<p>That’s Thunderbird School of Global Management CEO and Director General <a href=\"https://thunderbird.asu.edu/allen-j-morrison\" target=\"_blank\">Dr. Allen Morrison</a>, speaking as part of the 2017 Global Speaker Series.</p>\r\n<p><a href=\"https://thunderbird.asu.edu/knowledge-network/watch-now-2017-gss\" target=\"_blank\"><span class=\"btn btn-primary btn-block\">Watch Dr. Morrison's full lecture here</span></a></p>\r\n<p>But let’s start at the beginning.</p>\r\n<h3>The accelerating pace of technological innovation</h3>\r\n<p>A thousand years ago the rate of technological change was very slow, Morrison explained. “Some of these innovations you might not even call technologies, but they were huge innovations in their time.” The saddle, for example. “It was a huge military advantage, yet it took the Romans 600 years of losing battles to adopt that technology.”</p>\r\n<p>Since then, the speed at which technologies are invented and adopted has accelerated dramatically. It took 46 years for just a quarter of the U.S. population to have electricity. It was 35 years before a quarter of the population had a telephone. PCs: 16 years. Mobile phones: 13 years. Web: 7 years. “The pace of technological change has accelerated.”</p>\r\n<h3>&nbsp;[[{\"fid\":\"5363\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Speaker Series Dr. Morrison\",\"field_file_image_title_text[und][0][value]\":\"Speaker Series Dr. Morrison\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Speaker Series Dr. Morrison\",\"field_file_image_title_text[und][0][value]\":\"Speaker Series Dr. Morrison\"}},\"attributes\":{\"alt\":\"Speaker Series Dr. Morrison\",\"title\":\"Speaker Series Dr. Morrison\",\"height\":\"329\",\"width\":\"356\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]The Knowledge Doubling Curve</h3>\r\n<p>“With this rapid uptake of technology has also come a rapid generation of knowledge,” Morrison said. He explained Buckminster Fuller’s Knowledge Doubling Curve, which reveals the rate at which human knowledge doubles. (Think of it as taking everything known by humans and putting it into a book – how often does the book double in length?) Through 1900, human knowledge doubled about every century. By the end of World War II, human knowledge was doubling every 25 years.</p>\r\n<p>Today? Human knowledge doubles every 13 months.</p>\r\n<div>\r\n<p>Data, data everywhere</p>\r\n<p><a href=\"https://ctt.ec/ehQui\" target=\"_blank\"><i>“Through 1900, human knowledge doubled every 100 years. Today, it doubles every 13 months.” – Click to tweet</i></a></p>\r\n<p>The increasingly rapid rise in human knowledge is closely tied to the accelerating pace of technological change. “The more technology advances, the more knowledge is produced,” explained Morrison. “Take Google, as just one example. Google knows pretty much everything there is to know about you. Your age, your gender, where you live, what language you speak, who you contact and how frequently, what you buy, your political orientation, what music you like. Google knows whether you’re depressed or happy on a particular day. Google might know you better than you know yourself.”</p>\r\n<p>And it’s not just Google, of course. It’s the 150,000 medical devices sending and receiving data through the Internet. The 36,000 jet engines equipped with sensors, each collecting 10 gigabytes of data every second. The thermostats and refrigerators and nanny cams and every other IoT device, among so many others, gathering ‘knowledge’ at an ever-increasing pace.</p>\r\n<p>“Why would a business want so much data?” Morrison asked. “Because the data helps business leaders make better decisions. If I’m an airline, it lets me monitor engine pressure and adjust in real time. If I’m a hospital, it lets me anticipate when a device will need to be replaced. It allows me to anticipate what customers will want, and when.” As consumers, too, data helps us make decisions. “The accumulation of knowledge married with technology transforms our lives,” said Morrison. “But it also can scare the heck out of us and make us anxious.”</p>\r\n<blockquote>\r\n<p><a href=\"https://ctt.ec/2e2qU\" target=\"_blank\"><i>“The accumulation of knowledge married with technology transforms our lives. But it also can scare the heck out of us.” – Click to tweet</i></a><a href=\"#_msocom_1\" id=\"_anchor_1\"></a></p>\r\n</blockquote>\r\n<h3>Shuffling the board</h3>\r\n<p>One source of anxiety is dramatic changes in the companies that lead – and the jobs they employ. “Technological change has scrambled the board, culling out the giants of the past and replacing them with an entirely new breed of leaders,” Morrison explained. “In 2001, of the top five Fortune 500 companies, one was a tech firm. Just 15 years later, every single one of the top five is a ‘new wave’ company – one whose success is entirely dependent on technology.”</p>\r\n<p>[[{\"fid\":\"5364\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Top Five Fortune 500 Companies\",\"field_file_image_title_text[und][0][value]\":\"Top Five Fortune 500 Companies\"},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"2\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Top Five Fortune 500 Companies\",\"field_file_image_title_text[und][0][value]\":\"Top Five Fortune 500 Companies\"}},\"attributes\":{\"alt\":\"Top Five Fortune 500 Companies\",\"title\":\"Top Five Fortune 500 Companies\",\"height\":\"366\",\"width\":\"446\",\"style\":\"float: left; margin: 10px;\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"2\"}}]]</p>\r\n<div>\r\n<p>“Does that kind of change make people feel uncertain?” Morrison asked. “It certainly would make me feel uncertain if I were working at GE or Citi or Exxon or Walmart. I’d worry about where the company is going and whether I’d be taken along for the ride or left behind in the dust.”</p>\r\n<blockquote>\r\n<p>&nbsp;<a href=\"https://ctt.ec/0pUwr\" target=\"_blank\"><i>“In 2001,1 of the top 5 Fortune 500 companies was a tech company. By 2016, all 5 were.” – Click to tweet</i></a></p>\r\n</blockquote>\r\n<p>That ‘board’ is shuffled more frequently than in the past. “In the 1920s, the average lifespan of a company on the S&amp;P 500 was 75 years,” Morrison explained. “A person could have a full career, their kids could have a full career, and the company would still be around.” By the 1960s, the average lifespan of S&amp;P 500 companies had fallen to 33 years. By the 1990s, it was 20 years. If the trend continues, the average lifespan will be just 14 years by 2026.”</p>\r\n<p>&nbsp;“Does that make people uncertain and anxious?” Morrison asked. “Certainly if you work for those companies. Or supply them. What if you spend years building a career at a company, or cultivating relationships with the company, and in 14 years, it’s gone?”</p>\r\n<div>\r\n<h3>A new paradigm</h3>\r\n<p>The crux of the problem is that while the rate of technological change and knowledge accumulation is increasing exponentially, humans’ ability to adapt is not. “We do adapt, but not as fast as the world is changing,” said Morrison.</p>\r\n<p>And that brings us back to the bottom line: It is impossible to even know all the questions, let alone the answers.</p>\r\n<blockquote>\r\n<p><a href=\"https://ctt.ec/n86D3\" target=\"_blank\"><i>“It is impossible to even know all the questions, let alone the answers. Uncertainty is the new paradigm.” – Click to tweet</i></a><a href=\"#_msocom_1\" id=\"_anchor_1\"></a></p>\r\n</blockquote>\r\n<p>“In the past, knowledge about what was important – about the questions we needed to ask and data we needed to collect – was pretty clear to everybody,” Morrison explained. “Leaders knew to pay attention to market share, revenue growth targets, size of competitors’ plants, etc. Those were clearly defined signals for how your company was doing.”</p>\r\n<p>And they were the signals that business schools taught future leaders how to read, said Morrison. “Business schools taught students how to analyze competitors, assess their strategies, understand where the market was, how big was it, share of market, etc. Those were items on a checklist of good corporate leadership. If you were a business leader and you didn’t know how to figure out question #5, you went back to school and learned how to do it.”</p>\r\n<p>“Everyone accepted that paradigm,” Morrison explained. “Everybody knew what the questions were and probably knew the answers, too.”</p>\r\n<p>Now, no one knows all the answers, probably not even all the questions. Uncertainty is the new paradigm.</p>\r\n<p>How’s a corporate leader to thrive in this new paradigm? By building structure, people, process, culture, and leadership at the organizational level and cultivating their own drive, character, savvy, and mindset. Dr. Morrison explained those 9 keys of organizational and individual leadership; you can read a <a href=\"https://thunderbird.asu.edu/knowledge-network/9-keys-organizational-individual-leadership-age-globalization\" target=\"_blank\">recap</a> on Knowledge Network.</p>\r\n<p><strong><!--break-->Join the discussion!</strong></p>\r\n<p>How has your paradigm shifted, as a corporate leader and/or an employee? Share your insights on <a href=\"https://www.linkedin.com/company/7598\" target=\"_blank\">LinkedIn</a>, <a href=\"https://www.facebook.com/ThunderbirdSchool/\" target=\"_blank\">Facebook</a>, and <a href=\"https://twitter.com/thunderbird\" target=\"_blank\">Twitter</a>.</p>\r\n<p><strong>Learn more</strong></p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/watch-now-2017-gss\" target=\"_blank\">Watch Dr. Morrison’s full lecture</a> (access is free but you have to register)<a href=\"#_msocom_1\" id=\"_anchor_1\"></a></li>\r\n<li>Read&nbsp;<a href=\"https://thunderbird.asu.edu/knowledge-network/9-keys-organizational-individual-leadership-age-globalization\" target=\"_blank\"><span>9 Keys to Organizational &amp; Individual Leadership in the Age of Globalization</span></a></li>\r\n<li>Attend the next Global Speaker Series event, <a href=\"https://thunderbird.asu.edu/node/2542\" target=\"_blank\"><i>High-Impact Leadership</i></a> with Thunderbird's Dr. Suzanne Peterson</li>\r\n<li>Get global insights delivered to your inbox – sign up for the Knowledge Network monthly newsletter</li>\r\n</ul>\r\n</div>\r\n</div>\r\n</div>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 1200
+    height: 630
+    target_type: file
+    target_uuid: 27f1243f-2afc-4c7c-9958-ef03c550755f
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 43ffe776-ca22-4af6-80b1-5acdc346c2e3
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.27f1243f-2afc-4c7c-9958-ef03c550755f
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.43ffe776-ca22-4af6-80b1-5acdc346c2e3

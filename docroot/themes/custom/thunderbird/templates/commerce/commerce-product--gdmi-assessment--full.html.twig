@@ -1,0 +1,39 @@
+{#
+/**
+ * @file
+ *
+ * Default product template.
+ *
+ * Available variables:
+ * - attributes: HTML attributes for the wrapper.
+ * - product: The rendered product fields.
+ *   Use 'product' to print them all, or print a subset such as
+ *   'product.title'. Use the following code to exclude the
+ *   printing of a given field:
+ *   @code
+ *   {{ product|without('title') }}
+ *   @endcode
+ * - product_entity: The product entity.
+ * - product_url: The product URL.
+ * - title_prefix: Additional output populated by modules, intended to be
+ *   displayed in front of the main title tag that appears in the template.
+ * - title_suffix: Additional output populated by modules, intended to be
+ *   displayed after the main title tag that appears in the template.
+ *
+ * @ingroup themeable
+ */
+#}
+<div class="container gdmi-assessment-product-container">
+  <article{{ attributes.addClass('gdmi-assessment-product') }}>
+    {{ title_prefix }}
+    {{ title_suffix }}
+    <div class="row m-0">
+      <div class="col-lg-6">
+        {{- product.field_image -}}
+      </div>
+      <div class="col-lg-6">
+        {{- product|without('field_image', 'variation_attributes') -}}
+      </div>
+    </div>
+  </article>
+</div>

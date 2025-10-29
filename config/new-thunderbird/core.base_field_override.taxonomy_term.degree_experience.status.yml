@@ -1,0 +1,22 @@
+uuid: e990d716-9ef5-4c75-b772-0c864cd3cf61
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.degree_experience
+id: taxonomy_term.degree_experience.status
+field_name: status
+entity_type: taxonomy_term
+bundle: degree_experience
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -1,0 +1,15 @@
+label: 'Соңғы контент'
+display:
+  default:
+    display_title: Стандартты
+    display_options:
+      title: 'Соңғы контент'
+      exposed_form:
+        options:
+          reset_button_label: Ысыру
+      empty:
+        area_text_custom:
+          content: 'Контент жоқ.'
+      use_more_text: Толығырақ...
+  block_1:
+    display_title: Блок

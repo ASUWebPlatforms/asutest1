@@ -1,0 +1,13 @@
+display:
+  default:
+    display_title: Bawaan
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Terapkan
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sortir dengan'
+          sort_asc_label: 'Urutan turun'
+      empty:
+        area_text_custom:
+          content: 'Tidak ada konten yang tersedia.'

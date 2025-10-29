@@ -1,0 +1,118 @@
+uuid:
+  -
+    value: 89fa8f72-5f15-4733-8f1c-25db8812addb
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2019-02-06T20:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Vitality Group – Internationalization of Health Tec'
+created:
+  -
+    value: '2019-02-05T22:51:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-02-06T20:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a03-19-0013
+body:
+  -
+    value: '<p>Swartzberg knew his expansion model was working but wondered if the strategy of partnering with insurance companies was not limiting the potential of South-Africa-based Vitality Group. Swartzberg was concerned about the possible limitations of this model and wondered if the time had come for Vitality to acquire a license and go it alone as a fully-fledged insurance company in a new market. According to Swartzberg, “We are an insurance company; however, we sell our intellectual property internationally. So far it’s going well and we are successful. Our dilemma is whether we should have our own license in a country, take the risk ourselves, and get involved in capital investment?&nbsp; Or should we continue with our existing business model of offering intellectual property to partners and expand along with them?”</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A03-19-0013
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: fbc73e4b-4213-43bd-9ab9-075a79054415
+  -
+    target_type: taxonomy_term
+    target_uuid: 042d162d-57de-4e53-8d0c-e78240722235
+  -
+    target_type: taxonomy_term
+    target_uuid: 7d4ae508-404d-4437-81ad-160b2fcde091
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: c960812d-c4c8-4c51-8af2-12bd7dd875e5
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: 'South Africa'
+field_case_source:
+  -
+    value: 'Published Sources'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a4330106-d13e-4b26-a980-420512d1b3f9
+  -
+    target_type: taxonomy_term
+    target_uuid: bcc55778-c784-491c-a79e-3a5d1583dd05
+field_teaching:
+  -
+    value: "Students should be able to:\r\nDesign a global strategy for this intellectual property company, which is part of an insurance company, but which earns its revenue from sales of a health improvement plan to insurance company policyholders.•\t\r\nDefine a business model for international expansion\r\nEvaluate and compare business models of international expansion \r\nUnderstand the different modes of entry and match business models\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.fbc73e4b-4213-43bd-9ab9-075a79054415
+      - taxonomy_term.case_series_authors.042d162d-57de-4e53-8d0c-e78240722235
+      - taxonomy_term.case_series_authors.7d4ae508-404d-4437-81ad-160b2fcde091
+      - taxonomy_term.case_series_industry.c960812d-c4c8-4c51-8af2-12bd7dd875e5
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.a4330106-d13e-4b26-a980-420512d1b3f9
+      - taxonomy_term.case_series_fields.bcc55778-c784-491c-a79e-3a5d1583dd05

@@ -1,0 +1,13 @@
+uuid: 0b08974c-15d8-4279-9983-6039f381829b
+langcode: en
+status: true
+dependencies: {  }
+name: gdmi_results_md
+label: 'GDMI Results (MD)'
+effects:
+  3a414c80-dcae-4f39-a24e-b0923d8daf8c:
+    uuid: 3a414c80-dcae-4f39-a24e-b0923d8daf8c
+    id: image_convert
+    weight: 2
+    data:
+      extension: webp

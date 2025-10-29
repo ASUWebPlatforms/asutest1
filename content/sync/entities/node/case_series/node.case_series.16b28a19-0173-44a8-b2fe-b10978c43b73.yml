@@ -1,0 +1,99 @@
+uuid:
+  -
+    value: 16b28a19-0173-44a8-b2fe-b10978c43b73
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2018-02-12T21:02:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 96ae2d29-6a92-4a0b-b9de-690de490c603
+title:
+  -
+    value: 'Anadarko Petroleum Corporation: Leading Transformational Change'
+created:
+  -
+    value: '2018-02-12T21:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-12T21:02:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-18-0003
+body:
+  -
+    value: '<p>The case describes the transformation of the large independent oil and gas company, Anadarko.&nbsp; The company had fallen into bad times as a consequence of a host of environmental factors as well as questionable strategic choices and ill-timed acquisitions.&nbsp; James Hackett was hired as the new CEO to transform the company.&nbsp; The case discusses the major changes that he made during his tenure and the transition from Hackett to his handpicked successor Al Walker.&nbsp; It dwells on the era of Hackett more than Walker and focuses on the manner in which Hackett engineered the key changes, his approach to leadership, and his inclusive transformational approach.&nbsp; The case ends with some key challenges confronting Al Walker as he contemplates the changes he would have to make in both preserving the legacy of his mentor Hackett and addressing the challenges that confronted the company in 2017.</p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-18-0003
+field_case_page_length:
+  -
+    value: '11 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: be269689-ff6d-401e-8f8b-7ebe5d075744
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2018-01-01'
+field_case_setting:
+  -
+    value: USA/Global
+field_case_source:
+  -
+    value: Library
+field_case_subject: {  }
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 80cf9383-47b2-48e6-802e-1a05fe56e42c
+field_teaching:
+  -
+    value: "This case is ideally suited to discuss the intersection of strategy planning and strategy execution.  It uses the framework of authentic leadership to explore both the decisions made as part of the transformation process as well as the manner in which the transformation efforts were implemented. The authentic leader framework is particularly relevant and useful when paired with John Kotter’s transformational change model.  Together, they provide a solid foundation that can be used to explore the transformation of Anadarko. \r\n\r\nThe case has been used in both the graduate classroom especially in courses that deal with strategy implementation, change management, and authentic leadership.  In the executive classroom, the case provides several crucial lessons on the approach to picking the right strategy, energizing the implementers, and rallying external stakeholders to the cause.  It has been extremely well received in both settings. It works really well in specialized courses/programs dealing with the oil and gas industry. \r\nThe specific teaching objectives for the case are:\r\n(a)\tTo explore the intersection between strategy formulation and strategy execution through the lens of authentic leadership\r\n(b)\tTo identify the paradoxes involved in planning and executing strategic transformations\r\n(c)\tTo discuss the creation and execution of large-scale change management programs that require a host of changes in structure, organizational culture, organizational strategy, as well as organizational systems and processes.\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.96ae2d29-6a92-4a0b-b9de-690de490c603
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.be269689-ff6d-401e-8f8b-7ebe5d075744
+      - taxonomy_term.case_series_fields.80cf9383-47b2-48e6-802e-1a05fe56e42c

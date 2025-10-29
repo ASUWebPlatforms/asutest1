@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 98b40cf9-53fa-4719-8c0d-a67c6d849baf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: f6c2187b-4cbe-4450-a0ef-519b51f07bfe
+filename:
+  -
+    value: maxresdefault-1.jpg
+uri:
+  -
+    value: 'public://article/maxresdefault-1.jpg'
+    url: /sites/default/files/article/maxresdefault-1.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 273160
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-02-05T20:41:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-02-05T20:41:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.f6c2187b-4cbe-4450-a0ef-519b51f07bfe

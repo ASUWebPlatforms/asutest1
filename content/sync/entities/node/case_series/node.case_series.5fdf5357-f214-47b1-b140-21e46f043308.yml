@@ -1,0 +1,121 @@
+uuid:
+  -
+    value: 5fdf5357-f214-47b1-b140-21e46f043308
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T19:03:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Country Risk Analysis and Managing Crises: Tower Associates'
+created:
+  -
+    value: '2016-07-16T01:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T19:03:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a06-07-0016
+body:
+  -
+    value: '<p><span>This case study is based on the actual experiences of several companies that we have worked with that want to expand their business into emerging markets. The case outlines and illustrates a framework of analysis that focuses on assessing foreign exchange rate risks, country risk analysis, and maanagement’s decision-making process in selecting a target country and about managing the risks associated with this decision. The case provides data on four possible target countries for which methods of forecasting exchange rates (PPP, IRP, IFE, B/P) can be used. The case also provides the opportunity for assessing whether a government is pursuing appropriate macroeconomic policies to avoid crises. Finally, the case allows for an evaluation of the probability of a foreign exchange, financial, foreign debt, and banking crisis in one or more of the four countries. While the case can be used to study macroeconomic policy decisions, its real purpose is to examine management’s decision-making process to identify and manage possible risks associated with expanding into emerging markets.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A06-07-0016
+field_case_page_length:
+  -
+    value: '9 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6c9ac08d-039f-473d-a65b-8d024db64f38
+field_case_series_year:
+  -
+    value: '2007-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: 'Library, General Experience0'
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 05f89050-5790-44f5-a957-f1ec4d2ecee4
+  -
+    target_type: taxonomy_term
+    target_uuid: a061cc2c-c0f8-4408-8357-682f4c365b52
+  -
+    target_type: taxonomy_term
+    target_uuid: e6f6e3a5-65c8-4a86-952e-d9d027f2d7de
+  -
+    target_type: taxonomy_term
+    target_uuid: 905910e7-2a53-476e-93cd-af86add83674
+  -
+    target_type: taxonomy_term
+    target_uuid: be529d94-28fd-4a24-b924-5cecddb53b94
+field_teaching:
+  -
+    value: 'Global Finance, Global Economics, Global Risk Management, Country Risk Analysis, International Political Economy, International Investment, Global Business Management, Global Strategy'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.6c9ac08d-039f-473d-a65b-8d024db64f38
+      - taxonomy_term.case_series_categories.5d6eba99-f8ab-4ad8-88bc-9d20e713d129
+      - taxonomy_term.case_series_fields.05f89050-5790-44f5-a957-f1ec4d2ecee4
+      - taxonomy_term.case_series_fields.a061cc2c-c0f8-4408-8357-682f4c365b52
+      - taxonomy_term.case_series_fields.e6f6e3a5-65c8-4a86-952e-d9d027f2d7de
+      - taxonomy_term.case_series_fields.905910e7-2a53-476e-93cd-af86add83674
+      - taxonomy_term.case_series_fields.be529d94-28fd-4a24-b924-5cecddb53b94

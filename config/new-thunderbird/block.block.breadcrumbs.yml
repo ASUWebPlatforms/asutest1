@@ -1,0 +1,24 @@
+uuid: b3095ca1-3caa-4e49-9ae8-af30072922bd
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - thunderbird
+id: breadcrumbs
+theme: thunderbird
+region: pre_content
+weight: -13
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: '/find-my-path/*'

@@ -1,0 +1,108 @@
+<?php
+use Drupal\Core\Database\Database;
+
+/**
+ * Update all existing node content domain access value.
+ */
+function tb_gdmi_update_8001() {
+  $query = \Drupal::entityQuery('node')
+    ->condition('status', 1)
+    ->notExists('field_domain_access');
+
+  $results = $query->execute();
+  $first = true;
+
+  if ($results) {
+    $entity_type_manager = \Drupal::entityTypeManager();
+    $storage = $entity_type_manager->getStorage('node');
+    foreach ($results as $nid) {
+      $node = $storage->load($nid);
+      if ($first) {
+        \Drupal::logger('tb_gdmi')->info($nid);
+        $first = false;
+      }
+
+      if ($node->getTitle() !== NULL && !empty($node->getTitle())) {
+        $node->set('field_domain_access', 'main');
+
+        // Update the field value for each translation.
+        foreach ($node->getTranslationLanguages() as $langcode => $language) {
+          $translation = $node->getTranslation($langcode);
+          $translation->set('field_domain_access', 'main');
+          $translation->save();
+        }
+
+        try {
+          $node->save();
+        }
+        catch (\Exception $e) {
+          \Drupal::logger('tb_gdmi')->info($nid);
+        }
+      }
+    }
+  }
+}
+
+/**
+ * Update webform access code custom field type add results and submission id column.
+ */
+function tb_gdmi_update_8002() {
+  $schema = Database::getConnection()->schema();
+
+  if (!$schema->fieldExists('user__field_gdmi_assessment_code', 'field_gdmi_assessment_code_group_id')) {
+    $new_field = [
+      'type' => 'int',
+      'size' => 'normal',
+    ]; 
+    $schema->addField('user__field_gdmi_assessment_code', 'field_gdmi_assessment_code_group_id', $new_field);
+  }
+  
+  if (!$schema->fieldExists('user__field_gdmi_assessment_code', 'field_gdmi_assessment_code_results')) {
+    $new_field = [
+      'type' => 'text',
+    ];
+    $schema->addField('user__field_gdmi_assessment_code', 'field_gdmi_assessment_code_results', $new_field);
+  }
+
+  if (!$schema->fieldExists('user__field_gdmi_assessment_code', 'field_gdmi_assessment_code_submission_id')) {
+    $new_field = [
+      'type' => 'int',
+      'size' => 'normal',
+    ]; 
+    $schema->addField('user__field_gdmi_assessment_code', 'field_gdmi_assessment_code_submission_id', $new_field);
+  }
+  
+}
+
+/**
+ * Creates a new table to save the groups grand means values.
+ */
+function tb_gdmi_update_8003() {
+  $schema = [
+    'description' => 'A table to store assessments grand means values',
+    'fields' => [
+      'id' => [
+        'description' => 'Holds the id value',
+        'type' => 'serial',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+      ],
+      'webform' => [
+        'description' => 'Holds the webform id value',
+        'type' => 'varchar',
+        'length' => '100',
+        'not null' => TRUE,
+      ],
+      'results' => [
+        'description' => 'Holds the calculated results values in json format',
+        'type' => 'varchar',
+        'length' => '2000',
+        'not null' => TRUE,
+      ],
+    ],
+    'primary key' => ['id'],
+  ];
+  
+  // Create the table.
+  \Drupal::database()->schema()->createTable('gdmi_grand_means', $schema);
+}

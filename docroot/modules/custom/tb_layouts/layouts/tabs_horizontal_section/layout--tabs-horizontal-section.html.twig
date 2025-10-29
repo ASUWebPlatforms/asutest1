@@ -1,0 +1,49 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a five-column bootstrap layout.
+ *
+ * Available variables:
+ * - content: The content for this layout.
+ * - attributes: HTML attributes for the layout <div>.
+ *
+ * @ingroup themeable
+ */
+#}
+
+{{ attach_library('renovation/tabbed-panels') }}
+
+{% set section_tabs = content['#settings']['tab_titles'] %}
+
+{% if content.first is not empty or content.second is not empty or content.third is not empty or content.fourth is not empty or content.fifth is not empty %}
+  <div {{ attributes }}>
+    <div class="tabs horizontal">
+      <div class="section-tabs-horizontal-layout">
+        <div class="tabbable tabs-left">
+          <nav class="uds-tabbed-panels">
+            <div class="nav nav-tabs container" id="nav-tab" role="tablist" data-scroll-position="0">
+              {% for key, tab in section_tabs %}
+                {% if content[key] is defined and content[key]|length > 0 %}
+                    <a class="nav-item nav-link {{ loop.first ? 'active' : '' }}" role="tab" href="#tab-horizontal-{{key|clean_class }}" data-toggle="tab">
+                      {{ tab }}
+                    </a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </nav>
+          
+          {# Generate tab content #}
+          <div class="tab-content">
+            {% for key, tab in section_tabs %}
+              {% if content[key] is defined and content[key]|length > 0 %}
+                <div id="tab-horizontal-{{key|clean_class}}" role="tabpanel" class="layout__region layout__region--{{key|clean_class}} tab-pane {{ loop.first ? 'active' : 'no-first' }}" }}>
+                  {{ content[key] }}
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 79882512-5a28-4730-bfa0-578c8d916633
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-09-11T21:10:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 0144467c-a20e-442d-a62a-b9822733750e
+title:
+  -
+    value: 'Romania: Weddings, gardens, and communism'
+created:
+  -
+    value: '2017-09-04T07:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-09-11T21:10:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/romania-and-wonders-weddings
+body:
+  -
+    value: "<p><strong>TEM Lab - Fall, 2017</strong><br><strong>Romania, Taparo</strong><br><strong>Written by Amy Titus</strong></p>\r\n<p>This week took us to the border of Romania and Hungary to experience manufacturing in Oradea. This will be the new site for the textiles that EuroComfil LML will soon diversify their portfolio into. Oradea is best known for its tourism, geothermal pools, and the Austro-Hungarian architecture throughout this beautiful city. Like much of Romania the impacts of many types of rulers and governments can be seen while touring around the city.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6898\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Downtown Oradea at night\",\"field_file_image_title_text[und][0][value]\":\"Downtown Oradea at night\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Downtown Oradea at night\",\"field_file_image_title_text[und][0][value]\":\"Downtown Oradea at night\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Downtown Oradea at night\",\"title\":\"Downtown Oradea at night\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Downtown Oradea at night</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>During our first two weeks in the country we have witnessed and experienced Romanian culture at its finest. Here are the highlights of our favorite experiences so far:</p>\r\n<p>Horse-drawn carriages are just as common as cars especially in the town of Suciu de Sus&nbsp;where we are currently residing. Agriculture continues to be an essential part of living in the more rural areas of Romania, common cash crops and staples are: corn, sunflower, potatoes and cabbage.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6908\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Romanian farmer driving his horse-drawn carriage home for the day\",\"field_file_image_title_text[und][0][value]\":\"Romanian farmer driving his horse-drawn carriage home for the day\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Romanian farmer driving his horse-drawn carriage home for the day\",\"field_file_image_title_text[und][0][value]\":\"Romanian farmer driving his horse-drawn carriage home for the day\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Romanian farmer driving his horse-drawn carriage home for the day\",\"title\":\"Romanian farmer driving his horse-drawn carriage home for the day\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Romanian farmer driving his horse-drawn carriage home for the day</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6895\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The traditional Romanian family garden\",\"field_file_image_title_text[und][0][value]\":\"The traditional Romanian family garden\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The traditional Romanian family garden\",\"field_file_image_title_text[und][0][value]\":\"The traditional Romanian family garden\"}},\"link_text\":null,\"attributes\":{\"alt\":\"The traditional Romanian family garden\",\"title\":\"The traditional Romanian family garden\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">The traditional Romanian family garden</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Hitchhiking in Romania is also very common and a way to get from place to place when you don’t have a car. While we are driving around the country, especially on the rustic country roads, it’s not unheard of to drive past at least six or seven hitchhikers in a 15-kilometer radius.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6903\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Logan demonstrating Romanian hitchhiking\",\"field_file_image_title_text[und][0][value]\":\"Logan demonstrating Romanian hitchhiking\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Logan demonstrating Romanian hitchhiking\",\"field_file_image_title_text[und][0][value]\":\"Logan demonstrating Romanian hitchhiking\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Logan demonstrating Romanian hitchhiking\",\"title\":\"Logan demonstrating Romanian hitchhiking\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Logan demonstrating Romanian hitchhiking</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Throughout our travels so far, we have encountered at least 20 wedding parties, in our two weeks of being in the country. Naturally we have observed some new customs that we thought we would share with you.</p>\r\n<p>While driving to the church or the reception the attendees leave in a procession (common to what you would see in the United States for funerals) however, instead of it being a somber affair, the cars are often decorated with tulle, flowers, and hearts as a way to show that they are part of the wedding; while driving down the street the cars are often honking their horns to announce the celebration.&nbsp;</p>\r\n<p>In some areas of the country instead of throwing a bouquet of flowers to the single ladies that are present for the wedding, bread is thrown to the single attendees. Catching the loaf of bread symbolizes the next person to be married. We’ve also seen the more traditional approach with flowers as well. Marching bands are a common way to announce the wedding party walking down the aisle, and after the ceremony.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: 640px;\" class=\"caption-width-container\">\r\n<div style=\"width: 640px;\" class=\"caption-inner\">[[{\"fid\":\"6896\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Romanian Wedding Festivities\",\"height\":\"390\",\"width\":\"640\",\"class\":\"panopoly-image-video media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Video compilation of wedding festivities in Romania</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Much of the younger generation has moved out of Romania to obtain jobs in other European countries because the pay is substantially higher; however, during the summer holiday many come back to Romania to get married to uphold the traditional Romanian customs.</p>\r\n<p>During the communist regime, many of the churches were destroyed throughout Romania due to the communist belief of atheism. Historically, the Orthodox church had been submissive to the new governments that took control; because of this the USSR took a different approach in Romania. The Romanian Orthodox Church was used as an effective means of asserting power for the USSR, because of this many Orthodox churches in Romania were preserved. While the Orthodox churches endured, the other religions practiced here were not, this has led to a great period of rebuilding. The common practice is to first build a basement chapel where the members of the church can come worship while the church is able to raise funds to continue building an actual chapel; once enough funds have been received the church will continue building off the foundation or basement of the building that they are currently worshiping in.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6897\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The basement chapel that was used while the rest of the cathedral was constructed\",\"field_file_image_title_text[und][0][value]\":\"The basement chapel that was used while the rest of the cathedral was constructed\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"The basement chapel that was used while the rest of the cathedral was constructed\",\"field_file_image_title_text[und][0][value]\":\"The basement chapel that was used while the rest of the cathedral was constructed\"}},\"link_text\":null,\"attributes\":{\"alt\":\"The basement chapel that was used while the rest of the cathedral was constructed\",\"title\":\"The basement chapel that was used while the rest of the cathedral was constructed\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">The basement chapel that was used while the rest of the cathedral was constructed</p>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6901\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Outside view of the cathedral (over 20 years in the making)\",\"field_file_image_title_text[und][0][value]\":\"Outside view of the cathedral (over 20 years in the making)\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Outside view of the cathedral (over 20 years in the making)\",\"field_file_image_title_text[und][0][value]\":\"Outside view of the cathedral (over 20 years in the making)\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Outside view of the cathedral (over 20 years in the making)\",\"title\":\"Outside view of the cathedral (over 20 years in the making)\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Outside view of the cathedral (over 20 years in the making)</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>Overall, we are excited to continue learning about the culture and the resiliency of the people within Romania. We’ve found that although they have encountered great hardship they are a welcoming and warm people who are very excited to share all that Romania has to offer.</p>\r\n<div class=\"caption  mceTemp draggable\">\r\n<div style=\"width: auto;\" class=\"caption-width-container\">\r\n<div class=\"caption-inner\">[[{\"fid\":\"6902\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Churches everywhere\",\"field_file_image_title_text[und][0][value]\":\"Churches everywhere\"},\"type\":\"media\",\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Churches everywhere\",\"field_file_image_title_text[und][0][value]\":\"Churches everywhere\"}},\"link_text\":null,\"attributes\":{\"alt\":\"Churches everywhere\",\"title\":\"Churches everywhere\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]\r\n<p class=\"caption-text\">Churches everywhere</p>\r\n</div>\r\n</div>\r\n</div>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 3949
+    height: 2251
+    target_type: file
+    target_uuid: 0ed97504-44f5-49e8-8372-15e6a1651d16
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.e3f5346e-de5a-4ab2-b67a-a64bb7fdf234
+      - user.user.0144467c-a20e-442d-a62a-b9822733750e
+    file:
+      - file.image.0ed97504-44f5-49e8-8372-15e6a1651d16
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

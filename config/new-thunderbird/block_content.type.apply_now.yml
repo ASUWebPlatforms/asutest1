@@ -1,0 +1,8 @@
+uuid: 0ce89f5b-ab3e-4fc7-94c3-e3e1a1bc368f
+langcode: en
+status: true
+dependencies: {  }
+id: apply_now
+label: 'Apply Now'
+revision: 0
+description: 'Allows user to select a term and go straight to the application for a specific Degree.'

@@ -1,0 +1,30 @@
+display:
+  default:
+    display_title: Default
+    display_options:
+      exposed_form:
+        options:
+          reset_button_label: Reset
+      pager:
+        options:
+          tags:
+            first: '« first'
+            last: 'last »'
+      fields:
+        name:
+          label: Name
+        operations:
+          label: Operations
+      filters:
+        name:
+          expose:
+            label: Name
+        status:
+          expose:
+            label: สถานะ
+  admin:
+    display_options:
+      menu:
+        title: ดูลิสต์
+      tab_options:
+        title: ดูลิสต์

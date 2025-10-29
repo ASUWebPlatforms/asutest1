@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: b7ab8791-56e0-4cf4-9666-79897d4f1a1b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: eceb3911-3fe7-43d1-9df9-13b4971c788f
+filename:
+  -
+    value: istock-1146540178.jpg
+uri:
+  -
+    value: 'public://istock-1146540178.jpg'
+    url: /sites/default/files/istock-1146540178.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 1603566
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-04-23T15:43:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-23T15:43:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.eceb3911-3fe7-43d1-9df9-13b4971c788f

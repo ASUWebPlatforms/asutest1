@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: 58be07d0-49f1-4478-b612-02cfe14c7f07
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:21:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'Just another week at the office'
+created:
+  -
+    value: '2014-02-08T00:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:21:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/another-week-at-office
+body:
+  -
+    value: "<p>[[{\"fid\":\"2887\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Washington D.C.\",\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"field_deltas\":{\"1\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Washington D.C.\",\"field_file_image_title_text[und][0][value]\":false}},\"attributes\":{\"alt\":\"Washington D.C.\",\"class\":\"panopoly-image-original media-element file-default\",\"data-delta\":\"1\"}}]]</p>\r\n<p>Week one = Done. ONLY four more to go.</p>\r\n<p>This week has been interesting, there is so much that the WEConnect TEM Lab team has learnt, and there is such a long way to go. We have had 20+ meetings this week, two lunches with the 10-member WEConnect staff, one documentary viewing with the WEConnect staff, innumerable documents (I stopped counting, seriously) and things-to-do. Four weeks suddenly does not seem enough, but we will get more done in the next four weeks than we probably ever have before.</p>\r\n<p>Major lessons learnt this week:</p>\r\n<ul>\r\n<li><span>Deliverables may or may not change - discussing scope and final outputs with the client helps you to understand what the client is looking for</span></li>\r\n<li><span>&nbsp;</span><span>Going above and beyond expectations may mean that the onus is on you to communicate to the client how your capabilities can be best utilized</span></li>\r\n<li><span>You are in the right place at the right time, because you can observe your client’s operations from a fresh perspective and can understand frustrations and issues that the client is facing</span></li>\r\n<li><span>Every team member and staff member has something to contribute, that adds another dimension to the branches of your ever-growing tree of information</span></li>\r\n<li><span>There may not always be patterns in growth or expansion - that is a sign of success in most startups because that is the way they function best</span></li>\r\n</ul>\r\n<p>It has been a great week overall, and D.C. seems amazing. The winter season seems not too bad and we simply love our accommodations! There is lots to look forward to here in D.C. (yes we know we are lucky!). A visit to the World Bank next week, and (*fingers crossed*!!) a White House Tour before we leave DC. Throw in a Winter Party with the DC Alumni Chapter in a couple of weeks, and I think we will be just fine.</p>\r\n<p>Post-its. Printouts. The smell of whiteboard markers and coffee. Our personal space within the walls of D.C. high rises. We have been welcomed so warmly here - WEConnect has taken efforts to help us settle in comfortably and made us feel like family. Looking forward to next week!</p>\r\n<p><em>Author: Sneha Gayatri</em></p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4bfbae40-f6c3-4d6d-8658-9185d62955a7
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.4bfbae40-f6c3-4d6d-8658-9185d62955a7

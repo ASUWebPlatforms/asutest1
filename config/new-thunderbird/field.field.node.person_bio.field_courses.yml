@@ -1,0 +1,29 @@
+uuid: 5dfb7890-003d-4d87-8b88-b4aa886d81ab
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_courses
+    - node.type.person_bio
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - basic_html
+      - embed_html
+      - restricted_html
+      - full_html
+id: node.person_bio.field_courses
+field_name: field_courses
+entity_type: node
+bundle: person_bio
+label: Courses
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

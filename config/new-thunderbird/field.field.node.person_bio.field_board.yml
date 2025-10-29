@@ -1,0 +1,30 @@
+uuid: de55bec8-e349-4543-b445-91f6f631904a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_board
+    - node.type.person_bio
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - basic_html
+      - embed_html
+      - restricted_html
+      - full_html
+      - plain_text
+id: node.person_bio.field_board
+field_name: field_board
+entity_type: node
+bundle: person_bio
+label: Board
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

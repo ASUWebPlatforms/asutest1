@@ -1,0 +1,4 @@
+administer tb_gdmi configuration:
+  title: 'Administer tb_gdmi configuration'
+  description: ''
+  restrict access: true

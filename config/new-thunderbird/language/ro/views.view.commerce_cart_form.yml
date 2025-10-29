@@ -1,0 +1,27 @@
+display:
+  default:
+    display_title: Expert
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Aplică
+          reset_button_label: Resetează
+          exposed_sorts_label: 'Sortare după'
+          sort_asc_label: Ascendent
+          sort_desc_label: Descendent
+      fields:
+        purchased_entity:
+          label: Produs
+          separator: ', '
+        unit_price__number:
+          label: Preţ
+          separator: ', '
+        remove_button:
+          label: Elimină
+        total_price__number:
+          label: Total
+          separator: ', '
+      arguments:
+        order_id:
+          exception:
+            title: Toate

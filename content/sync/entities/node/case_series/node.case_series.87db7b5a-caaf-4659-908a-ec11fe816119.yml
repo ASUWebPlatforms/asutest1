@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 87db7b5a-caaf-4659-908a-ec11fe816119
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T19:49:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Valuation of an Samsung: From Cheap to WOW!'
+created:
+  -
+    value: '2016-07-26T19:49:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T19:49:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-05-0019-0
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>In less than ten years, Samsung has transformed itself from a purveyor of cheap TVs and microwaves to one of the world''s most innovative and exciting brands. It did so by staying laser-focused on the high-end market with cutting-edge products. But the chance to become a major player was also facilitated by Samsung''s "win-win" attitude toward its value-chain—something that differentiated the company from better-established competitors. This case looks at how Samsung has transformed itself—and the cell phone industry—through its products, programs, and relationships.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-05-0019
+field_case_page_length:
+  -
+    value: '6 pages'
+field_case_series_author:
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2005-01-01'
+field_case_setting:
+  -
+    value: 'South Korea, U.S., Europe'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: a8d024d9-b330-47f3-9f6e-59c988fb617b
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "The case can be used as a study in repositioning. Samsung is, after all, a classic example of a company that has transformed itself through the smart implementation of a smart strategy. But the case is also an example of how managing value-chain relationships can be a key component in that strategy. Samsung took advantage of changes within the cell phone industry—as power shifted from handset makers and competition heated up between service providers—to establish relationships that enabled it to vault over some formidable competitors. Smart management of these relationships keeps them there.\r\n\r\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.a8d024d9-b330-47f3-9f6e-59c988fb617b
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

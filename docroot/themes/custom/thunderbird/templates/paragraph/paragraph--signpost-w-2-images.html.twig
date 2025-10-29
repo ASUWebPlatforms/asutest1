@@ -1,0 +1,9 @@
+{% set image_uri_left = content.field_image_left|render|striptags|trim %}
+{% set image_uri_right = content.field_image_right|render|striptags|trim %}
+<div class="row three-panel-items">
+  <div class="col-lg-4 left" style="background-image: url('{{ image_uri_left }}');"></div>
+  <div class="col-lg-4 text">
+    {{ content.field_signpost }}
+  </div>
+  <div class="col-lg-4 right" style="background-image: url('{{ image_uri_right }}');"></div>
+</div>

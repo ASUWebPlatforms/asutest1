@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: d44066d0-bea5-441e-b421-df34afce5c96
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 68579b31-b529-452c-85d2-2298c66be23b
+filename:
+  -
+    value: infographic-battle-of-valleys-thumb.jpg
+uri:
+  -
+    value: 'public://article/infographic-battle-of-valleys-thumb.jpg'
+    url: /sites/default/files/article/infographic-battle-of-valleys-thumb.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 184239
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-02-16T18:53:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-02-16T18:53:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.68579b31-b529-452c-85d2-2298c66be23b

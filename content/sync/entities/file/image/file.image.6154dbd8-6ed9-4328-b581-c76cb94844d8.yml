@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 6154dbd8-6ed9-4328-b581-c76cb94844d8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: hbr-logo.png
+uri:
+  -
+    value: 'public://article/hbr-logo.png'
+    url: /sites/default/files/article/hbr-logo.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 54184
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-06-22T17:48:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-22T17:48:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

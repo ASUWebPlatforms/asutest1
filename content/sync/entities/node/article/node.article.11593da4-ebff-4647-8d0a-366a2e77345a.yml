@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 11593da4-ebff-4647-8d0a-366a2e77345a
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 74d0d791-95fe-4789-80c6-8ccf284a1546
+title:
+  -
+    value: 'T-bird to lead Royal Caribbean marketing'
+created:
+  -
+    value: '2016-06-22T17:40:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:20:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected: {  }
+path:
+  -
+    alias: /knowledge-network/royal-carribean-marketing
+body:
+  -
+    value: "<p>&nbsp;</p>\r\n<p>[[{\"fid\":\"868\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":false,\"field_file_image_title_text[und][0][value]\":false},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Royal Caribbean International announced the appointment of<strong>Carol Schuster ’83</strong>&nbsp;to Senior Vice President of Marketing on June 14, 2013. Schuster joins the global cruise line with an extensive background in building global brands, as well as new market entry. She has worked with major clients such as Coca-Cola, Dupont and DHL in a global career that has spanned nearly 30 years.</p>\r\n<p>Schuster is a member of Thunderbird’s Board of Fellows and visited campus in 2011 for a roundtable discussion organized by the Thunderbird Marketing Association. During this visit, she described the importance of staying teachable and flexible. “I try to look at everything I do as a beginner,” she said. “It is really about curiosity. It’s a mood you have about something.”</p>\r\n<p>Prior to launching an online fashion reseller in 2011, Schuster worked as Senior Partner and Worldwide Managing Director of Ogilvy &amp; Mather. She has lived and worked in Germany, Poland, the United States and other global locations since graduating from Thunderbird. Her beginner’s mindset served her well when the Berlin Wall came down in 1989, and companies scrambled to enter East Germany, Hungary, Poland, Russia and other former Soviet republics. “I took advantage of an opportunity when it presented itself,” Schuster said. “Nobody wanted to go except for me.”</p>\r\n<p>She started flying into Eastern European markets and setting up field offices. Soon she helped establish a permanent operation in Poland and stayed in the region for about five years. “Everybody was just getting started,” she said. “There was this pioneering spirit.”</p>\r\n<p>Schuster has won numerous awards and recognitions for her contribution to the advertising and marketing industry and was named one of “25 Women to Watch” by Advertising Age. “We are thrilled to welcome Carol Schuster to Royal Caribbean’s leadership team and look forward to her building on the success that the brand has already achieved,” said Lisa Bauer, Executive Vice President of Global Sales and Marketing at Royal Caribbean International.</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image: {  }
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.2cade7b7-10e4-40ed-9f5b-4369685ce3c6
+      - user.user.74d0d791-95fe-4789-80c6-8ccf284a1546
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

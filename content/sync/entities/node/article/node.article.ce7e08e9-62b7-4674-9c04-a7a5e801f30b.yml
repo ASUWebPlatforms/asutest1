@@ -1,0 +1,85 @@
+uuid:
+  -
+    value: ce7e08e9-62b7-4674-9c04-a7a5e801f30b
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-09-03T17:55:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Will Trump’s Six Month SEC Checkup Reduce Short-Termism?'
+created:
+  -
+    value: '2018-08-23T18:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-09-03T17:55:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/will-trumps-six-month-sec-checkup-reduce-short-termism
+body:
+  -
+    value: "<h3 class=\"graf graf--h4 graf-after--h3 graf--subtitle\">In America, we clean our teeth every six months and our public company financials every three, thanks to quarterly reporting. Now, to root out short-term thinking in the C suite, President Trump has tweeted that what’s right for dentists is good for American business.</h3>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*GS2vfXuHsxY59VYA5G-7Nw.jpeg\" data-width=\"990\" data-height=\"556\" data-action=\"zoom\" data-action-value=\"1*GS2vfXuHsxY59VYA5G-7Nw.jpeg\" data-scroll=\"native\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*GS2vfXuHsxY59VYA5G-7Nw.jpeg\" class=\"progressiveMedia-image js-progressiveMedia-image\" data-src=\"https://cdn-images-1.medium.com/max/1600/1*GS2vfXuHsxY59VYA5G-7Nw.jpeg\"></div>\r\n</div>\r\n<p>President Trump on his golf course in&nbsp;Scotland</p>\r\n<p class=\"graf graf--p graf-after--figure\">The idea came to Trump on the golf course. The idea is so compelling his campaign manager may want to make time for a few holes each day in place of Tweet sessions.</p>\r\n<div class=\"aspectRatioPlaceholder is-locked\">\r\n<div class=\"aspectRatioPlaceholder-fill\"></div>\r\n<div class=\"progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded\" data-image-id=\"1*Fr-kdO_bEVC7wDhDsCe1nw.png\" data-width=\"1264\" data-height=\"928\" data-action=\"zoom\" data-action-value=\"1*Fr-kdO_bEVC7wDhDsCe1nw.png\" data-scroll=\"native\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*Fr-kdO_bEVC7wDhDsCe1nw.png\" class=\"progressiveMedia-image js-progressiveMedia-image\" data-src=\"https://cdn-images-1.medium.com/max/1600/1*Fr-kdO_bEVC7wDhDsCe1nw.png\"></div>\r\n</div>\r\n<p class=\"graf graf--p graf-after--figure\">Trump’s ‘top business leader’ was soon-to-retire PepsiCo chief executive Indra Nooyi, (who ironically has not been a great fan of the president). With her iconic legacy safely tucked away she had no reason to hold back, and she didn’t: “stop quarterly reporting and go to a six-month system.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Trump instructed his Securities and Exchange Commission Chairman, Jay Clayton, to take the matter under examination before completing his putt. Only his caddy knows, but we believe the president holed out under par. The debate over reducing financial reporting isn’t going to go as smoothly.</p>\r\n<p class=\"graf graf--p graf-after--p\">We are on the back nine of an election year, after all.</p>\r\n<h4 class=\"graf graf--h4 graf-after--p\">What’s The Frequency, Jay?</h4>\r\n<p class=\"graf graf--p graf-after--h4\">Federal securities rules have had strict quarterly reporting requirements since 1970. It was fixing this rule that SEC Chairman Jay Clayton, a Trump appointee, was referring to when he said in a statement that the agency is studying “the frequency of reporting.” The regulator plans to issue a document this week that seeks input on how to promote a long-term focus among public companies and investors.</p>\r\n<p class=\"graf graf--p graf-after--p\">As Mark Twain liked to say about the weather, when it comes to short-term thinking, “everyone complains, but no one does anything about it.” Trump is finally doing something, and the question is whether it will fix short-term thinking or will we sacrifice transparency, leading to more market manipulation by hedge funds and short sellers?</p>\r\n<h4 class=\"graf graf--h4 graf-after--p\">Short People</h4>\r\n<p class=\"graf graf--p graf-after--h4\">It is interesting that the people lining up against six-month reporting aren’t the usual anti-Trump contingents, but the short sellers themselves. I spoke with Kiril Sokoloff, founder of&nbsp;<a href=\"http://www.13d.com/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"http://www.13d.com/\">13d.com</a>, a global investment advisor, who passed on Stanley Druckenmiller’s comment to Bloomberg, in which he lamented the state of the world should we abandon quarterly reporting. Druckenmiller, the ‘fixer’ who enabled George Soros to afford the title of ‘philosopher king’ after his $10 billion short of the British pound, had this to say: “As an investor, I would find it challenging not to get information every quarter because so much can change in six months. Imagine the volatility you would get.”</p>\r\n<p class=\"graf graf--p graf-after--p\">The reason Druckenmiller is shorting the Trumpian half year option reminds us of Captain Renault in Casablanca, “I’m shocked, shocked to find gambling in this establishment.” Druckenmiller knows the game is rigged in favor of hedge funds and big nano-traders, and keeping business on edge with over-regulation is one of the critical moves.</p>\r\n<p class=\"graf graf--p graf-after--p\">James Chanos, a well-known investor who has been on the winning side of some of the ‘biggest shorts’ in history, agrees. “I’m in the camp of more disclosure is better than less,” Mr. Chanos said. “And the U.S. financial disclosure is the best in the world.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Isn’t it nice to add a patriotic flourish while you’re making money?</p>\r\n<h4 class=\"graf graf--h4 graf-after--p\">Pitt’s Suggestion</h4>\r\n<p class=\"graf graf--p graf-after--h4\">Groups in favor of six-month reporting are also lining up.</p>\r\n<p class=\"graf graf--p graf-after--p\">The U.S. Chamber of Commerce believes fewer reports is a noble gesture for the mom and pop constituency: “We would welcome an overhaul of a 1930s-era disclosure system that is not user-friendly and no longer meets the needs of a 21st century economy,” according to Tom Quaadman, executive vice president of the Chamber’s Center for Capital Markets Competitiveness.</p>\r\n<p class=\"graf graf--p graf-after--p\">One voice with a decidedly ‘Goldilocks’ view of the matter is Harvey Pitt, the twenty-sixth Chairman of the SEC under President Bush. Pitt, who is now chief executive of&nbsp;<a href=\"https://www.kaloramapartners.com/\" class=\"markup--anchor markup--p-anchor\" target=\"_blank\" data-href=\"https://www.kaloramapartners.com/\">Kalorama Partners</a>, a global advisor on legal, economic, disclosure and accounting matters, told me “the SEC could pare back quarterly reports if it required that investors, in exchange, to get information more quickly about new trends that have emerged or old ones that have changed.”</p>\r\n<p class=\"graf graf--p graf-after--p\">So I asked him to elaborate on how it would work and why he likes it. Pitt offered some cogent advice: “There are at least two categories of intensely interested constituencies — public companies, which hate the burdens imposed by quarterly reporting; and institutional investors, who hate the notion of foregoing whatever information they can pry out of public company issuers.”</p>\r\n<p class=\"graf graf--p graf-after--p\">I wondered if Pitt tried this when he was running the SEC? His answer suggests it has been a long time in coming: “One of my initiatives when I Chaired the SEC was to move toward more “current” reporting. One of the biggest difficulties with our current reporting system is that it is backward looking, the fact that something material occurs to a public company does not — by itself — mean that there must be any disclosure.”</p>\r\n<p class=\"graf graf--p graf-after--p\">After Enron and WorldCom, Pitt’s SEC “amended the current reporting standards and required companies to disclose, within a few days of significant events, those events.”</p>\r\n<p class=\"graf graf--p graf-after--p\">But he says, there’s still much more that needs to be done.</p>\r\n<p class=\"graf graf--p graf-after--p\">His suggestion is to go to semi-annual reporting, but give a great deal of weight “to ancillary disclosure improvements designed to enable investors to track significant distinctions in trends.”</p>\r\n<p class=\"graf graf--p graf-after--p\">Pitt concluded by adding that the “motivation behind the President’s tweet — to reduce reporting costs — is a noble one, and something that investors should want as well (right now, they are inundated with excessive disclosure).” His solution would make it possible to achieve the same effect if the first and third quarter reports were “far more summary documents than is presently the case.”</p>\r\n<p class=\"graf graf--p graf-after--p\">The idea of reducing short-term thinking in business has long been a feature of the American C suite and World Economic Forum at Davos. But the moment the honchos leave the Swiss ski resort, they go back to thinking in terms of weeks and months, not years.</p>\r\n<p class=\"graf graf--p graf-after--p\">President Trump, is taking the high road in trying to change the financial reporting calendar, an issue his populist constituency doesn’t care much about.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\">In a famous expression Paul Giamatti used in&nbsp;<em>Billions</em>: Worth it.</p>\r\n<p class=\"graf graf--p graf-after--p graf--trailing\"><strong><i>The views expressed in this article do not necessarily reflect those of Thunderbird School of Global Management or Arizona State University as a whole.</i></strong></p>\r\n<p><strong>Author’s Bio</strong></p>\r\n<p>Jeff Cunningham is an advocate for enlightened global leadership, which he calls the most valuable natural resource in the world.</p>\r\n<p>He is a Professor at ASU’s Thunderbird School of Global Management and was the former publisher of Forbes Magazine, startup founder, digital content CEO, and ran an internet venture capital fund.</p>\r\n<p>He travels the globe in search of iconic leaders. As an interviewer/host, he created a YouTube interview series,&nbsp;<a href=\"http://www.iconicvoices.tv/\">Iconic Voices</a>, now co-produced by @Thunderbird, featuring mega moguls from Warren Buffett to Jeff Immelt. His articles on leadership have been featured in the Arizona Republic, Forbes, Chief Executive Magazine, Board Member Magazine, LinkedIn and Medium via&nbsp;<a href=\"http://www.jeffcunningham.com/\">JeffCunningham.com.</a></p>\r\n<p>His career experience includes publisher of Forbes Magazine; founder of Directorship Magazine; CEO of Zip2 (founded by Elon Musk), Myway.com, and CareerTrack.com; venture partner with Schroders. He serves as a trustee of the McCain Institute and previously as a trustee of CSIS and Middle East Institute, and as an advisor to the Nobel Peace Prize Committee.</p>\r\n<p>He has also been a board director of 10 public companies.</p>\r\n<p>Read more from Jeff:</p>\r\n<ul>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/amazons-war-drugs\">Amazon’s War on Drugs</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/stop-apologizing-8-social-media-rules\">“I’m Sorry I Tweeted About Politics” — 8 Rules to Stop Saying This</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/starbucks-responds-charges-racism-apology\">Starbucks Responds To Charges of Racism With An Apology</a></li>\r\n<li><a href=\"https://thunderbird.asu.edu/knowledge-network/quote-trump-misquote-him\">To Quote Trump is to Misquote Him</a></li>\r\n</ul>"
+    format: basic_html
+    processed: ''
+    summary: 'In America, we clean our teeth every six months and our public company financials every three, thanks to quarterly reporting. Now, to root out short-term thinking in the C suite, President Trump has tweeted that what’s right for dentists is good for American business.'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 990
+    height: 556
+    target_type: file
+    target_uuid: 4ae0a167-b0c3-40ac-b872-4610177267d9
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1c57afbc-7805-4f34-b0fe-a4f4ba7f737f
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.4ae0a167-b0c3-40ac-b872-4610177267d9
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.1c57afbc-7805-4f34-b0fe-a4f4ba7f737f

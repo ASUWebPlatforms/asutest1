@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 80574684-0ae6-4edc-9aae-f083c55a2e40
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2021-02-22T14:35:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+title:
+  -
+    value: 'Uncover the Culture of Chinese New Year'
+created:
+  -
+    value: '2021-02-22T14:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-02-22T14:35:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/uncover-culture-chinese-new-year
+body:
+  -
+    value: '<p><span>by Joanna Furst</span></p><p><span>Two Thunderbird students, Zihao Liu and Xi Ling, reflect on a tradition as integral to their culture and history as Thanksgiving in America. Like many holidays, Chinese New Year presents an opportunity for feast and family, but is also filled with dragon dances and an emphasis on starting the new year with luck using some unique tactics.&nbsp;</span></p>[caption caption="Xi Ling, International Business student"][[{"fid":"89767","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Xi Ling, International Business student","field_file_image_title_text[und][0][value]":"Xi Ling, International Business student"},"link_text":null,"type":"media","field_deltas":{"3":{"format":"default","field_file_image_alt_text[und][0][value]":"Xi Ling, International Business student","field_file_image_title_text[und][0][value]":"Xi Ling, International Business student"}},"attributes":{"alt":"Xi Ling, International Business student","title":"Xi Ling, International Business student","class":"media-element file-default","data-delta":"3"}}]][/caption][caption caption="Xi Ling, International Business student&nbsp;"][[{"fid":"89766","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Zihao Liu, Creative Industries and Design Thinking student","field_file_image_title_text[und][0][value]":"Zihao Liu, Creative Industries and Design Thinking student"},"link_text":null,"type":"media","field_deltas":{"2":{"format":"default","field_file_image_alt_text[und][0][value]":"Zihao Liu, Creative Industries and Design Thinking student","field_file_image_title_text[und][0][value]":"Zihao Liu, Creative Industries and Design Thinking student"}},"attributes":{"alt":"Zihao Liu, Creative Industries and Design Thinking student","title":"Zihao Liu, Creative Industries and Design Thinking student","class":"media-element file-default","data-delta":"2"}}]][/caption]<p><strong><i>What are some cultural do’s and don''ts surrounding Chinese New Year for those who aren’t familiar with it?</i></strong></p><p><span style="text-decoration: underline;"></span>ZL: Chinese New Year is a blessing for the coming spring in traditional Chinese culture. People return to their hometowns to eat and chat with the elderly and children. In the traditional stories of Beijing, "nian" is a kind of beast. People set off firecrackers and gather to celebrate loudly to drive away the beast, praying for good luck in the new year.</p><p><span style="text-decoration: underline;"></span>XL:&nbsp;During the Spring Festival, we clean our house and wear new clothes (red clothes, because it is lucky for the new year). We eat dumplings and watch TV. For good luck, people will put a coin, sugar or jujube randomly into our dumplings. We also shoot off fireworks to drive ghosts away. We can’t say words like bad, dead, poor, broken etc. because we believe it will bring bad luck.&nbsp;</p><p><span style="text-decoration: underline;"></span><strong><i>What is one of your favorite traditions of Chinese New Year?</i></strong></p><p><span style="text-decoration: underline;"></span>ZL: I like temple fairs, which are held in large parks. There are snacks from all over the country. Family members brave the cold winter together to find their favorite snacks and clothes or toys for children. At the temple fair, a professional team performs the dragon dance, lion dance and other traditional performances.</p><p><span style="text-decoration: underline;"></span>XL:&nbsp;When I was young, my favorite thing was collecting Yasui Money, which kids get from grandparents or relatives. When I grew up, it was more about sitting and eating with my family, hugging them and telling them I love them in person. Since I chose to study in the U.S., it has been three years since I have been able to celebrate with them in person.</p><p><span style="text-decoration: underline;"></span><strong><i>Is there a traditional meal that’s customary to eat during the celebration?&nbsp;</i></strong></p><p>XL: Every family has their own traditional meal custom. One of my friend’s family cooks&nbsp;藕夹，茄夹&nbsp;(a dish made with lotus and eggplant) for Spring Festival. People from the north and south in China sometimes have totally different tastes. So we won''t have a standard meal custom. Each family has their own New Year traditions. &nbsp;</p><p><span style="text-decoration: underline;"></span><strong><i>If you are not living in China, how do you carry these traditions with you when you are away from home?</i></strong></p><p><span style="text-decoration: underline;"></span>ZL: I have bought some red decorations to make my home full of the New Year ambiance. I also plan to get together with friends to play mahjong, which is said to have existed in China one or two thousand years ago.</p><p><span style="text-decoration: underline;"></span>XL:&nbsp;I will video call with my family and invite my Chinese friends to my home to celebrate it together.&nbsp;</p><p><span style="text-decoration: underline;"></span><strong><i>Has COVID affected the celebrations?</i></strong></p><p><span style="text-decoration: underline;"></span>ZL: Yes, there is a call to "Celebrate the New Year on the spot," policies are strict but some companies will provide additional bonuses, and the government will also hold some local events.</p><p><span style="text-decoration: underline;"></span><strong><i>Is there anything you think people who are not from China would find surprising about the Chinese New Year?</i></strong></p><p><span style="text-decoration: underline;"></span>ZL: They will find that big cities like Beijing and Shanghai become empty because everyone returns to their hometown before the New Year to spend it with their families. Travel for Spring Festival is the largest regular population migration in the world (close to 3 billion trips! source: Bloomberg). It is difficult to buy train or plane tickets.</p><p><span style="text-decoration: underline;"></span>XL:&nbsp;I think foreigners would fall in love with an authentic experience of Chinese New Year. It''s like Christmas Day in the U.S.: we have our own traditions, and it is important to know the history behind the festivals. What touches me most is the importance of family. Everyone goes home because deep in our culture, we believe&nbsp;家和万事兴&nbsp;(A harmonious family cultivates prosperity).</p><p><span style="text-decoration: underline;"></span><i>Sources</i>:&nbsp;<a href="https://www.bloomberg.com/news/articles/2020-01-20/china-readies-for-world-s-biggest-human-migration-quicktake" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.bloomberg.com/news/articles/2020-01-20/china-readies-for-world-s-biggest-human-migration-quicktake&amp;source=gmail&amp;ust=1614089115867000&amp;usg=AFQjCNGv5xntyPdUOOp3LdSiL0d_FaeyGQ">https://www.bloomberg.com/news/articles/2020-01-20/china-readies-for-world-s-biggest-human-migration-quicktake</a>&nbsp;</p>'
+    format: basic_html
+    processed: ''
+    summary: 'Two Thunderbird students, Zihao Liu and Xi Ling, reflect on a tradition as integral to their culture and history as Thanksgiving in America. Like many holidays, Chinese New Year presents an opportunity for feast and family, but is also filled with dragon dances and an emphasis on starting the new year with luck using some unique tactics. '
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 2190
+    height: 1369
+    target_type: file
+    target_uuid: a31505bf-6e0d-4d7a-ade1-6cb8fe4ba322
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: b7ce5994-a336-433d-a3fa-93c52fd702a1
+field_image: {  }
+field_kn_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: be23d3df-c315-4f8a-86c5-c9be4f65d17d
+  -
+    target_type: taxonomy_term
+    target_uuid: 085deb34-f08f-4691-8ba6-e251a66f859e
+  -
+    target_type: taxonomy_term
+    target_uuid: 29291689-295b-4100-8975-b46ce0819caa
+  -
+    target_type: taxonomy_term
+    target_uuid: d5fbacde-2c47-4265-a83b-42a6f50d5e21
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+    file:
+      - file.image.a31505bf-6e0d-4d7a-ade1-6cb8fe4ba322
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.b7ce5994-a336-433d-a3fa-93c52fd702a1
+      - taxonomy_term.knowledge_network_tags.be23d3df-c315-4f8a-86c5-c9be4f65d17d
+      - taxonomy_term.knowledge_network_tags.085deb34-f08f-4691-8ba6-e251a66f859e
+      - taxonomy_term.knowledge_network_tags.29291689-295b-4100-8975-b46ce0819caa
+      - taxonomy_term.knowledge_network_tags.d5fbacde-2c47-4265-a83b-42a6f50d5e21

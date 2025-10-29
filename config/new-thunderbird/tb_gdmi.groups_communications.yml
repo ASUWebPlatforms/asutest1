@@ -1,0 +1,6 @@
+schedule: 'Immediately upon purchase'
+message: Default
+title: 'You are invited to be an Admin for the GDMI!'
+body:
+  value: "<p>Hi [First Name]!</p>\r\n\r\n<p>You’ve been invited by [First Name of Purchaser/Admin] [Last Name] to administer the GDMI (Global Digital Mindset Inventory) assessments for your organization.</p>\r\n\r\n<p>You will be directed to the GDMI Hub. If you have already created an account, you will find the group you are administering under the “Manage Groups” tab of the GDMI Hub navigation.</p>\r\n\r\n<p>If you have not created an account, you will be prompted to do so before seeing the group under “Manage Groups.”<br />\r\n\L[Button “Go to GDMI Hub”]</p>\r\n"
+  format: full_html

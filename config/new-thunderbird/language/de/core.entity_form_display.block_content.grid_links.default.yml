@@ -1,0 +1,9 @@
+content:
+  field_links:
+    settings:
+      title: Seitenabschnitt
+      title_plural: Seitenabschnitte
+  field_tooltip:
+    settings:
+      title: Seitenabschnitt
+      title_plural: Seitenabschnitte

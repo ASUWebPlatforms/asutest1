@@ -1,0 +1,26 @@
+uuid: eb870348-cab4-4d7f-b880-5ec569d13b83
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_body
+    - paragraphs.paragraphs_type.signpost_with_modal_links
+  module:
+    - allowed_formats
+    - text
+third_party_settings:
+  allowed_formats:
+    allowed_formats:
+      - full_html
+id: paragraph.signpost_with_modal_links.field_body
+field_name: field_body
+entity_type: paragraph
+bundle: signpost_with_modal_links
+label: Content
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

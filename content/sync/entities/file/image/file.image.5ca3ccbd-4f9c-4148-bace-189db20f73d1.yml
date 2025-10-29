@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 5ca3ccbd-4f9c-4148-bace-189db20f73d1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: f6c2187b-4cbe-4450-a0ef-519b51f07bfe
+filename:
+  -
+    value: o-globalization-facebook.jpg
+uri:
+  -
+    value: 'public://article/o-globalization-facebook.jpg'
+    url: /sites/default/files/article/o-globalization-facebook.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 308990
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-02-02T19:29:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-02-02T19:29:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.f6c2187b-4cbe-4450-a0ef-519b51f07bfe

@@ -1,0 +1,20 @@
+display:
+  default:
+    display_title: 'Por defeito'
+    display_options:
+      fields:
+        completed:
+          label: Concluído
+        operations:
+          label: Operações
+      exposed_form:
+        options:
+          submit_button: Aplicar
+          reset_button_label: Reiniciar
+          exposed_sorts_label: 'Ordenar por'
+      arguments:
+        order_id:
+          exception:
+            title: Todos
+  page_1:
+    display_title: Página

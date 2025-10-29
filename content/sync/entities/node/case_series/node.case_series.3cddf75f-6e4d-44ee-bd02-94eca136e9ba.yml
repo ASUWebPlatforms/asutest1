@@ -1,0 +1,104 @@
+uuid:
+  -
+    value: 3cddf75f-6e4d-44ee-bd02-94eca136e9ba
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-26T21:42:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+title:
+  -
+    value: 'Competitive Advantage through Channel Management'
+created:
+  -
+    value: '2016-07-26T21:42:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-26T21:42:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a12-04-0019
+body:
+  -
+    value: '<div class="field field-name-body field-type-text-with-summary field-label-above"><div class="field-items"><div class="field-item even"><p>This case provides a synopsis of three companies-Dell, Inc., IKEA, and Seven-Eleven (Japan)-that has developed a competitive advantage through channel management. Each case highlights the company''s focus on customer relationships and how the channel is designed to maximize customer service. Examples illustrate how these companies think "outside the box" in their selection of channel partners and in the sequencing and assignment of the activities involved in product design, production, and transfer. They also illustrate how closely these companies work with their suppliers in order to coordinate activities and reduce channel cost. The net effect is a more efficient channel designed to serve the customer more effectively.</p><p>&nbsp;</p></div></div></div>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A12-04-0019
+field_case_page_length:
+  -
+    value: '7 pages'
+field_case_series_author:
+  - {  }
+  - {  }
+field_case_series_date: {  }
+field_case_series_image: {  }
+field_case_series_industry:
+  -
+    target_type: taxonomy_term
+    target_uuid: 7e2e06da-4165-41d3-a5e6-f020ed80dc86
+field_case_series_year:
+  -
+    value: '2004-01-01'
+field_case_setting:
+  -
+    value: 'U.S., Japan, Sweden, 1990-2004'
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 52be3c88-374f-4da8-886b-bf23b99e4f24
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4edb0778-08f6-4beb-b160-f35b6b813946
+field_teaching:
+  -
+    value: "The case is intended to stimulate discussion about what it takes to develop a competitive advantage through channel management. It illustrates that a competitive advantage can be created by:\r\n\r\nControlling channel costs so that the right product can be sold profitably at a fair price to consumers,\r\nEnsuring that the product is available at the right time (mundane but crucial),\r\nEnsuring that customers' shopping experience in the retail environment (store, catalogs, or online) meets their specific needs."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+    taxonomy_term:
+      - taxonomy_term.case_series_industry.7e2e06da-4165-41d3-a5e6-f020ed80dc86
+      - taxonomy_term.case_series_categories.52be3c88-374f-4da8-886b-bf23b99e4f24
+      - taxonomy_term.case_series_fields.4edb0778-08f6-4beb-b160-f35b6b813946

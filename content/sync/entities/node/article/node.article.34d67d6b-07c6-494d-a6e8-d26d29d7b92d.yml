@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 34d67d6b-07c6-494d-a6e8-d26d29d7b92d
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2017-03-01T20:48:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 04c48d6e-3523-473f-8537-2af26241474f
+title:
+  -
+    value: 'Recipe for the Future, Thunderbird Style: '
+created:
+  -
+    value: '2016-11-01T16:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-03-01T20:48:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/recipe-for-future
+body:
+  -
+    value: "<p><span style=\"text-decoration: underline;\"><strong>The Enrollment Story</strong></span></p>\r\n<p>It’s a good thing that Thunderbird knows how to deal with challenges because there have been some during the past few years. To paraphrase from a recent speech, when enrollment is low, we go high. Thunderbird is now fiercely focused on rebuilding the student body pipeline. The number of students at the School declined from a high of nearly 1,500 in the early to mid-2000s to fewer than 400 in 2014-15. While the merger with Arizona State University has introduced a new pipeline of potential applicants, that alone is not enough.</p>\r\n<p>As a first step, our Thunderbird recruitment team has been rebuilt and has rededicated itself to worldwide efforts to attract qualified, globally engaged students. The goal – one earmarked by members of the alumni-led Thunderbird Executive Leadership Council – is to attract at least one student from every country in the world.</p>\r\n<p>When fall classes began in August, with local temperatures still more like summer than Autumn, our Class of ’16 cohorts of full-time MGM, MAGAM, and Online MGM students got their first taste of what it was like to be a T-bird during their Foundations week orientation and started their programs in earnest.</p>\r\n<p>In all, Thunderbird welcomed 78 new Master of Global Management students, 65 new members of the Master of Arts in Global Affairs and Management students, and a record number of online MGM students – 70. As Thunderbird seeks to improve access to students worldwide in developed and in emerging markets, our online enrollment numbers are expected to climb significantly. For now, the majority of the online enrollment comes from the United States.</p>\r\n<p>While the School still has a long way to go, these enrollment numbers represent a robust improvement of 80% over fall ’15 numbers for on-campus students and an astounding 300% increase for our online students. The growth in the School’s Online MGM (OMGM) enrollment numbers reflects an increasing demand for quality graduate degree offerings virtually as a necessity for both recent graduating degree holders in addition to long-time working professionals. Thunderbird sees this as an avenue for substantial and sustainable growth.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4056\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Enrollment Story\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Enrollment Story\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Enrollment Story\",\"title\":\"Thunderbird Enrollment Story\",\"class\":\"panopoly-image-original media-element file-default\"}}]]&nbsp; &nbsp;&nbsp;</p>\r\n<p>In addition, these numbers represent an improved balance of domestic vs. international student enrollment, an important component in developing high-quality, diverse cohorts. Thanks, in part, to coordinated marketing campaigns with Arizona State University, Thunderbird has seen several positive enrollments trends: domestic versus international student enrollment&nbsp;reflects a balanced ratio of 50/50; and we’ve witnessed a greater range of diversity, with greater traction with recruitment of Asian-American, African-American, Native American, Hispanic-American, women, and veteran student populations.</p>\r\n<p>Thunderbird’s commitment to global diversity remains a core principle – the new class has representation from 43 different countries, with 85% of the overall incoming class demonstrating multilingual proficiency. At the top end of the multi-lingual spectrum, we have one student who is proficient in five different languages.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4058\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Enrollment Story\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Enrollment Story\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Enrollment Story\",\"title\":\"Thunderbird Enrollment Story\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>Our alumni have always been a key source of new students. No one knows better than a Tbird what ingredients go into making a T-bird. For those alumni who want to continue to help the School connect with great candidates, the Thunderbird Alumni Referral Program is still very much in effect and we encourage you to lend a hand. Your assistance helps the School and it helps the students.</p>\r\n<p>This referral program provides the student who is recommended with up to a 40% Global Excellence tuition scholarship; 30 students benefitted from this program this year. You can find the information on how to do this on our newly designed website at thunderbird.asu.edu.</p>\r\n<p>As you might expect, personal contact is the strongest element in recruiting great T-birds. In addition to our alumni referrals, Thunderbird’s global recruitment team is hard at work, recently embarking on its annual World Tour, with stops throughout the United States, Latin America, Europe, Asia, Africa and the Middle East. Information on this tour is also on the website and chapter leaders are good contacts for information for announcements about tour stops in your area.</p>\r\n<p style=\"text-align: center;\">[[{\"fid\":\"4057\",\"view_mode\":\"default\",\"fields\":{\"format\":\"default\",\"field_file_image_alt_text[und][0][value]\":\"Thunderbird Enrollment Story\",\"field_file_image_title_text[und][0][value]\":\"Thunderbird Enrollment Story\"},\"type\":\"media\",\"link_text\":null,\"attributes\":{\"alt\":\"Thunderbird Enrollment Story\",\"title\":\"Thunderbird Enrollment Story\",\"class\":\"panopoly-image-original media-element file-default\"}}]]</p>\r\n<p>When deciding to admit a new student, nothing is more compelling than the personal recommendation of someone who’s been there and knows what the Mystique means. So, check your local listings, as they say, and if the recruiting team is stopping in a city near you, we invite you – we encourage you – to help us meet with prospective students at recruitment fairs, engage in a prospective student/alumni gathering, or connect a promising candidate to Thunderbird program information and updates.</p>\r\n<p>We hear it all the time: Thunderbird changed my life. Truism though it may be, no one knows better than you, a T-bird, how Thunderbird can make an audacious difference in someone’s life. When you recommend a student, you bring us the future. #OnlyHere</p>\r\n<p>&nbsp;</p>"
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_article_image:
+  -
+    alt: null
+    title: null
+    width: 648
+    height: 287
+    target_type: file
+    target_uuid: 3875d5bd-ca07-487a-8e38-7f2d8395e607
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d
+      - user.user.04c48d6e-3523-473f-8537-2af26241474f
+    file:
+      - file.image.3875d5bd-ca07-487a-8e38-7f2d8395e607
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

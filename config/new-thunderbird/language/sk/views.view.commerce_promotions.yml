@@ -1,0 +1,64 @@
+label: Akcie
+display:
+  default:
+    display_title: Predvolené
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Použiť
+          reset_button_label: Reset
+          exposed_sorts_label: 'Zoradiť podľa'
+          sort_asc_label: Vzostupne
+          sort_desc_label: Zostupne
+      pager:
+        options:
+          tags:
+            previous: ‹‹
+            next: ››
+            first: «
+            last: »
+          expose:
+            items_per_page_label: 'Položky na stránku'
+            items_per_page_options_all_label: '- Všetky -'
+            offset_label: Ofset
+      fields:
+        name:
+          label: Názov
+          separator: ', '
+        offer__target_plugin_id:
+          label: 'Typ ponuky'
+          separator: ', '
+        usage_limit:
+          label: Využitie
+          separator: ', '
+        usage_limit_customer:
+          separator: ', '
+        start_date:
+          label: 'Dátum od'
+          separator: ', '
+        end_date:
+          label: 'Dátum do'
+          separator: ', '
+        operations:
+          label: Operácie
+      filters:
+        name:
+          expose:
+            label: Názov
+        offer__target_plugin_id:
+          expose:
+            label: 'Typ ponuky'
+        code:
+          expose:
+            label: 'Kód kupónu'
+        status:
+          expose:
+            label: Stav
+      title: Akcie
+  admin:
+    display_title: Strana
+    display_options:
+      menu:
+        title: Zoznam
+      tab_options:
+        title: Zoznam

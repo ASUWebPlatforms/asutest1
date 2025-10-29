@@ -1,0 +1,121 @@
+uuid:
+  -
+    value: fb60207c-9e00-455f-a66a-7612d8fc6fd8
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: case_series
+    target_type: node_type
+    target_uuid: 0ea0fe3a-e616-4d45-88b7-f6bb126fd852
+revision_timestamp:
+  -
+    value: '2016-07-19T16:39:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7f2b027c-635a-47bd-9500-94902c2d3670
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 2e875de4-9ceb-4b8b-b22a-e13a4e11f2d0
+title:
+  -
+    value: 'The Global Oil & Gas Industry, Revised 2016'
+created:
+  -
+    value: '2016-04-29T18:51:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-07-19T16:39:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /faculty-and-research/case-series/id/a09-16-0002
+body:
+  -
+    value: '<p><span>This industry note examines the oil and gas industry. The note first provides background information on industry financial performance, the role of OPEC, and the problems oil-producing nations have had in capitalizing on their</span><br><span>resource wealth (e.g., the resource curse). The note then summarizes the major competitors among the integrated oil companies (IOCs), national oil companies (NOCs), and independents. The note describes the major business segments, including exploration and production, refining and marketing, natural gas, and petrochemicals. The note concludes with a discussion of industry evolution.</span></p>'
+    format: basic_html
+    processed: ''
+    summary: ''
+    summary_processed: ''
+field_case_number:
+  -
+    value: A09-16-0002
+field_case_page_length:
+  -
+    value: '17 pages'
+field_case_series_author:
+  -
+    target_type: taxonomy_term
+    target_uuid: fb21e646-4d63-4339-986d-3a9246575132
+field_case_series_date: {  }
+field_case_series_image:
+  -
+    alt: null
+    title: null
+    width: 262
+    height: 150
+    target_type: file
+    target_uuid: db5943a5-05c5-425b-9a0e-f7a0f6f5faf7
+field_case_series_industry:
+  - {  }
+field_case_series_year:
+  -
+    value: '2016-01-01'
+field_case_setting:
+  -
+    value: Global
+field_case_source:
+  -
+    value: Library
+field_case_subject:
+  -
+    target_type: taxonomy_term
+    target_uuid: 95e0daf1-ac11-45b7-bf9a-84d442b59c71
+field_fields:
+  -
+    target_type: taxonomy_term
+    target_uuid: aceb4b7c-a79d-41a2-ac9f-12a4a68c95d7
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b300eda-ef58-4923-8faf-9cf0f10c0045
+  -
+    target_type: taxonomy_term
+    target_uuid: 90a11822-61b6-4898-af51-992b03c043dc
+field_teaching:
+  -
+    value: "This case can be used in multiple settings:\r\n\r\n1. In a competitive strategy course with a section on industry analysis\r\n\r\n2.In a corporate strategy course as a vehicle for examining vertical integration\r\n\r\n3. With oil and gas industry managers in executive education programs\r\n\r\nThe main objective in using the case is to examine the structure of the industry and its competitive dynamics. Because of the complexity of the industry, the instructor will have to choose a subset of material on which to focus the call discussion."
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7f2b027c-635a-47bd-9500-94902c2d3670
+      - user.user.2e875de4-9ceb-4b8b-b22a-e13a4e11f2d0
+    taxonomy_term:
+      - taxonomy_term.case_series_authors.fb21e646-4d63-4339-986d-3a9246575132
+      - taxonomy_term.case_series_categories.95e0daf1-ac11-45b7-bf9a-84d442b59c71
+      - taxonomy_term.case_series_fields.aceb4b7c-a79d-41a2-ac9f-12a4a68c95d7
+      - taxonomy_term.case_series_fields.9b300eda-ef58-4923-8faf-9cf0f10c0045
+      - taxonomy_term.case_series_fields.90a11822-61b6-4898-af51-992b03c043dc
+    file:
+      - file.image.db5943a5-05c5-425b-9a0e-f7a0f6f5faf7

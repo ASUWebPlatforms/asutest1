@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: a63b4a82-1783-458d-a8c0-4e66a03648b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 0ab5e65b-9cee-4a6c-97ef-b3fc28908870
+uid:
+  -
+    target_type: user
+    target_uuid: 5aa73d2e-4957-4723-8002-a76df8f66c4d
+filename:
+  -
+    value: for_luis_moreno_77_adaptability_is_the_key_to_success.jpg
+uri:
+  -
+    value: 'public://article/for_luis_moreno_77_adaptability_is_the_key_to_success.jpg'
+    url: /sites/default/files/article/for_luis_moreno_77_adaptability_is_the_key_to_success.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 1574424
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-07-19T22:51:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-07-19T22:51:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_file_image_alt_text: {  }
+field_file_image_title_text: {  }
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.5aa73d2e-4957-4723-8002-a76df8f66c4d

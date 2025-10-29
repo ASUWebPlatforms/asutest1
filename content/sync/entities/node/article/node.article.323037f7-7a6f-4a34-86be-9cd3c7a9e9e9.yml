@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 323037f7-7a6f-4a34-86be-9cd3c7a9e9e9
+langcode:
+  -
+    value: und
+type:
+  -
+    target_id: insight
+    target_type: node_type
+    target_uuid: 82f86ccd-7f69-46fa-8433-076e242b263f
+revision_timestamp:
+  -
+    value: '2018-04-02T22:39:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 972761cb-fbbd-471a-a801-2e4d25e754ff
+title:
+  -
+    value: 'Thunderbird on the Move: Part 3'
+created:
+  -
+    value: '2018-03-28T21:45:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-04-02T22:39:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /knowledge-network/thunderbird-move-part-3
+body:
+  -
+    value: |-
+      <p><em>Thunderbird Archivist, Shannon Walker, has written an interesting collection of narratives describing the history of the campus.&nbsp; In this three part series, she takes us from the original intent of the developers during World War II all the way through a number of plans by previous Presidents to sell, rebuild and relocate the campus. Read the third part in the series below.&nbsp; If you missed the second piece, you can read it now in the <a href="https://thunderbird.asu.edu/knowledge-network/thunderbird-move-part-2">Knowledge Network</a>.</em></p>
+      <p>From the beginning, Thunderbird has had ties to downtown Phoenix.<br><br>In March of 1946, five men met in the in the Heard Building at 112 Central Avenue to “...consider the organization of a nonprofit corporation for the purpose of establishing a school to train men and women to engage in foreign trade…” Those present included Lt.General Barton K.Yount, Major Finley P. Dunne, Melvin Jacobus, Frank L. Snell andAlfred Knight.<br><br>A second meeting was held in April 1946, at the offices of Snell and Wilmer, again in the Heard Building on Central Avenue. During this meeting the newly formed Board of Directors signed the Articles of Incorporation establishing the American Institute for Foreign Trade and retired Lt. General Barton Kyle Yount as its President. At that time, the Board of Directors grew and included not only the men originally present at the first meeting but also Wilbur S. Thompson, Walter Bimson and Frank C. Brophy.<br><br>This group of men of various backgrounds (military, banking, business, etc.) bought in to the proposed vision for the school as a place to prepare Americans to do business overseas. However they were also keen on developing Phoenix as an important city, not only to the state or region but internationally , and saw this new institution as key to future growth and influence.<br><br>By the time of the School’s opening in October of 1946, more board members were added and the list read like a Who’s Who in the History of the City of Phoenix:<br><br><strong>Frank Snell (Snell &amp; Wilmer)</strong><br><strong>Walter R. Bimson (Valley National Bank)</strong><br><strong>Frank C. Brophy (Bank of Douglas/Bank of Arizona)</strong><br><strong>D.H. Bonsall (Southwest Flour and Feed Co.)</strong><br><strong>Hugh C. Gruwell (First National Bank of Arizona)</strong><br><strong>Melvin S. Jacobus (Dwight B. Heard Investment Company)</strong><br><strong>Alfred Knight (Orangewood Realty Company)</strong><br><strong>Benton M. Lee (Benton M. Lee and Company)</strong><br><strong>John C. Lincoln (Lincoln Electric Company)</strong><br><strong>John J. Louis (KTAR Broadcasting)</strong><br><strong>George W. Mickle (Phoenix Title and Trust Company)</strong><br><strong>A.Lee Moore (A.L. Moore &amp; Sons)</strong><br><strong>A.F. Morairty (Jokake Inn)</strong><br><strong>E.V. O’Malley (The O’Malley Lumber Company)</strong><br><br>These individuals were prominent valley business men. Many of them had a presence in downtown Phoenix and they were all influential in the development of the city. Over the school’s 70+ year history, subsequent generations of these individuals have continued to represent their family and businesses and lend their support to the success of the school as members of Thunderbird’s Board of Trustees. As we consider Thunderbird’s future home in downtown Phoenix, it is certain that these original Board Members would be pleased to see that the School has endured and flourished over time. One can’t help believe that they would be all the more thrilled to see it move to downtown Phoenix and become a vital part of the heart of the city...they would view it as progress!<br><br></p>
+      <p>&nbsp;</p>
+    format: basic_html
+    processed: ''
+    summary: 'This is not the first time Thunderbird has contemplated moving the campus.  In 1959 the U.S. Government was exploring options for the disposal of Ellis Island.  There were strong feelings that the island should keep some of its “international” flavor since it was the main gateway for immigrants for this country for so many years.  Ultimately it was hoped that the site would evolve into an educational institute that focused on educating Americans in the language and cultures of other countries. Someone proposed the relocation of the American Institute for Foreign Trade, and we were contacted in regards to acquiring the property. For two years the School’s administration contemplated the move. Board members flew to the East Coast for discussion and planning, eventually deciding against it. Through the process, AIFT solidified its original mission and remained true to its founding. The ultimate decision not to move brought relief to the city of Glendale, the greater-Phoenix area and the state of Arizona as a whole. In a letter from Senator Barry Goldwater to President Carl Sauer regarding the idea of moving the school, dated April 18, 1960, he wrote “…proceed with great caution. If they feel there is a need for this type of school, we have the best one in the world right here. Let them come to Glendale.”'
+    summary_processed: ''
+field_article_image:
+  -
+    alt: 'Image of old phoenix town'
+    title: null
+    width: 600
+    height: 300
+    target_type: file
+    target_uuid: 61a15530-d8e3-4794-abe1-cb769ea5f4c9
+field_article_network:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23cd24eb-12bb-41e4-9011-bbbdbde53ce8
+field_image: {  }
+field_kn_tags: {  }
+field_related_thought_leaders: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.972761cb-fbbd-471a-a801-2e4d25e754ff
+    file:
+      - file.image.61a15530-d8e3-4794-abe1-cb769ea5f4c9
+    taxonomy_term:
+      - taxonomy_term.knowledge_network.23cd24eb-12bb-41e4-9011-bbbdbde53ce8

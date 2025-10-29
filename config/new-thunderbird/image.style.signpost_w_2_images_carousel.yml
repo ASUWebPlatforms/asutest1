@@ -1,0 +1,7 @@
+uuid: 068d03e1-fea1-4237-8047-90ed05998ee1
+langcode: en
+status: true
+dependencies: {  }
+name: signpost_w_2_images_carousel
+label: 'Signpost w/ 2 Images Carousel'
+effects: {  }
