@@ -1,6 +1,0 @@
-title: Kontakt
-settings:
-  confirmation_message: 'Vaša správa bola odoslaná.'
-handlers:
-  email_notification:
-    label: 'E-mailová notifikácia'

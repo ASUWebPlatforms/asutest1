@@ -1,9 +1,0 @@
-uuid: 989b4b4a-4ddd-40cb-b216-4ce1f44a1c2e
-langcode: en
-status: true
-dependencies: {  }
-id: main_dev
-domain_id: main
-pattern: dev-new-thunderbird.ws.asu.edu
-redirect: 0
-environment: development

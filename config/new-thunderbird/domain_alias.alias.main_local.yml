@@ -1,9 +1,0 @@
-uuid: 0fabed8a-f195-4895-a3d5-b27a325c96a3
-langcode: en
-status: true
-dependencies: {  }
-id: main_local
-domain_id: main
-pattern: newthunderbird.docksal
-redirect: 0
-environment: local

@@ -1,4 +1,0 @@
-services:
-  instapage.api:
-    class: Drupal\instapage_test\Api
-    arguments: ["@config.factory", "@http_client"]

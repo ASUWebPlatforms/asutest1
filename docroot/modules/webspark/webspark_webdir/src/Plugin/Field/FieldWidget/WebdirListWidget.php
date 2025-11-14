@@ -29,7 +29,11 @@ class WebdirListWidget extends WidgetBase {
       '#type' => 'hidden',
       '#default_value' => $value,
       '#attributes' => array('class' => array('asurite-list')),
-      '#prefix' => '<div id="asurite-list-options" style="width: 100%"></div>',
+      '#prefix' => '<div id="asurite-list-options" style="width: 100%" class="ck-reset"></div>',
+      '#field_parents' => [
+        0 => 'settings',
+        1 => 'block_form',
+      ],
     ];
     // Add the required libraries.
     $element['#attached']['library'][] = 'webspark_webdir/jstree';

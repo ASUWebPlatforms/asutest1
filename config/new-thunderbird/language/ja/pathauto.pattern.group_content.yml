@@ -1,4 +1,0 @@
-label: 'グループ コンテンツ'
-relationships:
-  'group_content:langcode:language':
-    label: 言語

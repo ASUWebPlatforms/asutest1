@@ -1,8 +1,0 @@
-{% block paragraph %}
-  <div class="paragraph--resources-list--square">
-    {% if content.field_title|render|striptags|trim is not empty %}
-      <h2 class="paragraph--resources-list--square__title">{{ content.field_title|render|striptags|trim }}</h2>
-    {% endif %}
-    {{ content|without("field_title") }} 
-  </div>
-{% endblock paragraph %}

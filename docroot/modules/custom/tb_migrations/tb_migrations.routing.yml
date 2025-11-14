@@ -1,7 +1,0 @@
-tb_migrations.settings_form:
-  path: '/admin/config/system/tb-migrations'
-  defaults:
-    _title: 'Events & faculty import settings'
-    _form: 'Drupal\tb_migrations\Form\SettingsForm'
-  requirements:
-    _permission: 'administer site configuration'

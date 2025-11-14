@@ -1,9 +1,0 @@
-uuid: 08ac4b49-8acb-406d-b4fd-d56343d66c36
-langcode: en
-status: true
-dependencies: {  }
-id: pa
-label: Punjabi
-direction: ltr
-weight: 0
-locked: false

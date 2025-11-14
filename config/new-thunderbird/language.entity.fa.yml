@@ -1,9 +1,0 @@
-uuid: f74d27c2-0772-4c20-8a13-a53b06ce8d0a
-langcode: fa
-status: true
-dependencies: {  }
-id: fa
-label: 'Persian, Farsi'
-direction: rtl
-weight: 1
-locked: false

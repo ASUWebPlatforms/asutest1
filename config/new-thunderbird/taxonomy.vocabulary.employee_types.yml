@@ -1,8 +1,0 @@
-uuid: dadf984a-cddf-48c8-ada1-a4257cc880fe
-langcode: en
-status: true
-dependencies: {  }
-name: 'Employee Types'
-vid: employee_types
-description: 'Person Bio'
-weight: 0

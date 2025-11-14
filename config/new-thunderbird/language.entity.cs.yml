@@ -1,9 +1,0 @@
-uuid: 79a921f8-6b3d-40dd-9746-adbb1786b53c
-langcode: en
-status: true
-dependencies: {  }
-id: cs
-label: Czech
-direction: ltr
-weight: -17
-locked: false

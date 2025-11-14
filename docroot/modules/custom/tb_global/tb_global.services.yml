@@ -1,3 +1,0 @@
-services:
-  asu_react_core.helper_functions:
-    class: Drupal\tb_global\Utils\ReactComponentHelperFunctions

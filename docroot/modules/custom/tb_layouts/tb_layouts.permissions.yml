@@ -1,4 +1,0 @@
-administer thunderbird_layouts configuration:
-  title: 'Administer thunderbird_layouts configuration'
-  description: 'Optional description.'
-  restrict access: true

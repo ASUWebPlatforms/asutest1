@@ -1,8 +1,0 @@
-settings:
-  default_submit_button_label: Жіберу
-  default_reset_button_label: Ысыру
-  default_delete_button_label: Өшіру
-  default_preview_next_button_label: 'Алдын-ала қарау'
-  default_preview_label: 'Алдын-ала қарау'
-element:
-  default_more_title: Толығырақ...

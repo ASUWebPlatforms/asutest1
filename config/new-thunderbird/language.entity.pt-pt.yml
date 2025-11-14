@@ -1,9 +1,0 @@
-uuid: 0c0a608e-8090-4602-a6d6-3eb165fc7932
-langcode: en
-status: true
-dependencies: {  }
-id: pt-pt
-label: 'Portuguese, Portugal'
-direction: ltr
-weight: 4
-locked: false

@@ -1,8 +1,0 @@
-uuid: 1f0981c3-e2cc-485c-b340-99d75d7d34fc
-langcode: en
-status: true
-dependencies: {  }
-name: 'GDMI Capital'
-vid: gdmi_capital
-description: 'GDMI Capital'
-weight: 0

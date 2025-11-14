@@ -1,8 +1,0 @@
-uuid: 8260ddcc-c0c1-4b75-a981-1573b238c5ad
-langcode: en
-status: true
-dependencies: {  }
-id: signpost_with_links
-label: 'Signpost with Links'
-revision: 0
-description: ''

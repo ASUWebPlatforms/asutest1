@@ -1,8 +1,0 @@
-uuid: f93d435f-7e79-4792-8cfe-3f9a1a6fd774
-langcode: en
-status: true
-dependencies: {  }
-name: 'Languages Spoken'
-vid: languages_spoken
-description: ''
-weight: 0

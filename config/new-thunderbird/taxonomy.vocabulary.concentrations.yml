@@ -1,8 +1,0 @@
-uuid: 88819a81-666f-4b06-8f4c-32502fb1af70
-langcode: en
-status: true
-dependencies: {  }
-name: Concentrations
-vid: concentrations
-description: 'MGM concentrations used as options in Apply Now.'
-weight: 0

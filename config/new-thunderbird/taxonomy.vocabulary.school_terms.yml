@@ -1,8 +1,0 @@
-uuid: 56540b6d-ab2e-463a-bab2-105e54a4dfd3
-langcode: en
-status: true
-dependencies: {  }
-name: 'School Terms'
-vid: school_terms
-description: ''
-weight: 0

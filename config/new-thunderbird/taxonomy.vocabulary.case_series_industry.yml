@@ -1,8 +1,0 @@
-uuid: 4fb90ca8-dec5-42d1-a15b-07e16caab68a
-langcode: en
-status: true
-dependencies: {  }
-name: 'Case series industry'
-vid: case_series_industry
-description: 'Migrated from old site.'
-weight: 0

@@ -1,9 +1,0 @@
-uuid: 21951681-7f73-4980-9585-2627212a8912
-langcode: en
-status: true
-dependencies: {  }
-id: gdmi_staging
-domain_id: gdmi
-pattern: gdmi.test-new-thunderbird.ws.asu.edu
-redirect: 0
-environment: staging

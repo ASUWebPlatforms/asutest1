@@ -1,7 +1,0 @@
-langcode: en
-status: true
-dependencies: {  }
-id: card_and_image
-label: 'Card and Image'
-revision: 0
-description: ''

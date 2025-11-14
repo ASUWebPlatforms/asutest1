@@ -1,7 +1,0 @@
-uuid: 822435b9-9887-446c-857f-346aec943800
-langcode: en
-status: false
-dependencies: {  }
-formId: node_partner_form
-captchaType: default
-label: node_partner_form

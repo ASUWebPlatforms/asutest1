@@ -1,9 +1,0 @@
-uuid: 103c409f-e618-4a0a-b88b-148ce6ebe4ae
-langcode: ms
-status: true
-dependencies: {  }
-id: ms
-label: Malay
-direction: ltr
-weight: -2
-locked: false

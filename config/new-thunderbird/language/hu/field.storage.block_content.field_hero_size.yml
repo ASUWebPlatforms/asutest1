@@ -1,8 +1,0 @@
-settings:
-  allowed_values:
-    -
-      label: Kicsi
-    -
-      label: Közepes
-    -
-      label: Nagy

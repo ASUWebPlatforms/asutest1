@@ -1,7 +1,0 @@
-uuid: b086a471-43f0-4636-9e44-32bad5bef4bd
-langcode: en
-status: true
-dependencies: {  }
-id: assessment_type
-label: 'Assessment Type'
-elementType: select

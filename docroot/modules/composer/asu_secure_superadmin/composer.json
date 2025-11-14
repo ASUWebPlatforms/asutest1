@@ -1,6 +1,0 @@
-{
-    "name": "asuwebplatforms/asu_secure_superadmin",
-    "description": "Secure SuperAdmin account on ASU Drupal sites",
-    "type": "drupal-module",
-    "license": "MIT"
-}

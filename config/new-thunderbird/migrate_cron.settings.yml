@@ -1,9 +1,0 @@
-d7_responsive_image_styles_cron: 0
-d7_responsive_image_styles_interval: ''
-d7_responsive_image_styles_skip_update: 0
-event_cron: 1
-event_interval: '7200'
-event_skip_update: 0
-facultybio_cron: 0
-facultybio_interval: ''
-facultybio_skip_update: 0

@@ -1,9 +1,0 @@
-noindex_metatag.routes_config_form:
-  path: '/admin/config/search/noindex-metatag'
-  defaults:
-    _form: '\Drupal\noindex_metatag\Form\RoutesConfigForm'
-    _title: 'Noindex Metatag Settings'
-  requirements:
-    _permission: 'noindex metatag config page'
-  options:
-    _admin_route: TRUE

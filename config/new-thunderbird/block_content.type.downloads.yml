@@ -1,8 +1,0 @@
-uuid: ff315786-a20a-4078-b80a-a77d83bf2ee9
-langcode: en
-status: true
-dependencies: {  }
-id: downloads
-label: Downloads
-revision: 1
-description: 'It will display downloads table.'

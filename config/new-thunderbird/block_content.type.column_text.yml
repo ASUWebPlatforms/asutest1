@@ -1,8 +1,0 @@
-uuid: bc8f8fc3-65e4-4209-a7d8-9f94d3f4a348
-langcode: en
-status: true
-dependencies: {  }
-id: column_text
-label: 'Column Text'
-revision: 0
-description: ''

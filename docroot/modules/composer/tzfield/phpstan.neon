@@ -1,7 +1,0 @@
-parameters:
-  level: 9
-  ignoreErrors:
-    -
-      message: "#^Function tzfield_update_8101\\(\\) has parameter \\$sandbox with no value type specified in iterable type array\\.$#"
-      count: 1
-      path: tzfield.install

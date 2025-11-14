@@ -1,8 +1,0 @@
-uuid: 8be06bdd-c93c-4c6d-bcc0-94727a1ce3a5
-langcode: en
-status: true
-dependencies: {  }
-name: 'COE Locations'
-vid: coe_locations
-description: ''
-weight: 0

@@ -8,4 +8,4 @@ You can require the `pantheon-systems/upstream-management` [composer package](ht
 composer require pantheon-systems/upstream-management:^1
 ```
 
-Read project description for more information about the tools that it contains.
+Read project description for more information about the tools that it contains

@@ -1,8 +1,0 @@
-uuid: bd61caa5-7e77-4cc6-9dd7-808c44cbdcfb
-langcode: en
-status: true
-dependencies: {  }
-name: 'Insight Types'
-vid: insight_types
-description: ''
-weight: 0

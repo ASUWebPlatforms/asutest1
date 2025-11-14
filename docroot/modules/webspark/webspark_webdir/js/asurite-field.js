@@ -54,6 +54,12 @@
             // Recreate tree with the default values.
             update_tree(values);
           });
+
+          $("#asurite-tree-options").on('move_node.jstree', () => {
+              const sortableList = $('#asurite-tree-options li');
+              const idString = Array.from(sortableList).map(node => node.id).toString();
+              $('.asurite-tree').val(idString);
+          });
         });
       }
     }
@@ -82,18 +88,19 @@
       $('#asurite-tree-options').jstree({
         'core' : {
           'data' : converted_json,
-          'themes' : { dots: false }
+          'themes' : { dots: false },
+          'check_callback' : true
         },
         types: {
           "person": {
-            "icon" : "fa fa-user"
+            "icon" : "fa fa-user",
+            "valid_children" : [],
           },
           "default" : {
           }
         },
-        "plugins" : [ "types" ]
+        "plugins" : [ "types", "dnd" ],
       });
-
     }, "json");
 
   }
@@ -118,11 +125,13 @@
 
     $(data).each(function (i, element) {
       if (element.asurite_id) {
-        var new_element = {};
+        let new_element = {};
         let title = element.title;
         new_element.id = element.asurite_id + ':' + element.dept_id;
-        new_element.text = element.display_name + ', ' + element.asurite_id +
-                  ', ' + element.dept_name + ', ' + title;
+        let nameHandler = element.display_name ? ', ' + element.display_name : '';
+        let deptHandler = element.dept_name ? ', ' + element.dept_name : '';
+        let titleHandler = title ? ', ' + title : '';
+        new_element.text = element.asurite_id + nameHandler + titleHandler + deptHandler;
         new_element.type = "person";
         result.push(new_element);
       }

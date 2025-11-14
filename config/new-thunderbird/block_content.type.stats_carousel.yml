@@ -1,8 +1,0 @@
-uuid: 995a26e7-f264-4bb9-8e9a-0c855a4285f6
-langcode: en
-status: true
-dependencies: {  }
-id: stats_carousel
-label: 'Stats Carousel'
-revision: 0
-description: ''

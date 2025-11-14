@@ -1,8 +1,10 @@
 <?php
+
 /**
  * Load services definition file.
  */
 $settings['container_yamls'][] = __DIR__ . '/services.yml';
+
 
 /**
  * Skipping permissions hardening will make scaffolding
@@ -17,7 +19,7 @@ $settings['container_yamls'][] = __DIR__ . '/services.yml';
  * Enable the configuration readonly functionality.
  */
 if (PHP_SAPI !== 'cli') {
-  $settings['config_readonly'] = TRUE;
+  $settings['config_readonly'] = FALSE;
 }
 
 /**
@@ -41,7 +43,11 @@ if (file_exists($local_settings)) {
 }
 
 // Automatically generated include for settings managed by ddev.
-$ddev_settings = __DIR__ . '/settings.ddev.php';
+$ddev_settings = dirname(__FILE__) . '/settings.ddev.php';
 if (getenv('IS_DDEV_PROJECT') == 'true' && is_readable($ddev_settings)) {
   require $ddev_settings;
+}
+
+if (file_exists('/var/www/site-php')) {
+  require '/var/www/site-php/asutest1/asutest1-settings.inc';
 }

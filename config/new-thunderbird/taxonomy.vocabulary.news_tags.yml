@@ -1,8 +1,0 @@
-uuid: 60bdb4b0-c5ac-4c73-96ed-1be413a290e8
-langcode: en
-status: true
-dependencies: {  }
-name: 'News Tags'
-vid: news_tags
-description: ''
-weight: 0

@@ -1,8 +1,0 @@
-uuid: fb29fa8b-86cd-42ca-a394-03a86889c917
-langcode: en
-status: true
-dependencies: {  }
-id: gdmi-results
-label: 'GDMI Results'
-description: 'Sidebar GDMI Results menu'
-locked: false

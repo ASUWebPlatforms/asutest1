@@ -2,6 +2,7 @@
 
 namespace Drupal\webspark_utility;
 
+use Drupal\Core\Config\Entity\ConfigEntityType;
 use Drupal\Core\Config\StorageInterface;
 use Drupal\config_update\ConfigReverter;
 use Drupal\Core\Entity\EntityTypeManagerInterface;
@@ -10,7 +11,12 @@ use Drupal\Core\Extension\ExtensionDiscovery;
 use Drupal\Core\Entity\Exception\FieldStorageDefinitionUpdateForbiddenException;
 use Drupal\Core\Config\ConfigFactoryInterface;
 
+@trigger_error('The ' . __NAMESPACE__ . '\WebsparkUtilityConfigManager is deprecated in Webspark 2.15.0.
+Instead, use \Drupal\Drupal\asu_config_utility\ASUConfigUtilityConfigManager.', E_USER_DEPRECATED);
+
 /**
+ * @deprecated Deprecated as of Webspark 2.15.0
+ *
  * Description of WebsparkUtilityConfigManager
  *
  * @author ovidiu
@@ -87,11 +93,16 @@ class WebsparkUtilityConfigManager {
 
   /**
    * Revert/insert all the configuration files of a module.
+   *
    * @param string $module
-   * @throws Exception
+   *
+   * @throws \Exception
    */
   public function revertAll($module) {
-
+    $skip = ['webspark_blocks', 'webspark_utility'];
+    if (in_array($module, $skip)) {
+      throw new \Exception('The ' . $module . ' module cannot be reverted.');
+    }
     // Get all the configs.
     $data = $this->getModuleConfigs($module);
     // Import the new configurations first.
@@ -112,6 +123,23 @@ class WebsparkUtilityConfigManager {
         }
       }
     }
+  }
+
+  /**
+   * Process CSV list of configs.
+   */
+  function getCsvConfigArray($module, $file) {
+
+    // Get the module path.
+    $path = $this->moduleHandler->getModule($module)->getPath();
+    $data = [];
+    $filepath = $path . '/config/' . $file;
+    $file_data = fopen($filepath, 'rb');
+    while (!feof($file_data)) {
+      $data[] = fgetcsv($file_data);
+    }
+    fclose($file_data);
+    return $data[0];
   }
 
   /**
@@ -266,7 +294,7 @@ class WebsparkUtilityConfigManager {
     // Create a list of config entity types.
     $list = [];
     foreach ($this->entityManager->getDefinitions() as $name => $definition) {
-      if ($definition instanceof \Drupal\Core\Config\Entity\ConfigEntityType) {
+      if ($definition instanceof ConfigEntityType) {
         $list[$definition->getConfigPrefix()] = $name;
       }
     }

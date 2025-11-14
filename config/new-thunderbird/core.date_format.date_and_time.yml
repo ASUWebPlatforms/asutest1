@@ -1,8 +1,0 @@
-uuid: 8b2c91f7-8059-4b76-ba27-35f5c04f5739
-langcode: en
-status: true
-dependencies: {  }
-id: date_and_time
-label: 'Date and time'
-locked: false
-pattern: 'm/d/y g:ia'

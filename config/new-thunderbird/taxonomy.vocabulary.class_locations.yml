@@ -1,8 +1,0 @@
-uuid: 6441281a-2792-4d3f-b50b-55b5e07ee411
-langcode: en
-status: true
-dependencies: {  }
-name: 'Class Locations'
-vid: class_locations
-description: ''
-weight: 0

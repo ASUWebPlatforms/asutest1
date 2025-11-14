@@ -1,8 +1,0 @@
-settings:
-  allowed_values:
-    -
-      label: 小
-    -
-      label: 中程度
-    -
-      label: 大

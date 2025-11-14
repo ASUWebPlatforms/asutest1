@@ -1,8 +1,0 @@
-uuid: 39db79aa-b643-48cd-b655-07666ab29671
-langcode: en
-status: true
-dependencies: {  }
-id: locations_map
-label: 'Locations Map'
-revision: 0
-description: ''
