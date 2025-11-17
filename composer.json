@@ -169,7 +169,8 @@
             "phpstan/extension-installer": true,
             "zaporylie/composer-drupal-optimizations": true,
             "php-http/discovery": true,
-            "tbachert/spi": true
+            "tbachert/spi": true,
+            "wikimedia/composer-merge-plugin": true
         }
     }
 }
