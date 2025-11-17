@@ -1,8 +1,0 @@
-uuid: 19ed31a8-c604-410b-9aba-19555513b022
-langcode: en
-status: true
-dependencies: {  }
-name: 'Knowledge Network'
-vid: knowledge_network
-description: 'Migrated from old site.'
-weight: 0

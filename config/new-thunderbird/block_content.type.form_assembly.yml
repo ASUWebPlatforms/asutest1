@@ -1,8 +1,0 @@
-uuid: a6a45c86-c4b4-49f8-94af-5314c39d9a66
-langcode: en
-status: true
-dependencies: {  }
-id: form_assembly
-label: 'Form Assembly'
-revision: 0
-description: ''

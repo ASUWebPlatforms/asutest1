@@ -1,8 +1,0 @@
-uuid: fe328b58-1918-4f88-9444-cdfdb7d4f5d3
-langcode: en
-status: true
-dependencies: {  }
-name: 'Case series years'
-vid: case_series_years
-description: 'Migrated from old site.'
-weight: 0

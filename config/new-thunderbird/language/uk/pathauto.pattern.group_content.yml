@@ -1,4 +1,0 @@
-label: 'Вміст групи'
-relationships:
-  'group_content:langcode:language':
-    label: Мова

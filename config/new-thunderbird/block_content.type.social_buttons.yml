@@ -1,8 +1,0 @@
-uuid: d03b4f20-8e16-4cc6-99a9-a6abcc37c1ce
-langcode: en
-status: true
-dependencies: {  }
-id: social_buttons
-label: 'Social Buttons'
-revision: 0
-description: ''

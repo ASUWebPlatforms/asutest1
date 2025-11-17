@@ -1,9 +1,0 @@
-uuid: dac6918d-c827-41db-b89e-786227e137ea
-langcode: en
-status: true
-dependencies: {  }
-id: ha
-label: Hausa
-direction: ltr
-weight: -12
-locked: false

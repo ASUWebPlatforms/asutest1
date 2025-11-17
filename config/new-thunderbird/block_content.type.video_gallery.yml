@@ -1,8 +1,0 @@
-uuid: 7bf018c8-92de-4a1a-92f7-665b23610765
-langcode: en
-status: true
-dependencies: {  }
-id: video_gallery
-label: 'Video Gallery'
-revision: 0
-description: ''

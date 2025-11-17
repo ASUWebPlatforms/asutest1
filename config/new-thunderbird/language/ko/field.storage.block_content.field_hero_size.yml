@@ -1,8 +1,0 @@
-settings:
-  allowed_values:
-    -
-      label: 작게
-    -
-      label: '중간길이 형식'
-    -
-      label: 크게

@@ -1,8 +1,0 @@
-image-resize:
-  css:
-    theme:
-      css/media_directories_editor.image-resize.css: {}
-  js:
-    js/media_directories_editor.image-resize.js: {}
-  dependencies:
-    - core/jquery

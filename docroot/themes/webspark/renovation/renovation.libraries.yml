@@ -6,11 +6,12 @@ style:
   js:
     assets/js/bootstrap.bundle.min.js: {}
     js/datalayer.js: {}
+    js/animated.js: {}
     # assets/js/renovation.script.js: {}
   dependencies:
     - core/jquery
     - core/drupal
-    - core/jquery.once
+    - core/once
 
 charts_graphs:
   js:
@@ -18,7 +19,7 @@ charts_graphs:
   dependencies:
     - core/jquery
     - core/drupal
-    - core/jquery.once
+    - core/once
 
 renovation.chartjs:
   remote: https://github.com/chartjs/Chart.js
@@ -35,3 +36,7 @@ layout_builder:
   css:
     theme:
       css/layout-builder.css: {}
+
+messages:
+  js:
+    js/messages.js: {}

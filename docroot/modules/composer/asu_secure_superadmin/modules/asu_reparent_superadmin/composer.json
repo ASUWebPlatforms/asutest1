@@ -1,6 +1,0 @@
-{
-    "name": "asuwebplatforms/asu_reparent_superadmin",
-    "description": "Reparent user content on ASU Drupal sites",
-    "type": "drupal-module",
-    "license": "MIT"
-}

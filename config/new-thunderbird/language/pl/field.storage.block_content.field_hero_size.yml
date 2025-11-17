@@ -1,8 +1,0 @@
-settings:
-  allowed_values:
-    -
-      label: Małe
-    -
-      label: Średnie
-    -
-      label: Duże

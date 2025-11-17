@@ -1,4 +1,0 @@
-title: 'You have a GDMI available to take! (15 minutes)'
-body:
-  value: "<p>Hello [First Name]!</p>\r\n\r\n<p>This is a reminder that you have a GDMI (Global Digital Mindset Inventory) available to take.&nbsp;<br />\r\n\LYou can take the GDMI here:<br />\r\n[Button directing to the GDMI]<br />\r\n\LIf you have any questions at all, reach out to your admin: [Primary Admin First Name] [Last Name] at [insert email address.]</p>\r\n\r\n<p>Expanding your global capabilities is just one click away.</p>\r\n"
-  format: full_html

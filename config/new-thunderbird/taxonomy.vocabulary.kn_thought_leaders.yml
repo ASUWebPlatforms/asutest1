@@ -1,8 +1,0 @@
-uuid: 41c7a4f8-ede0-4022-8d3f-8942b950cf79
-langcode: en
-status: true
-dependencies: {  }
-name: 'KN Thought Leaders'
-vid: kn_thought_leaders
-description: 'Migrated from old site.'
-weight: 0

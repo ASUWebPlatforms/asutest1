@@ -1,8 +1,0 @@
-uuid: 0b27bfd8-521e-4c0c-9eea-68872e2824ec
-langcode: en
-status: true
-dependencies: {  }
-name: 'Certificate type'
-vid: certificate_type
-description: ''
-weight: 0

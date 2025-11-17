@@ -1,7 +1,0 @@
-uuid: 5d272a74-3c7f-45e4-a212-75329d9d88d2
-langcode: en
-status: false
-dependencies: {  }
-formId: node_thunderbird_news_form
-captchaType: default
-label: node_thunderbird_news_form

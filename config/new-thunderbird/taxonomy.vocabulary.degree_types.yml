@@ -1,8 +1,0 @@
-uuid: 29c7c01c-16dd-416b-a67e-c9019a6d7d45
-langcode: en
-status: true
-dependencies: {  }
-name: 'Degree Types'
-vid: degree_types
-description: ''
-weight: 0

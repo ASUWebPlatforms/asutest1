@@ -1,5 +1,0 @@
-content:
-  field_body:
-    third_party_settings:
-      maxlength:
-        maxlength_js_label: 'Обмеження матеріалу у символах - @limit, залишилось - <strong>@remaining</strong>'

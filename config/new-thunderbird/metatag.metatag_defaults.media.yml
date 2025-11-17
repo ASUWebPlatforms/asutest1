@@ -1,8 +1,0 @@
-uuid: 6a153bc3-5063-477c-9873-ea47a3fd1672
-langcode: en
-status: true
-dependencies: {  }
-id: media
-label: Media
-tags:
-  canonical_url: '[media:url]'

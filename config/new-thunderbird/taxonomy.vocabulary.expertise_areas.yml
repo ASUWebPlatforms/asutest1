@@ -1,8 +1,0 @@
-uuid: d30ed083-902c-44c2-b202-3f9b71ac99a9
-langcode: en
-status: true
-dependencies: {  }
-name: 'Expertise Areas'
-vid: expertise_areas
-description: ''
-weight: 0

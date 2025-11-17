@@ -1,8 +1,0 @@
-uuid: 41f30a88-73d7-4368-93d1-d9a092887955
-langcode: en
-status: true
-dependencies: {  }
-name: 'Partnership areas'
-vid: partnership_area
-description: ''
-weight: 0

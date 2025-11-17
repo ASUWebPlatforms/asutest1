@@ -1,8 +1,0 @@
-uuid: 54303a44-0f90-43ca-963a-4f20bb5ff21b
-langcode: en
-status: true
-dependencies: {  }
-name: 'Certificate Tags'
-vid: certificate_tags
-description: ''
-weight: 0

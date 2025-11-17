@@ -1,8 +1,0 @@
-uuid: 91a29ec4-581b-4eb6-a9a4-cc8ab7cd8fa9
-langcode: en
-status: true
-dependencies: {  }
-name: 'Case series authors'
-vid: case_series_authors
-description: 'Migrated from old site.'
-weight: 0

@@ -1,5 +1,0 @@
-content:
-  order_items:
-    settings:
-      label_singular: 'item do pedido'
-      label_plural: 'Itens do ordem'

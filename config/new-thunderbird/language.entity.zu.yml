@@ -1,9 +1,0 @@
-uuid: e8285b0b-3283-4abd-a060-ff61824ad851
-langcode: en
-status: true
-dependencies: {  }
-id: zu
-label: Zulu
-direction: ltr
-weight: 19
-locked: false

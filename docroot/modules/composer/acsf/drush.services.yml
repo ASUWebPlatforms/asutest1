@@ -1,5 +1,0 @@
-services:
-  acsf.commands:
-    class: \Drupal\acsf\Commands\AcsfCommands
-    tags:
-      - { name: drush.command }

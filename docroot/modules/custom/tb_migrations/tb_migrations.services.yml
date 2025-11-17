@@ -1,7 +1,0 @@
-services:
-  tb_migrations.sync_aventri:
-    class: Drupal\tb_migrations\AventriSync
-    arguments: ['@config.factory']
-  tb_migrations.sync_isearch:
-    class: Drupal\tb_migrations\IsearchSync
-    arguments: ['@config.factory']

@@ -1,5 +1,0 @@
-{% set signpostVariation = "undefined"%}
-{% for item in items %} 
-  {# {{ item.content }}  #}
-  {% set signpostVariation = item.content|render|trim|lower %}
-{% endfor %}

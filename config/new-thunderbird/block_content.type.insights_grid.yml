@@ -1,8 +1,0 @@
-uuid: 5d092e44-3ca7-4061-afaf-8da8576f0839
-langcode: en
-status: true
-dependencies: {  }
-id: insights_grid
-label: 'Insights Grid'
-revision: 0
-description: ''

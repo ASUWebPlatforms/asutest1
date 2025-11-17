@@ -1,9 +1,0 @@
-# Custom module library for general purposes.
-tb_webform:
-  js:
-    js/tb-webform.js: {}
-  css:
-    component:
-      css/tb-webform.css: {}
-  dependencies:
-    - core/drupalSettings

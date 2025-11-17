@@ -1,6 +1,0 @@
-tb_migrations.settings_form:
-  title: Thunderbird Imports
-  description: Configure Thunderbird events & faculty importers.
-  parent: system.admin_config_system
-  route_name: tb_migrations.settings_form
-  weight: 10

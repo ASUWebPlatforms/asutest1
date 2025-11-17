@@ -11,6 +11,7 @@
 ] %}
 
 <div{{ attributes.addClass(classes) }}>
+  {{ content.field_anchor_menu_settings }}
   {{ title_prefix }}
   {% if label %}
     {% block label %}
@@ -18,10 +19,10 @@
     {% endblock %}
   {% endif %}
   {{ title_suffix }}
-  {{ content.field_anchor_menu_settings }}
   {% block content %}
     {% include '@renovation/cards/card-image-and-content.twig' with {
       image_background: file_url(content.field_media[0]['#media'].field_media_image.entity.uri.value),
+      image_alt: content.field_media[0]['#media'].field_media_image.alt,
       card: content.field_card,
       heading: content.field_heading,
       content: content.field_formatted_text[0],

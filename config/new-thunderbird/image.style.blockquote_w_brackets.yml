@@ -1,7 +1,0 @@
-uuid: 19063c34-2f3a-4eac-956f-1ca37fd63e2c
-langcode: en
-status: true
-dependencies: {  }
-name: blockquote_w_brackets
-label: 'Blockquote w/ brackets'
-effects: {  }

@@ -1,8 +1,0 @@
-uuid: 5c632899-32be-47f5-8e7a-3502bba957dd
-langcode: en
-status: true
-dependencies: {  }
-id: image_and_text_gdmi_block
-label: 'Signpost Full Width (GDMI)'
-revision: 0
-description: ''

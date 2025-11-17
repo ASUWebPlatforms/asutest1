@@ -1,4 +1,0 @@
-administer tb_webform configuration:
-  title: 'Administer tb_webform configuration'
-  description: 'Optional description.'
-  restrict access: true

@@ -1,9 +1,0 @@
-uuid: 29e7996f-3ce3-4005-a361-530b8062aac9
-langcode: en
-status: true
-dependencies: {  }
-id: my
-label: Burmese
-direction: ltr
-weight: -18
-locked: false

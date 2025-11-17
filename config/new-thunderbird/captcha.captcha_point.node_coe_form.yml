@@ -1,7 +1,0 @@
-uuid: b8d6cf5d-3504-46ba-9dc6-a1c7dfc5ab3a
-langcode: en
-status: false
-dependencies: {  }
-formId: node_coe_form
-captchaType: default
-label: node_coe_form
