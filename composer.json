@@ -10,7 +10,8 @@
         },
         {
             "type": "composer",
-            "url": "https://asset-packagist.org"
+            "url": "https://asset-packagist.org",
+            "exclude": ["npm-asset/fontawesome"]
         },
         {
             "type": "package",
@@ -36,6 +37,18 @@
                 "dist": {
                     "url": "https://registry.npmjs.org/@northernco/ckeditor5-anchor-drupal/-/ckeditor5-anchor-drupal-0.4.0.tgz",
                     "type": "tar"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor/fakeobjects",
+                "version": "4.16.0",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://download.ckeditor.com/fakeobjects/releases/fakeobjects_4.16.0.zip",
+                    "type": "zip"
                 }
             }
         },
@@ -107,7 +120,7 @@
         },
         "drupal-scaffold": {
             "locations": {
-                "web-root": "./web"
+                "web-root": "./docroot"
             },
             "allowed-packages": ["pantheon-systems/drupal-integrations"],
             "file-mapping": {
