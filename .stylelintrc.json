@@ -1,0 +1,7 @@
+{
+  "extends": "./docroot/core/.stylelintrc.json",
+  "customSyntax": "postcss-scss",
+  "ignoreFiles": [
+    "./node_modules/**/*"
+  ]
+}

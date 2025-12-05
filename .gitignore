@@ -1,167 +1,331 @@
-# :::::::::::::::::::::: cut ::::::::::::::::::::::
-
-# Put ignore patterns for build artifacts above the cut line
-# so they are ignored in the source repo and committed
-# to Pantheon.
-# This file contains .gitignore rules that are often used with Drupal projects.
-# Because .gitignore is specific to your site and its deployment processes, you
-# may need to uncomment, add, or remove rules.
-
-docroot/sites/default/default.services.pantheon.preproduction.yml
-docroot/sites/default/default.services.yml
-docroot/sites/default/default.settings.php
-docroot/sites/default/settings.pantheon.php
-docroot/sites/development.services.yml
-docroot/sites/example.settings.local.php
-
-# Pantheon commits a settings.php for environment-specific settings.
-# Place local settings in settings.local.php
-/docroot/sites/*/settings.local.php
-/docroot/sites/*/services*.yml
-!/docroot/sites/*/services.pantheon.*.yml
-!/docroot/sites/*/services.yml
+# This file will be copied into the root directory of the build artifact.
+local.*
+*.local
+local.blt.yml
 
 # Ignore paths that contain user-generated content.
 /docroot/sites/*/files
 /docroot/sites/*/private
+/files-private
 
-# Ignore SimpleTest multi-site environment.
+# Ignore build artifacts.
+/tmp/
+tmp/
+/reports/
+/travis_wait*
+
+# Node.js package manager.
+npm-debug.log
+
+# Profiler tools.
+xhprof_*
+
+# SASS artifacts.
+.sass-cache
+*.css.map
+
+# Vagrant virtual machines.
+/.vagrant/
+/Vagrantfile
+
+# Acquia Cli tool
+acquiacli.yml
+
+# OS files
+# ------------
+# - Linux
+# ------------
+# Reference: https://github.com/github/gitignore/blob/master/Global/Linux.gitignore
+
+*~
+
+# Handle open for deleted file.
+.fuse_hidden*
+.nfs*
+
+# KDE directory preferences.
+.directory
+
+# Linux trash folder.
+.Trash-*
+
+# ------------
+# - macOS
+# ------------
+# Reference: https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.*
+
+# Directories potentially created on remote AFP share
+.AppleDB/
+.AppleDesktop/
+Network Trash Folder/
+Temporary Items/
+.apdisk/
+
+# ------------
+# - Windows
+# ------------
+# Reference: https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
+
+# Thumbnail cache files.
+Thumbs.db
+ehthumbs*.db
+
+# Directory config file.
+Desktop.ini
+
+# Recycle or Trash.
+$RECYCLE.BIN/
+
+# Windows Installer files.
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Shortcuts.
+*.lnk
+
+# Editor files
+# - Reference: https://github.com/github/gitignore/tree/master/Global
+# ------------
+# - Eclipse
+# ------------
+
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# External tool builders.
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations".
+*.launch
+
+# PyDev specific (Python IDE for Eclipse).
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling).
+.cproject
+
+# CDT- autotools.
+.autotools
+
+# Java annotation processor (APT).
+.factorypath
+
+# PDT-specific (PHP Development Tools).
+.buildpath
+
+# sbteclipse plugin.
+.target
+
+# Tern plugin.
+.tern-project
+
+# TeXlipse plugin.
+.texlipse
+
+# STS (Spring Tool Suite).
+.springBeans
+
+# Code Recommenders.
+.recommenders/
+
+# Scala IDE specific (Scala & Java development for Eclipse).
+.cache-main
+.scala_dependencies
+.worksheet
+
+# ------------
+# - Emacs
+# ------------
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# flymake-mode.
+*_flymake.*
+
+# eshell files.
+/eshell/
+
+# elpa packages.
+/elpa/
+
+# reftex files.
+*.rel
+
+# AUCTeX auto folder.
+/auto/
+
+# cask packages.
+.cask/
+
+# Flycheck
+flycheck_*.el
+
+# server auth directory.
+/server/
+
+# projectiles files
+.projectile
+
+# directory configuration.
+.dir-locals.el
+
+
+# ------------
+# - JetBrains
+# ------------
+
+.idea/
+.idea_modules/
+*.iws
+
+# JIRA plugin.
+atlassian-ide-plugin.xml
+
+
+# ------------
+# - NetBeans
+# ------------
+
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+
+# ------------
+# - Sublime
+# ------------
+
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+*.sublime-settings
+
+/sftp-config.json
+/docroot/sftp-config.json
+
+# Package Control files.
+Package Control.*
+oscrypto-ca-bundle.crt
+bh_unicode_properties.cache
+
+
+# ------------
+# - Vim
+# ------------
+
+Session.vim
+
+# Swap files.
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# Temporary files.
+.netrwhist
+*~
+
+# ------------
+# - Prevent supply chain attacks
+# - Reference: https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/
+# ------------
+package.json
+package-lock.json
+# Allow package.json in webspark folder.
+!docroot/profiles/contrib/webspark/**/package.json
+!docroot/profiles/contrib/webspark/**/package-lock.json
+
+local.settings.php
+local.drush.yml
+local.site.yml
+local.services.yml
+deployment_identifier
+.phpcs-cache
+/vendor/
+/docroot/core/
+.vscode
+/docroot/google-calendar/google-api-php-client-main/vendor/
+
+# Ignore contrib drush commands.
+/drush/Commands/contrib/
+# Ignore drush aliases.
+/drush/sites/
+
+# Ignore ddev settings file.
+docroot/sites/default/settings.ddev.php
+
+# Other
+.stylelintcache
+/node_modules
+
+# Files and directories suggested to be ignored by Drupal
+# @see https://git.drupalcode.org/project/drupal/-/blob/9.3.x/example.gitignore
+#
+# We allow settings.php to be committed since Acquia's filesystem is read-only
+# @see https://www.drupal.org/project/drupal/issues/3257119
+/docroot/core
+/docroot/sites/*/settings.*.php
+/docroot/sites/*/services*.yml
 /docroot/sites/simpletest
 
-
-# Ignore custom modules managed by Composer.
-#
-# When a development team creates one or more custom modules that
-# are intended for use on more than one site, the typical strategy
-# is to register them in Packagist and give them the type
-# `drupal-custom-module` instead of `drupal-module`. This will cause
-# Composer to install them to the directory `modules/custom`.
-# This will cause a build error on Pantheon unless this location
-# is .gitignore'd as shown below.
-#
-# An alternate strategy for custom modules is to commit them
-# directly to the repository of the site where they are used. This
-# is commonly done with modules that are specific to just one site.
-#
-# Sites that have both Composer-managed custom modules and custom
-# modules that are committed directly to the repository may ignore
-# the `modules/custom` directory with the first rule shown below,
-# and then allow the locations to be committed on a case-by-case
-# basis by re-adding paths using `!` rules. A path that begins with
-# a `!` will allow a previously-ignored path to be added to the
-# repository. Note, however, that a path cannot be re-added if any
-# of its parent directories are excluded. This is why we use the
-# rule `/modules/custom/*` instead of `/modules/custom`. Alternately,
-# you might instead commit Git-tracked custom modules to some other
-# path, such as /docroot/modules/<site-namespace>.
-#
-# Sites that do not have any Composer-managed custom modules do
-# not need to use any of the `modules/custom` rules below.
-# ------------------------------------------------------------------
-#/docroot/modules/custom/*
-#!/docroot/modules/custom/module_in_repo
-/docroot/modules/webspark/webspark_ckeditor_plugins/node_modules
-
-# Ignore directories generated by Composer
-#
-# See the "installer-paths" section in the top-level composer.json
-# file.
-# ------------------------------------------------------------------
-/drush/Commands/contrib/
-/docroot/core/
-/docroot/modules/contrib/
-/docroot/themes/contrib/
-/docroot/profiles/contrib/
+# Directories specific to this template
 /docroot/libraries/
-/docroot/private/scripts/quicksilver
-/docroot/modules/composer/
-/docroot/themes/composer/
-/docroot/profiles/composer/
+/docroot/modules/contrib
+/docroot/themes/contrib
 
-# Ignore the directories generated by composer if it ran in the upstream directory.
-upstream/core/
-upstream/drush/
-upstream/modules/
-upstream/profiles/
-upstream/sites/
-upstream/themes/
-upstream/docroot/
+# Netbeans IDE
+nbproject
+nbproject/*
 
+# Drush 9 Checksums
+drush/sites/.checksums
 
-# Generally you should only ignore the root vendor directory. It's important
-# that core/assets/vendor and any other vendor directories within contrib or
-# custom module, theme, etc., are not ignored unless you purposely do so.
-/vendor/
+# Deprecation detector rules
+.rules
 
-# Ignore other scaffold files
-#
-# Ignore all files placed directly at the project root. Rely on
-# .gitignore files placed by drupal/core-composer-scaffold to avoid
-# build errors that arise if non-ignored files are scaffolded.
-# ------------------------------------------------------------------
-/docroot/.csslintrc
-/docroot/.editorconfig
-/docroot/.eslintignore
-/docroot/.eslintrc.json
-/docroot/.gitattributes
-/docroot/.gitignore
-/docroot/.ht.router.php
-/docroot/.htaccess
-/docroot/INSTALL.txt
-/docroot/README.txt
-/docroot/autoload.php
-/docroot/example.gitignore
-/docroot/index.php
-/docroot/robots.txt
-/docroot/update.php
-/docroot/web.config
-/docroot/modules/README.txt
-/docroot/profiles/README.txt
-/docroot/sites/README.txt
-/docroot/sites/default/default.services.yml
-/docroot/sites/default/default.services.pantheon.preproduction.yml
-/docroot/sites/default/default.settings.php
-/docroot/sites/default/config/.htaccess
-/docroot/sites/default/config/README
-/docroot/sites/development.services.yml
-/docroot/sites/example.settings.local.php
-/docroot/sites/example.sites.php
-/docroot/themes/README.txt
-/.gitattributes
+# PHPUnit
+.phpunit.result.cache
 
-# The pantheon-systems/drupal-integrations project places a
-# .drush-lock-update file at the project root.
-/.drush-lock-update
+# Drupal check report.
+drupal-check-report.xml
 
-# The drupal/core-composer-scaffold component will write .gitignore
-# files to other locations where it scaffolds files that are not
-# already ignored. We must also ignore these generated files.
-/docroot/**/.gitignore
+# oauth keys
+oauth_keys/
 
+# env-file
+/.env*
 
-# Other common rules
-# ------------------
-# Ignore files generated by IDEs
-.idea
-.vscode
-
-# Ignore files generated by local development tools
-.ddev
-.lando
-
-# Ignore .env files as they are personal
-/.env
-
-# Ignore local .gitignore changes with .git/info/exclude and a symbolic link via .gitignore_local
-/.gitignore_local
-
-# Other ignores
-.DS_Store
-*.sql
-*.gz
-
-# Ignore the generated composer.patches.json file
-/composer.patches.json
-
-# Ignore the auth.json file
-auth.json

@@ -1,8 +1,110 @@
 {
-    "name": "asuwebplatforms/webspark-ci",
-    "description": "Install Drupal 9 with Composer on Pantheon.",
+    "name": "asufactory1/asufactory1",
     "type": "project",
-    "license": "MIT",
+    "description": "Drupal installation for ASU Acquia websites",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "wikimedia/composer-merge-plugin": "2.1.0",
+        "asuwebplatforms/webspark": "*",
+        "asu/custom-dependencies": "*"
+    },
+    "extra": {
+        "merge-plugin": {
+            "require": [
+                "docroot/modules/contrib/webform/composer.libraries.json"
+            ],
+            "recurse": true,
+            "replace": false,
+            "ignore-duplicates": false,
+            "merge-dev": true,
+            "merge-extra": false,
+            "merge-extra-deep": false,
+            "merge-replace": true,
+            "merge-scripts": true
+        },
+        "drupal-scaffold": {
+            "allowed-packages": ["drupal/core"],
+            "locations": {
+                "web-root": "./docroot"
+            },
+            "file-mapping": {
+                "[web-root]/.htaccess": false,
+                "[web-root]/robots.txt": false,
+                "[profile-root]/.editorconfig": false,
+                "[profile-root]/.gitattributes": false,
+                "[profile-root]/.coveralls.yml": false,
+                "[profile-root]/.travis.yml": false,
+                "[profile-root]/.gitignore": false,
+                "[profile-root]/acquia-pipelines.yml": false,
+                "[profile-root]/grumphp.yml": false
+            },
+            "gitignore": true,
+            "excludes": [".htaccess"]
+        },
+        "enable-patching": true,
+        "patches-file": "composer.patches.json",
+        "installer-paths": {
+            "docroot/core": ["type:drupal-core"],
+            "docroot/libraries/{$name}": [
+                "type:drupal-library",
+                "type:bower-asset",
+                "type:npm-asset"
+            ],
+            "docroot/modules/contrib/{$name}": ["type:drupal-module"],
+            "docroot/profiles/contrib/{$name}": ["type:drupal-profile"],
+            "docroot/themes/contrib/{$name}": ["type:drupal-theme"],
+            "docroot/modules/custom/{$name}": ["type:drupal-custom-module"],
+            "docroot/profiles/custom/{$name}": ["type:drupal-custom-profile"],
+            "docroot/themes/custom/{$name}": ["type:drupal-custom-theme"],
+            "drush/Commands/contrib/{$name}": ["type:drupal-drush"],
+            "docroot/libraries/ckeditor/plugins/{$name}": ["vendor:ckeditor-plugin"]
+        },
+        "installer-types": [
+            "bower-asset",
+            "npm-asset"
+        ],
+        "patchLevel": {
+            "drupal/core": "-p2"
+        }
+    },
+    "autoload": {
+        "classmap": [
+            "webspark-dependencies/scripts/ComposerScripts.php",
+            "webspark-dependencies/scripts/CustomComposerScripts.php"
+        ]
+    },
+    "scripts": {
+        "pre-autoload-dump": ["bash webspark-dependencies/scripts/pre-autoload-check"],
+        "nuke": [
+            "rm -rf composer.lock deploy docroot vendor",
+            "@composer clearcache --ansi",
+            "@composer install --ansi"
+        ],
+        "pre-command-run": [
+            "WebsparkCustomScripts\\CustomComposerScripts::checkCommand",
+            "WebsparkCustomScripts\\ComposerScripts::writeComposerPatchFile",
+            "bash docroot/profiles/contrib/webspark/sync-dependencies"
+        ],
+        "pre-update-cmd": ["WebsparkCustomScripts\\ComposerScripts::preUpdate"],
+        "post-update-cmd": [
+            "WebsparkCustomScripts\\ComposerScripts::postUpdate",
+            "bash scripts/google-calendar-post-install.sh",
+            "rm -rf docroot/simplesaml && ln -s ../vendor/simplesamlphp/simplesamlphp/public docroot/simplesaml",
+            "rm -rf vendor/simplesamlphp/simplesamlphp/config && ln -sf ../../../private/simplesamlphp/config vendor/simplesamlphp/simplesamlphp/config"
+        ],
+        "post-install-cmd": [
+            "bash scripts/google-calendar-post-install.sh",
+            "rm -rf docroot/simplesaml && ln -s ../vendor/simplesamlphp/simplesamlphp/public docroot/simplesaml",
+            "rm -rf vendor/simplesamlphp/simplesamlphp/config && ln -sf ../../../private/simplesamlphp/config vendor/simplesamlphp/simplesamlphp/config"
+        ],
+        "custom-require": ["WebsparkCustomScripts\\CustomComposerScripts::customRequire"],
+        "custom-remove": ["WebsparkCustomScripts\\CustomComposerScripts::customRemove"],
+        "phpstan": "./vendor/bin/phpstan analyze --memory-limit=512M docroot/profiles/contrib/webspark",
+        "phpcs": "./vendor/bin/phpcs -n -d memory_limit=512M --standard=Drupal,DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md,yml --ignore=node_modules,bower_components,vendor --colors docroot/profiles/contrib/webspark",
+        "phpcbf": "./vendor/bin/phpcbf -n -d memory_limit=512M --standard=Drupal,DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md,yml --ignore=node_modules,bower_components,vendor --colors docroot/profiles/contrib/webspark",
+        "lint-custom": "find web/modules/custom web/themes/custom -name '*.php' -exec php -l {} \\;",
+        "lint-webspark": "find docroot/profiles/contrib/webspark -name '*.php' -exec php -l {} \\;"
+    },
     "repositories": [
         {
             "type": "composer",
@@ -10,8 +112,16 @@
         },
         {
             "type": "composer",
-            "url": "https://asset-packagist.org",
-            "exclude": ["npm-asset/fontawesome"]
+            "url": "https://asset-packagist.org"
+        },
+        {
+            "type": "path",
+            "url": "custom-dependencies"
+        },
+        {
+            "type": "path",
+            "name": "asuwebplatforms/webspark",
+            "url": "docroot/profiles/contrib/webspark"
         },
         {
             "type": "package",
@@ -43,6 +153,274 @@
         {
             "type": "package",
             "package": {
+                "name": "desandro/imagesloaded",
+                "version": "3.2.0",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/desandro/imagesloaded/archive/v3.2.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "desandro/masonry",
+                "version": "3.3.2",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/desandro/masonry/archive/v3.3.2.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "enyo/dropzone",
+                "version": "4.3.0",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/enyo/dropzone/archive/v4.3.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "jackocnr/intl-tel-input",
+                "version": "16.1.0",
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.intl-tel-input"
+                },
+                "dist": {
+                    "url": "https://github.com/jackocnr/intl-tel-input/archive/v16.1.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "dinbror/blazy",
+                "version": "1.8.2",
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "blazy"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/dinbror/blazy",
+                    "reference": "1.8.2"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "slick/slick",
+                "version": "v1.9.0",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/kenwheeler/slick/archive/master.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "jackmoore/colorbox",
+                "version": "1.6.4",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/jackmoore/colorbox/archive/1.6.4.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "harvesthq/chosen",
+                "version": "1.8.7",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/harvesthq/chosen/releases/download/v1.8.7/chosen_v1.8.7.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ASU-KE/brassring-job-postings"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "michalsnik/aos",
+                "type": "drupal-library",
+                "version": "3.0.0-beta.6",
+                "dist": {
+                    "url": "https://github.com/michalsnik/aos/archive/master.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "cure/dompurify",
+                "version": "3.1.5",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/cure53/DOMPurify/archive/refs/tags/3.1.5.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "woocommerce/flexslider",
+                "version": "2.7.2",
+                "type": "drupal-library",
+                "source": {
+                    "url": "https://github.com/woocommerce/FlexSlider.git",
+                    "type": "git",
+                    "reference": "2.7.2"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor/indentblock",
+                "version": "4.23.0",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://download.ckeditor.com/indentblock/releases/indentblock_4.23.0-lts.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor/templates",
+                "type": "drupal-library",
+                "version": "4.11.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/templates/releases/templates_4.11.1.zip",
+                    "reference": "master"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor-plugin/uploadimage",
+                "version": "4.8.0",
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "uploadimage"
+                },
+                "dist": {
+                    "url": "https://download.ckeditor.com/uploadimage/releases/uploadimage_4.8.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor-plugin/uploadwidget",
+                "version": "4.8.0",
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "uploadwidget"
+                },
+                "dist": {
+                    "url": "https://download.ckeditor.com/uploadwidget/releases/uploadwidget_4.8.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor-plugin/filetools",
+                "version": "4.8.0",
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "filetools"
+                },
+                "dist": {
+                    "url": "https://download.ckeditor.com/filetools/releases/filetools_4.8.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor-plugin/notification",
+                "version": "4.8.0",
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "notification"
+                },
+                "dist": {
+                    "url": "https://download.ckeditor.com/notification/releases/notification_4.8.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor-plugin/notificationaggregator",
+                "version": "4.8.0",
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "notificationaggregator"
+                },
+                "dist": {
+                    "url": "https://download.ckeditor.com/notificationaggregator/releases/notificationaggregator_4.8.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor-plugin/wsc",
+                "version": "4.16.0",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://download.ckeditor.com/wsc/releases/wsc_4.16.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "ckeditor/link",
+                "version": "4.16.1",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://download.ckeditor.com/link/releases/link_4.16.1.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "ckeditor/fakeobjects",
                 "version": "4.16.0",
                 "type": "drupal-library",
@@ -51,139 +429,34 @@
                     "type": "zip"
                 }
             }
-        },
-        {
-            "type": "path",
-            "url": "upstream-configuration"
-        },
-        {
-            "type": "path",
-            "url": "custom-dependencies"
         }
     ],
-    "require": {
-        "pantheon-upstreams/upstream-configuration": "*",
-        "webspark/custom-dependencies": "*"
-    },
-    "require-dev": {
-        "behat/behat": "3.14.0",
-        "behat/mink-goutte-driver": "2.0",
-        "dmore/behat-chrome-extension": "1.4.0",
-        "drupal/core-dev": "10.2.10",
-        "drupal/drupal-driver": "2.2.2",
-        "drupal/drupal-extension": "5.0.0",
-        "genesis/behat-fail-aid": "3.7.5",
-        "nuvoleweb/drupal-behat": "1.3.0",
-        "palantirnet/drupal-rector": "0.20.3",
-        "phpstan/phpstan-deprecation-rules": "^1.2",
-        "sirbrillig/phpcs-changed": "v2.11.4"
-    },
-    "replace": {
-        "asu_modules/asu_brand": "self.version",
-        "asu_modules/asu_config_utility": "self.version",
-        "asu_modules/asu_react_core": "self.version",
-        "asu_modules/asu_react_integration": "self.version",
-        "asu_modules/asu_user": "self.version"
-    },
-    "conflict": {
-        "drupal/drupal": "*"
-    },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "extra": {
-        "enable-patching": true,
-        "patches-file": "composer.patches.json",
-        "composer-exit-on-patch-failure": true,
-        "patchLevel": {
-            "drupal/core": "-p2"
-        },
-        "installer-types": [
-            "npm-asset",
-            "bower-asset"
-        ],
-        "installer-paths": {
-            "docroot/core": ["type:drupal-core"],
-            "docroot/libraries/{$name}": [
-                "type:drupal-library",
-                "type:npm-asset",
-                "type:bower-asset"
-            ],
-            "docroot/modules/composer/{$name}": ["type:drupal-module"],
-            "docroot/profiles/composer/{$name}": ["type:drupal-profile"],
-            "docroot/themes/composer/{$name}": ["type:drupal-theme"],
-            "drush/Commands/contrib/{$name}": ["type:drupal-drush"],
-            "docroot/modules/custom/{$name}": ["type:drupal-custom-module"],
-            "docroot/profiles/custom/{$name}": ["type:drupal-custom-profile"],
-            "docroot/themes/custom/{$name}": ["type:drupal-custom-theme"],
-            "docroot/private/scripts/quicksilver/{$name}/": ["type:quicksilver-script"],
-            "docroot/libraries/ckeditor/plugins/{$name}": ["vendor:ckeditor-plugin"]
-        },
-        "drupal-scaffold": {
-            "locations": {
-                "web-root": "./docroot"
-            },
-            "allowed-packages": ["pantheon-systems/drupal-integrations"],
-            "file-mapping": {
-                "[project-root]/.editorconfig": false,
-                "[project-root]/pantheon.upstream.yml": false,
-                "[project-root]/.gitattributes": false,
-                "[web-root]/robots.txt": false
-            }
-        },
-        "build-env": {
-            "export-configuration": "drush config-export --yes"
-        }
-    },
-    "autoload": {
-        "classmap": [
-            "upstream-configuration/scripts/ComposerScripts.php",
-            "custom-dependencies/scripts/CustomComposerScripts.php"
-        ]
-    },
-    "scripts": {
-        "pre-command-run": [
-            "WebsparkCustomScripts\\CustomComposerScripts::checkCommand",
-            "DrupalComposerManaged\\ComposerScripts::writeComposerPatchFile"
-        ],
-        "unit-test": "echo 'No unit test step defined.'",
-        "lint": "find docroot/modules/custom docroot/themes/custom -name '*.php' -exec php -l {} \\;",
-        "code-sniff": [
-            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/modules/custom",
-            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/themes/custom",
-            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/modules/custom",
-            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/themes/custom"
-        ],
-        "lint-webspark": "find docroot/profiles/webspark docroot/modules/webspark docroot/themes/webspark -name '*.php' -exec php -l {} \\;",
-        "code-sniff-webspark": [
-            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/profiles/webspark",
-            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/modules/webspark",
-            "./vendor/bin/phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/themes/webspark",
-            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/profiles/webspark",
-            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/modules/webspark",
-            "./vendor/bin/phpcs --standard=DrupalPractice --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md --ignore=node_modules,bower_components,vendor ./docroot/themes/webspark"
-        ],
-        "pre-update-cmd": ["DrupalComposerManaged\\ComposerScripts::preUpdate"],
-        "post-update-cmd": ["DrupalComposerManaged\\ComposerScripts::postUpdate"],
-        "custom-require": ["WebsparkCustomScripts\\CustomComposerScripts::customRequire"],
-        "custom-remove": ["WebsparkCustomScripts\\CustomComposerScripts::customRemove"]
-    },
     "config": {
-        "preferred-install": "dist",
-        "sort-packages": true,
-        "platform": {
-            "php": "8.3.0"
-        },
         "allow-plugins": {
-            "composer/installers": true,
-            "cweagans/composer-patches": true,
-            "dealerdirect/phpcodesniffer-composer-installer": true,
             "drupal/core-composer-scaffold": true,
+            "composer/installers": true,
+            "ergebnis/composer-normalize": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
             "oomphinc/composer-installers-extender": true,
-            "phpstan/extension-installer": true,
-            "zaporylie/composer-drupal-optimizations": true,
             "php-http/discovery": true,
-            "tbachert/spi": true,
-            "wikimedia/composer-merge-plugin": true
+            "zaporylie/composer-drupal-optimizations": true,
+            "yiisoft/yii2-composer": true,
+            "simplesamlphp/composer-xmlprovider-installer": true,
+            "mnsami/composer-custom-directory-installer": true,
+            "wikimedia/composer-merge-plugin": true,
+            "simplesamlphp/composer-module-installer": true,
+            "cweagans/composer-patches": true,
+            "phpstan/extension-installer": true
+        },
+        "audit": {
+            "block-insecure": false
         }
+    },
+    "require-dev": {
+        "phpstan/phpstan": "1.12.32",
+        "phpstan/extension-installer": "1.4.3",
+        "drupal/coder": "8.3.30"
     }
 }

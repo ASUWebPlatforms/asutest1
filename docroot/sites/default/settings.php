@@ -5,7 +5,6 @@
  */
 $settings['container_yamls'][] = __DIR__ . '/services.yml';
 
-
 /**
  * Skipping permissions hardening will make scaffolding
  * work better, but will also raise a warning when you
@@ -16,38 +15,14 @@ $settings['container_yamls'][] = __DIR__ . '/services.yml';
 // $settings['skip_permissions_hardening'] = TRUE;
 
 /**
- * Enable the configuration readonly functionality.
- */
-if (PHP_SAPI !== 'cli') {
-  $settings['config_readonly'] = FALSE;
-}
-
-/**
- * Allow all configuration to be changed.
- */
-$settings['config_readonly_whitelist_patterns'] = ['*'];
-
-/**
- * Allow files to be deleted from the file system, similar to Drupal 7.
- * See: https://www.drupal.org/node/2891902
- */
-$config['file.settings']['make_unused_managed_files_temporary'] = TRUE;
-
-/**
  * If there is a local settings file, then include it
  */
 $local_settings = __DIR__ . "/settings.local.php";
-
 if (file_exists($local_settings)) {
   include $local_settings;
-}
-
-// Automatically generated include for settings managed by ddev.
-$ddev_settings = dirname(__FILE__) . '/settings.ddev.php';
-if (getenv('IS_DDEV_PROJECT') == 'true' && is_readable($ddev_settings)) {
-  require $ddev_settings;
 }
 
 if (file_exists('/var/www/site-php')) {
   require '/var/www/site-php/asutest1/asutest1-settings.inc';
 }
+
