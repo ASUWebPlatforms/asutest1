@@ -11,7 +11,7 @@ class AsuBrandHelperFunctions {
   /**
    * @return array - Search URL for ASU.edu searches routed to Google, local host name (TLD) for Elastic search results
    */
-  public function getSearchHos() {
+  public function getSearchHosts() {
     $search_config = \Drupal::config('asu_brand.settings');
     $asu_search_url = $search_config->get('asu_brand.asu_brand_search_url') ?? '';
     // Domain-specific results host
