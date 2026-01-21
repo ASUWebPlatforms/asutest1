@@ -25,29 +25,26 @@ jobs:
         with:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.PRIVATE_KEY }}
-
+      # Check out the full repository history to ensure we can mirror all branches and tags.
       - name: Checkout repository (full history)
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ steps.app-token.outputs.token }}
-
+      # Set up SSH for Acquia Code Studio
       - name: Set up SSH for Acquia
         uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.ACQUIA_SSH_PRIVATE_KEY }}
-
+      # Add Acquia to known_hosts and configure SSH key
       - name: Add Acquia to known_hosts
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.ACQUIA_SSH_PRIVATE_KEY }}" > ~/.ssh/acquia_ed25519
           chmod 600 ~/.ssh/acquia_ed25519
           ssh-keyscan gitcode.acquia.com >> ~/.ssh/known_hosts
-
+      # Add Acquia remote
       - name: Add Acquia remote
-        env:
-          ACQUIA_CLIENT_GROUP: ${{ secrets.ACQUIA_CLIENT_GROUP }}
-          ACQUIA_PROJECT: ${{ secrets.ACQUIA_PROJECT }}
         run: |
           git remote add acquia git@gitcode.acquia.com:${{ vars.ACQUIA_CLIENT_GROUP }}/${{ vars.ACQUIA_PROJECT }}.git
 
@@ -68,6 +65,7 @@ jobs:
 #            exit 1
 #          fi
 
+      # Mirror all branches and tags to Acquia Code Studio
       - name: Mirror GitHub → Acquia
         run: |
           if ! git push --prune acquia --all; then
