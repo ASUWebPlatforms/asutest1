@@ -51,6 +51,7 @@ jobs:
         run: |
           git remote add acquia git@gitcode.acquia.com:${{ vars.ACQUIA_CLIENT_GROUP }}/${{ vars.ACQUIA_PROJECT }}.git
 
+#      Possibly turn this on after we have cut over to using GitHub as the main repository.
 #      - name: "Guard: ensure Acquia has no unique commits"
 #        run: |
 #          git fetch acquia --prune
