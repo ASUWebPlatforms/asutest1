@@ -1,0 +1,78 @@
+name: Mirror repository to Acquia Code Studio
+
+on:
+  push:
+    branches:
+      - '**'
+    tags:
+      - '**'
+  # Allow us to manually trigger the workflow
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Utilize a GitHub App to generate a temporary token for access to the various repositories.
+      # This allows us to avoid hard coding a personal access token.
+      # Inspired by https://devopsjournal.io/blog/2022/01/03/GitHub-Tokens
+      # but we are using a newer, better, official GitHub action instead of
+      # the community contributed one used in the blog post.
+      - name: Generate GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+      # Check out the full repository history to ensure we can mirror all branches and tags.
+      - name: Checkout repository (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ steps.app-token.outputs.token }}
+      # Set up SSH for Acquia Code Studio
+      - name: Set up SSH for Acquia
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.ACQUIA_SSH_PRIVATE_KEY }}
+      # Add Acquia to known_hosts and configure SSH key
+      - name: Add Acquia to known_hosts
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.ACQUIA_SSH_PRIVATE_KEY }}" > ~/.ssh/acquia_ed25519
+          chmod 600 ~/.ssh/acquia_ed25519
+          ssh-keyscan gitcode.acquia.com >> ~/.ssh/known_hosts
+      # Add Acquia remote
+      - name: Add Acquia remote
+        run: |
+          git remote add acquia git@gitcode.acquia.com:${{ vars.ACQUIA_CLIENT_GROUP }}/${{ vars.ACQUIA_PROJECT }}.git
+
+#      Possibly turn this on after we have cut over to using GitHub as the main repository.
+#      - name: "Guard: ensure Acquia has no unique commits"
+#        run: |
+#          git fetch acquia --prune
+#
+#          # Find any commits that exist in Acquia but not in GitHub
+#          EXTRA_COMMITS=$(git log --oneline --branches --remotes=acquia \
+#            --not --remotes=origin || true)
+#
+#          if [ -n "$EXTRA_COMMITS" ]; then
+#            echo "❌ Acquia contains commits not present in GitHub."
+#            echo "This indicates someone pushed directly to Acquia."
+#            echo
+#            echo "$EXTRA_COMMITS"
+#            exit 1
+#          fi
+
+      # Mirror all branches and tags to Acquia Code Studio
+      - name: Mirror GitHub → Acquia
+        run: |
+          if ! git push --prune acquia --all; then
+            echo "❌ Failed to mirror branches to Acquia."
+            exit 1
+          fi
+          if ! git push --prune acquia --tags; then
+            echo "❌ Failed to mirror tags to Acquia."
+            exit 1
+          fi
