@@ -68,11 +68,14 @@ jobs:
       # Mirror all branches and tags to Acquia Code Studio
       - name: Mirror GitHub → Acquia
         run: |
-          if ! git push --prune acquia --all; then
-            echo "❌ Failed to mirror branches to Acquia."
-            exit 1
+          # Mirror branches
+          if ! git push acquia +refs/heads/*:refs/heads/*; then
+          echo "❌ Failed to mirror branches to Acquia."
+          exit 1
           fi
-          if ! git push --prune acquia --tags; then
-            echo "❌ Failed to mirror tags to Acquia."
-            exit 1
+  
+          # Mirror tags
+          if ! git push acquia +refs/tags/*:refs/tags/* --prune; then
+          echo "❌ Failed to mirror tags to Acquia."
+          exit 1
           fi
