@@ -12,7 +12,7 @@ Composer.
 For more information and detailed installation guides, please visit the
 Integrated Composer Pantheon documentation: https://pantheon.io/docs/integrated-composer
 
-## Contributing
+## Contributing 
 
 Contributions are welcome in the form of GitHub pull requests. However, the
 `pantheon-upstreams/drupal-project` repository is a mirror that does not
